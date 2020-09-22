@@ -1,0 +1,3 @@
+1811-otp,6974-openapi-generator
+binary.c,binary.c,\erts\emulator\beam\binary.c,\samples\client\petstore\c\src\binary.c,1336,55,11
+highlight.js,highlight.js,\lib\erl_docgen\priv\js\highlight.js,\samples\client\petstore\haskell-http-client\docs\src\highlight.js,39,23,5

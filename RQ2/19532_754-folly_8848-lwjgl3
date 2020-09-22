@@ -1,0 +1,6 @@
+754-folly,8848-lwjgl3
+Utils.h,Utils.h,\folly\compression\Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,37,83,8
+Logger.h,Logger.h,\folly\logging\Logger.h,\modules\lwjgl\driftfx\src\main\c\lib\utils\include\utils\Logger.h,81,27,0
+Utils.h,Utils.h,\folly\experimental\coro\Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,33,83,7
+pool.h,pool.h,\folly\experimental\pushmi\examples\pool.h,\modules\lwjgl\zstd\src\main\c\common\pool.h,60,22,1
+error.h,error.h,\folly\experimental\pushmi\o\error.h,\modules\lwjgl\tootle\src\main\c\error.h,33,53,0

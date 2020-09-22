@@ -1,0 +1,5 @@
+5868-libvips,8874-collectd
+zone.c,zone.c,\libvips\create\zone.c,\src\zone.c,48,136,5
+csv.c,csv.c,\libvips\foreign\csv.c,\src\csv.c,511,216,31
+memory.c,memory.c,\libvips\iofuncs\memory.c,\src\memory.c,199,314,28
+match.c,match.c,\libvips\mosaicing\match.c,\src\utils\match\match.c,240,278,9

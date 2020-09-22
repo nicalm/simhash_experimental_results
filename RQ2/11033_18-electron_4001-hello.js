@@ -1,0 +1,17 @@
+18-electron,4001-hello.js
+index.js,index.js,\npm\index.js,\assets\index.js,15,1114,3
+index.js,index.js,\npm\index.js,\assets\expect\index.js,15,806,4
+index.js,index.js,\npm\index.js,\tests\specs\index.js,15,39,2
+index.js,index.js,\spec-main\index.js,\assets\index.js,75,1114,6
+index.js,index.js,\spec-main\index.js,\assets\expect\index.js,75,806,6
+index.js,index.js,\spec-main\index.js,\tests\specs\index.js,75,39,2
+utils.js,utils.js,\script\lib\utils.js,\assets\knockout\src\utils.js,74,492,15
+index.js,index.js,\script\release\notes\index.js,\assets\index.js,149,1114,27
+index.js,index.js,\script\release\notes\index.js,\assets\expect\index.js,149,806,28
+index.js,index.js,\script\release\notes\index.js,\tests\specs\index.js,149,39,2
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\assets\index.js,17,1114,0
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\assets\expect\index.js,17,806,0
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\tests\specs\index.js,17,39,0
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\assets\index.js,33,1114,1
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\assets\expect\index.js,33,806,2
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\tests\specs\index.js,33,39,1

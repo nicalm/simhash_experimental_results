@@ -1,0 +1,5 @@
+10093-VeraCrypt,2496-proxygen
+Exception.h,Exception.h,\src\Common\Exception.h,\proxygen\lib\utils\Exception.h,88,38,4
+Exception.h,Exception.h,\src\Platform\Exception.h,\proxygen\lib\utils\Exception.h,87,38,6
+Time.h,Time.h,\src\Platform\Time.h,\proxygen\lib\utils\Time.h,17,134,3
+Main.cpp,Main.cpp,\src\Main\Unix\Main.cpp,\proxygen\lib\http\codec\compress\experimental\simulator\Main.cpp,98,68,8

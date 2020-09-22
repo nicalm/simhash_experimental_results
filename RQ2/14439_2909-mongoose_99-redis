@@ -1,0 +1,7 @@
+2909-mongoose,99-redis
+server.c,server.c,\examples\connected_device_1\server.c,\src\server.c,31,3476,9
+server.c,server.c,\examples\connected_device_2\server.c,\src\server.c,62,3476,19
+server.c,server.c,\examples\connected_device_3\server.c,\src\server.c,70,3476,20
+server.c,server.c,\examples\connected_device_4\server.c,\src\server.c,85,3476,24
+test.c,test.c,\test\ccgi-1.2\t\test.c,\deps\hiredis\test.c,125,687,24
+test.c,test.c,\test\ccgi-1.2\t\test.c,\deps\jemalloc\test\src\test.c,125,168,20

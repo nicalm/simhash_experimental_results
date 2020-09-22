@@ -1,0 +1,13 @@
+13536-activemq,24-node
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\benchmark\common.js,78,273,20
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\tools\doc\common.js,78,30,7
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\deps\npm\node_modules\glob\common.js,78,190,14
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\deps\npm\node_modules\node-fetch-npm\src\common.js,78,48,8
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\deps\npm\node_modules\util-promisify\test\common.js,78,43,6
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\deps\v8\test\js-perf-test\Collections\common.js,78,35,9
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\tools\node_modules\eslint\node_modules\glob\common.js,78,190,14
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\tools\node_modules\babel-eslint\node_modules\debug\src\common.js,78,149,16
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\tools\node_modules\eslint\node_modules\debug\src\common.js,78,149,16
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\tools\node_modules\eslint\node_modules\js-yaml\lib\js-yaml\common.js,78,39,9
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\deps\v8\test\mjsunit\prototype.js,4042,44,4
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\deps\v8\test\mjsunit\prototype.js,1446,44,4

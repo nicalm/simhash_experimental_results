@@ -1,0 +1,4 @@
+5091-LFLiveKit,6883-Sigil
+error.c,error.c,\LFLiveKit\Vendor\pili-librtmp\error.c,\internal\gumbo\error.c,17,221,6
+error.h,error.h,\LFLiveKit\Vendor\pili-librtmp\error.h,\internal\gumbo\error.h,37,114,1
+log.c,log.c,\LFLiveKit\Vendor\pili-librtmp\log.c,\3rdparty\hunspell\intl\log.c,141,82,15

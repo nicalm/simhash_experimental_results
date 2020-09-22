@@ -1,0 +1,7 @@
+5091-LFLiveKit,551-FFmpeg
+error.c,error.c,\LFLiveKit\Vendor\pili-librtmp\error.c,\libavutil\error.c,17,106,4
+error.h,error.h,\LFLiveKit\Vendor\pili-librtmp\error.h,\libavutil\error.h,37,49,1
+log.c,log.c,\LFLiveKit\Vendor\pili-librtmp\log.c,\libavutil\log.c,141,360,24
+log.c,log.c,\LFLiveKit\Vendor\pili-librtmp\log.c,\libavutil\tests\log.c,141,47,11
+log.h,log.h,\LFLiveKit\Vendor\pili-librtmp\log.h,\libavutil\log.h,35,77,3
+rtmp.h,rtmp.h,\LFLiveKit\Vendor\pili-librtmp\rtmp.h,\libavformat\rtmp.h,264,16,1

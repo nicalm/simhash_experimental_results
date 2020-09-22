@@ -1,0 +1,11 @@
+11072-cryptopp,551-FFmpeg
+blowfish.h,blowfish.h,\blowfish.h,\libavutil\blowfish.h,31,15,1
+cpu.h,cpu.h,\cpu.h,\libavutil\cpu.h,669,52,1
+cpu.h,cpu.h,\cpu.h,\libavutil\x86\cpu.h,669,88,1
+crc.h,crc.h,\crc.h,\libavutil\crc.h,52,23,1
+filters.h,filters.h,\filters.h,\libavfilter\filters.h,711,70,5
+hmac.h,hmac.h,\hmac.h,\libavutil\hmac.h,45,22,2
+integer.h,integer.h,\integer.h,\libavutil\integer.h,193,19,1
+md5.h,md5.h,\md5.h,\libavutil\md5.h,25,22,5
+ripemd.h,ripemd.h,\ripemd.h,\libavutil\ripemd.h,34,16,1
+sha.h,sha.h,\sha.h,\libavutil\sha.h,56,17,2

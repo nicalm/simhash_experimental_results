@@ -1,0 +1,4 @@
+2575-scipy,551-FFmpeg
+gamma.c,gamma.c,\scipy\special\cephes\gamma.c,\libswscale\gamma.c,225,39,8
+convert.py,convert.py,\scipy\special\utils\convert.py,\tools\python\convert.py,165,28,2
+rectangle.h,rectangle.h,\scipy\spatial\ckdtree\src\rectangle.h,\libavcodec\rectangle.h,157,85,2

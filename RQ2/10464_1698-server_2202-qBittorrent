@@ -1,0 +1,4 @@
+1698-server,2202-qBittorrent
+login.js,login.js,\core\src\login.js,\src\webui\www\public\scripts\login.js,41,32,2
+login.js,login.js,\core\js\dist\login.js,\src\webui\www\public\scripts\login.js,19,32,0
+client.js,client.js,\core\js\files\client.js,\src\webui\www\private\scripts\client.js,570,881,99

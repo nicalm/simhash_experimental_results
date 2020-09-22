@@ -1,0 +1,5 @@
+10572-Openfire,1366-gradle
+LinkedList.java,LinkedList.java,\xmppserver\src\main\java\org\jivesoftware\util\LinkedList.java,\subprojects\docs\src\samples\templates\java-list-library\src\main\java\org\gradle\sample\LinkedList.java,51,61,14
+PluginManager.java,PluginManager.java,\xmppserver\src\main\java\org\jivesoftware\openfire\container\PluginManager.java,\subprojects\core-api\src\main\java\org\gradle\api\plugins\PluginManager.java,816,15,1
+SocketConnection.java,SocketConnection.java,\xmppserver\src\main\java\org\jivesoftware\openfire\net\SocketConnection.java,\subprojects\messaging\src\main\java\org\gradle\internal\remote\internal\inet\SocketConnection.java,480,260,78
+Node.java,Node.java,\xmppserver\src\main\java\org\jivesoftware\openfire\pubsub\Node.java,\subprojects\core\src\main\java\org\gradle\execution\plan\Node.java,1195,196,50

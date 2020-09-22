@@ -1,0 +1,11 @@
+10115-mbedtls,4597-openvpn
+base64.c,base64.c,\library\base64.c,\src\openvpn\base64.c,199,150,37
+base64.c,base64.c,\library\base64.c,\sample\sample-plugins\simple\base64.c,199,85,24
+error.c,error.c,\library\error.c,\src\openvpn\error.c,771,754,41
+pkcs11.c,pkcs11.c,\library\pkcs11.c,\src\openvpn\pkcs11.c,161,871,46
+platform.c,platform.c,\library\platform.c,\src\openvpn\platform.c,235,395,80
+error.h,error.h,\include\mbedtls\error.h,\src\openvpn\error.h,16,214,6
+error.h,error.h,\include\mbedtls\error.h,\src\tapctl\error.h,16,48,5
+pkcs11.h,pkcs11.h,\include\mbedtls\pkcs11.h,\src\openvpn\pkcs11.h,64,41,2
+platform.h,platform.h,\include\mbedtls\platform.h,\src\openvpn\platform.h,176,90,19
+ssl.h,ssl.h,\include\mbedtls\ssl.h,\src\openvpn\ssl.h,873,185,12

@@ -1,0 +1,9 @@
+3024-SASM,86-netdata
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,79,171,6
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,79,168,6
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,79,58,3
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,79,51,0
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,63,171,3
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,63,168,3
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,63,58,2
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,63,51,0

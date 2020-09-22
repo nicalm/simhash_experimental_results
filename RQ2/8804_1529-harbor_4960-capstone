@@ -1,0 +1,7 @@
+1529-harbor,4960-capstone
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\bindings\python\capstone\__init__.py,17,801,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\bindings\python\capstone\__init__.py,42,801,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\bindings\python\capstone\__init__.py,53,801,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\bindings\python\capstone\__init__.py,44,801,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\bindings\python\capstone\__init__.py,60,801,5
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\bindings\python\capstone\__init__.py,17,801,0

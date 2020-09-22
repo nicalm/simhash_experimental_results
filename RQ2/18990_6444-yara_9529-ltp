@@ -1,0 +1,8 @@
+6444-yara,9529-ltp
+conf.py,conf.py,\docs\conf.py,\doc\conf.py,35,30,18
+compiler.h,compiler.h,\libyara\include\yara\compiler.h,\thirdparty\boost\include\boost\predef\compiler.h,192,34,1
+endian.h,endian.h,\libyara\include\yara\endian.h,\thirdparty\boost\include\boost\predef\other\endian.h,55,141,15
+exec.h,exec.h,\libyara\include\yara\exec.h,\thirdparty\dynet\dynet\exec.h,136,42,1
+mem.h,mem.h,\libyara\include\yara\mem.h,\thirdparty\dynet\dynet\mem.h,30,41,2
+parser.h,parser.h,\libyara\include\yara\parser.h,\src\parser\parser.h,79,79,1
+parser.h,parser.h,\libyara\include\yara\parser.h,\src\parser.n\parser.h,79,105,1

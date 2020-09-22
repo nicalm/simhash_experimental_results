@@ -1,0 +1,6 @@
+11788-fbthrift,3637-qutebrowser
+utils.py,utils.py,\build\fbcode_builder\utils.py,\scripts\utils.py,59,39,2
+utils.py,utils.py,\build\fbcode_builder\utils.py,\qutebrowser\utils\utils.py,59,406,4
+utils.py,utils.py,\build\fbcode_builder\utils.py,\tests\helpers\utils.py,59,111,0
+setup.py,setup.py,\thrift\lib\py\setup.py,\setup.py,54,64,3
+setup.py,setup.py,\thrift\lib\py3\setup.py,\setup.py,29,64,1

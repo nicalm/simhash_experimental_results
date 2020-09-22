@@ -1,0 +1,6 @@
+18692-spdk,3761-lepton
+crc32.h,crc32.h,\include\spdk\crc32.h,\dependencies\zlib\crc32.h,23,437,3
+memory.h,memory.h,\include\spdk_internal\memory.h,\dependencies\brotli\c\enc\memory.h,20,44,5
+memory.c,memory.c,\lib\env_dpdk\memory.c,\dependencies\brotli\c\enc\memory.c,991,147,33
+md5.c,md5.c,\lib\iscsi\md5.c,\dependencies\md5\md5.c,33,211,10
+crc32.c,crc32.c,\lib\util\crc32.c,\dependencies\zlib\crc32.c,49,285,14

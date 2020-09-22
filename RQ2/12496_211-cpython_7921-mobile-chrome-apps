@@ -1,0 +1,7 @@
+211-cpython,7921-mobile-chrome-apps
+transports.py,transports.py,\Lib\asyncio\transports.py,\chrome-cordova\gcmServer\xmpp\transports.py,127,223,4
+client.py,client.py,\Lib\http\client.py,\chrome-cordova\gcmServer\xmpp\client.py,817,223,9
+server.py,server.py,\Lib\http\server.py,\chrome-cordova\gcmServer\server.py,700,83,6
+browser.py,browser.py,\Lib\idlelib\browser.py,\chrome-cordova\gcmServer\xmpp\browser.py,151,75,1
+client.py,client.py,\Lib\xmlrpc\client.py,\chrome-cordova\gcmServer\xmpp\client.py,784,223,9
+server.py,server.py,\Lib\xmlrpc\server.py,\chrome-cordova\gcmServer\server.py,502,83,4

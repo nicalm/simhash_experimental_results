@@ -1,0 +1,8 @@
+3761-lepton,6285-ImageMagick
+compress.c,compress.c,\dependencies\zlib\compress.c,\MagickCore\compress.c,47,939,9
+main.cc,main.cc,\src\lepton\main.cc,\Magick++\fuzz\main.cc,17,84,4
+transform.h,transform.h,\dependencies\brotli\c\dec\transform.h,\MagickCore\transform.h,269,25,7
+histogram.c,histogram.c,\dependencies\brotli\c\enc\histogram.c,\coders\histogram.c,81,229,9
+histogram.c,histogram.c,\dependencies\brotli\c\enc\histogram.c,\MagickCore\histogram.c,81,686,14
+histogram.h,histogram.h,\dependencies\brotli\c\enc\histogram.h,\MagickCore\histogram.h,43,21,7
+memory.c,memory.c,\dependencies\brotli\c\enc\memory.c,\MagickCore\memory.c,147,792,29

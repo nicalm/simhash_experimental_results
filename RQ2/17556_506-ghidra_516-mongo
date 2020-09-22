@@ -1,0 +1,5 @@
+506-ghidra,516-mongo
+find.cpp,find.cpp,\Ghidra\Features\PDB\src\pdb\cpp\find.cpp,\src\mongo\db\query\find.cpp,137,498,39
+main.cpp,main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,\src\third_party\zstandard-1.4.3\zstd\contrib\pzstd\main.cpp,41,16,3
+main.cpp,main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,\src\mongo\gotools\src\github.com\mongodb\mongo-tools\vendor\github.com\golang\snappy\cmd\snappytool\main.cpp,41,59,9
+find.h,find.h,\Ghidra\Features\PDB\src\pdb\headers\find.h,\src\mongo\db\query\find.h,17,35,1

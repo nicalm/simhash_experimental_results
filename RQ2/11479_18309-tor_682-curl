@@ -1,0 +1,8 @@
+18309-tor,682-curl
+test.h,test.h,\src\test\test.h,\tests\libtest\test.h,217,311,3
+escape.c,escape.c,\src\lib\log\escape.c,\lib\escape.c,91,154,16
+resolve.c,resolve.c,\src\lib\net\resolve.c,\docs\examples\resolve.c,354,18,3
+resolve.c,resolve.c,\src\lib\net\resolve.c,\tests\server\resolve.c,354,99,29
+socketpair.c,socketpair.c,\src\lib\net\socketpair.c,\lib\socketpair.c,161,83,15
+version.c,version.c,\src\lib\version\version.c,\lib\version.c,33,398,7
+timeval.h,timeval.h,\src\lib\wallclock\timeval.h,\lib\timeval.h,56,15,1

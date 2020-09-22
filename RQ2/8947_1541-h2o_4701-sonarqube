@@ -1,0 +1,3 @@
+1541-h2o,4701-sonarqube
+Context.java,Context.java,\deps\brotli\java\org\brotli\dec\Context.java,\sonar-plugin-api\src\main\java\org\sonar\api\web\page\Context.java,41,19,4
+State.java,State.java,\deps\brotli\java\org\brotli\dec\State.java,\server\sonar-server-common\src\main\java\org\sonar\server\issue\workflow\State.java,73,57,2

@@ -1,0 +1,7 @@
+464-gentelella,4984-jerryscript
+map.js,map.js,\vendors\echarts\src\chart\map.js,\tests\jerry\es2015\map.js,24,108,1
+symbol.js,symbol.js,\vendors\echarts\src\util\symbol.js,\tests\jerry\es2015\symbol.js,268,83,5
+symbol.js,symbol.js,\vendors\echarts\src\visual\symbol.js,\tests\jerry\es2015\symbol.js,34,83,5
+map.js,map.js,\vendors\echarts\theme\tool\option\map.js,\tests\jerry\es2015\map.js,121,108,2
+set.js,set.js,\vendors\moment\src\lib\locale\set.js,\tests\jerry\es2015\set.js,34,88,1
+array.js,array.js,\vendors\select2\src\js\select2\data\array.js,\tests\jerry\array.js,54,128,1

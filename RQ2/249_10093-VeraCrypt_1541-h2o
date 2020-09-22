@@ -1,0 +1,4 @@
+10093-VeraCrypt,1541-h2o
+compress.c,compress.c,\src\Common\zlib\compress.c,\lib\handler\compress.c,53,128,8
+compress.c,compress.c,\src\Common\zlib\compress.c,\lib\handler\configurator\compress.c,53,125,8
+compress.c,compress.c,\src\Common\zlib\compress.c,\t\00unit\lib\handler\compress.c,53,87,8

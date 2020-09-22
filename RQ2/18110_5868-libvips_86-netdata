@@ -1,0 +1,6 @@
+5868-libvips,86-netdata
+max.c,max.c,\libvips\arithmetic\max.c,\web\api\queries\max\max.c,313,41,10
+min.c,min.c,\libvips\arithmetic\min.c,\web\api\queries\min\min.c,314,41,10
+sum.c,sum.c,\libvips\arithmetic\sum.c,\web\api\queries\sum\sum.c,105,39,8
+csv.c,csv.c,\libvips\foreign\csv.c,\web\api\formatters\csv\csv.c,511,106,18
+buffer.c,buffer.c,\libvips\iofuncs\buffer.c,\libnetdata\buffer\buffer.c,447,280,54

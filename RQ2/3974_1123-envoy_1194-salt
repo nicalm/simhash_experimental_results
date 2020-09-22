@@ -1,0 +1,13 @@
+1123-envoy,1194-salt
+conf.py,conf.py,\docs\conf.py,\doc\conf.py,60,390,11
+service.py,service.py,\examples\front-proxy\service.py,\salt\beacons\service.py,35,70,1
+service.py,service.py,\examples\front-proxy\service.py,\salt\modules\service.py,35,77,1
+service.py,service.py,\examples\front-proxy\service.py,\salt\states\service.py,35,522,0
+service.py,service.py,\examples\csrf\samesite\service.py,\salt\beacons\service.py,16,70,1
+service.py,service.py,\examples\csrf\samesite\service.py,\salt\modules\service.py,16,77,1
+service.py,service.py,\examples\csrf\samesite\service.py,\salt\states\service.py,16,522,0
+client.py,client.py,\examples\grpc-bridge\client\client.py,\salt\transport\client.py,43,121,0
+client.py,client.py,\examples\grpc-bridge\client\client.py,\salt\client\ssh\client.py,43,123,1
+client.py,client.py,\test\extensions\filters\network\thrift_proxy\driver\client.py,\salt\transport\client.py,224,121,7
+client.py,client.py,\test\extensions\filters\network\thrift_proxy\driver\client.py,\salt\client\ssh\client.py,224,123,2
+server.py,server.py,\test\extensions\filters\network\thrift_proxy\driver\server.py,\salt\transport\server.py,191,49,2

@@ -1,0 +1,7 @@
+13786-SiCKRAGE,2944-supervisor
+setup.py,setup.py,\setup.py,\setup.py,74,72,11
+util.py,util.py,\sickrage\core\media\util.py,\supervisor\medusa\util.py,51,39,1
+base.py,base.py,\sickrage\core\webserver\handlers\base.py,\supervisor\tests\base.py,140,1010,6
+http.py,http.py,\sickrage\libs\trakt\core\http.py,\supervisor\http.py,192,647,17
+base.py,base.py,\sickrage\libs\trakt\mapper\core\base.py,\supervisor\tests\base.py,87,1010,1
+base.py,base.py,\sickrage\libs\trakt\objects\list\base.py,\supervisor\tests\base.py,53,1010,3

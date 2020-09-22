@@ -1,0 +1,9 @@
+3709-Signal-Desktop,4287-cockpit
+config.js,config.js,\app\config.js,\pkg\machines\config.js,33,18,2
+notifications.js,notifications.js,\js\notifications.js,\pkg\lib\notifications.js,156,40,9
+helpers.js,helpers.js,\libtextsecure\helpers.js,\pkg\machines\helpers.js,50,552,5
+index.js,index.js,\js\modules\migrations\18\index.js,\eslint-plugin-cockpit\index.js,15,15,1
+index.js,index.js,\js\modules\migrations\18\index.js,\pkg\machines\index.js,15,50,3
+index.js,index.js,\js\modules\migrations\18\index.js,\pkg\playground\index.js,15,28,2
+index.js,index.js,\js\modules\migrations\18\index.js,\pkg\shell\index.js,15,32,1
+index.js,index.js,\js\modules\migrations\18\index.js,\pkg\sosreport\index.js,15,136,2

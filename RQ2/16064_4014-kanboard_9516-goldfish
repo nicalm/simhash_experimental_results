@@ -1,0 +1,7 @@
+4014-kanboard,9516-goldfish
+utils.js,utils.js,\assets\js\core\utils.js,\frontend\build\utils.js,94,55,11
+index.js,index.js,\assets\vendor\text-caret\index.js,\frontend\config\index.js,94,31,4
+index.js,index.js,\assets\vendor\text-caret\index.js,\frontend\client\router\index.js,94,33,5
+index.js,index.js,\assets\vendor\text-caret\index.js,\frontend\client\store\index.js,94,24,0
+index.js,index.js,\assets\vendor\text-caret\index.js,\frontend\client\store\modules\menu\index.js,94,49,6
+index.js,index.js,\assets\vendor\text-caret\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,94,58,7

@@ -1,0 +1,4 @@
+2944-supervisor,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,72,64,6
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,72,21,2
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,72,73,4

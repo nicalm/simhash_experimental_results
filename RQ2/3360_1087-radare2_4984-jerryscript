@@ -1,0 +1,16 @@
+1087-radare2,4984-jerryscript
+arg.c,arg.c,\libr\debug\arg.c,\jerry-ext\arg\arg.c,41,114,5
+main.c,main.c,\libr\main\main.c,\targets\curie_bsp\jerry_app\quark\main.c,40,130,8
+log.c,log.c,\libr\util\log.c,\jerry-libm\log.c,100,117,17
+main.c,main.c,\shlr\grub\main.c,\targets\curie_bsp\jerry_app\quark\main.c,113,130,20
+main.c,main.c,\shlr\spp\main.c,\targets\curie_bsp\jerry_app\quark\main.c,127,130,16
+main.c,main.c,\libr\bin\pdb\main.c,\targets\curie_bsp\jerry_app\quark\main.c,52,130,8
+common.c,common.c,\shlr\gdb\src\common.c,\jerry-core\parser\js\common.c,141,76,14
+main.c,main.c,\shlr\sdb\src\main.c,\targets\curie_bsp\jerry_app\quark\main.c,472,130,21
+config.h,config.h,\shlr\zip\zip\config.h,\jerry-core\config.h,71,338,8
+main.c,main.c,\libr\asm\arch\dcpu16\main.c,\targets\curie_bsp\jerry_app\quark\main.c,31,130,3
+main.c,main.c,\shlr\sdb\src\json\main.c,\targets\curie_bsp\jerry_app\quark\main.c,76,130,10
+main.c,main.c,\test\unit\legacy_unit\debug\main.c,\targets\curie_bsp\jerry_app\quark\main.c,54,130,6
+test-regexp.c,test-regexp.c,\test\unit\legacy_unit\search\test-regexp.c,\tests\unit-core\test-regexp.c,18,46,2
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\jerry-core\parser\js\common.h,480,78,1
+valgrind.h,valgrind.h,\shlr\heap\include\r_jemalloc\internal\valgrind.h,\third-party\valgrind\valgrind.h,101,3248,15

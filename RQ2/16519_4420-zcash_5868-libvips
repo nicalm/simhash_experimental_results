@@ -1,0 +1,5 @@
+4420-zcash,5868-libvips
+util.h,util.h,\src\util.h,\libvips\include\vips\util.h,150,230,9
+format.h,format.h,\src\leveldb\table\format.h,\libvips\include\vips\format.h,62,84,2
+histogram.h,histogram.h,\src\leveldb\util\histogram.h,\libvips\include\vips\histogram.h,28,37,2
+util.h,util.h,\src\secp256k1\src\util.h,\libvips\include\vips\util.h,92,230,10

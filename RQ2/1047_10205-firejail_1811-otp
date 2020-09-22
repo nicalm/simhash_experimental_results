@@ -1,0 +1,3 @@
+10205-firejail,1811-otp
+utils.c,utils.c,\src\fbuilder\utils.c,\erts\emulator\beam\utils.c,39,4338,12
+common.h,common.h,\src\include\common.h,\lib\crypto\c_src\common.h,89,24,6

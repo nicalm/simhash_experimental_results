@@ -1,0 +1,10 @@
+1769-ChakraCore,3709-Signal-Desktop
+crypto.js,crypto.js,\test\benchmarks\Octane\crypto.js,\libtextsecure\crypto.js,1572,204,26
+crypto.js,crypto.js,\test\benchmarks\Octane\crypto.js,\js\modules\crypto.js,1572,393,54
+crypto.js,crypto.js,\test\benchmarks\Octane_Closure\crypto.js,\libtextsecure\crypto.js,1567,204,26
+crypto.js,crypto.js,\test\benchmarks\Octane_Closure\crypto.js,\js\modules\crypto.js,1567,393,54
+index.js,index.js,\test\WasmSpec\convert-test-suite\index.js,\js\modules\migrations\18\index.js,195,15,4
+index.js,index.js,\test\benchmarks\ARES-6\Babylon\index.js,\js\modules\migrations\18\index.js,5263,15,4
+index.js,index.js,\test\benchmarks\ARES-6\ml\index.js,\js\modules\migrations\18\index.js,4664,15,3
+index.js,index.js,\test\WasmSpec\convert-test-suite\generateTests\index.js,\js\modules\migrations\18\index.js,17,15,0
+indexeddb.js,indexeddb.js,\test\WasmSpec\testsuite\html\indexeddb.js,\js\modules\indexeddb.js,87,150,17

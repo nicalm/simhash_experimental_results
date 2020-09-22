@@ -1,0 +1,4 @@
+5868-libvips,9197-domoticz
+error.h,error.h,\libvips\include\vips\error.h,\cereal\external\rapidjson\error\error.h,58,57,3
+object.h,object.h,\libvips\include\vips\object.h,\hardware\plugins\Include\object.h,365,531,12
+stream.h,stream.h,\libvips\include\vips\stream.h,\cereal\external\rapidjson\stream.h,184,67,2

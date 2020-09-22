@@ -1,0 +1,7 @@
+10549-luci,15910-gdal
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,89,54,0
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\gdal\frmts\pcraster\libcsf\file.c,355,22,5
+io.c,io.c,\libs\luci-lib-nixio\src\io.c,\gdal\alg\internal_libqhull\io.c,157,2883,35
+user.c,user.c,\libs\luci-lib-nixio\src\user.c,\gdal\alg\internal_libqhull\user.c,209,330,32
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,89,54,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,35,54,2

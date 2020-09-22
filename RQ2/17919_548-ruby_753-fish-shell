@@ -1,0 +1,6 @@
+548-ruby,753-fish-shell
+builtin.h,builtin.h,\builtin.h,\src\builtin.h,51,60,3
+io.h,io.h,\internal\io.h,\src\io.h,20,260,1
+proc.h,proc.h,\internal\proc.h,\src\proc.h,18,249,1
+io.h,io.h,\include\ruby\io.h,\src\io.h,128,260,3
+parser.h,parser.h,\ext\json\parser\parser.h,\src\parser.h,78,170,2

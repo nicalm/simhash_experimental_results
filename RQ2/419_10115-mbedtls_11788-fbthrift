@@ -1,0 +1,3 @@
+10115-mbedtls,11788-fbthrift
+debug.h,debug.h,\include\mbedtls\debug.h,\thrift\lib\cpp2\reflection\debug.h,89,58,2
+ssl.h,ssl.h,\include\mbedtls\ssl.h,\thrift\lib\py3\ssl.h,873,77,3

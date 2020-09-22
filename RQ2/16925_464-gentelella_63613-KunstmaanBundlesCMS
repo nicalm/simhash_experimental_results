@@ -1,0 +1,14 @@
+464-gentelella,63613-KunstmaanBundlesCMS
+gulpfile.babel.js,gulpfile.babel.js,\vendors\parsleyjs\gulpfile.babel.js,\gulpfile.babel.js,244,76,1
+gulpfile.babel.js,gulpfile.babel.js,\vendors\parsleyjs\gulpfile.babel.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\groundcontrol\gulpfile.babel.js,244,76,1
+css.js,css.js,\vendors\jquery\src\css.js,\groundcontrol\tasks\css.js,348,37,6
+css.js,css.js,\vendors\jquery\src\css.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\groundcontrol\bin\tasks\css.js,348,42,7
+plugin.js,plugin.js,\vendors\cropper\src\js\plugin.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\codemirror\plugin.js,28,1099,7
+plugin.js,plugin.js,\vendors\cropper\src\js\plugin.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\notification\plugin.js,28,356,7
+plugin.js,plugin.js,\vendors\cropper\src\js\plugin.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\wordcount\plugin.js,28,457,7
+default.js,default.js,\vendors\echarts\src\loading\default.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\pastefromword\filter\default.js,85,29,0
+select.js,select.js,\vendors\jqvmap\src\JQVMap\select.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\forms\dialogs\select.js,16,17,0
+css.js,css.js,\vendors\parsleyjs\bower_components\jquery\src\css.js,\groundcontrol\tasks\css.js,317,37,6
+css.js,css.js,\vendors\parsleyjs\bower_components\jquery\src\css.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\groundcontrol\bin\tasks\css.js,317,42,7
+options.js,options.js,\vendors\select2\src\js\select2\options.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\scayt\dialogs\options.js,96,17,0
+select.js,select.js,\vendors\select2\src\js\select2\data\select.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\forms\dialogs\select.js,205,17,0

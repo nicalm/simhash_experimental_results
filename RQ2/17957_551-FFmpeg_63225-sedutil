@@ -1,0 +1,5 @@
+551-FFmpeg,63225-sedutil
+hmac.c,hmac.c,\libavutil\hmac.c,\Common\pbkdf2\hmac.c,163,63,12
+hmac.h,hmac.h,\libavutil\hmac.h,\Common\pbkdf2\hmac.h,22,22,2
+log.h,log.h,\libavutil\log.h,\Common\log.h,77,279,1
+hmac.c,hmac.c,\libavutil\tests\hmac.c,\Common\pbkdf2\hmac.c,57,63,7

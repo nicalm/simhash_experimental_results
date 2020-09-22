@@ -1,0 +1,15 @@
+2283-capnproto,60276-esp-homekit-devices
+common.h,common.h,\c++\src\benchmark\common.h,\external_libs\cJSON\cJSON\tests\common.h,229,82,13
+common.h,common.h,\c++\src\capnp\common.h,\external_libs\cJSON\cJSON\tests\common.h,508,82,13
+common.h,common.h,\c++\src\kj\common.h,\external_libs\cJSON\cJSON\tests\common.h,1054,82,14
+debug.h,debug.h,\c++\src\kj\debug.h,\external_libs\homekit\src\debug.h,327,20,5
+hash.h,hash.h,\c++\src\kj\hash.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\hash.h,95,103,2
+hash.h,hash.h,\c++\src\kj\hash.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\hash.h,95,103,2
+main.h,main.h,\c++\src\kj\main.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\mqx\wolfssl_client\Sources\main.h,94,36,1
+main.h,main.h,\c++\src\kj\main.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\mqx\wolfssl_client\Sources\main.h,94,36,1
+memory.h,memory.h,\c++\src\kj\memory.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,346,138,3
+memory.h,memory.h,\c++\src\kj\memory.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,346,138,3
+test.h,test.h,\c++\src\kj\test.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\test.h,107,1950,10
+test.h,test.h,\c++\src\kj\test.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\test.h,107,1950,10
+json.h,json.h,\c++\src\capnp\compat\json.h,\external_libs\homekit\src\json.h,317,17,1
+common.h,common.h,\c++\src\kj\parse\common.h,\external_libs\cJSON\cJSON\tests\common.h,564,82,16

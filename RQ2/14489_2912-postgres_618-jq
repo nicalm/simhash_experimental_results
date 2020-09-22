@@ -1,0 +1,7 @@
+2912-postgres,618-jq
+main.c,main.c,\src\backend\main\main.c,\src\main.c,203,647,31
+parser.c,parser.c,\src\backend\parser\parser.c,\src\parser.c,97,3339,29
+util.c,util.c,\src\bin\pg_upgrade\util.c,\src\util.c,163,380,27
+parser.h,parser.h,\src\include\parser\parser.h,\src\parser.h,16,145,2
+execute.c,execute.c,\src\interfaces\ecpg\ecpglib\execute.c,\src\execute.c,1724,1032,186
+parser.c,parser.c,\src\interfaces\ecpg\preproc\parser.c,\src\parser.c,95,3339,26

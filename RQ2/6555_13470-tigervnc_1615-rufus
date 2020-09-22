@@ -1,0 +1,6 @@
+13470-tigervnc,1615-rufus
+types.h,types.h,\common\rdr\types.h,\src\libcdio\cdio\types.h,48,181,3
+util.h,util.h,\common\rfb\util.h,\src\libcdio\cdio\util.h,75,79,12
+util.h,util.h,\tests\perf\util.h,\src\libcdio\cdio\util.h,15,79,1
+resource.h,resource.h,\win\vncconfig\resource.h,\src\resource.h,86,543,4
+resource.h,resource.h,\win\winvnc\resource.h,\src\resource.h,46,543,4

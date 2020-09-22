@@ -1,0 +1,5 @@
+9529-ltp,99-redis
+dict.h,dict.h,\thirdparty\dynet\dynet\dict.h,\src\dict.h,68,121,1
+dict.h,dict.h,\thirdparty\dynet\dynet\dict.h,\deps\hiredis\dict.h,68,71,1
+config.h,config.h,\src\srl\include\base\config.h,\src\config.h,58,149,1
+config.h,config.h,\thirdparty\jsoncpp\include\json\config.h,\src\config.h,123,149,31

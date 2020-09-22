@@ -1,0 +1,5 @@
+1460-iTerm2,2944-supervisor
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\setup.py,20,72,3
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\setup.py,33,72,2
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\docs\conf.py,39,34,5
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\supervisor\medusa\util.py,241,39,1

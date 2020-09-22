@@ -1,0 +1,3 @@
+10205-firejail,981-numpy
+common.h,common.h,\src\include\common.h,\numpy\core\src\multiarray\common.h,89,192,17
+common.c,common.c,\src\lib\common.c,\numpy\core\src\multiarray\common.c,241,698,58

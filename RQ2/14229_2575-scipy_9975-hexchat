@@ -1,0 +1,4 @@
+2575-scipy,9975-hexchat
+example.c,example.c,\scipy\optimize\tnc\example.c,\src\common\dbus\example.c,36,158,5
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\src\common\util.h,38,47,1
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\src\common\util.c,345,1287,86

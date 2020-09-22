@@ -1,0 +1,11 @@
+7408-DeepVideoAnalytics,7747-Attendize
+app.js,app.js,\server\dvaapp\static\app\app.js,\public\assets\javascript\app.js,180,372,30
+bootstrap.js,bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,\public\vendor\bootstrap\dist\js\bootstrap.js,1597,1388,1215
+app.js,app.js,\server\dvaapp\static\dist\js\app.js,\public\assets\javascript\app.js,470,372,92
+Chart.js,Chart.js,\server\dvaapp\static\plugins\chartjs\Chart.js,\public\vendor\chartjs\Chart.js,2836,5319,1200
+config.js,config.js,\server\dvaapp\static\plugins\ckeditor\config.js,\public\vendor\vue\src\config.js,21,40,0
+moment.js,moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,\public\vendor\moment\moment.js,2305,3064,2056
+moment.js,moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,\public\vendor\moment\src\moment.js,2305,60,0
+moment.js,moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,\public\vendor\moment\src\lib\moment\moment.js,2305,25,3
+fullcalendar.js,fullcalendar.js,\server\dvaapp\static\plugins\fullcalendar\fullcalendar.js,\public\vendor\fullcalendar\dist\fullcalendar.js,6191,7885,4653
+options.js,options.js,\server\dvaapp\static\plugins\ckeditor\plugins\scayt\dialogs\options.js,\public\vendor\vue\src\util\options.js,19,268,0

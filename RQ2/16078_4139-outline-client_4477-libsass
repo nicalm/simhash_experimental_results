@@ -1,0 +1,7 @@
+4139-outline-client,4477-libsass
+core.h,core.h,\third_party\shadowsocks-libev\libcork\include\libcork\core.h,\src\utf8\core.h,16,226,1
+core.h,core.h,\third_party\sodium\apple\include\sodium\core.h,\src\utf8\core.h,18,226,2
+core.h,core.h,\third_party\sodium\linux\include\sodium\core.h,\src\utf8\core.h,18,226,2
+core.h,core.h,\third_party\sodium\src\libsodium\include\sodium\core.h,\src\utf8\core.h,18,226,2
+base.h,base.h,\third_party\sodium\src\libsodium\crypto_core\ed25519\ref10\fe_25_5\base.h,\include\sass\base.h,1344,63,1
+base.h,base.h,\third_party\sodium\src\libsodium\crypto_core\ed25519\ref10\fe_51\base.h,\include\sass\base.h,1344,63,1

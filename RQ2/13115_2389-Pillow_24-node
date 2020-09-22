@@ -1,0 +1,14 @@
+2389-Pillow,24-node
+conf.py,conf.py,\docs\conf.py,\deps\uv\docs\src\conf.py,45,59,8
+decode.c,decode.c,\src\decode.c,\deps\brotli\c\dec\decode.c,591,2087,55
+encode.c,encode.c,\src\encode.c,\deps\brotli\c\enc\encode.c,918,1516,117
+encode.c,encode.c,\src\encode.c,\deps\openssl\openssl\crypto\evp\encode.c,918,353,70
+helper.py,helper.py,\Tests\helper.py,\deps\openssl\openssl\fuzz\helper.py,260,29,3
+test.py,test.py,\winbuild\test.py,\tools\test.py,34,1305,6
+__init__.py,__init__.py,\src\PIL\__init__.py,\test\testpy\__init__.py,52,107,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\tools\inspector_protocol\jinja2\__init__.py,52,38,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\tools\inspector_protocol\markupsafe\__init__.py,52,125,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\deps\v8\third_party\jinja2\__init__.py,52,38,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\deps\v8\third_party\markupsafe\__init__.py,52,125,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\tools\gyp\pylib\gyp\__init__.py,52,369,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\__init__.py,52,369,1

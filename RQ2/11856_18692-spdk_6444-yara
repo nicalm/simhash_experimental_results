@@ -1,0 +1,6 @@
+18692-spdk,6444-yara
+blob.h,blob.h,\include\spdk\blob.h,\tests\blob.h,190,2709,9
+endian.h,endian.h,\include\spdk\endian.h,\libyara\include\yara\endian.h,124,55,3
+util.h,util.h,\include\spdk\util.h,\tests\util.h,52,199,4
+math.c,math.c,\lib\util\math.c,\libyara\modules\math\math.c,26,449,7
+common.h,common.h,\module\bdev\nvme\common.h,\common.h,84,91,1

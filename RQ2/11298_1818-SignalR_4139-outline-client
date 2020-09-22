@@ -1,0 +1,9 @@
+1818-SignalR,4139-outline-client
+Program.cs,Program.cs,\samples\Microsoft.AspNet.SelfHost.Samples\Program.cs,\tools\OutlineService\OutlineService\Program.cs,17,52,11
+Program.cs,Program.cs,\samples\Microsoft.AspNet.SignalR.Client.Samples\Program.cs,\tools\OutlineService\OutlineService\Program.cs,25,52,10
+Program.cs,Program.cs,\src\Microsoft.AspNet.SignalR.Stress\Program.cs,\tools\OutlineService\OutlineService\Program.cs,115,52,22
+Program.cs,Program.cs,\src\Microsoft.AspNet.SignalR.Utils\Program.cs,\tools\OutlineService\OutlineService\Program.cs,104,52,22
+Program.cs,Program.cs,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\Program.cs,\tools\OutlineService\OutlineService\Program.cs,78,52,24
+Program.cs,Program.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.TestHost\Program.cs,\tools\OutlineService\OutlineService\Program.cs,27,52,15
+AssemblyInfo.cs,AssemblyInfo.cs,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Properties\AssemblyInfo.cs,\tools\OutlineService\OutlineService\Properties\AssemblyInfo.cs,16,16,11
+AssemblyInfo.cs,AssemblyInfo.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.Tests\Properties\AssemblyInfo.cs,\tools\OutlineService\OutlineService\Properties\AssemblyInfo.cs,17,16,10

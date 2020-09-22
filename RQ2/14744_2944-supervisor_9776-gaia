@@ -1,0 +1,11 @@
+2944-supervisor,9776-gaia
+setup.py,setup.py,\setup.py,\tests\python\gaia-ui-tests\setup.py,72,47,5
+setup.py,setup.py,\setup.py,\tests\python\gaia-unit-tests\setup.py,72,25,5
+setup.py,setup.py,\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,72,16,1
+setup.py,setup.py,\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,72,29,7
+setup.py,setup.py,\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,72,148,0
+conf.py,conf.py,\docs\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,34,38,5
+options.py,options.py,\supervisor\options.py,\tests\python\gaia-ui-tests\gaiatest\apps\messages\regions\options.py,1716,29,0
+base.py,base.py,\supervisor\tests\base.py,\tests\python\gaia-ui-tests\gaiatest\apps\base.py,1010,88,4
+base.py,base.py,\supervisor\tests\base.py,\tests\python\gaia-unit-tests\gaia_unit_test\reporters\base.py,1010,63,3
+listener.py,listener.py,\supervisor\tests\fixtures\listener.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\runner_service\listener.py,24,100,1

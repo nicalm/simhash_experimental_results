@@ -1,0 +1,8 @@
+11788-fbthrift,12688-ffi
+Thread.h,Thread.h,\thrift\lib\cpp\concurrency\Thread.h,\ext\ffi_c\Thread.h,72,45,2
+spec_helper.rb,spec_helper.rb,\thrift\lib\rb\spec\spec_helper.rb,\spec\ffi\spec_helper.rb,28,19,5
+struct_spec.rb,struct_spec.rb,\thrift\lib\rb\spec\struct_spec.rb,\spec\ffi\struct_spec.rb,242,759,31
+union_spec.rb,union_spec.rb,\thrift\lib\rb\spec\union_spec.rb,\spec\ffi\union_spec.rb,139,58,13
+Types.h,Types.h,\thrift\lib\cpp2\transport\rocket\Types.h,\ext\ffi_c\Types.h,143,42,1
+struct.rb,struct.rb,\thrift\lib\rb\lib\thrift\struct.rb,\lib\ffi\struct.rb,191,161,46
+types.rb,types.rb,\thrift\lib\rb\lib\thrift\types.rb,\lib\ffi\types.rb,74,76,11

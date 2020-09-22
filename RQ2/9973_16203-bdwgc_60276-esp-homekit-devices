@@ -1,0 +1,8 @@
+16203-bdwgc,60276-esp-homekit-devices
+misc.c,misc.c,\misc.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\misc.c,2063,190,69
+misc.c,misc.c,\misc.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\misc.c,2063,190,69
+ec.h,ec.h,\include\ec.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\openssl\ec.h,29,170,9
+ec.h,ec.h,\include\ec.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\openssl\ec.h,29,170,9
+test.c,test.c,\tests\test.c,\external_libs\cJSON\cJSON\test.c,2143,189,39
+test.c,test.c,\tests\test.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,2143,12558,525
+test.c,test.c,\tests\test.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,2143,12558,525

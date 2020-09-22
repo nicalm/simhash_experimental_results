@@ -1,0 +1,4 @@
+10395-jitsi,12658-Espruino
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\libs\tensorflow\third_party\flatbuffers\include\flatbuffers\base.h,66,270,1
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\libs\crypto\mbedtls\include\mbedtls\version.h,40,26,5
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\libs\tensorflow\tensorflow\core\public\version.h,40,22,1

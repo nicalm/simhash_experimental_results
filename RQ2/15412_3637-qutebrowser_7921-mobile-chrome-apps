@@ -1,0 +1,3 @@
+3637-qutebrowser,7921-mobile-chrome-apps
+commands.py,commands.py,\qutebrowser\browser\commands.py,\chrome-cordova\gcmServer\xmpp\commands.py,1031,191,16
+debug.py,debug.py,\qutebrowser\utils\debug.py,\chrome-cordova\gcmServer\xmpp\debug.py,191,241,12

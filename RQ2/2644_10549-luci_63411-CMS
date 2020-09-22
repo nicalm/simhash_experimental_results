@@ -1,0 +1,3 @@
+10549-luci,63411-CMS
+custom.js,custom.js,\applications\luci-app-firewall\htdocs\luci-static\resources\view\firewall\custom.js,\iu-application\views\administration\js\custom.js,27,597,5
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\iu-application\views\administration\ckeditor\config.js,53,16,0

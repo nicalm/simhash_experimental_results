@@ -1,0 +1,15 @@
+1541-h2o,67679-k8s-multicluster-ingress
+setup.py,setup.py,\deps\brotli\setup.py,\vendor\github.com\prometheus\client_model\setup.py,237,20,4
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\cloud.google.com\go\bigtable\reader.go,103,187,25
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\cloud.google.com\go\storage\reader.go,103,28,12
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\googleapis\gnostic\compiler\reader.go,103,137,24
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\googleapis\gnostic\jsonschema\reader.go,103,340,25
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\golang.org\x\crypto\openpgp\packet\reader.go,103,47,19
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\k8s.io\apiserver\pkg\audit\policy\reader.go,103,51,13
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\k8s.io\kubernetes\staging\src\k8s.io\apiserver\pkg\audit\policy\reader.go,103,51,13
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\cloud.google.com\go\storage\writer.go,84,86,27
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\googleapis\gnostic\jsonschema\writer.go,84,297,20
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\googleapis\gnostic\jsonwriter\writer.go,84,137,22
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\k8s.io\apiserver\pkg\util\flushwriter\writer.go,84,28,11
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\k8s.io\kubernetes\pkg\util\io\writer.go,84,38,12
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\k8s.io\kubernetes\staging\src\k8s.io\apiserver\pkg\util\flushwriter\writer.go,84,28,11

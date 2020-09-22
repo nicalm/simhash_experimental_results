@@ -1,0 +1,4 @@
+1366-gradle,67679-k8s-multicluster-ingress
+script.js,script.js,\subprojects\docs\src\docs\js\javadoc\script.js,\vendor\k8s.io\kubernetes\examples\guestbook-go\public\script.js,136,39,7
+script.js,script.js,\subprojects\docs\src\docs\release\content\script.js,\vendor\k8s.io\kubernetes\examples\guestbook-go\public\script.js,64,39,6
+script.js,script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,\vendor\k8s.io\kubernetes\examples\guestbook-go\public\script.js,164,39,7

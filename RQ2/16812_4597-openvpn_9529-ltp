@@ -1,0 +1,6 @@
+4597-openvpn,9529-ltp
+init.h,init.h,\src\openvpn\init.h,\thirdparty\dynet\dynet\init.h,68,24,1
+options.h,options.h,\src\openvpn\options.h,\src\framework\options.h,606,30,5
+options.h,options.h,\src\openvpn\options.h,\src\parser\options.h,606,58,5
+options.h,options.h,\src\openvpn\options.h,\src\parser.n\options.h,606,55,7
+options.h,options.h,\src\openvpn\options.h,\src\segmentor\options.h,606,16,2

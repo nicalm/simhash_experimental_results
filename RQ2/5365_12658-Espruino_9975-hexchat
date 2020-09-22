@@ -1,0 +1,4 @@
+12658-Espruino,9975-hexchat
+network.c,network.c,\libs\network\network.c,\src\common\network.c,559,126,20
+network.h,network.h,\libs\network\network.h,\src\common\network.h,74,19,1
+ssl.h,ssl.h,\libs\crypto\mbedtls\include\mbedtls\ssl.h,\src\common\ssl.h,751,40,3

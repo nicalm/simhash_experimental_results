@@ -1,0 +1,4 @@
+2202-qBittorrent,548-ruby
+string.h,string.h,\src\base\utils\string.h,\internal\string.h,35,108,10
+version.h,version.h,\src\base\utils\version.h,\version.h,139,69,1
+version.h,version.h,\src\base\utils\version.h,\include\ruby\version.h,139,35,4

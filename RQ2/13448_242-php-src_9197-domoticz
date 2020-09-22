@@ -1,0 +1,9 @@
+242-php-src,9197-domoticz
+zip.c,zip.c,\ext\phar\zip.c,\zip\zip.c,1199,1504,160
+sqlite3.c,sqlite3.c,\ext\sqlite3\sqlite3.c,\sqlite\sqlite3.c,1964,127443,574
+crc32.c,crc32.c,\ext\standard\crc32.c,\zlib\crc32.c,70,285,16
+crc32.h,crc32.h,\ext\standard\crc32.h,\zlib\crc32.h,67,437,1
+compress.c,compress.c,\ext\fileinfo\libmagic\compress.c,\zlib\compress.c,662,47,8
+config.h,config.h,\ext\pcre\pcre2lib\config.h,\json\config.h,46,123,15
+brg_endian.h,brg_endian.h,\ext\hash\sha3\generic32lc\brg_endian.h,\hardware\openzwave\aes\brg_endian.h,95,87,85
+brg_endian.h,brg_endian.h,\ext\hash\sha3\generic64lc\brg_endian.h,\hardware\openzwave\aes\brg_endian.h,95,87,85

@@ -1,0 +1,9 @@
+222-prometheus,4139-outline-client
+main.go,main.go,\cmd\prometheus\main.go,\tools\find_tap_name\main.go,663,122,43
+main.go,main.go,\cmd\promtool\main.go,\tools\find_tap_name\main.go,556,122,43
+main.go,main.go,\tsdb\cmd\tsdb\main.go,\tools\find_tap_name\main.go,560,122,45
+main.go,main.go,\documentation\examples\custom-sd\adapter-usage\main.go,\tools\find_tap_name\main.go,192,122,43
+main.go,main.go,\documentation\examples\remote_storage\remote_storage_adapter\main.go,\tools\find_tap_name\main.go,283,122,48
+main.go,main.go,\vendor\github.com\gogo\protobuf\protoc-gen-gogofast\main.go,\tools\find_tap_name\main.go,15,122,5
+main.go,main.go,\vendor\github.com\grpc-ecosystem\grpc-gateway\protoc-gen-grpc-gateway\main.go,\tools\find_tap_name\main.go,116,122,40
+main.go,main.go,\vendor\github.com\grpc-ecosystem\grpc-gateway\protoc-gen-swagger\main.go,\tools\find_tap_name\main.go,175,122,50

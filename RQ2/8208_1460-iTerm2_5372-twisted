@@ -1,0 +1,15 @@
+1460-iTerm2,5372-twisted
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\docs\conf.py,39,57,19
+app.py,app.py,\api\library\python\iterm2\iterm2\app.py,\src\twisted\application\app.py,415,384,7
+connection.py,connection.py,\api\library\python\iterm2\iterm2\connection.py,\src\twisted\conch\ssh\connection.py,197,311,4
+session.py,session.py,\api\library\python\iterm2\iterm2\session.py,\src\twisted\conch\ssh\session.py,477,225,5
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\src\twisted\python\util.py,241,495,5
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\src\twisted\spread\util.py,241,115,1
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\src\twisted\trial\util.py,241,174,1
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\src\twisted\web\util.py,241,144,1
+window.py,window.py,\api\library\python\iterm2\iterm2\window.py,\src\twisted\conch\insults\window.py,310,688,5
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\src\twisted\logger\__init__.py,52,45,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\src\twisted\python\__init__.py,52,15,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\src\twisted\_threads\__init__.py,52,15,0
+basic.py,basic.py,\tools\ply\ply-3.4\example\BASIC\basic.py,\src\twisted\protocols\basic.py,44,321,6
+basic.py,basic.py,\tools\ply\ply-3.4\example\BASIC\basic.py,\src\twisted\web\_auth\basic.py,44,22,2

@@ -1,0 +1,13 @@
+1541-h2o,461-vim
+main.c,main.c,\src\main.c,\src\main.c,2462,3234,479
+dict.c,dict.c,\deps\hiredis\dict.c,\src\dict.c,202,815,33
+version.h,version.h,\include\h2o\version.h,\src\version.h,17,23,1
+state.c,state.c,\deps\mruby\src\state.c,\src\libvterm\src\state.c,257,1575,70
+version.c,version.c,\deps\mruby\src\version.c,\src\version.c,15,1339,3
+parser.c,parser.c,\deps\yaml\src\parser.c,\src\libvterm\src\parser.c,967,294,62
+channel.c,channel.c,\lib\handler\mruby\channel.c,\src\channel.c,71,5165,11
+state.c,state.c,\deps\brotli\c\dec\state.c,\src\libvterm\src\state.c,138,1575,12
+version.h,version.h,\deps\mruby\include\mruby\version.h,\src\version.h,29,23,1
+eval.c,eval.c,\deps\mruby\mrbgems\mruby-eval\src\eval.c,\src\eval.c,337,4916,86
+sha256.c,sha256.c,\deps\picotls\deps\cifra\src\sha256.c,\src\sha256.c,166,332,25
+main.c,main.c,\deps\picotls\deps\cifra\src\arm\main.c,\src\main.c,385,3234,72

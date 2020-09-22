@@ -1,0 +1,6 @@
+10549-luci,12873-mediawiki
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\mw-config\config.js,53,114,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\resources\src\mediawiki.api\index.js,82,237,18
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\resources\src\mediawiki.cookie\index.js,82,51,11
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\tests\selenium\wdio-mediawiki\index.js,82,15,3
+startup.js,startup.js,\modules\luci-mod-system\htdocs\luci-static\resources\view\system\startup.js,\resources\src\startup\startup.js,113,55,2

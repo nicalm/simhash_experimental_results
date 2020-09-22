@@ -1,0 +1,4 @@
+14790-sleuthkit,63770-mcuboot
+utils.c,utils.c,\tools\fiwalk\src\utils.c,\ext\tinycrypt\lib\source\utils.c,91,32,11
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\ext\tinycrypt\lib\include\tinycrypt\utils.h,33,16,4
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,41,24,2

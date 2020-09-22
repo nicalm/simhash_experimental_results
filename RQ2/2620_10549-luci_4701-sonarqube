@@ -1,0 +1,3 @@
+10549-luci,4701-sonarqube
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,82,79,11
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\server\sonar-web\config\documentation-loader\index.js,82,28,3

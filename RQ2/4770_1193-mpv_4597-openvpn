@@ -1,0 +1,16 @@
+1193-mpv,4597-openvpn
+common.c,common.c,\common\common.c,\src\openvpnserv\common.c,255,246,55
+common.h,common.h,\common\common.h,\src\openvpn\common.h,78,33,1
+event.c,event.c,\input\event.c,\src\openvpn\event.c,67,976,16
+options.c,options.c,\options\options.c,\src\openvpn\options.c,843,7687,36
+options.h,options.h,\options\options.h,\src\openvpn\options.h,314,606,5
+main.c,main.c,\player\main.c,\src\tapctl\main.c,377,349,51
+misc.c,misc.c,\player\misc.c,\src\openvpn\misc.c,239,564,53
+push.c,push.c,\audio\out\push.c,\src\openvpn\push.c,437,696,71
+utils.c,utils.c,\video\out\gpu\utils.c,\src\plugins\auth-pam\utils.c,257,81,33
+common.c,common.c,\video\out\opengl\common.c,\src\openvpnserv\common.c,567,246,61
+common.h,common.h,\video\out\opengl\common.h,\src\openvpn\common.h,197,33,3
+utils.c,utils.c,\video\out\opengl\utils.c,\src\plugins\auth-pam\utils.c,217,81,32
+utils.c,utils.c,\video\out\placebo\utils.c,\src\plugins\auth-pam\utils.c,52,81,10
+common.h,common.h,\video\out\vulkan\common.h,\src\openvpn\common.h,27,33,3
+utils.c,utils.c,\video\out\vulkan\utils.c,\src\plugins\auth-pam\utils.c,37,81,6

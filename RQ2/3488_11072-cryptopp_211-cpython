@@ -1,0 +1,4 @@
+11072-cryptopp,211-cpython
+blake2.h,blake2.h,\blake2.h,\Modules\_blake2\impl\blake2.h,234,141,12
+pch.h,pch.h,\pch.h,\Tools\msi\bundle\bootstrap\pch.h,15,40,0
+siphash.h,siphash.h,\siphash.h,\Modules\expat\siphash.h,201,227,26

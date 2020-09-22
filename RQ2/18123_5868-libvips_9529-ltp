@@ -1,0 +1,3 @@
+5868-libvips,9529-ltp
+debug.h,debug.h,\libvips\include\vips\debug.h,\src\parser\debug.h,37,57,2
+debug.h,debug.h,\libvips\include\vips\debug.h,\src\srl\include\base\debug.h,37,75,2

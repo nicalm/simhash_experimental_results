@@ -1,0 +1,12 @@
+1087-radare2,1463-highcharts
+index.js,index.js,\doc\node.js\index.js,\studies\highcharts-jsdom\index.js,36,93,6
+index.js,index.js,\doc\node.js\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,36,40,7
+index.js,index.js,\doc\pdb\index.js,\studies\highcharts-jsdom\index.js,143,93,12
+index.js,index.js,\doc\pdb\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,143,40,12
+index.js,index.js,\shlr\www\graph\index.js,\studies\highcharts-jsdom\index.js,49,93,10
+index.js,index.js,\shlr\www\graph\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,49,40,6
+index.js,index.js,\sys\build\make.js\index.js,\studies\highcharts-jsdom\index.js,201,93,18
+index.js,index.js,\sys\build\make.js\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,201,40,10
+utils.js,utils.js,\sys\build\make.js\utils.js,\tools\jsdoc\storage\utils.js,87,53,17
+index.js,index.js,\test\new\travis\index.js,\studies\highcharts-jsdom\index.js,120,93,11
+index.js,index.js,\test\new\travis\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,120,40,9

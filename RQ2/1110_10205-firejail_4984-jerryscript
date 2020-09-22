@@ -1,0 +1,15 @@
+10205-firejail,4984-jerryscript
+main.c,main.c,\src\faudit\main.c,\targets\curie_bsp\jerry_app\quark\main.c,49,130,7
+main.c,main.c,\src\fbuilder\main.c,\targets\curie_bsp\jerry_app\quark\main.c,63,130,12
+main.c,main.c,\src\fcopy\main.c,\targets\curie_bsp\jerry_app\quark\main.c,305,130,21
+main.c,main.c,\src\firecfg\main.c,\targets\curie_bsp\jerry_app\quark\main.c,379,130,21
+main.c,main.c,\src\firejail\main.c,\targets\curie_bsp\jerry_app\quark\main.c,2361,130,20
+main.c,main.c,\src\fldd\main.c,\targets\curie_bsp\jerry_app\quark\main.c,252,130,21
+main.c,main.c,\src\fnet\main.c,\targets\curie_bsp\jerry_app\quark\main.c,111,130,19
+main.c,main.c,\src\fnetfilter\main.c,\targets\curie_bsp\jerry_app\quark\main.c,155,130,19
+main.c,main.c,\src\fsec-optimize\main.c,\targets\curie_bsp\jerry_app\quark\main.c,57,130,8
+main.c,main.c,\src\fsec-print\main.c,\targets\curie_bsp\jerry_app\quark\main.c,44,130,6
+main.c,main.c,\src\fseccomp\main.c,\targets\curie_bsp\jerry_app\quark\main.c,74,130,7
+main.c,main.c,\src\ftee\main.c,\targets\curie_bsp\jerry_app\quark\main.c,172,130,16
+common.h,common.h,\src\include\common.h,\jerry-core\parser\js\common.h,89,78,9
+common.c,common.c,\src\lib\common.c,\jerry-core\parser\js\common.c,241,76,18

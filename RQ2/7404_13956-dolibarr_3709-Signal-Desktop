@@ -1,0 +1,7 @@
+13956-dolibarr,3709-Signal-Desktop
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\main.js,75,881,22
+sql.js,sql.js,\htdocs\includes\ace\snippets\sql.js,\app\sql.js,31,2787,1
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\js\modules\migrations\18\index.js,40,15,0
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\app\config.js,72,33,1
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\app\config.js,72,33,1
+Gruntfile.js,Gruntfile.js,\htdocs\includes\jquery\plugins\select2\Gruntfile.js,\Gruntfile.js,324,389,77

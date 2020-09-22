@@ -1,0 +1,4 @@
+12758-znc,8848-lwjgl3
+log.cpp,log.cpp,\modules\log.cpp,\modules\lwjgl\yoga\src\main\c\log.cpp,448,53,8
+Utils.cpp,Utils.cpp,\src\Utils.cpp,\modules\lwjgl\yoga\src\main\c\Utils.cpp,758,49,16
+Utils.h,Utils.h,\include\znc\Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,175,83,11

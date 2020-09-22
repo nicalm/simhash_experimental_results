@@ -1,0 +1,6 @@
+11788-fbthrift,1811-otp
+common.h,common.h,\thrift\compiler\common.h,\lib\crypto\c_src\common.h,39,24,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-enum-from-string\gen-cocoa\module.h,\erts\emulator\beam\module.h,16,68,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-reserved-properties-prefix\gen-cocoa\module.h,\erts\emulator\beam\module.h,26,68,1
+module.h,module.h,\thrift\compiler\test\fixtures\includes\gen-cocoa\module.h,\erts\emulator\beam\module.h,31,68,1
+module.h,module.h,\thrift\compiler\test\fixtures\req-opt\gen-cocoa\module.h,\erts\emulator\beam\module.h,36,68,1

@@ -1,0 +1,4 @@
+2202-qBittorrent,9469-wireshark
+main.cpp,main.cpp,\src\app\main.cpp,\ui\qt\main.cpp,324,650,79
+preferences.h,preferences.h,\src\base\preferences.h,\plugins\epan\transum\preferences.h,325,26,1
+profile.h,profile.h,\src\base\profile.h,\ui\profile.h,41,35,2

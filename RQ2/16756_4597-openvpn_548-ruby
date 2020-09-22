@@ -1,0 +1,13 @@
+4597-openvpn,548-ruby
+console.c,console.c,\src\openvpn\console.c,\ext\io\console\console.c,44,1331,15
+error.c,error.c,\src\openvpn\error.c,\error.c,754,1954,257
+error.h,error.h,\src\openvpn\error.h,\internal\error.h,214,120,29
+init.c,init.c,\src\openvpn\init.c,\ext\sdbm\init.c,3572,605,119
+init.c,init.c,\src\openvpn\init.c,\ext\socket\init.c,3572,707,177
+init.c,init.c,\src\openvpn\init.c,\ext\-test-\symbol\init.c,3572,34,11
+list.h,list.h,\src\openvpn\list.h,\ccan\list\list.h,129,263,25
+socket.c,socket.c,\src\openvpn\socket.c,\ext\socket\socket.c,3367,1103,270
+win32.c,win32.c,\src\openvpn\win32.c,\win32\win32.c,1279,6643,554
+win32.h,win32.h,\src\openvpn\win32.h,\include\ruby\win32.h,172,682,19
+error.h,error.h,\src\tapctl\error.h,\internal\error.h,48,120,10
+main.c,main.c,\src\tapctl\main.c,\main.c,349,31,7

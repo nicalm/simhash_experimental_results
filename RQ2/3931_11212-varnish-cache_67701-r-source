@@ -1,0 +1,4 @@
+11212-varnish-cache,67701-r-source
+version.c,version.c,\lib\libvarnish\version.c,\src\main\version.c,45,107,5
+random.c,random.c,\lib\libvmod_directors\random.c,\src\main\random.c,103,447,18
+random.c,random.c,\lib\libvmod_directors\random.c,\src\library\stats\src\random.c,103,332,15

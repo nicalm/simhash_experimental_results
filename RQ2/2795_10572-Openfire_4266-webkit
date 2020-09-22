@@ -1,0 +1,12 @@
+10572-Openfire,4266-webkit
+builder.js,builder.js,\xmppserver\src\main\webapp\js\builder.js,\Websites\perf.webkit.org\public\v3\models\builder.js,81,33,5
+cookies.js,cookies.js,\xmppserver\src\main\webapp\js\cookies.js,\LayoutTests\webgl\1.0.3\resources\webgl_test_files\resources\cookies.js,44,37,6
+effects.js,effects.js,\xmppserver\src\main\webapp\js\effects.js,\LayoutTests\jquery\resources\src\effects.js,854,364,95
+effects.js,effects.js,\xmppserver\src\main\webapp\js\effects.js,\LayoutTests\jquery\resources\test\unit\effects.js,854,750,54
+pngfix.js,pngfix.js,\xmppserver\src\main\webapp\js\pngfix.js,\PerformanceTests\Dromaeo\resources\dromaeo\web\pngfix.js,25,26,24
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\JSTests\ChakraCore\test\Function\prototype.js,5993,23,7
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\Websites\webkit.org\perf\slickspeed\frameworks\prototype.js,5993,3511,1867
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\JSTests\test262\test\intl402\Segmenter\iterator\prototype.js,5993,16,3
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\Websites\webkit.org\blog-files\aria1.0\roaming_tabindex\js\prototype.js,5993,3489,1815
+slider.js,slider.js,\xmppserver\src\main\webapp\js\slider.js,\LayoutTests\svg\carto.net\resources\slider.js,227,207,14
+slider.js,slider.js,\xmppserver\src\main\webapp\js\slider.js,\Source\WebCore\Modules\modern-media-controls\controls\slider.js,227,142,15

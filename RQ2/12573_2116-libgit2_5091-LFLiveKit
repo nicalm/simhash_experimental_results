@@ -1,0 +1,3 @@
+2116-libgit2,5091-LFLiveKit
+log.c,log.c,\examples\log.c,\LFLiveKit\Vendor\pili-librtmp\log.c,345,141,21
+error.c,error.c,\src\win32\error.c,\LFLiveKit\Vendor\pili-librtmp\error.c,33,17,3

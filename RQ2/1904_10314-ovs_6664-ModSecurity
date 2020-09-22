@@ -1,0 +1,11 @@
+10314-ovs,6664-ModSecurity
+sha1.c,sha1.c,\lib\sha1.c,\others\mbedtls\sha1.c,232,328,36
+sha1.h,sha1.h,\lib\sha1.h,\others\mbedtls\sha1.h,30,43,3
+sha1.h,sha1.h,\lib\sha1.h,\src\utils\sha1.h,30,16,2
+sha1.h,sha1.h,\lib\sha1.h,\src\actions\transformations\sha1.h,30,21,2
+log.h,log.h,\ovsdb\log.h,\src\actions\log.h,49,19,2
+transaction.h,transaction.h,\ovsdb\transaction.h,\headers\modsecurity\transaction.h,44,399,1
+resource.h,resource.h,\datapath-windows\ovsext\resource.h,\src\variables\resource.h,1569,83,1
+json.h,json.h,\include\openvswitch\json.h,\src\request_body_processor\json.h,95,80,7
+resource.h,resource.h,\include\windows\sys\resource.h,\src\variables\resource.h,31,83,2
+ip.h,ip.h,\datapath\linux\compat\include\net\ip.h,\src\variables\ip.h,105,84,9

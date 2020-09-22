@@ -1,0 +1,16 @@
+15910-gdal,548-ruby
+io.c,io.c,\gdal\alg\internal_libqhull\io.c,\io.c,2883,9358,496
+io.h,io.h,\gdal\alg\internal_libqhull\io.h,\internal\io.h,92,20,1
+io.h,io.h,\gdal\alg\internal_libqhull\io.h,\include\ruby\io.h,92,128,3
+random.c,random.c,\gdal\alg\internal_libqhull\random.c,\random.c,133,1180,23
+stat.c,stat.c,\gdal\alg\internal_libqhull\stat.c,\ext\-test-\file\stat.c,556,24,3
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\file.c,22,4432,10
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\win32\file.c,22,558,7
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\internal\hash.h,91,189,19
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\internal\util.h,411,15,2
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\include\ruby\util.h,411,62,17
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\debug.c,74,211,20
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\internal\debug.h,56,16,2
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\include\ruby\debug.h,56,70,7
+io.h,io.h,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.h,\internal\io.h,104,20,1
+io.h,io.h,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.h,\include\ruby\io.h,104,128,4

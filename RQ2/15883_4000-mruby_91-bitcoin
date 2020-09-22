@@ -1,0 +1,7 @@
+4000-mruby,91-bitcoin
+common.h,common.h,\include\mruby\common.h,\src\crypto\common.h,55,83,4
+error.h,error.h,\include\mruby\error.h,\src\util\error.h,60,21,2
+hash.h,hash.h,\include\mruby\hash.h,\src\hash.h,42,153,2
+hash.h,hash.h,\include\mruby\hash.h,\src\secp256k1\src\hash.h,42,27,1
+string.h,string.h,\include\mruby\string.h,\src\util\string.h,142,34,1
+node.h,node.h,\mrbgems\mruby-compiler\core\node.h,\src\interfaces\node.h,95,120,2

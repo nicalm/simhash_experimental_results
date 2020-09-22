@@ -1,0 +1,5 @@
+10549-luci,9975-hexchat
+ssl.h,ssl.h,\libs\luci-lib-nixio\axTLS\ssl\ssl.h,\src\common\ssl.h,95,40,1
+menu.c,menu.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\menu.c,\src\fe-gtk\menu.c,341,2053,87
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\src\common\util.c,81,1287,23
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\src\common\util.c,261,1287,54

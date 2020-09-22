@@ -1,0 +1,9 @@
+11788-fbthrift,2475-fmt
+util.cc,util.cc,\thrift\compiler\util.cc,\test\util.cc,67,38,5
+util.h,util.h,\thrift\compiler\util.h,\test\util.h,91,55,10
+util.cc,util.cc,\thrift\compiler\lib\cpp2\util.cc,\test\util.cc,147,38,5
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\test\util.h,25,55,4
+util.cc,util.cc,\thrift\compiler\lib\java\util.cc,\test\util.cc,116,38,6
+util.h,util.h,\thrift\compiler\lib\java\util.h,\test\util.h,17,55,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\test\util.h,29,55,5
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\test\fuzzing\main.cpp,47,20,3

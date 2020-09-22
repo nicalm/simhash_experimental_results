@@ -1,0 +1,12 @@
+1698-server,7408-DeepVideoAnalytics
+app.js,app.js,\apps\files\js\app.js,\server\dvaapp\static\app\app.js,196,180,29
+app.js,app.js,\apps\files\js\app.js,\server\dvaapp\static\dist\js\app.js,196,470,41
+app.js,app.js,\apps\files_external\js\app.js,\server\dvaapp\static\app\app.js,75,180,23
+app.js,app.js,\apps\files_external\js\app.js,\server\dvaapp\static\dist\js\app.js,75,470,22
+app.js,app.js,\apps\files_sharing\js\app.js,\server\dvaapp\static\app\app.js,239,180,22
+app.js,app.js,\apps\files_sharing\js\app.js,\server\dvaapp\static\dist\js\app.js,239,470,36
+app.js,app.js,\apps\files_trashbin\src\app.js,\server\dvaapp\static\app\app.js,107,180,13
+app.js,app.js,\apps\files_trashbin\src\app.js,\server\dvaapp\static\dist\js\app.js,107,470,12
+app.js,app.js,\apps\systemtags\src\app.js,\server\dvaapp\static\app\app.js,73,180,16
+app.js,app.js,\apps\systemtags\src\app.js,\server\dvaapp\static\dist\js\app.js,73,470,13
+controller.js,controller.js,\apps\user_ldap\js\wizard\controller.js,\server\dvaapp\static\app\controller.js,22,545,5

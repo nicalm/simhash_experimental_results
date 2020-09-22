@@ -1,0 +1,15 @@
+242-php-src,9469-wireshark
+console.c,console.c,\win32\console.c,\ui\console.c,79,98,9
+console.h,console.h,\win32\console.h,\ui\console.h,21,15,4
+interface.c,interface.c,\ext\curl\interface.c,\wsutil\interface.c,3028,119,36
+json.c,json.c,\ext\json\json.c,\wiretap\json.c,259,41,7
+stream.c,stream.c,\ext\phar\stream.c,\epan\stream.c,779,288,53
+util.c,util.c,\ext\phar\util.c,\ui\util.c,1635,182,33
+crc32.c,crc32.c,\ext\standard\crc32.c,\wsutil\crc32.c,70,366,11
+crc32.h,crc32.h,\ext\standard\crc32.h,\wsutil\crc32.h,67,32,0
+file.c,file.c,\ext\standard\file.c,\file.c,1874,3028,375
+file.h,file.h,\ext\standard\file.h,\file.h,112,168,4
+strnatcmp.c,strnatcmp.c,\ext\standard\strnatcmp.c,\wsutil\strnatcmp.c,108,107,47
+buffer.c,buffer.c,\ext\fileinfo\libmagic\buffer.c,\wsutil\buffer.c,58,142,14
+file.h,file.h,\ext\fileinfo\libmagic\file.h,\file.h,483,168,7
+print.c,print.c,\ext\fileinfo\libmagic\print.c,\epan\print.c,212,1978,37

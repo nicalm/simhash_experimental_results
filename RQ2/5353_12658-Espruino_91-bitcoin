@@ -1,0 +1,10 @@
+12658-Espruino,91-bitcoin
+aes.h,aes.h,\libs\crypto\mbedtls\include\mbedtls\aes.h,\src\crypto\aes.h,86,48,4
+net.h,net.h,\libs\crypto\mbedtls\include\mbedtls\net.h,\src\net.h,50,676,8
+ripemd160.h,ripemd160.h,\libs\crypto\mbedtls\include\mbedtls\ripemd160.h,\src\crypto\ripemd160.h,45,18,3
+sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\src\crypto\sha1.h,43,18,3
+sha256.h,sha256.h,\libs\crypto\mbedtls\include\mbedtls\sha256.h,\src\crypto\sha256.h,46,21,3
+sha512.h,sha512.h,\libs\crypto\mbedtls\include\mbedtls\sha512.h,\src\crypto\sha512.h,46,19,3
+sha256.h,sha256.h,\targetlibs\nrf5x_12\components\libraries\sha256\sha256.h,\src\crypto\sha256.h,20,21,2
+common.h,common.h,\libs\tensorflow\tensorflow\lite\kernels\internal\common.h,\src\crypto\common.h,517,83,18
+base.h,base.h,\libs\tensorflow\third_party\flatbuffers\include\flatbuffers\base.h,\src\index\base.h,270,44,3

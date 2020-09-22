@@ -1,0 +1,5 @@
+12658-Espruino,16203-bdwgc
+misc.c,misc.c,\targetlibs\stm32f1\lib\misc.c,\misc.c,62,2063,22
+misc.c,misc.c,\targetlibs\stm32f2\lib\misc.c,\misc.c,62,2063,22
+misc.c,misc.c,\targetlibs\stm32f4\lib\misc.c,\misc.c,62,2063,22
+misc.c,misc.c,\targetlibs\stm32l1\lib\misc.c,\misc.c,62,2063,22

@@ -1,0 +1,7 @@
+13956-dolibarr,63622-mirador
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\src\state\actions\config.js,72,21,1
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\src\state\reducers\config.js,72,15,1
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\src\state\selectors\config.js,72,44,1
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\src\state\actions\config.js,72,21,1
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\src\state\reducers\config.js,72,15,1
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\src\state\selectors\config.js,72,44,1

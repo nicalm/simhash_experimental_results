@@ -1,0 +1,9 @@
+4960-capstone,9776-gaia
+setup.py,setup.py,\bindings\python\setup.py,\tests\python\gaia-ui-tests\setup.py,173,47,6
+setup.py,setup.py,\bindings\python\setup.py,\tests\python\gaia-unit-tests\setup.py,173,25,3
+setup.py,setup.py,\bindings\python\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,173,16,1
+setup.py,setup.py,\bindings\python\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,173,29,5
+setup.py,setup.py,\bindings\python\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,173,148,0
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,801,338,12
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,801,1303,33
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,801,41,4

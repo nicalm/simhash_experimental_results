@@ -1,0 +1,8 @@
+1698-server,8874-collectd
+index.php,index.php,\index.php,\contrib\php-collection\index.php,38,275,5
+config.php,config.php,\build\.phan\config.php,\contrib\php-collection\config.php,117,32,1
+index.php,index.php,\apps\files\templates\index.php,\contrib\php-collection\index.php,31,275,0
+config.php,config.php,\apps\files_external\lib\config.php,\contrib\php-collection\config.php,258,32,2
+config.php,config.php,\apps\files_external\tests\config.php,\contrib\php-collection\config.php,66,32,2
+index.php,index.php,\apps\files_trashbin\templates\index.php,\contrib\php-collection\index.php,46,275,3
+functions.php,functions.php,\lib\private\legacy\template\functions.php,\contrib\php-collection\functions.php,156,646,52

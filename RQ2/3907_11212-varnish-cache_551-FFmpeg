@@ -1,0 +1,10 @@
+11212-varnish-cache,551-FFmpeg
+adler32.c,adler32.c,\lib\libvgz\adler32.c,\libavutil\adler32.c,156,56,10
+adler32.c,adler32.c,\lib\libvgz\adler32.c,\libavutil\tests\adler32.c,156,25,4
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\libavutil\base64.c,269,129,12
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\tests\base64.c,269,28,3
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\libavutil\tests\base64.c,269,95,17
+url.c,url.c,\lib\libvmod_blob\url.c,\libavformat\url.c,137,113,18
+url.c,url.c,\lib\libvmod_blob\url.c,\libavformat\tests\url.c,137,32,6
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\libavutil\hash.c,75,205,13
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\libavutil\tests\hash.c,75,37,5

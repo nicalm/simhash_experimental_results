@@ -1,0 +1,13 @@
+7408-DeepVideoAnalytics,86-netdata
+__init__.py,__init__.py,\deploy\compose\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,161,171,8
+__init__.py,__init__.py,\deploy\compose\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,161,168,8
+__init__.py,__init__.py,\deploy\compose\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,161,58,2
+__init__.py,__init__.py,\deploy\compose\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,161,51,0
+__init__.py,__init__.py,\deploy\kube\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,256,171,6
+__init__.py,__init__.py,\deploy\kube\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,256,168,6
+__init__.py,__init__.py,\deploy\kube\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,256,58,1
+__init__.py,__init__.py,\deploy\kube\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,256,51,0
+utils.js,utils.js,\server\dvaapp\static\app\utils.js,\web\gui\src\dashboard.js\utils.js,48,324,12
+compatibility.js,compatibility.js,\server\dvaapp\static\vision\compatibility.js,\web\gui\src\dashboard.js\compatibility.js,59,22,4
+dashboard.js,dashboard.js,\server\dvaapp\static\dist\js\pages\dashboard.js,\web\gui\dashboard.js,174,7634,22
+options.js,options.js,\server\dvaapp\static\plugins\ckeditor\plugins\scayt\dialogs\options.js,\web\gui\src\dashboard.js\options.js,19,131,0

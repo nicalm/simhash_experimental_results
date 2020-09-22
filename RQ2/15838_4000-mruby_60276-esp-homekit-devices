@@ -1,0 +1,14 @@
+4000-mruby,60276-esp-homekit-devices
+debug.c,debug.c,\src\debug.c,\external_libs\homekit\src\debug.c,175,33,5
+error.c,error.c,\src\error.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\error.c,426,284,10
+error.c,error.c,\src\error.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\error.c,426,284,10
+hash.c,hash.c,\src\hash.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\tests\hash.c,976,839,67
+hash.c,hash.c,\src\hash.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\tests\hash.c,976,839,67
+hash.c,hash.c,\src\hash.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\hash.c,976,500,64
+hash.c,hash.c,\src\hash.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\hash.c,976,500,64
+common.h,common.h,\include\mruby\common.h,\external_libs\cJSON\cJSON\tests\common.h,55,82,1
+debug.h,debug.h,\include\mruby\debug.h,\external_libs\homekit\src\debug.h,38,20,1
+hash.h,hash.h,\include\mruby\hash.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\hash.h,42,103,2
+hash.h,hash.h,\include\mruby\hash.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\hash.h,42,103,2
+random.c,random.c,\mrbgems\mruby-random\src\random.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\random.c,294,1254,75
+random.c,random.c,\mrbgems\mruby-random\src\random.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\random.c,294,1254,75

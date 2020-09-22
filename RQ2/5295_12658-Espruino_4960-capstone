@@ -1,0 +1,14 @@
+12658-Espruino,4960-capstone
+benchmark.py,benchmark.py,\benchmark\benchmark.py,\suite\benchmark.py,54,76,2
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\bindings\python\capstone\__init__.py,781,801,32
+main.c,main.c,\targets\emscripten\main.c,\suite\cstest\src\main.c,50,300,8
+main.c,main.c,\targets\esp32\main.c,\suite\cstest\src\main.c,92,300,9
+main.c,main.c,\targets\linux\main.c,\suite\cstest\src\main.c,335,300,43
+main.c,main.c,\targets\nrf5x\main.c,\suite\cstest\src\main.c,16,300,3
+main.c,main.c,\targets\nrf5x_dfu\main.c,\suite\cstest\src\main.c,191,300,30
+main.c,main.c,\targets\stm32\main.c,\suite\cstest\src\main.c,38,300,3
+main.c,main.c,\targets\stm32_boot\main.c,\suite\cstest\src\main.c,236,300,32
+utils.c,utils.c,\targets\stm32_boot\utils.c,\utils.c,188,92,24
+main.c,main.c,\targets\stm32_ll\main.c,\suite\cstest\src\main.c,23,300,2
+platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\include\platform.h,106,80,12
+platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\include\capstone\platform.h,106,88,15

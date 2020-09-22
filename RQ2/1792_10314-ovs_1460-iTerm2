@@ -1,0 +1,7 @@
+10314-ovs,1460-iTerm2
+conf.py,conf.py,\Documentation\conf.py,\api\library\python\iterm2\docs\conf.py,71,39,6
+setup.py,setup.py,\python\setup.py,\tools\ply\ply-3.4\setup.py,71,20,5
+setup.py,setup.py,\python\setup.py,\api\library\python\iterm2\setup.py,71,33,2
+util.py,util.py,\python\ovs\util.py,\api\library\python\iterm2\iterm2\util.py,36,241,1
+util.py,util.py,\python\ovstest\util.py,\api\library\python\iterm2\iterm2\util.py,139,241,2
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\api\library\python\iterm2\iterm2\__init__.py,44,52,0

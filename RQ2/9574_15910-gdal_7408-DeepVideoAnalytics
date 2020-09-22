@@ -1,0 +1,6 @@
+15910-gdal,7408-DeepVideoAnalytics
+transformer.py,transformer.py,\autotest\gcore\transformer.py,\server\dvalib\transformer.py,420,16,0
+setup.py,setup.py,\gdal\swig\python\setup.py,\client\setup.py,329,15,2
+setup.py,setup.py,\gdal\swig\python\setup.py,\repos\lopq\python\setup.py,329,90,7
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\deploy\compose\__init__.py,40,161,4
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\deploy\kube\__init__.py,40,256,4

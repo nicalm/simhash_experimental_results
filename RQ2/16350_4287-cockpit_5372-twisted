@@ -1,0 +1,9 @@
+4287-cockpit,5372-twisted
+inotify.py,inotify.py,\pkg\lib\inotify.py,\src\twisted\internet\inotify.py,46,186,11
+tap.py,tap.py,\test\common\tap.py,\src\twisted\conch\tap.py,79,46,0
+tap.py,tap.py,\test\common\tap.py,\src\twisted\mail\tap.py,79,162,1
+tap.py,tap.py,\test\common\tap.py,\src\twisted\names\tap.py,79,103,1
+tap.py,tap.py,\test\common\tap.py,\src\twisted\news\tap.py,79,102,1
+tap.py,tap.py,\test\common\tap.py,\src\twisted\web\tap.py,79,174,1
+tap.py,tap.py,\test\common\tap.py,\src\twisted\words\tap.py,79,44,0
+tap.py,tap.py,\test\common\tap.py,\docs\core\howto\tutorial\listings\finger\finger\tap.py,79,15,0

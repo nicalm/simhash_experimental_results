@@ -1,0 +1,4 @@
+14021-lxml,2432-jinja
+setup.py,setup.py,\setup.py,\setup.py,168,50,6
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\jinja2\__init__.py,1099,31,2
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\jinja2\__init__.py,154,31,0

@@ -1,0 +1,11 @@
+2432-jinja,9776-gaia
+setup.py,setup.py,\setup.py,\tests\python\gaia-ui-tests\setup.py,50,47,1
+setup.py,setup.py,\setup.py,\tests\python\gaia-unit-tests\setup.py,50,25,2
+setup.py,setup.py,\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,50,16,1
+setup.py,setup.py,\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,50,29,3
+setup.py,setup.py,\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,50,148,0
+conf.py,conf.py,\docs\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,40,38,6
+environment.py,environment.py,\jinja2\environment.py,\tests\python\gaia-ui-tests\gaiatest\environment.py,621,20,3
+__init__.py,__init__.py,\jinja2\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,31,338,0
+__init__.py,__init__.py,\jinja2\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,31,1303,0
+__init__.py,__init__.py,\jinja2\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,31,41,0

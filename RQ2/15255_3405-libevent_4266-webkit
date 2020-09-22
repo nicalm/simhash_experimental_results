@@ -1,0 +1,11 @@
+3405-libevent,4266-webkit
+event.h,event.h,\include\event.h,\Source\ThirdParty\libwebrtc\Source\webrtc\rtc_base\event.h,39,47,5
+buffer.h,buffer.h,\include\event2\buffer.h,\Source\ThirdParty\libwebrtc\Source\webrtc\rtc_base\buffer.h,208,286,6
+buffer.h,buffer.h,\include\event2\buffer.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\test\buffer.h,208,293,3
+event.h,event.h,\include\event2\event.h,\Source\ThirdParty\libwebrtc\Source\webrtc\rtc_base\event.h,251,47,6
+thread.h,thread.h,\include\event2\thread.h,\Source\ThirdParty\libwebrtc\Source\webrtc\rtc_base\thread.h,65,187,9
+thread.h,thread.h,\include\event2\thread.h,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\include\openssl\thread.h,65,66,6
+util.h,util.h,\include\event2\util.h,\Source\ThirdParty\ANGLE\src\compiler\translator\util.h,462,52,3
+util.h,util.h,\include\event2\util.h,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\util.h,462,95,23
+util.h,util.h,\include\event2\util.h,\Source\ThirdParty\libwebrtc\Source\third_party\gflags\src\src\util.h,462,258,28
+util.h,util.h,\include\event2\util.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\test\util.h,462,29,2

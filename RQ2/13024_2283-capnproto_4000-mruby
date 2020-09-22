@@ -1,0 +1,10 @@
+2283-capnproto,4000-mruby
+common.h,common.h,\c++\src\benchmark\common.h,\include\mruby\common.h,229,55,2
+common.h,common.h,\c++\src\capnp\common.h,\include\mruby\common.h,508,55,14
+array.h,array.h,\c++\src\kj\array.h,\include\mruby\array.h,661,74,2
+common.h,common.h,\c++\src\kj\common.h,\include\mruby\common.h,1054,55,18
+debug.h,debug.h,\c++\src\kj\debug.h,\include\mruby\debug.h,327,38,1
+hash.h,hash.h,\c++\src\kj\hash.h,\include\mruby\hash.h,95,42,1
+io.h,io.h,\c++\src\kj\io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,223,28,4
+string.h,string.h,\c++\src\kj\string.h,\include\mruby\string.h,440,142,5
+common.h,common.h,\c++\src\kj\parse\common.h,\include\mruby\common.h,564,55,9

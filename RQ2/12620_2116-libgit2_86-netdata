@@ -1,0 +1,14 @@
+2116-libgit2,86-netdata
+common.h,common.h,\examples\common.h,\daemon\common.h,74,48,1
+log.c,log.c,\examples\log.c,\libnetdata\log\log.c,345,565,50
+buffer.c,buffer.c,\src\buffer.c,\libnetdata\buffer\buffer.c,790,280,51
+buffer.h,buffer.h,\src\buffer.h,\libnetdata\buffer\buffer.h,89,64,2
+common.h,common.h,\src\common.h,\daemon\common.h,114,48,1
+main.c,main.c,\tests\main.c,\daemon\main.c,29,995,5
+buffer.h,buffer.h,\include\git2\buffer.h,\libnetdata\buffer\buffer.h,18,64,2
+common.h,common.h,\include\git2\common.h,\daemon\common.h,103,48,1
+registry.c,registry.c,\src\streams\registry.c,\registry\registry.c,88,286,14
+socket.c,socket.c,\src\streams\socket.c,\libnetdata\socket\socket.c,179,1305,51
+buffer.c,buffer.c,\tests\blame\buffer.c,\libnetdata\buffer\buffer.c,149,280,16
+buffer.c,buffer.c,\tests\core\buffer.c,\libnetdata\buffer\buffer.c,906,280,45
+query.c,query.c,\tests\filter\query.c,\web\api\queries\query.c,73,1115,9

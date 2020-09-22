@@ -1,0 +1,6 @@
+10205-firejail,10549-luci
+util.c,util.c,\src\firecfg\util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,50,81,11
+util.c,util.c,\src\firecfg\util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,50,261,10
+fs.c,fs.c,\src\firejail\fs.c,\libs\luci-lib-nixio\src\fs.c,918,461,77
+util.c,util.c,\src\firejail\util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,968,81,14
+util.c,util.c,\src\firejail\util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,968,261,29

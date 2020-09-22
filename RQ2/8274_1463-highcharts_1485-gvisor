@@ -1,0 +1,5 @@
+1463-highcharts,1485-gvisor
+index.js,index.js,\studies\highcharts-jsdom\index.js,\benchmarks\workloads\node\index.js,93,23,2
+index.js,index.js,\studies\highcharts-jsdom\index.js,\benchmarks\workloads\node_template\index.js,93,27,6
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\benchmarks\workloads\node\index.js,40,23,2
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\benchmarks\workloads\node_template\index.js,40,27,6

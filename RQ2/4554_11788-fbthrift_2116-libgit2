@@ -1,0 +1,17 @@
+11788-fbthrift,2116-libgit2
+common.h,common.h,\thrift\compiler\common.h,\examples\common.h,39,74,2
+common.h,common.h,\thrift\compiler\common.h,\src\common.h,39,114,4
+common.h,common.h,\thrift\compiler\common.h,\include\git2\common.h,39,103,1
+util.h,util.h,\thrift\compiler\util.h,\src\util.h,91,264,17
+stream.h,stream.h,\thrift\lib\py3\stream.h,\src\stream.h,24,62,4
+stream.h,stream.h,\thrift\lib\py3\stream.h,\include\git2\sys\stream.h,24,36,0
+types.h,types.h,\thrift\lib\py3\types.h,\include\git2\types.h,20,131,0
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\util.h,25,264,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\util.h,17,264,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\util.h,29,264,8
+diff.h,diff.h,\thrift\lib\cpp2\reflection\diff.h,\src\diff.h,44,51,1
+diff.h,diff.h,\thrift\lib\cpp2\reflection\diff.h,\include\git2\diff.h,44,390,0
+diff.h,diff.h,\thrift\lib\cpp2\reflection\diff.h,\include\git2\sys\diff.h,44,31,0
+merge.h,merge.h,\thrift\lib\cpp2\reflection\merge.h,\src\merge.h,20,110,2
+merge.h,merge.h,\thrift\lib\cpp2\reflection\merge.h,\include\git2\merge.h,20,165,0
+merge.h,merge.h,\thrift\lib\cpp2\reflection\merge.h,\include\git2\sys\merge.h,20,44,0

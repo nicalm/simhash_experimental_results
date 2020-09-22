@@ -1,0 +1,4 @@
+1123-envoy,9012-libpod
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\varlink\go\varlink\service.go,48,302,14
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\golang.org\x\sys\windows\service.go,48,176,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\docker\docker\api\types\swarm\service.go,48,62,8

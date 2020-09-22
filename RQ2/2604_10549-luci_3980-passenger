@@ -1,0 +1,9 @@
+10549-luci,3980-passenger
+fs.c,fs.c,\libs\luci-lib-nixio\src\fs.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\fs.c,461,1008,83
+poll.c,poll.c,\libs\luci-lib-nixio\src\poll.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\poll.c,154,65,9
+process.c,process.c,\libs\luci-lib-nixio\src\process.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\process.c,351,379,53
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\config.js,53,40,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,82,31,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,82,286,18
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,82,71,14
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,82,71,14

@@ -1,0 +1,8 @@
+15760-bfgminer,91-bitcoin
+compat.h,compat.h,\compat.h,\src\compat.h,164,87,22
+logging.h,logging.h,\logging.h,\src\logging.h,133,123,4
+logging.h,logging.h,\logging.h,\src\leveldb\util\logging.h,133,16,2
+logging.h,logging.h,\logging.h,\src\test\util\logging.h,133,18,2
+miner.h,miner.h,\miner.h,\src\miner.h,1425,129,23
+util.h,util.h,\util.h,\src\rpc\util.h,687,173,24
+util.h,util.h,\util.h,\src\secp256k1\src\util.h,687,99,22

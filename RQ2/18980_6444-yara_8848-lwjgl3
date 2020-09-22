@@ -1,0 +1,8 @@
+6444-yara,8848-lwjgl3
+threading.c,threading.c,\threading.c,\modules\lwjgl\zstd\src\main\c\common\threading.c,125,76,30
+threading.h,threading.h,\threading.h,\modules\lwjgl\zstd\src\main\c\common\threading.h,44,91,7
+threading.c,threading.c,\libyara\threading.c,\modules\lwjgl\zstd\src\main\c\common\threading.c,125,76,20
+compiler.h,compiler.h,\libyara\include\yara\compiler.h,\modules\lwjgl\zstd\src\main\c\common\compiler.h,192,101,1
+error.h,error.h,\libyara\include\yara\error.h,\modules\lwjgl\tootle\src\main\c\error.h,97,53,6
+mem.h,mem.h,\libyara\include\yara\mem.h,\modules\lwjgl\zstd\src\main\c\common\mem.h,30,303,3
+threading.h,threading.h,\libyara\include\yara\threading.h,\modules\lwjgl\zstd\src\main\c\common\threading.h,23,91,5

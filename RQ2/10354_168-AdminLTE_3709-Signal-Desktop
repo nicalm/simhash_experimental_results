@@ -1,0 +1,9 @@
+168-AdminLTE,3709-Signal-Desktop
+main.js,main.js,\plugins\fullcalendar\main.js,\main.js,7977,881,196
+main.js,main.js,\plugins\fullcalendar-bootstrap\main.js,\main.js,59,881,7
+main.js,main.js,\plugins\fullcalendar-daygrid\main.js,\main.js,1471,881,140
+main.js,main.js,\plugins\fullcalendar-interaction\main.js,\main.js,1906,881,142
+main.js,main.js,\plugins\fullcalendar-timegrid\main.js,\main.js,1195,881,133
+Gruntfile.js,Gruntfile.js,\plugins\raphael\Gruntfile.js,\Gruntfile.js,62,389,18
+main.js,main.js,\plugins\daterangepicker\example\amd\main.js,\main.js,104,881,14
+main.js,main.js,\plugins\daterangepicker\example\browserify\main.js,\main.js,98,881,11

@@ -1,0 +1,7 @@
+18692-spdk,4420-zcash
+endian.h,endian.h,\include\spdk\endian.h,\src\compat\endian.h,124,160,28
+env.h,env.h,\include\spdk\env.h,\src\leveldb\include\leveldb\env.h,212,160,10
+net.h,net.h,\include\spdk\net.h,\src\net.h,32,494,5
+util.h,util.h,\include\spdk\util.h,\src\util.h,52,150,15
+util.h,util.h,\include\spdk\util.h,\src\secp256k1\src\util.h,52,92,8
+common.h,common.h,\module\bdev\nvme\common.h,\src\crypto\common.h,84,94,1

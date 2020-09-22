@@ -1,0 +1,5 @@
+1698-server,222-prometheus
+index.js,index.js,\core\src\jquery\index.js,\web\ui\static\js\graph\index.js,22,1022,4
+index.js,index.js,\core\src\OC\index.js,\web\ui\static\js\graph\index.js,162,1022,2
+index.js,index.js,\core\src\OCP\index.js,\web\ui\static\js\graph\index.js,18,1022,2
+index.js,index.js,\apps\settings\src\store\index.js,\web\ui\static\js\graph\index.js,29,1022,7

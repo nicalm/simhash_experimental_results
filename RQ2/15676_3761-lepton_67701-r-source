@@ -1,0 +1,10 @@
+3761-lepton,67701-r-source
+config.h,config.h,\dependencies\config.h,\src\gnuwin32\fixed\h\config.h,33,267,4
+md5.c,md5.c,\dependencies\md5\md5.c,\src\library\tools\src\md5.c,211,238,17
+md5.h,md5.h,\dependencies\md5\md5.h,\src\library\tools\src\md5.h,21,64,4
+port.h,port.h,\dependencies\brotli\c\dec\port.h,\src\library\stats\src\port.h,121,52,3
+state.c,state.c,\dependencies\brotli\c\dec\state.c,\src\library\grid\src\state.c,138,260,12
+memory.c,memory.c,\dependencies\brotli\c\enc\memory.c,\src\main\memory.c,147,3001,33
+port.h,port.h,\dependencies\brotli\c\enc\port.h,\src\library\stats\src\port.h,125,52,4
+port.h,port.h,\dependencies\brotli\c\include\brotli\port.h,\src\library\stats\src\port.h,102,52,3
+types.h,types.h,\dependencies\brotli\c\include\brotli\types.h,\src\extra\xdr\rpc\types.h,31,48,5

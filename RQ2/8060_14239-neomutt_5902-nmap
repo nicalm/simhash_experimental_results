@@ -1,0 +1,9 @@
+14239-neomutt,5902-nmap
+compress.c,compress.c,\compress.c,\libz\compress.c,537,53,8
+socket.h,socket.h,\conn\socket.h,\libpcap\pcap\socket.h,26,24,1
+socket.h,socket.h,\conn\socket.h,\libssh2\os400\include\sys\socket.h,26,24,1
+util.c,util.c,\imap\util.c,\ncat\util.c,784,502,118
+base64.c,base64.c,\mutt\base64.c,\ncat\base64.c,116,38,8
+queue.h,queue.h,\mutt\queue.h,\libdnet-stripped\include\queue.h,572,314,117
+crypt.c,crypt.c,\ncrypt\crypt.c,\libssh2\src\crypt.c,950,280,27
+comp.c,comp.c,\test\pattern\comp.c,\libssh2\src\comp.c,606,236,37

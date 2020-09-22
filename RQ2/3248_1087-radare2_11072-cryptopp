@@ -1,0 +1,6 @@
+1087-radare2,11072-cryptopp
+zlib.h,zlib.h,\shlr\zip\include\zlib.h,\zlib.h,279,42,2
+zlib.h,zlib.h,\shlr\zip\zlib\zlib.h,\zlib.h,307,42,2
+misc.h,misc.h,\shlr\grub\include\grub\misc.h,\misc.h,236,1443,64
+misc.h,misc.h,\shlr\grub\include\grub\emu\misc.h,\misc.h,46,1443,7
+misc.h,misc.h,\shlr\grub\include\grub\util\misc.h,\misc.h,58,1443,7

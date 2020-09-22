@@ -1,0 +1,5 @@
+211-cpython,461-vim
+main.c,main.c,\Modules\main.c,\src\main.c,529,3234,152
+parser.c,parser.c,\Parser\parser.c,\src\libvterm\src\parser.c,336,294,68
+ascii.h,ascii.h,\Modules\expat\ascii.h,\src\ascii.h,85,133,0
+fileio.c,fileio.c,\Modules\_io\fileio.c,\src\fileio.c,910,3790,220

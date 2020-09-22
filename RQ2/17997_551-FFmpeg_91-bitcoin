@@ -1,0 +1,12 @@
+551-FFmpeg,91-bitcoin
+attributes.h,attributes.h,\libavutil\attributes.h,\src\attributes.h,114,15,6
+common.h,common.h,\libavutil\common.h,\src\crypto\common.h,288,83,31
+error.h,error.h,\libavutil\error.h,\src\util\error.h,49,21,1
+hash.h,hash.h,\libavutil\hash.h,\src\hash.h,22,153,1
+hash.h,hash.h,\libavutil\hash.h,\src\secp256k1\src\hash.h,22,27,2
+sha512.h,sha512.h,\libavutil\sha512.h,\src\crypto\sha512.h,17,19,2
+timer.h,timer.h,\libavutil\timer.h,\src\logging\timer.h,101,70,3
+timer.h,timer.h,\libavutil\aarch64\timer.h,\src\logging\timer.h,17,70,3
+timer.h,timer.h,\libavutil\bfin\timer.h,\src\logging\timer.h,17,70,3
+timer.h,timer.h,\libavutil\ppc\timer.h,\src\logging\timer.h,20,70,3
+timer.h,timer.h,\libavutil\x86\timer.h,\src\logging\timer.h,22,70,3

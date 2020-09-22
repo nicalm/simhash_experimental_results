@@ -1,0 +1,5 @@
+618-jq,6883-Sigil
+parser.c,parser.c,\src\parser.c,\internal\gumbo\parser.c,3339,3936,391
+parser.h,parser.h,\src\parser.h,\internal\gumbo\parser.h,145,19,3
+util.c,util.c,\src\util.c,\internal\gumbo\util.c,380,49,11
+util.h,util.h,\src\util.h,\internal\gumbo\util.h,42,48,5

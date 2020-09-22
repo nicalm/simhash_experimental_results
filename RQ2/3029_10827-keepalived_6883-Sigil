@@ -1,0 +1,5 @@
+10827-keepalived,6883-Sigil
+parser.c,parser.c,\lib\parser.c,\internal\gumbo\parser.c,1624,3936,292
+parser.h,parser.h,\lib\parser.h,\internal\gumbo\parser.h,87,19,4
+vector.c,vector.c,\lib\vector.c,\internal\gumbo\vector.c,239,86,19
+vector.h,vector.h,\lib\vector.h,\internal\gumbo\vector.h,42,20,3

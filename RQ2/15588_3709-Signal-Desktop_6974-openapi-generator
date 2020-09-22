@@ -1,0 +1,10 @@
+3709-Signal-Desktop,6974-openapi-generator
+main.js,main.js,\main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,881,62,15
+main.js,main.js,\main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,881,62,15
+index.js,index.js,\js\modules\migrations\18\index.js,\website\src\pages\index.js,15,380,2
+index.js,index.js,\js\modules\migrations\18\index.js,\samples\client\petstore\javascript\src\index.js,15,67,1
+index.js,index.js,\js\modules\migrations\18\index.js,\samples\client\petstore\javascript-apollo\src\index.js,15,22,1
+index.js,index.js,\js\modules\migrations\18\index.js,\samples\client\petstore\javascript-es6\src\index.js,15,112,1
+index.js,index.js,\js\modules\migrations\18\index.js,\samples\client\petstore\javascript-promise\src\index.js,15,67,1
+index.js,index.js,\js\modules\migrations\18\index.js,\samples\client\petstore\javascript-promise-es6\src\index.js,15,112,1
+index.js,index.js,\js\modules\migrations\18\index.js,\samples\openapi3\client\petstore\javascript-es6\src\index.js,15,116,1

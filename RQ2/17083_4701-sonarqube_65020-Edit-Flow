@@ -1,0 +1,12 @@
+4701-sonarqube,65020-Edit-Flow
+webpack.config.js,webpack.config.js,\server\sonar-web\config\webpack.config.js,\webpack.config.js,189,107,46
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\tests\e2e\utils\index.js,79,32,3
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,79,78,2
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\modules\calendar\lib\react\calendar-filters\index.js,79,152,12
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\modules\calendar\lib\react\calendar-header\index.js,79,35,2
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\modules\calendar\lib\react\combobox\index.js,79,166,6
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\tests\e2e\utils\index.js,28,32,2
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,28,78,2
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\modules\calendar\lib\react\calendar-filters\index.js,28,152,3
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\modules\calendar\lib\react\calendar-header\index.js,28,35,2
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\modules\calendar\lib\react\combobox\index.js,28,166,3

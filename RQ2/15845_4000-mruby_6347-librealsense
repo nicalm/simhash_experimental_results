@@ -1,0 +1,6 @@
+4000-mruby,6347-librealsense
+init.c,init.c,\src\init.c,\third-party\glfw\src\init.c,41,212,2
+class.h,class.h,\include\mruby\class.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\class.h,76,413,7
+common.h,common.h,\include\mruby\common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,55,501,18
+debug.h,debug.h,\include\mruby\debug.h,\src\core\debug.h,38,22,0
+debug.h,debug.h,\include\mruby\debug.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\debug.h,38,21,1

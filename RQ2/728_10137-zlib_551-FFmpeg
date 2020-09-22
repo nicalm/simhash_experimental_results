@@ -1,0 +1,3 @@
+10137-zlib,551-FFmpeg
+adler32.c,adler32.c,\adler32.c,\libavutil\adler32.c,143,56,8
+adler32.c,adler32.c,\adler32.c,\libavutil\tests\adler32.c,143,25,4

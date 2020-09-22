@@ -1,0 +1,16 @@
+6664-ModSecurity,8063-CMake
+multi.c,multi.c,\examples\multiprocess_c\multi.c,\Utilities\cmcurl\lib\multi.c,99,2209,14
+test.c,test.c,\examples\simple_example_using_c\test.c,\Utilities\KWIML\test\test.c,47,27,3
+base64.c,base64.c,\others\mbedtls\base64.c,\Utilities\cmcurl\lib\base64.c,199,182,24
+md5.c,md5.c,\others\mbedtls\md5.c,\Utilities\cmcurl\lib\md5.c,293,404,50
+md5.c,md5.c,\others\mbedtls\md5.c,\Utilities\cmlibrhash\librhash\md5.c,293,160,20
+md5.h,md5.h,\others\mbedtls\md5.h,\Utilities\cmlibrhash\librhash\md5.h,43,21,8
+sha1.c,sha1.c,\others\mbedtls\sha1.c,\Utilities\cmlibrhash\librhash\sha1.c,328,121,23
+sha1.h,sha1.h,\others\mbedtls\sha1.h,\Utilities\cmlibrhash\librhash\sha1.h,43,21,8
+block.h,block.h,\src\actions\block.h,\Utilities\cmliblzma\liblzma\api\lzma\block.h,21,75,1
+md5.h,md5.h,\src\utils\md5.h,\Utilities\cmlibrhash\librhash\md5.h,18,21,2
+sha1.h,sha1.h,\src\utils\sha1.h,\Utilities\cmlibrhash\librhash\sha1.h,16,21,2
+system.h,system.h,\src\utils\system.h,\Utilities\cmcurl\include\curl\system.h,19,380,1
+md5.h,md5.h,\src\actions\transformations\md5.h,\Utilities\cmlibrhash\librhash\md5.h,21,21,4
+sha1.h,sha1.h,\src\actions\transformations\sha1.h,\Utilities\cmlibrhash\librhash\sha1.h,21,21,4
+writer.h,writer.h,\src\audit_log\writer\writer.h,\Utilities\cmjsoncpp\include\json\writer.h,45,136,6

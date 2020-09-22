@@ -1,0 +1,12 @@
+3980-passenger,9197-domoticz
+Utils.h,Utils.h,\src\apache2_module\Utils.h,\hardware\openzwave\Utils.h,138,45,7
+Utils.h,Utils.h,\src\cxx_supportlib\Utils.h,\hardware\openzwave\Utils.h,42,45,6
+Configuration.h,Configuration.h,\src\nginx_module\Configuration.h,\hardware\openzwave\command_classes\Configuration.h,47,26,2
+Controller.h,Controller.h,\src\agent\Core\Controller.h,\hardware\openzwave\platform\Controller.h,310,23,5
+Utils.h,Utils.h,\src\cxx_supportlib\ConfigKit\Utils.h,\hardware\openzwave\Utils.h,67,45,6
+Lock.h,Lock.h,\src\cxx_supportlib\Utils\Lock.h,\hardware\openzwave\command_classes\Lock.h,19,26,5
+app.js,app.js,\test\stub\node\app.js,\www\app\app.js,114,742,23
+Group.h,Group.h,\src\agent\Core\ApplicationPool\Group.h,\hardware\openzwave\Group.h,217,70,9
+Options.h,Options.h,\src\agent\Core\ApplicationPool\Options.h,\hardware\openzwave\Options.h,316,62,11
+regex.h,regex.h,\src\cxx_supportlib\vendor-modified\boost\regex.h,\cereal\external\rapidjson\internal\regex.h,65,560,3
+unix.h,unix.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\unix.h,\hardware\serial\impl\unix.h,28,125,2

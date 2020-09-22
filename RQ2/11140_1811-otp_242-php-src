@@ -1,0 +1,13 @@
+1811-otp,242-php-src
+hash.c,hash.c,\erts\emulator\beam\hash.c,\ext\hash\hash.c,215,996,47
+time.c,time.c,\erts\emulator\beam\time.c,\win32\time.c,1078,75,19
+compress.c,compress.c,\erts\emulator\zlib\compress.c,\ext\fileinfo\libmagic\compress.c,53,662,8
+crc32.c,crc32.c,\erts\emulator\zlib\crc32.c,\ext\standard\crc32.c,289,70,16
+crc32.h,crc32.h,\erts\emulator\zlib\crc32.h,\ext\standard\crc32.h,437,67,1
+hash.c,hash.c,\lib\crypto\c_src\hash.c,\ext\hash\hash.c,441,996,33
+info.c,info.c,\lib\crypto\c_src\info.c,\ext\standard\info.c,59,1138,12
+math.c,math.c,\lib\crypto\c_src\math.c,\ext\standard\math.c,25,820,3
+rand.c,rand.c,\lib\crypto\c_src\rand.c,\ext\standard\rand.c,100,28,7
+port.c,port.c,\system\doc\tutorial\port.c,\sapi\fpm\fpm\events\port.c,16,108,3
+test.c,test.c,\erts\lib_src\yielding_c_fun\lib\simple_c_gc\test.c,\ext\zend_test\test.c,47,265,7
+test.c,test.c,\erts\lib_src\yielding_c_fun\test\examples\sha256_erlang_nif\c_src\sha-2\test.c,\ext\zend_test\test.c,214,265,43

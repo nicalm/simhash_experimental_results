@@ -1,0 +1,3 @@
+211-cpython,2202-qBittorrent
+fix_encoding.py,fix_encoding.py,\PCbuild\fix_encoding.py,\src\searchengine\nova\fix_encoding.py,22,201,0
+connection.h,connection.h,\Modules\_sqlite\connection.h,\src\base\http\connection.h,58,30,2

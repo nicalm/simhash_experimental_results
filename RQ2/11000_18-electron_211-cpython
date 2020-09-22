@@ -1,0 +1,16 @@
+18-electron,211-cpython
+config.py,config.py,\script\lib\config.py,\Lib\distutils\config.py,78,84,2
+config.py,config.py,\script\lib\config.py,\Lib\idlelib\config.py,78,576,3
+config.py,config.py,\script\lib\config.py,\Lib\logging\config.py,78,633,4
+config.py,config.py,\script\lib\config.py,\Lib\distutils\command\config.py,78,210,2
+util.py,util.py,\script\lib\util.py,\Lib\ctypes\util.py,206,276,18
+util.py,util.py,\script\lib\util.py,\Lib\distutils\util.py,206,285,15
+util.py,util.py,\script\lib\util.py,\Lib\importlib\util.py,206,178,14
+util.py,util.py,\script\lib\util.py,\Lib\multiprocessing\util.py,206,274,19
+util.py,util.py,\script\lib\util.py,\Lib\unittest\util.py,206,134,8
+util.py,util.py,\script\lib\util.py,\Lib\wsgiref\util.py,206,107,6
+util.py,util.py,\script\lib\util.py,\Lib\test\test_importlib\util.py,206,420,26
+util.py,util.py,\script\lib\util.py,\Lib\test\test_tools\test_c_analyzer\util.py,206,37,1
+util.py,util.py,\script\lib\util.py,\Tools\c-analyzer\c_analyzer\common\util.py,206,159,14
+upload.py,upload.py,\script\release\uploaders\upload.py,\Lib\distutils\command\upload.py,161,147,2
+archive.h,archive.h,\shell\common\asar\archive.h,\PC\bdist_wininst\archive.h,51,75,3

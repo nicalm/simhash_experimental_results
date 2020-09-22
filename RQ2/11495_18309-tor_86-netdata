@@ -1,0 +1,8 @@
+18309-tor,86-netdata
+main.c,main.c,\src\app\main\main.c,\daemon\main.c,1029,995,147
+log.c,log.c,\src\lib\log\log.c,\libnetdata\log\log.c,1118,565,132
+log.h,log.h,\src\lib\log\log.h,\libnetdata\log\log.h,188,76,3
+socket.c,socket.c,\src\lib\net\socket.c,\libnetdata\socket\socket.c,511,1305,101
+socket.h,socket.h,\src\lib\net\socket.h,\libnetdata\socket\socket.h,79,156,5
+daemon.c,daemon.c,\src\lib\process\daemon.c,\daemon\daemon.c,120,364,27
+threads.h,threads.h,\src\lib\thread\threads.h,\libnetdata\threads\threads.h,109,27,1

@@ -1,0 +1,13 @@
+1087-radare2,1485-gvisor
+index.js,index.js,\doc\node.js\index.js,\benchmarks\workloads\node\index.js,36,23,4
+index.js,index.js,\doc\node.js\index.js,\benchmarks\workloads\node_template\index.js,36,27,5
+index.js,index.js,\doc\pdb\index.js,\benchmarks\workloads\node\index.js,143,23,2
+index.js,index.js,\doc\pdb\index.js,\benchmarks\workloads\node_template\index.js,143,27,6
+syscall.c,syscall.c,\libr\syscall\syscall.c,\benchmarks\workloads\syscall\syscall.c,286,32,7
+index.js,index.js,\shlr\www\graph\index.js,\benchmarks\workloads\node\index.js,49,23,1
+index.js,index.js,\shlr\www\graph\index.js,\benchmarks\workloads\node_template\index.js,49,27,5
+index.js,index.js,\sys\build\make.js\index.js,\benchmarks\workloads\node\index.js,201,23,2
+index.js,index.js,\sys\build\make.js\index.js,\benchmarks\workloads\node_template\index.js,201,27,6
+index.js,index.js,\test\new\travis\index.js,\benchmarks\workloads\node\index.js,120,23,2
+index.js,index.js,\test\new\travis\index.js,\benchmarks\workloads\node_template\index.js,120,27,7
+test.h,test.h,\shlr\grub\include\grub\test.h,\test\syscalls\linux\rseq\test.h,47,23,3

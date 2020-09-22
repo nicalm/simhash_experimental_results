@@ -1,0 +1,3 @@
+15910-gdal,6664-ModSecurity
+user.h,user.h,\gdal\alg\internal_libqhull\user.h,\src\variables\user.h,153,84,1
+json.h,json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,\src\request_body_processor\json.h,18,80,3

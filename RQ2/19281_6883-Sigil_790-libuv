@@ -1,0 +1,4 @@
+6883-Sigil,790-libuv
+error.c,error.c,\internal\gumbo\error.c,\src\win\error.c,221,132,10
+util.c,util.c,\internal\gumbo\util.c,\samples\socks5-proxy\util.c,49,43,9
+util.c,util.c,\internal\gumbo\util.c,\src\win\util.c,49,1211,9

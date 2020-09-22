@@ -1,0 +1,3 @@
+6444-yara,6974-openapi-generator
+object.c,object.c,\libyara\object.c,\samples\client\petstore\c\model\object.c,921,24,9
+object.h,object.h,\libyara\include\yara\object.h,\samples\client\petstore\c\model\object.h,116,15,1

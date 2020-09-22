@@ -1,0 +1,16 @@
+2116-libgit2,6664-ModSecurity
+args.h,args.h,\examples\args.h,\src\variables\args.h,26,15,1
+global.h,global.h,\src\global.h,\src\variables\global.h,20,85,1
+tag.h,tag.h,\src\tag.h,\src\actions\tag.h,18,25,2
+status.h,status.h,\include\git2\status.h,\src\variables\status.h,99,15,1
+status.h,status.h,\include\git2\status.h,\src\actions\data\status.h,99,26,1
+tag.h,tag.h,\include\git2\tag.h,\src\actions\tag.h,68,25,1
+transaction.h,transaction.h,\include\git2\transaction.h,\headers\modsecurity\transaction.h,15,399,1
+sha1.h,sha1.h,\src\hash\sha1.h,\others\mbedtls\sha1.h,24,43,3
+sha1.h,sha1.h,\src\hash\sha1.h,\src\utils\sha1.h,24,16,1
+sha1.h,sha1.h,\src\hash\sha1.h,\src\actions\transformations\sha1.h,24,21,2
+sha1.c,sha1.c,\tests\core\sha1.c,\others\mbedtls\sha1.c,48,328,12
+sha1.c,sha1.c,\src\hash\sha1\sha1dc\sha1.c,\others\mbedtls\sha1.c,1597,328,60
+sha1.h,sha1.h,\src\hash\sha1\sha1dc\sha1.h,\others\mbedtls\sha1.h,42,43,9
+sha1.h,sha1.h,\src\hash\sha1\sha1dc\sha1.h,\src\utils\sha1.h,42,16,2
+sha1.h,sha1.h,\src\hash\sha1\sha1dc\sha1.h,\src\actions\transformations\sha1.h,42,21,3

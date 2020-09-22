@@ -1,0 +1,4 @@
+10365-flatpak,11093-mongoose-os
+main.c,main.c,\revokefs\main.c,\platforms\posix\main.c,455,78,21
+main.c,main.c,\revokefs\main.c,\fw\examples\c_mqtt\src\main.c,455,128,18
+main.c,main.c,\revokefs\main.c,\platforms\cc3200\boot\src\main.c,455,136,19

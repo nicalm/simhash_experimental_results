@@ -1,0 +1,4 @@
+11604-pdns,211-cpython
+conf.py,conf.py,\docs\conf.py,\Doc\conf.py,82,104,7
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\Doc\conf.py,48,104,6
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\Doc\conf.py,52,104,7

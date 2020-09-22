@@ -1,0 +1,7 @@
+3405-libevent,548-ruby
+signal.c,signal.c,\signal.c,\signal.c,348,1307,103
+strlcpy.c,strlcpy.c,\strlcpy.c,\missing\strlcpy.c,32,22,8
+thread.h,thread.h,\include\event2\thread.h,\internal\thread.h,65,33,1
+thread.h,thread.h,\include\event2\thread.h,\include\ruby\thread.h,65,30,7
+util.h,util.h,\include\event2\util.h,\internal\util.h,462,15,4
+util.h,util.h,\include\event2\util.h,\include\ruby\util.h,462,62,19

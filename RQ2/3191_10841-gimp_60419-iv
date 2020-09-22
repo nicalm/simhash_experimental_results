@@ -1,0 +1,4 @@
+10841-gimp,60419-iv
+color.h,color.h,\plug-ins\file-dds\color.h,\iv\lv5\radio\color.h,60,16,1
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\iv\lv5\third_party\gc\misc.c,169,1686,20
+global.h,global.h,\plug-ins\selection-to-path\global.h,\iv\lv5\runtime\global.h,83,20,1

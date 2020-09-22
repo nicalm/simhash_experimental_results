@@ -1,0 +1,9 @@
+1916-robomongo,2578-calibre
+main.cpp,main.cpp,\src\robomongo\app\main.cpp,\src\calibre\headless\main.cpp,79,18,2
+upload.py,upload.py,\src\third-party\googletest-1.8.1\googlemock\scripts\upload.py,\setup\upload.py,949,303,15
+common.py,common.py,\src\third-party\googletest-1.8.1\googletest\scripts\common.py,\src\calibre\ebooks\pdf\render\common.py,27,184,0
+common.py,common.py,\src\third-party\googletest-1.8.1\googletest\scripts\common.py,\src\calibre\utils\fonts\sfnt\common.py,27,172,0
+upload.py,upload.py,\src\third-party\googletest-1.8.1\googletest\scripts\upload.py,\setup\upload.py,949,303,15
+utils.cpp,utils.cpp,\trash\src\robomongo\shell\scripting\utils.cpp,\src\calibre\utils\podofo\utils.cpp,34,29,4
+utils.cpp,utils.cpp,\trash\src\robomongo\shell\scripting\utils.cpp,\src\calibre\devices\mtp\windows\utils.cpp,34,53,5
+tokenize.py,tokenize.py,\src\third-party\googletest-1.8.1\googlemock\scripts\generator\cpp\tokenize.py,\src\calibre\ebooks\rtf2xml\tokenize.py,181,125,2

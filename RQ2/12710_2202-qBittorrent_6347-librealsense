@@ -1,0 +1,7 @@
+2202-qBittorrent,6347-librealsense
+profile.cpp,profile.cpp,\src\base\profile.cpp,\src\pipeline\profile.cpp,74,39,15
+profile.h,profile.h,\src\base\profile.h,\src\pipeline\profile.h,41,19,7
+types.h,types.h,\src\base\http\types.h,\src\types.h,80,1521,15
+types.h,types.h,\src\base\http\types.h,\wrappers\matlab\types.h,80,209,12
+types.h,types.h,\src\base\http\types.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\types.h,80,15,1
+notifications.h,notifications.h,\src\gui\qtnotify\notifications.h,\common\notifications.h,61,198,13

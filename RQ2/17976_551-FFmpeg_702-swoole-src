@@ -1,0 +1,14 @@
+551-FFmpeg,702-swoole-src
+async.c,async.c,\libavformat\async.c,\thirdparty\hiredis\async.c,535,474,66
+base64.c,base64.c,\libavutil\base64.c,\src\protocol\base64.c,129,95,13
+buffer.c,buffer.c,\libavutil\buffer.c,\src\memory\buffer.c,258,135,46
+buffer.h,buffer.h,\libavutil\buffer.h,\include\buffer.h,32,46,1
+dict.c,dict.c,\libavutil\dict.c,\thirdparty\hiredis\dict.c,217,202,32
+dict.h,dict.h,\libavutil\dict.h,\thirdparty\hiredis\dict.h,29,71,1
+error.h,error.h,\libavutil\error.h,\include\error.h,49,92,2
+hash.h,hash.h,\libavutil\hash.h,\include\hash.h,22,129,2
+log.c,log.c,\libavutil\log.c,\src\core\log.c,360,114,29
+base64.c,base64.c,\tests\base64.c,\src\protocol\base64.c,28,95,5
+base64.c,base64.c,\libavutil\tests\base64.c,\src\protocol\base64.c,95,95,15
+dict.c,dict.c,\libavutil\tests\dict.c,\thirdparty\hiredis\dict.c,102,202,4
+log.c,log.c,\libavutil\tests\log.c,\src\core\log.c,47,114,11

@@ -1,0 +1,5 @@
+15439-ettercap,18962-tcpdump
+nameser.h,nameser.h,\include\missing\nameser.h,\nameser.h,371,135,4
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\missing\strlcat.c,29,29,20
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\missing\strlcpy.c,23,26,6
+strsep.c,strsep.c,\src\missing\strsep.c,\missing\strsep.c,32,30,22

@@ -1,0 +1,5 @@
+15780-OpenJK,18309-tor
+config.h,config.h,\code\mp3code\config.h,\src\app\config\config.h,74,232,6
+config.h,config.h,\codemp\mp3code\config.h,\src\app\config\config.h,74,232,6
+compress.c,compress.c,\lib\zlib\compress.c,\src\lib\compress\compress.c,47,507,8
+files.h,files.h,\shared\qcommon\safe\files.h,\src\lib\fs\files.h,74,88,1

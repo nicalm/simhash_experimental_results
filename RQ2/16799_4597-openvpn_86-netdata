@@ -1,0 +1,8 @@
+4597-openvpn,86-netdata
+buffer.c,buffer.c,\src\openvpn\buffer.c,\libnetdata\buffer\buffer.c,1182,280,59
+buffer.h,buffer.h,\src\openvpn\buffer.h,\libnetdata\buffer\buffer.h,771,64,2
+common.h,common.h,\src\openvpn\common.h,\daemon\common.h,33,48,1
+socket.c,socket.c,\src\openvpn\socket.c,\libnetdata\socket\socket.c,3367,1305,271
+socket.h,socket.h,\src\openvpn\socket.h,\libnetdata\socket\socket.h,919,156,8
+main.c,main.c,\src\tapctl\main.c,\daemon\main.c,349,995,71
+log.c,log.c,\sample\sample-plugins\log\log.c,\libnetdata\log\log.c,130,565,33

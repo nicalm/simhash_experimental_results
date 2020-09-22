@@ -1,0 +1,5 @@
+18309-tor,551-FFmpeg
+config.h,config.h,\src\app\config\config.h,\compat\avisynth\avs\config.h,232,25,5
+log.c,log.c,\src\lib\log\log.c,\libavutil\log.c,1118,360,66
+log.c,log.c,\src\lib\log\log.c,\libavutil\tests\log.c,1118,47,16
+log.h,log.h,\src\lib\log\log.h,\libavutil\log.h,188,77,2

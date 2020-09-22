@@ -1,0 +1,12 @@
+1123-envoy,754-folly
+filter.h,filter.h,\include\envoy\http\filter.h,\folly\experimental\pushmi\o\filter.h,145,54,9
+filter.h,filter.h,\include\envoy\network\filter.h,\folly\experimental\pushmi\o\filter.h,127,54,9
+tap.h,tap.h,\source\extensions\common\tap\tap.h,\folly\experimental\pushmi\o\tap.h,65,101,12
+tap.h,tap.h,\source\extensions\transport_sockets\tap\tap.h,\folly\experimental\pushmi\o\tap.h,45,101,9
+filter.h,filter.h,\source\extensions\filters\http\grpc_http1_reverse_bridge\filter.h,\folly\experimental\pushmi\o\filter.h,45,54,9
+filter.h,filter.h,\source\extensions\filters\http\jwt_authn\filter.h,\folly\experimental\pushmi\o\filter.h,36,54,8
+filter.h,filter.h,\source\extensions\filters\network\zookeeper_proxy\filter.h,\folly\experimental\pushmi\o\filter.h,157,54,12
+filter.h,filter.h,\source\extensions\filters\network\dubbo_proxy\filters\filter.h,\folly\experimental\pushmi\o\filter.h,100,54,11
+generator.py,generator.py,\source\extensions\filters\network\kafka\protocol\generator.py,\folly\python\test\generator.py,301,36,2
+generator.py,generator.py,\source\extensions\filters\network\kafka\serialization\generator.py,\folly\python\test\generator.py,21,36,0
+filter.h,filter.h,\source\extensions\filters\network\thrift_proxy\filters\filter.h,\folly\experimental\pushmi\o\filter.h,60,54,11

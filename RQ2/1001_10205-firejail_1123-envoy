@@ -1,0 +1,7 @@
+10205-firejail,1123-envoy
+common.h,common.h,\src\include\common.h,\test\mocks\common.h,89,59,6
+common.h,common.h,\src\include\common.h,\source\common\grpc\common.h,89,48,2
+common.h,common.h,\src\include\common.h,\test\common\http\common.h,89,47,6
+common.h,common.h,\src\include\common.h,\test\integration\filters\common.h,89,18,2
+common.h,common.h,\src\include\common.h,\test\extensions\common\tap\common.h,89,48,9
+common.h,common.h,\src\include\common.h,\test\extensions\filters\http\tap\common.h,89,30,6

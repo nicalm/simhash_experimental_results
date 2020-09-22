@@ -1,0 +1,2 @@
+11212-varnish-cache,5868-libvips
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\libvips\iofuncs\base64.c,269,162,30

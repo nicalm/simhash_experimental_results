@@ -1,0 +1,14 @@
+63613-KunstmaanBundlesCMS,9023-zoneminder
+Group.php,Group.php,\src\Kunstmaan\AdminBundle\Entity\Group.php,\web\includes\Group.php,15,152,5
+Group.php,Group.php,\src\Kunstmaan\AdminBundle\Entity\Group.php,\web\api\app\Model\Group.php,15,37,2
+FormHelper.php,FormHelper.php,\src\Kunstmaan\AdminBundle\Helper\FormHelper.php,\web\api\lib\Cake\View\Helper\FormHelper.php,52,1997,18
+Filter.php,Filter.php,\src\Kunstmaan\AdminListBundle\AdminList\Filter.php,\web\includes\Filter.php,46,154,10
+Folder.php,Folder.php,\src\Kunstmaan\MediaBundle\Entity\Folder.php,\web\api\lib\Cake\Utility\Folder.php,224,500,53
+GroupsController.php,GroupsController.php,\src\Kunstmaan\UserManagementBundle\Controller\GroupsController.php,\web\api\app\Controller\GroupsController.php,93,114,16
+UsersController.php,UsersController.php,\src\Kunstmaan\UserManagementBundle\Controller\UsersController.php,\web\api\app\Controller\UsersController.php,166,110,24
+Shell.php,Shell.php,\src\Kunstmaan\UtilitiesBundle\Helper\Shell\Shell.php,\web\api\lib\Cake\Console\Shell.php,27,442,10
+FolderTest.php,FolderTest.php,\src\Kunstmaan\MediaBundle\Tests\unit\Entity\FolderTest.php,\web\api\lib\Cake\Test\Case\Utility\FolderTest.php,169,862,21
+ShellTest.php,ShellTest.php,\src\Kunstmaan\UtilitiesBundle\Tests\unit\Helper\Shell\ShellTest.php,\web\api\lib\Cake\Test\Case\Console\ShellTest.php,20,598,3
+plugin.js,plugin.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\codemirror\plugin.js,\web\skins\classic\views\js\plugin.js,1099,17,5
+plugin.js,plugin.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\notification\plugin.js,\web\skins\classic\views\js\plugin.js,356,17,5
+plugin.js,plugin.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\wordcount\plugin.js,\web\skins\classic\views\js\plugin.js,457,17,5

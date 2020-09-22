@@ -1,0 +1,4 @@
+1652-joplin,98-rust
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,69,21,5
+main.js,main.js,\CliClient\app\main.js,\src\librustdoc\html\static\main.js,64,2266,9
+main.js,main.js,\ElectronClient\app\main.js,\src\librustdoc\html\static\main.js,33,2266,4

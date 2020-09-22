@@ -1,0 +1,3 @@
+15910-gdal,2496-proxygen
+Huffman.cpp,Huffman.cpp,\gdal\third_party\LercLib\Huffman.cpp,\proxygen\lib\http\codec\compress\Huffman.cpp,414,196,28
+Huffman.h,Huffman.h,\gdal\third_party\LercLib\Huffman.h,\proxygen\lib\http\codec\compress\Huffman.h,196,52,5

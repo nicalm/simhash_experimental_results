@@ -1,0 +1,4 @@
+682-curl,790-libuv
+version.c,version.c,\lib\version.c,\src\version.c,398,17,4
+util.c,util.c,\tests\server\util.c,\samples\socks5-proxy\util.c,375,43,9
+util.c,util.c,\tests\server\util.c,\src\win\util.c,375,1211,49

@@ -1,0 +1,3 @@
+1818-SignalR,3980-passenger
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\resources\templates\error_renderer\with_details\src\bootstrap\bootstrap.js,1251,188,58
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\common.js,65,316,10

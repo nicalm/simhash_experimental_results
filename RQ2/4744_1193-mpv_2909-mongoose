@@ -1,0 +1,11 @@
+1193-mpv,2909-mongoose
+main.c,main.c,\player\main.c,\examples\CC3200\main.c,377,249,42
+main.c,main.c,\player\main.c,\examples\NXP_K64\main.c,377,131,20
+main.c,main.c,\player\main.c,\examples\STM32F4_CC3100\main.c,377,124,18
+main.c,main.c,\player\main.c,\examples\ESP32_IDF\main\main.c,377,75,10
+main.c,main.c,\player\main.c,\examples\nRF51\http\main.c,377,64,12
+main.c,main.c,\player\main.c,\examples\nRF52\http\main.c,377,66,13
+main.c,main.c,\player\main.c,\examples\CC3200\ccs\MG_hello\main.c,377,192,36
+main.c,main.c,\player\main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,377,142,26
+main.c,main.c,\player\main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,377,129,20
+main.c,main.c,\player\main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,377,147,26

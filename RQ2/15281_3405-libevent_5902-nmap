@@ -1,0 +1,10 @@
+3405-libevent,5902-nmap
+http.c,http.c,\http.c,\ncat\http.c,4015,1208,289
+strlcpy.c,strlcpy.c,\strlcpy.c,\libdnet-stripped\src\strlcpy.c,32,28,26
+strlcpy.c,strlcpy.c,\strlcpy.c,\libpcap\missing\strlcpy.c,32,25,8
+getopt.c,getopt.c,\WIN32-Code\getopt.c,\nbase\getopt.c,96,246,18
+getopt.c,getopt.c,\WIN32-Code\getopt.c,\libpcap\missing\getopt.c,96,76,65
+getopt.h,getopt.h,\WIN32-Code\getopt.h,\nbase\getopt.h,26,41,16
+queue.h,queue.h,\compat\sys\queue.h,\libdnet-stripped\include\queue.h,304,314,299
+http.h,http.h,\include\event2\http.h,\ncat\http.h,347,128,5
+util.h,util.h,\include\event2\util.h,\ncat\util.h,462,72,10

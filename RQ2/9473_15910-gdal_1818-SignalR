@@ -1,0 +1,3 @@
+15910-gdal,1818-SignalR
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Properties\AssemblyInfo.cs,19,16,5
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.Tests\Properties\AssemblyInfo.cs,19,17,5

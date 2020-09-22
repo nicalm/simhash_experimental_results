@@ -1,0 +1,9 @@
+13470-tigervnc,6773-server
+util.h,util.h,\common\rfb\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,75,22,3
+util.h,util.h,\common\rfb\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,75,20,1
+util.h,util.h,\tests\perf\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,15,22,1
+util.h,util.h,\tests\perf\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,15,20,1
+resource.h,resource.h,\win\vncconfig\resource.h,\storage\connect\resource.h,86,46,0
+resource.h,resource.h,\win\vncconfig\resource.h,\win\upgrade_wizard\resource.h,86,20,5
+resource.h,resource.h,\win\winvnc\resource.h,\storage\connect\resource.h,46,46,0
+resource.h,resource.h,\win\winvnc\resource.h,\win\upgrade_wizard\resource.h,46,20,5

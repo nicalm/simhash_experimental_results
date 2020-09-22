@@ -1,0 +1,10 @@
+14790-sleuthkit,9197-domoticz
+Version.h,Version.h,\tools\logicalimager\Version.h,\msbuild\Version.h,32,28,1
+Version.h,Version.h,\tools\logicalimager\Version.h,\hardware\openzwave\command_classes\Version.h,32,29,5
+sqlite3.c,sqlite3.c,\tsk\auto\sqlite3.c,\sqlite\sqlite3.c,97479,127443,88531
+sqlite3.h,sqlite3.h,\tsk\auto\sqlite3.h,\sqlite\sqlite3.h,1076,1494,839
+regex.h,regex.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex.h,\cereal\external\rapidjson\internal\regex.h,217,560,17
+Log.h,Log.h,\framework\tsk\framework\services\Log.h,\hardware\openzwave\platform\Log.h,41,61,6
+Scheduler.h,Scheduler.h,\framework\tsk\framework\services\Scheduler.h,\main\Scheduler.h,26,85,4
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\zlib\compress.c,395,47,8
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\json\config.h,41,123,3

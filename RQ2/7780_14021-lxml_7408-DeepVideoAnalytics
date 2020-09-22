@@ -1,0 +1,8 @@
+14021-lxml,7408-DeepVideoAnalytics
+setup.py,setup.py,\setup.py,\client\setup.py,168,15,3
+setup.py,setup.py,\setup.py,\repos\lopq\python\setup.py,168,90,9
+test.py,test.py,\test.py,\repos\tf_ctpn_cpu\lib\fast_rcnn\test.py,432,42,0
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\deploy\compose\__init__.py,1099,161,17
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\deploy\kube\__init__.py,1099,256,8
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\deploy\compose\__init__.py,154,161,6
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\deploy\kube\__init__.py,154,256,6

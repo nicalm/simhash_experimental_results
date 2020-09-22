@@ -1,0 +1,17 @@
+12658-Espruino,4287-cockpit
+main.c,main.c,\targets\emscripten\main.c,\src\tls\main.c,50,89,6
+main.c,main.c,\targets\emscripten\main.c,\src\ws\main.c,50,242,7
+main.c,main.c,\targets\esp32\main.c,\src\tls\main.c,92,89,8
+main.c,main.c,\targets\esp32\main.c,\src\ws\main.c,92,242,9
+main.c,main.c,\targets\linux\main.c,\src\tls\main.c,335,89,10
+main.c,main.c,\targets\linux\main.c,\src\ws\main.c,335,242,27
+main.c,main.c,\targets\nrf5x\main.c,\src\tls\main.c,16,89,4
+main.c,main.c,\targets\nrf5x\main.c,\src\ws\main.c,16,242,4
+main.c,main.c,\targets\nrf5x_dfu\main.c,\src\tls\main.c,191,89,13
+main.c,main.c,\targets\nrf5x_dfu\main.c,\src\ws\main.c,191,242,23
+main.c,main.c,\targets\stm32\main.c,\src\tls\main.c,38,89,4
+main.c,main.c,\targets\stm32\main.c,\src\ws\main.c,38,242,4
+main.c,main.c,\targets\stm32_boot\main.c,\src\tls\main.c,236,89,11
+main.c,main.c,\targets\stm32_boot\main.c,\src\ws\main.c,236,242,20
+main.c,main.c,\targets\stm32_ll\main.c,\src\tls\main.c,23,89,3
+main.c,main.c,\targets\stm32_ll\main.c,\src\ws\main.c,23,242,3

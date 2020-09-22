@@ -1,0 +1,3 @@
+506-ghidra,91-bitcoin
+block.cc,block.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\block.cc,\src\leveldb\table\block.cc,2336,207,44
+options.cc,options.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\options.cc,\src\leveldb\util\options.cc,507,22,2

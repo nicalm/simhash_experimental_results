@@ -1,0 +1,5 @@
+1366-gradle,4420-zcash
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\src\main.cpp,17,4730,3
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\src\gtest\main.cpp,17,42,1
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\src\main.cpp,17,4730,3
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\src\gtest\main.cpp,17,42,1

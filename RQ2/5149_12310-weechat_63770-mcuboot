@@ -1,0 +1,13 @@
+12310-weechat,63770-mcuboot
+main.c,main.c,\src\gui\curses\headless\main.c,\boot\zephyr\main.c,64,250,16
+main.c,main.c,\src\gui\curses\headless\main.c,\boot\cypress\BlinkyApp\main.c,64,73,12
+main.c,main.c,\src\gui\curses\headless\main.c,\boot\cypress\MCUBootApp\main.c,64,40,6
+main.c,main.c,\src\gui\curses\headless\main.c,\boot\mynewt\src\main.c,64,164,15
+main.c,main.c,\src\gui\curses\headless\main.c,\testplan\mynewt\apps\blinky\src\main.c,64,42,9
+main.c,main.c,\src\gui\curses\headless\main.c,\testplan\mynewt\apps\slinky\src\main.c,64,191,17
+main.c,main.c,\src\gui\curses\normal\main.c,\boot\zephyr\main.c,16,250,3
+main.c,main.c,\src\gui\curses\normal\main.c,\boot\cypress\BlinkyApp\main.c,16,73,3
+main.c,main.c,\src\gui\curses\normal\main.c,\boot\cypress\MCUBootApp\main.c,16,40,2
+main.c,main.c,\src\gui\curses\normal\main.c,\boot\mynewt\src\main.c,16,164,4
+main.c,main.c,\src\gui\curses\normal\main.c,\testplan\mynewt\apps\blinky\src\main.c,16,42,4
+main.c,main.c,\src\gui\curses\normal\main.c,\testplan\mynewt\apps\slinky\src\main.c,16,191,4

@@ -1,0 +1,12 @@
+63770-mcuboot,86-netdata
+main.c,main.c,\boot\zephyr\main.c,\daemon\main.c,250,995,52
+os.c,os.c,\boot\zephyr\os.c,\libnetdata\os.c,25,157,7
+main.c,main.c,\boot\cypress\BlinkyApp\main.c,\daemon\main.c,73,995,15
+main.c,main.c,\boot\cypress\MCUBootApp\main.c,\daemon\main.c,40,995,7
+main.c,main.c,\boot\mynewt\src\main.c,\daemon\main.c,164,995,36
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,63,171,2
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,63,168,2
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,63,58,2
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,63,51,0
+main.c,main.c,\testplan\mynewt\apps\blinky\src\main.c,\daemon\main.c,42,995,9
+main.c,main.c,\testplan\mynewt\apps\slinky\src\main.c,\daemon\main.c,191,995,35

@@ -1,0 +1,36 @@
+5765-EFQRCode,6974-openapi-generator
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\default\Package.swift,18,19,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\nonPublicApi\Package.swift,18,19,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\objcCompatible\Package.swift,18,19,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\promisekitLibrary\Package.swift,18,20,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\resultLibrary\Package.swift,18,19,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\rxswiftLibrary\Package.swift,18,20,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift4\unwrapRequired\Package.swift,18,19,8
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\alamofireLibrary\Package.swift,18,25,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\combineLibrary\Package.swift,18,24,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\default\Package.swift,18,24,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\nonPublicApi\Package.swift,18,24,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\objcCompatible\Package.swift,18,24,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\promisekitLibrary\Package.swift,18,25,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\resultLibrary\Package.swift,18,24,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\rxswiftLibrary\Package.swift,18,25,9
+Package.swift,Package.swift,\Package.swift,\samples\client\petstore\swift5\urlsessionLibrary\Package.swift,18,24,9
+Package.swift,Package.swift,\Package.swift,\samples\client\test\swift4\default\Package.swift,18,19,8
+Package.swift,Package.swift,\Package.swift,\samples\client\test\swift5\default\Package.swift,18,24,9
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift\rxswift\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift4\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift4\promisekitLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift4\rxswiftLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift5\alamofireLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift5\combineLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift5\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift5\promisekitLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift5\rxswiftLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\petstore\swift5\urlsessionLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\test\swift4\default\TestClientApp\TestClientApp\AppDelegate.swift,21,18,8
+AppDelegate.swift,AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,\samples\client\test\swift5\default\TestClientApp\TestClientApp\AppDelegate.swift,21,18,8

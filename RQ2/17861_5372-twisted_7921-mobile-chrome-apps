@@ -1,0 +1,9 @@
+5372-twisted,7921-mobile-chrome-apps
+protocol.py,protocol.py,\src\twisted\internet\protocol.py,\chrome-cordova\gcmServer\xmpp\protocol.py,318,584,2
+client.py,client.py,\src\twisted\names\client.py,\chrome-cordova\gcmServer\xmpp\client.py,356,223,7
+server.py,server.py,\src\twisted\names\server.py,\chrome-cordova\gcmServer\server.py,154,83,0
+client.py,client.py,\src\twisted\web\client.py,\chrome-cordova\gcmServer\xmpp\client.py,1013,223,11
+server.py,server.py,\src\twisted\web\server.py,\chrome-cordova\gcmServer\server.py,447,83,3
+filetransfer.py,filetransfer.py,\src\twisted\conch\ssh\filetransfer.py,\chrome-cordova\gcmServer\xmpp\filetransfer.py,655,113,5
+session.py,session.py,\src\twisted\conch\ssh\session.py,\chrome-cordova\gcmServer\xmpp\session.py,225,212,9
+client.py,client.py,\src\twisted\words\protocols\jabber\client.py,\chrome-cordova\gcmServer\xmpp\client.py,154,223,3

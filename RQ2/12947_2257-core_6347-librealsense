@@ -1,0 +1,6 @@
+2257-core,6347-librealsense
+app.js,app.js,\apps\files\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,181,480,36
+app.js,app.js,\apps\files_external\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,76,480,23
+app.js,app.js,\apps\files_sharing\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,272,480,64
+app.js,app.js,\apps\files_trashbin\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,84,480,15
+app.js,app.js,\apps\systemtags\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,73,480,18

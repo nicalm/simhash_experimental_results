@@ -1,0 +1,7 @@
+1698-server,2909-mongoose
+main.js,main.js,\core\src\main.js,\examples\CC3200\slfs\main.js,17,435,3
+main.js,main.js,\core\src\main.js,\examples\connected_device_4\web_root\main.js,17,62,3
+main.js,main.js,\apps\accessibility\src\main.js,\examples\CC3200\slfs\main.js,15,435,1
+main.js,main.js,\apps\accessibility\src\main.js,\examples\connected_device_4\web_root\main.js,15,62,1
+main.js,main.js,\core\js\dist\main.js,\examples\CC3200\slfs\main.js,65,435,0
+main.js,main.js,\core\js\dist\main.js,\examples\connected_device_4\web_root\main.js,65,62,0

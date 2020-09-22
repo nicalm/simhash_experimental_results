@@ -1,0 +1,8 @@
+168-AdminLTE,9197-domoticz
+main.js,main.js,\plugins\fullcalendar\main.js,\www\app\main.js,7977,46,3
+main.js,main.js,\plugins\fullcalendar-bootstrap\main.js,\www\app\main.js,59,46,1
+main.js,main.js,\plugins\fullcalendar-daygrid\main.js,\www\app\main.js,1471,46,3
+main.js,main.js,\plugins\fullcalendar-interaction\main.js,\www\app\main.js,1906,46,2
+main.js,main.js,\plugins\fullcalendar-timegrid\main.js,\www\app\main.js,1195,46,3
+main.js,main.js,\plugins\daterangepicker\example\amd\main.js,\www\app\main.js,104,46,1
+main.js,main.js,\plugins\daterangepicker\example\browserify\main.js,\www\app\main.js,98,46,1

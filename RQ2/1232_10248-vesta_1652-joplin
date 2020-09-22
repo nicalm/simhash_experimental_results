@@ -1,0 +1,7 @@
+10248-vesta,1652-joplin
+app.js,app.js,\web\js\app.js,\CliClient\app\app.js,903,357,64
+app.js,app.js,\web\js\app.js,\ElectronClient\app\app.js,903,1144,120
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\CliClient\app\main.js,50,64,8
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\ElectronClient\app\main.js,50,33,4
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\CliClient\app\main.js,94,64,9
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\ElectronClient\app\main.js,94,33,4

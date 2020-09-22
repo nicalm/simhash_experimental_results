@@ -1,0 +1,6 @@
+1541-h2o,6714-cryptography
+setup.py,setup.py,\deps\brotli\setup.py,\setup.py,237,181,11
+setup.py,setup.py,\deps\brotli\setup.py,\vectors\setup.py,237,19,2
+conf.py,conf.py,\deps\picotls\deps\cifra\doc\conf.py,\docs\conf.py,35,66,20
+poly1305.py,poly1305.py,\deps\picotls\deps\cifra\src\poly1305.py,\src\cryptography\hazmat\primitives\poly1305.py,105,41,0
+poly1305.py,poly1305.py,\deps\picotls\deps\cifra\src\poly1305.py,\src\cryptography\hazmat\backends\openssl\poly1305.py,105,44,0

@@ -1,0 +1,5 @@
+1463-highcharts,4014-kanboard
+Column.js,Column.js,\js\parts-3d\Column.js,\assets\js\src\Column.js,256,51,6
+index.js,index.js,\studies\highcharts-jsdom\index.js,\assets\vendor\text-caret\index.js,93,94,8
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\assets\js\core\utils.js,53,94,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\assets\vendor\text-caret\index.js,40,94,8

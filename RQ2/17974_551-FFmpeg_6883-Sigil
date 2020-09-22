@@ -1,0 +1,11 @@
+551-FFmpeg,6883-Sigil
+parser.c,parser.c,\libavcodec\parser.c,\internal\gumbo\parser.c,259,3936,44
+parser.h,parser.h,\libavcodec\parser.h,\internal\gumbo\parser.h,21,19,1
+adler32.c,adler32.c,\libavutil\adler32.c,\3rdparty\zlib\adler32.c,56,137,8
+error.c,error.c,\libavutil\error.c,\internal\gumbo\error.c,106,221,8
+error.h,error.h,\libavutil\error.h,\internal\gumbo\error.h,49,114,3
+log.c,log.c,\libavutil\log.c,\3rdparty\hunspell\intl\log.c,360,82,24
+adler32.c,adler32.c,\libavutil\tests\adler32.c,\3rdparty\zlib\adler32.c,25,137,4
+log.c,log.c,\libavutil\tests\log.c,\3rdparty\hunspell\intl\log.c,47,82,12
+utf8.c,utf8.c,\libavutil\tests\utf8.c,\internal\gumbo\utf8.c,45,164,6
+config.h,config.h,\compat\avisynth\avs\config.h,\3rdparty\hunspell\src\win_api\config.h,25,68,0

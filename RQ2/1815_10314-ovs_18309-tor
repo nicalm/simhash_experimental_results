@@ -1,0 +1,17 @@
+10314-ovs,18309-tor
+backtrace.c,backtrace.c,\lib\backtrace.c,\src\lib\err\backtrace.c,86,230,32
+backtrace.h,backtrace.h,\lib\backtrace.h,\src\lib\err\backtrace.h,30,24,3
+daemon.c,daemon.c,\lib\daemon.c,\src\lib\process\daemon.c,81,120,27
+lockfile.c,lockfile.c,\lib\lockfile.c,\src\lib\fs\lockfile.c,269,101,32
+namemap.c,namemap.c,\lib\namemap.c,\src\lib\container\namemap.c,96,123,27
+process.c,process.c,\lib\process.c,\src\lib\process\process.c,487,483,109
+process.h,process.h,\lib\process.h,\src\lib\process\process.h,31,94,2
+timeval.h,timeval.h,\lib\timeval.h,\src\lib\wallclock\timeval.h,53,56,4
+versions.h,versions.h,\lib\versions.h,\src\core\or\versions.h,39,27,1
+log.c,log.c,\ovsdb\log.c,\src\lib\log\log.c,693,1118,147
+log.h,log.h,\ovsdb\log.h,\src\lib\log\log.h,49,188,1
+namemap.h,namemap.h,\include\openvswitch\namemap.h,\src\lib\container\namemap.h,31,17,1
+util.py,util.py,\python\ovs\util.py,\scripts\maint\practracker\util.py,36,40,2
+util.py,util.py,\python\ovstest\util.py,\scripts\maint\practracker\util.py,139,40,2
+socket.c,socket.c,\datapath\linux\compat\socket.c,\src\lib\net\socket.c,27,511,7
+socket.h,socket.h,\include\sparse\sys\socket.h,\src\lib\net\socket.h,139,79,2

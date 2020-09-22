@@ -1,0 +1,16 @@
+24-node,3024-SASM
+__init__.py,__init__.py,\test\testpy\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,107,79,3
+__init__.py,__init__.py,\test\testpy\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,107,63,2
+__init__.py,__init__.py,\tools\inspector_protocol\jinja2\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,38,79,0
+__init__.py,__init__.py,\tools\inspector_protocol\jinja2\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,38,63,1
+__init__.py,__init__.py,\tools\inspector_protocol\markupsafe\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,125,79,5
+__init__.py,__init__.py,\tools\inspector_protocol\markupsafe\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,125,63,5
+assembler.h,assembler.h,\deps\v8\src\codegen\assembler.h,\assembler.h,226,56,7
+__init__.py,__init__.py,\deps\v8\third_party\jinja2\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,38,79,0
+__init__.py,__init__.py,\deps\v8\third_party\jinja2\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,38,63,1
+__init__.py,__init__.py,\deps\v8\third_party\markupsafe\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,125,79,5
+__init__.py,__init__.py,\deps\v8\third_party\markupsafe\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,125,63,5
+__init__.py,__init__.py,\tools\gyp\pylib\gyp\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,369,79,10
+__init__.py,__init__.py,\tools\gyp\pylib\gyp\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,369,63,8
+__init__.py,__init__.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,369,79,10
+__init__.py,__init__.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,369,63,8

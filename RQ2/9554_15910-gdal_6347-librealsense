@@ -1,0 +1,13 @@
+15910-gdal,6347-librealsense
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-1-depth\Properties\AssemblyInfo.cs,19,15,4
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-2-capture\Properties\AssemblyInfo.cs,19,15,4
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-3-processing\Properties\AssemblyInfo.cs,19,15,4
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-4-software-dev\Properties\AssemblyInfo.cs,19,15,4
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\wrappers\csharp\Intel.RealSense\Properties\AssemblyInfo.cs,19,15,4
+setup.py,setup.py,\gdal\swig\python\setup.py,\wrappers\python\setup.py,329,64,9
+setup.py,setup.py,\gdal\swig\python\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,329,21,2
+setup.py,setup.py,\gdal\swig\python\setup.py,\wrappers\python\third_party\pybind11\setup.py,329,73,9
+Image.h,Image.h,\gdal\frmts\mrf\libLERC\Image.h,\third-party\realsense-file\rosbag\msgs\sensor_msgs\Image.h,45,220,10
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\src\pipeline\config.h,54,54,0
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\src\core\debug.h,56,22,1
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\debug.h,56,21,2

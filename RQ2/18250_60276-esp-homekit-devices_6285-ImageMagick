@@ -1,0 +1,15 @@
+60276-esp-homekit-devices,6285-ImageMagick
+debug.c,debug.c,\external_libs\homekit\src\debug.c,\coders\debug.c,33,144,5
+json.c,json.c,\external_libs\homekit\src\json.c,\coders\json.c,311,1500,69
+client.c,client.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\examples\client\client.c,\MagickCore\client.c,2172,39,12
+compress.c,compress.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,\MagickCore\compress.c,85,939,13
+memory.c,memory.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\memory.c,\MagickCore\memory.c,701,792,124
+random.c,random.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\random.c,\MagickCore\random.c,1254,544,106
+signature.c,signature.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\signature.c,\MagickCore\signature.c,289,458,32
+compress.h,compress.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\compress.h,\MagickCore\compress.h,15,53,5
+client.c,client.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\examples\client\client.c,\MagickCore\client.c,2172,39,12
+compress.c,compress.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,\MagickCore\compress.c,85,939,13
+memory.c,memory.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\memory.c,\MagickCore\memory.c,701,792,124
+random.c,random.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\random.c,\MagickCore\random.c,1254,544,106
+signature.c,signature.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\signature.c,\MagickCore\signature.c,289,458,32
+compress.h,compress.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\compress.h,\MagickCore\compress.h,15,53,5

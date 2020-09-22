@@ -1,0 +1,6 @@
+168-AdminLTE,1729-fine-uploader
+core.js,core.js,\plugins\jquery\core.js,\client\js\third-party\crypto-js\core.js,256,228,55
+jquery.js,jquery.js,\plugins\jquery\jquery.js,\test\static\third-party\jquery\jquery.js,6800,6645,4605
+core.js,core.js,\docs\assets\plugins\jquery\core.js,\client\js\third-party\crypto-js\core.js,256,228,55
+jquery.js,jquery.js,\docs\assets\plugins\jquery\jquery.js,\test\static\third-party\jquery\jquery.js,6800,6645,4605
+jquery.js,jquery.js,\plugins\jquery-ui\external\jquery\jquery.js,\test\static\third-party\jquery\jquery.js,7095,6645,5632

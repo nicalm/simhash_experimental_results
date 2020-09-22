@@ -1,0 +1,4 @@
+15910-gdal,2389-Pillow
+conf.py,conf.py,\gdal\doc\source\conf.py,\docs\conf.py,323,45,9
+setup.py,setup.py,\gdal\swig\python\setup.py,\setup.py,329,714,34
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\PIL\__init__.py,40,52,0

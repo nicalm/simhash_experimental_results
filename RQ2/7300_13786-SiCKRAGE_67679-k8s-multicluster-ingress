@@ -1,0 +1,5 @@
+13786-SiCKRAGE,67679-k8s-multicluster-ingress
+setup.py,setup.py,\setup.py,\vendor\github.com\prometheus\client_model\setup.py,74,20,1
+common.py,common.py,\sickrage\core\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,469,21,1
+common.py,common.py,\sickrage\libs\rtorrentlib\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,19,21,0
+client.py,client.py,\sickrage\libs\trakt\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,51,21,0

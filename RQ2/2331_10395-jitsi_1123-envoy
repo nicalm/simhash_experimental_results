@@ -1,0 +1,8 @@
+10395-jitsi,1123-envoy
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\include\envoy\http\filter.h,51,145,0
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\include\envoy\network\filter.h,51,127,0
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\source\extensions\filters\http\grpc_http1_reverse_bridge\filter.h,51,45,0
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\source\extensions\filters\http\jwt_authn\filter.h,51,36,0
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\source\extensions\filters\network\zookeeper_proxy\filter.h,51,157,0
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\source\extensions\filters\network\dubbo_proxy\filters\filter.h,51,100,0
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\source\extensions\filters\network\thrift_proxy\filters\filter.h,51,60,0

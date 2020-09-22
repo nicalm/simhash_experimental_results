@@ -1,0 +1,3 @@
+1123-envoy,3637-qutebrowser
+conf.py,conf.py,\docs\conf.py,\doc\extapi\conf.py,60,36,7
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\qutebrowser\completion\models\util.py,15,20,0

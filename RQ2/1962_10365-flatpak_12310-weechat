@@ -1,0 +1,3 @@
+10365-flatpak,12310-weechat
+main.c,main.c,\revokefs\main.c,\src\gui\curses\headless\main.c,455,64,28
+main.c,main.c,\revokefs\main.c,\src\gui\curses\normal\main.c,455,16,5

@@ -1,0 +1,13 @@
+10205-firejail,1172-stb
+main.c,main.c,\src\faudit\main.c,\tests\oversample\main.c,49,276,11
+main.c,main.c,\src\fbuilder\main.c,\tests\oversample\main.c,63,276,18
+main.c,main.c,\src\fcopy\main.c,\tests\oversample\main.c,305,276,25
+main.c,main.c,\src\firecfg\main.c,\tests\oversample\main.c,379,276,25
+main.c,main.c,\src\firejail\main.c,\tests\oversample\main.c,2361,276,39
+main.c,main.c,\src\fldd\main.c,\tests\oversample\main.c,252,276,28
+main.c,main.c,\src\fnet\main.c,\tests\oversample\main.c,111,276,24
+main.c,main.c,\src\fnetfilter\main.c,\tests\oversample\main.c,155,276,26
+main.c,main.c,\src\fsec-optimize\main.c,\tests\oversample\main.c,57,276,13
+main.c,main.c,\src\fsec-print\main.c,\tests\oversample\main.c,44,276,11
+main.c,main.c,\src\fseccomp\main.c,\tests\oversample\main.c,74,276,12
+main.c,main.c,\src\ftee\main.c,\tests\oversample\main.c,172,276,21

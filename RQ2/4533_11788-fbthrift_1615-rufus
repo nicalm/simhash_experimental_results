@@ -1,0 +1,6 @@
+11788-fbthrift,1615-rufus
+util.h,util.h,\thrift\compiler\util.h,\src\libcdio\cdio\util.h,91,79,7
+types.h,types.h,\thrift\lib\py3\types.h,\src\libcdio\cdio\types.h,20,181,1
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\libcdio\cdio\util.h,25,79,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\libcdio\cdio\util.h,17,79,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\libcdio\cdio\util.h,29,79,5

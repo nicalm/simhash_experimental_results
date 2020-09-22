@@ -1,0 +1,2 @@
+2912-postgres,9023-zoneminder
+triggers.sql,triggers.sql,\src\test\regress\sql\triggers.sql,\db\triggers.sql,1583,213,3

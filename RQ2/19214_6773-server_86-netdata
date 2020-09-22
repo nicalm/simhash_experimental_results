@@ -1,0 +1,13 @@
+6773-server,86-netdata
+main.c,main.c,\dbug\main.c,\daemon\main.c,23,995,6
+log.h,log.h,\sql\log.h,\libnetdata\log\log.h,770,76,3
+common.h,common.h,\extra\mariabackup\common.h,\daemon\common.h,136,48,1
+signals.c,signals.c,\extra\readline\signals.c,\daemon\signals.c,330,209,16
+common.h,common.h,\plugin\win_auth_client\common.h,\daemon\common.h,175,48,1
+json.h,json.h,\storage\connect\json.h,\backends\json\json.h,227,27,1
+json.h,json.h,\storage\connect\json.h,\libnetdata\json\json.h,227,48,2
+os.h,os.h,\storage\connect\os.h,\libnetdata\os.h,56,30,3
+log.h,log.h,\storage\tokudb\PerconaFT\ft\logger\log.h,\libnetdata\log\log.h,26,76,0
+main.c,main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,\daemon\main.c,166,995,39
+signals.c,signals.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\signals.c,\daemon\signals.c,101,209,24
+common.h,common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,\daemon\common.h,117,48,1

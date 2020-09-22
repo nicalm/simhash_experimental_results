@@ -1,0 +1,5 @@
+2578-calibre,506-ghidra
+build.py,build.py,\manual\build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,106,235,3
+build.py,build.py,\setup\build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,408,235,8
+main.cpp,main.cpp,\src\calibre\headless\main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,18,41,2
+defaults.py,defaults.py,\src\calibre\devices\mtp\defaults.py,\Ghidra\Extensions\SleighDevTools\pcodetest\defaults.py,50,26,0

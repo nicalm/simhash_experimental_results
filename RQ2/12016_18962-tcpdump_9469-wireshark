@@ -1,0 +1,9 @@
+18962-tcpdump,9469-wireshark
+in_cksum.c,in_cksum.c,\in_cksum.c,\epan\in_cksum.c,90,103,63
+ipproto.c,ipproto.c,\ipproto.c,\epan\ipproto.c,299,267,4
+ipproto.h,ipproto.h,\ipproto.h,\epan\ipproto.h,95,149,1
+nlpid.h,nlpid.h,\nlpid.h,\epan\nlpid.h,16,30,5
+oui.h,oui.h,\oui.h,\epan\oui.h,88,66,7
+print.c,print.c,\print.c,\epan\print.c,418,1978,53
+getopt_long.c,getopt_long.c,\missing\getopt_long.c,\wsutil\getopt_long.c,408,882,86
+getopt_long.h,getopt_long.h,\missing\getopt_long.h,\wsutil\getopt_long.h,18,43,2

@@ -1,0 +1,10 @@
+8399-appscale,9975-hexchat
+python.py,python.py,\AppServer\lib\PyAMF-0.6.1\pyamf\python.py,\plugins\python\python.py,40,399,7
+example.py,example.py,\AppServer\lib\webob_0_9\docs\comment-example-code\example.py,\src\common\dbus\example.py,113,23,0
+example.py,example.py,\AppServer\lib\webob_0_9\docs\wiki-example-code\example.py,\src\common\dbus\example.py,140,23,0
+python.py,python.py,\AppServer\lib\django-0.96\django\core\serializers\python.py,\plugins\python\python.py,61,399,4
+python.py,python.py,\AppServer\lib\django-1.2\django\core\serializers\python.py,\plugins\python\python.py,94,399,8
+python.py,python.py,\AppServer\lib\django-1.3\django\core\serializers\python.py,\plugins\python\python.py,94,399,8
+python.py,python.py,\AppServer\lib\django-1.4\django\core\serializers\python.py,\plugins\python\python.py,93,399,8
+python.py,python.py,\AppServer\lib\django-1.5\django\core\serializers\python.py,\plugins\python\python.py,101,399,9
+python.py,python.py,\AppServer\google\appengine\_internal\django\core\serializers\python.py,\plugins\python\python.py,94,399,8

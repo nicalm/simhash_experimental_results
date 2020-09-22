@@ -1,0 +1,12 @@
+516-mongo,9975-hexchat
+text.h,text.h,\src\mongo\util\text.h,\src\common\text.h,54,47,2
+text.h,text.h,\src\mongo\db\exec\text.h,\src\common\text.h,44,47,1
+util.h,util.h,\src\mongo\db\ftdc\util.h,\src\common\util.h,38,47,0
+util.h,util.h,\src\third_party\icu4c-57.1\source\common\util.h,\src\common\util.h,46,47,1
+util.h,util.h,\src\third_party\wiredtiger\src\utilities\util.h,\src\common\util.h,44,47,0
+util.c,util.c,\src\third_party\wiredtiger\test\format\util.c,\src\common\util.c,425,1287,90
+util.c,util.c,\src\third_party\zstandard-1.4.3\zstd\programs\util.c,\src\common\util.c,442,1287,112
+util.h,util.h,\src\third_party\zstandard-1.4.3\zstd\programs\util.h,\src\common\util.h,115,47,3
+checksum.c,checksum.c,\src\third_party\wiredtiger\src\checksum\software\checksum.c,\plugins\checksum\checksum.c,563,194,3
+util.c,util.c,\src\third_party\wiredtiger\test\csuite\random_directio\util.c,\src\common\util.c,85,1287,12
+example.c,example.c,\src\third_party\zstandard-1.4.3\zstd\zlibWrapper\examples\example.c,\src\common\dbus\example.c,445,158,21

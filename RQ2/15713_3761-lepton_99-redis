@@ -1,0 +1,5 @@
+3761-lepton,99-redis
+config.h,config.h,\dependencies\config.h,\src\config.h,33,149,1
+cluster.c,cluster.c,\dependencies\brotli\c\enc\cluster.c,\src\cluster.c,37,3495,5
+cluster.h,cluster.h,\dependencies\brotli\c\enc\cluster.h,\src\cluster.h,30,207,1
+hash.h,hash.h,\dependencies\brotli\c\enc\hash.h,\deps\jemalloc\include\jemalloc\internal\hash.h,345,228,28

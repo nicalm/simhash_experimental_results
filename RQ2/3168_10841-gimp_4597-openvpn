@@ -1,0 +1,4 @@
+10841-gimp,4597-openvpn
+main.c,main.c,\app\main.c,\src\tapctl\main.c,631,349,85
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\src\openvpn\misc.c,169,564,24
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\src\plugins\auth-pam\utils.c,303,81,32

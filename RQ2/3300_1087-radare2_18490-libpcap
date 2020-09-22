@@ -1,0 +1,3 @@
+1087-radare2,18490-libpcap
+getopt.c,getopt.c,\libr\util\getopt.c,\missing\getopt.c,70,85,26
+log.c,log.c,\libr\util\log.c,\rpcapd\log.c,100,150,16

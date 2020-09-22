@@ -1,0 +1,4 @@
+10549-luci,8399-appscale
+prettify.js,prettify.js,\docs\jsapi\scripts\prettify\prettify.js,\AppDashboard\static\plugins\misc\prettify\prettify.js,28,981,0
+widgets.js,widgets.js,\modules\luci-base\htdocs\luci-static\resources\tools\widgets.js,\AppDashboard\static\js\widgets.js,489,371,44
+status.js,status.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\status.js,\AppServer\google\appengine\ext\mapreduce\static\status.js,100,583,14

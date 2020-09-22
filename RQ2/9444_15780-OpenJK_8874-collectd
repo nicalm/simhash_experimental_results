@@ -1,0 +1,7 @@
+15780-OpenJK,8874-collectd
+client.h,client.h,\code\client\client.h,\src\libcollectdclient\collectd\client.h,221,38,1
+server.h,server.h,\code\server\server.h,\src\libcollectdclient\collectd\server.h,188,25,3
+client.h,client.h,\codemp\client\client.h,\src\libcollectdclient\collectd\client.h,345,38,0
+match.h,match.h,\codemp\game\match.h,\src\utils\match\match.h,96,46,0
+server.h,server.h,\codemp\server\server.h,\src\libcollectdclient\collectd\server.h,278,25,2
+crc32.c,crc32.c,\lib\zlib\crc32.c,\src\utils\crc32\crc32.c,285,63,1

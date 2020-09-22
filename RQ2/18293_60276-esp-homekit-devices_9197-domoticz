@@ -1,0 +1,11 @@
+60276-esp-homekit-devices,9197-domoticz
+aes.h,aes.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\aes.h,\hardware\openzwave\aes\aes.h,31,109,6
+compress.c,compress.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,\zlib\compress.c,85,47,12
+aes.h,aes.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\openssl\aes.h,\hardware\openzwave\aes\aes.h,40,109,8
+aes.h,aes.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\aes.h,\hardware\openzwave\aes\aes.h,180,109,20
+aes.h,aes.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\aes.h,\hardware\openzwave\aes\aes.h,31,109,6
+compress.c,compress.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,\zlib\compress.c,85,47,12
+aes.h,aes.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\openssl\aes.h,\hardware\openzwave\aes\aes.h,40,109,8
+aes.h,aes.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\aes.h,\hardware\openzwave\aes\aes.h,180,109,20
+Resources.Designer.cs,Resources.Designer.cs,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\CSharp\wolfSSL_CSharp\Properties\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,33,32,30
+Resources.Designer.cs,Resources.Designer.cs,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\CSharp\wolfSSL_CSharp\Properties\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,33,32,30

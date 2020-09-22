@@ -1,0 +1,6 @@
+2202-qBittorrent,4679-ArduinoJson
+misc.cpp,misc.cpp,\src\base\utils\misc.cpp,\extras\tests\JsonDeserializer\misc.cpp,380,100,25
+misc.cpp,misc.cpp,\src\base\utils\misc.cpp,\extras\tests\JsonSerializer\misc.cpp,380,36,4
+misc.cpp,misc.cpp,\src\base\utils\misc.cpp,\extras\tests\JsonVariant\misc.cpp,380,38,6
+misc.cpp,misc.cpp,\src\base\utils\misc.cpp,\extras\tests\MsgPackSerializer\misc.cpp,380,36,4
+string.cpp,string.cpp,\src\base\utils\string.cpp,\extras\tests\JsonDeserializer\string.cpp,130,55,9

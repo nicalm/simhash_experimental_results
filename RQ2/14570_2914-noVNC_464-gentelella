@@ -1,0 +1,9 @@
+2914-noVNC,464-gentelella
+karma.conf.js,karma.conf.js,\karma.conf.js,\vendors\Flot\karma.conf.js,81,94,11
+karma.conf.js,karma.conf.js,\karma.conf.js,\vendors\bootstrap\js\tests\karma.conf.js,81,125,15
+ui.js,ui.js,\app\ui.js,\vendors\parsleyjs\src\parsley\ui.js,1215,251,43
+base64.js,base64.js,\core\base64.js,\vendors\jszip\lib\base64.js,71,48,7
+util.js,util.js,\core\input\util.js,\vendors\bootstrap\js\dist\util.js,139,120,22
+util.js,util.js,\core\input\util.js,\vendors\bootstrap\js\src\util.js,139,117,21
+util.js,util.js,\core\input\util.js,\vendors\bootstrap\js\tests\unit\util.js,139,122,6
+crc32.js,crc32.js,\vendor\pako\lib\zlib\crc32.js,\vendors\jszip\lib\crc32.js,21,88,3

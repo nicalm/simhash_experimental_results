@@ -1,0 +1,9 @@
+2912-postgres,9975-hexchat
+exec.c,exec.c,\src\common\exec.c,\plugins\exec\exec.c,532,111,35
+exec.c,exec.c,\src\bin\pg_upgrade\exec.c,\plugins\exec\exec.c,253,111,33
+server.c,server.c,\src\bin\pg_upgrade\server.c,\src\common\server.c,223,1542,56
+util.c,util.c,\src\bin\pg_upgrade\util.c,\src\common\util.c,163,1287,62
+inet.h,inet.h,\src\include\utils\inet.h,\src\common\inet.h,67,38,1
+ascii.c,ascii.c,\src\backend\utils\adt\ascii.c,\src\fe-gtk\ascii.c,112,136,15
+network.c,network.c,\src\backend\utils\adt\network.c,\src\common\network.c,1362,126,36
+setup.c,setup.c,\src\test\modules\test_shm_mq\setup.c,\src\fe-gtk\setup.c,187,1871,41

@@ -1,0 +1,6 @@
+1615-rufus,6285-ImageMagick
+icon.c,icon.c,\src\icon.c,\coders\icon.c,135,1096,19
+registry.h,registry.h,\src\registry.h,\MagickCore\registry.h,187,27,5
+inline.c,inline.c,\src\ext2fs\inline.c,\coders\inline.c,91,196,10
+memory.c,memory.c,\src\libcdio\driver\memory.c,\MagickCore\memory.c,16,792,6
+cache.c,cache.c,\src\syslinux\libfat\cache.c,\MagickCore\cache.c,37,3512,8

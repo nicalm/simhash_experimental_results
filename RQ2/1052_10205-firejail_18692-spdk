@@ -1,0 +1,10 @@
+10205-firejail,18692-spdk
+dev.c,dev.c,\src\faudit\dev.c,\lib\scsi\dev.c,24,327,5
+utils.c,utils.c,\src\fbuilder\utils.c,\module\bdev\ocf\utils.c,39,82,7
+utils.c,utils.c,\src\fbuilder\utils.c,\test\unit\lib\ftl\common\utils.c,39,102,5
+env.c,env.c,\src\firejail\env.c,\lib\env_dpdk\env.c,155,343,20
+interface.c,interface.c,\src\firemon\interface.c,\lib\net\interface.c,122,396,21
+interface.c,interface.c,\src\fnet\interface.c,\lib\net\interface.c,263,396,31
+common.h,common.h,\src\include\common.h,\module\bdev\nvme\common.h,89,84,1
+common.c,common.c,\src\lib\common.c,\module\bdev\nvme\common.c,241,117,28
+common.c,common.c,\src\lib\common.c,\test\unit\lib\iscsi\common.c,241,161,27

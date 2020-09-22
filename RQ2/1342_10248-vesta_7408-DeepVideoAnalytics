@@ -1,0 +1,4 @@
+10248-vesta,7408-DeepVideoAnalytics
+app.js,app.js,\web\js\app.js,\server\dvaapp\static\app\app.js,903,180,34
+app.js,app.js,\web\js\app.js,\server\dvaapp\static\dist\js\app.js,903,470,88
+jquery.mousewheel.js,jquery.mousewheel.js,\web\js\iviewer\test\jquery.mousewheel.js,\server\dvaapp\static\plugins\jquery.mousewheel.js,71,145,48

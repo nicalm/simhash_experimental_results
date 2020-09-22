@@ -1,0 +1,10 @@
+754-folly,9529-ltp
+Memory.h,Memory.h,\folly\Memory.h,\thirdparty\eigen\Eigen\src\Core\util\Memory.h,454,681,83
+Random.h,Random.h,\folly\Random.h,\thirdparty\eigen\Eigen\src\Core\Random.h,181,51,10
+Array.h,Array.h,\folly\container\Array.h,\thirdparty\eigen\Eigen\src\Core\Array.h,48,185,9
+EventCount.h,EventCount.h,\folly\experimental\EventCount.h,\thirdparty\eigen\unsupported\Eigen\CXX11\src\ThreadPool\EventCount.h,96,143,25
+Ordering.h,Ordering.h,\folly\lang\Ordering.h,\thirdparty\eigen\Eigen\src\OrderingMethods\Ordering.h,42,79,7
+forwards.h,forwards.h,\folly\experimental\pushmi\forwards.h,\thirdparty\jsoncpp\include\json\forwards.h,108,20,1
+Settings.h,Settings.h,\folly\experimental\settings\Settings.h,\thirdparty\eigen\Eigen\src\Core\arch\Default\Settings.h,146,15,0
+main.cpp,main.cpp,\folly\logging\example\main.cpp,\src\parser.n\main.cpp,23,128,2
+main.cpp,main.cpp,\folly\test\function_benchmark\main.cpp,\src\parser.n\main.cpp,301,128,13

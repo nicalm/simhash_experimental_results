@@ -1,0 +1,7 @@
+1123-envoy,11604-pdns
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,60,82,7
+conf.py,conf.py,\docs\conf.py,\pdns\dnsdistdist\docs\conf.py,60,48,7
+conf.py,conf.py,\docs\conf.py,\pdns\recursordist\docs\conf.py,60,52,7
+base64.cc,base64.cc,\source\common\common\base64.cc,\pdns\base64.cc,223,79,11
+logger.cc,logger.cc,\source\common\common\logger.cc,\pdns\logger.cc,119,145,20
+version.cc,version.cc,\source\common\common\version.cc,\pdns\version.cc,31,141,7

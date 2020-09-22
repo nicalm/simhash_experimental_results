@@ -1,0 +1,9 @@
+12658-Espruino,618-jq
+main.c,main.c,\targets\emscripten\main.c,\src\main.c,50,647,8
+main.c,main.c,\targets\esp32\main.c,\src\main.c,92,647,14
+main.c,main.c,\targets\linux\main.c,\src\main.c,335,647,53
+main.c,main.c,\targets\nrf5x\main.c,\src\main.c,16,647,3
+main.c,main.c,\targets\nrf5x_dfu\main.c,\src\main.c,191,647,32
+main.c,main.c,\targets\stm32\main.c,\src\main.c,38,647,11
+main.c,main.c,\targets\stm32_boot\main.c,\src\main.c,236,647,36
+main.c,main.c,\targets\stm32_ll\main.c,\src\main.c,23,647,5

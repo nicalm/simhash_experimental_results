@@ -1,0 +1,14 @@
+15910-gdal,551-FFmpeg
+mem.c,mem.c,\gdal\alg\internal_libqhull\mem.c,\libavutil\mem.c,328,378,57
+mem.h,mem.h,\gdal\alg\internal_libqhull\mem.h,\libavutil\mem.h,93,73,7
+adler32.c,adler32.c,\gdal\frmts\zlib\adler32.c,\libavutil\adler32.c,117,56,8
+adler32.c,adler32.c,\gdal\frmts\zlib\adler32.c,\libavutil\tests\adler32.c,117,25,4
+tiff.h,tiff.h,\gdal\frmts\gtiff\libtiff\tiff.h,\libavcodec\tiff.h,491,173,1
+jfdctfst.c,jfdctfst.c,\gdal\frmts\jpeg\libjpeg\jfdctfst.c,\libavcodec\jfdctfst.c,104,157,87
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\libavformat\file.c,22,336,9
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\libavutil\file.c,22,127,8
+png.c,png.c,\gdal\frmts\png\libpng\png.c,\libavcodec\png.c,826,40,10
+png.h,png.h,\gdal\frmts\png\libpng\png.h,\libavcodec\png.h,2159,28,14
+avc.h,avc.h,\gdal\ogr\ogrsf_frmts\avc\avc.h,\libavformat\avc.h,468,27,1
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\libavutil\hash.h,91,22,1
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\compat\avisynth\avs\config.h,54,25,6

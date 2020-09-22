@@ -1,0 +1,6 @@
+10093-VeraCrypt,14790-sleuthkit
+config.h,config.h,\src\Crypto\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,152,41,3
+Buffer.cpp,Buffer.cpp,\src\Platform\Buffer.cpp,\rejistry++\src\Buffer.cpp,121,30,7
+Buffer.h,Buffer.h,\src\Platform\Buffer.h,\rejistry++\src\Buffer.h,88,23,8
+config.h,config.h,\src\Common\libzip\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,60,41,4
+compress.c,compress.c,\src\Common\zlib\compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,53,395,8

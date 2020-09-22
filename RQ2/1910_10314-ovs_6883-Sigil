@@ -1,0 +1,7 @@
+10314-ovs,6883-Sigil
+util.c,util.c,\lib\util.c,\internal\gumbo\util.c,1694,49,23
+util.h,util.h,\lib\util.h,\internal\gumbo\util.h,431,48,22
+log.c,log.c,\ovsdb\log.c,\3rdparty\hunspell\intl\log.c,693,82,25
+util.h,util.h,\include\openvswitch\util.h,\internal\gumbo\util.h,121,48,14
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,44,362,3
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,44,187,3

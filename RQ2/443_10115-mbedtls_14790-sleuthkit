@@ -1,0 +1,5 @@
+10115-mbedtls,14790-sleuthkit
+md5.c,md5.c,\library\md5.c,\tools\hashtools\md5.c,358,48,11
+sha1.c,sha1.c,\library\sha1.c,\tools\hashtools\sha1.c,414,50,12
+base64.h,base64.h,\include\mbedtls\base64.h,\tools\fiwalk\src\base64.h,24,18,9
+config.h,config.h,\include\mbedtls\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,143,41,2

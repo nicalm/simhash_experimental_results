@@ -1,0 +1,4 @@
+1615-rufus,4960-capstone
+platform.h,platform.h,\src\bled\platform.h,\include\platform.h,498,80,15
+platform.h,platform.h,\src\bled\platform.h,\include\capstone\platform.h,498,88,19
+getopt.h,getopt.h,\src\getopt\getopt.h,\cstool\getopt.h,60,60,2

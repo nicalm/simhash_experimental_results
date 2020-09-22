@@ -1,0 +1,4 @@
+15780-OpenJK,4000-mruby
+example.c,example.c,\lib\jpeg-9a\example.c,\examples\mrbgems\c_and_ruby_extension_example\src\example.c,84,16,5
+example.c,example.c,\lib\jpeg-9a\example.c,\examples\mrbgems\c_extension_example\src\example.c,84,16,5
+string.h,string.h,\shared\qcommon\safe\string.h,\include\mruby\string.h,45,142,2

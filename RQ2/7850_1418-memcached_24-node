@@ -1,0 +1,7 @@
+1418-memcached,24-node
+thread.c,thread.c,\thread.c,\deps\uv\src\unix\thread.c,650,575,93
+thread.c,thread.c,\thread.c,\deps\uv\src\win\thread.c,650,341,63
+util.c,util.c,\util.c,\deps\uv\samples\socks5-proxy\util.c,193,43,12
+util.c,util.c,\util.c,\deps\uv\src\win\util.c,193,1289,49
+util.h,util.h,\util.h,\src\util.h,20,520,3
+util.h,util.h,\util.h,\deps\icu-small\source\common\util.h,20,51,1

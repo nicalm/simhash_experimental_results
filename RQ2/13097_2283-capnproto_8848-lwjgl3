@@ -1,0 +1,4 @@
+2283-capnproto,8848-lwjgl3
+debug.h,debug.h,\c++\src\kj\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,327,39,11
+vector.h,vector.h,\c++\src\kj\vector.h,\modules\lwjgl\tootle\src\main\c\vector.h,99,92,13
+compiler.h,compiler.h,\c++\src\capnp\compiler\compiler.h,\modules\lwjgl\zstd\src\main\c\common\compiler.h,56,101,1

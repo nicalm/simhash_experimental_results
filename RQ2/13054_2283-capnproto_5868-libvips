@@ -1,0 +1,5 @@
+2283-capnproto,5868-libvips
+debug.h,debug.h,\c++\src\kj\debug.h,\libvips\include\vips\debug.h,327,37,10
+memory.h,memory.h,\c++\src\kj\memory.h,\libvips\include\vips\memory.h,346,43,1
+thread.h,thread.h,\c++\src\kj\thread.h,\libvips\include\vips\thread.h,39,16,4
+vector.h,vector.h,\c++\src\kj\vector.h,\libvips\include\vips\vector.h,99,73,1

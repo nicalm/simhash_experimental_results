@@ -1,0 +1,6 @@
+11788-fbthrift,3024-SASM
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,44,79,6
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,44,63,3
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,108,79,6
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,108,63,2
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\main.cpp,47,90,3

@@ -1,0 +1,5 @@
+18309-tor,4984-jerryscript
+util.py,util.py,\scripts\maint\practracker\util.py,\tools\runners\util.py,40,36,2
+config.h,config.h,\src\app\config\config.h,\jerry-core\config.h,232,338,6
+main.c,main.c,\src\app\main\main.c,\targets\curie_bsp\jerry_app\quark\main.c,1029,130,37
+log.c,log.c,\src\lib\log\log.c,\jerry-libm\log.c,1118,117,39

@@ -1,0 +1,3 @@
+10093-VeraCrypt,99-redis
+config.h,config.h,\src\Crypto\config.h,\src\config.h,152,149,41
+config.h,config.h,\src\Common\libzip\config.h,\src\config.h,60,149,7

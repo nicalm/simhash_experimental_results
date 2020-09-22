@@ -1,0 +1,6 @@
+4960-capstone,5902-nmap
+utils.h,utils.h,\utils.h,\utils.h,39,45,3
+utils.h,utils.h,\utils.h,\nping\utils.h,39,26,2
+getopt.h,getopt.h,\cstool\getopt.h,\nbase\getopt.h,60,41,1
+setup.py,setup.py,\bindings\python\setup.py,\ndiff\setup.py,173,159,13
+setup.py,setup.py,\bindings\python\setup.py,\zenmap\setup.py,173,333,17

@@ -1,0 +1,10 @@
+1463-highcharts,3980-passenger
+index.js,index.js,\studies\highcharts-jsdom\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,93,31,0
+index.js,index.js,\studies\highcharts-jsdom\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,93,286,12
+index.js,index.js,\studies\highcharts-jsdom\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,93,71,11
+index.js,index.js,\studies\highcharts-jsdom\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,93,71,11
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\test\stub\node\app.js,325,114,15
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,40,31,1
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,40,286,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,40,71,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,40,71,9

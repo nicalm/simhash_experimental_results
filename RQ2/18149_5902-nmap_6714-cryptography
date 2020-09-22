@@ -1,0 +1,5 @@
+5902-nmap,6714-cryptography
+setup.py,setup.py,\ndiff\setup.py,\setup.py,159,181,6
+setup.py,setup.py,\ndiff\setup.py,\vectors\setup.py,159,19,1
+setup.py,setup.py,\zenmap\setup.py,\setup.py,333,181,12
+setup.py,setup.py,\zenmap\setup.py,\vectors\setup.py,333,19,1

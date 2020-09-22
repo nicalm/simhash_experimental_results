@@ -1,0 +1,7 @@
+1460-iTerm2,4139-outline-client
+LineBuffer.h,LineBuffer.h,\sources\LineBuffer.h,\third_party\badvpn\flow\LineBuffer.h,74,20,0
+AppDelegate.swift,AppDelegate.swift,\BetterFontPicker\BetterfontPickerDemo\AppDelegate.swift,\apple\xcode\osx\OutlineLauncher\AppDelegate.swift,22,24,8
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\third_party\shadowsocks-libev\libipset\python\setup.py,20,17,3
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\third_party\shadowsocks-libev\libipset\python\setup.py,33,17,0
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\third_party\shadowsocks-libev\libcork\docs\old\conf.py,39,40,12
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,52,124,0

@@ -1,0 +1,6 @@
+5868-libvips,9975-hexchat
+text.c,text.c,\libvips\create\text.c,\src\common\text.c,358,1817,55
+format.c,format.c,\libvips\deprecated\format.c,\plugins\sysinfo\format.c,266,60,17
+util.c,util.c,\libvips\iofuncs\util.c,\src\common\util.c,1294,1287,286
+match.c,match.c,\libvips\mosaicing\match.c,\plugins\sysinfo\unix\match.c,240,73,15
+util.h,util.h,\libvips\include\vips\util.h,\src\common\util.h,230,47,3

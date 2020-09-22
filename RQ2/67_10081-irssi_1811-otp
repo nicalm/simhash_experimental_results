@@ -1,0 +1,7 @@
+10081-irssi,1811-otp
+common.h,common.h,\src\common.h,\lib\crypto\c_src\common.h,81,24,5
+module.h,module.h,\src\irc\notifylist\module.h,\erts\emulator\beam\module.h,29,68,0
+module.h,module.h,\src\irc\proxy\module.h,\erts\emulator\beam\module.h,18,68,0
+module.h,module.h,\src\perl\common\module.h,\erts\emulator\beam\module.h,40,68,0
+module.h,module.h,\src\perl\irc\module.h,\erts\emulator\beam\module.h,35,68,0
+module.h,module.h,\src\perl\textui\module.h,\erts\emulator\beam\module.h,15,68,0

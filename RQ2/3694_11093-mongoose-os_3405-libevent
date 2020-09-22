@@ -1,0 +1,3 @@
+11093-mongoose-os,3405-libevent
+queue.h,queue.h,\include\common\queue.h,\compat\sys\queue.h,515,304,111
+dns.h,dns.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\dns.h,\include\event2\dns.h,62,163,8

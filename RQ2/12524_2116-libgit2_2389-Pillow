@@ -1,0 +1,6 @@
+2116-libgit2,2389-Pillow
+path.c,path.c,\src\path.c,\src\path.c,1446,472,93
+map.c,map.c,\src\unix\map.c,\src\map.c,51,284,12
+map.c,map.c,\src\win32\map.c,\src\map.c,107,284,23
+path.c,path.c,\tests\core\path.c,\src\path.c,536,472,53
+path.c,path.c,\tests\ignore\path.c,\src\path.c,463,472,54

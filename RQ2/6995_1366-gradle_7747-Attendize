@@ -1,0 +1,4 @@
+1366-gradle,7747-Attendize
+script.js,script.js,\subprojects\docs\src\docs\js\javadoc\script.js,\public\vendor\jquery\src\ajax\script.js,136,56,13
+script.js,script.js,\subprojects\docs\src\docs\release\content\script.js,\public\vendor\jquery\src\ajax\script.js,64,56,13
+script.js,script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,\public\vendor\jquery\src\ajax\script.js,164,56,17

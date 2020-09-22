@@ -1,0 +1,9 @@
+15910-gdal,242-php-src
+random.c,random.c,\gdal\alg\internal_libqhull\random.c,\ext\standard\random.c,133,201,21
+link.c,link.c,\gdal\frmts\ceos2\link.c,\ext\standard\link.c,31,169,10
+compress.c,compress.c,\gdal\frmts\zlib\compress.c,\ext\fileinfo\libmagic\compress.c,46,662,8
+crc32.c,crc32.c,\gdal\frmts\zlib\crc32.c,\ext\standard\crc32.c,287,70,16
+crc32.h,crc32.h,\gdal\frmts\zlib\crc32.h,\ext\standard\crc32.h,437,67,1
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\ext\standard\file.c,22,1874,8
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\ext\pcre\pcre2lib\config.h,54,46,10
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\ext\bcmath\libbcmath\src\debug.c,74,29,9

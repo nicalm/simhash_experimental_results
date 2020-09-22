@@ -1,0 +1,10 @@
+2283-capnproto,86-netdata
+main.js,main.js,\doc\javascripts\main.js,\web\gui\main.js,175,4130,42
+main.js,main.js,\doc\javascripts\main.js,\web\gui\src\dashboard.js\main.js,175,3119,40
+common.h,common.h,\c++\src\benchmark\common.h,\daemon\common.h,229,48,1
+common.h,common.h,\c++\src\capnp\common.h,\daemon\common.h,508,48,1
+common.h,common.h,\c++\src\kj\common.h,\daemon\common.h,1054,48,1
+main.h,main.h,\c++\src\kj\main.h,\daemon\main.h,94,27,2
+json.h,json.h,\c++\src\capnp\compat\json.h,\backends\json\json.h,317,27,0
+json.h,json.h,\c++\src\capnp\compat\json.h,\libnetdata\json\json.h,317,48,0
+common.h,common.h,\c++\src\kj\parse\common.h,\daemon\common.h,564,48,1

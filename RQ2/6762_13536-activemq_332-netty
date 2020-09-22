@@ -1,0 +1,8 @@
+13536-activemq,332-netty
+Promise.java,Promise.java,\activemq-broker\src\main\java\org\apache\activemq\util\Promise.java,\common\src\main\java\io\netty\util\concurrent\Promise.java,83,24,2
+SslContext.java,SslContext.java,\activemq-client\src\main\java\org\apache\activemq\broker\SslContext.java,\handler\src\main\java\io\netty\handler\ssl\SslContext.java,108,589,36
+TestUtils.java,TestUtils.java,\activemq-unit-tests\src\test\java\org\apache\activemq\util\TestUtils.java,\testsuite\src\main\java\io\netty\testsuite\util\TestUtils.java,64,175,16
+SslContextTest.java,SslContextTest.java,\activemq-client\src\test\java\org\apache\activemq\broker\scheduler\SslContextTest.java,\handler\src\test\java\io\netty\handler\ssl\SslContextTest.java,43,88,12
+SocketTest.java,SocketTest.java,\activemq-http\src\test\java\org\apache\activemq\transport\ws\SocketTest.java,\transport-native-unix-common-tests\src\main\java\io\netty\channel\unix\tests\SocketTest.java,22,67,7
+StompFrame.java,StompFrame.java,\activemq-stomp\src\main\java\org\apache\activemq\transport\stomp\StompFrame.java,\codec-stomp\src\main\java\io\netty\handler\codec\stomp\StompFrame.java,184,20,9
+ReflectionUtil.java,ReflectionUtil.java,\activemq-tooling\activemq-perf-maven-plugin\src\main\java\org\apache\activemq\tool\properties\ReflectionUtil.java,\common\src\main\java\io\netty\util\internal\ReflectionUtil.java,233,24,9

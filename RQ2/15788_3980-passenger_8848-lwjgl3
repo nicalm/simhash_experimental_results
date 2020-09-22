@@ -1,0 +1,12 @@
+3980-passenger,8848-lwjgl3
+Utils.h,Utils.h,\src\apache2_module\Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,138,83,13
+Utils.cpp,Utils.cpp,\src\cxx_supportlib\Utils.cpp,\modules\lwjgl\yoga\src\main\c\Utils.cpp,324,49,14
+Utils.h,Utils.h,\src\cxx_supportlib\Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,42,83,2
+Configuration.h,Configuration.h,\src\nginx_module\Configuration.h,\modules\lwjgl\driftfx\src\main\c\src\Configuration.h,47,22,2
+Common.h,Common.h,\src\cxx_supportlib\ConfigKit\Common.h,\modules\lwjgl\driftfx\src\main\c\include\DriftFX\Common.h,78,27,1
+Utils.h,Utils.h,\src\cxx_supportlib\ConfigKit\Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,67,83,11
+Utils.cpp,Utils.cpp,\src\cxx_supportlib\ProcessManagement\Utils.cpp,\modules\lwjgl\yoga\src\main\c\Utils.cpp,340,49,14
+Common.h,Common.h,\src\agent\Core\ApplicationPool\Common.h,\modules\lwjgl\driftfx\src\main\c\include\DriftFX\Common.h,97,27,1
+Utils.cpp,Utils.cpp,\src\agent\Shared\Fundamentals\Utils.cpp,\modules\lwjgl\yoga\src\main\c\Utils.cpp,79,49,14
+event.h,event.h,\src\cxx_supportlib\vendor-modified\libev\event.h,\modules\lwjgl\yoga\src\main\c\event\event.h,104,114,3
+compiler.h,compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,\modules\lwjgl\zstd\src\main\c\common\compiler.h,34,101,2

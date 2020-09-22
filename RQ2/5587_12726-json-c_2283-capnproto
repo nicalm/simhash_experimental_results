@@ -1,0 +1,3 @@
+12726-json-c,2283-capnproto
+debug.h,debug.h,\debug.h,\c++\src\kj\debug.h,51,327,12
+json.h,json.h,\json.h,\c++\src\capnp\compat\json.h,18,317,1

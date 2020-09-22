@@ -1,0 +1,8 @@
+10314-ovs,1769-ChakraCore
+process.h,process.h,\lib\process.h,\pal\src\include\pal\process.h,31,27,1
+stream.h,stream.h,\lib\stream.h,\lib\wabt\src\stream.h,64,150,3
+file.h,file.h,\ovsdb\file.h,\pal\src\include\pal\file.h,23,45,1
+Debug.h,Debug.h,\datapath-windows\ovsext\Debug.h,\lib\Runtime\Base\Debug.h,47,55,1
+Event.h,Event.h,\datapath-windows\ovsext\Event.h,\lib\Common\Common\Event.h,44,35,1
+list.h,list.h,\include\openvswitch\list.h,\pal\src\include\pal\list.h,203,55,10
+list.h,list.h,\datapath\linux\compat\include\linux\list.h,\pal\src\include\pal\list.h,24,55,3

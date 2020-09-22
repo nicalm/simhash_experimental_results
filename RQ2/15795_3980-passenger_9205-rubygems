@@ -1,0 +1,4 @@
+3980-passenger,9205-rubygems
+command.rb,command.rb,\src\ruby_supportlib\phusion_passenger\config\command.rb,\lib\rubygems\command.rb,35,353,12
+command.rb,command.rb,\src\ruby_supportlib\phusion_passenger\standalone\command.rb,\lib\rubygems\command.rb,45,353,14
+lock.rb,lock.rb,\src\ruby_supportlib\phusion_passenger\utils\lock.rb,\lib\rubygems\source\lock.rb,33,28,8

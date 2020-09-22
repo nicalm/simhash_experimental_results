@@ -1,0 +1,9 @@
+6444-yara,67701-r-source
+scan.c,scan.c,\libyara\scan.c,\src\main\scan.c,673,878,96
+util.c,util.c,\tests\util.c,\src\main\util.c,285,2082,72
+util.c,util.c,\tests\util.c,\src\library\grid\src\util.c,285,178,34
+util.c,util.c,\tests\util.c,\src\library\utils\src\windows\util.c,285,479,54
+windows.c,windows.c,\libyara\proc\windows.c,\src\extra\graphapp\windows.c,121,488,32
+types.h,types.h,\libyara\include\yara\types.h,\src\extra\xdr\rpc\types.h,527,48,3
+utils.h,utils.h,\libyara\include\yara\utils.h,\src\library\utils\src\utils.h,87,64,3
+tests.c,tests.c,\libyara\modules\tests\tests.c,\src\library\methods\src\tests.c,142,23,4

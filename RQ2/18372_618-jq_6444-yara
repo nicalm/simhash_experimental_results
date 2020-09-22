@@ -1,0 +1,7 @@
+618-jq,6444-yara
+lexer.c,lexer.c,\src\lexer.c,\libyara\lexer.c,1852,2655,1408
+lexer.h,lexer.h,\src\lexer.h,\libyara\include\yara\lexer.h,554,63,9
+parser.c,parser.c,\src\parser.c,\libyara\parser.c,3339,939,189
+parser.h,parser.h,\src\parser.h,\libyara\include\yara\parser.h,145,79,1
+util.c,util.c,\src\util.c,\tests\util.c,380,285,39
+util.h,util.h,\src\util.h,\tests\util.h,42,199,1

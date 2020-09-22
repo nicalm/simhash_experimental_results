@@ -1,0 +1,10 @@
+13324-librenms,981-numpy
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\__init__.py,252,89,8
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\core\__init__.py,252,89,3
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\distutils\__init__.py,252,20,2
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\f2py\__init__.py,252,58,7
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\lib\__init__.py,252,42,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\random\__init__.py,252,70,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\npy_tempita\__init__.py,252,950,14
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\distutils\command\__init__.py,252,31,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\numpy\distutils\fcompiler\__init__.py,252,725,12

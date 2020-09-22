@@ -1,0 +1,14 @@
+1193-mpv,1811-otp
+common.h,common.h,\common\common.h,\lib\crypto\c_src\common.h,78,24,3
+atomic.h,atomic.h,\osdep\atomic.h,\erts\include\internal\i386\atomic.h,72,194,3
+atomic.h,atomic.h,\osdep\atomic.h,\erts\include\internal\ppc32\atomic.h,72,295,2
+atomic.h,atomic.h,\osdep\atomic.h,\erts\include\internal\sparc32\atomic.h,72,95,3
+atomic.h,atomic.h,\osdep\atomic.h,\erts\include\internal\tile\atomic.h,72,87,2
+io.c,io.c,\osdep\io.c,\erts\emulator\beam\io.c,638,6019,214
+threads.c,threads.c,\osdep\threads.c,\erts\emulator\test\alloc_SUITE_data\threads.c,30,349,8
+utils.c,utils.c,\video\out\gpu\utils.c,\erts\emulator\beam\utils.c,257,4338,51
+common.h,common.h,\video\out\opengl\common.h,\lib\crypto\c_src\common.h,197,24,5
+utils.c,utils.c,\video\out\opengl\utils.c,\erts\emulator\beam\utils.c,217,4338,52
+utils.c,utils.c,\video\out\placebo\utils.c,\erts\emulator\beam\utils.c,52,4338,12
+common.h,common.h,\video\out\vulkan\common.h,\lib\crypto\c_src\common.h,27,24,5
+utils.c,utils.c,\video\out\vulkan\utils.c,\erts\emulator\beam\utils.c,37,4338,6

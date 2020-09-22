@@ -1,0 +1,12 @@
+10841-gimp,6773-server
+errors.c,errors.c,\app\errors.c,\mysys\errors.c,347,100,12
+main.c,main.c,\app\main.c,\dbug\main.c,631,23,5
+main.c,main.c,\app\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,631,166,41
+signals.c,signals.c,\app\signals.c,\extra\readline\signals.c,101,330,26
+signals.c,signals.c,\app\signals.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\signals.c,101,101,18
+tests.c,tests.c,\app\tests.c,\dbug\tests.c,131,83,21
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\extra\readline\misc.c,169,421,23
+dialog.c,dialog.c,\plug-ins\help-browser\dialog.c,\plugin\auth_dialog\dialog.c,1005,93,25
+global.h,global.h,\plug-ins\selection-to-path\global.h,\storage\connect\global.h,83,145,6
+math.c,math.c,\plug-ins\selection-to-path\math.c,\storage\mroonga\vendor\groonga\plugins\functions\math.c,96,110,14
+vector.c,vector.c,\plug-ins\selection-to-path\vector.c,\storage\mroonga\vendor\groonga\plugins\functions\vector.c,151,339,30

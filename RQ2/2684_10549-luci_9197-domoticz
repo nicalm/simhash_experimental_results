@@ -1,0 +1,4 @@
+10549-luci,9197-domoticz
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\json\config.h,89,123,0
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\json\config.h,89,123,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\json\config.h,35,123,2

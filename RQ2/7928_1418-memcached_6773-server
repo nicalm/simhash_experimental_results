@@ -1,0 +1,15 @@
+1418-memcached,6773-server
+cache.c,cache.c,\cache.c,\storage\mroonga\vendor\groonga\lib\cache.c,132,882,25
+cache.h,cache.h,\cache.h,\storage\mroonga\vendor\groonga\include\groonga\cache.h,38,23,2
+hash.c,hash.c,\hash.c,\mysys\hash.c,18,648,5
+hash.c,hash.c,\hash.c,\storage\mroonga\vendor\groonga\lib\hash.c,18,3336,6
+logger.c,logger.c,\logger.c,\storage\mroonga\vendor\groonga\lib\logger.c,631,696,85
+logger.h,logger.h,\logger.h,\storage\rocksdb\logger.h,159,51,1
+logger.h,logger.h,\logger.h,\storage\tokudb\PerconaFT\ft\logger\logger.h,159,141,3
+thread.c,thread.c,\thread.c,\storage\mroonga\vendor\groonga\lib\thread.c,650,35,8
+util.c,util.c,\util.c,\extra\readline\util.c,193,246,29
+util.c,util.c,\util.c,\storage\mroonga\vendor\groonga\lib\util.c,193,1420,49
+util.c,util.c,\util.c,\storage\mroonga\vendor\groonga\src\suggest\util.c,193,184,33
+util.c,util.c,\util.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\util.c,193,127,17
+util.h,util.h,\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,20,22,2
+util.h,util.h,\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,20,20,1

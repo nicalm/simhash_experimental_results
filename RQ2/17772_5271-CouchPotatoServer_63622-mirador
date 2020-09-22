@@ -1,0 +1,6 @@
+5271-CouchPotatoServer,63622-mirador
+settings.js,settings.js,\couchpotato\static\scripts\page\settings.js,\src\config\settings.js,1012,274,64
+search.js,search.js,\couchpotato\core\media\movie\_base\static\search.js,\src\state\actions\search.js,194,87,13
+search.js,search.js,\couchpotato\core\media\movie\_base\static\search.js,\src\state\reducers\search.js,194,129,16
+search.js,search.js,\couchpotato\core\media\_base\search\static\search.js,\src\state\actions\search.js,162,87,13
+search.js,search.js,\couchpotato\core\media\_base\search\static\search.js,\src\state\reducers\search.js,162,129,15

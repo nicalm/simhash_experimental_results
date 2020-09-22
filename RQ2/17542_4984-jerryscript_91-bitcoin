@@ -1,0 +1,4 @@
+4984-jerryscript,91-bitcoin
+util.py,util.py,\tools\runners\util.py,\test\functional\test_framework\util.py,36,395,1
+common.h,common.h,\jerry-core\parser\js\common.h,\src\crypto\common.h,78,83,12
+handler.h,handler.h,\jerry-ext\include\jerryscript-ext\handler.h,\src\interfaces\handler.h,60,18,3

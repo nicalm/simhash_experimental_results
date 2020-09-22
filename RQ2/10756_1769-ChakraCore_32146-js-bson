@@ -1,0 +1,7 @@
+1769-ChakraCore,32146-js-bson
+map.js,map.js,\test\TTBasic\map.js,\lib\map.js,31,97,1
+symbol.js,symbol.js,\test\TTBasic\symbol.js,\lib\symbol.js,24,26,1
+binary.js,binary.js,\test\wasm\binary.js,\lib\binary.js,40,216,7
+regexp.js,regexp.js,\test\benchmarks\Octane\regexp.js,\lib\regexp.js,2020,41,7
+regexp.js,regexp.js,\test\benchmarks\Octane_Closure\regexp.js,\lib\regexp.js,2015,41,7
+code.js,code.js,\test\benchmarks\ARES-6\Air\code.js,\lib\code.js,84,21,7

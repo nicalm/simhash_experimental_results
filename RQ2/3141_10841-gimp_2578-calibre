@@ -1,0 +1,4 @@
+10841-gimp,2578-calibre
+main.c,main.c,\app\main.c,\bypy\windows\main.c,631,107,20
+global.h,global.h,\plug-ins\selection-to-path\global.h,\src\calibre\utils\podofo\global.h,83,89,0
+global.h,global.h,\plug-ins\selection-to-path\global.h,\src\calibre\devices\mtp\windows\global.h,83,41,0

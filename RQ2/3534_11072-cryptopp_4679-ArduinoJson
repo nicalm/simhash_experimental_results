@@ -1,0 +1,5 @@
+11072-cryptopp,4679-ArduinoJson
+misc.cpp,misc.cpp,\misc.cpp,\extras\tests\JsonDeserializer\misc.cpp,233,100,22
+misc.cpp,misc.cpp,\misc.cpp,\extras\tests\JsonSerializer\misc.cpp,233,36,5
+misc.cpp,misc.cpp,\misc.cpp,\extras\tests\JsonVariant\misc.cpp,233,38,6
+misc.cpp,misc.cpp,\misc.cpp,\extras\tests\MsgPackSerializer\misc.cpp,233,36,5

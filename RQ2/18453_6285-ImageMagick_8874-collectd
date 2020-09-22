@@ -1,0 +1,4 @@
+6285-ImageMagick,8874-collectd
+client.c,client.c,\MagickCore\client.c,\src\libcollectdclient\client.c,39,785,12
+memory.c,memory.c,\MagickCore\memory.c,\src\memory.c,792,314,37
+threshold.c,threshold.c,\MagickCore\threshold.c,\src\threshold.c,1846,527,75

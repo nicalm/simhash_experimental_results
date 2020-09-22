@@ -1,0 +1,4 @@
+10314-ovs,15439-ettercap
+dummy.c,dummy.c,\lib\dummy.c,\plug-ins\dummy\dummy.c,22,32,4
+strsep.c,strsep.c,\lib\strsep.c,\src\missing\strsep.c,29,32,20
+getopt.h,getopt.h,\include\windows\getopt.h,\include\missing\getopt.h,17,60,10

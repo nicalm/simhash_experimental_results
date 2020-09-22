@@ -1,0 +1,9 @@
+6883-Sigil,99-redis
+util.c,util.c,\internal\gumbo\util.c,\src\util.c,49,590,16
+util.h,util.h,\internal\gumbo\util.h,\src\util.h,48,24,2
+util.h,util.h,\internal\gumbo\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,48,42,6
+log.c,log.c,\3rdparty\hunspell\intl\log.c,\deps\jemalloc\src\log.c,82,57,9
+log.c,log.c,\3rdparty\hunspell\intl\log.c,\deps\jemalloc\test\unit\log.c,82,150,10
+example.c,example.c,\3rdparty\zlib\test\example.c,\deps\linenoise\example.c,441,53,15
+example.c,example.c,\3rdparty\zlib\test\example.c,\deps\hiredis\examples\example.c,441,57,12
+config.h,config.h,\3rdparty\hunspell\src\win_api\config.h,\src\config.h,68,149,0

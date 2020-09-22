@@ -1,0 +1,4 @@
+4139-outline-client,7242-Sia
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\siac\main.go,122,118,19
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\siad\main.go,122,141,18
+main.go,main.go,\tools\find_tap_name\main.go,\vendor\github.com\coreos\bbolt\cmd\bolt\main.go,122,1571,46

@@ -1,0 +1,6 @@
+10093-VeraCrypt,242-php-src
+config.h,config.h,\src\Crypto\config.h,\ext\pcre\pcre2lib\config.h,152,46,15
+config.h,config.h,\src\Common\libzip\config.h,\ext\pcre\pcre2lib\config.h,60,46,7
+compress.c,compress.c,\src\Common\zlib\compress.c,\ext\fileinfo\libmagic\compress.c,53,662,8
+crc32.c,crc32.c,\src\Common\zlib\crc32.c,\ext\standard\crc32.c,289,70,16
+crc32.h,crc32.h,\src\Common\zlib\crc32.h,\ext\standard\crc32.h,437,67,1

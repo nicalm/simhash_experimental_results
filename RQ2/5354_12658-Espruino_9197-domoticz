@@ -1,0 +1,4 @@
+12658-Espruino,9197-domoticz
+config.h,config.h,\libs\crypto\mbedtls\config.h,\json\config.h,60,123,4
+aes.h,aes.h,\libs\crypto\mbedtls\include\mbedtls\aes.h,\hardware\openzwave\aes\aes.h,86,109,14
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\zlib\crc32.c,19,285,8

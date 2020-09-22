@@ -1,0 +1,4 @@
+2475-fmt,6773-server
+util.h,util.h,\test\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,55,22,3
+util.h,util.h,\test\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,55,20,1
+os.h,os.h,\include\fmt\os.h,\storage\connect\os.h,205,56,10

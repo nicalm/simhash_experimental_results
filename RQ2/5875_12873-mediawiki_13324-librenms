@@ -1,0 +1,16 @@
+12873-mediawiki,13324-librenms
+api.php,api.php,\api.php,\routes\api.php,58,108,1
+config.php,config.php,\.phan\config.php,\includes\html\collectd\config.php,82,68,4
+Html.php,Html.php,\includes\Html.php,\LibreNMS\Util\Html.php,515,75,17
+install.php,install.php,\maintenance\install.php,\html\install.php,143,516,23
+update.php,update.php,\maintenance\update.php,\includes\sql-schema\update.php,176,71,19
+mail.php,mail.php,\.phan\stubs\mail.php,\config\mail.php,31,21,1
+IP.php,IP.php,\includes\libs\IP.php,\LibreNMS\Util\IP.php,403,103,31
+ObjectCache.php,ObjectCache.php,\includes\objectcache\ObjectCache.php,\LibreNMS\ObjectCache.php,127,67,19
+ObjectCache.php,ObjectCache.php,\includes\objectcache\ObjectCache.php,\LibreNMS\Util\ObjectCache.php,127,174,21
+Handler.php,Handler.php,\includes\Rest\Handler.php,\app\Exceptions\Handler.php,95,44,9
+User.php,User.php,\includes\user\User.php,\app\Models\User.php,2863,133,35
+User.php,User.php,\includes\user\User.php,\LibreNMS\Validations\User.php,2863,93,24
+bootstrap.php,bootstrap.php,\tests\phpunit\bootstrap.php,\tests\bootstrap.php,44,41,5
+Validator.php,Validator.php,\includes\Rest\Validator\Validator.php,\LibreNMS\Validator.php,108,142,14
+Database.php,Database.php,\includes\libs\rdbms\database\Database.php,\LibreNMS\Validations\Database.php,3082,307,72

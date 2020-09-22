@@ -1,0 +1,5 @@
+6883-Sigil,91-bitcoin
+error.h,error.h,\internal\gumbo\error.h,\src\util\error.h,114,21,1
+util.h,util.h,\internal\gumbo\util.h,\src\rpc\util.h,48,173,14
+util.h,util.h,\internal\gumbo\util.h,\src\secp256k1\src\util.h,48,99,10
+vector.h,vector.h,\internal\gumbo\vector.h,\src\util\vector.h,20,32,2

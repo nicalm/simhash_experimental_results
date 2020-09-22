@@ -1,0 +1,4 @@
+4420-zcash,6285-ImageMagick
+policy.h,policy.h,\src\policy\policy.h,\MagickCore\policy.h,28,45,1
+histogram.h,histogram.h,\src\leveldb\util\histogram.h,\MagickCore\histogram.h,28,21,2
+cache.h,cache.h,\src\leveldb\include\leveldb\cache.h,\MagickCore\cache.h,30,51,2

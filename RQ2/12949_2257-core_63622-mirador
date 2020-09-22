@@ -1,0 +1,10 @@
+2257-core,63622-mirador
+config.js,config.js,\core\js\config.js,\src\state\actions\config.js,48,21,6
+config.js,config.js,\core\js\config.js,\src\state\reducers\config.js,48,15,2
+config.js,config.js,\core\js\config.js,\src\state\selectors\config.js,48,44,1
+settings.js,settings.js,\settings\js\settings.js,\src\config\settings.js,72,274,11
+search.js,search.js,\apps\files\js\search.js,\src\state\actions\search.js,141,87,15
+search.js,search.js,\apps\files\js\search.js,\src\state\reducers\search.js,141,129,15
+settings.js,settings.js,\apps\files_external\js\settings.js,\src\config\settings.js,1085,274,43
+search.js,search.js,\core\search\js\search.js,\src\state\actions\search.js,321,87,18
+search.js,search.js,\core\search\js\search.js,\src\state\reducers\search.js,321,129,14

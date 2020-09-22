@@ -1,0 +1,4 @@
+6883-Sigil,9975-hexchat
+util.c,util.c,\internal\gumbo\util.c,\src\common\util.c,49,1287,16
+util.h,util.h,\internal\gumbo\util.h,\src\common\util.h,48,47,2
+example.c,example.c,\3rdparty\zlib\test\example.c,\src\common\dbus\example.c,441,158,21

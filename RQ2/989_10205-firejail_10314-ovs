@@ -1,0 +1,4 @@
+10205-firejail,10314-ovs
+utils.c,utils.c,\src\fbuilder\utils.c,\datapath\linux\compat\utils.c,39,88,7
+util.c,util.c,\src\firecfg\util.c,\lib\util.c,50,1694,12
+util.c,util.c,\src\firejail\util.c,\lib\util.c,968,1694,184

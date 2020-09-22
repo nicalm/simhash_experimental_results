@@ -1,0 +1,5 @@
+10314-ovs,11212-varnish-cache
+daemon.c,daemon.c,\lib\daemon.c,\lib\libvarnishapi\daemon.c,81,54,10
+hash.c,hash.c,\lib\hash.c,\lib\libvmod_directors\hash.c,271,75,14
+random.c,random.c,\lib\random.c,\lib\libvmod_directors\random.c,71,103,16
+storage.h,storage.h,\ovsdb\storage.h,\bin\varnishd\storage\storage.h,63,77,0

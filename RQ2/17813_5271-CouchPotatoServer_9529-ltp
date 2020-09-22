@@ -1,0 +1,4 @@
+5271-CouchPotatoServer,9529-ltp
+request.py,request.py,\couchpotato\core\helpers\request.py,\tools\autotest\request.py,54,99,8
+request.py,request.py,\libs\requests\packages\urllib3\request.py,\tools\autotest\request.py,47,99,3
+request.py,request.py,\libs\requests\packages\urllib3\util\request.py,\tools\autotest\request.py,27,99,1

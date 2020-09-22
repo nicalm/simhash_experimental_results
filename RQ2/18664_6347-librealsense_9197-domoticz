@@ -1,0 +1,14 @@
+6347-librealsense,9197-domoticz
+stream.h,stream.h,\src\stream.h,\cereal\external\rapidjson\stream.h,185,67,8
+config.h,config.h,\src\pipeline\config.h,\json\config.h,54,123,1
+sqlite3.c,sqlite3.c,\third-party\sqlite\sqlite3.c,\sqlite\sqlite3.c,120405,127443,113832
+sqlite3.h,sqlite3.h,\third-party\sqlite\sqlite3.h,\sqlite\sqlite3.h,1408,1494,1122
+Program.cs,Program.cs,\wrappers\csharp\cs-tutorial-1-depth\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,71,26,12
+stdint.h,stdint.h,\third-party\glfw\deps\vs2008\stdint.h,\cereal\external\rapidjson\msinttypes\stdint.h,152,184,150
+CmdLine.h,CmdLine.h,\third-party\tclap\include\tclap\CmdLine.h,\main\CmdLine.h,326,22,7
+Notification.h,Notification.h,\third-party\realsense-file\rosbag\msgs\realsense_msgs\Notification.h,\hardware\openzwave\Notification.h,161,93,9
+Clock.h,Clock.h,\third-party\realsense-file\rosbag\msgs\rosgraph_msgs\Clock.h,\hardware\openzwave\command_classes\Clock.h,130,27,5
+Log.h,Log.h,\third-party\realsense-file\rosbag\msgs\rosgraph_msgs\Log.h,\hardware\openzwave\platform\Log.h,225,61,10
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\www\app\app.js,480,742,91
+stream.h,stream.h,\third-party\realsense-file\rosbag\rosbag_storage\include\rosbag\stream.h,\cereal\external\rapidjson\stream.h,87,67,8
+eval.h,eval.h,\wrappers\python\third_party\pybind11\include\pybind11\eval.h,\hardware\plugins\Include\eval.h,81,20,3

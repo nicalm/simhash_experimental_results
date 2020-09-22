@@ -1,0 +1,9 @@
+242-php-src,9088-httpd
+main.c,main.c,\main\main.c,\server\main.c,2098,643,124
+filter.c,filter.c,\ext\filter\filter.c,\modules\apreq\filter.c,619,381,75
+util.c,util.c,\ext\phar\util.c,\server\util.c,1635,2737,428
+util.c,util.c,\ext\phar\util.c,\test\unit\util.c,1635,44,7
+util.c,util.c,\ext\phar\util.c,\modules\dav\main\util.c,1635,1250,265
+base64.c,base64.c,\ext\standard\base64.c,\test\unit\base64.c,715,117,20
+filter.c,filter.c,\main\streams\filter.c,\modules\apreq\filter.c,366,381,67
+base64.c,base64.c,\ext\xmlrpc\libxmlrpc\base64.c,\test\unit\base64.c,140,117,14

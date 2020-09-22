@@ -1,0 +1,4 @@
+15439-ettercap,2912-postgres
+getopt.c,getopt.c,\src\missing\getopt.c,\src\port\getopt.c,775,76,29
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\src\port\strlcat.c,29,26,16
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\src\port\strlcpy.c,23,24,6

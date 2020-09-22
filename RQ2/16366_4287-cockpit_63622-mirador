@@ -1,0 +1,7 @@
+4287-cockpit,63622-mirador
+webpack.config.js,webpack.config.js,\webpack.config.js,\webpack.config.js,333,62,20
+search.js,search.js,\pkg\docker\search.js,\src\state\actions\search.js,135,87,12
+search.js,search.js,\pkg\docker\search.js,\src\state\reducers\search.js,135,129,13
+config.js,config.js,\pkg\machines\config.js,\src\state\actions\config.js,18,21,4
+config.js,config.js,\pkg\machines\config.js,\src\state\reducers\config.js,18,15,2
+config.js,config.js,\pkg\machines\config.js,\src\state\selectors\config.js,18,44,1

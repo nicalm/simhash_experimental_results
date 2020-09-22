@@ -1,0 +1,10 @@
+551-FFmpeg,9975-hexchat
+format.c,format.c,\libavformat\format.c,\plugins\sysinfo\format.c,254,60,18
+network.c,network.c,\libavformat\network.c,\src\common\network.c,485,126,31
+network.h,network.h,\libavformat\network.h,\src\common\network.h,189,19,3
+url.c,url.c,\libavformat\url.c,\src\common\url.c,113,502,25
+url.h,url.h,\libavformat\url.h,\src\common\url.h,88,17,1
+tree.c,tree.c,\libavutil\tree.c,\src\common\tree.c,119,190,27
+tree.h,tree.h,\libavutil\tree.h,\src\common\tree.h,17,16,1
+url.c,url.c,\libavformat\tests\url.c,\src\common\url.c,32,502,7
+tree.c,tree.c,\libavutil\tests\tree.c,\src\common\tree.c,75,190,18

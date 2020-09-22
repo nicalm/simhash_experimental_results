@@ -1,0 +1,10 @@
+11788-fbthrift,6883-Sigil
+util.h,util.h,\thrift\compiler\util.h,\internal\gumbo\util.h,91,48,8
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,44,362,7
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,44,187,9
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\internal\gumbo\util.h,25,48,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\internal\gumbo\util.h,17,48,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\internal\gumbo\util.h,29,48,7
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,108,362,8
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,108,187,5
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\src\main.cpp,47,466,3

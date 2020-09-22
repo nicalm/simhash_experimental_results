@@ -1,0 +1,12 @@
+1729-fine-uploader,4001-hello.js
+templating.js,templating.js,\client\js\templating.js,\assets\knockout\src\templating\templating.js,803,223,39
+templating.js,templating.js,\test\unit\templating.js,\assets\knockout\src\templating\templating.js,410,223,13
+jquery.js,jquery.js,\test\static\third-party\jquery\jquery.js,\assets\expect\support\jquery.js,6645,6390,3668
+cycle.js,cycle.js,\test\static\third-party\json2\cycle.js,\assets\json2\cycle.js,86,86,86
+json.js,json.js,\test\static\third-party\json2\json.js,\assets\json2\json.js,191,191,191
+json2.js,json2.js,\test\static\third-party\json2\json2.js,\assets\json2\json2.js,184,184,184
+json_parse.js,json_parse.js,\test\static\third-party\json2\json_parse.js,\assets\json2\json_parse.js,228,228,228
+json_parse_state.js,json_parse_state.js,\test\static\third-party\json2\json_parse_state.js,\assets\json2\json_parse_state.js,284,284,284
+event.js,event.js,\test\static\third-party\sinon\event.js,\assets\knockout\src\binding\defaultBindings\event.js,49,46,9
+sinon.js,sinon.js,\test\static\third-party\sinon\sinon.js,\assets\sinonjs\sinon.js,281,3714,254
+mocha.js,mocha.js,\test\static\third-party\mocha\js\mocha.js,\assets\mocha\mocha.js,2974,3831,2698

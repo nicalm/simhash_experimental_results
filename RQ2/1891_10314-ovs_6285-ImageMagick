@@ -1,0 +1,16 @@
+10314-ovs,6285-ImageMagick
+json.c,json.c,\lib\json.c,\coders\json.c,1370,1500,253
+memory.c,memory.c,\lib\memory.c,\MagickCore\memory.c,115,792,26
+random.c,random.c,\lib\random.c,\MagickCore\random.c,71,544,16
+stream.c,stream.c,\lib\stream.c,\MagickCore\stream.c,584,2062,136
+stream.c,stream.c,\lib\stream.c,\MagickWand\stream.c,584,635,100
+stream.h,stream.h,\lib\stream.h,\MagickCore\stream.h,64,26,1
+string.c,string.c,\lib\string.c,\MagickCore\string.c,27,1281,10
+timer.c,timer.c,\lib\timer.c,\MagickCore\timer.c,20,216,6
+timer.h,timer.h,\lib\timer.h,\MagickCore\timer.h,37,46,5
+log.c,log.c,\ovsdb\log.c,\MagickCore\log.c,693,1233,137
+log.h,log.h,\ovsdb\log.h,\MagickCore\log.h,49,65,1
+monitor.c,monitor.c,\ovsdb\monitor.c,\MagickCore\monitor.c,1337,67,10
+monitor.h,monitor.h,\ovsdb\monitor.h,\MagickCore\monitor.h,82,29,1
+list.h,list.h,\include\openvswitch\list.h,\MagickCore\list.h,203,41,5
+list.h,list.h,\datapath\linux\compat\include\linux\list.h,\MagickCore\list.h,24,41,3

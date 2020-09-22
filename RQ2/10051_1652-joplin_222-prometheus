@@ -1,0 +1,5 @@
+1652-joplin,222-prometheus
+index.js,index.js,\ReactNativeClient\locales\index.js,\web\ui\static\js\graph\index.js,71,1022,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\web\ui\static\js\graph\index.js,352,1022,63
+index.js,index.js,\ElectronClient\app\locales\index.js,\web\ui\static\js\graph\index.js,71,1022,0
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\web\ui\static\js\graph\index.js,82,1022,10

@@ -1,0 +1,4 @@
+461-vim,682-curl
+dict.c,dict.c,\src\dict.c,\lib\dict.c,815,209,32
+sha256.c,sha256.c,\src\sha256.c,\lib\sha256.c,332,193,27
+version.c,version.c,\src\version.c,\lib\version.c,1339,398,118

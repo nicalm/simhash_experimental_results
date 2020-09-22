@@ -1,0 +1,4 @@
+10249-pycrypto,67679-k8s-multicluster-ingress
+setup.py,setup.py,\setup.py,\vendor\github.com\prometheus\client_model\setup.py,369,20,1
+common.py,common.py,\lib\Crypto\SelfTest\Cipher\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,555,21,0
+common.py,common.py,\lib\Crypto\SelfTest\Hash\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,176,21,0

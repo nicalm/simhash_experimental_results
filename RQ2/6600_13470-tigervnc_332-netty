@@ -1,0 +1,4 @@
+13470-tigervnc,332-netty
+Buffer.java,Buffer.java,\java\com\jcraft\jsch\Buffer.java,\transport-native-unix-common\src\main\java\io\netty\channel\unix\Buffer.java,214,31,7
+Channel.java,Channel.java,\java\com\jcraft\jsch\Channel.java,\transport\src\main\java\io\netty\channel\Channel.java,607,50,2
+Socket.java,Socket.java,\java\com\tigervnc\network\Socket.java,\transport-native-unix-common\src\main\java\io\netty\channel\unix\Socket.java,42,387,5

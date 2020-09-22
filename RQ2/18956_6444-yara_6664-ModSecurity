@@ -1,0 +1,4 @@
+6444-yara,6664-ModSecurity
+args.h,args.h,\args.h,\src\variables\args.h,51,15,2
+exec.h,exec.h,\libyara\include\yara\exec.h,\src\actions\exec.h,136,24,1
+rules.h,rules.h,\libyara\include\yara\rules.h,\headers\modsecurity\rules.h,96,74,1

@@ -1,0 +1,5 @@
+10115-mbedtls,1615-rufus
+sha512.c,sha512.c,\library\sha512.c,\src\ext2fs\sha512.c,468,246,33
+config.h,config.h,\include\mbedtls\config.h,\src\ext2fs\config.h,143,182,3
+config.h,config.h,\include\mbedtls\config.h,\src\libcdio\config.h,143,53,3
+platform.h,platform.h,\include\mbedtls\platform.h,\src\bled\platform.h,176,498,61

@@ -1,0 +1,3 @@
+10395-jitsi,12758-znc
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\test\integration\framework\base.h,66,144,1
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\include\znc\version.h,40,43,5

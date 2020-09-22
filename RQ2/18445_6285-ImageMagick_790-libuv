@@ -1,0 +1,12 @@
+6285-ImageMagick,790-libuv
+client.c,client.c,\MagickCore\client.c,\samples\socks5-proxy\client.c,39,547,6
+stream.c,stream.c,\MagickCore\stream.c,\src\unix\stream.c,2062,1128,136
+stream.c,stream.c,\MagickCore\stream.c,\src\win\stream.c,2062,171,39
+thread.c,thread.c,\MagickCore\thread.c,\src\unix\thread.c,106,622,19
+thread.c,thread.c,\MagickCore\thread.c,\src\win\thread.c,106,409,12
+timer.c,timer.c,\MagickCore\timer.c,\src\timer.c,216,103,11
+version.c,version.c,\MagickCore\version.c,\src\version.c,351,17,4
+stream.c,stream.c,\MagickWand\stream.c,\src\unix\stream.c,635,1128,68
+stream.c,stream.c,\MagickWand\stream.c,\src\win\stream.c,635,171,34
+core.c,core.c,\www\source\core.c,\src\unix\core.c,47,1056,8
+core.c,core.c,\www\source\core.c,\src\win\core.c,47,317,4

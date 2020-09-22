@@ -1,0 +1,2 @@
+1194-salt,682-curl
+smb.py,smb.py,\salt\utils\smb.py,\tests\python_dependencies\impacket\smb.py,343,3213,28

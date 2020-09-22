@@ -1,0 +1,12 @@
+24-node,506-ghidra
+defaults.py,defaults.py,\tools\inspector_protocol\jinja2\defaults.py,\Ghidra\Extensions\SleighDevTools\pcodetest\defaults.py,34,26,0
+getopt.c,getopt.c,\deps\uv\samples\socks5-proxy\getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,78,637,17
+graph.cc,graph.cc,\deps\v8\src\compiler\graph.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\graph.cc,58,422,11
+opcodes.cc,opcodes.cc,\deps\v8\src\compiler\opcodes.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\opcodes.cc,26,91,5
+types.h,types.h,\deps\v8\src\compiler\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,405,280,3
+types.h,types.h,\deps\v8\src\compiler\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,405,161,3
+types.h,types.h,\deps\v8\src\torque\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,605,280,1
+types.h,types.h,\deps\v8\src\torque\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,605,161,1
+defaults.py,defaults.py,\deps\v8\third_party\jinja2\defaults.py,\Ghidra\Extensions\SleighDevTools\pcodetest\defaults.py,34,26,0
+types.h,types.h,\deps\brotli\c\include\brotli\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,25,280,3
+types.h,types.h,\deps\brotli\c\include\brotli\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,25,161,3

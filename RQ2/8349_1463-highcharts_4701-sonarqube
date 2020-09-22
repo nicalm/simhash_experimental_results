@@ -1,0 +1,8 @@
+1463-highcharts,4701-sonarqube
+build.js,build.js,\tools\build.js,\server\sonar-web\scripts\build.js,222,27,4
+index.js,index.js,\studies\highcharts-jsdom\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,93,79,11
+index.js,index.js,\studies\highcharts-jsdom\index.js,\server\sonar-web\config\documentation-loader\index.js,93,28,2
+build.js,build.js,\tools\gulptasks\lib\build.js,\server\sonar-web\scripts\build.js,40,27,5
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\server\sonar-web\config\utils.js,53,58,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,40,79,7
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\server\sonar-web\config\documentation-loader\index.js,40,28,3

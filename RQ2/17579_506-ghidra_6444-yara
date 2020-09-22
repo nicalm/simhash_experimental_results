@@ -1,0 +1,3 @@
+506-ghidra,6444-yara
+types.h,types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\libyara\include\yara\types.h,280,527,3
+types.h,types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,\libyara\include\yara\types.h,161,527,3

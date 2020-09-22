@@ -1,0 +1,2 @@
+2004-skaffold,4482-nixpkgs
+tarsum.go,tarsum.go,\vendor\github.com\docker\docker\pkg\tarsum\tarsum.go,\pkgs\build-support\docker\tarsum.go,227,20,8

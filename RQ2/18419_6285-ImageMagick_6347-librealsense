@@ -1,0 +1,13 @@
+6285-ImageMagick,6347-librealsense
+clipboard.c,clipboard.c,\coders\clipboard.c,\third-party\glfw\tests\clipboard.c,222,91,25
+icon.c,icon.c,\coders\icon.c,\third-party\glfw\tests\icon.c,1096,99,24
+image.h,image.h,\MagickCore\image.h,\src\image.h,426,22,5
+log.h,log.h,\MagickCore\log.h,\src\log.h,65,171,3
+monitor.c,monitor.c,\MagickCore\monitor.c,\third-party\glfw\src\monitor.c,67,339,10
+option.h,option.h,\MagickCore\option.h,\src\option.h,167,459,5
+profile.h,profile.h,\MagickCore\profile.h,\src\pipeline\profile.h,34,19,2
+stream.h,stream.h,\MagickCore\stream.h,\src\stream.h,26,185,1
+stream.h,stream.h,\MagickCore\stream.h,\third-party\realsense-file\rosbag\rosbag_storage\include\rosbag\stream.h,26,87,2
+threshold.h,threshold.h,\MagickCore\threshold.h,\src\proc\threshold.h,38,21,2
+Image.h,Image.h,\Magick++\lib\Magick++\Image.h,\third-party\realsense-file\rosbag\msgs\sensor_msgs\Image.h,619,220,6
+Statistic.h,Statistic.h,\Magick++\lib\Magick++\Statistic.h,\src\ipDeviceCommon\Statistic.h,139,24,8

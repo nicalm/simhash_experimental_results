@@ -1,0 +1,12 @@
+18309-tor,548-ruby
+strlcat.c,strlcat.c,\src\ext\strlcat.c,\missing\strlcat.c,28,26,9
+strlcpy.c,strlcpy.c,\src\ext\strlcpy.c,\missing\strlcpy.c,22,22,6
+main.c,main.c,\src\app\main\main.c,\main.c,1029,31,11
+dir.c,dir.c,\src\lib\fs\dir.c,\dir.c,274,2508,80
+dir.h,dir.h,\src\lib\fs\dir.h,\win32\dir.h,16,42,1
+escape.c,escape.c,\src\lib\log\escape.c,\ext\cgi\escape\escape.c,91,341,19
+socket.c,socket.c,\src\lib\net\socket.c,\ext\socket\socket.c,511,1103,134
+process.c,process.c,\src\lib\process\process.c,\process.c,483,5828,149
+process.h,process.h,\src\lib\process\process.h,\internal\process.h,94,91,3
+printf.c,printf.c,\src\lib\string\printf.c,\ext\-test-\printf\printf.c,104,101,14
+version.c,version.c,\src\lib\version\version.c,\version.c,33,89,8

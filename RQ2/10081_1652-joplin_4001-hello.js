@@ -1,0 +1,13 @@
+1652-joplin,4001-hello.js
+index.js,index.js,\ReactNativeClient\locales\index.js,\assets\index.js,71,1114,0
+index.js,index.js,\ReactNativeClient\locales\index.js,\assets\expect\index.js,71,806,0
+index.js,index.js,\ReactNativeClient\locales\index.js,\tests\specs\index.js,71,39,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\assets\index.js,352,1114,54
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\assets\expect\index.js,352,806,65
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\tests\specs\index.js,352,39,4
+index.js,index.js,\ElectronClient\app\locales\index.js,\assets\index.js,71,1114,0
+index.js,index.js,\ElectronClient\app\locales\index.js,\assets\expect\index.js,71,806,0
+index.js,index.js,\ElectronClient\app\locales\index.js,\tests\specs\index.js,71,39,0
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\assets\index.js,82,1114,10
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\assets\expect\index.js,82,806,9
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\tests\specs\index.js,82,39,3

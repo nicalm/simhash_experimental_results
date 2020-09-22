@@ -1,0 +1,4 @@
+11788-fbthrift,2565-runc
+context.go,context.go,\thrift\lib\go\thrift\context.go,\vendor\github.com\urfave\cli\context.go,40,209,12
+main.go,main.go,\thrift\perf\go\server\main.go,\main.go,26,144,7
+main.go,main.go,\thrift\perf\go\server\main.go,\vendor\github.com\checkpoint-restore\go-criu\test\main.go,26,114,7

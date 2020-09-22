@@ -1,0 +1,6 @@
+10549-luci,140-neovim
+fs.c,fs.c,\libs\luci-lib-nixio\src\fs.c,\src\nvim\os\fs.c,461,827,85
+process.c,process.c,\libs\luci-lib-nixio\src\process.c,\src\nvim\event\process.c,351,304,64
+process.c,process.c,\libs\luci-lib-nixio\src\process.c,\src\nvim\os\process.c,351,203,41
+socket.c,socket.c,\libs\luci-lib-nixio\src\socket.c,\src\nvim\event\socket.c,113,222,19
+menu.c,menu.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\menu.c,\src\nvim\menu.c,341,1137,91

@@ -1,0 +1,11 @@
+1087-radare2,16203-bdwgc
+alloc.c,alloc.c,\binr\preload\alloc.c,\alloc.c,112,1178,25
+alloc.c,alloc.c,\libr\util\alloc.c,\alloc.c,59,1178,14
+test.c,test.c,\libr\util\regex\test.c,\tests\test.c,48,2143,8
+misc.c,misc.c,\shlr\grub\kern\misc.c,\misc.c,849,2063,248
+test.c,test.c,\test\unit\legacy_unit\egg\test.c,\tests\test.c,49,2143,11
+test.c,test.c,\test\unit\legacy_unit\hash\test.c,\tests\test.c,22,2143,4
+test.c,test.c,\test\unit\legacy_unit\reg\test.c,\tests\test.c,99,2143,13
+test.c,test.c,\test\unit\legacy_unit\search\test.c,\tests\test.c,38,2143,5
+test.c,test.c,\test\unit\legacy_unit\socket\test.c,\tests\test.c,22,2143,4
+test.c,test.c,\test\unit\legacy_unit\util\diff\test.c,\tests\test.c,93,2143,20

@@ -1,0 +1,14 @@
+2578-calibre,2944-supervisor
+setup.py,setup.py,\setup.py,\setup.py,92,72,0
+conf.py,conf.py,\manual\conf.py,\docs\conf.py,113,34,6
+http_client.py,http_client.py,\src\polyglot\http_client.py,\supervisor\http_client.py,17,198,1
+base.py,base.py,\src\calibre\db\tests\base.py,\supervisor\tests\base.py,94,1010,1
+base.py,base.py,\src\calibre\devices\mtp\base.py,\supervisor\tests\base.py,45,1010,3
+base.py,base.py,\src\calibre\ebooks\oeb\base.py,\supervisor\tests\base.py,1466,1010,31
+base.py,base.py,\src\calibre\srv\tests\base.py,\supervisor\tests\base.py,126,1010,4
+http.py,http.py,\src\calibre\srv\tests\http.py,\supervisor\http.py,340,647,1
+base.py,base.py,\src\calibre\ebooks\metadata\book\base.py,\supervisor\tests\base.py,612,1010,16
+base.py,base.py,\src\calibre\ebooks\metadata\sources\base.py,\supervisor\tests\base.py,312,1010,11
+base.py,base.py,\src\calibre\ebooks\oeb\polish\check\base.py,\supervisor\tests\base.py,40,1010,3
+base.py,base.py,\src\calibre\ebooks\oeb\polish\tests\base.py,\supervisor\tests\base.py,88,1010,5
+base.py,base.py,\src\calibre\gui2\tweak_book\editor\syntax\base.py,\supervisor\tests\base.py,201,1010,12

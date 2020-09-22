@@ -1,0 +1,4 @@
+14790-sleuthkit,1769-ChakraCore
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\pal\src\include\pal\utils.h,33,23,5
+file.h,file.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\pal\src\include\pal\file.h,402,45,6
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\lib\wabt\chakra\windows\config.h,41,247,3

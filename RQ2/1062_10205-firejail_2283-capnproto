@@ -1,0 +1,5 @@
+10205-firejail,2283-capnproto
+common.h,common.h,\src\include\common.h,\c++\src\benchmark\common.h,89,229,18
+common.h,common.h,\src\include\common.h,\c++\src\capnp\common.h,89,508,12
+common.h,common.h,\src\include\common.h,\c++\src\kj\common.h,89,1054,13
+common.h,common.h,\src\include\common.h,\c++\src\kj\parse\common.h,89,564,13

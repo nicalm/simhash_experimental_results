@@ -1,0 +1,3 @@
+10395-jitsi,548-ruby
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\version.h,40,69,5
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\include\ruby\version.h,40,35,4

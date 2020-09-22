@@ -1,0 +1,11 @@
+1193-mpv,242-php-src
+filter.c,filter.c,\filters\filter.c,\ext\filter\filter.c,581,619,119
+filter.c,filter.c,\filters\filter.c,\main\streams\filter.c,581,366,87
+user_filters.c,user_filters.c,\filters\user_filters.c,\ext\standard\user_filters.c,162,403,32
+json.c,json.c,\misc\json.c,\ext\json\json.c,268,259,43
+node.c,node.c,\misc\node.c,\ext\dom\node.c,115,1296,28
+main.c,main.c,\player\main.c,\main\main.c,377,2098,57
+sub.c,sub.c,\player\sub.c,\ext\bcmath\libbcmath\src\sub.c,152,43,8
+stream.c,stream.c,\stream\stream.c,\ext\phar\stream.c,655,779,123
+json.c,json.c,\test\json.c,\ext\json\json.c,83,259,7
+iconv.c,iconv.c,\waftools\fragments\iconv.c,\ext\iconv\iconv.c,28,2258,6

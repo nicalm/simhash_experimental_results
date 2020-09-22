@@ -1,0 +1,9 @@
+13956-dolibarr,4287-cockpit
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\eslint-plugin-cockpit\index.js,40,15,4
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\pkg\machines\index.js,40,50,5
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\pkg\playground\index.js,40,28,3
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\pkg\shell\index.js,40,32,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\pkg\sosreport\index.js,40,136,7
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\pkg\machines\config.js,72,18,1
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\pkg\machines\config.js,72,18,1
+image.js,image.js,\htdocs\includes\ckeditor\ckeditor\plugins\image\dialogs\image.js,\pkg\docker\image.js,41,120,0

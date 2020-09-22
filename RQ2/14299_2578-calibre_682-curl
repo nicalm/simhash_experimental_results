@@ -1,0 +1,7 @@
+2578-calibre,682-curl
+util.c,util.c,\bypy\linux\util.c,\tests\server\util.c,196,375,32
+util.c,util.c,\bypy\macos\util.c,\tests\server\util.c,169,375,28
+util.c,util.c,\bypy\windows\util.c,\tests\server\util.c,328,375,45
+system.h,system.h,\src\calibre\utils\lzx\system.h,\include\curl\system.h,37,380,4
+structure.py,structure.py,\src\calibre\ebooks\oeb\transforms\structure.py,\tests\python_dependencies\impacket\structure.py,275,503,15
+structure.py,structure.py,\src\calibre\ebooks\oeb\polish\tests\structure.py,\tests\python_dependencies\impacket\structure.py,151,503,2

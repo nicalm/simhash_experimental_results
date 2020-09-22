@@ -1,0 +1,11 @@
+6444-yara,99-redis
+arena.c,arena.c,\libyara\arena.c,\deps\jemalloc\src\arena.c,584,1553,65
+hash.c,hash.c,\libyara\hash.c,\deps\jemalloc\test\unit\hash.c,259,123,15
+object.c,object.c,\libyara\object.c,\src\object.c,921,1083,104
+util.c,util.c,\tests\util.c,\src\util.c,285,590,41
+util.h,util.h,\tests\util.h,\src\util.h,199,24,1
+util.h,util.h,\tests\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,199,42,1
+hash.h,hash.h,\libyara\include\yara\hash.h,\deps\jemalloc\include\jemalloc\internal\hash.h,62,228,3
+stream.h,stream.h,\libyara\include\yara\stream.h,\src\stream.h,30,66,1
+hash.c,hash.c,\libyara\modules\hash\hash.c,\deps\jemalloc\test\unit\hash.c,436,123,20
+math.c,math.c,\libyara\modules\math\math.c,\deps\jemalloc\test\unit\math.c,449,344,19

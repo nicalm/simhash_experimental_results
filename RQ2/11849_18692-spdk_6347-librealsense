@@ -1,0 +1,6 @@
+18692-spdk,6347-librealsense
+log.h,log.h,\include\spdk\log.h,\src\log.h,41,171,3
+log.h,log.h,\include\spdk_internal\log.h,\src\log.h,57,171,3
+init.c,init.c,\lib\env_dpdk\init.c,\third-party\glfw\src\init.c,396,212,38
+threads.c,threads.c,\lib\env_dpdk\threads.c,\third-party\glfw\tests\threads.c,59,94,19
+common.h,common.h,\module\bdev\nvme\common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,84,501,7

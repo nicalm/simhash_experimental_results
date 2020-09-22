@@ -1,0 +1,4 @@
+9197-domoticz,9975-hexchat
+lua.c,lua.c,\lua\src\lua.c,\plugins\lua\lua.c,393,1572,81
+Program.cs,Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,\src\htm\Program.cs,26,18,8
+Resources.Designer.cs,Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,32,33,30

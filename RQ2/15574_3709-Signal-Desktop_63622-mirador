@@ -1,0 +1,7 @@
+3709-Signal-Desktop,63622-mirador
+config.js,config.js,\app\config.js,\src\state\actions\config.js,33,21,2
+config.js,config.js,\app\config.js,\src\state\reducers\config.js,33,15,1
+config.js,config.js,\app\config.js,\src\state\selectors\config.js,33,44,2
+errors.js,errors.js,\libtextsecure\errors.js,\src\state\reducers\errors.js,101,41,3
+i18n.js,i18n.js,\js\modules\i18n.js,\src\i18n.js,29,36,1
+settings.js,settings.js,\js\modules\settings.js,\src\config\settings.js,76,274,7

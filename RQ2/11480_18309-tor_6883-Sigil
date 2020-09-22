@@ -1,0 +1,5 @@
+18309-tor,6883-Sigil
+config.h,config.h,\src\app\config\config.h,\3rdparty\hunspell\src\win_api\config.h,232,68,0
+compress.c,compress.c,\src\lib\compress\compress.c,\3rdparty\zlib\compress.c,507,47,8
+log.c,log.c,\src\lib\log\log.c,\3rdparty\hunspell\intl\log.c,1118,82,32
+printf.c,printf.c,\src\lib\string\printf.c,\3rdparty\hunspell\intl\printf.c,104,339,34

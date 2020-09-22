@@ -1,0 +1,5 @@
+10395-jitsi,13536-activemq
+Chat.java,Chat.java,\src\net\java\sip\communicator\service\gui\Chat.java,\assembly\src\release\examples\openwire\exploring-jms\TopicPubSubSamples\Chat\Chat.java,40,167,2
+Utils.java,Utils.java,\src\net\java\sip\communicator\impl\protocol\irc\Utils.java,\activemq-spring\src\main\java\org\apache\activemq\spring\Utils.java,140,29,4
+DiscoveryEvent.java,DiscoveryEvent.java,\src\net\java\sip\communicator\service\provdisc\event\DiscoveryEvent.java,\activemq-client\src\main\java\org\apache\activemq\command\DiscoveryEvent.java,16,33,3
+ProxyConnection.java,ProxyConnection.java,\src\net\java\sip\communicator\impl\protocol\sip\net\ProxyConnection.java,\activemq-broker\src\main\java\org\apache\activemq\proxy\ProxyConnection.java,84,141,14

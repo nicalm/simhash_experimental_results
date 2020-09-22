@@ -1,0 +1,11 @@
+2912-postgres,3980-passenger
+mbuf.h,mbuf.h,\contrib\pgcrypto\mbuf.h,\src\cxx_supportlib\MemoryKit\mbuf.h,56,182,5
+getaddrinfo.c,getaddrinfo.c,\src\port\getaddrinfo.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\getaddrinfo.c,277,148,28
+thread.c,thread.c,\src\port\thread.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\thread.c,38,352,10
+async.c,async.c,\src\backend\commands\async.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\async.c,1140,193,32
+version.c,version.c,\src\bin\pg_upgrade\version.c,\src\cxx_supportlib\vendor-copy\libuv\src\version.c,308,17,2
+solaris.h,solaris.h,\src\include\port\solaris.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\solaris.h,16,19,3
+regex.h,regex.h,\src\include\regex\regex.h,\src\cxx_supportlib\vendor-modified\boost\regex.h,97,65,1
+palloc.h,palloc.h,\src\include\utils\palloc.h,\src\cxx_supportlib\MemoryKit\palloc.h,48,44,1
+signal.c,signal.c,\src\backend\port\win32\signal.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\signal.c,183,264,27
+timer.c,timer.c,\src\backend\port\win32\timer.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\timer.c,74,106,10

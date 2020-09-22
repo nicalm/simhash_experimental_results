@@ -1,0 +1,9 @@
+32146-js-bson,369-mongoose
+decimal128.js,decimal128.js,\lib\decimal128.js,\lib\cast\decimal128.js,518,27,9
+decimal128.js,decimal128.js,\lib\decimal128.js,\lib\schema\decimal128.js,518,90,18
+map.js,map.js,\lib\map.js,\lib\schema\map.js,97,38,11
+map.js,map.js,\lib\map.js,\lib\types\map.js,97,158,11
+objectid.js,objectid.js,\lib\objectid.js,\lib\cast\objectid.js,233,23,7
+objectid.js,objectid.js,\lib\objectid.js,\lib\schema\objectid.js,233,127,22
+utils.js,utils.js,\lib\parser\utils.js,\lib\utils.js,25,686,10
+utils.js,utils.js,\test\node\tools\utils.js,\lib\utils.js,75,686,19

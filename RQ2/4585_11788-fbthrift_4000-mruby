@@ -1,0 +1,8 @@
+11788-fbthrift,4000-mruby
+common.h,common.h,\thrift\compiler\common.h,\include\mruby\common.h,39,55,1
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\include\mruby\debug.h,58,38,1
+struct.c,struct.c,\thrift\lib\rb\ext\struct.c,\mrbgems\mruby-struct\src\struct.c,453,478,74
+struct.rb,struct.rb,\thrift\lib\rb\lib\thrift\struct.rb,\mrbgems\mruby-struct\mrblib\struct.rb,191,51,13
+struct.rb,struct.rb,\thrift\lib\rb\lib\thrift\struct.rb,\mrbgems\mruby-struct\test\struct.rb,191,171,28
+socket.rb,socket.rb,\thrift\lib\rb\lib\thrift\transport\socket.rb,\mrbgems\mruby-socket\mrblib\socket.rb,104,475,34
+socket.rb,socket.rb,\thrift\lib\rb\lib\thrift\transport\socket.rb,\mrbgems\mruby-socket\test\socket.rb,104,31,6

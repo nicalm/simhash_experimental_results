@@ -1,0 +1,3 @@
+14790-sleuthkit,6444-yara
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\libyara\include\yara\utils.h,33,87,10
+magic.c,magic.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\magic.c,\libyara\modules\magic\magic.c,389,106,28

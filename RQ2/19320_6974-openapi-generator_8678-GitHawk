@@ -1,0 +1,171 @@
+6974-openapi-generator,8678-GitHawk
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,11
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,11
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift\rxswift\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,11
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,13
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,13
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,13
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift4\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift4\promisekitLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,13
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift4\rxswiftLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift5\alamofireLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift5\combineLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift5\default\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift5\promisekitLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift5\rxswiftLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\petstore\swift5\urlsessionLibrary\SwaggerClientTests\SwaggerClient\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,12
+AppDelegate.swift,AppDelegate.swift,\samples\client\test\swift4\default\TestClientApp\TestClientApp\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,13
+AppDelegate.swift,AppDelegate.swift,\samples\client\test\swift5\default\TestClientApp\TestClientApp\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,18,36,13
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift\default\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,122,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift\promisekit\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,136,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift\rxswift\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,122,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift3\default\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,128,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift3\objcCompatible\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,128,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift3\promisekit\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,142,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift3\rxswift\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,128,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift3\unwraprequired\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,128,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\default\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\nonPublicApi\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\objcCompatible\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\promisekitLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,143,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\resultLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\rxswiftLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift4\unwrapRequired\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\alamofireLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\combineLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\default\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\nonPublicApi\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\objcCompatible\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\promisekitLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,149,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\resultLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\rxswiftLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\petstore\swift5\urlsessionLibrary\PetstoreClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Extensions.swift,Extensions.swift,\samples\client\test\swift4\default\TestClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,129,57,17
+Extensions.swift,Extensions.swift,\samples\client\test\swift5\default\TestClient\Classes\OpenAPIs\Extensions.swift,\Local Pods\SwipeCellKit\Source\Extensions.swift,134,57,17
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Pods\Alamofire\Source\Alamofire.swift,145,184,50
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Alamofire.swift,145,184,50
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Pods\Alamofire\Source\MultipartFormData.swift,338,295,150
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\MultipartFormData.swift,338,295,150
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Pods\Alamofire\Source\NetworkReachabilityManager.swift,108,116,68
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\NetworkReachabilityManager.swift,108,116,68
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Pods\Alamofire\Source\ParameterEncoding.swift,129,215,60
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ParameterEncoding.swift,129,215,60
+Request.swift,Request.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Pods\Alamofire\Source\Request.swift,335,348,101
+Request.swift,Request.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Request.swift,335,348,101
+Response.swift,Response.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\GitHubAPI\Response.swift,36,15,5
+Response.swift,Response.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Pods\Alamofire\Source\Response.swift,36,270,21
+Response.swift,Response.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Response.swift,36,270,21
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Pods\Alamofire\Source\ResponseSerialization.swift,182,420,90
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ResponseSerialization.swift,182,420,90
+Result.swift,Result.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Alamofire\Source\Result.swift,52,129,39
+Result.swift,Result.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Apollo\Sources\Apollo\Result.swift,52,40,21
+Result.swift,Result.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Result.swift,52,129,39
+Result.swift,Result.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Apollo\Sources\Apollo\Result.swift,52,40,21
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Pods\Alamofire\Source\ServerTrustPolicy.swift,147,155,98
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ServerTrustPolicy.swift,147,155,98
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Pods\Alamofire\Source\Timeline.swift,63,64,56
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Timeline.swift,63,64,56
+Validation.swift,Validation.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Pods\Alamofire\Source\Validation.swift,114,178,48
+Validation.swift,Validation.swift,\samples\client\petstore\swift\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Validation.swift,114,178,48
+AFError.swift,AFError.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\AFError.swift,\Pods\Alamofire\Source\AFError.swift,319,319,319
+AFError.swift,AFError.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\AFError.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\AFError.swift,319,319,319
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Pods\Alamofire\Source\Alamofire.swift,184,184,184
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Alamofire.swift,184,184,184
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Pods\Alamofire\Source\MultipartFormData.swift,295,295,295
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\MultipartFormData.swift,295,295,295
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Pods\Alamofire\Source\NetworkReachabilityManager.swift,116,116,102
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\NetworkReachabilityManager.swift,116,116,102
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Pods\Alamofire\Source\ParameterEncoding.swift,193,215,183
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ParameterEncoding.swift,193,215,183
+Request.swift,Request.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Pods\Alamofire\Source\Request.swift,348,348,331
+Request.swift,Request.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Request.swift,348,348,331
+Response.swift,Response.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\GitHubAPI\Response.swift,222,15,5
+Response.swift,Response.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Pods\Alamofire\Source\Response.swift,222,270,222
+Response.swift,Response.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Response.swift,222,270,222
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Pods\Alamofire\Source\ResponseSerialization.swift,420,420,418
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ResponseSerialization.swift,420,420,418
+Result.swift,Result.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Alamofire\Source\Result.swift,129,129,121
+Result.swift,Result.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Apollo\Sources\Apollo\Result.swift,129,40,33
+Result.swift,Result.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Result.swift,129,129,121
+Result.swift,Result.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Apollo\Sources\Apollo\Result.swift,129,40,33
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Pods\Alamofire\Source\ServerTrustPolicy.swift,155,155,154
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ServerTrustPolicy.swift,155,155,154
+SessionDelegate.swift,SessionDelegate.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\SessionDelegate.swift,\Pods\Alamofire\Source\SessionDelegate.swift,410,414,408
+SessionDelegate.swift,SessionDelegate.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\SessionDelegate.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\SessionDelegate.swift,410,414,408
+SessionManager.swift,SessionManager.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\SessionManager.swift,\Pods\Alamofire\Source\SessionManager.swift,484,483,467
+SessionManager.swift,SessionManager.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\SessionManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\SessionManager.swift,484,483,467
+TaskDelegate.swift,TaskDelegate.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\TaskDelegate.swift,\Pods\Alamofire\Source\TaskDelegate.swift,312,323,310
+TaskDelegate.swift,TaskDelegate.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\TaskDelegate.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\TaskDelegate.swift,312,323,310
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Pods\Alamofire\Source\Timeline.swift,64,64,64
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Timeline.swift,64,64,64
+Validation.swift,Validation.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Pods\Alamofire\Source\Validation.swift,174,178,174
+Validation.swift,Validation.swift,\samples\client\petstore\swift3\default\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Validation.swift,174,178,174
+AFError.swift,AFError.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\AFError.swift,\Pods\Alamofire\Source\AFError.swift,319,319,319
+AFError.swift,AFError.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\AFError.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\AFError.swift,319,319,319
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Pods\Alamofire\Source\Alamofire.swift,184,184,184
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Alamofire.swift,184,184,184
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Pods\Alamofire\Source\MultipartFormData.swift,295,295,295
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\MultipartFormData.swift,295,295,295
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Pods\Alamofire\Source\NetworkReachabilityManager.swift,116,116,102
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\NetworkReachabilityManager.swift,116,116,102
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Pods\Alamofire\Source\ParameterEncoding.swift,193,215,183
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ParameterEncoding.swift,193,215,183
+Request.swift,Request.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Pods\Alamofire\Source\Request.swift,348,348,331
+Request.swift,Request.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Request.swift,348,348,331
+Response.swift,Response.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\GitHubAPI\Response.swift,222,15,5
+Response.swift,Response.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Pods\Alamofire\Source\Response.swift,222,270,222
+Response.swift,Response.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Response.swift,222,270,222
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Pods\Alamofire\Source\ResponseSerialization.swift,420,420,418
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ResponseSerialization.swift,420,420,418
+Result.swift,Result.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Alamofire\Source\Result.swift,129,129,121
+Result.swift,Result.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Apollo\Sources\Apollo\Result.swift,129,40,33
+Result.swift,Result.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Result.swift,129,129,121
+Result.swift,Result.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Apollo\Sources\Apollo\Result.swift,129,40,33
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Pods\Alamofire\Source\ServerTrustPolicy.swift,155,155,154
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ServerTrustPolicy.swift,155,155,154
+SessionDelegate.swift,SessionDelegate.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\SessionDelegate.swift,\Pods\Alamofire\Source\SessionDelegate.swift,410,414,408
+SessionDelegate.swift,SessionDelegate.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\SessionDelegate.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\SessionDelegate.swift,410,414,408
+SessionManager.swift,SessionManager.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\SessionManager.swift,\Pods\Alamofire\Source\SessionManager.swift,484,483,467
+SessionManager.swift,SessionManager.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\SessionManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\SessionManager.swift,484,483,467
+TaskDelegate.swift,TaskDelegate.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\TaskDelegate.swift,\Pods\Alamofire\Source\TaskDelegate.swift,312,323,310
+TaskDelegate.swift,TaskDelegate.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\TaskDelegate.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\TaskDelegate.swift,312,323,310
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Pods\Alamofire\Source\Timeline.swift,64,64,64
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Timeline.swift,64,64,64
+Validation.swift,Validation.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Pods\Alamofire\Source\Validation.swift,174,178,174
+Validation.swift,Validation.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Validation.swift,174,178,174
+Promise.swift,Promise.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\PromiseKit\Sources\Promise.swift,\Pods\Apollo\Sources\Apollo\Promise.swift,250,219,67
+Promise.swift,Promise.swift,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\PromiseKit\Sources\Promise.swift,\Local Pods\GitHubAPI\Pods\Apollo\Sources\Apollo\Promise.swift,250,219,67
+AFError.swift,AFError.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\AFError.swift,\Pods\Alamofire\Source\AFError.swift,319,319,319
+AFError.swift,AFError.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\AFError.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\AFError.swift,319,319,319
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Pods\Alamofire\Source\Alamofire.swift,184,184,184
+Alamofire.swift,Alamofire.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Alamofire.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Alamofire.swift,184,184,184
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Pods\Alamofire\Source\MultipartFormData.swift,295,295,295
+MultipartFormData.swift,MultipartFormData.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\MultipartFormData.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\MultipartFormData.swift,295,295,295
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Pods\Alamofire\Source\NetworkReachabilityManager.swift,116,116,102
+NetworkReachabilityManager.swift,NetworkReachabilityManager.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\NetworkReachabilityManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\NetworkReachabilityManager.swift,116,116,102
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Pods\Alamofire\Source\ParameterEncoding.swift,193,215,183
+ParameterEncoding.swift,ParameterEncoding.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\ParameterEncoding.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ParameterEncoding.swift,193,215,183
+Request.swift,Request.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Pods\Alamofire\Source\Request.swift,348,348,331
+Request.swift,Request.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Request.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Request.swift,348,348,331
+Response.swift,Response.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\GitHubAPI\Response.swift,222,15,5
+Response.swift,Response.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Pods\Alamofire\Source\Response.swift,222,270,222
+Response.swift,Response.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Response.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Response.swift,222,270,222
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Pods\Alamofire\Source\ResponseSerialization.swift,420,420,418
+ResponseSerialization.swift,ResponseSerialization.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\ResponseSerialization.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ResponseSerialization.swift,420,420,418
+Result.swift,Result.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Alamofire\Source\Result.swift,129,129,121
+Result.swift,Result.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Pods\Apollo\Sources\Apollo\Result.swift,129,40,33
+Result.swift,Result.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Result.swift,129,129,121
+Result.swift,Result.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Result.swift,\Local Pods\GitHubAPI\Pods\Apollo\Sources\Apollo\Result.swift,129,40,33
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Pods\Alamofire\Source\ServerTrustPolicy.swift,155,155,154
+ServerTrustPolicy.swift,ServerTrustPolicy.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\ServerTrustPolicy.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\ServerTrustPolicy.swift,155,155,154
+SessionDelegate.swift,SessionDelegate.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\SessionDelegate.swift,\Pods\Alamofire\Source\SessionDelegate.swift,410,414,408
+SessionDelegate.swift,SessionDelegate.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\SessionDelegate.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\SessionDelegate.swift,410,414,408
+SessionManager.swift,SessionManager.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\SessionManager.swift,\Pods\Alamofire\Source\SessionManager.swift,484,483,467
+SessionManager.swift,SessionManager.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\SessionManager.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\SessionManager.swift,484,483,467
+TaskDelegate.swift,TaskDelegate.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\TaskDelegate.swift,\Pods\Alamofire\Source\TaskDelegate.swift,312,323,310
+TaskDelegate.swift,TaskDelegate.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\TaskDelegate.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\TaskDelegate.swift,312,323,310
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Pods\Alamofire\Source\Timeline.swift,64,64,64
+Timeline.swift,Timeline.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Timeline.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Timeline.swift,64,64,64
+Validation.swift,Validation.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Pods\Alamofire\Source\Validation.swift,174,178,174
+Validation.swift,Validation.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\Alamofire\Source\Validation.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Validation.swift,174,178,174
+Deprecated.swift,Deprecated.swift,\samples\client\petstore\swift3\rxswift\SwaggerClientTests\Pods\RxSwift\RxSwift\Deprecated.swift,\Pods\HTMLString\Sources\HTMLString\Deprecated.swift,15,37,5

@@ -1,0 +1,4 @@
+8848-lwjgl3,91-bitcoin
+error.h,error.h,\modules\lwjgl\tootle\src\main\c\error.h,\src\util\error.h,53,21,1
+scalar.h,scalar.h,\modules\lwjgl\tootle\src\main\c\scalar.h,\src\secp256k1\src\scalar.h,70,45,3
+vector.h,vector.h,\modules\lwjgl\tootle\src\main\c\vector.h,\src\util\vector.h,92,32,9

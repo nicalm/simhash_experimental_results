@@ -1,0 +1,3 @@
+2389-Pillow,6773-server
+setup.py,setup.py,\setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,714,15,1
+display.c,display.c,\src\display.c,\extra\readline\display.c,586,1721,83

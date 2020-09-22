@@ -1,0 +1,11 @@
+1541-h2o,4287-cockpit
+websocket.c,websocket.c,\lib\websocket.c,\src\websocket\websocket.c,177,309,51
+main.c,main.c,\src\main.c,\src\tls\main.c,2462,89,20
+main.c,main.c,\src\main.c,\src\ws\main.c,2462,242,45
+websocket.c,websocket.c,\examples\libh2o\websocket.c,\src\websocket\websocket.c,144,309,37
+websocket.h,websocket.h,\include\h2o\websocket.h,\src\websocket\websocket.h,30,54,1
+connection.c,connection.c,\lib\http2\connection.c,\src\tls\connection.c,1362,624,148
+server.c,server.c,\lib\http3\server.c,\src\tls\server.c,1150,228,49
+test-version.c,test-version.c,\deps\yaml\tests\test-version.c,\src\common\test-version.c,22,60,3
+main.c,main.c,\deps\picotls\deps\cifra\src\arm\main.c,\src\tls\main.c,385,89,12
+main.c,main.c,\deps\picotls\deps\cifra\src\arm\main.c,\src\ws\main.c,385,242,41

@@ -1,0 +1,11 @@
+2912-postgres,6883-Sigil
+crc32.c,crc32.c,\contrib\ltree\crc32.c,\3rdparty\zlib\crc32.c,25,285,7
+parser.c,parser.c,\src\backend\parser\parser.c,\internal\gumbo\parser.c,97,3936,22
+util.c,util.c,\src\bin\pg_upgrade\util.c,\internal\gumbo\util.c,163,49,15
+crypt.h,crypt.h,\src\include\libpq\crypt.h,\3rdparty\minizip\crypt.h,19,71,2
+crypt.h,crypt.h,\src\include\libpq\crypt.h,\3rdparty\zlib\contrib\minizip\crypt.h,19,71,2
+parser.h,parser.h,\src\include\parser\parser.h,\internal\gumbo\parser.h,16,19,1
+lock.h,lock.h,\src\include\storage\lock.h,\3rdparty\hunspell\intl\lock.h,322,855,16
+lock.c,lock.c,\src\backend\storage\lmgr\lock.c,\3rdparty\hunspell\intl\lock.c,2490,701,243
+error.c,error.c,\src\interfaces\ecpg\ecpglib\error.c,\internal\gumbo\error.c,235,221,28
+parser.c,parser.c,\src\interfaces\ecpg\preproc\parser.c,\internal\gumbo\parser.c,95,3936,21

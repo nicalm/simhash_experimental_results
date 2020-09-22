@@ -1,0 +1,9 @@
+3405-libevent,790-libuv
+kqueue.c,kqueue.c,\kqueue.c,\src\unix\kqueue.c,387,371,62
+poll.c,poll.c,\poll.c,\src\unix\poll.c,242,81,9
+poll.c,poll.c,\poll.c,\src\win\poll.c,242,459,25
+signal.c,signal.c,\signal.c,\src\unix\signal.c,348,339,51
+signal.c,signal.c,\signal.c,\src\win\signal.c,348,157,24
+getopt.c,getopt.c,\WIN32-Code\getopt.c,\samples\socks5-proxy\getopt.c,96,78,54
+tree.h,tree.h,\WIN32-Code\tree.h,\include\uv\tree.h,580,666,552
+queue.h,queue.h,\compat\sys\queue.h,\src\queue.h,304,73,1

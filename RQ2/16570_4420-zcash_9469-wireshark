@@ -1,0 +1,7 @@
+4420-zcash,9469-wireshark
+key.h,key.h,\src\key.h,\plugins\epan\unistim\key.h,110,126,3
+main.cpp,main.cpp,\src\main.cpp,\ui\qt\main.cpp,4730,650,83
+util.h,util.h,\src\util.h,\ui\util.h,150,15,4
+main.cpp,main.cpp,\src\gtest\main.cpp,\ui\qt\main.cpp,42,650,2
+register.h,register.h,\src\rpc\register.h,\epan\register.h,17,20,1
+util.h,util.h,\src\secp256k1\src\util.h,\ui\util.h,92,15,4

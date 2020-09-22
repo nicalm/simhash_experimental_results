@@ -1,0 +1,9 @@
+13470-tigervnc,754-folly
+Mutex.h,Mutex.h,\common\os\Mutex.h,\folly\experimental\coro\Mutex.h,34,84,12
+Exception.h,Exception.h,\common\rdr\Exception.h,\folly\Exception.h,27,79,1
+Exception.h,Exception.h,\common\rdr\Exception.h,\folly\lang\Exception.h,27,98,4
+Cursor.h,Cursor.h,\common\rfb\Cursor.h,\folly\io\Cursor.h,33,904,6
+Exception.h,Exception.h,\common\rfb\Exception.h,\folly\Exception.h,23,79,1
+Exception.h,Exception.h,\common\rfb\Exception.h,\folly\lang\Exception.h,23,98,2
+Logger.h,Logger.h,\common\rfb\Logger.h,\folly\logging\Logger.h,28,81,4
+LogWriter.h,LogWriter.h,\common\rfb\LogWriter.h,\folly\logging\LogWriter.h,67,18,6

@@ -1,0 +1,3 @@
+790-libuv,8874-collectd
+client.c,client.c,\samples\socks5-proxy\client.c,\src\libcollectdclient\client.c,547,785,84
+server.c,server.c,\samples\socks5-proxy\server.c,\src\libcollectdclient\server.c,180,170,29

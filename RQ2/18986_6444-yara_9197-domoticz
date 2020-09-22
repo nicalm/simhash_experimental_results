@@ -1,0 +1,6 @@
+6444-yara,9197-domoticz
+grammar.h,grammar.h,\libyara\grammar.h,\hardware\plugins\Include\grammar.h,139,60,3
+error.h,error.h,\libyara\include\yara\error.h,\cereal\external\rapidjson\error\error.h,97,57,4
+object.h,object.h,\libyara\include\yara\object.h,\hardware\plugins\Include\object.h,116,531,5
+stack.h,stack.h,\libyara\include\yara\stack.h,\cereal\external\rapidjson\internal\stack.h,23,168,3
+stream.h,stream.h,\libyara\include\yara\stream.h,\cereal\external\rapidjson\stream.h,30,67,1

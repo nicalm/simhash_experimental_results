@@ -1,0 +1,16 @@
+1541-h2o,9975-hexchat
+ssl.c,ssl.c,\src\ssl.c,\src\common\ssl.c,1081,386,100
+url.h,url.h,\include\h2o\url.h,\src\common\url.h,69,17,1
+url.c,url.c,\lib\common\url.c,\src\common\url.c,356,502,62
+util.c,util.c,\lib\core\util.c,\src\common\util.c,769,1287,160
+server.c,server.c,\lib\http3\server.c,\src\common\server.c,1150,1542,232
+example.c,example.c,\deps\hiredis\examples\example.c,\src\common\dbus\example.c,57,158,7
+text.c,text.c,\deps\libyrmcds\t\text.c,\src\common\text.c,227,1817,11
+util.h,util.h,\deps\picotls\t\util.h,\src\common\util.h,247,47,2
+ssl.c,ssl.c,\lib\handler\status\ssl.c,\src\common\ssl.c,52,386,6
+ssl.c,ssl.c,\t\00unit\src\ssl.c,\src\common\ssl.c,153,386,11
+url.c,url.c,\t\00unit\lib\common\url.c,\src\common\url.c,566,502,12
+util.c,util.c,\t\00unit\lib\core\util.c,\src\common\util.c,203,1287,19
+modes.c,modes.c,\deps\picotls\deps\cifra\src\modes.c,\src\common\modes.c,72,686,22
+example.c,example.c,\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\src\example.c,\src\common\dbus\example.c,16,158,4
+example.c,example.c,\deps\mruby\examples\mrbgems\c_extension_example\src\example.c,\src\common\dbus\example.c,16,158,4

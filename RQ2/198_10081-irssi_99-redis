@@ -1,0 +1,5 @@
+10081-irssi,99-redis
+log.c,log.c,\src\core\log.c,\deps\jemalloc\src\log.c,455,57,10
+log.c,log.c,\src\core\log.c,\deps\jemalloc\test\unit\log.c,455,150,16
+log.h,log.h,\src\core\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,47,60,2
+server.c,server.c,\src\fe-fuzz\server.c,\src\server.c,124,3476,14

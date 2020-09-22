@@ -1,0 +1,11 @@
+10827-keepalived,1193-mpv
+main.c,main.c,\genhash\main.c,\player\main.c,263,377,37
+timer.c,timer.c,\lib\timer.c,\osdep\timer.c,121,110,28
+timer.h,timer.h,\lib\timer.h,\osdep\timer.h,82,15,1
+utils.c,utils.c,\lib\utils.c,\video\out\gpu\utils.c,948,257,60
+utils.c,utils.c,\lib\utils.c,\video\out\opengl\utils.c,948,217,58
+utils.c,utils.c,\lib\utils.c,\video\out\placebo\utils.c,948,52,10
+utils.c,utils.c,\lib\utils.c,\video\out\vulkan\utils.c,948,37,8
+utils.h,utils.h,\lib\utils.h,\video\out\gpu\utils.h,177,68,13
+utils.h,utils.h,\lib\utils.h,\video\out\opengl\utils.h,177,28,2
+main.c,main.c,\keepalived\core\main.c,\player\main.c,1950,377,59

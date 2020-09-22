@@ -1,0 +1,5 @@
+1418-memcached,6444-yara
+hash.c,hash.c,\hash.c,\libyara\hash.c,18,259,2
+hash.c,hash.c,\hash.c,\libyara\modules\hash\hash.c,18,436,4
+util.c,util.c,\util.c,\tests\util.c,193,285,32
+util.h,util.h,\util.h,\tests\util.h,20,199,1

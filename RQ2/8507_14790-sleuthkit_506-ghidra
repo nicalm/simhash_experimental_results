@@ -1,0 +1,5 @@
+14790-sleuthkit,506-ghidra
+CollectionUtils.java,CollectionUtils.java,\bindings\java\src\org\sleuthkit\datamodel\CollectionUtils.java,\Ghidra\Framework\Generic\src\main\java\util\CollectionUtils.java,15,219,6
+FileSystem.java,FileSystem.java,\bindings\java\src\org\sleuthkit\datamodel\FileSystem.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\store\FileSystem.java,101,48,1
+HashEntry.java,HashEntry.java,\bindings\java\src\org\sleuthkit\datamodel\HashEntry.java,\Ghidra\Framework\Generic\src\main\java\generic\lsh\vector\HashEntry.java,30,199,8
+HashEntry.java,HashEntry.java,\bindings\java\src\org\sleuthkit\datamodel\HashEntry.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\program\model\correlate\HashEntry.java,30,24,7

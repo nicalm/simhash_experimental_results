@@ -1,0 +1,5 @@
+63770-mcuboot,7408-DeepVideoAnalytics
+setup.py,setup.py,\scripts\setup.py,\client\setup.py,28,15,3
+setup.py,setup.py,\scripts\setup.py,\repos\lopq\python\setup.py,28,90,2
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\deploy\compose\__init__.py,63,161,3
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\deploy\kube\__init__.py,63,256,2

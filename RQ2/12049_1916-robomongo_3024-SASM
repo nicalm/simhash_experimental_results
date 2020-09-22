@@ -1,0 +1,5 @@
+1916-robomongo,3024-SASM
+main.cpp,main.cpp,\src\robomongo\app\main.cpp,\main.cpp,79,90,7
+common.cpp,common.cpp,\src\robomongo\utils\common.cpp,\common.cpp,26,51,5
+mainwindow.cpp,mainwindow.cpp,\src\third-party\qscintilla\sources\example-Qt4Qt5\mainwindow.cpp,\mainwindow.cpp,244,1873,69
+mainwindow.h,mainwindow.h,\src\third-party\qscintilla\sources\example-Qt4Qt5\mainwindow.h,\mainwindow.h,51,220,21

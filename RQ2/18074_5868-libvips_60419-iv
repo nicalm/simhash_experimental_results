@@ -1,0 +1,12 @@
+5868-libvips,60419-iv
+templates.h,templates.h,\libvips\resample\templates.h,\iv\lv5\breaker\templates.h,301,91,6
+debug.h,debug.h,\libvips\include\vips\debug.h,\iv\debug.h,37,32,6
+error.h,error.h,\libvips\include\vips\error.h,\iv\lv5\error.h,58,131,2
+error.h,error.h,\libvips\include\vips\error.h,\iv\lv5\runtime\error.h,58,18,1
+internal.h,internal.h,\libvips\include\vips\internal.h,\iv\lv5\internal.h,153,238,2
+intl.h,intl.h,\libvips\include\vips\intl.h,\iv\lv5\i18n\intl.h,36,20,1
+memory.h,memory.h,\libvips\include\vips\memory.h,\iv\detail\memory.h,43,16,3
+object.h,object.h,\libvips\include\vips\object.h,\iv\lv5\runtime\object.h,365,31,1
+operation.h,operation.h,\libvips\include\vips\operation.h,\iv\lv5\railgun\operation.h,76,523,2
+thread.h,thread.h,\libvips\include\vips\thread.h,\iv\thread.h,16,37,3
+type.h,type.h,\libvips\include\vips\type.h,\iv\lv5\breaker\type.h,115,466,2

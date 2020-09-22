@@ -1,0 +1,4 @@
+10549-luci,211-cpython
+io.c,io.c,\libs\luci-lib-nixio\src\io.c,\Modules\_decimal\libmpdec\io.c,157,1119,37
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\Modules\_sqlite\util.c,81,93,12
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\Modules\_sqlite\util.c,261,93,13

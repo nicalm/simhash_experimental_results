@@ -1,0 +1,4 @@
+10205-firejail,11788-fbthrift
+protocol.c,protocol.c,\src\firejail\protocol.c,\thrift\lib\rb\ext\protocol.c,56,125,5
+protocol.c,protocol.c,\src\fseccomp\protocol.c,\thrift\lib\rb\ext\protocol.c,149,125,16
+common.h,common.h,\src\include\common.h,\thrift\compiler\common.h,89,39,5

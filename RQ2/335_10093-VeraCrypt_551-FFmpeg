@@ -1,0 +1,13 @@
+10093-VeraCrypt,551-FFmpeg
+config.h,config.h,\src\Crypto\config.h,\compat\avisynth\avs\config.h,152,25,8
+cpu.c,cpu.c,\src\Crypto\cpu.c,\libavutil\cpu.c,383,278,30
+cpu.c,cpu.c,\src\Crypto\cpu.c,\libavutil\aarch64\cpu.c,383,16,4
+cpu.c,cpu.c,\src\Crypto\cpu.c,\libavutil\arm\cpu.c,383,116,17
+cpu.c,cpu.c,\src\Crypto\cpu.c,\libavutil\ppc\cpu.c,383,122,20
+cpu.c,cpu.c,\src\Crypto\cpu.c,\libavutil\tests\cpu.c,383,114,18
+cpu.c,cpu.c,\src\Crypto\cpu.c,\libavutil\x86\cpu.c,383,177,25
+cpu.h,cpu.h,\src\Crypto\cpu.h,\libavutil\cpu.h,420,52,1
+cpu.h,cpu.h,\src\Crypto\cpu.h,\libavutil\x86\cpu.h,420,88,1
+config.h,config.h,\src\Common\libzip\config.h,\compat\avisynth\avs\config.h,60,25,6
+adler32.c,adler32.c,\src\Common\zlib\adler32.c,\libavutil\adler32.c,143,56,8
+adler32.c,adler32.c,\src\Common\zlib\adler32.c,\libavutil\tests\adler32.c,143,25,4

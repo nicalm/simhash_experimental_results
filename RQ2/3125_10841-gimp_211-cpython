@@ -1,0 +1,3 @@
+10841-gimp,211-cpython
+errors.c,errors.c,\app\errors.c,\Python\errors.c,347,1304,71
+main.c,main.c,\app\main.c,\Modules\main.c,631,529,72

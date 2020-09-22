@@ -1,0 +1,13 @@
+13536-activemq,464-gentelella
+css.js,css.js,\activemq-web-console\src\main\webapp\js\css.js,\vendors\jquery\src\css.js,55,348,17
+css.js,css.js,\activemq-web-console\src\main\webapp\js\css.js,\vendors\parsleyjs\bower_components\jquery\src\css.js,55,317,17
+prettify.js,prettify.js,\activemq-web-console\src\main\webapp\js\prettify.js,\vendors\gauge.js\assets\prettify.js,1115,28,0
+prettify.js,prettify.js,\activemq-web-console\src\main\webapp\js\prettify.js,\vendors\google-code-prettify\src\prettify.js,1115,1082,580
+jquery-1.4.2.min.js,jquery-1.4.2.min.js,\activemq-web-demo\src\main\webapp\js\jquery-1.4.2.min.js,\vendors\jQuery-Smart-Wizard\js\jquery-1.4.2.min.js,139,139,139
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\vendors\moment\src\lib\duration\prototype.js,4042,42,0
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\vendors\moment\src\lib\locale\prototype.js,4042,71,0
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\vendors\moment\src\lib\moment\prototype.js,4042,119,0
+Base.js,Base.js,\activemq-web-console\src\main\webapp\js\plotkit\Base.js,\vendors\jqvmap\src\Base.js,253,68,6
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\vendors\moment\src\lib\duration\prototype.js,1446,42,0
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\vendors\moment\src\lib\locale\prototype.js,1446,71,0
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\vendors\moment\src\lib\moment\prototype.js,1446,119,0

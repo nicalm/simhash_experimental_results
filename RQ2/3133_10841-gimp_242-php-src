@@ -1,0 +1,9 @@
+10841-gimp,242-php-src
+main.c,main.c,\app\main.c,\main\main.c,631,2098,125
+session.c,session.c,\app\gui\session.c,\ext\session\session.c,334,2451,77
+mail.c,mail.c,\plug-ins\common\mail.c,\ext\standard\mail.c,657,496,77
+bmp.h,bmp.h,\plug-ins\file-bmp\bmp.h,\ext\gd\libgd\bmp.h,41,50,1
+globals.c,globals.c,\plug-ins\gimpressionist\globals.c,\win32\globals.c,58,41,2
+print.c,print.c,\plug-ins\print\print.c,\ext\fileinfo\libmagic\print.c,407,212,21
+math.c,math.c,\plug-ins\selection-to-path\math.c,\ext\standard\math.c,96,820,23
+types.h,types.h,\plug-ins\selection-to-path\types.h,\ext\opcache\jit\libudis86\types.h,92,155,6

@@ -1,0 +1,7 @@
+63613-KunstmaanBundlesCMS,9516-goldfish
+app.js,app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,\frontend\client\app.js,77,124,2
+app.js,app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,\frontend\client\store\modules\app.js,77,36,2
+app.js,app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,\frontend\client\app.js,15,124,0
+app.js,app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,\frontend\client\store\modules\app.js,15,36,0
+app.js,app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,\frontend\client\app.js,27,124,0
+app.js,app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,\frontend\client\store\modules\app.js,27,36,0

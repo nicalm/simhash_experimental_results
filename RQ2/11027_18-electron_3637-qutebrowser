@@ -1,0 +1,4 @@
+18-electron,3637-qutebrowser
+config.py,config.py,\script\lib\config.py,\qutebrowser\config\config.py,78,345,2
+config.py,config.py,\script\lib\config.py,\scripts\dev\pylint_checkers\qute_pylint\config.py,78,46,1
+util.py,util.py,\script\lib\util.py,\qutebrowser\completion\models\util.py,206,20,0

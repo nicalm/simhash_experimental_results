@@ -1,0 +1,3 @@
+1123-envoy,1460-iTerm2
+conf.py,conf.py,\docs\conf.py,\api\library\python\iterm2\docs\conf.py,60,39,9
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\api\library\python\iterm2\iterm2\util.py,15,241,1

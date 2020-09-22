@@ -1,0 +1,17 @@
+10841-gimp,67701-r-source
+errors.c,errors.c,\app\errors.c,\src\main\errors.c,347,1502,69
+main.c,main.c,\app\main.c,\src\main\main.c,631,1257,109
+signals.c,signals.c,\app\signals.c,\src\library\tools\src\signals.c,101,157,19
+tests.c,tests.c,\app\tests.c,\src\library\methods\src\tests.c,131,23,4
+unique.c,unique.c,\app\unique.c,\src\main\unique.c,215,1445,62
+dialogs.c,dialogs.c,\app\dialogs\dialogs.c,\src\extra\graphapp\dialogs.c,586,738,39
+dialogs.c,dialogs.c,\app\dialogs\dialogs.c,\src\library\utils\src\windows\dialogs.c,586,267,28
+menus.c,menus.c,\app\menus\menus.c,\src\extra\graphapp\menus.c,415,341,24
+widgets.c,widgets.c,\devel-docs\tools\widgets.c,\src\library\utils\src\windows\widgets.c,676,209,32
+grid.c,grid.c,\plug-ins\common\grid.c,\src\library\grid\src\grid.c,791,2645,107
+size.c,size.c,\plug-ins\gimpressionist\size.c,\src\library\utils\src\size.c,156,105,6
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\src\library\utils\src\utils.c,303,68,16
+print.c,print.c,\plug-ins\print\print.c,\src\main\print.c,407,880,60
+types.h,types.h,\plug-ins\selection-to-path\types.h,\src\extra\xdr\rpc\types.h,92,48,5
+dynload.c,dynload.c,\plug-ins\script-fu\tinyscheme\dynload.c,\src\gnuwin32\dynload.c,111,145,22
+dynload.c,dynload.c,\plug-ins\script-fu\tinyscheme\dynload.c,\src\unix\dynload.c,111,134,20

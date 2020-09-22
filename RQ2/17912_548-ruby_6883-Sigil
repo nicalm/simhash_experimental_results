@@ -1,0 +1,13 @@
+548-ruby,6883-Sigil
+error.c,error.c,\error.c,\internal\gumbo\error.c,1954,221,47
+util.c,util.c,\util.c,\internal\gumbo\util.c,517,49,12
+error.h,error.h,\internal\error.h,\internal\gumbo\error.h,120,114,6
+util.h,util.h,\internal\util.h,\internal\gumbo\util.h,15,48,3
+crypt.h,crypt.h,\missing\crypt.h,\3rdparty\minizip\crypt.h,65,71,2
+crypt.h,crypt.h,\missing\crypt.h,\3rdparty\zlib\contrib\minizip\crypt.h,65,71,2
+util.h,util.h,\include\ruby\util.h,\internal\gumbo\util.h,62,48,9
+printf.c,printf.c,\ext\-test-\printf\printf.c,\3rdparty\hunspell\intl\printf.c,101,339,26
+parser.c,parser.c,\ext\json\parser\parser.c,\internal\gumbo\parser.c,1941,3936,211
+parser.h,parser.h,\ext\json\parser\parser.h,\internal\gumbo\parser.h,78,19,4
+parser.c,parser.c,\ext\psych\yaml\parser.c,\internal\gumbo\parser.c,963,3936,128
+attribute.c,attribute.c,\ext\-test-\win32\console\attribute.c,\internal\gumbo\attribute.c,57,60,6

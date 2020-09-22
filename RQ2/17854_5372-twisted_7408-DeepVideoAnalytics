@@ -1,0 +1,12 @@
+5372-twisted,7408-DeepVideoAnalytics
+utils.py,utils.py,\src\twisted\internet\utils.py,\repos\crnn\utils.py,121,91,3
+utils.py,utils.py,\src\twisted\internet\utils.py,\repos\lopq\python\lopq\utils.py,121,90,2
+__init__.py,__init__.py,\src\twisted\logger\__init__.py,\deploy\compose\__init__.py,45,161,0
+__init__.py,__init__.py,\src\twisted\logger\__init__.py,\deploy\kube\__init__.py,45,256,0
+context.py,context.py,\src\twisted\python\context.py,\client\dvaclient\context.py,43,83,0
+__init__.py,__init__.py,\src\twisted\python\__init__.py,\deploy\compose\__init__.py,15,161,0
+__init__.py,__init__.py,\src\twisted\python\__init__.py,\deploy\kube\__init__.py,15,256,0
+__init__.py,__init__.py,\src\twisted\_threads\__init__.py,\deploy\compose\__init__.py,15,161,0
+__init__.py,__init__.py,\src\twisted\_threads\__init__.py,\deploy\kube\__init__.py,15,256,0
+factory.py,factory.py,\src\twisted\conch\openssh_compat\factory.py,\repos\tf_ctpn_cpu\lib\datasets\factory.py,44,19,0
+factory.py,factory.py,\src\twisted\conch\ssh\factory.py,\repos\tf_ctpn_cpu\lib\datasets\factory.py,44,19,0

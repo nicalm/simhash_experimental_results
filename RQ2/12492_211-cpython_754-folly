@@ -1,0 +1,10 @@
+211-cpython,754-folly
+setup.py,setup.py,\setup.py,\folly\python\setup.py,1651,25,3
+platform.py,platform.py,\Lib\platform.py,\build\fbcode_builder\getdeps\platform.py,627,69,7
+futures.py,futures.py,\Lib\asyncio\futures.py,\folly\python\test\futures.py,235,23,0
+generator.py,generator.py,\Lib\email\generator.py,\folly\python\test\generator.py,267,36,3
+utils.py,utils.py,\Lib\email\utils.py,\build\fbcode_builder\utils.py,204,59,2
+setup.py,setup.py,\Tools\test2to3\setup.py,\folly\python\setup.py,22,25,2
+setup.py,setup.py,\Lib\test\libregrtest\setup.py,\folly\python\setup.py,90,25,0
+utils.py,utils.py,\Lib\test\libregrtest\utils.py,\build\fbcode_builder\utils.py,53,59,1
+utils.py,utils.py,\Lib\test\test_asyncio\utils.py,\build\fbcode_builder\utils.py,402,59,5

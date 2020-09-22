@@ -1,0 +1,11 @@
+10187-viabtc_exchange_server,24-node
+http_parser.c,http_parser.c,\utils\http_parser.c,\deps\http_parser\http_parser.c,1850,1840,1784
+http_parser.h,http_parser.h,\utils\http_parser.h,\deps\http_parser\http_parser.h,276,278,273
+async.c,async.c,\depends\hiredis\async.c,\deps\uv\src\unix\async.c,450,187,28
+async.c,async.c,\depends\hiredis\async.c,\deps\uv\src\win\async.c,450,52,11
+async.c,async.c,\depends\hiredis\async.c,\deps\openssl\openssl\crypto\async\async.c,450,327,64
+async.h,async.h,\depends\hiredis\async.h,\deps\openssl\openssl\include\openssl\async.h,60,53,7
+read.c,read.c,\depends\hiredis\read.c,\deps\icu-small\source\tools\genrb\read.c,384,328,72
+read.h,read.h,\depends\hiredis\read.h,\deps\icu-small\source\tools\genrb\read.h,63,25,1
+test.c,test.c,\depends\hiredis\test.c,\deps\http_parser\test.c,570,3896,51
+example.c,example.c,\depends\hiredis\examples\example.c,\deps\zlib\test\example.c,57,442,12

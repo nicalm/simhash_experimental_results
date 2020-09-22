@@ -1,0 +1,5 @@
+548-ruby,9975-hexchat
+util.c,util.c,\util.c,\src\common\util.c,517,1287,131
+ascii.c,ascii.c,\enc\ascii.c,\src\fe-gtk\ascii.c,72,136,1
+util.h,util.h,\internal\util.h,\src\common\util.h,15,47,2
+util.h,util.h,\include\ruby\util.h,\src\common\util.h,62,47,3

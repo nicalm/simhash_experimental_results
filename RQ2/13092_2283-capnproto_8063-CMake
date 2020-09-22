@@ -1,0 +1,10 @@
+2283-capnproto,8063-CMake
+common.h,common.h,\c++\src\benchmark\common.h,\Utilities\cmliblzma\liblzma\common\common.h,229,136,6
+common.h,common.h,\c++\src\capnp\common.h,\Utilities\cmliblzma\liblzma\common\common.h,508,136,11
+common.h,common.h,\c++\src\kj\common.h,\Utilities\cmliblzma\liblzma\common\common.h,1054,136,12
+debug.h,debug.h,\c++\src\kj\debug.h,\Utilities\cmzstd\lib\common\debug.h,327,39,11
+hash.h,hash.h,\c++\src\kj\hash.h,\Utilities\cmcurl\lib\hash.h,95,57,1
+compiler.h,compiler.h,\c++\src\capnp\compiler\compiler.h,\Utilities\cmzstd\lib\common\compiler.h,56,87,1
+http.h,http.h,\c++\src\kj\compat\http.h,\Utilities\cmcurl\lib\http.h,398,158,4
+url.h,url.h,\c++\src\kj\compat\url.h,\Utilities\cmcurl\lib\url.h,44,46,0
+common.h,common.h,\c++\src\kj\parse\common.h,\Utilities\cmliblzma\liblzma\common\common.h,564,136,11

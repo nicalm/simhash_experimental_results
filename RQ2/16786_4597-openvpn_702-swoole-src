@@ -1,0 +1,14 @@
+4597-openvpn,702-swoole-src
+base64.c,base64.c,\src\openvpn\base64.c,\src\protocol\base64.c,150,95,23
+buffer.c,buffer.c,\src\openvpn\buffer.c,\src\memory\buffer.c,1182,135,53
+buffer.h,buffer.h,\src\openvpn\buffer.h,\include\buffer.h,771,46,7
+error.h,error.h,\src\openvpn\error.h,\include\error.h,214,92,2
+list.c,list.c,\src\openvpn\list.c,\src\core\list.c,480,187,76
+list.h,list.h,\src\openvpn\list.h,\include\list.h,129,605,6
+ring_buffer.c,ring_buffer.c,\src\openvpn\ring_buffer.c,\src\memory\ring_buffer.c,24,164,3
+ssl.c,ssl.c,\src\openvpn\ssl.c,\src\protocol\ssl.c,3094,1090,366
+win32.h,win32.h,\src\openvpn\win32.h,\thirdparty\hiredis\win32.h,172,32,7
+error.h,error.h,\src\tapctl\error.h,\include\error.h,48,92,2
+log.c,log.c,\sample\sample-plugins\log\log.c,\src\core\log.c,130,114,38
+base64.c,base64.c,\sample\sample-plugins\simple\base64.c,\src\protocol\base64.c,85,95,23
+test.c,test.c,\tests\unit_tests\example_test\test.c,\thirdparty\hiredis\test.c,40,686,12

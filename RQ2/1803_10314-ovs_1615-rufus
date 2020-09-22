@@ -1,0 +1,17 @@
+10314-ovs,1615-rufus
+crc32c.c,crc32c.c,\lib\crc32c.c,\src\ext2fs\crc32c.c,81,865,5
+csum.c,csum.c,\lib\csum.c,\src\ext2fs\csum.c,80,810,27
+memory.c,memory.c,\lib\memory.c,\src\libcdio\driver\memory.c,115,16,3
+process.c,process.c,\lib\process.c,\src\process.c,487,518,72
+process.h,process.h,\lib\process.h,\src\process.h,31,239,1
+stdio.c,stdio.c,\lib\stdio.c,\src\stdio.c,37,774,13
+util.c,util.c,\lib\util.c,\src\libcdio\driver\util.c,1694,124,45
+util.h,util.h,\lib\util.h,\src\libcdio\cdio\util.h,431,79,22
+file.c,file.c,\ovsdb\file.c,\src\ms-sys\file.c,384,158,34
+file.h,file.h,\ovsdb\file.h,\src\ms-sys\inc\file.h,23,21,1
+resource.h,resource.h,\datapath-windows\ovsext\resource.h,\src\resource.h,1569,543,5
+types.h,types.h,\include\openvswitch\types.h,\src\libcdio\cdio\types.h,98,181,19
+util.h,util.h,\include\openvswitch\util.h,\src\libcdio\cdio\util.h,121,79,16
+getopt.h,getopt.h,\include\windows\getopt.h,\src\getopt\getopt.h,17,60,10
+unistd.h,unistd.h,\include\windows\unistd.h,\src\msvc-missing\unistd.h,65,26,2
+resource.h,resource.h,\include\windows\sys\resource.h,\src\resource.h,31,543,2

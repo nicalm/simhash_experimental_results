@@ -1,0 +1,7 @@
+1769-ChakraCore,702-swoole-src
+error.h,error.h,\lib\wabt\src\error.h,\include\error.h,32,92,2
+signal.cpp,signal.cpp,\pal\src\exception\signal.cpp,\core-tests\src\os\signal.cpp,286,31,4
+heap.cpp,heap.cpp,\pal\src\memory\heap.cpp,\core-tests\src\heap.cpp,287,35,7
+wait.cpp,wait.cpp,\pal\src\synchmgr\wait.cpp,\core-tests\src\os\wait.cpp,502,89,30
+context.h,context.h,\pal\src\include\pal\context.h,\include\context.h,383,115,22
+list.h,list.h,\pal\src\include\pal\list.h,\include\list.h,55,605,6

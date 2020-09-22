@@ -1,0 +1,7 @@
+1366-gradle,2475-fmt
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\test\fuzzing\main.cpp,17,20,1
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\test\fuzzing\main.cpp,17,20,1
+gtest-spi.h,gtest-spi.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,97,97,97
+gtest.h,gtest.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\gtest.h,\test\gtest\gtest.h,886,13412,875
+gtest-spi.h,gtest-spi.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,97,97,97
+gtest.h,gtest.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\gtest.h,\test\gtest\gtest.h,886,13412,875

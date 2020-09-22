@@ -1,0 +1,15 @@
+1193-mpv,86-netdata
+common.h,common.h,\common\common.h,\daemon\common.h,78,48,1
+ipc.c,ipc.c,\input\ipc.c,\collectors\proc.plugin\ipc.c,353,452,54
+json.c,json.c,\misc\json.c,\backends\json\json.c,268,121,12
+json.c,json.c,\misc\json.c,\exporting\json\json.c,268,134,21
+json.c,json.c,\misc\json.c,\libnetdata\json\json.c,268,345,45
+json.c,json.c,\misc\json.c,\web\api\formatters\json\json.c,268,185,27
+threads.c,threads.c,\osdep\threads.c,\libnetdata\threads\threads.c,30,148,4
+main.c,main.c,\player\main.c,\daemon\main.c,377,995,60
+json.c,json.c,\test\json.c,\backends\json\json.c,83,121,3
+json.c,json.c,\test\json.c,\exporting\json\json.c,83,134,4
+json.c,json.c,\test\json.c,\libnetdata\json\json.c,83,345,7
+json.c,json.c,\test\json.c,\web\api\formatters\json\json.c,83,185,3
+common.h,common.h,\video\out\opengl\common.h,\daemon\common.h,197,48,1
+common.h,common.h,\video\out\vulkan\common.h,\daemon\common.h,27,48,1

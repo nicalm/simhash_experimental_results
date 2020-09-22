@@ -1,0 +1,6 @@
+6883-Sigil,9529-ltp
+main.cpp,main.cpp,\src\main.cpp,\src\parser.n\main.cpp,466,128,15
+parser.h,parser.h,\internal\gumbo\parser.h,\src\parser\parser.h,19,79,2
+parser.h,parser.h,\internal\gumbo\parser.h,\src\parser.n\parser.h,19,105,2
+config.h,config.h,\3rdparty\hunspell\src\win_api\config.h,\src\srl\include\base\config.h,68,58,0
+config.h,config.h,\3rdparty\hunspell\src\win_api\config.h,\thirdparty\jsoncpp\include\json\config.h,68,123,0

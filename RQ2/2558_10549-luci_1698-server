@@ -1,0 +1,8 @@
+10549-luci,1698-server
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\apps\files_external\js\settings.js,54,939,3
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\apps\settings\js\settings.js,54,70,3
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\apps\settings\src\store\settings.js,54,15,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\core\src\jquery\index.js,82,22,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\core\src\OC\index.js,82,162,1
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\core\src\OCP\index.js,82,18,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\apps\settings\src\store\index.js,82,29,4

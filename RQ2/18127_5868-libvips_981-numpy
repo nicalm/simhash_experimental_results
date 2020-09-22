@@ -1,0 +1,2 @@
+5868-libvips,981-numpy
+buffer.c,buffer.c,\libvips\iofuncs\buffer.c,\numpy\core\src\multiarray\buffer.c,447,877,75

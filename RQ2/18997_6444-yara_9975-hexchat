@@ -1,0 +1,4 @@
+6444-yara,9975-hexchat
+exec.c,exec.c,\libyara\exec.c,\plugins\exec\exec.c,1237,111,32
+util.c,util.c,\tests\util.c,\src\common\util.c,285,1287,78
+util.h,util.h,\tests\util.h,\src\common\util.h,199,47,1

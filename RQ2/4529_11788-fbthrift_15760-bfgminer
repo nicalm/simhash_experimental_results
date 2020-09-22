@@ -1,0 +1,5 @@
+11788-fbthrift,15760-bfgminer
+util.h,util.h,\thrift\compiler\util.h,\util.h,91,687,18
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\util.h,25,687,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\util.h,17,687,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\util.h,29,687,8

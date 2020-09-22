@@ -1,0 +1,10 @@
+15910-gdal,9776-gaia
+conf.py,conf.py,\gdal\doc\source\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,323,38,11
+setup.py,setup.py,\gdal\swig\python\setup.py,\tests\python\gaia-ui-tests\setup.py,329,47,4
+setup.py,setup.py,\gdal\swig\python\setup.py,\tests\python\gaia-unit-tests\setup.py,329,25,3
+setup.py,setup.py,\gdal\swig\python\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,329,16,1
+setup.py,setup.py,\gdal\swig\python\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,329,29,6
+setup.py,setup.py,\gdal\swig\python\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,329,148,0
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,40,338,2
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,40,1303,5
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,40,41,3

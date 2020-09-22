@@ -1,0 +1,5 @@
+6883-Sigil,702-swoole-src
+main.cpp,main.cpp,\src\main.cpp,\core-tests\src\main.cpp,466,55,19
+error.h,error.h,\internal\gumbo\error.h,\include\error.h,114,92,1
+log.c,log.c,\3rdparty\hunspell\intl\log.c,\src\core\log.c,82,114,20
+example.c,example.c,\3rdparty\zlib\test\example.c,\thirdparty\hiredis\examples\example.c,441,57,12

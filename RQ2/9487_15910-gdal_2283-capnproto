@@ -1,0 +1,6 @@
+15910-gdal,2283-capnproto
+io.h,io.h,\gdal\alg\internal_libqhull\io.h,\c++\src\kj\io.h,92,223,2
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\c++\src\kj\hash.h,91,95,16
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\c++\src\kj\debug.h,56,327,11
+json.h,json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,\c++\src\capnp\compat\json.h,18,317,1
+io.h,io.h,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.h,\c++\src\kj\io.h,104,223,12

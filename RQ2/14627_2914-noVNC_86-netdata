@@ -1,0 +1,3 @@
+2914-noVNC,86-netdata
+karma.conf.js,karma.conf.js,\karma.conf.js,\tests\web\karma.conf.js,81,50,9
+common.js,common.js,\vendor\pako\lib\utils\common.js,\web\gui\src\dashboard.js\common.js,33,169,7

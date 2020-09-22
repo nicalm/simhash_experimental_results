@@ -1,0 +1,4 @@
+1818-SignalR,86-netdata
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\tests\web\karma.conf.js,96,50,15
+dashboard.js,dashboard.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\dashboard.js,\web\gui\dashboard.js,127,7634,33
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\web\gui\src\dashboard.js\common.js,65,169,7

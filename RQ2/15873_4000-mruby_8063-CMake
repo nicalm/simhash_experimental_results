@@ -1,0 +1,13 @@
+4000-mruby,8063-CMake
+error.c,error.c,\src\error.c,\Utilities\cmlibuv\src\win\error.c,426,135,10
+hash.c,hash.c,\src\hash.c,\Utilities\cmcurl\lib\hash.c,976,242,71
+pool.c,pool.c,\src\pool.c,\Utilities\cmzstd\lib\common\pool.c,167,231,31
+version.c,version.c,\src\version.c,\Utilities\cmcurl\lib\version.c,15,400,2
+version.c,version.c,\src\version.c,\Utilities\cmlibuv\src\version.c,15,17,1
+common.h,common.h,\include\mruby\common.h,\Utilities\cmliblzma\liblzma\common\common.h,55,136,7
+debug.h,debug.h,\include\mruby\debug.h,\Utilities\cmzstd\lib\common\debug.h,38,39,1
+hash.h,hash.h,\include\mruby\hash.h,\Utilities\cmcurl\lib\hash.h,42,57,2
+value.h,value.h,\include\mruby\value.h,\Utilities\cmjsoncpp\include\json\value.h,308,457,41
+version.h,version.h,\include\mruby\version.h,\Utilities\cmliblzma\liblzma\api\lzma\version.h,43,40,4
+file.c,file.c,\mrbgems\mruby-io\src\file.c,\Utilities\cmcurl\lib\file.c,449,377,62
+random.c,random.c,\mrbgems\mruby-random\src\random.c,\Utilities\cmlibuv\src\random.c,294,83,11

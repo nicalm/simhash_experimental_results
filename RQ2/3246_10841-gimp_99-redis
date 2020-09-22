@@ -1,0 +1,4 @@
+10841-gimp,99-redis
+print.c,print.c,\plug-ins\print\print.c,\deps\lua\src\print.c,407,208,40
+bitmap.h,bitmap.h,\plug-ins\selection-to-path\bitmap.h,\deps\jemalloc\include\jemalloc\internal\bitmap.h,43,280,1
+math.c,math.c,\plug-ins\selection-to-path\math.c,\deps\jemalloc\test\unit\math.c,96,344,11

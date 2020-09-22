@@ -1,0 +1,3 @@
+10827-keepalived,2575-scipy
+memory.c,memory.c,\lib\memory.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\memory.c,545,136,41
+conf.py,conf.py,\doc\source\conf.py,\doc\source\conf.py,35,237,12

@@ -1,0 +1,14 @@
+10249-pycrypto,14021-lxml
+setup.py,setup.py,\setup.py,\setup.py,369,168,17
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\src\lxml\html\__init__.py,90,1099,12
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\src\lxml\isoschematron\__init__.py,90,154,7
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\src\lxml\html\__init__.py,47,1099,5
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\src\lxml\isoschematron\__init__.py,47,154,5
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\src\lxml\html\__init__.py,18,1099,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\src\lxml\isoschematron\__init__.py,18,154,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\src\lxml\html\__init__.py,23,1099,3
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\src\lxml\isoschematron\__init__.py,23,154,2
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\src\lxml\html\__init__.py,16,1099,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\src\lxml\isoschematron\__init__.py,16,154,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\src\lxml\html\__init__.py,17,1099,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\src\lxml\isoschematron\__init__.py,17,154,0

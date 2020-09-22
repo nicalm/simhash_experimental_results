@@ -1,0 +1,5 @@
+1194-salt,2202-qBittorrent
+helpers.py,helpers.py,\tests\support\helpers.py,\src\searchengine\nova\helpers.py,969,66,7
+helpers.py,helpers.py,\tests\support\helpers.py,\src\searchengine\nova3\helpers.py,969,68,7
+helpers.py,helpers.py,\salt\utils\docker\translate\helpers.py,\src\searchengine\nova\helpers.py,195,66,4
+helpers.py,helpers.py,\salt\utils\docker\translate\helpers.py,\src\searchengine\nova3\helpers.py,195,68,4

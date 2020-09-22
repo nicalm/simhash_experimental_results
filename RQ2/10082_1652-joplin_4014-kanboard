@@ -1,0 +1,8 @@
+1652-joplin,4014-kanboard
+index.js,index.js,\ReactNativeClient\locales\index.js,\assets\vendor\text-caret\index.js,71,94,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\assets\vendor\text-caret\index.js,352,94,13
+index.js,index.js,\ElectronClient\app\locales\index.js,\assets\vendor\text-caret\index.js,71,94,0
+Dropdown.js,Dropdown.js,\ReactNativeClient\lib\components\Dropdown.js,\assets\js\src\Dropdown.js,134,63,14
+Search.js,Search.js,\ReactNativeClient\lib\models\Search.js,\assets\js\src\Search.js,16,32,2
+App.js,App.js,\Clipper\joplin-webclipper\popup\src\App.js,\assets\js\src\App.js,342,95,26
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\assets\vendor\text-caret\index.js,82,94,7

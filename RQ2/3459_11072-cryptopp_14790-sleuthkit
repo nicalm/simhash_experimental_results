@@ -1,0 +1,4 @@
+11072-cryptopp,14790-sleuthkit
+base64.cpp,base64.cpp,\base64.cpp,\tools\fiwalk\src\base64.cpp,94,175,8
+base64.h,base64.h,\base64.h,\tools\fiwalk\src\base64.h,46,18,4
+crc.h,crc.h,\crc.h,\tsk\base\crc.h,52,30,3

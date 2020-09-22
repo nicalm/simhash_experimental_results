@@ -1,0 +1,9 @@
+1769-ChakraCore,2116-libgit2
+common.h,common.h,\lib\wabt\src\common.h,\examples\common.h,324,74,3
+common.h,common.h,\lib\wabt\src\common.h,\src\common.h,324,114,5
+common.h,common.h,\lib\wabt\src\common.h,\include\git2\common.h,324,103,3
+stream.h,stream.h,\lib\wabt\src\stream.h,\src\stream.h,150,62,14
+stream.h,stream.h,\lib\wabt\src\stream.h,\include\git2\sys\stream.h,150,36,1
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\src\config.h,247,47,1
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\include\git2\config.h,247,112,1
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\include\git2\sys\config.h,247,41,1

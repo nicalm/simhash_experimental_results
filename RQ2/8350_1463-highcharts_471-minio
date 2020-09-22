@@ -1,0 +1,6 @@
+1463-highcharts,471-minio
+build.js,build.js,\tools\build.js,\browser\build.js,222,106,4
+index.js,index.js,\studies\highcharts-jsdom\index.js,\browser\app\index.js,93,22,0
+build.js,build.js,\tools\gulptasks\lib\build.js,\browser\build.js,40,106,7
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\browser\app\js\utils.js,53,95,6
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\browser\app\index.js,40,22,0

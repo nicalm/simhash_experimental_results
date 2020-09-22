@@ -1,0 +1,14 @@
+369-mongoose,4014-kanboard
+index.js,index.js,\benchmarks\index.js,\assets\vendor\text-caret\index.js,135,94,9
+index.js,index.js,\lib\index.js,\assets\vendor\text-caret\index.js,333,94,12
+utils.js,utils.js,\lib\utils.js,\assets\js\core\utils.js,686,94,35
+index.js,index.js,\docs\source\index.js,\assets\vendor\text-caret\index.js,34,94,1
+index.js,index.js,\lib\error\index.js,\assets\vendor\text-caret\index.js,15,94,0
+index.js,index.js,\lib\schema\index.js,\assets\vendor\text-caret\index.js,17,94,0
+index.js,index.js,\examples\schema\storing-schemas-as-json\index.js,\assets\vendor\text-caret\index.js,16,94,1
+index.js,index.js,\docs\3.0.x\docs\source\index.js,\assets\vendor\text-caret\index.js,18,94,0
+index.js,index.js,\docs\3.1.x\docs\source\index.js,\assets\vendor\text-caret\index.js,18,94,0
+index.js,index.js,\docs\3.2.x\docs\source\index.js,\assets\vendor\text-caret\index.js,19,94,0
+index.js,index.js,\docs\3.3.x\docs\source\index.js,\assets\vendor\text-caret\index.js,20,94,0
+index.js,index.js,\docs\3.4.x\docs\source\index.js,\assets\vendor\text-caret\index.js,20,94,0
+index.js,index.js,\docs\3.5.x\docs\source\index.js,\assets\vendor\text-caret\index.js,20,94,0

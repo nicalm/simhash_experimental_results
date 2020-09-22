@@ -1,0 +1,3 @@
+15780-OpenJK,4679-ArduinoJson
+string.cpp,string.cpp,\tests\safe\string.cpp,\extras\tests\JsonDeserializer\string.cpp,61,55,6
+string.cpp,string.cpp,\shared\qcommon\safe\string.cpp,\extras\tests\JsonDeserializer\string.cpp,59,55,7

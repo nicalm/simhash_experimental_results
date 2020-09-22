@@ -1,0 +1,13 @@
+211-cpython,2912-postgres
+datetime.h,datetime.h,\Include\datetime.h,\src\include\utils\datetime.h,152,191,7
+getaddrinfo.c,getaddrinfo.c,\Modules\getaddrinfo.c,\src\port\getaddrinfo.c,522,277,68
+main.c,main.c,\Modules\main.c,\src\backend\main\main.c,529,203,43
+parser.c,parser.c,\Parser\parser.c,\src\backend\parser\parser.c,336,97,20
+parser.c,parser.c,\Parser\parser.c,\src\interfaces\ecpg\preproc\parser.c,336,95,18
+parser.h,parser.h,\Parser\parser.h,\src\include\parser\parser.h,37,16,1
+launcher.c,launcher.c,\PC\launcher.c,\src\backend\replication\logical\launcher.c,1605,714,142
+getopt.c,getopt.c,\Python\getopt.c,\src\port\getopt.c,113,76,16
+thread.c,thread.c,\Python\thread.c,\src\port\thread.c,167,38,13
+connection.c,connection.c,\Modules\_sqlite\connection.c,\contrib\postgres_fdw\connection.c,1514,645,133
+util.c,util.c,\Modules\_sqlite\util.c,\src\bin\pg_upgrade\util.c,93,163,21
+partition.h,partition.h,\Objects\stringlib\partition.h,\src\include\catalog\partition.h,95,16,1

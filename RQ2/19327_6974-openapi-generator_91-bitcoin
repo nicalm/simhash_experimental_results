@@ -1,0 +1,9 @@
+6974-openapi-generator,91-bitcoin
+util.py,util.py,\samples\server\petstore\python-aiohttp\openapi_server\util.py,\test\functional\test_framework\util.py,59,395,4
+util.py,util.py,\samples\server\petstore\python-flask\openapi_server\util.py,\test\functional\test_framework\util.py,61,395,4
+util.py,util.py,\samples\server\petstore\python-flask-python2\openapi_server\util.py,\test\functional\test_framework\util.py,61,395,4
+util.py,util.py,\samples\openapi3\server\petstore\python-flask\openapi_server\util.py,\test\functional\test_framework\util.py,61,395,4
+util.py,util.py,\samples\openapi3\server\petstore\python-flask-python2\openapi_server\util.py,\test\functional\test_framework\util.py,61,395,4
+util.py,util.py,\samples\server\petstore\python-aiohttp-srclayout\src\openapi_server\util.py,\test\functional\test_framework\util.py,59,395,4
+util.py,util.py,\samples\server\petstore\python-blueplanet\app\openapi_server\util.py,\test\functional\test_framework\util.py,61,395,4
+address.py,address.py,\samples\openapi3\client\petstore\python-experimental\petstore_api\models\address.py,\test\functional\test_framework\address.py,55,72,0

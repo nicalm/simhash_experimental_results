@@ -1,0 +1,5 @@
+11093-mongoose-os,2565-runc
+main.go,main.go,\tools\heaplog_viewer\heaplog_server\main.go,\main.go,143,144,26
+main.go,main.go,\tools\heaplog_viewer\heaplog_server\main.go,\vendor\github.com\checkpoint-restore\go-criu\test\main.go,143,114,34
+main.go,main.go,\tools\heaplog_viewer\heaplog_shortener\main.go,\main.go,93,144,25
+main.go,main.go,\tools\heaplog_viewer\heaplog_shortener\main.go,\vendor\github.com\checkpoint-restore\go-criu\test\main.go,93,114,30

@@ -1,0 +1,4 @@
+14021-lxml,15910-gdal
+setup.py,setup.py,\setup.py,\gdal\swig\python\setup.py,168,329,21
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\gdal\swig\python\osgeo\__init__.py,1099,40,7
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\gdal\swig\python\osgeo\__init__.py,154,40,4

@@ -1,0 +1,17 @@
+1087-radare2,4001-hello.js
+index.js,index.js,\doc\node.js\index.js,\assets\index.js,36,1114,7
+index.js,index.js,\doc\node.js\index.js,\assets\expect\index.js,36,806,8
+index.js,index.js,\doc\node.js\index.js,\tests\specs\index.js,36,39,4
+index.js,index.js,\doc\pdb\index.js,\assets\index.js,143,1114,31
+index.js,index.js,\doc\pdb\index.js,\assets\expect\index.js,143,806,22
+index.js,index.js,\doc\pdb\index.js,\tests\specs\index.js,143,39,4
+index.js,index.js,\shlr\www\graph\index.js,\assets\index.js,49,1114,14
+index.js,index.js,\shlr\www\graph\index.js,\assets\expect\index.js,49,806,14
+index.js,index.js,\shlr\www\graph\index.js,\tests\specs\index.js,49,39,3
+index.js,index.js,\sys\build\make.js\index.js,\assets\index.js,201,1114,44
+index.js,index.js,\sys\build\make.js\index.js,\assets\expect\index.js,201,806,25
+index.js,index.js,\sys\build\make.js\index.js,\tests\specs\index.js,201,39,4
+utils.js,utils.js,\sys\build\make.js\utils.js,\assets\knockout\src\utils.js,87,492,18
+index.js,index.js,\test\new\travis\index.js,\assets\index.js,120,1114,26
+index.js,index.js,\test\new\travis\index.js,\assets\expect\index.js,120,806,33
+index.js,index.js,\test\new\travis\index.js,\tests\specs\index.js,120,39,4

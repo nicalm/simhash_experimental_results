@@ -1,0 +1,13 @@
+242-php-src,3405-libevent
+getopt.c,getopt.c,\main\getopt.c,\WIN32-Code\getopt.c,150,96,14
+strlcpy.c,strlcpy.c,\main\strlcpy.c,\strlcpy.c,29,32,15
+select.c,select.c,\win32\select.c,\select.c,106,230,20
+signal.c,signal.c,\win32\signal.c,\signal.c,109,348,30
+http.c,http.c,\ext\standard\http.c,\http.c,211,4015,56
+buffer.c,buffer.c,\ext\fileinfo\libmagic\buffer.c,\buffer.c,58,2732,24
+queue.h,queue.h,\ext\xmlrpc\libxmlrpc\queue.h,\compat\sys\queue.h,59,304,2
+devpoll.c,devpoll.c,\sapi\fpm\fpm\events\devpoll.c,\devpoll.c,143,199,31
+epoll.c,epoll.c,\sapi\fpm\fpm\events\epoll.c,\epoll.c,124,402,44
+kqueue.c,kqueue.c,\sapi\fpm\fpm\events\kqueue.c,\kqueue.c,120,387,44
+poll.c,poll.c,\sapi\fpm\fpm\events\poll.c,\poll.c,155,242,39
+select.c,select.c,\sapi\fpm\fpm\events\select.c,\select.c,92,230,31

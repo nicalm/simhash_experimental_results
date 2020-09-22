@@ -1,0 +1,4 @@
+12891-libjpeg-turbo,8063-CMake
+md5.c,md5.c,\md5\md5.c,\Utilities\cmcurl\lib\md5.c,162,404,19
+md5.c,md5.c,\md5\md5.c,\Utilities\cmlibrhash\librhash\md5.c,162,160,16
+md5.h,md5.h,\md5\md5.h,\Utilities\cmlibrhash\librhash\md5.h,20,21,2

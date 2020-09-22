@@ -1,0 +1,6 @@
+5868-libvips,5902-nmap
+base64.c,base64.c,\libvips\iofuncs\base64.c,\ncat\base64.c,162,38,7
+error.c,error.c,\libvips\iofuncs\error.c,\nsock\src\error.c,530,24,13
+util.c,util.c,\libvips\iofuncs\util.c,\ncat\util.c,1294,502,142
+error.h,error.h,\libvips\include\vips\error.h,\nsock\src\error.h,58,27,3
+util.h,util.h,\libvips\include\vips\util.h,\ncat\util.h,230,72,8

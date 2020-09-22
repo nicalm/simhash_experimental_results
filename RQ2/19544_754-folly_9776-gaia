@@ -1,0 +1,6 @@
+754-folly,9776-gaia
+setup.py,setup.py,\folly\python\setup.py,\tests\python\gaia-ui-tests\setup.py,25,47,1
+setup.py,setup.py,\folly\python\setup.py,\tests\python\gaia-unit-tests\setup.py,25,25,2
+setup.py,setup.py,\folly\python\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,25,16,1
+setup.py,setup.py,\folly\python\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,25,29,1
+setup.py,setup.py,\folly\python\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,25,148,0

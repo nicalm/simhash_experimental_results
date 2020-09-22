@@ -1,0 +1,3 @@
+14790-sleuthkit,9529-ltp
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\src\srl\include\base\config.h,41,58,1
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\thirdparty\jsoncpp\include\json\config.h,41,123,3

@@ -1,0 +1,4 @@
+3761-lepton,548-ruby
+md5.c,md5.c,\dependencies\md5\md5.c,\ext\digest\md5\md5.c,211,290,19
+md5.h,md5.h,\dependencies\md5\md5.h,\ext\digest\md5\md5.h,21,20,3
+hash.h,hash.h,\dependencies\brotli\c\enc\hash.h,\internal\hash.h,345,189,21

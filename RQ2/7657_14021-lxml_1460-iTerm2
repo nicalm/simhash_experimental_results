@@ -1,0 +1,5 @@
+14021-lxml,1460-iTerm2
+setup.py,setup.py,\setup.py,\tools\ply\ply-3.4\setup.py,168,20,9
+setup.py,setup.py,\setup.py,\api\library\python\iterm2\setup.py,168,33,7
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\api\library\python\iterm2\iterm2\__init__.py,1099,52,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\api\library\python\iterm2\iterm2\__init__.py,154,52,0

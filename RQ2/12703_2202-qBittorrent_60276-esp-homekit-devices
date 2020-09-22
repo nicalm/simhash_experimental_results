@@ -1,0 +1,7 @@
+2202-qBittorrent,60276-esp-homekit-devices
+types.h,types.h,\src\base\http\types.h,\devices\HAA\types.h,80,141,1
+types.h,types.h,\src\base\http\types.h,\external_libs\homekit\include\homekit\types.h,80,235,7
+types.h,types.h,\src\base\http\types.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\types.h,80,472,7
+types.h,types.h,\src\base\http\types.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\types.h,80,472,7
+misc.h,misc.h,\src\base\utils\misc.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\misc.h,55,58,4
+misc.h,misc.h,\src\base\utils\misc.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\misc.h,55,58,4

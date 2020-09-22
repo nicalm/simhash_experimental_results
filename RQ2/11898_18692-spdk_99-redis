@@ -1,0 +1,15 @@
+18692-spdk,99-redis
+assert.h,assert.h,\include\spdk\assert.h,\deps\jemalloc\include\jemalloc\internal\assert.h,15,46,4
+log.h,log.h,\include\spdk\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,41,60,4
+util.h,util.h,\include\spdk\util.h,\src\util.h,52,24,2
+util.h,util.h,\include\spdk\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,52,42,5
+assert.h,assert.h,\include\spdk_internal\assert.h,\deps\jemalloc\include\jemalloc\internal\assert.h,16,46,4
+log.h,log.h,\include\spdk_internal\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,57,60,11
+log.c,log.c,\lib\log\log.c,\deps\jemalloc\src\log.c,153,57,11
+log.c,log.c,\lib\log\log.c,\deps\jemalloc\test\unit\log.c,153,150,17
+notify.c,notify.c,\lib\notify\notify.c,\src\notify.c,92,75,8
+crc16.c,crc16.c,\lib\util\crc16.c,\src\crc16.c,612,42,3
+math.c,math.c,\lib\util\math.c,\deps\jemalloc\test\unit\math.c,26,344,6
+stats.c,stats.c,\module\bdev\ocf\stats.c,\deps\jemalloc\src\stats.c,66,1026,5
+stats.c,stats.c,\module\bdev\ocf\stats.c,\deps\jemalloc\test\unit\stats.c,66,313,4
+net.c,net.c,\module\event\subsystems\net\net.c,\deps\hiredis\net.c,51,392,7

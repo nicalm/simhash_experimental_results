@@ -1,0 +1,7 @@
+1366-gradle,516-mongo
+Logger.java,Logger.java,\subprojects\wrapper\src\main\java\org\gradle\wrapper\Logger.java,\src\mongo\embedded\mongo_embedded\java\src\com\mongodb\embedded\capi\internal\logging\Logger.java,30,19,1
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\src\third_party\zstandard-1.4.3\zstd\contrib\pzstd\main.cpp,17,16,2
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\src\mongo\gotools\src\github.com\mongodb\mongo-tools\vendor\github.com\golang\snappy\cmd\snappytool\main.cpp,17,59,2
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\src\third_party\zstandard-1.4.3\zstd\contrib\pzstd\main.cpp,17,16,2
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\src\mongo\gotools\src\github.com\mongodb\mongo-tools\vendor\github.com\golang\snappy\cmd\snappytool\main.cpp,17,59,2
+Logger.java,Logger.java,\subprojects\logging\src\main\java\org\gradle\api\logging\Logger.java,\src\mongo\embedded\mongo_embedded\java\src\com\mongodb\embedded\capi\internal\logging\Logger.java,19,19,1

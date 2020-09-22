@@ -1,0 +1,4 @@
+15910-gdal,63770-mcuboot
+setup.py,setup.py,\gdal\swig\python\setup.py,\scripts\setup.py,329,28,2
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\scripts\imgtool\keys\__init__.py,40,63,2
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,54,24,4

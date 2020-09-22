@@ -1,0 +1,6 @@
+10549-luci,18-electron
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\npm\index.js,82,15,3
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\spec-main\index.js,82,75,6
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\script\release\notes\index.js,82,149,9
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\spec\fixtures\auto-update\check\index.js,82,17,0
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\spec\fixtures\auto-update\update\index.js,82,33,1

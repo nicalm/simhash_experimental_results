@@ -1,0 +1,17 @@
+11788-fbthrift,9776-gaia
+setup.py,setup.py,\thrift\lib\py\setup.py,\tests\python\gaia-ui-tests\setup.py,54,47,1
+setup.py,setup.py,\thrift\lib\py\setup.py,\tests\python\gaia-unit-tests\setup.py,54,25,2
+setup.py,setup.py,\thrift\lib\py\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,54,16,1
+setup.py,setup.py,\thrift\lib\py\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,54,29,2
+setup.py,setup.py,\thrift\lib\py\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,54,148,0
+setup.py,setup.py,\thrift\lib\py3\setup.py,\tests\python\gaia-ui-tests\setup.py,29,47,1
+setup.py,setup.py,\thrift\lib\py3\setup.py,\tests\python\gaia-unit-tests\setup.py,29,25,2
+setup.py,setup.py,\thrift\lib\py3\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,29,16,1
+setup.py,setup.py,\thrift\lib\py3\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,29,29,1
+setup.py,setup.py,\thrift\lib\py3\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,29,148,0
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,44,338,0
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,44,1303,13
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,44,41,2
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,108,338,6
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,108,1303,9
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,108,41,2

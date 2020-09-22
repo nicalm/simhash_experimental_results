@@ -1,0 +1,15 @@
+2283-capnproto,548-ruby
+list.h,list.h,\c++\src\capnp\list.h,\ccan\list\list.h,398,263,25
+array.h,array.h,\c++\src\kj\array.h,\internal\array.h,661,79,7
+debug.h,debug.h,\c++\src\kj\debug.h,\internal\debug.h,327,16,1
+debug.h,debug.h,\c++\src\kj\debug.h,\include\ruby\debug.h,327,70,7
+encoding.h,encoding.h,\c++\src\kj\encoding.h,\internal\encoding.h,188,16,0
+encoding.h,encoding.h,\c++\src\kj\encoding.h,\include\ruby\encoding.h,188,314,6
+hash.h,hash.h,\c++\src\kj\hash.h,\internal\hash.h,95,189,16
+io.h,io.h,\c++\src\kj\io.h,\internal\io.h,223,20,1
+io.h,io.h,\c++\src\kj\io.h,\include\ruby\io.h,223,128,4
+string.h,string.h,\c++\src\kj\string.h,\internal\string.h,440,108,10
+thread.h,thread.h,\c++\src\kj\thread.h,\internal\thread.h,39,33,1
+thread.h,thread.h,\c++\src\kj\thread.h,\include\ruby\thread.h,39,30,4
+time.h,time.h,\c++\src\kj\time.h,\internal\time.h,36,18,0
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\ext\json\parser\parser.h,69,78,1

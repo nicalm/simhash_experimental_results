@@ -1,0 +1,4 @@
+10249-pycrypto,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,369,64,6
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,369,21,2
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,369,73,6

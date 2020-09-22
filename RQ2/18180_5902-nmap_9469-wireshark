@@ -1,0 +1,13 @@
+5902-nmap,9469-wireshark
+gencode.c,gencode.c,\libpcap\gencode.c,\epan\dfilter\gencode.c,5818,477,116
+nlpid.h,nlpid.h,\libpcap\nlpid.h,\epan\nlpid.h,27,30,1
+pcap-common.c,pcap-common.c,\libpcap\pcap-common.c,\wiretap\pcap-common.c,444,1421,58
+adler32.c,adler32.c,\libz\adler32.c,\wsutil\adler32.c,143,23,7
+crc32.c,crc32.c,\libz\crc32.c,\wsutil\crc32.c,289,366,25
+crc32.h,crc32.h,\libz\crc32.h,\wsutil\crc32.h,437,32,2
+util.c,util.c,\ncat\util.c,\ui\util.c,502,182,35
+util.h,util.h,\ncat\util.h,\ui\util.h,72,15,3
+socket.h,socket.h,\libpcap\pcap\socket.h,\wsutil\socket.h,24,42,12
+packet.c,packet.c,\libssh2\src\packet.c,\epan\packet.c,891,2288,147
+packet.h,packet.h,\libssh2\src\packet.h,\epan\packet.h,34,257,1
+socket.h,socket.h,\libssh2\os400\include\sys\socket.h,\wsutil\socket.h,24,42,6

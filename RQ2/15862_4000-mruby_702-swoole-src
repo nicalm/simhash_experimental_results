@@ -1,0 +1,10 @@
+4000-mruby,702-swoole-src
+array.c,array.c,\src\array.c,\src\core\array.c,1070,103,38
+string.c,string.c,\src\string.c,\src\core\string.c,2271,237,106
+array.h,array.h,\include\mruby\array.h,\include\array.h,74,25,1
+error.h,error.h,\include\mruby\error.h,\include\error.h,60,92,3
+hash.h,hash.h,\include\mruby\hash.h,\include\hash.h,42,129,1
+array.c,array.c,\mrbgems\mruby-array-ext\src\array.c,\src\core\array.c,112,103,22
+string.c,string.c,\mrbgems\mruby-string-ext\src\string.c,\src\core\string.c,897,237,100
+example.c,example.c,\examples\mrbgems\c_and_ruby_extension_example\src\example.c,\thirdparty\hiredis\examples\example.c,16,57,4
+example.c,example.c,\examples\mrbgems\c_extension_example\src\example.c,\thirdparty\hiredis\examples\example.c,16,57,4

@@ -1,0 +1,17 @@
+13536-activemq,506-ghidra
+LRUMap.java,LRUMap.java,\activemq-broker\src\main\java\org\apache\activemq\memory\LRUMap.java,\Ghidra\Framework\Generic\src\main\java\ghidra\util\datastruct\LRUMap.java,22,278,6
+LockFile.java,LockFile.java,\activemq-broker\src\main\java\org\apache\activemq\util\LockFile.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\store\local\LockFile.java,129,435,41
+LockFileTest.java,LockFileTest.java,\activemq-broker\src\test\java\org\apache\activemq\util\LockFileTest.java,\Ghidra\Framework\FileSystem\src\test.slow\java\ghidra\framework\store\local\LockFileTest.java,32,65,7
+BinaryExpression.java,BinaryExpression.java,\activemq-client\src\main\java\org\apache\activemq\filter\BinaryExpression.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\slghpatexpress\BinaryExpression.java,34,61,12
+BinaryExpression.java,BinaryExpression.java,\activemq-client\src\main\java\org\apache\activemq\filter\BinaryExpression.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\app\plugin\processors\generic\BinaryExpression.java,34,89,10
+BinaryExpression.java,BinaryExpression.java,\activemq-client\src\main\java\org\apache\activemq\filter\BinaryExpression.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\app\plugin\processors\sleigh\expression\BinaryExpression.java,34,46,14
+UnaryExpression.java,UnaryExpression.java,\activemq-client\src\main\java\org\apache\activemq\filter\UnaryExpression.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\slghpatexpress\UnaryExpression.java,172,48,11
+UnaryExpression.java,UnaryExpression.java,\activemq-client\src\main\java\org\apache\activemq\filter\UnaryExpression.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\app\plugin\processors\sleigh\expression\UnaryExpression.java,172,35,9
+Utils.java,Utils.java,\activemq-spring\src\main\java\org\apache\activemq\spring\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcode\utils\Utils.java,29,127,5
+Utils.java,Utils.java,\activemq-spring\src\main\java\org\apache\activemq\spring\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\utils\Utils.java,29,266,6
+TestUtils.java,TestUtils.java,\activemq-unit-tests\src\test\java\org\apache\activemq\util\TestUtils.java,\Ghidra\Framework\Generic\src\main\java\generic\test\TestUtils.java,64,179,17
+Activator.java,Activator.java,\activemq-broker\src\main\java\org\apache\activemq\util\osgi\Activator.java,\GhidraBuild\EclipsePlugins\GhidraDev\GhidraDevPlugin\src\main\java\ghidradev\Activator.java,175,57,20
+BTreeNode.java,BTreeNode.java,\activemq-kahadb-store\src\main\java\org\apache\activemq\store\kahadb\disk\index\BTreeNode.java,\Ghidra\Framework\DB\src\main\java\db\BTreeNode.java,627,15,2
+Location.java,Location.java,\activemq-kahadb-store\src\main\java\org\apache\activemq\store\kahadb\disk\journal\Location.java,\Ghidra\Features\FunctionID\src\main\java\ghidra\feature\fid\service\Location.java,99,84,25
+Sequence.java,Sequence.java,\activemq-kahadb-store\src\main\java\org\apache\activemq\store\kahadb\disk\util\Sequence.java,\Ghidra\Features\BytePatterns\src\main\java\ghidra\closedpatternmining\Sequence.java,51,38,10
+Sequence.java,Sequence.java,\activemq-kahadb-store\src\main\java\org\apache\activemq\store\kahadb\disk\util\Sequence.java,\Ghidra\Features\Base\src\main\java\ghidra\util\ascii\Sequence.java,51,63,15

@@ -1,0 +1,4 @@
+10081-irssi,91-bitcoin
+common.h,common.h,\src\common.h,\src\crypto\common.h,81,83,5
+settings.h,settings.h,\src\core\settings.h,\src\policy\settings.h,107,22,1
+settings.h,settings.h,\src\core\settings.h,\src\util\settings.h,107,44,2

@@ -1,0 +1,12 @@
+18692-spdk,2283-capnproto
+blob.h,blob.h,\include\spdk\blob.h,\c++\src\capnp\blob.h,190,137,8
+endian.h,endian.h,\include\spdk\endian.h,\c++\src\capnp\endian.h,124,212,16
+json.h,json.h,\include\spdk\json.h,\c++\src\capnp\compat\json.h,110,317,4
+rpc.h,rpc.h,\include\spdk\rpc.h,\c++\src\capnp\rpc.h,35,278,3
+string.h,string.h,\include\spdk\string.h,\c++\src\kj\string.h,27,440,4
+thread.h,thread.h,\include\spdk\thread.h,\c++\src\kj\thread.h,87,39,6
+memory.h,memory.h,\include\spdk_internal\memory.h,\c++\src\kj\memory.h,20,346,1
+common.h,common.h,\module\bdev\nvme\common.h,\c++\src\benchmark\common.h,84,229,5
+common.h,common.h,\module\bdev\nvme\common.h,\c++\src\capnp\common.h,84,508,7
+common.h,common.h,\module\bdev\nvme\common.h,\c++\src\kj\common.h,84,1054,7
+common.h,common.h,\module\bdev\nvme\common.h,\c++\src\kj\parse\common.h,84,564,7

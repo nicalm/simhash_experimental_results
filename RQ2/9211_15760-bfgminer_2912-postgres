@@ -1,0 +1,7 @@
+15760-bfgminer,2912-postgres
+api.c,api.c,\api.c,\src\backend\snowball\libstemmer\api.c,3686,56,21
+logging.c,logging.c,\logging.c,\src\common\logging.c,72,176,17
+logging.h,logging.h,\logging.h,\src\include\common\logging.h,133,37,7
+sha2.c,sha2.c,\sha2.c,\src\common\sha2.c,139,729,24
+sha2.h,sha2.h,\sha2.h,\src\include\common\sha2.h,29,55,1
+util.c,util.c,\util.c,\src\bin\pg_upgrade\util.c,3540,163,52

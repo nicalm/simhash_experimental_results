@@ -1,0 +1,4 @@
+15760-bfgminer,67701-r-source
+util.c,util.c,\util.c,\src\main\util.c,3540,2082,435
+util.c,util.c,\util.c,\src\library\grid\src\util.c,3540,178,40
+util.c,util.c,\util.c,\src\library\utils\src\windows\util.c,3540,479,102

@@ -1,0 +1,11 @@
+6285-ImageMagick,9469-wireshark
+json.c,json.c,\coders\json.c,\wiretap\json.c,1500,41,6
+mpeg.c,mpeg.c,\coders\mpeg.c,\wiretap\mpeg.c,396,202,27
+color.h,color.h,\MagickCore\color.h,\wsutil\color.h,61,20,5
+profile.c,profile.c,\MagickCore\profile.c,\ui\profile.c,1886,332,71
+profile.h,profile.h,\MagickCore\profile.h,\ui\profile.h,34,35,5
+resample.c,resample.c,\MagickCore\resample.c,\speexdsp\resample.c,663,931,83
+stream.c,stream.c,\MagickCore\stream.c,\epan\stream.c,2062,288,65
+stream.h,stream.h,\MagickCore\stream.h,\epan\stream.h,26,28,1
+vms.c,vms.c,\MagickCore\vms.c,\wiretap\vms.c,109,292,16
+stream.c,stream.c,\MagickWand\stream.c,\epan\stream.c,635,288,63

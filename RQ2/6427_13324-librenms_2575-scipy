@@ -1,0 +1,13 @@
+13324-librenms,2575-scipy
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\__init__.py,252,71,4
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\constants\__init__.py,252,18,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\fft\__init__.py,252,39,1
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\fftpack\__init__.py,252,19,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\interpolate\__init__.py,252,15,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\linalg\__init__.py,252,37,2
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\optimize\__init__.py,252,28,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\signal\__init__.py,252,51,1
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\sparse\__init__.py,252,19,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\special\__init__.py,252,41,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\benchmarks\benchmarks\go_benchmark_functions\__init__.py,252,28,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\scipy\sparse\csgraph\__init__.py,252,42,0

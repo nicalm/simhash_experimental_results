@@ -1,0 +1,5 @@
+11788-fbthrift,140-neovim
+stream.h,stream.h,\thrift\lib\py3\stream.h,\src\nvim\event\stream.h,24,43,1
+types.h,types.h,\thrift\lib\py3\types.h,\src\nvim\types.h,20,15,0
+helpers.h,helpers.h,\thrift\lib\cpp2\reflection\helpers.h,\src\nvim\api\private\helpers.h,34,78,1
+macros.h,macros.h,\thrift\lib\rb\ext\macros.h,\src\nvim\macros.h,18,121,4

@@ -1,0 +1,4 @@
+1123-envoy,13786-SiCKRAGE
+client.py,client.py,\examples\grpc-bridge\client\client.py,\sickrage\libs\trakt\client.py,43,51,0
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\sickrage\core\media\util.py,15,51,1
+client.py,client.py,\test\extensions\filters\network\thrift_proxy\driver\client.py,\sickrage\libs\trakt\client.py,224,51,0

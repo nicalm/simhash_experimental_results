@@ -1,0 +1,8 @@
+10115-mbedtls,682-curl
+base64.c,base64.c,\library\base64.c,\lib\base64.c,199,182,24
+debug.c,debug.c,\library\debug.c,\docs\examples\debug.c,345,100,24
+md4.c,md4.c,\library\md4.c,\lib\md4.c,356,335,50
+md5.c,md5.c,\library\md5.c,\lib\md5.c,358,367,58
+sha256.c,sha256.c,\library\sha256.c,\lib\sha256.c,419,193,38
+version.c,version.c,\library\version.c,\lib\version.c,23,398,9
+strerror.c,strerror.c,\programs\util\strerror.c,\lib\strerror.c,61,743,20

@@ -1,0 +1,5 @@
+682-curl,9975-hexchat
+url.c,url.c,\lib\url.c,\src\common\url.c,2758,502,125
+url.h,url.h,\lib\url.h,\src\common\url.h,42,17,1
+util.c,util.c,\tests\server\util.c,\src\common\util.c,375,1287,91
+util.h,util.h,\tests\server\util.h,\src\common\util.h,29,47,3

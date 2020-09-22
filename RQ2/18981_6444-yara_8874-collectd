@@ -1,0 +1,4 @@
+6444-yara,8874-collectd
+common.h,common.h,\common.h,\src\utils\common\common.h,91,131,5
+exec.c,exec.c,\libyara\exec.c,\src\exec.c,1237,695,90
+types.h,types.h,\libyara\include\yara\types.h,\src\libcollectdclient\collectd\types.h,527,48,4

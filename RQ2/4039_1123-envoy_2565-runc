@@ -1,0 +1,3 @@
+1123-envoy,2565-runc
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\golang.org\x\sys\windows\service.go,48,176,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\golang.org\x\sys\windows\svc\service.go,48,284,12

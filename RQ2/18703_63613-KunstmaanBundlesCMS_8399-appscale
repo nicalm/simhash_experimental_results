@@ -1,0 +1,6 @@
+63613-KunstmaanBundlesCMS,8399-appscale
+UserTest.php,UserTest.php,\src\Kunstmaan\AdminBundle\Tests\unit\Entity\UserTest.php,\AppServer\php\sdk\google\appengine\api\users\UserTest.php,85,62,8
+image.js,image.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\image\dialogs\image.js,\AppDashboard\static\plugins\forms\tiny_mce\plugins\advimage\js\image.js,40,356,0
+image.js,image.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\image\dialogs\image.js,\AppDashboard\static\plugins\forms\tiny_mce\themes\advanced\js\image.js,40,194,0
+link.js,link.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\link\dialogs\link.js,\AppDashboard\static\plugins\forms\tiny_mce\themes\advanced\js\link.js,23,123,0
+table.js,table.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\table\dialogs\table.js,\AppDashboard\static\plugins\forms\tiny_mce\plugins\table\js\table.js,18,360,0

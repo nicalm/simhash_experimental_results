@@ -1,0 +1,6 @@
+1541-h2o,2389-Pillow
+setup.py,setup.py,\deps\brotli\setup.py,\setup.py,237,714,15
+decode.c,decode.c,\deps\brotli\c\dec\decode.c,\src\decode.c,2000,591,59
+encode.c,encode.c,\deps\brotli\c\enc\encode.c,\src\encode.c,1440,918,116
+build.py,build.py,\deps\picotls\deps\cifra\doc\build.py,\winbuild\build.py,145,141,2
+conf.py,conf.py,\deps\picotls\deps\cifra\doc\conf.py,\docs\conf.py,35,45,8

@@ -1,0 +1,3 @@
+4287-cockpit,6444-yara
+test-rules.c,test-rules.c,\src\bridge\test-rules.c,\tests\test-rules.c,201,1957,30
+utils.h,utils.h,\src\tls\utils.h,\libyara\include\yara\utils.h,24,87,2

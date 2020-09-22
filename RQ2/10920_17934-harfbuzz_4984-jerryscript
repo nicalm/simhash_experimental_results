@@ -1,0 +1,4 @@
+17934-harfbuzz,4984-jerryscript
+test-unicode.c,test-unicode.c,\test\api\test-unicode.c,\tests\unit-core\test-unicode.c,701,35,9
+run-tests.py,run-tests.py,\test\shaping\run-tests.py,\tools\run-tests.py,112,425,12
+run-tests.py,run-tests.py,\test\subset\run-tests.py,\tools\run-tests.py,117,425,6

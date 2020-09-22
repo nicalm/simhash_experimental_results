@@ -1,0 +1,5 @@
+471-minio,63622-mirador
+webpack.config.js,webpack.config.js,\browser\webpack.config.js,\webpack.config.js,104,62,12
+App.js,App.js,\browser\app\js\App.js,\src\components\App.js,16,72,2
+App.js,App.js,\browser\app\js\App.js,\src\containers\App.js,16,22,1
+App.test.js,App.test.js,\browser\app\js\__tests__\App.test.js,\__tests__\src\components\App.test.js,43,66,0

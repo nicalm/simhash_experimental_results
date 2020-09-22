@@ -1,0 +1,4 @@
+11604-pdns,15910-gdal
+conf.py,conf.py,\docs\conf.py,\gdal\doc\source\conf.py,82,323,8
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\gdal\doc\source\conf.py,48,323,8
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\gdal\doc\source\conf.py,52,323,9

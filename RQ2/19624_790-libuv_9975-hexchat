@@ -1,0 +1,5 @@
+790-libuv,9975-hexchat
+tree.h,tree.h,\include\uv\tree.h,\src\common\tree.h,666,16,1
+server.c,server.c,\samples\socks5-proxy\server.c,\src\common\server.c,180,1542,37
+util.c,util.c,\samples\socks5-proxy\util.c,\src\common\util.c,43,1287,8
+util.c,util.c,\src\win\util.c,\src\common\util.c,1211,1287,149

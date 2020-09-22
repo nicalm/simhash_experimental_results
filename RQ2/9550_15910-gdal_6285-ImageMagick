@@ -1,0 +1,12 @@
+15910-gdal,6285-ImageMagick
+random.c,random.c,\gdal\alg\internal_libqhull\random.c,\MagickCore\random.c,133,544,21
+utility.h,utility.h,\gdal\alg\marching_squares\utility.h,\MagickCore\utility.h,16,38,3
+compress.c,compress.c,\gdal\frmts\zlib\compress.c,\MagickCore\compress.c,46,939,9
+tiff.h,tiff.h,\gdal\frmts\gtiff\libtiff\tiff.h,\coders\tiff.h,491,18,1
+Image.h,Image.h,\gdal\frmts\mrf\libLERC\Image.h,\Magick++\lib\Magick++\Image.h,45,619,7
+png.c,png.c,\gdal\frmts\png\libpng\png.c,\coders\png.c,826,10503,277
+png.h,png.h,\gdal\frmts\png\libpng\png.h,\coders\png.h,2159,21,4
+meta.h,meta.h,\gdal\frmts\grib\degrib\degrib\meta.h,\coders\meta.h,411,28,4
+type.h,type.h,\gdal\frmts\grib\degrib\degrib\type.h,\MagickCore\type.h,22,67,3
+registry.h,registry.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\registry.h,\MagickCore\registry.h,71,27,2
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\coders\debug.c,74,144,11

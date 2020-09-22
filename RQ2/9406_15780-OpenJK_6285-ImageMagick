@@ -1,0 +1,4 @@
+15780-OpenJK,6285-ImageMagick
+png.c,png.c,\lib\libpng\png.c,\coders\png.c,2709,10503,783
+compress.c,compress.c,\lib\zlib\compress.c,\MagickCore\compress.c,47,939,9
+png.h,png.h,\lib\libpng\include\png.h,\coders\png.h,1278,21,4

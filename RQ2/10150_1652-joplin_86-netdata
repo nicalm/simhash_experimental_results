@@ -1,0 +1,6 @@
+1652-joplin,86-netdata
+main.js,main.js,\CliClient\app\main.js,\web\gui\main.js,64,4130,9
+main.js,main.js,\CliClient\app\main.js,\web\gui\src\dashboard.js\main.js,64,3119,9
+main.js,main.js,\ElectronClient\app\main.js,\web\gui\main.js,33,4130,4
+main.js,main.js,\ElectronClient\app\main.js,\web\gui\src\dashboard.js\main.js,33,3119,4
+registry.js,registry.js,\ReactNativeClient\lib\registry.js,\web\gui\src\dashboard.js\registry.js,137,256,21

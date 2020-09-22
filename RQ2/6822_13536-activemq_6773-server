@@ -1,0 +1,3 @@
+13536-activemq,6773-server
+Client.java,Client.java,\assembly\src\release\examples\openwire\advanced-scenarios\jms-example-transaction\src\main\java\example\transaction\Client.java,\storage\connect\Client.java,81,155,19
+Client.java,Client.java,\assembly\src\release\examples\openwire\advanced-scenarios\jms-example-wildcard-consumer\src\main\java\example\wildcard\Client.java,\storage\connect\Client.java,74,155,17

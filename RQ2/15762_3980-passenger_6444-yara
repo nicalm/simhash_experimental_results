@@ -1,0 +1,6 @@
+3980-passenger,6444-yara
+compiler.h,compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,\libyara\include\yara\compiler.h,34,192,1
+freebsd.c,freebsd.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\freebsd.c,\libyara\proc\freebsd.c,308,104,17
+openbsd.c,openbsd.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\openbsd.c,\libyara\proc\openbsd.c,273,109,14
+stream.c,stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,\libyara\stream.c,1065,22,5
+endian.h,endian.h,\src\cxx_supportlib\vendor-modified\boost\predef\other\endian.h,\libyara\include\yara\endian.h,141,55,15

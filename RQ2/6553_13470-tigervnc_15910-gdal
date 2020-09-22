@@ -1,0 +1,4 @@
+13470-tigervnc,15910-gdal
+util.h,util.h,\common\rfb\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,75,411,14
+util.h,util.h,\tests\perf\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,15,411,1
+Image.h,Image.h,\unix\x0vncserver\Image.h,\gdal\frmts\mrf\libLERC\Image.h,69,45,7

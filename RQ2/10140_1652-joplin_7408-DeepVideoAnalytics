@@ -1,0 +1,6 @@
+1652-joplin,7408-DeepVideoAnalytics
+app.js,app.js,\CliClient\app\app.js,\server\dvaapp\static\app\app.js,357,180,25
+app.js,app.js,\CliClient\app\app.js,\server\dvaapp\static\dist\js\app.js,357,470,71
+app.js,app.js,\ElectronClient\app\app.js,\server\dvaapp\static\app\app.js,1144,180,34
+app.js,app.js,\ElectronClient\app\app.js,\server\dvaapp\static\dist\js\app.js,1144,470,119
+config.js,config.js,\ReactNativeClient\lib\components\screens\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,471,21,1

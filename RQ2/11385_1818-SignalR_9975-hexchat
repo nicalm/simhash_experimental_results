@@ -1,0 +1,15 @@
+1818-SignalR,9975-hexchat
+Program.cs,Program.cs,\samples\Microsoft.AspNet.SelfHost.Samples\Program.cs,\src\htm\Program.cs,17,18,8
+Program.cs,Program.cs,\samples\Microsoft.AspNet.SignalR.Client.Samples\Program.cs,\src\htm\Program.cs,25,18,8
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Client\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,244,33,20
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Core\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,292,33,30
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Redis\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,48,33,30
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.SqlServer\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,43,33,31
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.StackExchangeRedis\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,48,33,30
+Program.cs,Program.cs,\src\Microsoft.AspNet.SignalR.Stress\Program.cs,\src\htm\Program.cs,115,18,8
+Program.cs,Program.cs,\src\Microsoft.AspNet.SignalR.Utils\Program.cs,\src\htm\Program.cs,104,18,9
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Utils\Resources.Designer.cs,\src\htm\Properties\Resources.Designer.cs,167,33,22
+Program.cs,Program.cs,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\Program.cs,\src\htm\Program.cs,78,18,7
+Program.cs,Program.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.TestHost\Program.cs,\src\htm\Program.cs,27,18,8
+AssemblyInfo.cs,AssemblyInfo.cs,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,16,18,10
+AssemblyInfo.cs,AssemblyInfo.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.Tests\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,17,18,9

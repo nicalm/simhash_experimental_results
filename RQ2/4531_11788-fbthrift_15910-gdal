@@ -1,0 +1,14 @@
+11788-fbthrift,15910-gdal
+util.h,util.h,\thrift\compiler\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,91,411,19
+setup.py,setup.py,\thrift\lib\py\setup.py,\gdal\swig\python\setup.py,54,329,6
+setup.py,setup.py,\thrift\lib\py3\setup.py,\gdal\swig\python\setup.py,29,329,3
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\gdal\swig\python\osgeo\__init__.py,44,40,2
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,25,411,5
+util.h,util.h,\thrift\compiler\lib\java\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,17,411,6
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,29,411,9
+meta.h,meta.h,\thrift\lib\cpp2\detail\meta.h,\gdal\frmts\grib\degrib\degrib\meta.h,37,411,2
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,58,56,2
+merge.h,merge.h,\thrift\lib\cpp2\reflection\merge.h,\gdal\alg\internal_libqhull\merge.h,20,89,0
+reflection.h,reflection.h,\thrift\lib\cpp2\reflection\reflection.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\reflection.h,688,291,64
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\gdal\swig\python\osgeo\__init__.py,108,40,1
+AssemblyInfo.cs,AssemblyInfo.cs,\thrift\test\csharp\ThriftTest\Properties\AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,15,19,6

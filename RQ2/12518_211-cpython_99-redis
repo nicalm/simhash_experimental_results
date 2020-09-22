@@ -1,0 +1,7 @@
+211-cpython,99-redis
+object.c,object.c,\Objects\object.c,\src\object.c,1792,1083,181
+config.c,config.c,\PC\config.c,\src\config.c,142,1807,3
+module.c,module.c,\Modules\_sqlite\module.c,\src\module.c,367,2942,72
+util.c,util.c,\Modules\_sqlite\util.c,\src\util.c,93,590,23
+util.h,util.h,\Modules\_sqlite\util.h,\src\util.h,16,24,2
+util.h,util.h,\Modules\_sqlite\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,16,42,3

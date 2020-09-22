@@ -1,0 +1,6 @@
+464-gentelella,67679-k8s-multicluster-ingress
+karma.conf.js,karma.conf.js,\vendors\Flot\karma.conf.js,\vendor\golang.org\x\tools\cmd\heapview\client\testing\karma.conf.js,94,18,1
+karma.conf.js,karma.conf.js,\vendors\bootstrap\js\tests\karma.conf.js,\vendor\golang.org\x\tools\cmd\heapview\client\testing\karma.conf.js,125,18,1
+script.js,script.js,\vendors\jquery\src\ajax\script.js,\vendor\k8s.io\kubernetes\examples\guestbook-go\public\script.js,57,39,6
+dir.js,dir.js,\vendors\jquery\src\traversing\var\dir.js,\vendor\golang.org\x\tools\cmd\present\static\dir.js,17,32,3
+script.js,script.js,\vendors\parsleyjs\bower_components\jquery\src\ajax\script.js,\vendor\k8s.io\kubernetes\examples\guestbook-go\public\script.js,56,39,6

@@ -1,0 +1,7 @@
+10395-jitsi,132-retrofit
+Contact.java,Contact.java,\src\net\java\sip\communicator\service\protocol\Contact.java,\retrofit-converters\jaxb\src\test\java\retrofit2\converter\jaxb\Contact.java,22,29,1
+Result.java,Result.java,\src\net\java\sip\communicator\impl\protocol\irc\Result.java,\retrofit-adapters\rxjava\src\main\java\retrofit2\adapter\rxjava\Result.java,46,37,9
+Result.java,Result.java,\src\net\java\sip\communicator\impl\protocol\irc\Result.java,\retrofit-adapters\rxjava2\src\main\java\retrofit2\adapter\rxjava2\Result.java,46,31,7
+Utils.java,Utils.java,\src\net\java\sip\communicator\impl\protocol\irc\Utils.java,\retrofit\src\main\java\retrofit2\Utils.java,140,388,27
+ResultTest.java,ResultTest.java,\test\net\java\sip\communicator\impl\protocol\irc\ResultTest.java,\retrofit-adapters\rxjava\src\test\java\retrofit2\adapter\rxjava\ResultTest.java,62,39,7
+ResultTest.java,ResultTest.java,\test\net\java\sip\communicator\impl\protocol\irc\ResultTest.java,\retrofit-adapters\rxjava2\src\test\java\retrofit2\adapter\rxjava2\ResultTest.java,62,38,7

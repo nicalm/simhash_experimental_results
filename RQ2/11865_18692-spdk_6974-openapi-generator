@@ -1,0 +1,17 @@
+18692-spdk,6974-openapi-generator
+client.py,client.py,\scripts\rpc\client.py,\samples\client\petstore\python\petstore_api\models\client.py,136,57,2
+client.py,client.py,\scripts\rpc\client.py,\samples\client\petstore\python-asyncio\petstore_api\models\client.py,136,57,2
+client.py,client.py,\scripts\rpc\client.py,\samples\client\petstore\python-experimental\petstore_api\models\client.py,136,57,3
+client.py,client.py,\scripts\rpc\client.py,\samples\client\petstore\python-tornado\petstore_api\models\client.py,136,57,2
+client.py,client.py,\scripts\rpc\client.py,\samples\openapi3\client\petstore\python\petstore_api\models\client.py,136,57,2
+client.py,client.py,\scripts\rpc\client.py,\samples\openapi3\client\petstore\python-experimental\petstore_api\models\client.py,136,57,3
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python\petstore_api\__init__.py,116,63,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python-asyncio\petstore_api\__init__.py,116,63,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python-experimental\petstore_api\__init__.py,116,77,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python-tornado\petstore_api\__init__.py,116,63,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python\petstore_api\models\__init__.py,116,49,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python-asyncio\petstore_api\models\__init__.py,116,49,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\client\petstore\python-tornado\petstore_api\models\__init__.py,116,49,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\openapi3\client\petstore\python\petstore_api\__init__.py,116,65,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\openapi3\client\petstore\python-experimental\petstore_api\__init__.py,116,78,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\samples\openapi3\client\petstore\python\petstore_api\models\__init__.py,116,50,0

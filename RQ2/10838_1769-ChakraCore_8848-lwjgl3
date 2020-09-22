@@ -1,0 +1,5 @@
+1769-ChakraCore,8848-lwjgl3
+Common.h,Common.h,\lib\Common\Common.h,\modules\lwjgl\driftfx\src\main\c\include\DriftFX\Common.h,115,27,8
+error.h,error.h,\lib\wabt\src\error.h,\modules\lwjgl\tootle\src\main\c\error.h,32,53,1
+event.cpp,event.cpp,\pal\src\synchobj\event.cpp,\modules\lwjgl\yoga\src\main\c\event\event.cpp,366,68,12
+debug.h,debug.h,\pal\src\include\pal\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,18,39,4

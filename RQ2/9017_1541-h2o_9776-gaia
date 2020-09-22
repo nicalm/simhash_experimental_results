@@ -1,0 +1,9 @@
+1541-h2o,9776-gaia
+setup.py,setup.py,\deps\brotli\setup.py,\tests\python\gaia-ui-tests\setup.py,237,47,4
+setup.py,setup.py,\deps\brotli\setup.py,\tests\python\gaia-unit-tests\setup.py,237,25,2
+setup.py,setup.py,\deps\brotli\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,237,16,1
+setup.py,setup.py,\deps\brotli\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,237,29,5
+setup.py,setup.py,\deps\brotli\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,237,148,0
+conf.py,conf.py,\deps\picotls\deps\cifra\doc\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,35,38,20
+merge.py,merge.py,\deps\picotls\deps\cifra\src\arm\merge.py,\tests\python\gaia-ui-tests\gaiatest\apps\contacts\regions\merge.py,22,18,0
+report.py,report.py,\deps\picotls\deps\cifra\src\arm\report.py,\tests\python\gaia-ui-tests\gaiatest\apps\messages\regions\report.py,197,30,0

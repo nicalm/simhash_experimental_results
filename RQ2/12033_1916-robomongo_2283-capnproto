@@ -1,0 +1,7 @@
+1916-robomongo,2283-capnproto
+json.h,json.h,\src\robomongo\shell\bson\json.h,\c++\src\capnp\compat\json.h,90,317,14
+parser.h,parser.h,\src\third-party\qjson\sources\src\parser.h,\c++\src\capnp\compiler\parser.h,26,69,4
+json.h,json.h,\trash\src\robomongo\shell\db\json.h,\c++\src\capnp\compat\json.h,64,317,10
+gtest.h,gtest.h,\trash\tests\gtest-1.7.0\fused-src\gtest\gtest.h,\c++\src\kj\compat\gtest.h,13408,72,16
+gtest.h,gtest.h,\trash\tests\gtest-1.7.0\include\gtest\gtest.h,\c++\src\kj\compat\gtest.h,886,72,14
+gtest.h,gtest.h,\src\third-party\googletest-1.8.1\googletest\include\gtest\gtest.h,\c++\src\kj\compat\gtest.h,903,72,14

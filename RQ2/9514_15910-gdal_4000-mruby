@@ -1,0 +1,9 @@
+15910-gdal,4000-mruby
+io.c,io.c,\gdal\alg\internal_libqhull\io.c,\mrbgems\mruby-io\src\io.c,2883,1155,208
+io.h,io.h,\gdal\alg\internal_libqhull\io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,92,28,2
+random.c,random.c,\gdal\alg\internal_libqhull\random.c,\mrbgems\mruby-random\src\random.c,133,294,21
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\mrbgems\mruby-io\src\file.c,22,449,9
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\include\mruby\hash.h,91,42,2
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\src\debug.c,74,175,12
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\include\mruby\debug.h,56,38,1
+io.h,io.h,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,104,28,3

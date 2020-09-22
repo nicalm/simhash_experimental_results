@@ -1,0 +1,10 @@
+15760-bfgminer,4266-webkit
+logging.h,logging.h,\logging.h,\PerformanceTests\StitchMarker\folly\glog\src\glog\logging.h,133,775,13
+logging.h,logging.h,\logging.h,\Source\ThirdParty\libwebrtc\Source\webrtc\rtc_base\logging.h,133,388,6
+logging.h,logging.h,\logging.h,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\src\google\protobuf\stubs\logging.h,133,139,5
+util.c,util.c,\util.c,\Source\ThirdParty\libwebrtc\Source\third_party\libsrtp\test\util.c,3540,141,34
+util.h,util.h,\util.h,\Source\ThirdParty\ANGLE\src\compiler\translator\util.h,687,52,5
+util.h,util.h,\util.h,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\util.h,687,95,14
+util.h,util.h,\util.h,\Source\ThirdParty\libwebrtc\Source\third_party\gflags\src\src\util.h,687,258,44
+util.h,util.h,\util.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\test\util.h,687,29,5
+scrypt.c,scrypt.c,\malgo\scrypt.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\evp\scrypt.c,459,132,21

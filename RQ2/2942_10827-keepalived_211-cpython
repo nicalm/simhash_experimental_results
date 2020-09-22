@@ -1,0 +1,7 @@
+10827-keepalived,211-cpython
+main.c,main.c,\genhash\main.c,\Modules\main.c,263,529,43
+parser.c,parser.c,\lib\parser.c,\Parser\parser.c,1624,336,94
+parser.h,parser.h,\lib\parser.h,\Parser\parser.h,87,37,5
+warnings.h,warnings.h,\lib\warnings.h,\Include\warnings.h,68,57,9
+conf.py,conf.py,\doc\source\conf.py,\Doc\conf.py,35,104,7
+main.c,main.c,\keepalived\core\main.c,\Modules\main.c,1950,529,160

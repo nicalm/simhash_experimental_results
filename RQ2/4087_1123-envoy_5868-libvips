@@ -1,0 +1,7 @@
+1123-envoy,5868-libvips
+histogram.h,histogram.h,\include\envoy\stats\histogram.h,\libvips\include\vips\histogram.h,47,37,1
+sink.h,sink.h,\include\envoy\stats\sink.h,\libvips\iofuncs\sink.h,29,24,1
+thread.h,thread.h,\include\envoy\thread\thread.h,\libvips\include\vips\thread.h,44,16,1
+thread.h,thread.h,\source\common\common\thread.h,\libvips\include\vips\thread.h,40,16,1
+stream.h,stream.h,\test\mocks\http\stream.h,\libvips\include\vips\stream.h,31,184,1
+util.h,util.h,\source\extensions\tracers\zipkin\util.h,\libvips\include\vips\util.h,28,230,1

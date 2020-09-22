@@ -1,0 +1,16 @@
+211-cpython,551-FFmpeg
+eval.h,eval.h,\Include\eval.h,\libavutil\eval.h,29,20,1
+parser.c,parser.c,\Parser\parser.c,\libavcodec\parser.c,336,259,50
+parser.h,parser.h,\Parser\parser.h,\libavcodec\parser.h,37,21,1
+getopt.c,getopt.c,\Python\getopt.c,\compat\getopt.c,113,48,10
+internal.h,internal.h,\Modules\expat\internal.h,\libavcodec\internal.h,44,148,6
+internal.h,internal.h,\Modules\expat\internal.h,\libavfilter\internal.h,44,107,2
+internal.h,internal.h,\Modules\expat\internal.h,\libavformat\internal.h,44,193,7
+internal.h,internal.h,\Modules\expat\internal.h,\libavresample\internal.h,44,78,1
+internal.h,internal.h,\Modules\expat\internal.h,\libavutil\internal.h,44,209,16
+cache.c,cache.c,\Modules\_sqlite\cache.c,\libavformat\cache.c,273,262,41
+constants.c,constants.c,\Modules\_decimal\libmpdec\constants.c,\libavcodec\mips\constants.c,74,43,1
+constants.c,constants.c,\Modules\_decimal\libmpdec\constants.c,\libavcodec\x86\constants.c,74,70,1
+constants.h,constants.h,\Modules\_decimal\libmpdec\constants.h,\libavcodec\mips\constants.h,39,44,1
+constants.h,constants.h,\Modules\_decimal\libmpdec\constants.h,\libavcodec\x86\constants.h,39,45,1
+transpose.h,transpose.h,\Modules\_decimal\libmpdec\transpose.h,\libavfilter\transpose.h,18,27,1

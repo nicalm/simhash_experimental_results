@@ -1,0 +1,7 @@
+12658-Espruino,15780-OpenJK
+config.h,config.h,\libs\crypto\mbedtls\config.h,\code\mp3code\config.h,60,74,4
+config.h,config.h,\libs\crypto\mbedtls\config.h,\codemp\mp3code\config.h,60,74,4
+md5.h,md5.h,\libs\crypto\mbedtls\include\mbedtls\md5.h,\codemp\qcommon\md5.h,43,21,0
+timing.h,timing.h,\libs\crypto\mbedtls\include\mbedtls\timing.h,\code\qcommon\timing.h,44,37,10
+timing.h,timing.h,\libs\crypto\mbedtls\include\mbedtls\timing.h,\codemp\qcommon\timing.h,44,37,10
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\lib\zlib\crc32.c,19,285,8

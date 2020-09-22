@@ -1,0 +1,9 @@
+11788-fbthrift,1818-SignalR
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\samples\Microsoft.AspNet.SelfHost.Samples\Program.cs,35,17,10
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\samples\Microsoft.AspNet.SignalR.Client.Samples\Program.cs,35,25,9
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\src\Microsoft.AspNet.SignalR.Stress\Program.cs,35,115,19
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\src\Microsoft.AspNet.SignalR.Utils\Program.cs,35,104,19
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\Program.cs,35,78,18
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.TestHost\Program.cs,35,27,14
+AssemblyInfo.cs,AssemblyInfo.cs,\thrift\test\csharp\ThriftTest\Properties\AssemblyInfo.cs,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Properties\AssemblyInfo.cs,15,16,10
+AssemblyInfo.cs,AssemblyInfo.cs,\thrift\test\csharp\ThriftTest\Properties\AssemblyInfo.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.Tests\Properties\AssemblyInfo.cs,15,17,10

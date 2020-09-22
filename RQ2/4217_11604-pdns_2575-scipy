@@ -1,0 +1,7 @@
+11604-pdns,2575-scipy
+conf.py,conf.py,\docs\conf.py,\doc\source\conf.py,82,237,12
+runtests.py,runtests.py,\regression-tests.api\runtests.py,\runtests.py,138,355,12
+test_helper.py,test_helper.py,\regression-tests.api\test_helper.py,\scipy\fft\tests\test_helper.py,78,223,1
+test_helper.py,test_helper.py,\regression-tests.api\test_helper.py,\scipy\fftpack\tests\test_helper.py,78,37,0
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\doc\source\conf.py,48,237,10
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\doc\source\conf.py,52,237,11

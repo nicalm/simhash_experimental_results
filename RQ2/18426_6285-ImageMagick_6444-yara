@@ -1,0 +1,7 @@
+6285-ImageMagick,6444-yara
+blob.h,blob.h,\MagickCore\blob.h,\tests\blob.h,66,2709,0
+exception.h,exception.h,\MagickCore\exception.h,\libyara\exception.h,136,115,6
+magic.c,magic.c,\MagickCore\magic.c,\libyara\modules\magic\magic.c,451,106,29
+stream.c,stream.c,\MagickCore\stream.c,\libyara\stream.c,2062,22,4
+stream.h,stream.h,\MagickCore\stream.h,\libyara\include\yara\stream.h,26,30,1
+stream.c,stream.c,\MagickWand\stream.c,\libyara\stream.c,635,22,4

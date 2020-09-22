@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,60276-esp-homekit-devices
+test.c,test.c,\depends\hiredis\test.c,\external_libs\cJSON\cJSON\test.c,570,189,29
+test.c,test.c,\depends\hiredis\test.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,570,12558,43
+test.c,test.c,\depends\hiredis\test.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,570,12558,43

@@ -1,0 +1,5 @@
+10081-irssi,2909-mongoose
+server.c,server.c,\src\fe-fuzz\server.c,\examples\connected_device_1\server.c,124,31,7
+server.c,server.c,\src\fe-fuzz\server.c,\examples\connected_device_2\server.c,124,62,11
+server.c,server.c,\src\fe-fuzz\server.c,\examples\connected_device_3\server.c,124,70,11
+server.c,server.c,\src\fe-fuzz\server.c,\examples\connected_device_4\server.c,124,85,11

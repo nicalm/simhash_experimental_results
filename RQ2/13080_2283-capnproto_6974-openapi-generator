@@ -1,0 +1,4 @@
+2283-capnproto,6974-openapi-generator
+main.js,main.js,\doc\javascripts\main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,175,62,13
+main.js,main.js,\doc\javascripts\main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,175,62,13
+list.h,list.h,\c++\src\capnp\list.h,\samples\client\petstore\c\include\list.h,398,28,2

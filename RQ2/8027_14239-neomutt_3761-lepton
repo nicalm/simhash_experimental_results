@@ -1,0 +1,11 @@
+14239-neomutt,3761-lepton
+compress.c,compress.c,\compress.c,\dependencies\zlib\compress.c,537,47,7
+context.h,context.h,\context.h,\dependencies\brotli\c\dec\context.h,40,130,4
+context.h,context.h,\context.h,\dependencies\brotli\c\enc\context.h,40,84,3
+state.c,state.c,\state.c,\dependencies\brotli\c\dec\state.c,92,138,10
+state.h,state.h,\state.h,\dependencies\brotli\c\dec\state.h,35,187,2
+types.h,types.h,\config\types.h,\dependencies\brotli\c\include\brotli\types.h,48,31,2
+hash.h,hash.h,\mutt\hash.h,\dependencies\brotli\c\enc\hash.h,53,345,2
+md5.c,md5.c,\mutt\md5.c,\dependencies\md5\md5.c,260,211,18
+md5.h,md5.h,\mutt\md5.h,\dependencies\md5\md5.h,23,21,2
+memory.c,memory.c,\mutt\memory.c,\dependencies\brotli\c\enc\memory.c,63,147,12

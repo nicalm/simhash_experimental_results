@@ -1,0 +1,10 @@
+3405-libevent,551-FFmpeg
+buffer.c,buffer.c,\buffer.c,\libavutil\buffer.c,2732,258,66
+http.c,http.c,\http.c,\libavformat\http.c,4015,1569,277
+log.c,log.c,\log.c,\libavutil\log.c,172,360,42
+log.c,log.c,\log.c,\libavutil\tests\log.c,172,47,12
+getopt.c,getopt.c,\WIN32-Code\getopt.c,\compat\getopt.c,96,48,11
+tree.h,tree.h,\WIN32-Code\tree.h,\libavutil\tree.h,580,17,1
+buffer.h,buffer.h,\include\event2\buffer.h,\libavutil\buffer.h,208,32,1
+thread.h,thread.h,\include\event2\thread.h,\libavcodec\thread.h,65,29,1
+thread.h,thread.h,\include\event2\thread.h,\libavutil\thread.h,65,121,5

@@ -1,0 +1,4 @@
+10081-irssi,10205-firejail
+common.h,common.h,\src\common.h,\src\include\common.h,81,89,9
+network.c,network.c,\src\core\network.c,\src\faudit\network.c,414,65,11
+network.c,network.c,\src\core\network.c,\src\firejail\network.c,414,214,32

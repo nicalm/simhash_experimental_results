@@ -1,0 +1,9 @@
+10572-Openfire,506-ghidra
+GraphicsUtils.java,GraphicsUtils.java,\xmppserver\src\main\java\org\jivesoftware\util\GraphicsUtils.java,\Ghidra\Framework\Docking\src\main\java\docking\util\GraphicsUtils.java,31,22,6
+Version.java,Version.java,\xmppserver\src\main\java\org\jivesoftware\util\Version.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\store\Version.java,173,45,9
+PluginManager.java,PluginManager.java,\xmppserver\src\main\java\org\jivesoftware\openfire\container\PluginManager.java,\Ghidra\Framework\Project\src\main\java\ghidra\framework\plugintool\PluginManager.java,816,504,151
+Node.java,Node.java,\xmppserver\src\main\java\org\jivesoftware\openfire\pubsub\Node.java,\Ghidra\Framework\Docking\src\main\java\docking\Node.java,1195,73,19
+User.java,User.java,\xmppserver\src\main\java\org\jivesoftware\openfire\user\User.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\remote\User.java,365,86,27
+UserManager.java,UserManager.java,\xmppserver\src\main\java\org\jivesoftware\openfire\user\UserManager.java,\Ghidra\Features\GhidraServer\src\main\java\ghidra\server\UserManager.java,293,507,76
+PluginManagerTest.java,PluginManagerTest.java,\xmppserver\src\test\java\org\jivesoftware\openfire\container\PluginManagerTest.java,\Ghidra\Test\IntegrationTest\src\test.slow\java\ghidra\framework\plugintool\PluginManagerTest.java,25,210,5
+User.java,User.java,\xmppserver\src\main\java\org\jivesoftware\openfire\crowd\jaxb\User.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\remote\User.java,22,86,3

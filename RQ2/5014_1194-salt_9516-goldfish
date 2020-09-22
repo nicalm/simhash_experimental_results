@@ -1,0 +1,5 @@
+1194-salt,9516-goldfish
+test.py,test.py,\salt\engines\test.py,\vendor\github.com\ugorji\go\codec\test.py,27,98,1
+test.py,test.py,\salt\modules\test.py,\vendor\github.com\ugorji\go\codec\test.py,222,98,1
+test.py,test.py,\salt\runners\test.py,\vendor\github.com\ugorji\go\codec\test.py,40,98,0
+test.py,test.py,\salt\states\test.py,\vendor\github.com\ugorji\go\codec\test.py,215,98,1

@@ -1,0 +1,9 @@
+13956-dolibarr,1652-joplin
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\CliClient\app\main.js,75,64,8
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\ElectronClient\app\main.js,75,33,4
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\ReactNativeClient\locales\index.js,40,71,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\Clipper\joplin-webclipper\content_scripts\index.js,40,352,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\ElectronClient\app\locales\index.js,40,71,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\Clipper\joplin-webclipper\popup\src\index.js,40,82,5
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\ReactNativeClient\lib\components\screens\config.js,72,471,2
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\ReactNativeClient\lib\components\screens\config.js,72,471,2

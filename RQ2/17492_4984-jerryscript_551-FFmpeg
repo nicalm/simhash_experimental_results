@@ -1,0 +1,5 @@
+4984-jerryscript,551-FFmpeg
+config.h,config.h,\jerry-core\config.h,\compat\avisynth\avs\config.h,338,25,5
+log.c,log.c,\jerry-libm\log.c,\libavutil\log.c,117,360,34
+log.c,log.c,\jerry-libm\log.c,\libavutil\tests\log.c,117,47,11
+common.h,common.h,\jerry-core\parser\js\common.h,\libavutil\common.h,78,288,22

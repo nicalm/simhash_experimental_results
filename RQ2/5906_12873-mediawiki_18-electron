@@ -1,0 +1,16 @@
+12873-mediawiki,18-electron
+index.js,index.js,\resources\src\mediawiki.api\index.js,\npm\index.js,237,15,4
+index.js,index.js,\resources\src\mediawiki.api\index.js,\spec-main\index.js,237,75,7
+index.js,index.js,\resources\src\mediawiki.api\index.js,\script\release\notes\index.js,237,149,28
+index.js,index.js,\resources\src\mediawiki.api\index.js,\spec\fixtures\auto-update\check\index.js,237,17,1
+index.js,index.js,\resources\src\mediawiki.api\index.js,\spec\fixtures\auto-update\update\index.js,237,33,3
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\npm\index.js,51,15,3
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\spec-main\index.js,51,75,6
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\script\release\notes\index.js,51,149,8
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\spec\fixtures\auto-update\check\index.js,51,17,0
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\spec\fixtures\auto-update\update\index.js,51,33,1
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\npm\index.js,15,15,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\spec-main\index.js,15,75,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\script\release\notes\index.js,15,149,3
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\spec\fixtures\auto-update\check\index.js,15,17,0
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\spec\fixtures\auto-update\update\index.js,15,33,1

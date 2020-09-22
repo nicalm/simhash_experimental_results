@@ -1,0 +1,6 @@
+12758-znc,4420-zcash
+main.cpp,main.cpp,\src\main.cpp,\src\main.cpp,445,4730,73
+main.cpp,main.cpp,\src\main.cpp,\src\gtest\main.cpp,445,42,4
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\src\main.cpp,35,4730,6
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\src\gtest\main.cpp,35,42,2
+main.h,main.h,\include\znc\main.h,\src\main.h,103,252,1

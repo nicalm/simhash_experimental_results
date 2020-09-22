@@ -1,0 +1,14 @@
+10827-keepalived,2116-libgit2
+http.c,http.c,\genhash\http.c,\src\transports\http.c,272,1182,40
+main.c,main.c,\genhash\main.c,\tests\main.c,263,29,6
+list.c,list.c,\lib\list.c,\tests\refs\list.c,225,30,8
+list.c,list.c,\lib\list.c,\tests\remote\list.c,225,31,6
+list.c,list.c,\lib\list.c,\tests\object\tag\list.c,225,75,20
+memory.c,memory.c,\lib\memory.c,\tests\config\memory.c,545,116,29
+notify.c,notify.c,\lib\notify.c,\tests\diff\notify.c,885,212,32
+vector.c,vector.c,\lib\vector.c,\src\vector.c,239,305,64
+vector.c,vector.c,\lib\vector.c,\tests\core\vector.c,239,325,48
+vector.h,vector.h,\lib\vector.h,\src\vector.h,42,78,1
+hash.h,hash.h,\genhash\include\hash.h,\src\hash.h,34,28,3
+main.c,main.c,\keepalived\core\main.c,\tests\main.c,1950,29,6
+namespaces.c,namespaces.c,\keepalived\core\namespaces.c,\tests\refs\namespaces.c,115,27,8

@@ -1,0 +1,3 @@
+15439-ettercap,18309-tor
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\src\ext\strlcat.c,29,28,23
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\src\ext\strlcpy.c,23,22,18

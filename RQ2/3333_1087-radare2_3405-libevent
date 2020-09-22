@@ -1,0 +1,11 @@
+1087-radare2,3405-libevent
+signal.c,signal.c,\libr\debug\signal.c,\signal.c,143,348,27
+http.c,http.c,\libr\socket\http.c,\http.c,204,4015,60
+event.c,event.c,\libr\util\event.c,\event.c,108,3093,31
+getopt.c,getopt.c,\libr\util\getopt.c,\WIN32-Code\getopt.c,70,96,23
+log.c,log.c,\libr\util\log.c,\log.c,100,172,20
+signal.c,signal.c,\libr\util\signal.c,\signal.c,69,348,13
+buffer.h,buffer.h,\libr\include\sdb\buffer.h,\include\event2\buffer.h,43,208,1
+buffer.c,buffer.c,\shlr\sdb\src\buffer.c,\buffer.c,50,2732,19
+buffer.h,buffer.h,\shlr\sdb\src\buffer.h,\include\event2\buffer.h,43,208,1
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\include\event2\util.h,256,462,44

@@ -1,0 +1,15 @@
+242-php-src,5868-libvips
+text.c,text.c,\ext\dom\text.c,\libvips\create\text.c,124,358,27
+exif.c,exif.c,\ext\exif\exif.c,\libvips\foreign\exif.c,3867,937,193
+stream.c,stream.c,\ext\phar\stream.c,\libvips\iofuncs\stream.c,779,82,15
+util.c,util.c,\ext\phar\util.c,\libvips\iofuncs\util.c,1635,1294,199
+base64.c,base64.c,\ext\standard\base64.c,\libvips\iofuncs\base64.c,715,162,35
+image.c,image.c,\ext\standard\image.c,\libvips\iofuncs\image.c,1164,1986,240
+math.c,math.c,\ext\standard\math.c,\libvips\arithmetic\math.c,820,240,40
+type.c,type.c,\ext\standard\type.c,\libvips\iofuncs\type.c,274,990,64
+cast.c,cast.c,\main\streams\cast.c,\libvips\conversion\cast.c,273,457,49
+memory.c,memory.c,\main\streams\memory.c,\libvips\iofuncs\memory.c,589,199,32
+buffer.c,buffer.c,\ext\fileinfo\libmagic\buffer.c,\libvips\iofuncs\buffer.c,58,447,14
+base64.c,base64.c,\ext\xmlrpc\libxmlrpc\base64.c,\libvips\iofuncs\base64.c,140,162,28
+add.c,add.c,\ext\bcmath\libbcmath\src\add.c,\libvips\arithmetic\add.c,42,88,11
+init.c,init.c,\ext\bcmath\libbcmath\src\init.c,\libvips\iofuncs\init.c,59,636,18

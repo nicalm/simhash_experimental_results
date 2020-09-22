@@ -1,0 +1,15 @@
+1541-h2o,9012-libpod
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\containers\ocicrypt\reader.go,103,19,7
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\ulikunitz\xz\reader.go,103,298,33
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\ulikunitz\xz\lzma\reader.go,103,67,26
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\Microsoft\go-winio\archive\tar\reader.go,103,714,31
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\pquerna\ffjson\fflib\v1\reader.go,103,439,27
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\vbatts\tar-split\archive\tar\reader.go,103,675,32
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\golang.org\x\crypto\openpgp\packet\reader.go,103,47,19
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\sirupsen\logrus\writer.go,84,53,12
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\ulikunitz\xz\writer.go,84,301,30
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\ulikunitz\xz\lzma\writer.go,84,160,30
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\Microsoft\go-winio\archive\tar\writer.go,84,316,29
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\onsi\ginkgo\internal\writer\writer.go,84,76,22
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\vbatts\tar-split\archive\tar\writer.go,84,430,28
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\vbauerster\mpb\v4\cwriter\writer.go,84,50,17

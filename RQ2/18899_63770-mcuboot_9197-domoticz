@@ -1,0 +1,3 @@
+63770-mcuboot,9197-domoticz
+config.h,config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,\json\config.h,24,123,4
+aes.h,aes.h,\ext\tinycrypt\lib\include\tinycrypt\aes.h,\hardware\openzwave\aes\aes.h,24,109,4

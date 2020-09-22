@@ -1,0 +1,10 @@
+1366-gradle,464-gentelella
+script.js,script.js,\subprojects\docs\src\docs\js\javadoc\script.js,\vendors\jquery\src\ajax\script.js,136,57,13
+script.js,script.js,\subprojects\docs\src\docs\js\javadoc\script.js,\vendors\parsleyjs\bower_components\jquery\src\ajax\script.js,136,56,13
+search.js,search.js,\subprojects\docs\src\docs\js\javadoc\search.js,\vendors\select2\src\js\select2\dropdown\search.js,299,73,15
+search.js,search.js,\subprojects\docs\src\docs\js\javadoc\search.js,\vendors\select2\src\js\select2\selection\search.js,299,147,26
+search.js,search.js,\subprojects\docs\src\docs\js\javadoc\search.js,\vendors\bootstrap\site\docs\4.3\assets\js\src\search.js,299,38,6
+script.js,script.js,\subprojects\docs\src\docs\release\content\script.js,\vendors\jquery\src\ajax\script.js,64,57,13
+script.js,script.js,\subprojects\docs\src\docs\release\content\script.js,\vendors\parsleyjs\bower_components\jquery\src\ajax\script.js,64,56,13
+script.js,script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,\vendors\jquery\src\ajax\script.js,164,57,17
+script.js,script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,\vendors\parsleyjs\bower_components\jquery\src\ajax\script.js,164,56,17

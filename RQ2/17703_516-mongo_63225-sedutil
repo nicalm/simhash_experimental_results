@@ -1,0 +1,8 @@
+516-mongo,63225-sedutil
+log.h,log.h,\src\mongo\logv2\log.h,\Common\log.h,138,279,5
+log.h,log.h,\src\mongo\util\log.h,\Common\log.h,119,279,18
+log.h,log.h,\src\third_party\benchmark-1.4.1\benchmark\src\log.h,\Common\log.h,56,279,14
+os.h,os.h,\src\third_party\boost-1.70.0\boost\predef\os.h,\windows\os.h,23,17,0
+sha1.c,sha1.c,\src\third_party\tomcrypt-1.18.2\src\hashes\sha1.c,\Common\pbkdf2\sha1.c,186,103,15
+log.h,log.h,\src\third_party\wiredtiger\src\include\log.h,\Common\log.h,218,279,15
+os.h,os.h,\src\third_party\wiredtiger\src\include\os.h,\windows\os.h,106,17,0

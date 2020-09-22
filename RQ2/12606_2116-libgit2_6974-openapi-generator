@@ -1,0 +1,12 @@
+2116-libgit2,6974-openapi-generator
+tag.c,tag.c,\examples\tag.c,\samples\client\petstore\c\model\tag.c,206,67,17
+object.c,object.c,\src\object.c,\samples\client\petstore\c\model\object.c,392,24,5
+object.h,object.h,\src\object.h,\samples\client\petstore\c\model\object.h,43,15,1
+tag.c,tag.c,\src\tag.c,\samples\client\petstore\c\model\tag.c,396,67,18
+tag.h,tag.h,\src\tag.h,\samples\client\petstore\c\model\tag.h,18,20,1
+object.h,object.h,\include\git2\object.h,\samples\client\petstore\c\model\object.h,39,15,1
+tag.h,tag.h,\include\git2\tag.h,\samples\client\petstore\c\model\tag.h,68,20,1
+binary.c,binary.c,\tests\diff\binary.c,\samples\client\petstore\c\src\binary.c,444,55,4
+list.c,list.c,\tests\refs\list.c,\samples\client\petstore\c\src\list.c,30,132,6
+list.c,list.c,\tests\remote\list.c,\samples\client\petstore\c\src\list.c,31,132,5
+list.c,list.c,\tests\object\tag\list.c,\samples\client\petstore\c\src\list.c,75,132,11

@@ -1,0 +1,7 @@
+67701-r-source,8874-collectd
+bind.c,bind.c,\src\main\bind.c,\src\bind.c,1365,1098,159
+match.c,match.c,\src\main\match.c,\src\utils\match\match.c,349,278,42
+memory.c,memory.c,\src\main\memory.c,\src\memory.c,3001,314,44
+df.c,df.c,\src\nmath\df.c,\src\df.c,34,257,7
+pf.c,pf.c,\src\nmath\pf.c,\src\pf.c,28,82,5
+types.h,types.h,\src\extra\xdr\rpc\types.h,\src\libcollectdclient\collectd\types.h,48,48,2

@@ -1,0 +1,10 @@
+2432-jinja,5372-twisted
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,40,57,8
+runtime.py,runtime.py,\jinja2\runtime.py,\src\twisted\python\runtime.py,508,91,11
+utils.py,utils.py,\jinja2\utils.py,\src\twisted\internet\utils.py,349,121,8
+__init__.py,__init__.py,\jinja2\__init__.py,\src\twisted\logger\__init__.py,31,45,2
+__init__.py,__init__.py,\jinja2\__init__.py,\src\twisted\python\__init__.py,31,15,0
+__init__.py,__init__.py,\jinja2\__init__.py,\src\twisted\_threads\__init__.py,31,15,2
+test_loader.py,test_loader.py,\tests\test_loader.py,\src\twisted\trial\test\test_loader.py,294,430,9
+test_runtime.py,test_runtime.py,\tests\test_runtime.py,\src\twisted\python\test\test_runtime.py,41,88,0
+test_tests.py,test_tests.py,\tests\test_tests.py,\src\twisted\trial\test\test_tests.py,178,643,1

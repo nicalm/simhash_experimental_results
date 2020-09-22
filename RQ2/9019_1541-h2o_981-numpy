@@ -1,0 +1,15 @@
+1541-h2o,981-numpy
+setup.py,setup.py,\deps\brotli\setup.py,\setup.py,237,245,8
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\setup.py,237,23,0
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\core\setup.py,237,692,9
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\f2py\setup.py,237,41,4
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\linalg\setup.py,237,51,4
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\random\setup.py,237,107,4
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\testing\setup.py,237,16,0
+setup.py,setup.py,\deps\brotli\setup.py,\tools\swig\test\setup.py,237,50,0
+setup.py,setup.py,\deps\brotli\setup.py,\numpy\random\_examples\cython\setup.py,237,24,4
+common.c,common.c,\lib\http3\common.c,\numpy\core\src\multiarray\common.c,821,698,129
+common.h,common.h,\deps\mruby\include\mruby\common.h,\numpy\core\src\multiarray\common.h,52,192,11
+build.py,build.py,\deps\picotls\deps\cifra\doc\build.py,\numpy\distutils\command\build.py,145,34,0
+conf.py,conf.py,\deps\picotls\deps\cifra\doc\conf.py,\doc\neps\conf.py,35,65,13
+conf.py,conf.py,\deps\picotls\deps\cifra\doc\conf.py,\doc\source\conf.py,35,193,13

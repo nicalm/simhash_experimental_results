@@ -1,0 +1,7 @@
+1769-ChakraCore,4000-mruby
+common.h,common.h,\lib\wabt\src\common.h,\include\mruby\common.h,324,55,3
+error.h,error.h,\lib\wabt\src\error.h,\include\mruby\error.h,32,60,5
+opcode.h,opcode.h,\lib\wabt\src\opcode.h,\include\mruby\opcode.h,96,50,2
+range.h,range.h,\lib\wabt\src\range.h,\include\mruby\range.h,15,49,2
+sprintf.c,sprintf.c,\pal\src\safecrt\sprintf.c,\mrbgems\mruby-sprintf\src\sprintf.c,34,763,6
+debug.h,debug.h,\pal\src\include\pal\debug.h,\include\mruby\debug.h,18,38,1

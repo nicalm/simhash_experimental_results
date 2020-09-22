@@ -1,0 +1,8 @@
+1769-ChakraCore,67701-r-source
+Parse.h,Parse.h,\lib\Parser\Parse.h,\src\include\Parse.h,937,36,3
+Parse.h,Parse.h,\lib\Parser\Parse.h,\src\include\R_ext\Parse.h,937,17,4
+Constants.h,Constants.h,\lib\Runtime\Base\Constants.h,\src\include\R_ext\Constants.h,127,18,3
+internal.h,internal.h,\pal\src\safecrt\internal.h,\src\extra\graphapp\internal.h,712,292,38
+sprintf.c,sprintf.c,\pal\src\safecrt\sprintf.c,\src\main\sprintf.c,34,366,4
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\src\gnuwin32\fixed\h\config.h,247,267,20
+utils.h,utils.h,\pal\src\include\pal\utils.h,\src\library\utils\src\utils.h,23,64,2

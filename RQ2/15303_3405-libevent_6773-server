@@ -1,0 +1,6 @@
+3405-libevent,6773-server
+log-internal.h,log-internal.h,\log-internal.h,\storage\tokudb\PerconaFT\ft\logger\log-internal.h,56,144,1
+getopt.c,getopt.c,\WIN32-Code\getopt.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\lib\getopt.c,96,805,19
+thread.h,thread.h,\include\event2\thread.h,\storage\mroonga\vendor\groonga\include\groonga\thread.h,65,15,6
+util.h,util.h,\include\event2\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,462,22,6
+util.h,util.h,\include\event2\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,462,20,2

@@ -1,0 +1,6 @@
+12658-Espruino,6285-ImageMagick
+log.c,log.c,\targets\esp8266\log.c,\MagickCore\log.c,162,1233,27
+cipher.c,cipher.c,\libs\crypto\mbedtls\library\cipher.c,\MagickCore\cipher.c,632,781,106
+debug.c,debug.c,\libs\crypto\mbedtls\library\debug.c,\coders\debug.c,264,144,18
+version.c,version.c,\libs\crypto\mbedtls\library\version.c,\MagickCore\version.c,23,351,9
+quantize.h,quantize.h,\libs\tensorflow\tensorflow\lite\kernels\internal\reference\quantize.h,\MagickCore\quantize.h,27,47,2

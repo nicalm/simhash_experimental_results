@@ -1,0 +1,6 @@
+1194-salt,18-electron
+config.py,config.py,\salt\modules\config.py,\script\lib\config.py,243,78,2
+git.py,git.py,\salt\modules\git.py,\script\lib\git.py,1898,94,5
+git.py,git.py,\salt\states\git.py,\script\lib\git.py,2329,94,7
+config.py,config.py,\salt\wheel\config.py,\script\lib\config.py,34,78,1
+config.py,config.py,\salt\client\ssh\wrapper\config.py,\script\lib\config.py,134,78,1

@@ -1,0 +1,13 @@
+1193-mpv,9529-ltp
+options.h,options.h,\options\options.h,\src\framework\options.h,314,30,5
+options.h,options.h,\options\options.h,\src\parser\options.h,314,58,5
+options.h,options.h,\options\options.h,\src\parser.n\options.h,314,55,5
+options.h,options.h,\options\options.h,\src\segmentor\options.h,314,16,2
+compiler.h,compiler.h,\osdep\compiler.h,\thirdparty\boost\include\boost\predef\compiler.h,20,34,2
+endian.h,endian.h,\osdep\endian.h,\thirdparty\boost\include\boost\predef\other\endian.h,31,141,9
+io.h,io.h,\osdep\io.h,\src\framework\io.h,147,43,4
+io.h,io.h,\osdep\io.h,\src\ner\io.h,147,37,4
+io.h,io.h,\osdep\io.h,\src\parser.n\io.h,147,28,4
+io.h,io.h,\osdep\io.h,\src\postagger\io.h,147,31,4
+io.h,io.h,\osdep\io.h,\src\segmentor\io.h,147,37,4
+timer.h,timer.h,\osdep\timer.h,\src\srl\include\base\timer.h,15,46,1

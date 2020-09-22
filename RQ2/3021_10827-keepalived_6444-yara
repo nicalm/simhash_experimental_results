@@ -1,0 +1,6 @@
+10827-keepalived,6444-yara
+parser.c,parser.c,\lib\parser.c,\libyara\parser.c,1624,939,174
+parser.h,parser.h,\lib\parser.h,\libyara\include\yara\parser.h,87,79,1
+utils.h,utils.h,\lib\utils.h,\libyara\include\yara\utils.h,177,87,16
+conf.py,conf.py,\doc\source\conf.py,\docs\conf.py,35,35,12
+hash.h,hash.h,\genhash\include\hash.h,\libyara\include\yara\hash.h,34,62,1

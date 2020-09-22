@@ -1,0 +1,10 @@
+461-vim,6285-ImageMagick
+blob.c,blob.c,\src\blob.c,\MagickCore\blob.c,231,3804,73
+channel.c,channel.c,\src\channel.c,\MagickCore\channel.c,5165,993,276
+feature.h,feature.h,\src\feature.h,\MagickCore\feature.h,504,36,3
+json.c,json.c,\src\json.c,\coders\json.c,982,1500,276
+list.c,list.c,\src\list.c,\MagickCore\list.c,1649,652,137
+map.c,map.c,\src\map.c,\coders\map.c,1965,278,44
+option.c,option.c,\src\option.c,\MagickCore\option.c,5384,2676,186
+option.h,option.h,\src\option.h,\MagickCore\option.h,1196,167,5
+version.c,version.c,\src\version.c,\MagickCore\version.c,1339,351,86

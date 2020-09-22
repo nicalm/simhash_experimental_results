@@ -1,0 +1,3 @@
+10395-jitsi,14790-sleuthkit
+Log.h,Log.h,\src\native\windows\msofficecomm\Log.h,\framework\tsk\framework\services\Log.h,26,41,4
+Account.java,Account.java,\src\net\java\sip\communicator\impl\gui\main\account\Account.java,\bindings\java\src\org\sleuthkit\datamodel\Account.java,148,131,22

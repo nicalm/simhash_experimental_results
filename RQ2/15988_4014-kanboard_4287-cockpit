@@ -1,0 +1,9 @@
+4014-kanboard,4287-cockpit
+utils.js,utils.js,\assets\js\core\utils.js,\pkg\networkmanager\utils.js,94,193,17
+utils.js,utils.js,\assets\js\core\utils.js,\pkg\storaged\utils.js,94,577,30
+utils.js,utils.js,\assets\js\core\utils.js,\pkg\machines\components\networks\utils.js,94,110,22
+index.js,index.js,\assets\vendor\text-caret\index.js,\eslint-plugin-cockpit\index.js,94,15,5
+index.js,index.js,\assets\vendor\text-caret\index.js,\pkg\machines\index.js,94,50,7
+index.js,index.js,\assets\vendor\text-caret\index.js,\pkg\playground\index.js,94,28,5
+index.js,index.js,\assets\vendor\text-caret\index.js,\pkg\shell\index.js,94,32,1
+index.js,index.js,\assets\vendor\text-caret\index.js,\pkg\sosreport\index.js,94,136,9

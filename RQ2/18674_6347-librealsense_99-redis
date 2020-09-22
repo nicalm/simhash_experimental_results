@@ -1,0 +1,6 @@
+6347-librealsense,99-redis
+log.h,log.h,\src\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,171,60,5
+stream.h,stream.h,\src\stream.h,\src\stream.h,185,66,0
+config.h,config.h,\src\pipeline\config.h,\src\config.h,54,149,0
+stdint.h,stdint.h,\third-party\glfw\deps\vs2008\stdint.h,\deps\jemalloc\include\msvc_compat\C99\stdint.h,152,152,152
+stream.h,stream.h,\third-party\realsense-file\rosbag\rosbag_storage\include\rosbag\stream.h,\src\stream.h,87,66,1

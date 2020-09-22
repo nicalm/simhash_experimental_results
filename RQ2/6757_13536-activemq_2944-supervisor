@@ -1,0 +1,4 @@
+13536-activemq,2944-supervisor
+listener.py,listener.py,\assembly\src\release\examples\stomp\python\stomppy\listener.py,\supervisor\tests\fixtures\listener.py,37,24,1
+listener.py,listener.py,\assembly\src\release\examples\stomp\python\stompest\async\listener.py,\supervisor\tests\fixtures\listener.py,39,24,2
+listener.py,listener.py,\assembly\src\release\examples\stomp\python\stompest\sync\listener.py,\supervisor\tests\fixtures\listener.py,25,24,1

@@ -1,0 +1,12 @@
+4984-jerryscript,6773-server
+config.h,config.h,\jerry-core\config.h,\storage\mroonga\vendor\groonga\include\groonga\config.h,338,36,2
+config.h,config.h,\jerry-core\config.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\dos\config.h,338,47,0
+config.h,config.h,\jerry-core\config.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\windows\config.h,338,54,3
+setup.py,setup.py,\targets\curie_bsp\setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,129,15,0
+common.c,common.c,\jerry-core\parser\js\common.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.c,76,232,33
+common.h,common.h,\jerry-core\parser\js\common.h,\extra\mariabackup\common.h,78,136,15
+common.h,common.h,\jerry-core\parser\js\common.h,\plugin\win_auth_client\common.h,78,175,16
+common.h,common.h,\jerry-core\parser\js\common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,78,117,8
+handler.h,handler.h,\jerry-ext\include\jerryscript-ext\handler.h,\sql\handler.h,60,2400,8
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\dbug\main.c,130,23,5
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,130,166,28

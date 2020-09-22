@@ -1,0 +1,3 @@
+5868-libvips,754-folly
+error.h,error.h,\libvips\include\vips\error.h,\folly\experimental\pushmi\o\error.h,58,33,1
+transform.h,transform.h,\libvips\include\vips\transform.h,\folly\experimental\pushmi\o\transform.h,34,79,1

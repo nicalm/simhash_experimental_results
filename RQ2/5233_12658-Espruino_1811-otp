@@ -1,0 +1,9 @@
+12658-Espruino,1811-otp
+utils.c,utils.c,\targets\stm32_boot\utils.c,\erts\emulator\beam\utils.c,188,4338,46
+aes.c,aes.c,\libs\crypto\mbedtls\library\aes.c,\lib\crypto\c_src\aes.c,1143,222,16
+cipher.c,cipher.c,\libs\crypto\mbedtls\library\cipher.c,\lib\crypto\c_src\cipher.c,632,256,50
+ecdh.c,ecdh.c,\libs\crypto\mbedtls\library\ecdh.c,\lib\crypto\c_src\ecdh.c,146,56,5
+rsa.c,rsa.c,\libs\crypto\mbedtls\library\rsa.c,\lib\crypto\c_src\rsa.c,1134,208,18
+cipher.h,cipher.h,\libs\crypto\mbedtls\include\mbedtls\cipher.h,\lib\crypto\c_src\cipher.h,245,52,5
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\erts\emulator\zlib\crc32.c,19,289,8
+common.h,common.h,\libs\tensorflow\tensorflow\lite\kernels\internal\common.h,\lib\crypto\c_src\common.h,517,24,2

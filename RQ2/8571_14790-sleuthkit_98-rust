@@ -1,0 +1,4 @@
+14790-sleuthkit,98-rust
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,79,30,5
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,79,196,14
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,79,22,1

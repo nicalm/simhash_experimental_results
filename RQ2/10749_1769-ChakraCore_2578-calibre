@@ -1,0 +1,6 @@
+1769-ChakraCore,2578-calibre
+utils.cpp,utils.cpp,\pal\src\misc\utils.cpp,\src\calibre\utils\podofo\utils.cpp,174,29,5
+utils.cpp,utils.cpp,\pal\src\misc\utils.cpp,\src\calibre\devices\mtp\windows\utils.cpp,174,53,8
+build.py,build.py,\test\WasmSpec\testsuite\build.py,\manual\build.py,177,106,3
+build.py,build.py,\test\WasmSpec\testsuite\build.py,\setup\build.py,177,408,3
+utils.h,utils.h,\pal\src\include\pal\utils.h,\src\calibre\ebooks\pdf\utils.h,23,29,2

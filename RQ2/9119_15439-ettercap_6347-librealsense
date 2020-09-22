@@ -1,0 +1,3 @@
+15439-ettercap,6347-librealsense
+getopt.h,getopt.h,\include\missing\getopt.h,\third-party\glfw\deps\getopt.h,60,23,11
+getopt.c,getopt.c,\src\missing\getopt.c,\third-party\glfw\deps\getopt.c,775,109,24

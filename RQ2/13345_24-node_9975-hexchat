@@ -1,0 +1,10 @@
+24-node,9975-hexchat
+util.h,util.h,\src\util.h,\src\common\util.h,520,47,3
+example.c,example.c,\deps\zlib\test\example.c,\src\common\dbus\example.c,442,158,21
+util.h,util.h,\deps\icu-small\source\common\util.h,\src\common\util.h,51,47,1
+server.c,server.c,\deps\openssl\openssl\fuzz\server.c,\src\common\server.c,532,1542,32
+tree.h,tree.h,\deps\uv\include\uv\tree.h,\src\common\tree.h,666,16,1
+server.c,server.c,\deps\uv\samples\socks5-proxy\server.c,\src\common\server.c,180,1542,37
+util.c,util.c,\deps\uv\samples\socks5-proxy\util.c,\src\common\util.c,43,1287,8
+util.c,util.c,\deps\uv\src\win\util.c,\src\common\util.c,1289,1287,154
+ssl.h,ssl.h,\deps\openssl\openssl\include\openssl\ssl.h,\src\common\ssl.h,2163,40,2

@@ -1,0 +1,13 @@
+754-folly,981-numpy
+utils.py,utils.py,\build\fbcode_builder\utils.py,\numpy\lib\utils.py,59,551,6
+utils.py,utils.py,\build\fbcode_builder\utils.py,\numpy\testing\utils.py,59,19,0
+utils.py,utils.py,\build\fbcode_builder\utils.py,\numpy\testing\_private\utils.py,59,1031,7
+setup.py,setup.py,\folly\python\setup.py,\setup.py,25,245,3
+setup.py,setup.py,\folly\python\setup.py,\numpy\setup.py,25,23,0
+setup.py,setup.py,\folly\python\setup.py,\numpy\core\setup.py,25,692,2
+setup.py,setup.py,\folly\python\setup.py,\numpy\f2py\setup.py,25,41,1
+setup.py,setup.py,\folly\python\setup.py,\numpy\linalg\setup.py,25,51,2
+setup.py,setup.py,\folly\python\setup.py,\numpy\random\setup.py,25,107,2
+setup.py,setup.py,\folly\python\setup.py,\numpy\testing\setup.py,25,16,1
+setup.py,setup.py,\folly\python\setup.py,\tools\swig\test\setup.py,25,50,1
+setup.py,setup.py,\folly\python\setup.py,\numpy\random\_examples\cython\setup.py,25,24,3

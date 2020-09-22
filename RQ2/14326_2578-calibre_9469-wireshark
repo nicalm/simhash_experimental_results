@@ -1,0 +1,9 @@
+2578-calibre,9469-wireshark
+test.py,test.py,\setup\test.py,\test\test.py,147,110,1
+util.c,util.c,\bypy\linux\util.c,\ui\util.c,196,182,26
+util.c,util.c,\bypy\macos\util.c,\ui\util.c,169,182,24
+util.c,util.c,\bypy\windows\util.c,\ui\util.c,328,182,26
+main.cpp,main.cpp,\src\calibre\headless\main.cpp,\ui\qt\main.cpp,18,650,3
+html2text.py,html2text.py,\src\calibre\utils\html2text.py,\tools\html2text.py,31,149,0
+test.py,test.py,\src\calibre\devices\mtp\test.py,\test\test.py,201,110,4
+test.py,test.py,\src\calibre\ebooks\metadata\sources\test.py,\test\test.py,250,110,4

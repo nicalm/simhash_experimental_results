@@ -1,0 +1,14 @@
+67679-k8s-multicluster-ingress,702-swoole-src
+http.go,http.go,\vendor\github.com\golang\groupcache\http.go,\benchmark\http.go,156,19,5
+http.go,http.go,\vendor\github.com\docker\distribution\context\http.go,\benchmark\http.go,256,19,4
+http.go,http.go,\vendor\github.com\docker\distribution\notifications\http.go,\benchmark\http.go,105,19,5
+http.go,http.go,\vendor\github.com\prometheus\client_golang\prometheus\http.go,\benchmark\http.go,370,19,6
+http2.go,http2.go,\vendor\golang.org\x\net\http2\http2.go,\benchmark\http2.go,247,23,6
+http.go,http.go,\vendor\github.com\prometheus\client_golang\prometheus\promhttp\http.go,\benchmark\http.go,119,19,6
+http.go,http.go,\vendor\golang.org\x\tools\go\vcs\http.go,\benchmark\http.go,65,19,6
+http.go,http.go,\vendor\k8s.io\apimachinery\pkg\util\net\http.go,\benchmark\http.go,291,19,5
+http.go,http.go,\vendor\k8s.io\kubernetes\pkg\kubelet\config\http.go,\benchmark\http.go,105,19,5
+http.go,http.go,\vendor\k8s.io\kubernetes\pkg\probe\http\http.go,\benchmark\http.go,66,19,5
+tcp.go,tcp.go,\vendor\k8s.io\kubernetes\pkg\probe\tcp\tcp.go,\benchmark\tcp.go,29,33,11
+redis.go,redis.go,\vendor\github.com\docker\distribution\registry\storage\cache\redis\redis.go,\benchmark\redis.go,175,29,7
+http.go,http.go,\vendor\k8s.io\kubernetes\staging\src\k8s.io\apimachinery\pkg\util\net\http.go,\benchmark\http.go,291,19,5

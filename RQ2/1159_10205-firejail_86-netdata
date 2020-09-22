@@ -1,0 +1,14 @@
+10205-firejail,86-netdata
+main.c,main.c,\src\faudit\main.c,\daemon\main.c,49,995,14
+main.c,main.c,\src\fbuilder\main.c,\daemon\main.c,63,995,21
+main.c,main.c,\src\fcopy\main.c,\daemon\main.c,305,995,52
+main.c,main.c,\src\firecfg\main.c,\daemon\main.c,379,995,80
+main.c,main.c,\src\firejail\main.c,\daemon\main.c,2361,995,172
+main.c,main.c,\src\fldd\main.c,\daemon\main.c,252,995,52
+main.c,main.c,\src\fnet\main.c,\daemon\main.c,111,995,30
+main.c,main.c,\src\fnetfilter\main.c,\daemon\main.c,155,995,33
+main.c,main.c,\src\fsec-optimize\main.c,\daemon\main.c,57,995,16
+main.c,main.c,\src\fsec-print\main.c,\daemon\main.c,44,995,12
+main.c,main.c,\src\fseccomp\main.c,\daemon\main.c,74,995,15
+main.c,main.c,\src\ftee\main.c,\daemon\main.c,172,995,38
+common.h,common.h,\src\include\common.h,\daemon\common.h,89,48,1

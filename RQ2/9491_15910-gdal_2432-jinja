@@ -1,0 +1,5 @@
+15910-gdal,2432-jinja
+conftest.py,conftest.py,\autotest\conftest.py,\tests\conftest.py,39,77,2
+conf.py,conf.py,\gdal\doc\source\conf.py,\docs\conf.py,323,40,9
+setup.py,setup.py,\gdal\swig\python\setup.py,\setup.py,329,50,4
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\jinja2\__init__.py,40,31,0

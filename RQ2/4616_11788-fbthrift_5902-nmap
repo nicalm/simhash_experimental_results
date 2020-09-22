@@ -1,0 +1,12 @@
+11788-fbthrift,5902-nmap
+util.h,util.h,\thrift\compiler\util.h,\ncat\util.h,91,72,2
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\utils.h,19,45,1
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\nping\utils.h,19,26,0
+setup.py,setup.py,\thrift\lib\py\setup.py,\ndiff\setup.py,54,159,2
+setup.py,setup.py,\thrift\lib\py\setup.py,\zenmap\setup.py,54,333,2
+setup.py,setup.py,\thrift\lib\py3\setup.py,\ndiff\setup.py,29,159,0
+setup.py,setup.py,\thrift\lib\py3\setup.py,\zenmap\setup.py,29,333,1
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\ncat\util.h,25,72,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\ncat\util.h,17,72,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\ncat\util.h,29,72,1
+macros.h,macros.h,\thrift\lib\rb\ext\macros.h,\libssh2\os400\macros.h,18,120,1

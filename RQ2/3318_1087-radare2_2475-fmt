@@ -1,0 +1,5 @@
+1087-radare2,2475-fmt
+core.h,core.h,\shlr\qnx\include\core.h,\include\fmt\core.h,27,1091,4
+format.h,format.h,\libr\asm\arch\avr\format.h,\include\fmt\format.h,34,2673,4
+core.h,core.h,\shlr\gdb\include\gdbclient\core.h,\include\fmt\core.h,45,1091,2
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\test\util.h,256,55,7

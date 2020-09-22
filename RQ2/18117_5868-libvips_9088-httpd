@@ -1,0 +1,5 @@
+5868-libvips,9088-httpd
+base64.c,base64.c,\libvips\iofuncs\base64.c,\test\unit\base64.c,162,117,18
+util.c,util.c,\libvips\iofuncs\util.c,\server\util.c,1294,2737,296
+util.c,util.c,\libvips\iofuncs\util.c,\test\unit\util.c,1294,44,9
+util.c,util.c,\libvips\iofuncs\util.c,\modules\dav\main\util.c,1294,1250,204

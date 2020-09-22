@@ -1,0 +1,7 @@
+3980-passenger,471-minio
+webpack.config.js,webpack.config.js,\resources\templates\error_renderer\without_details\webpack.config.js,\browser\webpack.config.js,40,104,17
+webpack.config.js,webpack.config.js,\resources\templates\error_renderer\with_details\webpack.config.js,\browser\webpack.config.js,45,104,17
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,\browser\app\index.js,31,22,0
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,\browser\app\index.js,286,22,0
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,\browser\app\index.js,71,22,0
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,\browser\app\index.js,71,22,0

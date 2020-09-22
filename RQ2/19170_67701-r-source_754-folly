@@ -1,0 +1,6 @@
+67701-r-source,754-folly
+Error.h,Error.h,\src\include\R_ext\Error.h,\folly\experimental\coro\Error.h,23,29,1
+Memory.h,Memory.h,\src\include\R_ext\Memory.h,\folly\Memory.h,25,454,7
+Random.h,Random.h,\src\include\R_ext\Random.h,\folly\Random.h,39,181,3
+Utils.h,Utils.h,\src\include\R_ext\Utils.h,\folly\compression\Utils.h,72,37,1
+Utils.h,Utils.h,\src\include\R_ext\Utils.h,\folly\experimental\coro\Utils.h,72,33,1

@@ -1,0 +1,3 @@
+16203-bdwgc,6773-server
+alloc.c,alloc.c,\alloc.c,\storage\mroonga\vendor\groonga\lib\alloc.c,1178,849,218
+misc.c,misc.c,\misc.c,\extra\readline\misc.c,2063,421,117

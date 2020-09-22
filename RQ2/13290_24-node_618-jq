@@ -1,0 +1,11 @@
+24-node,618-jq
+util.h,util.h,\src\util.h,\src\util.h,520,42,8
+util.h,util.h,\deps\icu-small\source\common\util.h,\src\util.h,51,42,2
+decContext.h,decContext.h,\deps\icu-small\source\i18n\decContext.h,\src\decNumber\decContext.h,178,177,160
+decNumber.h,decNumber.h,\deps\icu-small\source\i18n\decNumber.h,\src\decNumber\decNumber.h,106,106,43
+decNumberLocal.h,decNumberLocal.h,\deps\icu-small\source\i18n\decNumberLocal.h,\src\decNumber\decNumberLocal.h,475,496,467
+main.c,main.c,\deps\uv\samples\socks5-proxy\main.c,\src\main.c,64,647,17
+util.c,util.c,\deps\uv\samples\socks5-proxy\util.c,\src\util.c,43,380,7
+util.c,util.c,\deps\uv\src\win\util.c,\src\util.c,1289,380,71
+parser.h,parser.h,\deps\v8\src\parsing\parser.h,\src\parser.h,820,145,4
+main.c,main.c,\deps\openssl\openssl\test\testutil\main.c,\src\main.c,78,647,15

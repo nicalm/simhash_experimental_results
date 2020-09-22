@@ -1,0 +1,8 @@
+10549-luci,6347-librealsense
+linenumber.js,linenumber.js,\docs\jsapi\scripts\linenumber.js,\wrappers\nodejs\doc\jsdoc-template\static\scripts\linenumber.js,22,22,19
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\src\pipeline\config.h,89,54,0
+prettify.js,prettify.js,\docs\jsapi\scripts\prettify\prettify.js,\wrappers\nodejs\doc\jsdoc-template\static\scripts\prettify\prettify.js,28,28,28
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\src\pipeline\config.h,89,54,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\src\pipeline\config.h,35,54,0
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\wrappers\nodejs\index.js,82,2989,20
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,82,379,19

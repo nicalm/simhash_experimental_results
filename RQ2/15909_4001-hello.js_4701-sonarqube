@@ -1,0 +1,8 @@
+4001-hello.js,4701-sonarqube
+index.js,index.js,\assets\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,1114,79,15
+index.js,index.js,\assets\index.js,\server\sonar-web\config\documentation-loader\index.js,1114,28,3
+index.js,index.js,\assets\expect\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,806,79,17
+index.js,index.js,\assets\expect\index.js,\server\sonar-web\config\documentation-loader\index.js,806,28,3
+index.js,index.js,\tests\specs\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,39,79,4
+index.js,index.js,\tests\specs\index.js,\server\sonar-web\config\documentation-loader\index.js,39,28,2
+utils.js,utils.js,\assets\knockout\src\utils.js,\server\sonar-web\config\utils.js,492,58,11

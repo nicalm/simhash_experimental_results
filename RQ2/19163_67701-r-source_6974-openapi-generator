@@ -1,0 +1,3 @@
+67701-r-source,6974-openapi-generator
+list.c,list.c,\src\main\list.c,\samples\client\petstore\c\src\list.c,84,132,11
+Error.h,Error.h,\src\include\R_ext\Error.h,\samples\client\petstore\cpp-tizen\src\Error.h,23,23,2

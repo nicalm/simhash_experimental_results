@@ -1,0 +1,8 @@
+11212-varnish-cache,12658-Espruino
+version.c,version.c,\lib\libvarnish\version.c,\libs\crypto\mbedtls\library\version.c,45,23,5
+crc32.c,crc32.c,\lib\libvgz\crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,289,19,8
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\libs\crypto\mbedtls\library\base64.c,269,195,31
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\targetlibs\stm32f1\lib\misc.c,15,62,3
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\targetlibs\stm32f2\lib\misc.c,15,62,3
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\targetlibs\stm32f4\lib\misc.c,15,62,3
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\targetlibs\stm32l1\lib\misc.c,15,62,3

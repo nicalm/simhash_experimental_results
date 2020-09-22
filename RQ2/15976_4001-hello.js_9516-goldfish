@@ -1,0 +1,17 @@
+4001-hello.js,9516-goldfish
+index.js,index.js,\assets\index.js,\frontend\config\index.js,1114,31,6
+index.js,index.js,\assets\index.js,\frontend\client\router\index.js,1114,33,8
+index.js,index.js,\assets\index.js,\frontend\client\store\index.js,1114,24,2
+index.js,index.js,\assets\index.js,\frontend\client\store\modules\menu\index.js,1114,49,15
+index.js,index.js,\assets\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,1114,58,12
+index.js,index.js,\assets\expect\index.js,\frontend\config\index.js,806,31,5
+index.js,index.js,\assets\expect\index.js,\frontend\client\router\index.js,806,33,6
+index.js,index.js,\assets\expect\index.js,\frontend\client\store\index.js,806,24,1
+index.js,index.js,\assets\expect\index.js,\frontend\client\store\modules\menu\index.js,806,49,7
+index.js,index.js,\assets\expect\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,806,58,8
+index.js,index.js,\tests\specs\index.js,\frontend\config\index.js,39,31,2
+index.js,index.js,\tests\specs\index.js,\frontend\client\router\index.js,39,33,2
+index.js,index.js,\tests\specs\index.js,\frontend\client\store\index.js,39,24,0
+index.js,index.js,\tests\specs\index.js,\frontend\client\store\modules\menu\index.js,39,49,2
+index.js,index.js,\tests\specs\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,39,58,2
+utils.js,utils.js,\assets\knockout\src\utils.js,\frontend\build\utils.js,492,55,11

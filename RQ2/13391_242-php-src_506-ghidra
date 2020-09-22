@@ -1,0 +1,5 @@
+242-php-src,506-ghidra
+alloca.c,alloca.c,\main\alloca.c,\GPL\DemanglerGnu\src\demangler_gnu\c\alloca.c,285,271,248
+getopt.c,getopt.c,\main\getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,150,637,42
+types.h,types.h,\ext\opcache\jit\libudis86\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,155,280,8
+types.h,types.h,\ext\opcache\jit\libudis86\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,155,161,7

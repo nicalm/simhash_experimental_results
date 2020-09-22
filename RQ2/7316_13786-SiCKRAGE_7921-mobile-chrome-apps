@@ -1,0 +1,4 @@
+13786-SiCKRAGE,7921-mobile-chrome-apps
+browser.py,browser.py,\sickrage\core\helpers\browser.py,\chrome-cordova\gcmServer\xmpp\browser.py,80,75,1
+client.py,client.py,\sickrage\libs\trakt\client.py,\chrome-cordova\gcmServer\xmpp\client.py,51,223,0
+auth.py,auth.py,\sickrage\libs\trakt\interfaces\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,18,257,1

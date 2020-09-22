@@ -1,0 +1,8 @@
+211-cpython,67679-k8s-multicluster-ingress
+setup.py,setup.py,\setup.py,\vendor\github.com\prometheus\client_model\setup.py,1651,20,1
+client.py,client.py,\Lib\http\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,817,21,1
+server.py,server.py,\Lib\http\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,700,15,4
+client.py,client.py,\Lib\xmlrpc\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,784,21,1
+server.py,server.py,\Lib\xmlrpc\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,502,15,6
+setup.py,setup.py,\Tools\test2to3\setup.py,\vendor\github.com\prometheus\client_model\setup.py,22,20,1
+setup.py,setup.py,\Lib\test\libregrtest\setup.py,\vendor\github.com\prometheus\client_model\setup.py,90,20,0

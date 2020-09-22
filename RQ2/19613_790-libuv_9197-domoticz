@@ -1,0 +1,3 @@
+790-libuv,9197-domoticz
+unix.h,unix.h,\include\uv\unix.h,\hardware\serial\impl\unix.h,394,125,4
+win.h,win.h,\include\uv\win.h,\hardware\serial\impl\win.h,442,114,2

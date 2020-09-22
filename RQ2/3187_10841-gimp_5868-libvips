@@ -1,0 +1,9 @@
+10841-gimp,5868-libvips
+grid.c,grid.c,\plug-ins\common\grid.c,\libvips\conversion\grid.c,791,147,16
+fits.c,fits.c,\plug-ins\file-fits\fits.c,\libvips\deprecated\fits.c,970,56,14
+fits.c,fits.c,\plug-ins\file-fits\fits.c,\libvips\foreign\fits.c,970,499,83
+jpeg.h,jpeg.h,\plug-ins\file-jpeg\jpeg.h,\libvips\foreign\jpeg.h,39,28,3
+rect.c,rect.c,\plug-ins\flame\rect.c,\libvips\iofuncs\rect.c,302,103,25
+math.c,math.c,\plug-ins\selection-to-path\math.c,\libvips\arithmetic\math.c,96,240,24
+vector.c,vector.c,\plug-ins\selection-to-path\vector.c,\libvips\iofuncs\vector.c,151,400,38
+vector.h,vector.h,\plug-ins\selection-to-path\vector.h,\libvips\include\vips\vector.h,42,73,1

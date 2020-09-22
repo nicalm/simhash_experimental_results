@@ -1,0 +1,11 @@
+1615-rufus,91-bitcoin
+db.h,db.h,\src\db.h,\src\wallet\db.h,88,266,1
+db.h,db.h,\src\db.h,\src\leveldb\include\leveldb\db.h,88,52,2
+format.h,format.h,\src\format.h,\src\leveldb\table\format.h,126,62,0
+settings.h,settings.h,\src\settings.h,\src\policy\settings.h,106,22,3
+settings.h,settings.h,\src\settings.h,\src\util\settings.h,106,44,2
+logging.h,logging.h,\src\libcdio\cdio\logging.h,\src\logging.h,30,123,2
+logging.h,logging.h,\src\libcdio\cdio\logging.h,\src\leveldb\util\logging.h,30,16,2
+logging.h,logging.h,\src\libcdio\cdio\logging.h,\src\test\util\logging.h,30,18,1
+util.h,util.h,\src\libcdio\cdio\util.h,\src\rpc\util.h,79,173,10
+util.h,util.h,\src\libcdio\cdio\util.h,\src\secp256k1\src\util.h,79,99,13

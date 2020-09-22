@@ -1,0 +1,5 @@
+10549-luci,63622-mirador
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\src\state\actions\config.js,53,21,1
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\src\state\reducers\config.js,53,15,1
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\src\state\selectors\config.js,53,44,1
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\src\config\settings.js,54,274,2

@@ -1,0 +1,10 @@
+4482-nixpkgs,8399-appscale
+server.py,server.py,\nixos\tests\google-oslogin\server.py,\APIServer\appscale\api_server\server.py,75,63,2
+server.py,server.py,\nixos\tests\google-oslogin\server.py,\AdminServer\appscale\admin\instance_manager\server.py,75,43,0
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\SearchService2\appscale\search\settings.py,258,52,1
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\AppServer\lib\django-0.96\django\conf\project_template\settings.py,258,38,17
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\AppServer\lib\django-1.2\django\conf\project_template\settings.py,258,45,25
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\AppServer\lib\django-1.3\django\conf\project_template\settings.py,258,71,49
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\AppServer\google\appengine\_internal\django\conf\project_template\settings.py,258,45,25
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\AppServer\lib\django-1.4\django\conf\project_template\project_name\settings.py,258,78,56
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\AppServer\lib\django-1.5\django\conf\project_template\project_name\settings.py,258,79,56

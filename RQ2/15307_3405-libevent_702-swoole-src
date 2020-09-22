@@ -1,0 +1,9 @@
+3405-libevent,702-swoole-src
+buffer.c,buffer.c,\buffer.c,\src\memory\buffer.c,2732,135,52
+kqueue.c,kqueue.c,\kqueue.c,\src\reactor\kqueue.c,387,339,59
+log.c,log.c,\log.c,\src\core\log.c,172,114,34
+poll.c,poll.c,\poll.c,\src\reactor\poll.c,242,256,29
+select.c,select.c,\select.c,\src\reactor\select.c,230,249,28
+signal.c,signal.c,\signal.c,\src\os\signal.c,348,308,62
+buffer.h,buffer.h,\include\event2\buffer.h,\include\buffer.h,208,46,2
+http.h,http.h,\include\event2\http.h,\include\http.h,347,98,7

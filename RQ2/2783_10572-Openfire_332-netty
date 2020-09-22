@@ -1,0 +1,7 @@
+10572-Openfire,332-netty
+Channel.java,Channel.java,\xmppserver\src\main\java\org\jivesoftware\openfire\Channel.java,\transport\src\main\java\io\netty\channel\Channel.java,81,50,3
+Base64.java,Base64.java,\xmppserver\src\main\java\org\jivesoftware\util\Base64.java,\codec\src\main\java\io\netty\handler\codec\base64\Base64.java,871,307,80
+Version.java,Version.java,\xmppserver\src\main\java\org\jivesoftware\util\Version.java,\common\src\main\java\io\netty\util\Version.java,173,128,26
+Launcher.java,Launcher.java,\starter\src\main\java\org\jivesoftware\openfire\launcher\Launcher.java,\example\src\main\java\io\netty\example\http2\tiles\Launcher.java,514,20,5
+Channel.java,Channel.java,\xmppserver\src\main\java\org\jivesoftware\openfire\mediaproxy\Channel.java,\transport\src\main\java\io\netty\channel\Channel.java,99,50,3
+Cache.java,Cache.java,\xmppserver\src\main\java\org\jivesoftware\util\cache\Cache.java,\resolver-dns\src\main\java\io\netty\resolver\dns\Cache.java,49,180,11

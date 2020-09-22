@@ -1,0 +1,5 @@
+4001-hello.js,4014-kanboard
+index.js,index.js,\assets\index.js,\assets\vendor\text-caret\index.js,1114,94,10
+index.js,index.js,\assets\expect\index.js,\assets\vendor\text-caret\index.js,806,94,12
+index.js,index.js,\tests\specs\index.js,\assets\vendor\text-caret\index.js,39,94,3
+utils.js,utils.js,\assets\knockout\src\utils.js,\assets\js\core\utils.js,492,94,25

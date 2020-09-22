@@ -1,0 +1,14 @@
+18309-tor,242-php-src
+strlcat.c,strlcat.c,\src\ext\strlcat.c,\main\strlcat.c,28,33,11
+strlcpy.c,strlcpy.c,\src\ext\strlcpy.c,\main\strlcpy.c,22,29,8
+test.c,test.c,\src\test\test.c,\ext\zend_test\test.c,611,265,33
+config.h,config.h,\src\app\config\config.h,\ext\pcre\pcre2lib\config.h,232,46,6
+main.c,main.c,\src\app\main\main.c,\main\main.c,1029,2098,182
+transports.c,transports.c,\src\feature\client\transports.c,\main\streams\transports.c,1210,374,88
+nodelist.c,nodelist.c,\src\feature\nodelist\nodelist.c,\ext\dom\nodelist.c,1853,129,40
+dns.c,dns.c,\src\feature\relay\dns.c,\ext\standard\dns.c,1625,968,164
+compress.c,compress.c,\src\lib\compress\compress.c,\ext\fileinfo\libmagic\compress.c,507,662,116
+dir.c,dir.c,\src\lib\fs\dir.c,\ext\standard\dir.c,274,421,58
+mmap.c,mmap.c,\src\lib\fs\mmap.c,\main\streams\mmap.c,193,32,11
+scanf.c,scanf.c,\src\lib\string\scanf.c,\ext\standard\scanf.c,239,744,38
+test.c,test.c,\src\ext\ed25519\donna\test.c,\ext\zend_test\test.c,177,265,23

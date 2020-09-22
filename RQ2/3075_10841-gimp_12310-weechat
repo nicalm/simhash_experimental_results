@@ -1,0 +1,3 @@
+10841-gimp,12310-weechat
+main.c,main.c,\app\main.c,\src\gui\curses\headless\main.c,631,64,23
+main.c,main.c,\app\main.c,\src\gui\curses\normal\main.c,631,16,7

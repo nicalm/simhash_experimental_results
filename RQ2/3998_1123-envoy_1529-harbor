@@ -1,0 +1,6 @@
+1123-envoy,1529-harbor
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\jobservice\logger\service.go,48,81,11
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\vendor\golang.org\x\sys\windows\service.go,48,138,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\vendor\github.com\aws\aws-sdk-go\aws\ec2metadata\service.go,48,97,11
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\vendor\github.com\aws\aws-sdk-go\service\ecr\service.go,48,60,10
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\vendor\github.com\aws\aws-sdk-go\service\sts\service.go,48,55,9

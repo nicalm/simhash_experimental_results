@@ -1,0 +1,7 @@
+1698-server,86-netdata
+main.js,main.js,\core\src\main.js,\web\gui\main.js,17,4130,3
+main.js,main.js,\core\src\main.js,\web\gui\src\dashboard.js\main.js,17,3119,3
+main.js,main.js,\apps\accessibility\src\main.js,\web\gui\main.js,15,4130,2
+main.js,main.js,\apps\accessibility\src\main.js,\web\gui\src\dashboard.js\main.js,15,3119,2
+main.js,main.js,\core\js\dist\main.js,\web\gui\main.js,65,4130,0
+main.js,main.js,\core\js\dist\main.js,\web\gui\src\dashboard.js\main.js,65,3119,0

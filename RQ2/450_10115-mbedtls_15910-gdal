@@ -1,0 +1,4 @@
+10115-mbedtls,15910-gdal
+debug.c,debug.c,\library\debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,345,74,22
+config.h,config.h,\include\mbedtls\config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,143,54,3
+debug.h,debug.h,\include\mbedtls\debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,89,56,13

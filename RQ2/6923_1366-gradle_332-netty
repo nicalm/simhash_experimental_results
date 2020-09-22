@@ -1,0 +1,3 @@
+1366-gradle,332-netty
+Attribute.java,Attribute.java,\subprojects\core-api\src\main\java\org\gradle\api\attributes\Attribute.java,\codec-http\src\main\java\io\netty\handler\codec\http\multipart\Attribute.java,50,23,5
+AbstractIntegrationTest.java,AbstractIntegrationTest.java,\subprojects\internal-integ-testing\src\main\groovy\org\gradle\integtests\fixtures\AbstractIntegrationTest.java,\codec\src\test\java\io\netty\handler\codec\compression\AbstractIntegrationTest.java,106,131,26

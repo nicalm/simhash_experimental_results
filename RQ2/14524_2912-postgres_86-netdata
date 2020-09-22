@@ -1,0 +1,11 @@
+2912-postgres,86-netdata
+main.c,main.c,\src\backend\main\main.c,\daemon\main.c,203,995,35
+value.c,value.c,\src\backend\nodes\value.c,\web\api\formatters\value\value.c,34,70,5
+common.h,common.h,\src\bin\psql\common.h,\daemon\common.h,23,48,1
+common.h,common.h,\src\bin\scripts\common.h,\daemon\common.h,37,48,1
+socket.c,socket.c,\src\backend\port\win32\socket.c,\libnetdata\socket\socket.c,479,1305,111
+ipc.c,ipc.c,\src\backend\storage\ipc\ipc.c,\collectors\proc.plugin\ipc.c,154,452,18
+json.c,json.c,\src\backend\utils\adt\json.c,\backends\json\json.c,1788,121,10
+json.c,json.c,\src\backend\utils\adt\json.c,\exporting\json\json.c,1788,134,14
+json.c,json.c,\src\backend\utils\adt\json.c,\libnetdata\json\json.c,1788,345,73
+json.c,json.c,\src\backend\utils\adt\json.c,\web\api\formatters\json\json.c,1788,185,29

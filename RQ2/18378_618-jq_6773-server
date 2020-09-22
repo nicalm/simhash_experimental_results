@@ -1,0 +1,10 @@
+618-jq,6773-server
+main.c,main.c,\src\main.c,\dbug\main.c,647,23,5
+main.c,main.c,\src\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,647,166,36
+parser.h,parser.h,\src\parser.h,\plugin\file_key_management\parser.h,145,28,3
+util.c,util.c,\src\util.c,\extra\readline\util.c,380,246,43
+util.c,util.c,\src\util.c,\storage\mroonga\vendor\groonga\lib\util.c,380,1420,70
+util.c,util.c,\src\util.c,\storage\mroonga\vendor\groonga\src\suggest\util.c,380,184,37
+util.c,util.c,\src\util.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\util.c,380,127,20
+util.h,util.h,\src\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,42,22,3
+util.h,util.h,\src\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,42,20,1

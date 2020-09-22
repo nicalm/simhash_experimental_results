@@ -1,0 +1,6 @@
+5868-libvips,702-swoole-src
+base64.c,base64.c,\libvips\iofuncs\base64.c,\src\protocol\base64.c,162,95,21
+buffer.c,buffer.c,\libvips\iofuncs\buffer.c,\src\memory\buffer.c,447,135,46
+semaphore.c,semaphore.c,\libvips\iofuncs\semaphore.c,\src\lock\semaphore.c,72,46,13
+stream.c,stream.c,\libvips\iofuncs\stream.c,\src\network\stream.c,82,138,12
+error.h,error.h,\libvips\include\vips\error.h,\include\error.h,58,92,1

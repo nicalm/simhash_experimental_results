@@ -1,0 +1,8 @@
+2909-mongoose,6974-openapi-generator
+main.cpp,main.cpp,\examples\mbed\main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,73,18,1
+main.cpp,main.cpp,\examples\mbed\main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,73,72,4
+main.js,main.js,\examples\CC3200\slfs\main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,435,62,13
+main.js,main.js,\examples\CC3200\slfs\main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,435,62,13
+main.js,main.js,\examples\connected_device_4\web_root\main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,62,62,7
+main.js,main.js,\examples\connected_device_4\web_root\main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,62,62,7
+user.h,user.h,\examples\PIC32\mqtt_client\firmware\src\user.h,\samples\client\petstore\c\model\user.h,85,32,2

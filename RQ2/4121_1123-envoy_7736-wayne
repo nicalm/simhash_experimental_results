@@ -1,0 +1,5 @@
+1123-envoy,7736-wayne
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\backend\models\service.go,48,23,4
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\backend\controllers\common\service.go,48,22,7
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\backend\resources\service\service.go,48,21,6
+service.go,service.go,\examples\grpc-bridge\server\service.go,\src\backend\controllers\kubernetes\service\service.go,48,107,12

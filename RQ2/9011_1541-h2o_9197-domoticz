@@ -1,0 +1,12 @@
+1541-h2o,9197-domoticz
+token.h,token.h,\include\h2o\token.h,\hardware\plugins\Include\token.h,40,78,8
+compress.c,compress.c,\lib\handler\compress.c,\zlib\compress.c,128,47,8
+compress.c,compress.c,\lib\handler\configurator\compress.c,\zlib\compress.c,125,47,7
+compile.h,compile.h,\deps\mruby\include\mruby\compile.h,\hardware\plugins\Include\compile.h,147,55,4
+error.h,error.h,\deps\mruby\include\mruby\error.h,\cereal\external\rapidjson\error\error.h,32,57,3
+object.h,object.h,\deps\mruby\include\mruby\object.h,\hardware\plugins\Include\object.h,29,531,1
+opcode.h,opcode.h,\deps\mruby\include\mruby\opcode.h,\hardware\plugins\Include\opcode.h,50,129,1
+value.h,value.h,\deps\mruby\include\mruby\value.h,\json\value.h,240,441,35
+compress.c,compress.c,\t\00unit\lib\handler\compress.c,\zlib\compress.c,87,47,7
+node.h,node.h,\deps\mruby\mrbgems\mruby-compiler\core\node.h,\hardware\plugins\Include\node.h,94,32,1
+aes.h,aes.h,\deps\picotls\deps\cifra\src\aes.h,\hardware\openzwave\aes\aes.h,32,109,5

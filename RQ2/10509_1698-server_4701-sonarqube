@@ -1,0 +1,9 @@
+1698-server,4701-sonarqube
+index.js,index.js,\core\src\jquery\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,22,79,1
+index.js,index.js,\core\src\jquery\index.js,\server\sonar-web\config\documentation-loader\index.js,22,28,1
+index.js,index.js,\core\src\OC\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,162,79,1
+index.js,index.js,\core\src\OC\index.js,\server\sonar-web\config\documentation-loader\index.js,162,28,1
+index.js,index.js,\core\src\OCP\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,18,79,1
+index.js,index.js,\core\src\OCP\index.js,\server\sonar-web\config\documentation-loader\index.js,18,28,1
+index.js,index.js,\apps\settings\src\store\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,29,79,2
+index.js,index.js,\apps\settings\src\store\index.js,\server\sonar-web\config\documentation-loader\index.js,29,28,1

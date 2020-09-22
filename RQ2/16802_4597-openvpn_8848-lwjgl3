@@ -1,0 +1,6 @@
+4597-openvpn,8848-lwjgl3
+error.h,error.h,\src\openvpn\error.h,\modules\lwjgl\tootle\src\main\c\error.h,214,53,11
+event.h,event.h,\src\openvpn\event.h,\modules\lwjgl\yoga\src\main\c\event\event.h,91,114,8
+pool.c,pool.c,\src\openvpn\pool.c,\modules\lwjgl\zstd\src\main\c\common\pool.c,492,235,40
+pool.h,pool.h,\src\openvpn\pool.h,\modules\lwjgl\zstd\src\main\c\common\pool.h,55,22,5
+error.h,error.h,\src\tapctl\error.h,\modules\lwjgl\tootle\src\main\c\error.h,48,53,6

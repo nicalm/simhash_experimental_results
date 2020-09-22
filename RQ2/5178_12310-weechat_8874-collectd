@@ -1,0 +1,4 @@
+12310-weechat,8874-collectd
+plugin.c,plugin.c,\src\plugins\plugin.c,\src\daemon\plugin.c,1150,2059,159
+plugin.h,plugin.h,\src\plugins\plugin.h,\src\daemon\plugin.h,35,248,1
+exec.c,exec.c,\src\plugins\exec\exec.c,\src\exec.c,590,695,97

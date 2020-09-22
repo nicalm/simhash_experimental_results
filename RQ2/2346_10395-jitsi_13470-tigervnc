@@ -1,0 +1,6 @@
+10395-jitsi,13470-tigervnc
+Logger.cxx,Logger.cxx,\src\native\addrbook\msoutlook\Logger.cxx,\common\rfb\Logger.cxx,90,54,12
+Logger.h,Logger.h,\src\native\addrbook\msoutlook\Logger.h,\common\rfb\Logger.h,23,28,4
+FileUtils.java,FileUtils.java,\src\net\java\sip\communicator\util\FileUtils.java,\java\com\tigervnc\vncviewer\FileUtils.java,44,55,9
+FileUtils.java,FileUtils.java,\src\net\java\sip\communicator\plugin\desktoputil\FileUtils.java,\java\com\tigervnc\vncviewer\FileUtils.java,150,55,12
+Parameters.java,Parameters.java,\src\net\java\sip\communicator\plugin\spellcheck\Parameters.java,\java\com\tigervnc\vncviewer\Parameters.java,201,469,39

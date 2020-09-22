@@ -1,0 +1,11 @@
+1615-rufus,67701-r-source
+format.c,format.c,\src\format.c,\src\main\format.c,2478,395,77
+bitmaps.c,bitmaps.c,\src\ext2fs\bitmaps.c,\src\extra\graphapp\bitmaps.c,240,285,44
+config.h,config.h,\src\ext2fs\config.h,\src\gnuwin32\fixed\h\config.h,182,267,79
+config.h,config.h,\src\libcdio\config.h,\src\gnuwin32\fixed\h\config.h,53,267,20
+types.h,types.h,\src\libcdio\cdio\types.h,\src\extra\xdr\rpc\types.h,181,48,15
+memory.c,memory.c,\src\libcdio\driver\memory.c,\src\main\memory.c,16,3001,6
+util.c,util.c,\src\libcdio\driver\util.c,\src\main\util.c,124,2082,36
+util.c,util.c,\src\libcdio\driver\util.c,\src\library\grid\src\util.c,124,178,26
+util.c,util.c,\src\libcdio\driver\util.c,\src\library\utils\src\windows\util.c,124,479,28
+open.c,open.c,\src\syslinux\libfat\open.c,\src\gnuwin32\front-ends\open.c,76,35,6

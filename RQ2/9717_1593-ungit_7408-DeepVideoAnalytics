@@ -1,0 +1,4 @@
+1593-ungit,7408-DeepVideoAnalytics
+config.js,config.js,\source\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,203,21,1
+app.js,app.js,\components\app\app.js,\server\dvaapp\static\app\app.js,123,180,16
+app.js,app.js,\components\app\app.js,\server\dvaapp\static\dist\js\app.js,123,470,25

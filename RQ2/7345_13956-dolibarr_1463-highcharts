@@ -1,0 +1,5 @@
+13956-dolibarr,1463-highcharts
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\studies\highcharts-jsdom\index.js,40,93,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,40,40,4
+default.js,default.js,\htdocs\includes\ckeditor\ckeditor\plugins\pastefromword\filter\default.js,\tools\gulptasks\unsorted\default.js,55,112,0
+options.js,options.js,\htdocs\includes\ckeditor\ckeditor\plugins\scayt\dialogs\options.js,\js\modules\accessibility\options\options.js,32,61,0

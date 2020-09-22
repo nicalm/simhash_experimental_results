@@ -1,0 +1,12 @@
+4000-mruby,6974-openapi-generator
+object.c,object.c,\src\object.c,\samples\client\petstore\c\model\object.c,394,24,4
+object.h,object.h,\include\mruby\object.h,\samples\client\petstore\c\model\object.h,29,15,1
+file.rb,file.rb,\mrbgems\mruby-io\mrblib\file.rb,\samples\client\petstore\ruby\lib\petstore\models\file.rb,173,134,36
+file.rb,file.rb,\mrbgems\mruby-io\mrblib\file.rb,\samples\client\petstore\ruby-faraday\lib\petstore\models\file.rb,173,134,36
+file.rb,file.rb,\mrbgems\mruby-io\mrblib\file.rb,\samples\openapi3\client\petstore\ruby\lib\petstore\models\file.rb,173,134,36
+file.rb,file.rb,\mrbgems\mruby-io\mrblib\file.rb,\samples\openapi3\client\petstore\ruby-faraday\lib\petstore\models\file.rb,173,134,36
+file.rb,file.rb,\mrbgems\mruby-io\test\file.rb,\samples\client\petstore\ruby\lib\petstore\models\file.rb,183,134,35
+file.rb,file.rb,\mrbgems\mruby-io\test\file.rb,\samples\client\petstore\ruby-faraday\lib\petstore\models\file.rb,183,134,35
+file.rb,file.rb,\mrbgems\mruby-io\test\file.rb,\samples\openapi3\client\petstore\ruby\lib\petstore\models\file.rb,183,134,35
+file.rb,file.rb,\mrbgems\mruby-io\test\file.rb,\samples\openapi3\client\petstore\ruby-faraday\lib\petstore\models\file.rb,183,134,35
+object.c,object.c,\mrbgems\mruby-object-ext\src\object.c,\samples\client\petstore\c\model\object.c,72,24,4

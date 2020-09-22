@@ -1,0 +1,5 @@
+6974-openapi-generator,9469-wireshark
+main.cpp,main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,\ui\qt\main.cpp,18,650,1
+conftest.py,conftest.py,\samples\server\petstore\python-aiohttp\tests\conftest.py,\test\conftest.py,18,26,0
+conftest.py,conftest.py,\samples\server\petstore\python-aiohttp-srclayout\tests\conftest.py,\test\conftest.py,19,26,0
+main.cpp,main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,\ui\qt\main.cpp,72,650,7

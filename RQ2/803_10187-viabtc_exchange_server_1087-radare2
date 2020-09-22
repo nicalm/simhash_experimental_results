@@ -1,0 +1,14 @@
+10187-viabtc_exchange_server,1087-radare2
+dict.c,dict.c,\depends\hiredis\dict.c,\shlr\sdb\src\dict.c,202,236,33
+dict.h,dict.h,\depends\hiredis\dict.h,\libr\include\sdb\dict.h,71,35,2
+dict.h,dict.h,\depends\hiredis\dict.h,\shlr\sdb\src\dict.h,71,35,2
+net.h,net.h,\depends\hiredis\net.h,\shlr\grub\include\grub\net.h,15,28,1
+test.c,test.c,\depends\hiredis\test.c,\libr\util\regex\test.c,570,48,8
+test.c,test.c,\depends\hiredis\test.c,\test\unit\legacy_unit\egg\test.c,570,49,11
+test.c,test.c,\depends\hiredis\test.c,\test\unit\legacy_unit\hash\test.c,570,22,4
+test.c,test.c,\depends\hiredis\test.c,\test\unit\legacy_unit\reg\test.c,570,99,12
+test.c,test.c,\depends\hiredis\test.c,\test\unit\legacy_unit\search\test.c,570,38,7
+test.c,test.c,\depends\hiredis\test.c,\test\unit\legacy_unit\socket\test.c,570,22,4
+test.c,test.c,\depends\hiredis\test.c,\test\unit\legacy_unit\util\diff\test.c,570,93,14
+test_list.c,test_list.c,\test\utils\test_list.c,\test\unit\test_list.c,69,260,9
+test_skiplist.c,test_skiplist.c,\test\utils\test_skiplist.c,\test\unit\test_skiplist.c,58,140,9

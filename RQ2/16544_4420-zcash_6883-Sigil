@@ -1,0 +1,5 @@
+4420-zcash,6883-Sigil
+main.cpp,main.cpp,\src\main.cpp,\src\main.cpp,4730,466,77
+util.h,util.h,\src\util.h,\internal\gumbo\util.h,150,48,17
+main.cpp,main.cpp,\src\gtest\main.cpp,\src\main.cpp,42,466,3
+util.h,util.h,\src\secp256k1\src\util.h,\internal\gumbo\util.h,92,48,8

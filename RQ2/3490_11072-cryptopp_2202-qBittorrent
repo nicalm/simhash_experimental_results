@@ -1,0 +1,4 @@
+11072-cryptopp,2202-qBittorrent
+gzip.cpp,gzip.cpp,\gzip.cpp,\src\base\utils\gzip.cpp,169,85,11
+misc.cpp,misc.cpp,\misc.cpp,\src\base\utils\misc.cpp,233,380,56
+misc.h,misc.h,\misc.h,\src\base\utils\misc.h,1443,55,11

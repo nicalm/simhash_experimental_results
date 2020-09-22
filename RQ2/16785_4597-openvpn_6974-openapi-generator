@@ -1,0 +1,3 @@
+4597-openvpn,6974-openapi-generator
+list.c,list.c,\src\openvpn\list.c,\samples\client\petstore\c\src\list.c,480,132,27
+list.h,list.h,\src\openvpn\list.h,\samples\client\petstore\c\include\list.h,129,28,2

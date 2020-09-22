@@ -1,0 +1,6 @@
+1087-radare2,15760-bfgminer
+sha2.c,sha2.c,\libr\hash\sha2.c,\sha2.c,709,139,31
+sha2.h,sha2.h,\libr\hash\sha2.h,\sha2.h,109,29,1
+util.c,util.c,\shlr\sdb\src\util.c,\util.c,327,3540,114
+api.c,api.c,\shlr\sdb\src\json\api.c,\api.c,44,3686,11
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\util.h,256,687,44

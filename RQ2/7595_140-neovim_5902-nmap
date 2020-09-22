@@ -1,0 +1,10 @@
+140-neovim,5902-nmap
+channel.c,channel.c,\src\nvim\channel.c,\libssh2\src\channel.c,670,1831,161
+channel.h,channel.h,\src\nvim\channel.h,\libssh2\src\channel.h,113,33,1
+macros.h,macros.h,\src\nvim\macros.h,\libssh2\os400\macros.h,121,120,1
+socket.h,socket.h,\src\nvim\event\socket.h,\libpcap\pcap\socket.h,31,24,2
+socket.h,socket.h,\src\nvim\event\socket.h,\libssh2\os400\include\sys\socket.h,31,24,2
+queue.h,queue.h,\src\nvim\lib\queue.h,\libdnet-stripped\include\queue.h,54,314,7
+channel.c,channel.c,\src\nvim\msgpack_rpc\channel.c,\libssh2\src\channel.c,635,1831,123
+channel.h,channel.h,\src\nvim\msgpack_rpc\channel.h,\libssh2\src\channel.h,15,33,1
+os.h,os.h,\src\nvim\os\os.h,\libdnet-stripped\include\dnet\os.h,15,99,2

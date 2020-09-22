@@ -1,0 +1,7 @@
+10827-keepalived,86-netdata
+main.c,main.c,\genhash\main.c,\daemon\main.c,263,995,59
+signals.c,signals.c,\lib\signals.c,\daemon\signals.c,459,209,32
+main.h,main.h,\genhash\include\main.h,\daemon\main.h,47,27,1
+daemon.c,daemon.c,\keepalived\core\daemon.c,\daemon\daemon.c,42,364,12
+main.c,main.c,\keepalived\core\main.c,\daemon\main.c,1950,995,184
+main.h,main.h,\keepalived\include\main.h,\daemon\main.h,66,27,2

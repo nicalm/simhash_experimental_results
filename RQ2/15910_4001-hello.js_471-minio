@@ -1,0 +1,5 @@
+4001-hello.js,471-minio
+index.js,index.js,\assets\index.js,\browser\app\index.js,1114,22,0
+index.js,index.js,\assets\expect\index.js,\browser\app\index.js,806,22,0
+index.js,index.js,\tests\specs\index.js,\browser\app\index.js,39,22,0
+utils.js,utils.js,\assets\knockout\src\utils.js,\browser\app\js\utils.js,492,95,15

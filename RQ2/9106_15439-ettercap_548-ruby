@@ -1,0 +1,4 @@
+15439-ettercap,548-ruby
+memcmp.c,memcmp.c,\src\missing\memcmp.c,\missing\memcmp.c,18,15,4
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\missing\strlcat.c,29,26,9
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\missing\strlcpy.c,23,22,6

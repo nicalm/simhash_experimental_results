@@ -1,0 +1,9 @@
+10093-VeraCrypt,12658-Espruino
+config.h,config.h,\src\Crypto\config.h,\libs\crypto\mbedtls\config.h,152,60,4
+misc.h,misc.h,\src\Crypto\misc.h,\targetlibs\stm32f1\lib\misc.h,153,49,8
+misc.h,misc.h,\src\Crypto\misc.h,\targetlibs\stm32f2\lib\misc.h,153,49,8
+misc.h,misc.h,\src\Crypto\misc.h,\targetlibs\stm32f4\lib\misc.h,153,49,8
+misc.h,misc.h,\src\Crypto\misc.h,\targetlibs\stm32l1\lib\misc.h,153,49,8
+pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\libs\crypto\mbedtls\include\mbedtls\pkcs11.h,31,62,7
+config.h,config.h,\src\Common\libzip\config.h,\libs\crypto\mbedtls\config.h,60,60,4
+crc32.c,crc32.c,\src\Common\zlib\crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,289,19,8

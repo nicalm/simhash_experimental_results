@@ -1,0 +1,4 @@
+1087-radare2,753-fish-shell
+env.h,env.h,\shlr\grub\include\grub\env.h,\src\env.h,54,178,6
+parser.h,parser.h,\shlr\grub\include\grub\parser.h,\src\parser.h,69,170,5
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\src\common.h,480,572,1

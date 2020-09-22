@@ -1,0 +1,4 @@
+1769-ChakraCore,4477-libsass
+file.cpp,file.cpp,\pal\src\cruntime\file.cpp,\src\file.cpp,584,380,90
+context.cpp,context.cpp,\pal\src\thread\context.cpp,\src\context.cpp,1019,588,112
+context.h,context.h,\pal\src\include\pal\context.h,\include\sass\context.h,383,117,6

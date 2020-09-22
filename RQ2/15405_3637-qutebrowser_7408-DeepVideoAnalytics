@@ -1,0 +1,12 @@
+3637-qutebrowser,7408-DeepVideoAnalytics
+setup.py,setup.py,\setup.py,\client\setup.py,64,15,3
+setup.py,setup.py,\setup.py,\repos\lopq\python\setup.py,64,90,4
+utils.py,utils.py,\scripts\utils.py,\repos\crnn\utils.py,39,91,2
+utils.py,utils.py,\scripts\utils.py,\repos\lopq\python\lopq\utils.py,39,90,3
+config.py,config.py,\qutebrowser\config\config.py,\repos\tf_ctpn_cpu\lib\fast_rcnn\config.py,345,153,6
+utils.py,utils.py,\qutebrowser\utils\utils.py,\repos\crnn\utils.py,406,91,2
+utils.py,utils.py,\qutebrowser\utils\utils.py,\repos\lopq\python\lopq\utils.py,406,90,3
+utils.py,utils.py,\tests\helpers\utils.py,\repos\crnn\utils.py,111,91,1
+utils.py,utils.py,\tests\helpers\utils.py,\repos\lopq\python\lopq\utils.py,111,90,2
+test_utils.py,test_utils.py,\tests\unit\utils\test_utils.py,\repos\crnn\test\test_utils.py,596,70,1
+config.py,config.py,\scripts\dev\pylint_checkers\qute_pylint\config.py,\repos\tf_ctpn_cpu\lib\fast_rcnn\config.py,46,153,2

@@ -1,0 +1,7 @@
+1811-otp,6285-ImageMagick
+module.c,module.c,\erts\emulator\beam\module.c,\MagickCore\module.c,179,1030,43
+module.h,module.h,\erts\emulator\beam\module.h,\MagickCore\module.h,68,50,6
+compress.c,compress.c,\erts\emulator\zlib\compress.c,\MagickCore\compress.c,53,939,9
+cipher.c,cipher.c,\lib\crypto\c_src\cipher.c,\MagickCore\cipher.c,256,781,31
+info.c,info.c,\lib\crypto\c_src\info.c,\coders\info.c,59,99,8
+mac.c,mac.c,\lib\crypto\c_src\mac.c,\coders\mac.c,499,182,32

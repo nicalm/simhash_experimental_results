@@ -1,0 +1,3 @@
+13956-dolibarr,62850-ADOdb
+adodb-time.inc.php,adodb-time.inc.php,\htdocs\includes\adodbtime\adodb-time.inc.php,\adodb-time.inc.php,748,758,728
+client.php,client.php,\htdocs\includes\sabre\sabre\http\examples\client.php,\tests\client.php,19,68,3

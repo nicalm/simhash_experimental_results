@@ -1,0 +1,5 @@
+14021-lxml,6883-Sigil
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,1099,362,28
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,1099,187,22
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,154,362,8
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,154,187,10

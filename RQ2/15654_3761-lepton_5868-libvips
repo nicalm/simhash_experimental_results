@@ -1,0 +1,6 @@
+3761-lepton,5868-libvips
+transform.h,transform.h,\dependencies\brotli\c\dec\transform.h,\libvips\include\vips\transform.h,269,34,6
+histogram.c,histogram.c,\dependencies\brotli\c\enc\histogram.c,\libvips\histogram\histogram.c,81,159,11
+histogram.h,histogram.h,\dependencies\brotli\c\enc\histogram.h,\libvips\include\vips\histogram.h,43,37,5
+memory.c,memory.c,\dependencies\brotli\c\enc\memory.c,\libvips\iofuncs\memory.c,147,199,23
+memory.h,memory.h,\dependencies\brotli\c\enc\memory.h,\libvips\include\vips\memory.h,44,43,5

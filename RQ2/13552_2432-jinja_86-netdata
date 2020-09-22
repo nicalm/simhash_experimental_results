@@ -1,0 +1,11 @@
+2432-jinja,86-netdata
+exceptions.py,exceptions.py,\jinja2\exceptions.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,83,128,0
+loaders.py,loaders.py,\jinja2\loaders.py,\collectors\python.d.plugin\python_modules\bases\loaders.py,270,26,6
+nodes.py,nodes.py,\jinja2\nodes.py,\collectors\python.d.plugin\python_modules\pyyaml2\nodes.py,505,31,1
+nodes.py,nodes.py,\jinja2\nodes.py,\collectors\python.d.plugin\python_modules\pyyaml3\nodes.py,505,31,1
+parser.py,parser.py,\jinja2\parser.py,\collectors\python.d.plugin\python_modules\pyyaml2\parser.py,733,412,28
+parser.py,parser.py,\jinja2\parser.py,\collectors\python.d.plugin\python_modules\pyyaml3\parser.py,733,412,27
+__init__.py,__init__.py,\jinja2\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,31,171,0
+__init__.py,__init__.py,\jinja2\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,31,168,0
+__init__.py,__init__.py,\jinja2\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,31,58,0
+__init__.py,__init__.py,\jinja2\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,31,51,0

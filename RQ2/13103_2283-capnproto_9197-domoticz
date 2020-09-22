@@ -1,0 +1,3 @@
+2283-capnproto,9197-domoticz
+main.js,main.js,\doc\javascripts\main.js,\www\app\main.js,175,46,1
+schema.h,schema.h,\c++\src\capnp\schema.h,\cereal\external\rapidjson\schema.h,605,1597,79

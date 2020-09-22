@@ -1,0 +1,15 @@
+63411-CMS,6422-roundcubemail
+index.php,index.php,\index.php,\index.php,36,197,7
+index.php,index.php,\index.php,\installer\index.php,36,104,7
+config.php,config.php,\iu-application\config\config.php,\installer\config.php,45,508,0
+index.php,index.php,\iu-application\external\index.php,\index.php,36,197,6
+index.php,index.php,\iu-application\external\index.php,\installer\index.php,36,104,6
+functions.js,functions.js,\iu-resources\js\functions.js,\skins\classic\functions.js,642,850,145
+index.php,index.php,\iu-resources\min\index.php,\index.php,49,197,11
+index.php,index.php,\iu-resources\min\index.php,\installer\index.php,49,104,11
+DB.php,DB.php,\iu-system\database\DB.php,\tests\Framework\DB.php,94,140,25
+Parser.php,Parser.php,\iu-system\libraries\Parser.php,\plugins\managesieve\tests\Parser.php,82,43,14
+Html.php,Html.php,\iu-application\libraries\contents\Html.php,\tests\Framework\Html.php,18,97,5
+sql.php,sql.php,\iu-application\views\setup\sql.php,\plugins\password\drivers\sql.php,31,119,0
+index.php,index.php,\iu-resources\min\builder\index.php,\index.php,195,197,14
+index.php,index.php,\iu-resources\min\builder\index.php,\installer\index.php,195,104,17

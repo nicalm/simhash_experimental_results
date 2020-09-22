@@ -1,0 +1,3 @@
+17934-harfbuzz,6285-ImageMagick
+main.cc,main.cc,\src\main.cc,\Magick++\fuzz\main.cc,156,84,16
+main.cc,main.cc,\test\fuzzing\main.cc,\Magick++\fuzz\main.cc,22,84,6

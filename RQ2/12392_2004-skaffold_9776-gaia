@@ -1,0 +1,17 @@
+2004-skaffold,9776-gaia
+tabs.js,tabs.js,\docs\static\javascripts\tabs.js,\disabled_apps\sync\js\adapters\tabs.js,23,213,4
+tabs.js,tabs.js,\docs\static\javascripts\tabs.js,\tv_apps\browser\js\sync\tabs.js,23,49,4
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\apps\settings\js\main.js,166,71,9
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\dev_apps\test-keyboard-app\js\main.js,166,54,7
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\calendar\js\main.js,166,36,2
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\camera\js\main.js,166,54,4
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\tv_apps\remote-control-client\js\main.js,166,85,14
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\clock\js\banner\main.js,166,67,6
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\clock\js\panels\alarm\main.js,166,17,1
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\clock\js\panels\alarm_edit\main.js,166,272,14
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\clock\js\panels\stopwatch\main.js,166,251,14
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\disabled_apps\clock\js\panels\timer\main.js,166,221,14
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\distros\spark\apps\studio\js\main.js,166,168,5
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\distros\spark\apps\customizer\js\controllers\main.js,166,185,12
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\distros\spark\apps\customizer\js\views\main.js,166,105,1
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\apps\keyboard\test\marionette_disabled\apps\imetestapp\js\main.js,166,55,7

@@ -1,0 +1,15 @@
+242-php-src,4000-mruby
+time.c,time.c,\win32\time.c,\mrbgems\mruby-time\src\time.c,75,783,22
+hash.c,hash.c,\ext\hash\hash.c,\src\hash.c,996,976,192
+array.c,array.c,\ext\standard\array.c,\src\array.c,5175,1070,249
+array.c,array.c,\ext\standard\array.c,\mrbgems\mruby-array-ext\src\array.c,5175,112,23
+file.c,file.c,\ext\standard\file.c,\mrbgems\mruby-io\src\file.c,1874,449,103
+math.c,math.c,\ext\standard\math.c,\mrbgems\mruby-math\src\math.c,820,399,95
+pack.c,pack.c,\ext\standard\pack.c,\mrbgems\mruby-pack\src\pack.c,1035,1199,261
+random.c,random.c,\ext\standard\random.c,\mrbgems\mruby-random\src\random.c,201,294,51
+string.c,string.c,\ext\standard\string.c,\src\string.c,4857,2271,629
+string.c,string.c,\ext\standard\string.c,\mrbgems\mruby-string-ext\src\string.c,4857,897,214
+print.c,print.c,\ext\fileinfo\libmagic\print.c,\src\print.c,212,35,10
+print.c,print.c,\ext\fileinfo\libmagic\print.c,\mrbgems\mruby-print\src\print.c,212,55,14
+debug.c,debug.c,\ext\bcmath\libbcmath\src\debug.c,\src\debug.c,29,175,6
+init.c,init.c,\ext\bcmath\libbcmath\src\init.c,\src\init.c,59,41,3

@@ -1,0 +1,8 @@
+14790-sleuthkit,18692-spdk
+md5.c,md5.c,\tools\hashtools\md5.c,\lib\iscsi\md5.c,48,33,9
+json.h,json.h,\tools\logicalimager\json.h,\include\spdk\json.h,11001,110,8
+gpt.c,gpt.c,\tsk\vs\gpt.c,\module\bdev\gpt\gpt.c,311,242,47
+base64.h,base64.h,\tools\fiwalk\src\base64.h,\include\spdk\base64.h,18,22,9
+utils.c,utils.c,\tools\fiwalk\src\utils.c,\module\bdev\ocf\utils.c,91,82,16
+utils.c,utils.c,\tools\fiwalk\src\utils.c,\test\unit\lib\ftl\common\utils.c,91,102,12
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\lib\util\file.c,401,30,8

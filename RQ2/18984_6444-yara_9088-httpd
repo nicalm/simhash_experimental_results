@@ -1,0 +1,6 @@
+6444-yara,9088-httpd
+modules.c,modules.c,\libyara\modules.c,\os\netware\modules.c,141,91,1
+modules.c,modules.c,\libyara\modules.c,\os\win32\modules.c,141,31,1
+util.c,util.c,\tests\util.c,\server\util.c,285,2737,73
+util.c,util.c,\tests\util.c,\test\unit\util.c,285,44,9
+util.c,util.c,\tests\util.c,\modules\dav\main\util.c,285,1250,68

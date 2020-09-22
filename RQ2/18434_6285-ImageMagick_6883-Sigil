@@ -1,0 +1,5 @@
+6285-ImageMagick,6883-Sigil
+attribute.c,attribute.c,\MagickCore\attribute.c,\internal\gumbo\attribute.c,1573,60,12
+attribute.h,attribute.h,\MagickCore\attribute.h,\internal\gumbo\attribute.h,30,17,5
+compress.c,compress.c,\MagickCore\compress.c,\3rdparty\zlib\compress.c,939,47,9
+log.c,log.c,\MagickCore\log.c,\3rdparty\hunspell\intl\log.c,1233,82,24

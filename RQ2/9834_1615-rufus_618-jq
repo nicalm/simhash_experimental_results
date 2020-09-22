@@ -1,0 +1,4 @@
+1615-rufus,618-jq
+parser.c,parser.c,\src\parser.c,\src\parser.c,1126,3339,234
+util.h,util.h,\src\libcdio\cdio\util.h,\src\util.h,79,42,8
+util.c,util.c,\src\libcdio\driver\util.c,\src\util.c,124,380,21

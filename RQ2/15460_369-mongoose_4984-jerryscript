@@ -1,0 +1,7 @@
+369-mongoose,4984-jerryscript
+delete.js,delete.js,\benchmarks\benchjs\delete.js,\tests\jerry\delete.js,111,17,0
+strict.js,strict.js,\lib\error\strict.js,\tests\jerry\strict.js,18,86,3
+array.js,array.js,\lib\schema\array.js,\tests\jerry\array.js,314,128,1
+map.js,map.js,\lib\schema\map.js,\tests\jerry\es2015\map.js,38,108,1
+array.js,array.js,\lib\types\array.js,\tests\jerry\array.js,27,128,1
+map.js,map.js,\lib\types\map.js,\tests\jerry\es2015\map.js,158,108,3

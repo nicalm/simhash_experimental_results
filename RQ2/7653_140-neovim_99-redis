@@ -1,0 +1,11 @@
+140-neovim,99-redis
+assert.h,assert.h,\src\nvim\assert.h,\deps\jemalloc\include\jemalloc\internal\assert.h,83,46,12
+log.c,log.c,\src\nvim\log.c,\deps\jemalloc\src\log.c,244,57,12
+log.c,log.c,\src\nvim\log.c,\deps\jemalloc\test\unit\log.c,244,150,16
+log.h,log.h,\src\nvim\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,62,60,2
+math.c,math.c,\src\nvim\math.c,\deps\jemalloc\test\unit\math.c,32,344,5
+sha256.c,sha256.c,\src\nvim\sha256.c,\src\sha256.c,276,120,15
+sha256.h,sha256.h,\src\nvim\sha256.h,\src\sha256.h,16,17,4
+strings.h,strings.h,\src\nvim\strings.h,\deps\jemalloc\include\msvc_compat\strings.h,18,45,3
+stream.h,stream.h,\src\nvim\event\stream.h,\src\stream.h,43,66,1
+server.c,server.c,\src\nvim\msgpack_rpc\server.c,\src\server.c,174,3476,52

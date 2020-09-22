@@ -1,0 +1,6 @@
+1769-ChakraCore,2914-noVNC
+common.js,common.js,\test\Intl\common.js,\vendor\pako\lib\utils\common.js,101,33,7
+promise.js,promise.js,\test\TTBasic\promise.js,\vendor\promise.js,21,183,2
+util.js,util.js,\test\typedarray\util.js,\core\input\util.js,153,139,25
+util.js,util.js,\test\benchmarks\ARES-6\Air\util.js,\core\input\util.js,126,139,18
+assertions.js,assertions.js,\test\WasmSpec\testsuite\js-api\assertions.js,\tests\assertions.js,66,90,10

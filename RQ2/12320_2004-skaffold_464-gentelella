@@ -1,0 +1,9 @@
+2004-skaffold,464-gentelella
+webpack.config.js,webpack.config.js,\examples\react-reload\app\webpack.config.js,\vendors\raphael\webpack.config.js,26,50,8
+webpack.config.js,webpack.config.js,\examples\react-reload\app\webpack.config.js,\vendors\echarts\extension\webpack.config.js,26,16,6
+webpack.config.js,webpack.config.js,\integration\examples\react-reload\app\webpack.config.js,\vendors\raphael\webpack.config.js,26,50,8
+webpack.config.js,webpack.config.js,\integration\examples\react-reload\app\webpack.config.js,\vendors\echarts\extension\webpack.config.js,26,16,6
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\vendors\bootstrap-daterangepicker\example\amd\main.js,166,104,4
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\vendors\bootstrap-daterangepicker\example\browserify\main.js,166,98,3
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\vendors\flot.orderbars\examples\js\main.js,166,58,8
+main.js,main.js,\docs\content\en\docs\references\yaml\main.js,\vendors\parsleyjs\src\parsley\main.js,166,82,6

@@ -1,0 +1,5 @@
+13470-tigervnc,8848-lwjgl3
+Configuration.h,Configuration.h,\common\rfb\Configuration.h,\modules\lwjgl\driftfx\src\main\c\src\Configuration.h,169,22,7
+Logger.h,Logger.h,\common\rfb\Logger.h,\modules\lwjgl\driftfx\src\main\c\lib\utils\include\utils\Logger.h,28,27,3
+Configuration.java,Configuration.java,\java\com\tigervnc\rfb\Configuration.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Configuration.java,194,104,8
+Configuration.java,Configuration.java,\java\com\tigervnc\rfb\Configuration.java,\modules\lwjgl\driftfx\src\main\java\org\eclipse\fx\drift\internal\Configuration.java,194,41,11

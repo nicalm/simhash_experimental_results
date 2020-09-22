@@ -1,0 +1,3 @@
+10093-VeraCrypt,4482-nixpkgs
+config.h,config.h,\src\Crypto\config.h,\pkgs\os-specific\linux\net-tools\config.h,152,40,0
+config.h,config.h,\src\Common\libzip\config.h,\pkgs\os-specific\linux\net-tools\config.h,60,40,0

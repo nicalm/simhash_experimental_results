@@ -1,0 +1,3 @@
+3761-lepton,6444-yara
+hash.h,hash.h,\dependencies\brotli\c\enc\hash.h,\libyara\include\yara\hash.h,345,62,2
+types.h,types.h,\dependencies\brotli\c\include\brotli\types.h,\libyara\include\yara\types.h,31,527,3

@@ -1,0 +1,7 @@
+140-neovim,753-fish-shell
+highlight.h,highlight.h,\src\nvim\highlight.h,\src\highlight.h,17,75,1
+path.h,path.h,\src\nvim\path.h,\src\path.h,32,22,1
+screen.h,screen.h,\src\nvim\screen.h,\src\screen.h,36,146,1
+signal.h,signal.h,\src\nvim\event\signal.h,\src\signal.h,18,20,2
+input.h,input.h,\src\nvim\tui\input.h,\src\input.h,25,66,1
+parser.h,parser.h,\src\nvim\viml\parser\parser.h,\src\parser.h,171,170,6

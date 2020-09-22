@@ -1,0 +1,9 @@
+1811-otp,682-curl
+hash.c,hash.c,\erts\emulator\beam\hash.c,\lib\hash.c,215,242,55
+hash.h,hash.h,\erts\emulator\beam\hash.h,\lib\hash.h,88,57,2
+digest.c,digest.c,\lib\crypto\c_src\digest.c,\lib\vauth\digest.c,117,643,11
+digest.h,digest.h,\lib\crypto\c_src\digest.h,\lib\vauth\digest.h,23,18,3
+hash.c,hash.c,\lib\crypto\c_src\hash.c,\lib\hash.c,441,242,32
+hmac.c,hmac.c,\lib\crypto\c_src\hmac.c,\lib\hmac.c,181,69,12
+rand.c,rand.c,\lib\crypto\c_src\rand.c,\lib\rand.c,100,107,8
+hash.h,hash.h,\lib\erl_interface\src\registry\hash.h,\lib\hash.h,21,57,1

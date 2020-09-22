@@ -1,0 +1,3 @@
+14790-sleuthkit,15439-ettercap
+strlcat.c,strlcat.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcat.c,\src\missing\strlcat.c,26,29,20
+strlcpy.c,strlcpy.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcpy.c,\src\missing\strlcpy.c,23,23,7

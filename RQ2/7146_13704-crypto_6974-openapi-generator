@@ -1,0 +1,15 @@
+13704-crypto,6974-openapi-generator
+client.go,client.go,\ssh\client.go,\samples\client\petstore\go\go-petstore\client.go,170,405,60
+client.go,client.go,\ssh\client.go,\samples\client\petstore\go\go-petstore-withXml\client.go,170,405,60
+client.go,client.go,\ssh\client.go,\samples\client\petstore\go-experimental\go-petstore\client.go,170,402,60
+client.go,client.go,\ssh\client.go,\samples\openapi3\client\petstore\go\go-petstore\client.go,170,407,60
+client.go,client.go,\ssh\client.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\client.go,170,412,60
+auth_test.go,auth_test.go,\nacl\auth\auth_test.go,\samples\client\petstore\go\auth_test.go,153,198,26
+auth_test.go,auth_test.go,\nacl\auth\auth_test.go,\samples\client\petstore\go-experimental\auth_test.go,153,204,26
+auth_test.go,auth_test.go,\nacl\auth\auth_test.go,\samples\openapi3\client\petstore\go\auth_test.go,153,198,26
+auth_test.go,auth_test.go,\nacl\auth\auth_test.go,\samples\openapi3\client\petstore\go-experimental\auth_test.go,153,204,26
+client.go,client.go,\ssh\agent\client.go,\samples\client\petstore\go\go-petstore\client.go,570,405,128
+client.go,client.go,\ssh\agent\client.go,\samples\client\petstore\go\go-petstore-withXml\client.go,570,405,128
+client.go,client.go,\ssh\agent\client.go,\samples\client\petstore\go-experimental\go-petstore\client.go,570,402,127
+client.go,client.go,\ssh\agent\client.go,\samples\openapi3\client\petstore\go\go-petstore\client.go,570,407,128
+client.go,client.go,\ssh\agent\client.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\client.go,570,412,130

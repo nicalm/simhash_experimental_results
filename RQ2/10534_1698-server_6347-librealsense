@@ -1,0 +1,14 @@
+1698-server,6347-librealsense
+app.js,app.js,\apps\files\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,196,480,40
+app.js,app.js,\apps\files_external\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,75,480,23
+app.js,app.js,\apps\files_sharing\js\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,239,480,38
+app.js,app.js,\apps\files_trashbin\src\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,107,480,14
+app.js,app.js,\apps\systemtags\src\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,73,480,14
+index.js,index.js,\core\src\jquery\index.js,\wrappers\nodejs\index.js,22,2989,2
+index.js,index.js,\core\src\jquery\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,22,379,2
+index.js,index.js,\core\src\OC\index.js,\wrappers\nodejs\index.js,162,2989,1
+index.js,index.js,\core\src\OC\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,162,379,1
+index.js,index.js,\core\src\OCP\index.js,\wrappers\nodejs\index.js,18,2989,2
+index.js,index.js,\core\src\OCP\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,18,379,2
+index.js,index.js,\apps\settings\src\store\index.js,\wrappers\nodejs\index.js,29,2989,4
+index.js,index.js,\apps\settings\src\store\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,29,379,4

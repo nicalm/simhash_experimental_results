@@ -1,0 +1,3 @@
+15760-bfgminer,5868-libvips
+util.c,util.c,\util.c,\libvips\iofuncs\util.c,3540,1294,304
+util.h,util.h,\util.h,\libvips\include\vips\util.h,687,230,8

@@ -1,0 +1,7 @@
+18-electron,471-minio
+index.js,index.js,\npm\index.js,\browser\app\index.js,15,22,0
+index.js,index.js,\spec-main\index.js,\browser\app\index.js,75,22,0
+utils.js,utils.js,\script\lib\utils.js,\browser\app\js\utils.js,74,95,13
+index.js,index.js,\script\release\notes\index.js,\browser\app\index.js,149,22,0
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\browser\app\index.js,17,22,0
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\browser\app\index.js,33,22,0

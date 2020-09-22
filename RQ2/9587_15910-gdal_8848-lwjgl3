@@ -1,0 +1,4 @@
+15910-gdal,8848-lwjgl3
+mem.h,mem.h,\gdal\alg\internal_libqhull\mem.h,\modules\lwjgl\zstd\src\main\c\common\mem.h,93,303,8
+fit.cpp,fit.cpp,\gdal\frmts\fit\fit.cpp,\modules\lwjgl\tootle\src\main\c\fit.cpp,147,95,11
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,56,39,11

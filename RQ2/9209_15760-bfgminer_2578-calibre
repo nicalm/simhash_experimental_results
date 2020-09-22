@@ -1,0 +1,4 @@
+15760-bfgminer,2578-calibre
+util.c,util.c,\util.c,\bypy\linux\util.c,3540,196,40
+util.c,util.c,\util.c,\bypy\macos\util.c,3540,169,32
+util.c,util.c,\util.c,\bypy\windows\util.c,3540,328,54

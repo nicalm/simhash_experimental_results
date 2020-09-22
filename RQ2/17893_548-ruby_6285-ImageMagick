@@ -1,0 +1,11 @@
+548-ruby,6285-ImageMagick
+debug.c,debug.c,\debug.c,\coders\debug.c,211,144,15
+random.c,random.c,\random.c,\MagickCore\random.c,1180,544,113
+string.c,string.c,\string.c,\MagickCore\string.c,8059,1281,251
+thread.c,thread.c,\thread.c,\MagickCore\thread.c,3451,106,31
+version.c,version.c,\version.c,\MagickCore\version.c,89,351,18
+list.h,list.h,\ccan\list\list.h,\MagickCore\list.h,263,41,4
+monitor.c,monitor.c,\ext\monitor\monitor.c,\MagickCore\monitor.c,181,67,10
+option.c,option.c,\ext\socket\option.c,\MagickCore\option.c,1123,2676,104
+type.c,type.c,\ext\-test-\symbol\type.c,\MagickCore\type.c,66,961,16
+attribute.c,attribute.c,\ext\-test-\win32\console\attribute.c,\MagickCore\attribute.c,57,1573,9

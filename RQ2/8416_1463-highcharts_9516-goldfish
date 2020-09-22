@@ -1,0 +1,16 @@
+1463-highcharts,9516-goldfish
+build.js,build.js,\tools\build.js,\frontend\build\build.js,222,35,1
+index.js,index.js,\studies\highcharts-jsdom\index.js,\frontend\config\index.js,93,31,6
+index.js,index.js,\studies\highcharts-jsdom\index.js,\frontend\client\router\index.js,93,33,6
+index.js,index.js,\studies\highcharts-jsdom\index.js,\frontend\client\store\index.js,93,24,2
+index.js,index.js,\studies\highcharts-jsdom\index.js,\frontend\client\store\modules\menu\index.js,93,49,12
+index.js,index.js,\studies\highcharts-jsdom\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,93,58,11
+build.js,build.js,\tools\gulptasks\lib\build.js,\frontend\build\build.js,40,35,0
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\frontend\build\utils.js,53,55,8
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\frontend\client\app.js,325,124,6
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\frontend\client\store\modules\app.js,325,36,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\frontend\config\index.js,40,31,4
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\frontend\client\router\index.js,40,33,4
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\frontend\client\store\index.js,40,24,0
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\frontend\client\store\modules\menu\index.js,40,49,4
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,40,58,4

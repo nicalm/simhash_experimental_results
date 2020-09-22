@@ -1,0 +1,7 @@
+10248-vesta,1593-ungit
+app.js,app.js,\web\js\app.js,\components\app\app.js,903,123,26
+Gruntfile.js,Gruntfile.js,\web\js\iviewer\Gruntfile.js,\Gruntfile.js,64,404,19
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\public\main.js,50,131,11
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\public\source\main.js,50,180,11
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\public\main.js,94,131,22
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\public\source\main.js,94,180,23

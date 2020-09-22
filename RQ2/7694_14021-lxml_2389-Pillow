@@ -1,0 +1,6 @@
+14021-lxml,2389-Pillow
+setup.py,setup.py,\setup.py,\setup.py,168,714,19
+test.py,test.py,\test.py,\winbuild\test.py,432,34,3
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\PIL\__init__.py,1099,52,2
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\PIL\__init__.py,154,52,0
+selftest.py,selftest.py,\src\lxml\tests\selftest.py,\selftest.py,181,25,3

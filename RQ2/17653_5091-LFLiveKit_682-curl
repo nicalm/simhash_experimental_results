@@ -1,0 +1,3 @@
+5091-LFLiveKit,682-curl
+http.h,http.h,\LFLiveKit\Vendor\pili-librtmp\http.h,\lib\http.h,22,158,2
+parseurl.c,parseurl.c,\LFLiveKit\Vendor\pili-librtmp\parseurl.c,\docs\examples\parseurl.c,219,39,5

@@ -1,0 +1,3 @@
+5991-cJSON,6974-openapi-generator
+cJSON.c,cJSON.c,\cJSON.c,\samples\client\petstore\c\external\cJSON.c,2349,2314,2262
+cJSON.h,cJSON.h,\cJSON.h,\samples\client\petstore\c\external\cJSON.h,150,143,134

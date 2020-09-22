@@ -1,0 +1,5 @@
+2283-capnproto,4984-jerryscript
+common.h,common.h,\c++\src\benchmark\common.h,\jerry-core\parser\js\common.h,229,78,6
+common.h,common.h,\c++\src\capnp\common.h,\jerry-core\parser\js\common.h,508,78,9
+common.h,common.h,\c++\src\kj\common.h,\jerry-core\parser\js\common.h,1054,78,9
+common.h,common.h,\c++\src\kj\parse\common.h,\jerry-core\parser\js\common.h,564,78,11

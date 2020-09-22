@@ -1,0 +1,4 @@
+11604-pdns,12873-mediawiki
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\resources\lib\jquery\jquery.js,7102,6800,5413
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\resources\lib\moment\moment.js,2690,3546,2220
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\resources\lib\moment\moment.js,2389,3546,1076

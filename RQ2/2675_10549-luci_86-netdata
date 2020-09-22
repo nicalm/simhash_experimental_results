@@ -1,0 +1,2 @@
+10549-luci,86-netdata
+socket.c,socket.c,\libs\luci-lib-nixio\src\socket.c,\libnetdata\socket\socket.c,113,1305,27

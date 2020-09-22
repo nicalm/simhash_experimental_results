@@ -1,0 +1,8 @@
+2257-core,65020-Edit-Flow
+bootstrap.php,bootstrap.php,\tests\bootstrap.php,\tests\bootstrap.php,20,21,4
+setup.js,setup.js,\core\js\setup.js,\tests\jest\calendar\setup.js,99,165,8
+settings.js,settings.js,\settings\js\settings.js,\modules\settings\lib\settings.js,72,71,13
+settings.js,settings.js,\apps\files_external\js\settings.js,\modules\settings\lib\settings.js,1085,71,17
+settings.php,settings.php,\apps\files_external\templates\settings.php,\modules\settings\settings.php,175,254,24
+util.php,util.php,\lib\private\legacy\util.php,\common\php\util.php,870,32,8
+bootstrap.php,bootstrap.php,\tests\acceptance\features\bootstrap\bootstrap.php,\tests\bootstrap.php,18,21,1

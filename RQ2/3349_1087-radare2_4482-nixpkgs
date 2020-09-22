@@ -1,0 +1,9 @@
+1087-radare2,4482-nixpkgs
+test.c,test.c,\libr\util\regex\test.c,\pkgs\build-support\libredirect\test.c,48,41,5
+config.h,config.h,\shlr\zip\zip\config.h,\pkgs\os-specific\linux\net-tools\config.h,71,40,0
+test.c,test.c,\test\unit\legacy_unit\egg\test.c,\pkgs\build-support\libredirect\test.c,49,41,4
+test.c,test.c,\test\unit\legacy_unit\hash\test.c,\pkgs\build-support\libredirect\test.c,22,41,3
+test.c,test.c,\test\unit\legacy_unit\reg\test.c,\pkgs\build-support\libredirect\test.c,99,41,5
+test.c,test.c,\test\unit\legacy_unit\search\test.c,\pkgs\build-support\libredirect\test.c,38,41,5
+test.c,test.c,\test\unit\legacy_unit\socket\test.c,\pkgs\build-support\libredirect\test.c,22,41,4
+test.c,test.c,\test\unit\legacy_unit\util\diff\test.c,\pkgs\build-support\libredirect\test.c,93,41,6

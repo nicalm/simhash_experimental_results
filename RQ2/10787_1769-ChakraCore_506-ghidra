@@ -1,0 +1,2 @@
+1769-ChakraCore,506-ghidra
+build.py,build.py,\test\WasmSpec\testsuite\build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,177,235,5

@@ -1,0 +1,6 @@
+12310-weechat,4139-outline-client
+plugin.c,plugin.c,\src\plugins\plugin.c,\third_party\shadowsocks-libev\src\plugin.c,1150,249,53
+plugin.h,plugin.h,\src\plugins\plugin.h,\third_party\shadowsocks-libev\src\plugin.h,35,23,1
+alias.c,alias.c,\src\plugins\alias\alias.c,\third_party\badvpn\ncd\modules\alias.c,512,85,20
+exec.c,exec.c,\src\plugins\exec\exec.c,\third_party\shadowsocks-libev\libcork\src\libcork\posix\exec.c,590,149,42
+logger.h,logger.h,\src\plugins\logger\logger.h,\tools\outline_proxy_controller\logger.h,24,54,1

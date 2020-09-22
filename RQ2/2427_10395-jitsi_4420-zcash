@@ -1,0 +1,3 @@
+10395-jitsi,4420-zcash
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\src\primitives\block.h,71,147,1
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\src\leveldb\table\block.h,71,26,1

@@ -1,0 +1,12 @@
+10395-jitsi,4266-webkit
+Logger.h,Logger.h,\src\native\addrbook\msoutlook\Logger.h,\Source\WTF\wtf\Logger.h,23,211,4
+err.h,err.h,\src\native\windows\setup\err.h,\Source\ThirdParty\libwebrtc\Source\third_party\libsrtp\crypto\include\err.h,18,43,3
+err.h,err.h,\src\native\windows\setup\err.h,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\include\openssl\err.h,18,145,2
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\include\openssl\base.h,66,364,1
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\vp8\encoder\block.h,71,119,2
+container.h,container.h,\src\native\windows\setup\include\lzma\container.h,\Source\ThirdParty\libwebrtc\Source\third_party\abseil-cpp\absl\algorithm\container.h,48,961,1
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\vp8\common\filter.h,51,15,1
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\Source\ThirdParty\ANGLE\src\common\version.h,40,15,2
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\Source\ThirdParty\libwebrtc\Source\third_party\jsoncpp\generated\version.h,40,15,2
+AbstractMessage.java,AbstractMessage.java,\src\net\java\sip\communicator\service\protocol\AbstractMessage.java,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\java\core\src\main\java\com\google\protobuf\AbstractMessage.java,112,384,22
+Utils.java,Utils.java,\src\net\java\sip\communicator\impl\protocol\irc\Utils.java,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\ruby\src\main\java\com\google\protobuf\jruby\Utils.java,140,231,34

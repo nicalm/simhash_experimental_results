@@ -1,0 +1,7 @@
+10549-luci,65020-Edit-Flow
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\modules\settings\lib\settings.js,54,71,3
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\tests\e2e\utils\index.js,82,32,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,82,78,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\modules\calendar\lib\react\calendar-filters\index.js,82,152,13
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\modules\calendar\lib\react\calendar-header\index.js,82,35,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\modules\calendar\lib\react\combobox\index.js,82,166,7

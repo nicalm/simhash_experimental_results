@@ -1,0 +1,5 @@
+1529-harbor,3637-qutebrowser
+utils.py,utils.py,\tools\migration\cfg\utils.py,\scripts\utils.py,61,39,3
+utils.py,utils.py,\tools\migration\cfg\utils.py,\qutebrowser\utils\utils.py,61,406,5
+utils.py,utils.py,\tools\migration\cfg\utils.py,\tests\helpers\utils.py,61,111,1
+log.py,log.py,\make\photon\prepare\utils\log.py,\qutebrowser\utils\log.py,24,459,2

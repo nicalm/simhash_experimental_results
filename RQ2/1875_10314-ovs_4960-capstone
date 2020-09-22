@@ -1,0 +1,5 @@
+10314-ovs,4960-capstone
+setup.py,setup.py,\python\setup.py,\bindings\python\setup.py,71,173,14
+getopt.h,getopt.h,\include\windows\getopt.h,\cstool\getopt.h,17,60,0
+utils.c,utils.c,\datapath\linux\compat\utils.c,\utils.c,88,92,18
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\bindings\python\capstone\__init__.py,44,801,2

@@ -1,0 +1,12 @@
+11788-fbthrift,7408-DeepVideoAnalytics
+utils.py,utils.py,\build\fbcode_builder\utils.py,\repos\crnn\utils.py,59,91,0
+utils.py,utils.py,\build\fbcode_builder\utils.py,\repos\lopq\python\lopq\utils.py,59,90,1
+setup.py,setup.py,\thrift\lib\py\setup.py,\client\setup.py,54,15,2
+setup.py,setup.py,\thrift\lib\py\setup.py,\repos\lopq\python\setup.py,54,90,1
+setup.py,setup.py,\thrift\lib\py3\setup.py,\client\setup.py,29,15,1
+setup.py,setup.py,\thrift\lib\py3\setup.py,\repos\lopq\python\setup.py,29,90,1
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\deploy\compose\__init__.py,44,161,8
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\deploy\kube\__init__.py,44,256,4
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\deploy\compose\__init__.py,108,161,6
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\deploy\kube\__init__.py,108,256,5
+constants.py,constants.py,\thrift\compiler\test\fixtures\constants\gen-py\module\constants.py,\client\dvaclient\constants.py,182,32,0

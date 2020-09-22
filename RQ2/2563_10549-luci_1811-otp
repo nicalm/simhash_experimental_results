@@ -1,0 +1,7 @@
+10549-luci,1811-otp
+binary.c,binary.c,\libs\luci-lib-nixio\src\binary.c,\erts\emulator\beam\binary.c,250,1336,34
+io.c,io.c,\libs\luci-lib-nixio\src\io.c,\erts\emulator\beam\io.c,157,6019,42
+aes.c,aes.c,\libs\luci-lib-nixio\axTLS\crypto\aes.c,\lib\crypto\c_src\aes.c,313,222,13
+hmac.c,hmac.c,\libs\luci-lib-nixio\axTLS\crypto\hmac.c,\lib\crypto\c_src\hmac.c,52,181,8
+rsa.c,rsa.c,\libs\luci-lib-nixio\axTLS\crypto\rsa.c,\lib\crypto\c_src\rsa.c,172,208,18
+rsa.c,rsa.c,\libs\luci-lib-px5g\src\library\rsa.c,\lib\crypto\c_src\rsa.c,492,208,18

@@ -1,0 +1,5 @@
+12310-weechat,1541-h2o
+main.c,main.c,\src\gui\curses\headless\main.c,\src\main.c,64,2462,21
+main.c,main.c,\src\gui\curses\headless\main.c,\deps\picotls\deps\cifra\src\arm\main.c,64,385,16
+main.c,main.c,\src\gui\curses\normal\main.c,\src\main.c,16,2462,3
+main.c,main.c,\src\gui\curses\normal\main.c,\deps\picotls\deps\cifra\src\arm\main.c,16,385,3

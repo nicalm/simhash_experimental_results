@@ -1,0 +1,6 @@
+13470-tigervnc,1769-ChakraCore
+Thread.h,Thread.h,\common\os\Thread.h,\lib\Common\PlatformAgnostic\Thread.h,29,20,3
+Encoder.h,Encoder.h,\common\rfb\Encoder.h,\lib\Backend\Encoder.h,42,66,4
+Region.h,Region.h,\common\rfb\Region.h,\lib\Backend\Region.h,40,75,3
+Security.h,Security.h,\common\rfb\Security.h,\lib\Backend\Security.h,50,44,5
+Security.h,Security.h,\win\rfb_win32\Security.h,\lib\Backend\Security.h,71,44,5

@@ -1,0 +1,15 @@
+24-node,3405-libevent
+util.h,util.h,\src\util.h,\include\event2\util.h,520,462,23
+bench.c,bench.c,\deps\http_parser\bench.c,\test\bench.c,76,154,11
+http.c,http.c,\deps\llhttp\src\http.c,\http.c,80,4015,37
+queue.h,queue.h,\deps\uv\src\queue.h,\compat\sys\queue.h,73,304,1
+util.h,util.h,\deps\icu-small\source\common\util.h,\include\event2\util.h,51,462,3
+tree.h,tree.h,\deps\uv\include\uv\tree.h,\WIN32-Code\tree.h,666,580,552
+getopt.c,getopt.c,\deps\uv\samples\socks5-proxy\getopt.c,\WIN32-Code\getopt.c,78,96,54
+kqueue.c,kqueue.c,\deps\uv\src\unix\kqueue.c,\kqueue.c,371,387,62
+poll.c,poll.c,\deps\uv\src\unix\poll.c,\poll.c,85,242,10
+signal.c,signal.c,\deps\uv\src\unix\signal.c,\signal.c,342,348,51
+poll.c,poll.c,\deps\uv\src\win\poll.c,\poll.c,463,242,25
+signal.c,signal.c,\deps\uv\src\win\signal.c,\signal.c,157,348,24
+buffer.c,buffer.c,\deps\openssl\openssl\crypto\buffer\buffer.c,\buffer.c,134,2732,39
+buffer.h,buffer.h,\deps\openssl\openssl\include\openssl\buffer.h,\include\event2\buffer.h,35,208,10

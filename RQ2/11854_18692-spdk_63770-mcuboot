@@ -1,0 +1,4 @@
+18692-spdk,63770-mcuboot
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\scripts\imgtool\keys\__init__.py,116,63,0
+utils.c,utils.c,\module\bdev\ocf\utils.c,\ext\tinycrypt\lib\source\utils.c,82,32,11
+utils.c,utils.c,\test\unit\lib\ftl\common\utils.c,\ext\tinycrypt\lib\source\utils.c,102,32,10

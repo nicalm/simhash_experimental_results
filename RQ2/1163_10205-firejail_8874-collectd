@@ -1,0 +1,12 @@
+10205-firejail,8874-collectd
+network.c,network.c,\src\faudit\network.c,\src\network.c,65,2472,17
+network.c,network.c,\src\faudit\network.c,\src\libcollectdclient\network.c,65,312,13
+cpu.c,cpu.c,\src\firejail\cpu.c,\src\cpu.c,133,644,28
+network.c,network.c,\src\firejail\network.c,\src\network.c,214,2472,40
+network.c,network.c,\src\firejail\network.c,\src\libcollectdclient\network.c,214,312,38
+cpu.c,cpu.c,\src\firemon\cpu.c,\src\cpu.c,39,644,9
+interface.c,interface.c,\src\firemon\interface.c,\src\interface.c,122,288,26
+procevent.c,procevent.c,\src\firemon\procevent.c,\src\procevent.c,406,908,83
+interface.c,interface.c,\src\fnet\interface.c,\src\interface.c,263,288,30
+common.h,common.h,\src\include\common.h,\src\utils\common\common.h,89,131,5
+common.c,common.c,\src\lib\common.c,\src\utils\common\common.c,241,1217,63

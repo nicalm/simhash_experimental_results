@@ -1,0 +1,9 @@
+14021-lxml,86-netdata
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,1099,171,14
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,1099,168,14
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,1099,58,4
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,1099,51,1
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,154,171,5
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,154,168,5
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,154,58,1
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,154,51,0

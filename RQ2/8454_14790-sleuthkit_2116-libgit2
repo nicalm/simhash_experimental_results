@@ -1,0 +1,10 @@
+14790-sleuthkit,2116-libgit2
+sha1.c,sha1.c,\tools\hashtools\sha1.c,\tests\core\sha1.c,50,48,7
+sha1.c,sha1.c,\tools\hashtools\sha1.c,\src\hash\sha1\sha1dc\sha1.c,50,1597,11
+encoding.c,encoding.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\encoding.c,\tests\core\encoding.c,291,31,4
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\tests\attr\file.c,401,194,14
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\tests\filter\file.c,401,75,16
+print.c,print.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\print.c,\tests\patch\print.c,188,144,15
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\src\config.h,41,47,1
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\include\git2\config.h,41,112,1
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\include\git2\sys\config.h,41,41,1

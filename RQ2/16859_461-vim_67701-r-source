@@ -1,0 +1,8 @@
+461-vim,67701-r-source
+edit.c,edit.c,\src\edit.c,\src\main\edit.c,4344,148,25
+eval.c,eval.c,\src\eval.c,\src\main\eval.c,4916,5195,824
+list.c,list.c,\src\list.c,\src\main\list.c,1649,84,16
+main.c,main.c,\src\main.c,\src\main\main.c,3234,1257,242
+register.c,register.c,\src\register.c,\src\library\grid\src\register.c,2379,73,4
+version.c,version.c,\src\version.c,\src\main\version.c,1339,107,13
+state.c,state.c,\src\libvterm\src\state.c,\src\library\grid\src\state.c,1575,260,54

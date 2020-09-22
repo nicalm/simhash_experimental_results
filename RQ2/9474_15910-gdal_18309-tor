@@ -1,0 +1,4 @@
+15910-gdal,18309-tor
+compress.c,compress.c,\gdal\frmts\zlib\compress.c,\src\lib\compress\compress.c,46,507,8
+base.h,base.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\base.h,\src\ext\ed25519\ref10\base.h,280,1344,0
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\src\app\config\config.h,54,232,6

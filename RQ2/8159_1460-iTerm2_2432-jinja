@@ -1,0 +1,6 @@
+1460-iTerm2,2432-jinja
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\setup.py,20,50,3
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\setup.py,33,50,5
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\docs\conf.py,39,40,6
+profile.py,profile.py,\api\library\python\iterm2\iterm2\profile.py,\examples\profile.py,1173,23,1
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\jinja2\__init__.py,52,31,0

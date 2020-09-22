@@ -1,0 +1,10 @@
+12873-mediawiki,63613-KunstmaanBundlesCMS
+ImageHandler.php,ImageHandler.php,\includes\media\ImageHandler.php,\src\Kunstmaan\MediaBundle\Helper\Image\ImageHandler.php,161,55,14
+Parser.php,Parser.php,\includes\parser\Parser.php,\src\Kunstmaan\FixturesBundle\Parser\Parser.php,3718,93,24
+VersionChecker.php,VersionChecker.php,\includes\registration\VersionChecker.php,\src\Kunstmaan\AdminBundle\Helper\VersionCheck\VersionChecker.php,211,124,27
+Shell.php,Shell.php,\includes\shell\Shell.php,\src\Kunstmaan\UtilitiesBundle\Helper\Shell\Shell.php,90,27,8
+SearchFormWidget.php,SearchFormWidget.php,\includes\widget\search\SearchFormWidget.php,\src\Kunstmaan\NodeSearchBundle\Helper\FormWidgets\SearchFormWidget.php,236,42,8
+options.js,options.js,\resources\src\mediawiki.api\options.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\scayt\dialogs\options.js,77,17,0
+tabs.js,tabs.js,\resources\src\mediawiki.special.preferences.ooui\tabs.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\analytics\tabs.js,79,81,10
+ShellTest.php,ShellTest.php,\tests\phpunit\includes\shell\ShellTest.php,\src\Kunstmaan\UtilitiesBundle\Tests\unit\Helper\Shell\ShellTest.php,74,20,3
+UserTest.php,UserTest.php,\tests\phpunit\includes\user\UserTest.php,\src\Kunstmaan\AdminBundle\Tests\unit\Entity\UserTest.php,1392,85,10

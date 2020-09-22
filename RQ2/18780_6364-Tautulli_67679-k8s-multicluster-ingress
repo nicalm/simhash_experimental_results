@@ -1,0 +1,8 @@
+6364-Tautulli,67679-k8s-multicluster-ingress
+common.py,common.py,\plexpy\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,571,21,0
+common.py,common.py,\lib\oauthlib\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,248,21,1
+client.py,client.py,\lib\plexapi\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,227,21,1
+server.py,server.py,\lib\plexapi\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,219,15,1
+extract.py,extract.py,\lib\mako\ext\extract.py,\vendor\k8s.io\kubernetes\translations\extract.py,83,47,1
+client.py,client.py,\lib\paho\mqtt\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,1567,21,1
+script.js,script.js,\data\interfaces\default\js\script.js,\vendor\k8s.io\kubernetes\examples\guestbook-go\public\script.js,690,39,9

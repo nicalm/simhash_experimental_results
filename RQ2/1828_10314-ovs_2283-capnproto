@@ -1,0 +1,11 @@
+10314-ovs,2283-capnproto
+compiler.h,compiler.h,\lib\compiler.h,\c++\src\capnp\compiler\compiler.h,22,56,0
+hash.h,hash.h,\lib\hash.h,\c++\src\kj\hash.h,285,95,17
+table.h,table.h,\lib\table.h,\c++\src\kj\table.h,100,1113,6
+timer.h,timer.h,\lib\timer.h,\c++\src\kj\timer.h,37,48,4
+table.h,table.h,\ovsdb\table.h,\c++\src\kj\table.h,42,1113,3
+compiler.h,compiler.h,\include\openvswitch\compiler.h,\c++\src\capnp\compiler\compiler.h,148,56,0
+json.h,json.h,\include\openvswitch\json.h,\c++\src\capnp\compat\json.h,95,317,7
+list.h,list.h,\include\openvswitch\list.h,\c++\src\capnp\list.h,203,398,25
+thread.h,thread.h,\include\openvswitch\thread.h,\c++\src\kj\thread.h,85,39,8
+list.h,list.h,\datapath\linux\compat\include\linux\list.h,\c++\src\capnp\list.h,24,398,1

@@ -1,0 +1,7 @@
+8848-lwjgl3,9197-domoticz
+error.h,error.h,\modules\lwjgl\tootle\src\main\c\error.h,\cereal\external\rapidjson\error\error.h,53,57,5
+Bitfield.h,Bitfield.h,\modules\lwjgl\yoga\src\main\c\Bitfield.h,\hardware\openzwave\Bitfield.h,107,107,21
+Utils.h,Utils.h,\modules\lwjgl\yoga\src\main\c\Utils.h,\hardware\openzwave\Utils.h,83,45,4
+Configuration.h,Configuration.h,\modules\lwjgl\driftfx\src\main\c\src\Configuration.h,\hardware\openzwave\command_classes\Configuration.h,22,26,5
+Logger.cpp,Logger.cpp,\modules\lwjgl\driftfx\src\main\c\lib\utils\src\Logger.cpp,\main\Logger.cpp,87,335,19
+Logger.h,Logger.h,\modules\lwjgl\driftfx\src\main\c\lib\utils\include\utils\Logger.h,\main\Logger.h,27,91,3

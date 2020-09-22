@@ -1,0 +1,7 @@
+548-ruby,9197-domoticz
+node.h,node.h,\node.h,\hardware\plugins\Include\node.h,403,32,6
+compile.h,compile.h,\internal\compile.h,\hardware\plugins\Include\compile.h,15,55,1
+error.h,error.h,\internal\error.h,\cereal\external\rapidjson\error\error.h,120,57,5
+object.h,object.h,\internal\object.h,\hardware\plugins\Include\object.h,43,531,3
+warnings.h,warnings.h,\internal\warnings.h,\hardware\plugins\Include\warnings.h,35,47,2
+regex.h,regex.h,\include\ruby\regex.h,\cereal\external\rapidjson\internal\regex.h,26,560,10

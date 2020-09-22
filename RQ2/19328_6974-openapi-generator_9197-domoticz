@@ -1,0 +1,11 @@
+6974-openapi-generator,9197-domoticz
+app.js,app.js,\samples\server\petstore\nodejs-express-server\app.js,\www\app\app.js,24,742,6
+object.h,object.h,\samples\client\petstore\c\model\object.h,\hardware\plugins\Include\object.h,15,531,1
+main.cpp,main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,\tinyxpath\main.cpp,18,296,1
+server.js,server.js,\samples\server\petstore\graphql-nodejs-express-server\petstore\server.js,\dzVents\runtime\integration-tests\server.js,24,32,4
+server.js,server.js,\modules\openapi-generator\src\main\resources\graphql-nodejs-express-server\server.js,\dzVents\runtime\integration-tests\server.js,24,32,4
+main.js,main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,\www\app\main.js,62,46,1
+Program.cs,Program.cs,\samples\server\petstore\aspnetcore\src\Org.OpenAPITools\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,16,26,6
+main.cpp,main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,\tinyxpath\main.cpp,72,296,10
+main.js,main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,\www\app\main.js,62,46,1
+fwd.h,fwd.h,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\PromiseKit\Sources\fwd.h,\cereal\external\rapidjson\fwd.h,39,71,1

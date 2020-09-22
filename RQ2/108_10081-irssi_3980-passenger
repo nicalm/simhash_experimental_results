@@ -1,0 +1,3 @@
+10081-irssi,3980-passenger
+core.c,core.c,\src\core\core.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\core.c,243,791,28
+core.h,core.h,\src\core\core.h,\src\cxx_supportlib\vendor-copy\utf8\core.h,18,269,1

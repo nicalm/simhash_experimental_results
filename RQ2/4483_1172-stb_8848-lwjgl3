@@ -1,0 +1,10 @@
+1172-stb,8848-lwjgl3
+stb_dxt.h,stb_dxt.h,\stb_dxt.h,\modules\lwjgl\stb\src\main\c\stb_dxt.h,484,484,484
+stb_easy_font.h,stb_easy_font.h,\stb_easy_font.h,\modules\lwjgl\stb\src\main\c\stb_easy_font.h,159,159,159
+stb_image.h,stb_image.h,\stb_image.h,\modules\lwjgl\stb\src\main\c\stb_image.h,5537,5537,5537
+stb_image_resize.h,stb_image_resize.h,\stb_image_resize.h,\modules\lwjgl\stb\src\main\c\stb_image_resize.h,1870,1870,1870
+stb_image_write.h,stb_image_write.h,\stb_image_write.h,\modules\lwjgl\stb\src\main\c\stb_image_write.h,1158,1158,1158
+stb_perlin.h,stb_perlin.h,\stb_perlin.h,\modules\lwjgl\stb\src\main\c\stb_perlin.h,258,258,258
+stb_rect_pack.h,stb_rect_pack.h,\stb_rect_pack.h,\modules\lwjgl\stb\src\main\c\stb_rect_pack.h,338,338,338
+stb_truetype.h,stb_truetype.h,\stb_truetype.h,\modules\lwjgl\stb\src\main\c\stb_truetype.h,3376,3376,3376
+stb_vorbis.c,stb_vorbis.c,\stb_vorbis.c,\modules\lwjgl\stb\src\main\c\stb_vorbis.c,4007,4007,4007

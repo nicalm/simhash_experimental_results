@@ -1,0 +1,7 @@
+2116-libgit2,2202-qBittorrent
+global.h,global.h,\src\global.h,\src\base\global.h,20,38,1
+net.h,net.h,\src\net.h,\src\base\utils\net.h,18,29,1
+net.h,net.h,\include\git2\net.h,\src\base\utils\net.h,20,29,1
+types.h,types.h,\include\git2\types.h,\src\base\http\types.h,131,80,2
+version.h,version.h,\src\win32\version.h,\src\base\utils\version.h,23,139,3
+fs.h,fs.h,\tests\clar\fs.h,\src\base\utils\fs.h,232,33,6

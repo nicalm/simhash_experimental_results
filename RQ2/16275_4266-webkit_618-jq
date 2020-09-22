@@ -1,0 +1,17 @@
+4266-webkit,618-jq
+main.c,main.c,\ManualTests\NPN_Invoke\main.c,\src\main.c,187,647,26
+main.c,main.c,\Tools\MiniBrowser\gtk\main.c,\src\main.c,521,647,67
+util.h,util.h,\Source\ThirdParty\ANGLE\src\compiler\translator\util.h,\src\util.h,52,42,2
+util.h,util.h,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\util.h,\src\util.h,95,42,7
+util.c,util.c,\Source\ThirdParty\libwebrtc\Source\third_party\libsrtp\test\util.c,\src\util.c,141,380,21
+bytecode.c,bytecode.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\libyasm\bytecode.c,\src\bytecode.c,299,145,28
+bytecode.h,bytecode.h,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\libyasm\bytecode.h,\src\bytecode.h,164,63,2
+util.h,util.h,\Source\ThirdParty\libwebrtc\Source\third_party\gflags\src\src\util.h,\src\util.h,258,42,9
+main.c,main.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\main.c,\src\main.c,174,647,24
+parser.c,parser.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\parser.c,\src\parser.c,222,3339,56
+parser.h,parser.h,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\parser.h,\src\parser.h,27,145,2
+main.c,main.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\main.c,\src\main.c,35,647,7
+util.h,util.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\test\util.h,\src\util.h,29,42,2
+parser.h,parser.h,\Source\ThirdParty\libwebrtc\Source\third_party\abseil-cpp\absl\strings\internal\str_format\parser.h,\src\parser.h,202,145,5
+parser.h,parser.h,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\src\google\protobuf\compiler\parser.h,\src\parser.h,234,145,4
+main.c,main.c,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\audio_processing\test\android\apmtest\jni\main.c,\src\main.c,185,647,32

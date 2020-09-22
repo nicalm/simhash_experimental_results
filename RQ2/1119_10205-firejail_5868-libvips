@@ -1,0 +1,5 @@
+10205-firejail,5868-libvips
+util.c,util.c,\src\firecfg\util.c,\libvips\iofuncs\util.c,50,1294,9
+join.c,join.c,\src\firejail\join.c,\libvips\conversion\join.c,417,190,14
+profile.c,profile.c,\src\firejail\profile.c,\libvips\arithmetic\profile.c,1281,200,17
+util.c,util.c,\src\firejail\util.c,\libvips\iofuncs\util.c,968,1294,178

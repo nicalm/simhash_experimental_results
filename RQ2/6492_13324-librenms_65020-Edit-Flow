@@ -1,0 +1,8 @@
+13324-librenms,65020-Edit-Flow
+notifications.php,notifications.php,\includes\notifications.php,\modules\notifications\notifications.php,88,727,22
+bootstrap.php,bootstrap.php,\tests\bootstrap.php,\tests\bootstrap.php,41,21,5
+jquery-ui-timepicker-addon.js,jquery-ui-timepicker-addon.js,\html\js\jquery-ui-timepicker-addon.js,\common\js\jquery-ui-timepicker-addon.js,1028,1623,584
+settings.php,settings.php,\resources\lang\de\settings.php,\modules\settings\settings.php,813,254,1
+settings.php,settings.php,\resources\lang\en\settings.php,\modules\settings\settings.php,842,254,1
+settings.php,settings.php,\resources\lang\fr\settings.php,\modules\settings\settings.php,806,254,1
+settings.php,settings.php,\resources\lang\zh-TW\settings.php,\modules\settings\settings.php,812,254,1

@@ -1,0 +1,4 @@
+6444-yara,702-swoole-src
+stream.c,stream.c,\libyara\stream.c,\src\network\stream.c,22,138,4
+error.h,error.h,\libyara\include\yara\error.h,\include\error.h,97,92,1
+hash.h,hash.h,\libyara\include\yara\hash.h,\include\hash.h,62,129,3

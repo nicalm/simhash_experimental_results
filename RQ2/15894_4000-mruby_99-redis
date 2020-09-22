@@ -1,0 +1,14 @@
+4000-mruby,99-redis
+debug.c,debug.c,\src\debug.c,\src\debug.c,175,1230,32
+hash.c,hash.c,\src\hash.c,\deps\jemalloc\test\unit\hash.c,976,123,22
+object.c,object.c,\src\object.c,\src\object.c,394,1083,75
+print.c,print.c,\src\print.c,\deps\lua\src\print.c,35,208,11
+hash.h,hash.h,\include\mruby\hash.h,\deps\jemalloc\include\jemalloc\internal\hash.h,42,228,1
+math.c,math.c,\mrbgems\mruby-math\src\math.c,\deps\jemalloc\test\unit\math.c,399,344,21
+object.c,object.c,\mrbgems\mruby-object-ext\src\object.c,\src\object.c,72,1083,19
+pack.c,pack.c,\mrbgems\mruby-pack\src\pack.c,\deps\jemalloc\test\unit\pack.c,1199,124,22
+print.c,print.c,\mrbgems\mruby-print\src\print.c,\deps\lua\src\print.c,55,208,11
+example.c,example.c,\examples\mrbgems\c_and_ruby_extension_example\src\example.c,\deps\linenoise\example.c,16,53,4
+example.c,example.c,\examples\mrbgems\c_and_ruby_extension_example\src\example.c,\deps\hiredis\examples\example.c,16,57,4
+example.c,example.c,\examples\mrbgems\c_extension_example\src\example.c,\deps\linenoise\example.c,16,53,4
+example.c,example.c,\examples\mrbgems\c_extension_example\src\example.c,\deps\hiredis\examples\example.c,16,57,4

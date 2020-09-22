@@ -1,0 +1,6 @@
+1037-Moya,8678-GitHawk
+MultipartFormData.swift,MultipartFormData.swift,\Sources\Moya\MultipartFormData.swift,\Pods\Alamofire\Source\MultipartFormData.swift,46,295,13
+MultipartFormData.swift,MultipartFormData.swift,\Sources\Moya\MultipartFormData.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\MultipartFormData.swift,46,295,13
+Response.swift,Response.swift,\Sources\Moya\Response.swift,\Local Pods\GitHubAPI\GitHubAPI\Response.swift,127,15,5
+Response.swift,Response.swift,\Sources\Moya\Response.swift,\Pods\Alamofire\Source\Response.swift,127,270,39
+Response.swift,Response.swift,\Sources\Moya\Response.swift,\Local Pods\GitHubAPI\Pods\Alamofire\Source\Response.swift,127,270,39

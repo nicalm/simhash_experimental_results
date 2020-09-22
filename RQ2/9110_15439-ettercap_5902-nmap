@@ -1,0 +1,10 @@
+15439-ettercap,5902-nmap
+getopt.h,getopt.h,\include\missing\getopt.h,\nbase\getopt.h,60,41,20
+getopt.c,getopt.c,\src\missing\getopt.c,\nbase\getopt.c,775,246,59
+getopt.c,getopt.c,\src\missing\getopt.c,\libpcap\missing\getopt.c,775,76,20
+memcmp.c,memcmp.c,\src\missing\memcmp.c,\libdnet-stripped\src\memcmp.c,18,18,18
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\libdnet-stripped\src\strlcat.c,29,31,27
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\libpcap\missing\strlcat.c,29,29,8
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\libdnet-stripped\src\strlcpy.c,23,28,13
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\libpcap\missing\strlcpy.c,23,25,5
+strsep.c,strsep.c,\src\missing\strsep.c,\libdnet-stripped\src\strsep.c,32,35,30

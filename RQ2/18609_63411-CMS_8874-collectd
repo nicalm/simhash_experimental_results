@@ -1,0 +1,6 @@
+63411-CMS,8874-collectd
+index.php,index.php,\index.php,\contrib\php-collection\index.php,36,275,7
+config.php,config.php,\iu-application\config\config.php,\contrib\php-collection\config.php,45,32,0
+index.php,index.php,\iu-application\external\index.php,\contrib\php-collection\index.php,36,275,6
+index.php,index.php,\iu-resources\min\index.php,\contrib\php-collection\index.php,49,275,9
+index.php,index.php,\iu-resources\min\builder\index.php,\contrib\php-collection\index.php,195,275,12

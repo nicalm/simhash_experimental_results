@@ -1,0 +1,6 @@
+13956-dolibarr,9516-goldfish
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\frontend\config\index.js,40,31,4
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\frontend\client\router\index.js,40,33,6
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\frontend\client\store\index.js,40,24,1
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\frontend\client\store\modules\menu\index.js,40,49,6
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,40,58,8

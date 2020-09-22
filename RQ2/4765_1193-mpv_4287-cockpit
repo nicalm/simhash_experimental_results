@@ -1,0 +1,5 @@
+1193-mpv,4287-cockpit
+main.c,main.c,\player\main.c,\src\tls\main.c,377,89,15
+main.c,main.c,\player\main.c,\src\ws\main.c,377,242,35
+utils.h,utils.h,\video\out\gpu\utils.h,\src\tls\utils.h,68,24,2
+utils.h,utils.h,\video\out\opengl\utils.h,\src\tls\utils.h,28,24,1

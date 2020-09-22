@@ -1,0 +1,11 @@
+2912-postgres,9529-ltp
+settings.h,settings.h,\src\bin\psql\settings.h,\src\ner\settings.h,113,15,1
+settings.h,settings.h,\src\bin\psql\settings.h,\src\parser\settings.h,113,41,2
+settings.h,settings.h,\src\bin\psql\settings.h,\src\parser.n\settings.h,113,41,2
+settings.h,settings.h,\src\bin\psql\settings.h,\src\segmentor\settings.h,113,29,1
+nodes.h,nodes.h,\src\include\nodes\nodes.h,\thirdparty\dynet\dynet\nodes.h,556,519,2
+value.h,value.h,\src\include\nodes\value.h,\thirdparty\jsoncpp\include\json\value.h,20,443,1
+parser.h,parser.h,\src\include\parser\parser.h,\src\parser\parser.h,16,79,1
+parser.h,parser.h,\src\include\parser\parser.h,\src\parser.n\parser.h,16,105,1
+solaris.h,solaris.h,\src\include\port\solaris.h,\thirdparty\boost\include\boost\predef\os\solaris.h,16,19,3
+mem.h,mem.h,\src\include\portability\mem.h,\thirdparty\dynet\dynet\mem.h,22,41,2

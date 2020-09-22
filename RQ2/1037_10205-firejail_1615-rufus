@@ -1,0 +1,5 @@
+10205-firejail,1615-rufus
+dev.c,dev.c,\src\faudit\dev.c,\src\dev.c,24,787,4
+util.c,util.c,\src\firecfg\util.c,\src\libcdio\driver\util.c,50,124,9
+fs.c,fs.c,\src\firejail\fs.c,\src\syslinux\libinstaller\fs.c,918,119,12
+util.c,util.c,\src\firejail\util.c,\src\libcdio\driver\util.c,968,124,20

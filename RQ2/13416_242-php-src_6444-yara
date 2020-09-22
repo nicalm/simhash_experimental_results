@@ -1,0 +1,11 @@
+242-php-src,6444-yara
+time.c,time.c,\win32\time.c,\libyara\modules\time\time.c,75,36,10
+hash.c,hash.c,\ext\hash\hash.c,\libyara\hash.c,996,259,47
+hash.c,hash.c,\ext\hash\hash.c,\libyara\modules\hash\hash.c,996,436,71
+stream.c,stream.c,\ext\phar\stream.c,\libyara\stream.c,779,22,6
+util.c,util.c,\ext\phar\util.c,\tests\util.c,1635,285,66
+exec.c,exec.c,\ext\standard\exec.c,\libyara\exec.c,429,1237,91
+exec.h,exec.h,\ext\standard\exec.h,\libyara\include\yara\exec.h,19,136,1
+math.c,math.c,\ext\standard\math.c,\libyara\modules\math\math.c,820,449,105
+magic.c,magic.c,\ext\fileinfo\libmagic\magic.c,\libyara\modules\magic\magic.c,324,106,28
+types.h,types.h,\ext\opcache\jit\libudis86\types.h,\libyara\include\yara\types.h,155,527,10

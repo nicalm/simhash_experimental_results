@@ -1,0 +1,13 @@
+14239-neomutt,63770-mcuboot
+main.c,main.c,\main.c,\boot\zephyr\main.c,1056,250,54
+main.c,main.c,\main.c,\boot\cypress\BlinkyApp\main.c,1056,73,16
+main.c,main.c,\main.c,\boot\cypress\MCUBootApp\main.c,1056,40,7
+main.c,main.c,\main.c,\boot\mynewt\src\main.c,1056,164,38
+main.c,main.c,\main.c,\testplan\mynewt\apps\blinky\src\main.c,1056,42,10
+main.c,main.c,\main.c,\testplan\mynewt\apps\slinky\src\main.c,1056,191,34
+main.c,main.c,\test\main.c,\boot\zephyr\main.c,389,250,1
+main.c,main.c,\test\main.c,\boot\cypress\BlinkyApp\main.c,389,73,1
+main.c,main.c,\test\main.c,\boot\cypress\MCUBootApp\main.c,389,40,0
+main.c,main.c,\test\main.c,\boot\mynewt\src\main.c,389,164,1
+main.c,main.c,\test\main.c,\testplan\mynewt\apps\blinky\src\main.c,389,42,0
+main.c,main.c,\test\main.c,\testplan\mynewt\apps\slinky\src\main.c,389,191,1

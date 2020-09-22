@@ -1,0 +1,11 @@
+1123-envoy,548-ruby
+thread.h,thread.h,\include\envoy\thread\thread.h,\internal\thread.h,44,33,0
+thread.h,thread.h,\include\envoy\thread\thread.h,\include\ruby\thread.h,44,30,2
+assert.h,assert.h,\source\common\common\assert.h,\include\ruby\assert.h,53,49,6
+hash.h,hash.h,\source\common\common\hash.h,\internal\hash.h,73,189,7
+regex.h,regex.h,\source\common\common\regex.h,\include\ruby\regex.h,18,26,2
+thread.h,thread.h,\source\common\common\thread.h,\internal\thread.h,40,33,0
+thread.h,thread.h,\source\common\common\thread.h,\include\ruby\thread.h,40,30,2
+util.h,util.h,\source\extensions\tracers\zipkin\util.h,\internal\util.h,28,15,0
+util.h,util.h,\source\extensions\tracers\zipkin\util.h,\include\ruby\util.h,28,62,2
+parser.h,parser.h,\source\extensions\filters\network\kafka\parser.h,\ext\json\parser\parser.h,63,78,1

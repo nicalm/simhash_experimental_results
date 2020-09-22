@@ -1,0 +1,6 @@
+1463-highcharts,6347-librealsense
+index.js,index.js,\studies\highcharts-jsdom\index.js,\wrappers\nodejs\index.js,93,2989,18
+index.js,index.js,\studies\highcharts-jsdom\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,93,379,18
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,325,480,31
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\wrappers\nodejs\index.js,40,2989,13
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,40,379,11

@@ -1,0 +1,4 @@
+11212-varnish-cache,86-netdata
+locks.h,locks.h,\include\tbl\locks.h,\libnetdata\locks\locks.h,20,57,0
+daemon.c,daemon.c,\lib\libvarnishapi\daemon.c,\daemon\daemon.c,54,364,9
+url.c,url.c,\lib\libvmod_blob\url.c,\libnetdata\url\url.c,137,226,26

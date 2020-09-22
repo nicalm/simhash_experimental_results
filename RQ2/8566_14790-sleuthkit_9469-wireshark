@@ -1,0 +1,6 @@
+14790-sleuthkit,9469-wireshark
+crc.c,crc.c,\tsk\base\crc.c,\plugins\epan\wimax\crc.c,102,79,28
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\file.c,401,3028,97
+file.h,file.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\file.h,402,168,6
+getopt_long.c,getopt_long.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\getopt_long.c,\wsutil\getopt_long.c,341,882,66
+print.c,print.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\print.c,\epan\print.c,188,1978,33

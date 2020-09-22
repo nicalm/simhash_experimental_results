@@ -1,0 +1,17 @@
+13704-crypto,491-hub
+http.go,http.go,\acme\http.go,\github\http.go,212,479,74
+http_test.go,http_test.go,\acme\http_test.go,\github\http_test.go,211,78,20
+block.go,block.go,\blowfish\block.go,\vendor\github.com\russross\blackfriday\block.go,131,1113,22
+client.go,client.go,\ssh\client.go,\github\client.go,170,1068,59
+client_test.go,client_test.go,\ssh\client_test.go,\github\client_test.go,150,37,9
+block.go,block.go,\xtea\block.go,\vendor\github.com\russross\blackfriday\block.go,37,1113,8
+encode.go,encode.go,\openpgp\armor\encode.go,\vendor\gopkg.in\yaml.v2\encode.go,121,327,36
+encode.go,encode.go,\openpgp\armor\encode.go,\vendor\github.com\BurntSushi\toml\encode.go,121,453,37
+config.go,config.go,\openpgp\packet\config.go,\github\config.go,53,334,16
+client.go,client.go,\ssh\agent\client.go,\github\client.go,570,1068,131
+client_test.go,client_test.go,\ssh\agent\client_test.go,\github\client_test.go,458,37,7
+terminal.go,terminal.go,\ssh\terminal\terminal.go,\vendor\golang.org\x\crypto\ssh\terminal\terminal.go,715,711,688
+util.go,util.go,\ssh\terminal\util.go,\vendor\golang.org\x\crypto\ssh\terminal\util.go,65,65,65
+util_plan9.go,util_plan9.go,\ssh\terminal\util_plan9.go,\vendor\golang.org\x\crypto\ssh\terminal\util_plan9.go,24,24,24
+util_solaris.go,util_solaris.go,\ssh\terminal\util_solaris.go,\vendor\golang.org\x\crypto\ssh\terminal\util_solaris.go,86,86,86
+util_windows.go,util_windows.go,\ssh\terminal\util_windows.go,\vendor\golang.org\x\crypto\ssh\terminal\util_windows.go,62,62,62

@@ -1,0 +1,10 @@
+4960-capstone,9529-ltp
+arm.h,arm.h,\include\capstone\arm.h,\thirdparty\boost\include\boost\predef\architecture\arm.h,837,32,4
+arm.h,arm.h,\include\capstone\arm.h,\thirdparty\boost\include\boost\predef\hardware\simd\arm.h,837,18,3
+m68k.h,m68k.h,\include\capstone\m68k.h,\thirdparty\boost\include\boost\predef\architecture\m68k.h,552,36,4
+mips.h,mips.h,\include\capstone\mips.h,\thirdparty\boost\include\boost\predef\architecture\mips.h,889,34,4
+ppc.h,ppc.h,\include\capstone\ppc.h,\thirdparty\boost\include\boost\predef\architecture\ppc.h,1408,31,4
+ppc.h,ppc.h,\include\capstone\ppc.h,\thirdparty\boost\include\boost\predef\hardware\simd\ppc.h,1408,24,4
+sparc.h,sparc.h,\include\capstone\sparc.h,\thirdparty\boost\include\boost\predef\architecture\sparc.h,467,24,4
+x86.h,x86.h,\include\capstone\x86.h,\thirdparty\boost\include\boost\predef\architecture\x86.h,1843,16,3
+x86.h,x86.h,\include\capstone\x86.h,\thirdparty\boost\include\boost\predef\hardware\simd\x86.h,1843,48,3

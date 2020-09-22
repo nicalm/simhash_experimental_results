@@ -1,0 +1,4 @@
+4000-mruby,8848-lwjgl3
+pool.c,pool.c,\src\pool.c,\modules\lwjgl\zstd\src\main\c\common\pool.c,167,235,32
+debug.h,debug.h,\include\mruby\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,38,39,1
+error.h,error.h,\include\mruby\error.h,\modules\lwjgl\tootle\src\main\c\error.h,60,53,3

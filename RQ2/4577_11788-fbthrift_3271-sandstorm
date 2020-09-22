@@ -1,0 +1,5 @@
+11788-fbthrift,3271-sandstorm
+util.h,util.h,\thrift\compiler\util.h,\src\sandstorm\util.h,91,266,19
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\sandstorm\util.h,25,266,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\sandstorm\util.h,17,266,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\sandstorm\util.h,29,266,8

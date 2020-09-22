@@ -1,0 +1,6 @@
+4287-cockpit,86-netdata
+utils.js,utils.js,\pkg\networkmanager\utils.js,\web\gui\src\dashboard.js\utils.js,193,324,33
+utils.js,utils.js,\pkg\storaged\utils.js,\web\gui\src\dashboard.js\utils.js,577,324,82
+main.c,main.c,\src\tls\main.c,\daemon\main.c,89,995,21
+main.c,main.c,\src\ws\main.c,\daemon\main.c,242,995,37
+utils.js,utils.js,\pkg\machines\components\networks\utils.js,\web\gui\src\dashboard.js\utils.js,110,324,21

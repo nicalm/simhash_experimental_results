@@ -1,0 +1,4 @@
+10841-gimp,140-neovim
+main.c,main.c,\app\main.c,\src\nvim\main.c,631,1480,89
+math.c,math.c,\plug-ins\selection-to-path\math.c,\src\nvim\math.c,96,32,7
+types.h,types.h,\plug-ins\selection-to-path\types.h,\src\nvim\types.h,92,15,1

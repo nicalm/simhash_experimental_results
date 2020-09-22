@@ -1,0 +1,6 @@
+13470-tigervnc,6285-ImageMagick
+Thread.h,Thread.h,\common\os\Thread.h,\Magick++\lib\Magick++\Thread.h,29,30,6
+Exception.h,Exception.h,\common\rdr\Exception.h,\Magick++\lib\Magick++\Exception.h,27,327,6
+Exception.h,Exception.h,\common\rfb\Exception.h,\Magick++\lib\Magick++\Exception.h,23,327,5
+Geometry.h,Geometry.h,\unix\x0vncserver\Geometry.h,\Magick++\lib\Magick++\Geometry.h,22,124,4
+Image.h,Image.h,\unix\x0vncserver\Image.h,\Magick++\lib\Magick++\Image.h,69,619,5

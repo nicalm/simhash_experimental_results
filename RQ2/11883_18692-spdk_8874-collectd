@@ -1,0 +1,8 @@
+18692-spdk,8874-collectd
+memory.c,memory.c,\lib\env_dpdk\memory.c,\src\memory.c,991,314,44
+interface.c,interface.c,\lib\net\interface.c,\src\interface.c,396,288,26
+crc32.c,crc32.c,\lib\util\crc32.c,\src\utils\crc32\crc32.c,49,63,1
+uuid.c,uuid.c,\lib\util\uuid.c,\src\uuid.c,32,138,7
+common.c,common.c,\module\bdev\nvme\common.c,\src\utils\common\common.c,117,1217,37
+common.h,common.h,\module\bdev\nvme\common.h,\src\utils\common\common.h,84,131,3
+common.c,common.c,\test\unit\lib\iscsi\common.c,\src\utils\common\common.c,161,1217,35

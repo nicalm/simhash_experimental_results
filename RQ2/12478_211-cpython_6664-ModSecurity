@@ -1,0 +1,3 @@
+211-cpython,6664-ModSecurity
+eq.h,eq.h,\Objects\stringlib\eq.h,\src\operators\eq.h,17,17,2
+resource.h,resource.h,\PC\bdist_wininst\resource.h,\src\variables\resource.h,23,83,0

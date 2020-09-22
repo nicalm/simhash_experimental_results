@@ -1,0 +1,7 @@
+5902-nmap,9088-httpd
+base64.c,base64.c,\ncat\base64.c,\test\unit\base64.c,38,117,7
+util.c,util.c,\ncat\util.c,\server\util.c,502,2737,157
+util.c,util.c,\ncat\util.c,\test\unit\util.c,502,44,7
+util.c,util.c,\ncat\util.c,\modules\dav\main\util.c,502,1250,107
+macros.h,macros.h,\libssh2\os400\macros.h,\docs\log-message-tags\macros.h,120,29,0
+os.h,os.h,\libdnet-stripped\include\dnet\os.h,\os\win32\os.h,99,49,8

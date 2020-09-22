@@ -1,0 +1,5 @@
+18962-tcpdump,242-php-src
+print.c,print.c,\print.c,\ext\fileinfo\libmagic\print.c,418,212,24
+snprintf.c,snprintf.c,\missing\snprintf.c,\main\snprintf.c,403,927,84
+strlcat.c,strlcat.c,\missing\strlcat.c,\main\strlcat.c,29,33,11
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\main\strlcpy.c,26,29,12

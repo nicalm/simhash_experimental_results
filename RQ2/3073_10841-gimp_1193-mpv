@@ -1,0 +1,10 @@
+10841-gimp,1193-mpv
+main.c,main.c,\app\main.c,\player\main.c,631,377,56
+tests.c,tests.c,\app\tests.c,\test\tests.c,131,108,21
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\player\misc.c,169,239,20
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\video\out\gpu\utils.c,303,257,49
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\video\out\opengl\utils.c,303,217,44
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\video\out\placebo\utils.c,303,52,9
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\video\out\vulkan\utils.c,303,37,5
+screenshot.c,screenshot.c,\plug-ins\screenshot\screenshot.c,\player\screenshot.c,682,451,77
+screenshot.h,screenshot.h,\plug-ins\screenshot\screenshot.h,\player\screenshot.h,50,15,1

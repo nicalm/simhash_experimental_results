@@ -1,0 +1,9 @@
+4000-mruby,9469-wireshark
+crc.c,crc.c,\src\crc.c,\plugins\epan\wimax\crc.c,23,79,5
+print.c,print.c,\src\print.c,\epan\print.c,35,1978,14
+range.c,range.c,\src\range.c,\epan\range.c,294,275,65
+range.h,range.h,\include\mruby\range.h,\epan\range.h,49,42,3
+file.c,file.c,\mrbgems\mruby-io\src\file.c,\file.c,449,3028,90
+print.c,print.c,\mrbgems\mruby-print\src\print.c,\epan\print.c,55,1978,18
+range.c,range.c,\mrbgems\mruby-range-ext\src\range.c,\epan\range.c,129,275,34
+socket.c,socket.c,\mrbgems\mruby-socket\src\socket.c,\wsutil\socket.c,803,123,34

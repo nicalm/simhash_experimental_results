@@ -1,0 +1,4 @@
+6364-Tautulli,9197-domoticz
+highcharts.js,highcharts.js,\data\interfaces\default\js\highcharts\js\highcharts.js,\www\js\highcharts\highcharts.js,318,428,0
+exporting.js,exporting.js,\data\interfaces\default\js\highcharts\js\modules\exporting.js,\www\js\highcharts\modules\exporting.js,15,25,0
+exporting.src.js,exporting.src.js,\data\interfaces\default\js\highcharts\js\modules\exporting.src.js,\www\js\highcharts\modules\exporting.src.js,520,902,319

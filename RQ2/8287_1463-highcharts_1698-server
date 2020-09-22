@@ -1,0 +1,17 @@
+1463-highcharts,1698-server
+navigation.js,navigation.js,\js\mixins\navigation.js,\apps\files\js\navigation.js,25,207,9
+index.js,index.js,\studies\highcharts-jsdom\index.js,\core\src\jquery\index.js,93,22,2
+index.js,index.js,\studies\highcharts-jsdom\index.js,\core\src\OC\index.js,93,162,1
+index.js,index.js,\studies\highcharts-jsdom\index.js,\core\src\OCP\index.js,93,18,2
+index.js,index.js,\studies\highcharts-jsdom\index.js,\apps\settings\src\store\index.js,93,29,4
+update.js,update.js,\tools\gulptasks\update.js,\core\js\update.js,53,128,10
+log.js,log.js,\tools\gulptasks\lib\log.js,\apps\settings\js\log.js,64,68,7
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files\js\app.js,325,196,29
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files_external\js\app.js,325,75,17
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files_sharing\js\app.js,325,239,21
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files_trashbin\src\app.js,325,107,12
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\systemtags\src\app.js,325,73,10
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\core\src\jquery\index.js,40,22,1
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\core\src\OC\index.js,40,162,1
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\core\src\OCP\index.js,40,18,1
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\apps\settings\src\store\index.js,40,29,2

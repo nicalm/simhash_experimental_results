@@ -1,0 +1,12 @@
+754-folly,9197-domoticz
+Utils.h,Utils.h,\folly\compression\Utils.h,\hardware\openzwave\Utils.h,37,45,3
+Logger.h,Logger.h,\folly\logging\Logger.h,\main\Logger.h,81,91,6
+Event.h,Event.h,\folly\portability\Event.h,\hardware\openzwave\platform\Event.h,17,25,2
+Mutex.h,Mutex.h,\folly\experimental\coro\Mutex.h,\hardware\openzwave\platform\Mutex.h,84,22,6
+Utils.h,Utils.h,\folly\experimental\coro\Utils.h,\hardware\openzwave\Utils.h,33,45,6
+Wait.h,Wait.h,\folly\experimental\coro\Wait.h,\hardware\openzwave\platform\Wait.h,42,34,5
+forwards.h,forwards.h,\folly\experimental\pushmi\forwards.h,\json\forwards.h,108,20,1
+SignalHandler.cpp,SignalHandler.cpp,\folly\experimental\symbolizer\SignalHandler.cpp,\main\SignalHandler.cpp,386,447,65
+main.cpp,main.cpp,\folly\logging\example\main.cpp,\tinyxpath\main.cpp,23,296,2
+main.cpp,main.cpp,\folly\test\function_benchmark\main.cpp,\tinyxpath\main.cpp,301,296,15
+error.h,error.h,\folly\experimental\pushmi\o\error.h,\cereal\external\rapidjson\error\error.h,33,57,3

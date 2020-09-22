@@ -1,0 +1,3 @@
+14790-sleuthkit,6883-Sigil
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\3rdparty\zlib\compress.c,395,47,8
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\3rdparty\hunspell\src\win_api\config.h,41,68,11

@@ -1,0 +1,4 @@
+15760-bfgminer,99-redis
+util.c,util.c,\util.c,\src\util.c,3540,590,122
+util.h,util.h,\util.h,\src\util.h,687,24,3
+util.h,util.h,\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,687,42,11

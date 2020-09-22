@@ -1,0 +1,5 @@
+242-php-src,4984-jerryscript
+main.c,main.c,\main\main.c,\targets\curie_bsp\jerry_app\quark\main.c,2098,130,38
+cli.h,cli.h,\sapi\cli\cli.h,\jerry-main\cli.h,17,29,3
+config.h,config.h,\ext\pcre\pcre2lib\config.h,\jerry-core\config.h,46,338,14
+sqrt.c,sqrt.c,\ext\bcmath\libbcmath\src\sqrt.c,\jerry-libm\sqrt.c,78,131,17

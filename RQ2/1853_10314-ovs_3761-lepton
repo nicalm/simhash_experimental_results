@@ -1,0 +1,4 @@
+10314-ovs,3761-lepton
+hash.h,hash.h,\lib\hash.h,\dependencies\brotli\c\enc\hash.h,285,345,48
+memory.c,memory.c,\lib\memory.c,\dependencies\brotli\c\enc\memory.c,115,147,19
+types.h,types.h,\include\openvswitch\types.h,\dependencies\brotli\c\include\brotli\types.h,98,31,6

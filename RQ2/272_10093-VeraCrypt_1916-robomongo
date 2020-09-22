@@ -1,0 +1,9 @@
+10093-VeraCrypt,1916-robomongo
+Core.h,Core.h,\src\Core\Core.h,\src\robomongo\core\Core.h,138,28,5
+misc.h,misc.h,\src\Crypto\misc.h,\src\third-party\libssh2\sources\src\misc.h,153,40,4
+Event.h,Event.h,\src\Platform\Event.h,\src\robomongo\core\Event.h,61,38,8
+Platform.h,Platform.h,\src\Platform\Platform.h,\src\third-party\qscintilla\sources\include\Platform.h,18,393,1
+Platform.h,Platform.h,\src\Boot\Windows\Platform.h,\src\third-party\qscintilla\sources\include\Platform.h,81,393,8
+AboutDialog.cpp,AboutDialog.cpp,\src\Main\Forms\AboutDialog.cpp,\src\robomongo\gui\dialogs\AboutDialog.cpp,56,79,4
+PreferencesDialog.cpp,PreferencesDialog.cpp,\src\Main\Forms\PreferencesDialog.cpp,\src\robomongo\gui\dialogs\PreferencesDialog.cpp,415,105,14
+PreferencesDialog.h,PreferencesDialog.h,\src\Main\Forms\PreferencesDialog.h,\src\robomongo\gui\dialogs\PreferencesDialog.h,45,28,5

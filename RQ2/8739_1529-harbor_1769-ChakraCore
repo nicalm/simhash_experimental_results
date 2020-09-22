@@ -1,0 +1,2 @@
+1529-harbor,1769-ChakraCore
+run.py,run.py,\tools\migration\cfg\run.py,\test\WasmSpec\testsuite\core\run.py,62,70,6

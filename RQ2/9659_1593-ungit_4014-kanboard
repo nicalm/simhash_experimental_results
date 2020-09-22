@@ -1,0 +1,4 @@
+1593-ungit,4014-kanboard
+modal.js,modal.js,\public\vendor\js\bootstrap\modal.js,\assets\js\components\modal.js,159,35,4
+modal.js,modal.js,\public\vendor\js\bootstrap\modal.js,\assets\js\core\modal.js,159,153,17
+tooltip.js,tooltip.js,\public\vendor\js\bootstrap\tooltip.js,\assets\js\core\tooltip.js,263,86,21

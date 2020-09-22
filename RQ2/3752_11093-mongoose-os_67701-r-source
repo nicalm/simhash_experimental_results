@@ -1,0 +1,15 @@
+11093-mongoose-os,67701-r-source
+main.c,main.c,\platforms\posix\main.c,\src\main\main.c,78,1257,21
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\src\main\main.c,128,1257,20
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\src\main\main.c,136,1257,27
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\extra\graphapp\init.c,288,83,3
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\graphics\src\init.c,288,63,3
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\grDevices\src\init.c,288,108,10
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\methods\src\init.c,288,43,2
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\parallel\src\init.c,288,39,4
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\stats\src\init.c,288,264,1
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\tcltk\src\init.c,288,41,3
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\tools\src\init.c,288,46,3
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\src\library\utils\src\init.c,288,89,7
+raw.c,raw.c,\tools\docker\esp8266\cs_lwip\src\core\raw.c,\src\main\raw.c,156,326,33
+stats.h,stats.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\stats.h,\src\library\stats\src\stats.h,234,26,3

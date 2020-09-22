@@ -1,0 +1,4 @@
+12873-mediawiki,222-prometheus
+index.js,index.js,\resources\src\mediawiki.api\index.js,\web\ui\static\js\graph\index.js,237,1022,56
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\web\ui\static\js\graph\index.js,51,1022,12
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\web\ui\static\js\graph\index.js,15,1022,4

@@ -1,0 +1,6 @@
+12310-weechat,461-vim
+charset.c,charset.c,\src\plugins\charset\charset.c,\src\charset.c,452,1529,115
+spell.c,spell.c,\src\plugins\spell\spell.c,\src\spell.c,863,3141,215
+spell.h,spell.h,\src\plugins\spell\spell.h,\src\spell.h,25,192,6
+main.c,main.c,\src\gui\curses\headless\main.c,\src\main.c,64,3234,19
+main.c,main.c,\src\gui\curses\normal\main.c,\src\main.c,16,3234,4

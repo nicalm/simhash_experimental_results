@@ -1,0 +1,6 @@
+1123-envoy,244-go-ethereum
+service.go,service.go,\examples\grpc-bridge\server\service.go,\graphql\service.go,48,66,13
+service.go,service.go,\examples\grpc-bridge\server\service.go,\node\service.go,48,57,10
+service.go,service.go,\examples\grpc-bridge\server\service.go,\rpc\service.go,48,196,12
+hash.h,hash.h,\source\common\common\hash.h,\crypto\secp256k1\libsecp256k1\src\hash.h,73,27,0
+util.h,util.h,\source\extensions\tracers\zipkin\util.h,\crypto\secp256k1\libsecp256k1\src\util.h,28,92,3

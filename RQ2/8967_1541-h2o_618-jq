@@ -1,0 +1,8 @@
+1541-h2o,618-jq
+main.c,main.c,\src\main.c,\src\main.c,2462,647,119
+util.c,util.c,\lib\core\util.c,\src\util.c,769,380,67
+util.h,util.h,\deps\picotls\t\util.h,\src\util.h,247,42,3
+parser.c,parser.c,\deps\yaml\src\parser.c,\src\parser.c,967,3339,182
+compile.h,compile.h,\deps\mruby\include\mruby\compile.h,\src\compile.h,147,84,1
+util.c,util.c,\t\00unit\lib\core\util.c,\src\util.c,203,380,12
+main.c,main.c,\deps\picotls\deps\cifra\src\arm\main.c,\src\main.c,385,647,40

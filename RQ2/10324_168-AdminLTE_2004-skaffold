@@ -1,0 +1,10 @@
+168-AdminLTE,2004-skaffold
+main.js,main.js,\plugins\fullcalendar\main.js,\docs\content\en\docs\references\yaml\main.js,7977,166,13
+main.js,main.js,\plugins\fullcalendar-bootstrap\main.js,\docs\content\en\docs\references\yaml\main.js,59,166,3
+main.js,main.js,\plugins\fullcalendar-daygrid\main.js,\docs\content\en\docs\references\yaml\main.js,1471,166,13
+main.js,main.js,\plugins\fullcalendar-interaction\main.js,\docs\content\en\docs\references\yaml\main.js,1906,166,13
+main.js,main.js,\plugins\fullcalendar-timegrid\main.js,\docs\content\en\docs\references\yaml\main.js,1195,166,13
+webpack.config.js,webpack.config.js,\plugins\raphael\webpack.config.js,\examples\react-reload\app\webpack.config.js,32,26,4
+webpack.config.js,webpack.config.js,\plugins\raphael\webpack.config.js,\integration\examples\react-reload\app\webpack.config.js,32,26,4
+main.js,main.js,\plugins\daterangepicker\example\amd\main.js,\docs\content\en\docs\references\yaml\main.js,104,166,4
+main.js,main.js,\plugins\daterangepicker\example\browserify\main.js,\docs\content\en\docs\references\yaml\main.js,98,166,3

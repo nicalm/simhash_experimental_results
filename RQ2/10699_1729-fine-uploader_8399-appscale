@@ -1,0 +1,14 @@
+1729-fine-uploader,8399-appscale
+image.js,image.js,\test\unit\image.js,\AppDashboard\static\plugins\forms\tiny_mce\plugins\advimage\js\image.js,65,356,10
+image.js,image.js,\test\unit\image.js,\AppDashboard\static\plugins\forms\tiny_mce\themes\advanced\js\image.js,65,194,9
+image.js,image.js,\client\js\image-support\image.js,\AppDashboard\static\plugins\forms\tiny_mce\plugins\advimage\js\image.js,209,356,44
+image.js,image.js,\client\js\image-support\image.js,\AppDashboard\static\plugins\forms\tiny_mce\themes\advanced\js\image.js,209,194,25
+core.js,core.js,\client\js\third-party\crypto-js\core.js,\AppServer\lib\django-0.96\django\contrib\admin\media\js\core.js,228,111,29
+core.js,core.js,\client\js\third-party\crypto-js\core.js,\AppServer\lib\django-1.2\django\contrib\admin\media\js\core.js,228,161,30
+core.js,core.js,\client\js\third-party\crypto-js\core.js,\AppServer\lib\django-1.3\django\contrib\admin\media\js\core.js,228,161,30
+core.js,core.js,\client\js\third-party\crypto-js\core.js,\AppServer\lib\django-1.4\django\contrib\admin\static\admin\js\core.js,228,154,30
+core.js,core.js,\client\js\third-party\crypto-js\core.js,\AppServer\lib\django-1.5\django\contrib\admin\static\admin\js\core.js,228,154,30
+jquery.js,jquery.js,\test\static\third-party\jquery\jquery.js,\AppServer\lib\django-1.2\django\contrib\admin\media\js\jquery.js,6645,4426,2083
+jquery.js,jquery.js,\test\static\third-party\jquery\jquery.js,\AppServer\lib\django-1.3\django\contrib\admin\media\js\jquery.js,6645,4426,2083
+jquery.js,jquery.js,\test\static\third-party\jquery\jquery.js,\AppServer\lib\django-1.4\django\contrib\admin\static\admin\js\jquery.js,6645,4426,2083
+jquery.js,jquery.js,\test\static\third-party\jquery\jquery.js,\AppServer\lib\django-1.5\django\contrib\admin\static\admin\js\jquery.js,6645,4426,2083

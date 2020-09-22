@@ -1,0 +1,5 @@
+10115-mbedtls,14239-neomutt
+base64.c,base64.c,\library\base64.c,\mutt\base64.c,199,116,19
+md5.c,md5.c,\library\md5.c,\mutt\md5.c,358,260,48
+version.c,version.c,\library\version.c,\version.c,23,397,10
+md5.h,md5.h,\include\mbedtls\md5.h,\mutt\md5.h,73,23,3

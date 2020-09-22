@@ -1,0 +1,7 @@
+3024-SASM,5372-twisted
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\src\twisted\logger\__init__.py,79,45,0
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\src\twisted\python\__init__.py,79,15,0
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\src\twisted\_threads\__init__.py,79,15,0
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\src\twisted\logger\__init__.py,63,45,1
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\src\twisted\python\__init__.py,63,15,0
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\src\twisted\_threads\__init__.py,63,15,1

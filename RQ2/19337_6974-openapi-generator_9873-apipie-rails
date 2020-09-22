@@ -1,0 +1,12 @@
+6974-openapi-generator,9873-apipie-rails
+application.rb,application.rb,\samples\server\petstore\ruby-on-rails\config\application.rb,\lib\apipie\application.rb,16,339,2
+application.rb,application.rb,\samples\server\petstore\ruby-on-rails\config\application.rb,\spec\dummy\config\application.rb,16,18,8
+routes.rb,routes.rb,\samples\server\petstore\ruby-on-rails\config\routes.rb,\spec\dummy\config\routes.rb,26,43,2
+application.rb,application.rb,\modules\openapi-generator\src\main\resources\ruby-on-rails-server\application.rb,\lib\apipie\application.rb,16,339,2
+application.rb,application.rb,\modules\openapi-generator\src\main\resources\ruby-on-rails-server\application.rb,\spec\dummy\config\application.rb,16,18,8
+configuration.rb,configuration.rb,\samples\client\petstore\ruby\lib\petstore\configuration.rb,\lib\apipie\configuration.rb,133,123,19
+configuration.rb,configuration.rb,\samples\client\petstore\ruby-faraday\lib\petstore\configuration.rb,\lib\apipie\configuration.rb,133,123,19
+bootstrap.js,bootstrap.js,\samples\documentation\dynamic-html\docs\assets\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,1311,1073,891
+configuration.rb,configuration.rb,\samples\openapi3\client\petstore\ruby\lib\petstore\configuration.rb,\lib\apipie\configuration.rb,174,123,19
+configuration.rb,configuration.rb,\samples\openapi3\client\petstore\ruby-faraday\lib\petstore\configuration.rb,\lib\apipie\configuration.rb,174,123,19
+bootstrap.js,bootstrap.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,1311,1073,891

@@ -1,0 +1,3 @@
+4482-nixpkgs,9776-gaia
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\tests\python\gaia-ui-tests\gaiatest\apps\cost_control\regions\settings.py,258,77,0
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\settings.py,258,48,0

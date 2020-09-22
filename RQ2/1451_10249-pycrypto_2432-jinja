@@ -1,0 +1,8 @@
+10249-pycrypto,2432-jinja
+setup.py,setup.py,\setup.py,\setup.py,369,50,0
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\jinja2\__init__.py,90,31,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\jinja2\__init__.py,47,31,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\jinja2\__init__.py,18,31,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\jinja2\__init__.py,23,31,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\jinja2\__init__.py,16,31,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\jinja2\__init__.py,17,31,0

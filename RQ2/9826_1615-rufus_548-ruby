@@ -1,0 +1,15 @@
+1615-rufus,548-ruby
+missing.h,missing.h,\src\missing.h,\include\ruby\missing.h,70,203,11
+parser.c,parser.c,\src\parser.c,\ext\json\parser\parser.c,1126,1941,214
+parser.c,parser.c,\src\parser.c,\ext\psych\yaml\parser.c,1126,963,142
+process.c,process.c,\src\process.c,\process.c,518,5828,79
+process.h,process.h,\src\process.h,\internal\process.h,239,91,5
+file.c,file.c,\src\ms-sys\file.c,\file.c,158,4432,43
+file.c,file.c,\src\ms-sys\file.c,\win32\file.c,158,558,32
+util.h,util.h,\src\libcdio\cdio\util.h,\internal\util.h,79,15,2
+util.h,util.h,\src\libcdio\cdio\util.h,\include\ruby\util.h,79,62,12
+util.c,util.c,\src\libcdio\driver\util.c,\util.c,124,517,38
+file.h,file.h,\src\ms-sys\inc\file.h,\internal\file.h,21,25,1
+file.h,file.h,\src\ms-sys\inc\file.h,\missing\file.h,21,16,1
+file.h,file.h,\src\ms-sys\inc\file.h,\win32\file.h,21,40,2
+fs.c,fs.c,\src\syslinux\libinstaller\fs.c,\ext\-test-\file\fs.c,119,105,9

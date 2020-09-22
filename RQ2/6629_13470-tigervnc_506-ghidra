@@ -1,0 +1,6 @@
+13470-tigervnc,506-ghidra
+types.h,types.h,\common\rdr\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,48,280,1
+types.h,types.h,\common\rdr\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,48,161,1
+Buffer.java,Buffer.java,\java\com\jcraft\jsch\Buffer.java,\Ghidra\Framework\DB\src\main\java\db\Buffer.java,214,19,1
+OptionsDialog.java,OptionsDialog.java,\java\com\tigervnc\vncviewer\OptionsDialog.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\OptionsDialog.java,1432,59,15
+OptionsDialog.java,OptionsDialog.java,\java\com\tigervnc\vncviewer\OptionsDialog.java,\Ghidra\Framework\Docking\src\main\java\docking\options\editor\OptionsDialog.java,1432,94,27

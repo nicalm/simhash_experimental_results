@@ -1,0 +1,4 @@
+1366-gradle,1652-joplin
+search.js,search.js,\subprojects\docs\src\docs\js\javadoc\search.js,\ReactNativeClient\lib\components\screens\search.js,299,164,22
+report.js,report.js,\subprojects\core\src\main\resources\org\gradle\reporting\report.js,\ReactNativeClient\lib\services\report.js,148,196,33
+report.js,report.js,\subprojects\internal-performance-testing\src\main\resources\org\gradle\reporting\report.js,\ReactNativeClient\lib\services\report.js,62,196,13

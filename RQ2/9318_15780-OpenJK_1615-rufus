@@ -1,0 +1,7 @@
+15780-OpenJK,1615-rufus
+config.h,config.h,\code\mp3code\config.h,\src\ext2fs\config.h,74,182,18
+config.h,config.h,\code\mp3code\config.h,\src\libcdio\config.h,74,53,5
+config.h,config.h,\codemp\mp3code\config.h,\src\ext2fs\config.h,74,182,18
+config.h,config.h,\codemp\mp3code\config.h,\src\libcdio\config.h,74,53,5
+resource.h,resource.h,\codemp\win32\resource.h,\src\resource.h,16,543,6
+crc32.c,crc32.c,\lib\zlib\crc32.c,\src\bled\crc32.c,285,82,20

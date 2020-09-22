@@ -1,0 +1,12 @@
+548-ruby,702-swoole-src
+array.c,array.c,\array.c,\src\core\array.c,4277,103,40
+signal.c,signal.c,\signal.c,\src\os\signal.c,1307,308,127
+string.c,string.c,\string.c,\src\core\string.c,8059,237,103
+array.h,array.h,\internal\array.h,\include\array.h,79,25,2
+error.h,error.h,\internal\error.h,\include\error.h,120,92,2
+hash.h,hash.h,\internal\hash.h,\include\hash.h,189,129,19
+list.h,list.h,\ccan\list\list.h,\include\list.h,263,605,11
+conversions.h,conversions.h,\ext\fiddle\conversions.h,\thirdparty\php\sockets\conversions.h,37,40,3
+win32.h,win32.h,\include\ruby\win32.h,\thirdparty\hiredis\win32.h,682,32,9
+sha1.c,sha1.c,\ext\digest\sha1\sha1.c,\src\protocol\sha1.c,187,105,64
+sha1.h,sha1.h,\ext\digest\sha1\sha1.h,\include\sha1.h,22,29,4

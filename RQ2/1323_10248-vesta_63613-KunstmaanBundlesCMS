@@ -1,0 +1,4 @@
+10248-vesta,63613-KunstmaanBundlesCMS
+app.js,app.js,\web\js\app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,903,77,11
+app.js,app.js,\web\js\app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,903,15,3
+app.js,app.js,\web\js\app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,903,27,2

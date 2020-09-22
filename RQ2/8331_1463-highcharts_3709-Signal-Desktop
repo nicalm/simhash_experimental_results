@@ -1,0 +1,7 @@
+1463-highcharts,3709-Signal-Desktop
+index.js,index.js,\studies\highcharts-jsdom\index.js,\js\modules\migrations\18\index.js,93,15,2
+data.js,data.js,\studies\hc4\01\data.js,\js\modules\data.js,24,931,4
+data.js,data.js,\studies\maps\netherlands\data.js,\js\modules\data.js,44,931,8
+errors.js,errors.js,\tools\jsdoc\storage\errors.js,\libtextsecure\errors.js,123,101,3
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\js\modules\migrations\18\index.js,40,15,3
+data.js,data.js,\exporting-server\java\highcharts-export\highcharts-export-convert\target\classes\phantomjs\data.js,\js\modules\data.js,18,931,0

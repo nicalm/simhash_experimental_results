@@ -1,0 +1,3 @@
+11093-mongoose-os,1769-ChakraCore
+debug.h,debug.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\debug.h,\pal\src\include\pal\debug.h,48,18,3
+init.h,init.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\init.h,\pal\src\include\pal\init.h,25,25,6

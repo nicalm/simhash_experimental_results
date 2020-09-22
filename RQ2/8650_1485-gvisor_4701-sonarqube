@@ -1,0 +1,5 @@
+1485-gvisor,4701-sonarqube
+index.js,index.js,\benchmarks\workloads\node\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,23,79,2
+index.js,index.js,\benchmarks\workloads\node\index.js,\server\sonar-web\config\documentation-loader\index.js,23,28,1
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,27,79,7
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\server\sonar-web\config\documentation-loader\index.js,27,28,3

@@ -1,0 +1,8 @@
+15910-gdal,60419-iv
+stat.h,stat.h,\gdal\alg\internal_libqhull\stat.h,\third_party\google-benchmark\src\stat.h,390,212,3
+utility.h,utility.h,\gdal\alg\marching_squares\utility.h,\iv\aero\utility.h,16,21,3
+utility.h,utility.h,\gdal\alg\marching_squares\utility.h,\iv\lv5\utility.h,16,17,3
+utility.h,utility.h,\gdal\alg\marching_squares\utility.h,\iv\lv5\i18n\utility.h,16,417,4
+type.h,type.h,\gdal\frmts\grib\degrib\degrib\type.h,\iv\lv5\breaker\type.h,22,466,1
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\iv\debug.h,56,32,7
+json.h,json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,\iv\lv5\json.h,18,42,2

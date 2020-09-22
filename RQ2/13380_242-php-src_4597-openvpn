@@ -1,0 +1,14 @@
+242-php-src,4597-openvpn
+main.c,main.c,\main\main.c,\src\tapctl\main.c,2098,349,100
+console.c,console.c,\win32\console.c,\src\openvpn\console.c,79,44,10
+console.h,console.h,\win32\console.h,\src\openvpn\console.h,21,36,3
+dllmain.c,dllmain.c,\win32\dllmain.c,\src\openvpnmsica\dllmain.c,34,134,15
+multi.c,multi.c,\ext\curl\multi.c,\src\openvpn\multi.c,453,2592,107
+base64.c,base64.c,\ext\standard\base64.c,\src\openvpn\base64.c,715,150,50
+base64.c,base64.c,\ext\standard\base64.c,\sample\sample-plugins\simple\base64.c,715,85,24
+test.c,test.c,\ext\zend_test\test.c,\tests\unit_tests\example_test\test.c,265,40,7
+interval.c,interval.c,\ext\date\lib\interval.c,\src\openvpn\interval.c,118,54,11
+buffer.c,buffer.c,\ext\fileinfo\libmagic\buffer.c,\src\openvpn\buffer.c,58,1182,15
+base64.c,base64.c,\ext\xmlrpc\libxmlrpc\base64.c,\src\openvpn\base64.c,140,150,35
+base64.c,base64.c,\ext\xmlrpc\libxmlrpc\base64.c,\sample\sample-plugins\simple\base64.c,140,85,19
+init.c,init.c,\ext\bcmath\libbcmath\src\init.c,\src\openvpn\init.c,59,3572,15

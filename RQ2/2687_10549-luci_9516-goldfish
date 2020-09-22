@@ -1,0 +1,6 @@
+10549-luci,9516-goldfish
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\frontend\config\index.js,82,31,6
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\frontend\client\router\index.js,82,33,6
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\frontend\client\store\index.js,82,24,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\frontend\client\store\modules\menu\index.js,82,49,8
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,82,58,9

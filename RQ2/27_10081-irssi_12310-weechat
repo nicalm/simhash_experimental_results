@@ -1,0 +1,3 @@
+10081-irssi,12310-weechat
+irc-completion.c,irc-completion.c,\src\fe-common\irc\irc-completion.c,\src\plugins\irc\irc-completion.c,18,684,6
+irc.c,irc.c,\src\irc\core\irc.c,\src\plugins\irc\irc.c,368,204,39

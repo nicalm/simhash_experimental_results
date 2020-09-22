@@ -1,0 +1,9 @@
+1172-stb,12658-Espruino
+main.c,main.c,\tests\oversample\main.c,\targets\emscripten\main.c,276,50,9
+main.c,main.c,\tests\oversample\main.c,\targets\esp32\main.c,276,92,11
+main.c,main.c,\tests\oversample\main.c,\targets\linux\main.c,276,335,27
+main.c,main.c,\tests\oversample\main.c,\targets\nrf5x\main.c,276,16,4
+main.c,main.c,\tests\oversample\main.c,\targets\nrf5x_dfu\main.c,276,191,30
+main.c,main.c,\tests\oversample\main.c,\targets\stm32\main.c,276,38,5
+main.c,main.c,\tests\oversample\main.c,\targets\stm32_boot\main.c,276,236,32
+main.c,main.c,\tests\oversample\main.c,\targets\stm32_ll\main.c,276,23,4

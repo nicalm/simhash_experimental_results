@@ -1,0 +1,15 @@
+10081-irssi,24-node
+common.h,common.h,\src\common.h,\test\js-native-api\common.h,81,52,0
+core.c,core.c,\src\core\core.c,\deps\uv\src\unix\core.c,243,1094,28
+core.c,core.c,\src\core\core.c,\deps\uv\src\win\core.c,243,412,24
+log.h,log.h,\src\core\log.h,\deps\v8\src\logging\log.h,47,302,4
+modules.h,modules.h,\src\core\modules.h,\deps\v8\src\ast\modules.h,67,135,4
+utf8.h,utf8.h,\src\core\utf8.h,\deps\icu-small\source\common\unicode\utf8.h,24,271,1
+server.c,server.c,\src\fe-fuzz\server.c,\deps\openssl\openssl\fuzz\server.c,124,532,11
+server.c,server.c,\src\fe-fuzz\server.c,\deps\uv\samples\socks5-proxy\server.c,124,180,15
+modes.h,modes.h,\src\irc\core\modes.h,\deps\openssl\openssl\include\openssl\modes.h,45,174,1
+module.h,module.h,\src\irc\notifylist\module.h,\deps\v8\src\objects\module.h,29,101,0
+module.h,module.h,\src\irc\proxy\module.h,\deps\v8\src\objects\module.h,18,101,0
+module.h,module.h,\src\perl\common\module.h,\deps\v8\src\objects\module.h,40,101,0
+module.h,module.h,\src\perl\irc\module.h,\deps\v8\src\objects\module.h,35,101,0
+module.h,module.h,\src\perl\textui\module.h,\deps\v8\src\objects\module.h,15,101,0

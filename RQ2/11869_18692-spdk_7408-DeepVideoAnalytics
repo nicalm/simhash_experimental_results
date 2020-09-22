@@ -1,0 +1,4 @@
+18692-spdk,7408-DeepVideoAnalytics
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\deploy\compose\__init__.py,116,161,2
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\deploy\kube\__init__.py,116,256,4
+tests.py,tests.py,\test\bdev\bdevio\tests.py,\repos\lopq\python\test\tests.py,65,177,1

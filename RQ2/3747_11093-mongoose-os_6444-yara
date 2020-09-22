@@ -1,0 +1,4 @@
+11093-mongoose-os,6444-yara
+elf.h,elf.h,\platforms\esp8266\rboot\esptool2\elf.h,\libyara\include\yara\elf.h,49,235,1
+mem.c,mem.c,\tools\docker\esp8266\cs_lwip\src\core\mem.c,\libyara\mem.c,354,93,21
+mem.h,mem.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\mem.h,\libyara\include\yara\mem.h,114,30,3

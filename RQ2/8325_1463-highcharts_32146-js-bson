@@ -1,0 +1,7 @@
+1463-highcharts,32146-js-bson
+code.js,code.js,\tools\code.js,\lib\code.js,40,21,6
+map.js,map.js,\studies\hc4\01\map.js,\lib\map.js,62,97,2
+map.js,map.js,\studies\maps\netherlands\map.js,\lib\map.js,1210,97,0
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\lib\parser\utils.js,53,25,8
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\test\node\tools\utils.js,53,75,10
+map.js,map.js,\exporting-server\java\highcharts-export\highcharts-export-convert\target\classes\phantomjs\map.js,\lib\map.js,39,97,0

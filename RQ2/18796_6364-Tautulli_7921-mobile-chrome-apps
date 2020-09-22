@@ -1,0 +1,7 @@
+6364-Tautulli,7921-mobile-chrome-apps
+session.py,session.py,\plexpy\session.py,\chrome-cordova\gcmServer\xmpp\session.py,154,212,1
+client.py,client.py,\lib\plexapi\client.py,\chrome-cordova\gcmServer\xmpp\client.py,227,223,2
+server.py,server.py,\lib\plexapi\server.py,\chrome-cordova\gcmServer\server.py,219,83,0
+auth.py,auth.py,\lib\requests\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,188,257,7
+auth.py,auth.py,\lib\cherrypy\lib\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,47,257,3
+client.py,client.py,\lib\paho\mqtt\client.py,\chrome-cordova\gcmServer\xmpp\client.py,1567,223,13

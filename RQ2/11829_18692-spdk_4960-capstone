@@ -1,0 +1,4 @@
+18692-spdk,4960-capstone
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\bindings\python\capstone\__init__.py,116,801,2
+utils.c,utils.c,\module\bdev\ocf\utils.c,\utils.c,82,92,25
+utils.c,utils.c,\test\unit\lib\ftl\common\utils.c,\utils.c,102,92,12

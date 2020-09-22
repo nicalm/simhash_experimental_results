@@ -1,0 +1,14 @@
+1916-robomongo,2116-libgit2
+array.c,array.c,\src\robomongo\ssh\array.c,\tests\core\array.c,37,48,2
+log.c,log.c,\src\robomongo\ssh\log.c,\examples\log.c,88,345,16
+ssh.c,ssh.c,\src\robomongo\ssh\ssh.c,\src\transports\ssh.c,533,695,118
+global.c,global.c,\src\third-party\libssh2\sources\src\global.c,\src\global.c,31,225,10
+global.c,global.c,\src\third-party\libssh2\sources\src\global.c,\tests\config\global.c,31,129,8
+openssl.c,openssl.c,\src\third-party\libssh2\sources\src\openssl.c,\src\streams\openssl.c,855,608,168
+openssl.c,openssl.c,\src\third-party\libssh2\sources\src\openssl.c,\src\hash\sha1\openssl.c,855,40,22
+packet.c,packet.c,\src\third-party\libssh2\sources\src\packet.c,\tests\transports\smart\packet.c,872,278,35
+transport.c,transport.c,\src\third-party\libssh2\sources\src\transport.c,\src\transport.c,486,153,27
+transport.c,transport.c,\src\third-party\libssh2\sources\src\transport.c,\tests\clone\transport.c,486,39,6
+simple.c,simple.c,\src\third-party\libssh2\sources\tests\simple.c,\tests\blame\simple.c,47,171,10
+simple.c,simple.c,\src\third-party\libssh2\sources\tests\simple.c,\tests\merge\workdir\simple.c,47,541,10
+simple.c,simple.c,\src\third-party\libssh2\sources\tests\simple.c,\tests\odb\backend\simple.c,47,195,10

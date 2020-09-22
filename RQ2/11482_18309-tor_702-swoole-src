@@ -1,0 +1,9 @@
+18309-tor,702-swoole-src
+test.c,test.c,\src\test\test.c,\thirdparty\hiredis\test.c,611,686,27
+socks5.c,socks5.c,\src\trunnel\socks5.c,\src\protocol\socks5.c,3468,128,38
+socks5.h,socks5.h,\src\trunnel\socks5.h,\include\socks5.h,295,49,7
+connection.h,connection.h,\src\core\mainloop\connection.h,\include\connection.h,229,264,11
+channel.c,channel.c,\src\core\or\channel.c,\src\core\channel.c,2009,181,64
+log.c,log.c,\src\lib\log\log.c,\src\core\log.c,1118,114,32
+malloc.c,malloc.c,\src\lib\malloc\malloc.c,\src\memory\malloc.c,118,29,10
+test.c,test.c,\src\ext\ed25519\donna\test.c,\thirdparty\hiredis\test.c,177,686,27

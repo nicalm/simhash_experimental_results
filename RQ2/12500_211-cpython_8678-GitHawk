@@ -1,0 +1,4 @@
+211-cpython,8678-GitHawk
+node.h,node.h,\Include\node.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\node.h,36,94,7
+node.c,node.c,\Parser\node.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\node.c,127,784,18
+parser.h,parser.h,\Parser\parser.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\parser.h,37,37,7

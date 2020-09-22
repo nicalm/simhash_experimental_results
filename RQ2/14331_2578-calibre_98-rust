@@ -1,0 +1,4 @@
+2578-calibre,98-rust
+test.py,test.py,\setup\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,147,43,1
+test.py,test.py,\src\calibre\devices\mtp\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,201,43,1
+test.py,test.py,\src\calibre\ebooks\metadata\sources\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,250,43,4

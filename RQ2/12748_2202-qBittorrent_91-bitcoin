@@ -1,0 +1,13 @@
+2202-qBittorrent,91-bitcoin
+optionsdialog.cpp,optionsdialog.cpp,\src\gui\optionsdialog.cpp,\src\qt\optionsdialog.cpp,1512,288,78
+optionsdialog.h,optionsdialog.h,\src\gui\optionsdialog.h,\src\qt\optionsdialog.h,135,52,14
+server.cpp,server.cpp,\src\base\http\server.cpp,\src\rpc\server.cpp,102,405,26
+server.h,server.h,\src\base\http\server.h,\src\rpc\server.h,31,78,7
+fs.cpp,fs.cpp,\src\base\utils\fs.cpp,\src\fs.cpp,250,196,56
+fs.h,fs.h,\src\base\utils\fs.h,\src\fs.h,33,64,4
+misc.cpp,misc.cpp,\src\base\utils\misc.cpp,\src\rpc\misc.cpp,380,486,55
+net.cpp,net.cpp,\src\base\utils\net.cpp,\src\net.cpp,91,2156,31
+net.cpp,net.cpp,\src\base\utils\net.cpp,\src\rpc\net.cpp,91,676,28
+net.h,net.h,\src\base\utils\net.h,\src\net.h,29,676,5
+random.cpp,random.cpp,\src\base\utils\random.cpp,\src\random.cpp,88,508,32
+string.h,string.h,\src\base\utils\string.h,\src\util\string.h,35,34,10

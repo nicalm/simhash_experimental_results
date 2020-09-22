@@ -1,0 +1,2 @@
+4482-nixpkgs,9023-zoneminder
+wrapper.c,wrapper.c,\nixos\modules\security\wrappers\wrapper.c,\src\libbcrypt\src\wrapper.c,108,459,28

@@ -1,0 +1,4 @@
+32146-js-bson,86-netdata
+karma.conf.js,karma.conf.js,\karma.conf.js,\tests\web\karma.conf.js,60,50,12
+utils.js,utils.js,\lib\parser\utils.js,\web\gui\src\dashboard.js\utils.js,25,324,9
+utils.js,utils.js,\test\node\tools\utils.js,\web\gui\src\dashboard.js\utils.js,75,324,19

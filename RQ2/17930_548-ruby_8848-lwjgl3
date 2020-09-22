@@ -1,0 +1,4 @@
+548-ruby,8848-lwjgl3
+debug.h,debug.h,\internal\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,16,39,2
+error.h,error.h,\internal\error.h,\modules\lwjgl\tootle\src\main\c\error.h,120,53,6
+debug.h,debug.h,\include\ruby\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,70,39,9

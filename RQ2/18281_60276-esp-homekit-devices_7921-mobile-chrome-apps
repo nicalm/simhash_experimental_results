@@ -1,0 +1,5 @@
+60276-esp-homekit-devices,7921-mobile-chrome-apps
+client.py,client.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\examples\client.py,\chrome-cordova\gcmServer\xmpp\client.py,84,223,5
+server.py,server.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\examples\server.py,\chrome-cordova\gcmServer\server.py,92,83,4
+client.py,client.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\examples\client.py,\chrome-cordova\gcmServer\xmpp\client.py,84,223,5
+server.py,server.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\examples\server.py,\chrome-cordova\gcmServer\server.py,92,83,4

@@ -1,0 +1,14 @@
+2283-capnproto,2912-postgres
+common.h,common.h,\c++\src\benchmark\common.h,\src\bin\psql\common.h,229,23,1
+common.h,common.h,\c++\src\benchmark\common.h,\src\bin\scripts\common.h,229,37,2
+common.h,common.h,\c++\src\capnp\common.h,\src\bin\psql\common.h,508,23,1
+common.h,common.h,\c++\src\capnp\common.h,\src\bin\scripts\common.h,508,37,2
+message.h,message.h,\c++\src\capnp\message.h,\src\include\replication\message.h,231,21,1
+array.h,array.h,\c++\src\kj\array.h,\src\include\utils\array.h,661,238,1
+async.h,async.h,\c++\src\kj\async.h,\src\include\commands\async.h,274,25,1
+common.h,common.h,\c++\src\kj\common.h,\src\bin\psql\common.h,1054,23,1
+common.h,common.h,\c++\src\kj\common.h,\src\bin\scripts\common.h,1054,37,3
+hash.h,hash.h,\c++\src\kj\hash.h,\src\include\access\hash.h,95,269,0
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\src\include\parser\parser.h,69,16,0
+common.h,common.h,\c++\src\kj\parse\common.h,\src\bin\psql\common.h,564,23,1
+common.h,common.h,\c++\src\kj\parse\common.h,\src\bin\scripts\common.h,564,37,3

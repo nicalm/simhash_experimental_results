@@ -1,0 +1,7 @@
+1769-ChakraCore,60276-esp-homekit-devices
+common.h,common.h,\lib\wabt\src\common.h,\external_libs\cJSON\cJSON\tests\common.h,324,82,13
+internal.h,internal.h,\pal\src\safecrt\internal.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\internal.h,712,3192,82
+internal.h,internal.h,\pal\src\safecrt\internal.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\internal.h,712,3192,82
+debug.h,debug.h,\pal\src\include\pal\debug.h,\external_libs\homekit\src\debug.h,18,20,3
+misc.h,misc.h,\pal\src\include\pal\misc.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\misc.h,21,58,6
+misc.h,misc.h,\pal\src\include\pal\misc.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\misc.h,21,58,6

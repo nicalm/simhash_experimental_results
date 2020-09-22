@@ -1,0 +1,6 @@
+4679-ArduinoJson,91-bitcoin
+misc.cpp,misc.cpp,\extras\tests\JsonDeserializer\misc.cpp,\src\rpc\misc.cpp,100,486,25
+object.cpp,object.cpp,\extras\tests\JsonDeserializer\object.cpp,\src\univalue\test\object.cpp,382,318,9
+misc.cpp,misc.cpp,\extras\tests\JsonSerializer\misc.cpp,\src\rpc\misc.cpp,36,486,4
+misc.cpp,misc.cpp,\extras\tests\JsonVariant\misc.cpp,\src\rpc\misc.cpp,38,486,6
+misc.cpp,misc.cpp,\extras\tests\MsgPackSerializer\misc.cpp,\src\rpc\misc.cpp,36,486,4

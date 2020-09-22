@@ -1,0 +1,7 @@
+3980-passenger,5902-nmap
+Crypto.h,Crypto.h,\src\cxx_supportlib\SecurityKit\Crypto.h,\nping\Crypto.h,74,19,6
+queue.h,queue.h,\src\cxx_supportlib\vendor-copy\libuv\src\queue.h,\libdnet-stripped\include\queue.h,73,314,4
+os.h,os.h,\src\cxx_supportlib\vendor-modified\boost\predef\os.h,\libdnet-stripped\include\dnet\os.h,23,99,2
+getaddrinfo.c,getaddrinfo.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\getaddrinfo.c,\nbase\getaddrinfo.c,148,103,23
+getnameinfo.c,getnameinfo.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\getnameinfo.c,\nbase\getnameinfo.c,79,46,9
+timer.c,timer.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\timer.c,\nsock\tests\timer.c,106,88,15

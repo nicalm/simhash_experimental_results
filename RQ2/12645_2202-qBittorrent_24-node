@@ -1,0 +1,9 @@
+2202-qBittorrent,24-node
+utils.h,utils.h,\src\gui\utils.h,\deps\v8\src\torque\utils.h,30,297,4
+utils.h,utils.h,\src\gui\utils.h,\deps\v8\src\utils\utils.h,30,720,5
+types.h,types.h,\src\base\http\types.h,\deps\v8\src\compiler\types.h,80,405,8
+types.h,types.h,\src\base\http\types.h,\deps\v8\src\torque\types.h,80,605,8
+types.h,types.h,\src\base\http\types.h,\deps\brotli\c\include\brotli\types.h,80,25,1
+string.h,string.h,\src\base\utils\string.h,\deps\v8\src\objects\string.h,35,488,6
+version.h,version.h,\src\base\utils\version.h,\deps\v8\src\utils\version.h,139,39,7
+misc.js,misc.js,\src\webui\www\private\scripts\misc.js,\tools\node_modules\babel-eslint\node_modules\@babel\types\lib\definitions\misc.js,143,19,2

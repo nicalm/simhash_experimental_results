@@ -1,0 +1,8 @@
+15760-bfgminer,24-node
+api.c,api.c,\api.c,\deps\llhttp\src\api.c,3686,151,40
+logging.h,logging.h,\logging.h,\deps\v8\src\base\logging.h,133,275,10
+util.c,util.c,\util.c,\deps\uv\samples\socks5-proxy\util.c,3540,43,10
+util.c,util.c,\util.c,\deps\uv\src\win\util.c,3540,1289,200
+util.h,util.h,\util.h,\src\util.h,687,520,58
+util.h,util.h,\util.h,\deps\icu-small\source\common\util.h,687,51,3
+scrypt.c,scrypt.c,\malgo\scrypt.c,\deps\openssl\openssl\crypto\kdf\scrypt.c,459,197,33

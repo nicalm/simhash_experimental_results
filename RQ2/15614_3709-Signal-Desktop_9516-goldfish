@@ -1,0 +1,9 @@
+3709-Signal-Desktop,9516-goldfish
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\frontend\.eslintrc.js,40,16,3
+.eslintrc.js,.eslintrc.js,\test\.eslintrc.js,\frontend\.eslintrc.js,32,16,4
+.eslintrc.js,.eslintrc.js,\test\modules\.eslintrc.js,\frontend\.eslintrc.js,22,16,4
+index.js,index.js,\js\modules\migrations\18\index.js,\frontend\config\index.js,15,31,0
+index.js,index.js,\js\modules\migrations\18\index.js,\frontend\client\router\index.js,15,33,0
+index.js,index.js,\js\modules\migrations\18\index.js,\frontend\client\store\index.js,15,24,0
+index.js,index.js,\js\modules\migrations\18\index.js,\frontend\client\store\modules\menu\index.js,15,49,0
+index.js,index.js,\js\modules\migrations\18\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,15,58,0

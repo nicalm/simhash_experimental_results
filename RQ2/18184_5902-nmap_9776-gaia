@@ -1,0 +1,11 @@
+5902-nmap,9776-gaia
+setup.py,setup.py,\ndiff\setup.py,\tests\python\gaia-ui-tests\setup.py,159,47,4
+setup.py,setup.py,\ndiff\setup.py,\tests\python\gaia-unit-tests\setup.py,159,25,2
+setup.py,setup.py,\ndiff\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,159,16,0
+setup.py,setup.py,\ndiff\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,159,29,2
+setup.py,setup.py,\ndiff\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,159,148,0
+setup.py,setup.py,\zenmap\setup.py,\tests\python\gaia-ui-tests\setup.py,333,47,5
+setup.py,setup.py,\zenmap\setup.py,\tests\python\gaia-unit-tests\setup.py,333,25,2
+setup.py,setup.py,\zenmap\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,333,16,0
+setup.py,setup.py,\zenmap\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,333,29,2
+setup.py,setup.py,\zenmap\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,333,148,0

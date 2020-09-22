@@ -1,0 +1,5 @@
+168-AdminLTE,222-prometheus
+bootstrap.bundle.js,bootstrap.bundle.js,\plugins\bootstrap\js\bootstrap.bundle.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.bundle.js,4586,4493,4372
+bootstrap.js,bootstrap.js,\plugins\bootstrap\js\bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,3347,3262,3151
+bootstrap.bundle.js,bootstrap.bundle.js,\docs\assets\plugins\bootstrap\js\bootstrap.bundle.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.bundle.js,4586,4493,4372
+bootstrap.js,bootstrap.js,\docs\assets\plugins\bootstrap\js\bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,3347,3262,3151

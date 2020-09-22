@@ -1,0 +1,13 @@
+1087-radare2,11788-fbthrift
+types.h,types.h,\libr\fs\types.h,\thrift\lib\py3\types.h,19,20,0
+types.h,types.h,\libr\bin\pdb\types.h,\thrift\lib\py3\types.h,1100,20,5
+types.h,types.h,\libr\include\sdb\types.h,\thrift\lib\py3\types.h,113,20,4
+utils.h,utils.h,\shlr\gdb\include\utils.h,\thrift\compiler\mustache\utils.h,15,19,0
+utils.h,utils.h,\shlr\qnx\include\utils.h,\thrift\compiler\mustache\utils.h,24,19,0
+types.h,types.h,\shlr\sdb\src\types.h,\thrift\lib\py3\types.h,113,20,4
+types.h,types.h,\shlr\grub\include\grub\types.h,\thrift\lib\py3\types.h,217,20,2
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\thrift\compiler\common.h,480,39,1
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\thrift\compiler\util.h,256,91,16
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\thrift\compiler\lib\cpp2\util.h,256,25,4
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\thrift\compiler\lib\java\util.h,256,17,4
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\thrift\compiler\lib\py3\util.h,256,29,7

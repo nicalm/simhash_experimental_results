@@ -1,0 +1,7 @@
+8063-CMake,9776-gaia
+test.js,test.js,\Tests\JavascriptCoverage\test.js,\dev_apps\test-iac-publisher\js\test.js,49,160,9
+test.js,test.js,\Tests\JavascriptCoverage\test.js,\tests\jsmarionette\client\socket-retry-connect\test.js,49,48,4
+test.js,test.js,\Tests\JavascriptCoverage\test.js,\apps\homescreen\bower_components\gaia-container\test\test.js,49,161,0
+test.js,test.js,\Tests\JavascriptCoverage\test.js,\apps\system\test\apps\fullscreen_layout\test.js,49,15,0
+test.js,test.js,\Tests\JavascriptCoverage\test.js,\apps\system\test\apps\permissionprompts\test.js,49,17,1
+test.js,test.js,\Tests\JavascriptCoverage\test.js,\tests\jsmarionette\runner\marionette-js-runner\test\fixtures\test.js,49,17,0

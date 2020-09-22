@@ -1,0 +1,8 @@
+10395-jitsi,516-mongo
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\src\mongo\scripting\mozjs\base.h,66,52,0
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\src\third_party\wiredtiger\src\include\block.h,71,188,1
+check.h,check.h,\src\native\windows\setup\include\lzma\check.h,\src\third_party\benchmark-1.4.1\benchmark\src\check.h,23,59,1
+container.h,container.h,\src\native\windows\setup\include\lzma\container.h,\src\third_party\abseil-cpp-master\abseil-cpp\absl\algorithm\container.h,48,956,1
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\src\mongo\db\exec\filter.h,51,98,0
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\src\mongo\util\version.h,40,46,1
+Logger.java,Logger.java,\src\net\java\sip\communicator\util\Logger.java,\src\mongo\embedded\mongo_embedded\java\src\com\mongodb\embedded\capi\internal\logging\Logger.java,146,19,1

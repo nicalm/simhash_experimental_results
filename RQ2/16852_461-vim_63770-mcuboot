@@ -1,0 +1,8 @@
+461-vim,63770-mcuboot
+main.c,main.c,\src\main.c,\boot\zephyr\main.c,3234,250,60
+main.c,main.c,\src\main.c,\boot\cypress\BlinkyApp\main.c,3234,73,16
+main.c,main.c,\src\main.c,\boot\cypress\MCUBootApp\main.c,3234,40,7
+main.c,main.c,\src\main.c,\boot\mynewt\src\main.c,3234,164,41
+main.c,main.c,\src\main.c,\testplan\mynewt\apps\blinky\src\main.c,3234,42,11
+main.c,main.c,\src\main.c,\testplan\mynewt\apps\slinky\src\main.c,3234,191,42
+sha256.c,sha256.c,\src\sha256.c,\ext\tinycrypt\lib\source\sha256.c,332,138,22

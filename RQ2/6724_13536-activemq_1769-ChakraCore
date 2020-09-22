@@ -1,0 +1,4 @@
+13536-activemq,1769-ChakraCore
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\test\Intl\common.js,78,101,15
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\test\Function\prototype.js,4042,23,7
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\test\Function\prototype.js,1446,23,7

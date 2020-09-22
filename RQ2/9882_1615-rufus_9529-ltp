@@ -1,0 +1,10 @@
+1615-rufus,9529-ltp
+process.h,process.h,\src\process.h,\src\srl\include\base\process.h,239,17,1
+settings.h,settings.h,\src\settings.h,\src\ner\settings.h,106,15,2
+settings.h,settings.h,\src\settings.h,\src\parser\settings.h,106,41,2
+settings.h,settings.h,\src\settings.h,\src\parser.n\settings.h,106,41,2
+settings.h,settings.h,\src\settings.h,\src\segmentor\settings.h,106,29,2
+config.h,config.h,\src\ext2fs\config.h,\src\srl\include\base\config.h,182,58,1
+config.h,config.h,\src\ext2fs\config.h,\thirdparty\jsoncpp\include\json\config.h,182,123,16
+config.h,config.h,\src\libcdio\config.h,\src\srl\include\base\config.h,53,58,1
+config.h,config.h,\src\libcdio\config.h,\thirdparty\jsoncpp\include\json\config.h,53,123,5

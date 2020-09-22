@@ -1,0 +1,7 @@
+15910-gdal,5868-libvips
+merge.c,merge.c,\gdal\alg\internal_libqhull\merge.c,\libvips\mosaicing\merge.c,2129,111,8
+point.h,point.h,\gdal\alg\marching_squares\point.h,\libvips\create\point.h,47,37,2
+type.h,type.h,\gdal\frmts\grib\degrib\degrib\type.h,\libvips\include\vips\type.h,22,115,3
+reduce.c,reduce.c,\gdal\frmts\grib\degrib\g2clib\reduce.c,\libvips\resample\reduce.c,140,107,8
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\libvips\include\vips\util.h,411,230,8
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\libvips\include\vips\debug.h,56,37,14

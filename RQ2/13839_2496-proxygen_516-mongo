@@ -1,0 +1,9 @@
+2496-proxygen,516-mongo
+utils.py,utils.py,\build\fbcode_builder\utils.py,\buildscripts\utils.py,59,117,4
+platform.py,platform.py,\build\fbcode_builder\getdeps\platform.py,\site_scons\mongo\platform.py,69,37,1
+test.c,test.c,\proxygen\external\http_parser\test.c,\src\third_party\zstandard-1.4.3\zstd\tests\regression\test.c,2711,286,51
+Logging.h,Logging.h,\proxygen\lib\utils\Logging.h,\src\third_party\zstandard-1.4.3\zstd\contrib\pzstd\Logging.h,134,52,12
+Time.cpp,Time.cpp,\proxygen\lib\utils\Time.cpp,\src\third_party\mozjs-60\extract\js\src\vm\Time.cpp,20,246,4
+Time.h,Time.h,\proxygen\lib\utils\Time.h,\src\third_party\mozjs-60\extract\js\src\vm\Time.h,134,65,4
+main.cpp,main.cpp,\proxygen\httpserver\samples\hq\main.cpp,\src\third_party\zstandard-1.4.3\zstd\contrib\pzstd\main.cpp,39,16,5
+main.cpp,main.cpp,\proxygen\httpserver\samples\hq\main.cpp,\src\mongo\gotools\src\github.com\mongodb\mongo-tools\vendor\github.com\golang\snappy\cmd\snappytool\main.cpp,39,59,5

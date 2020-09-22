@@ -1,0 +1,6 @@
+1193-mpv,4000-mruby
+common.h,common.h,\common\common.h,\include\mruby\common.h,78,55,1
+io.c,io.c,\osdep\io.c,\mrbgems\mruby-io\src\io.c,638,1155,191
+io.h,io.h,\osdep\io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,147,28,5
+common.h,common.h,\video\out\opengl\common.h,\include\mruby\common.h,197,55,3
+common.h,common.h,\video\out\vulkan\common.h,\include\mruby\common.h,27,55,3

@@ -1,0 +1,3 @@
+1769-ChakraCore,5271-CouchPotatoServer
+log.js,log.js,\test\Math\log.js,\couchpotato\core\plugins\log\static\log.js,26,255,5
+api.js,api.js,\test\wasm\api.js,\couchpotato\static\scripts\api.js,404,22,3

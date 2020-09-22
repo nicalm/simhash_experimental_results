@@ -1,0 +1,11 @@
+548-ruby,618-jq
+builtin.c,builtin.c,\builtin.c,\src\builtin.c,52,1596,15
+compile.c,compile.c,\compile.c,\src\compile.c,9607,1120,215
+main.c,main.c,\main.c,\src\main.c,31,647,9
+util.c,util.c,\util.c,\src\util.c,517,380,72
+compile.h,compile.h,\internal\compile.h,\src\compile.h,15,84,1
+util.h,util.h,\internal\util.h,\src\util.h,15,42,2
+util.h,util.h,\include\ruby\util.h,\src\util.h,62,42,8
+parser.c,parser.c,\ext\json\parser\parser.c,\src\parser.c,1941,3339,278
+parser.h,parser.h,\ext\json\parser\parser.h,\src\parser.h,78,145,6
+parser.c,parser.c,\ext\psych\yaml\parser.c,\src\parser.c,963,3339,182

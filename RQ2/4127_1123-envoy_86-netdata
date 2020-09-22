@@ -1,0 +1,11 @@
+1123-envoy,86-netdata
+common.h,common.h,\test\mocks\common.h,\daemon\common.h,59,48,0
+registry.h,registry.h,\test\test_common\registry.h,\registry\registry.h,25,17,0
+buffer.h,buffer.h,\include\envoy\buffer\buffer.h,\libnetdata\buffer\buffer.h,113,64,1
+registry.h,registry.h,\include\envoy\registry\registry.h,\registry\registry.h,193,17,0
+common.h,common.h,\source\common\grpc\common.h,\daemon\common.h,48,48,0
+common.h,common.h,\test\common\http\common.h,\daemon\common.h,47,48,0
+common.h,common.h,\test\integration\filters\common.h,\daemon\common.h,18,48,0
+common.h,common.h,\test\extensions\common\tap\common.h,\daemon\common.h,48,48,0
+statsd.h,statsd.h,\source\extensions\stat_sinks\common\statsd\statsd.h,\collectors\statsd.plugin\statsd.h,101,17,0
+common.h,common.h,\test\extensions\filters\http\tap\common.h,\daemon\common.h,30,48,0

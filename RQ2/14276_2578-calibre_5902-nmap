@@ -1,0 +1,11 @@
+2578-calibre,5902-nmap
+setup.py,setup.py,\setup.py,\ndiff\setup.py,92,159,1
+setup.py,setup.py,\setup.py,\zenmap\setup.py,92,333,1
+util.c,util.c,\bypy\linux\util.c,\ncat\util.c,196,502,33
+util.c,util.c,\bypy\macos\util.c,\ncat\util.c,169,502,29
+util.c,util.c,\bypy\windows\util.c,\ncat\util.c,328,502,48
+misc.py,misc.py,\src\calibre\devices\misc.py,\zenmap\radialnet\util\misc.py,381,30,0
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\utils.h,29,45,1
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\nping\utils.h,29,26,0
+misc.py,misc.py,\src\calibre\gui2\preferences\misc.py,\zenmap\radialnet\util\misc.py,58,30,0
+windows.py,windows.py,\src\calibre\utils\open_with\windows.py,\zenmap\radialnet\bestwidgets\windows.py,103,23,0

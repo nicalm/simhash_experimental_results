@@ -1,0 +1,5 @@
+1652-joplin,9197-domoticz
+app.js,app.js,\CliClient\app\app.js,\www\app\app.js,357,742,69
+main.js,main.js,\CliClient\app\main.js,\www\app\main.js,64,46,1
+app.js,app.js,\ElectronClient\app\app.js,\www\app\app.js,1144,742,161
+main.js,main.js,\ElectronClient\app\main.js,\www\app\main.js,33,46,1

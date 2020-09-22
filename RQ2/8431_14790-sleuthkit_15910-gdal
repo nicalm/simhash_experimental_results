@@ -1,0 +1,5 @@
+14790-sleuthkit,15910-gdal
+json.h,json.h,\tools\logicalimager\json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,11001,18,5
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\gdal\frmts\zlib\compress.c,395,46,8
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\gdal\frmts\pcraster\libcsf\file.c,401,22,8
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,41,54,12

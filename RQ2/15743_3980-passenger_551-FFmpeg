@@ -1,0 +1,11 @@
+3980-passenger,551-FFmpeg
+tree.h,tree.h,\src\cxx_supportlib\vendor-copy\libuv\include\tree.h,\libavutil\tree.h,666,17,1
+async.c,async.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\async.c,\libavformat\async.c,193,535,32
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\libavcodec\internal.h,221,148,10
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\libavfilter\internal.h,221,107,7
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\libavformat\internal.h,221,193,14
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\libavresample\internal.h,221,78,3
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\libavutil\internal.h,221,209,28
+tcp.c,tcp.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\tcp.c,\libavformat\tcp.c,232,268,34
+tty.c,tty.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\tty.c,\libavformat\tty.c,169,108,10
+udp.c,udp.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\udp.c,\libavformat\udp.c,629,888,107

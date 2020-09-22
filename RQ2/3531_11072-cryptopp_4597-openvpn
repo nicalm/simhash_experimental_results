@@ -1,0 +1,4 @@
+11072-cryptopp,4597-openvpn
+integer.h,integer.h,\integer.h,\src\openvpn\integer.h,193,103,12
+misc.h,misc.h,\misc.h,\src\openvpn\misc.h,1443,89,13
+validate.h,validate.h,\validate.h,\src\openvpnserv\validate.h,293,15,3

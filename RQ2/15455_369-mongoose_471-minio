@@ -1,0 +1,15 @@
+369-mongoose,471-minio
+webpack.config.js,webpack.config.js,\webpack.config.js,\browser\webpack.config.js,17,104,3
+index.js,index.js,\benchmarks\index.js,\browser\app\index.js,135,22,0
+index.js,index.js,\lib\index.js,\browser\app\index.js,333,22,0
+utils.js,utils.js,\lib\utils.js,\browser\app\js\utils.js,686,95,14
+index.js,index.js,\docs\source\index.js,\browser\app\index.js,34,22,0
+index.js,index.js,\lib\error\index.js,\browser\app\index.js,15,22,0
+index.js,index.js,\lib\schema\index.js,\browser\app\index.js,17,22,0
+index.js,index.js,\examples\schema\storing-schemas-as-json\index.js,\browser\app\index.js,16,22,0
+index.js,index.js,\docs\3.0.x\docs\source\index.js,\browser\app\index.js,18,22,0
+index.js,index.js,\docs\3.1.x\docs\source\index.js,\browser\app\index.js,18,22,0
+index.js,index.js,\docs\3.2.x\docs\source\index.js,\browser\app\index.js,19,22,0
+index.js,index.js,\docs\3.3.x\docs\source\index.js,\browser\app\index.js,20,22,0
+index.js,index.js,\docs\3.4.x\docs\source\index.js,\browser\app\index.js,20,22,0
+index.js,index.js,\docs\3.5.x\docs\source\index.js,\browser\app\index.js,20,22,0

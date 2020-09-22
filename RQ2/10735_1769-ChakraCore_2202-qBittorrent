@@ -1,0 +1,8 @@
+1769-ChakraCore,2202-qBittorrent
+misc.js,misc.js,\test\wasm\misc.js,\src\webui\www\private\scripts\misc.js,40,143,0
+misc.cpp,misc.cpp,\pal\src\cruntime\misc.cpp,\src\base\utils\misc.cpp,344,380,62
+string.cpp,string.cpp,\pal\src\cruntime\string.cpp,\src\base\utils\string.cpp,98,130,20
+random.cpp,random.cpp,\pal\src\misc\random.cpp,\src\base\utils\random.cpp,79,88,18
+utils.cpp,utils.cpp,\pal\src\misc\utils.cpp,\src\gui\utils.cpp,174,156,34
+misc.h,misc.h,\pal\src\include\pal\misc.h,\src\base\utils\misc.h,21,55,5
+utils.h,utils.h,\pal\src\include\pal\utils.h,\src\gui\utils.h,23,30,3

@@ -1,0 +1,12 @@
+3980-passenger,4960-capstone
+platform.h,platform.h,\src\cxx_supportlib\vendor-modified\boost\predef\platform.h,\include\platform.h,17,80,2
+platform.h,platform.h,\src\cxx_supportlib\vendor-modified\boost\predef\platform.h,\include\capstone\platform.h,17,88,2
+arm.h,arm.h,\src\cxx_supportlib\vendor-modified\boost\predef\architecture\arm.h,\include\capstone\arm.h,35,837,4
+m68k.h,m68k.h,\src\cxx_supportlib\vendor-modified\boost\predef\architecture\m68k.h,\include\capstone\m68k.h,36,552,4
+mips.h,mips.h,\src\cxx_supportlib\vendor-modified\boost\predef\architecture\mips.h,\include\capstone\mips.h,34,889,4
+ppc.h,ppc.h,\src\cxx_supportlib\vendor-modified\boost\predef\architecture\ppc.h,\include\capstone\ppc.h,31,1408,4
+sparc.h,sparc.h,\src\cxx_supportlib\vendor-modified\boost\predef\architecture\sparc.h,\include\capstone\sparc.h,24,467,4
+x86.h,x86.h,\src\cxx_supportlib\vendor-modified\boost\predef\architecture\x86.h,\include\capstone\x86.h,16,1843,3
+arm.h,arm.h,\src\cxx_supportlib\vendor-modified\boost\predef\hardware\simd\arm.h,\include\capstone\arm.h,18,837,3
+ppc.h,ppc.h,\src\cxx_supportlib\vendor-modified\boost\predef\hardware\simd\ppc.h,\include\capstone\ppc.h,24,1408,4
+x86.h,x86.h,\src\cxx_supportlib\vendor-modified\boost\predef\hardware\simd\x86.h,\include\capstone\x86.h,48,1843,3

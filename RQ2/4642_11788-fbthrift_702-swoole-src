@@ -1,0 +1,5 @@
+11788-fbthrift,702-swoole-src
+client.h,client.h,\thrift\lib\py3\client.h,\include\client.h,116,123,0
+server.h,server.h,\thrift\lib\py3\server.h,\include\server.h,37,728,6
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\core-tests\src\main.cpp,47,55,2
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\include\server.h,58,728,12

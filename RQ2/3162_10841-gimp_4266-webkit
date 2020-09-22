@@ -1,0 +1,12 @@
+10841-gimp,4266-webkit
+app.h,app.h,\app\app.h,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\rtp_rtcp\source\rtcp_packet\app.h,33,46,1
+errors.h,errors.h,\app\errors.h,\Source\ThirdParty\libwebrtc\Source\third_party\opus\src\silk\errors.h,15,26,2
+main.c,main.c,\app\main.c,\ManualTests\NPN_Invoke\main.c,631,187,43
+main.c,main.c,\app\main.c,\Tools\MiniBrowser\gtk\main.c,631,521,73
+main.c,main.c,\app\main.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\main.c,631,174,22
+main.c,main.c,\app\main.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\main.c,631,35,11
+main.c,main.c,\app\main.c,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\audio_processing\test\android\apmtest\jni\main.c,631,185,27
+actions.c,actions.c,\app\actions\actions.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\actions.c,591,605,80
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\misc.c,169,86,21
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\Source\ThirdParty\capstone\Source\utils.c,303,91,30
+print.c,print.c,\plug-ins\print\print.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\evp\print.c,407,369,35

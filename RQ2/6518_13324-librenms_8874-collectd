@@ -1,0 +1,7 @@
+13324-librenms,8874-collectd
+graph.php,graph.php,\html\graph.php,\contrib\php-collection\graph.php,18,154,3
+functions.php,functions.php,\includes\functions.php,\contrib\php-collection\functions.php,1893,646,108
+config.php,config.php,\includes\html\collectd\config.php,\contrib\php-collection\config.php,68,32,1
+definitions.local.php,definitions.local.php,\includes\html\collectd\definitions.local.php,\contrib\php-collection\definitions.local.php,42,39,32
+definitions.php,definitions.php,\includes\html\collectd\definitions.php,\contrib\php-collection\definitions.php,1972,1981,1322
+functions.php,functions.php,\includes\html\collectd\functions.php,\contrib\php-collection\functions.php,684,646,258

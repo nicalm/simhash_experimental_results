@@ -1,0 +1,4 @@
+10081-irssi,5902-nmap
+misc.c,misc.c,\src\core\misc.c,\libssh2\src\misc.c,805,613,136
+misc.h,misc.h,\src\core\misc.h,\libssh2\src\misc.h,55,65,1
+session.c,session.c,\src\core\session.c,\libssh2\src\session.c,273,1283,42

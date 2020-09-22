@@ -1,0 +1,6 @@
+4597-openvpn,4960-capstone
+helper.c,helper.c,\src\openvpn\helper.c,\suite\cstest\src\helper.c,375,217,35
+platform.h,platform.h,\src\openvpn\platform.h,\include\platform.h,90,80,11
+platform.h,platform.h,\src\openvpn\platform.h,\include\capstone\platform.h,90,88,14
+main.c,main.c,\src\tapctl\main.c,\suite\cstest\src\main.c,349,300,56
+utils.c,utils.c,\src\plugins\auth-pam\utils.c,\utils.c,81,92,31

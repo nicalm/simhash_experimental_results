@@ -1,0 +1,5 @@
+6285-ImageMagick,91-bitcoin
+cache.h,cache.h,\MagickCore\cache.h,\src\leveldb\include\leveldb\cache.h,51,32,2
+histogram.h,histogram.h,\MagickCore\histogram.h,\src\leveldb\util\histogram.h,21,28,2
+policy.h,policy.h,\MagickCore\policy.h,\src\policy\policy.h,45,60,4
+timer.h,timer.h,\MagickCore\timer.h,\src\logging\timer.h,46,70,5

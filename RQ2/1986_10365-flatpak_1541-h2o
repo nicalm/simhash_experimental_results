@@ -1,0 +1,4 @@
+10365-flatpak,1541-h2o
+main.c,main.c,\revokefs\main.c,\src\main.c,455,2462,153
+main.c,main.c,\revokefs\main.c,\deps\picotls\deps\cifra\src\arm\main.c,455,385,68
+writer.c,writer.c,\revokefs\writer.c,\deps\yaml\src\writer.c,718,88,22

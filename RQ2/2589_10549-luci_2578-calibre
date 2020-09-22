@@ -1,0 +1,7 @@
+10549-luci,2578-calibre
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\bypy\linux\util.c,81,196,13
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\bypy\macos\util.c,81,169,11
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\bypy\windows\util.c,81,328,11
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\bypy\linux\util.c,261,196,26
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\bypy\macos\util.c,261,169,25
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\bypy\windows\util.c,261,328,23

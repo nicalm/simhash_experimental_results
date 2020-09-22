@@ -1,0 +1,4 @@
+11093-mongoose-os,4984-jerryscript
+main.c,main.c,\platforms\posix\main.c,\targets\curie_bsp\jerry_app\quark\main.c,78,130,18
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\targets\curie_bsp\jerry_app\quark\main.c,128,130,16
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\targets\curie_bsp\jerry_app\quark\main.c,136,130,16

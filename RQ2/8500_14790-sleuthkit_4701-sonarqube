@@ -1,0 +1,3 @@
+14790-sleuthkit,4701-sonarqube
+FileSystem.java,FileSystem.java,\bindings\java\src\org\sleuthkit\datamodel\FileSystem.java,\sonar-plugin-api\src\main\java\org\sonar\api\batch\fs\FileSystem.java,101,31,2
+RootFilterTest.java,RootFilterTest.java,\bindings\java\test\org\sleuthkit\datamodel\timeline\RootFilterTest.java,\server\sonar-webserver\src\test\java\org\sonar\server\platform\web\RootFilterTest.java,39,105,7

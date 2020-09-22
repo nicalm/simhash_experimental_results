@@ -1,0 +1,13 @@
+551-FFmpeg,6664-ModSecurity
+decode.h,decode.h,\libavcodec\decode.h,\src\utils\decode.h,20,16,1
+ip.h,ip.h,\libavformat\ip.h,\src\variables\ip.h,17,84,1
+base64.c,base64.c,\libavutil\base64.c,\others\mbedtls\base64.c,129,199,12
+log.h,log.h,\libavutil\log.h,\src\actions\log.h,77,19,1
+md5.c,md5.c,\libavutil\md5.c,\others\mbedtls\md5.c,159,293,26
+md5.h,md5.h,\libavutil\md5.h,\others\mbedtls\md5.h,22,43,7
+md5.h,md5.h,\libavutil\md5.h,\src\utils\md5.h,22,18,1
+md5.h,md5.h,\libavutil\md5.h,\src\actions\transformations\md5.h,22,21,2
+tx.h,tx.h,\libavutil\tx.h,\src\variables\tx.h,22,74,2
+base64.c,base64.c,\tests\base64.c,\others\mbedtls\base64.c,28,199,4
+base64.c,base64.c,\libavutil\tests\base64.c,\others\mbedtls\base64.c,95,199,19
+md5.c,md5.c,\libavutil\tests\md5.c,\others\mbedtls\md5.c,31,293,6

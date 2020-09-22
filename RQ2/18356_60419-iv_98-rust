@@ -1,0 +1,4 @@
+60419-iv,98-rust
+test.c,test.c,\iv\lv5\third_party\gc\tests\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,1639,30,8
+test.c,test.c,\iv\lv5\third_party\gc\tests\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,1639,196,21
+test.c,test.c,\iv\lv5\third_party\gc\tests\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,1639,22,6

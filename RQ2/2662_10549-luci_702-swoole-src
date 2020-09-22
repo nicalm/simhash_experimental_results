@@ -1,0 +1,5 @@
+10549-luci,702-swoole-src
+poll.c,poll.c,\libs\luci-lib-nixio\src\poll.c,\src\reactor\poll.c,154,256,20
+sha1.c,sha1.c,\libs\luci-lib-nixio\axTLS\crypto\sha1.c,\src\protocol\sha1.c,148,105,10
+sha1.c,sha1.c,\libs\luci-lib-px5g\src\library\sha1.c,\src\protocol\sha1.c,445,105,11
+sha1.h,sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,\include\sha1.h,30,29,3

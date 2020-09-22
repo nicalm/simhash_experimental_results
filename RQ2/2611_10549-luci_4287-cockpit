@@ -1,0 +1,10 @@
+10549-luci,4287-cockpit
+overview.js,overview.js,\applications\luci-app-ddns\htdocs\luci-static\resources\view\ddns\overview.js,\pkg\docker\overview.js,774,181,25
+overview.js,overview.js,\applications\luci-app-nextdns\htdocs\luci-static\resources\view\nextdns\overview.js,\pkg\docker\overview.js,35,181,1
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\pkg\machines\config.js,53,18,1
+interfaces.js,interfaces.js,\modules\luci-mod-network\htdocs\luci-static\resources\view\network\interfaces.js,\pkg\networkmanager\interfaces.js,820,3699,99
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\eslint-plugin-cockpit\index.js,82,15,5
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\pkg\machines\index.js,82,50,7
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\pkg\playground\index.js,82,28,5
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\pkg\shell\index.js,82,32,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\pkg\sosreport\index.js,82,136,17

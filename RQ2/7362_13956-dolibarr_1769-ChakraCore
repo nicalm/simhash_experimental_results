@@ -1,0 +1,9 @@
+13956-dolibarr,1769-ChakraCore
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\test\WasmSpec\convert-test-suite\index.js,40,195,9
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\test\benchmarks\ARES-6\Babylon\index.js,40,5263,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\test\benchmarks\ARES-6\ml\index.js,40,4664,9
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\test\WasmSpec\convert-test-suite\generateTests\index.js,40,17,0
+all.js,all.js,\htdocs\theme\common\fontawesome-5\js\all.js,\test\benchmarks\ARES-6\Air\all.js,3922,17,0
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\test\Intl\common.js,48,101,11
+default.js,default.js,\htdocs\includes\ckeditor\ckeditor\plugins\pastefromword\filter\default.js,\test\DebuggerCommon\default.js,55,288,0
+default.js,default.js,\htdocs\includes\ckeditor\ckeditor\plugins\pastefromword\filter\default.js,\test\es6\default.js,55,544,0

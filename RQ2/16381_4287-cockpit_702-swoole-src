@@ -1,0 +1,5 @@
+4287-cockpit,702-swoole-src
+connection.h,connection.h,\src\tls\connection.h,\include\connection.h,15,264,0
+server.h,server.h,\src\tls\server.h,\include\server.h,17,728,0
+websocket.c,websocket.c,\src\websocket\websocket.c,\src\protocol\websocket.c,309,285,75
+websocket.h,websocket.h,\src\websocket\websocket.h,\include\websocket.h,54,143,1

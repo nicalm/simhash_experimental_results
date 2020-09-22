@@ -1,0 +1,7 @@
+6974-openapi-generator,7921-mobile-chrome-apps
+client.py,client.py,\samples\client\petstore\python\petstore_api\models\client.py,\chrome-cordova\gcmServer\xmpp\client.py,57,223,1
+client.py,client.py,\samples\client\petstore\python-asyncio\petstore_api\models\client.py,\chrome-cordova\gcmServer\xmpp\client.py,57,223,1
+client.py,client.py,\samples\client\petstore\python-experimental\petstore_api\models\client.py,\chrome-cordova\gcmServer\xmpp\client.py,57,223,0
+client.py,client.py,\samples\client\petstore\python-tornado\petstore_api\models\client.py,\chrome-cordova\gcmServer\xmpp\client.py,57,223,1
+client.py,client.py,\samples\openapi3\client\petstore\python\petstore_api\models\client.py,\chrome-cordova\gcmServer\xmpp\client.py,57,223,1
+client.py,client.py,\samples\openapi3\client\petstore\python-experimental\petstore_api\models\client.py,\chrome-cordova\gcmServer\xmpp\client.py,57,223,0

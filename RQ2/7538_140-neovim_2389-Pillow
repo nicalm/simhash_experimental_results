@@ -1,0 +1,5 @@
+140-neovim,2389-Pillow
+map.c,map.c,\src\nvim\map.c,\src\map.c,172,284,16
+path.c,path.c,\src\nvim\path.c,\src\path.c,1548,472,90
+decode.c,decode.c,\src\nvim\eval\decode.c,\src\decode.c,980,591,57
+encode.c,encode.c,\src\nvim\eval\encode.c,\src\encode.c,835,918,79

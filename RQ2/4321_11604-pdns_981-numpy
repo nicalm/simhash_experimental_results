@@ -1,0 +1,9 @@
+11604-pdns,981-numpy
+conf.py,conf.py,\docs\conf.py,\doc\neps\conf.py,82,65,11
+conf.py,conf.py,\docs\conf.py,\doc\source\conf.py,82,193,12
+runtests.py,runtests.py,\regression-tests.api\runtests.py,\runtests.py,138,359,11
+test_helper.py,test_helper.py,\regression-tests.api\test_helper.py,\numpy\fft\tests\test_helper.py,78,125,0
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\doc\neps\conf.py,48,65,15
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\doc\source\conf.py,48,193,11
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\doc\neps\conf.py,52,65,12
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\doc\source\conf.py,52,193,11

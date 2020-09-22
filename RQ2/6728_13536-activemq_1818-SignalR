@@ -1,0 +1,5 @@
+13536-activemq,1818-SignalR
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,78,65,3
+chat.js,chat.js,\activemq-web-demo\src\main\webapp\js\chat.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\chat.js,136,109,20
+chat.js,chat.js,\activemq-web-demo\src\main\webapp\mqtt\chat.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\chat.js,57,109,12
+chat.js,chat.js,\activemq-web-demo\src\main\webapp\websocket\chat.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\chat.js,43,109,10

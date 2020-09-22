@@ -1,0 +1,6 @@
+13470-tigervnc,2116-libgit2
+win32.c,win32.c,\vncviewer\win32.c,\tests\path\win32.c,242,216,21
+win32.c,win32.c,\vncviewer\win32.c,\src\hash\sha1\win32.c,242,223,31
+types.h,types.h,\common\rdr\types.h,\include\git2\types.h,48,131,2
+util.h,util.h,\common\rfb\util.h,\src\util.h,75,264,13
+util.h,util.h,\tests\perf\util.h,\src\util.h,15,264,1

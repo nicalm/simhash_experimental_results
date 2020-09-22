@@ -1,0 +1,17 @@
+464-gentelella,63622-mirador
+webpack.config.js,webpack.config.js,\vendors\raphael\webpack.config.js,\webpack.config.js,50,62,8
+webpack.config.js,webpack.config.js,\vendors\echarts\extension\webpack.config.js,\webpack.config.js,16,62,6
+config.js,config.js,\vendors\echarts\test\config.js,\src\state\actions\config.js,21,21,2
+config.js,config.js,\vendors\echarts\test\config.js,\src\state\reducers\config.js,21,15,1
+config.js,config.js,\vendors\echarts\test\config.js,\src\state\selectors\config.js,21,44,1
+i18n.js,i18n.js,\vendors\DateJS\src\core\i18n.js,\src\i18n.js,399,36,4
+config.js,config.js,\vendors\echarts\test\ut\config.js,\src\state\actions\config.js,22,21,2
+config.js,config.js,\vendors\echarts\test\ut\config.js,\src\state\reducers\config.js,22,15,1
+config.js,config.js,\vendors\echarts\test\ut\config.js,\src\state\selectors\config.js,22,44,1
+canvas.js,canvas.js,\vendors\jquery.easy-pie-chart\src\renderer\canvas.js,\src\state\actions\canvas.js,116,58,7
+search.js,search.js,\vendors\select2\src\js\select2\dropdown\search.js,\src\state\actions\search.js,73,87,14
+search.js,search.js,\vendors\select2\src\js\select2\dropdown\search.js,\src\state\reducers\search.js,73,129,8
+search.js,search.js,\vendors\select2\src\js\select2\selection\search.js,\src\state\actions\search.js,147,87,18
+search.js,search.js,\vendors\select2\src\js\select2\selection\search.js,\src\state\reducers\search.js,147,129,12
+search.js,search.js,\vendors\bootstrap\site\docs\4.3\assets\js\src\search.js,\src\state\actions\search.js,38,87,4
+search.js,search.js,\vendors\bootstrap\site\docs\4.3\assets\js\src\search.js,\src\state\reducers\search.js,38,129,6

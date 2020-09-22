@@ -1,0 +1,4 @@
+10549-luci,6422-roundcubemail
+ui.js,ui.js,\modules\luci-base\htdocs\luci-static\resources\ui.js,\skins\elastic\ui.js,2277,2961,306
+ui.js,ui.js,\modules\luci-base\htdocs\luci-static\resources\ui.js,\skins\larry\ui.js,2277,1092,199
+password.js,password.js,\modules\luci-mod-system\htdocs\luci-static\resources\view\system\password.js,\plugins\password\password.js,76,40,10

@@ -1,0 +1,6 @@
+6285-ImageMagick,682-curl
+debug.c,debug.c,\coders\debug.c,\docs\examples\debug.c,144,100,14
+url.c,url.c,\coders\url.c,\lib\url.c,239,2758,46
+mime.c,mime.c,\MagickCore\mime.c,\lib\mime.c,655,1425,137
+mime.h,mime.h,\MagickCore\mime.h,\lib\mime.h,23,112,2
+version.c,version.c,\MagickCore\version.c,\lib\version.c,351,398,69

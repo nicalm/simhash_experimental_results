@@ -1,0 +1,8 @@
+10081-irssi,1769-ChakraCore
+common.h,common.h,\src\common.h,\lib\wabt\src\common.h,81,324,2
+misc.h,misc.h,\src\core\misc.h,\pal\src\include\pal\misc.h,55,21,1
+module.h,module.h,\src\irc\notifylist\module.h,\pal\src\include\pal\module.h,29,37,0
+module.h,module.h,\src\irc\proxy\module.h,\pal\src\include\pal\module.h,18,37,0
+module.h,module.h,\src\perl\common\module.h,\pal\src\include\pal\module.h,40,37,0
+module.h,module.h,\src\perl\irc\module.h,\pal\src\include\pal\module.h,35,37,0
+module.h,module.h,\src\perl\textui\module.h,\pal\src\include\pal\module.h,15,37,0

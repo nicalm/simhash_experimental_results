@@ -1,0 +1,6 @@
+6773-server,9776-gaia
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\tests\python\gaia-ui-tests\setup.py,15,47,0
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\tests\python\gaia-unit-tests\setup.py,15,25,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,15,16,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,15,29,0
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,15,148,0

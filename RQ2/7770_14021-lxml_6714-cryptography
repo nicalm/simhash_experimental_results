@@ -1,0 +1,9 @@
+14021-lxml,6714-cryptography
+setup.py,setup.py,\setup.py,\setup.py,168,181,16
+setup.py,setup.py,\setup.py,\vectors\setup.py,168,19,3
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\cryptography\x509\__init__.py,1099,175,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\cryptography\hazmat\primitives\asymmetric\__init__.py,1099,15,0
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\cryptography\hazmat\primitives\serialization\__init__.py,1099,18,2
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\cryptography\x509\__init__.py,154,175,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\cryptography\hazmat\primitives\asymmetric\__init__.py,154,15,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\cryptography\hazmat\primitives\serialization\__init__.py,154,18,0

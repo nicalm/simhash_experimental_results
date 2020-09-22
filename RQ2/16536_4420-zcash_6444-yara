@@ -1,0 +1,9 @@
+4420-zcash,6444-yara
+hash.h,hash.h,\src\hash.h,\libyara\include\yara\hash.h,164,62,3
+util.h,util.h,\src\util.h,\tests\util.h,150,199,4
+endian.h,endian.h,\src\compat\endian.h,\libyara\include\yara\endian.h,160,55,16
+common.h,common.h,\src\crypto\common.h,\common.h,94,91,25
+arena.h,arena.h,\src\leveldb\util\arena.h,\libyara\include\yara\arena.h,38,88,2
+hash.h,hash.h,\src\secp256k1\src\hash.h,\libyara\include\yara\hash.h,27,62,1
+tests.c,tests.c,\src\secp256k1\src\tests.c,\libyara\modules\tests\tests.c,3908,142,29
+util.h,util.h,\src\secp256k1\src\util.h,\tests\util.h,92,199,4

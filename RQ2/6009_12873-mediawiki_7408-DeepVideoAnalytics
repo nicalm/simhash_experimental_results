@@ -1,0 +1,4 @@
+12873-mediawiki,7408-DeepVideoAnalytics
+config.js,config.js,\mw-config\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,114,21,0
+moment.js,moment.js,\resources\lib\moment\moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,3546,2305,1705
+options.js,options.js,\resources\src\mediawiki.api\options.js,\server\dvaapp\static\plugins\ckeditor\plugins\scayt\dialogs\options.js,77,19,0

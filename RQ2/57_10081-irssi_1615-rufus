@@ -1,0 +1,4 @@
+10081-irssi,1615-rufus
+settings.h,settings.h,\src\core\settings.h,\src\settings.h,107,106,0
+utf8.c,utf8.c,\src\core\utf8.c,\src\libcdio\driver\utf8.c,82,258,26
+utf8.h,utf8.h,\src\core\utf8.h,\src\libcdio\cdio\utf8.h,24,19,1

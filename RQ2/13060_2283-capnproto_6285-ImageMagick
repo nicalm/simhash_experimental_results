@@ -1,0 +1,6 @@
+2283-capnproto,6285-ImageMagick
+blob.h,blob.h,\c++\src\capnp\blob.h,\MagickCore\blob.h,137,66,2
+list.h,list.h,\c++\src\capnp\list.h,\MagickCore\list.h,398,41,2
+exception.h,exception.h,\c++\src\kj\exception.h,\MagickCore\exception.h,155,136,2
+mutex.h,mutex.h,\c++\src\kj\mutex.h,\MagickCore\mutex.h,333,76,17
+timer.h,timer.h,\c++\src\kj\timer.h,\MagickCore\timer.h,48,46,1

@@ -1,0 +1,4 @@
+12726-json-c,60276-esp-homekit-devices
+debug.c,debug.c,\debug.c,\external_libs\homekit\src\debug.c,61,33,9
+debug.h,debug.h,\debug.h,\external_libs\homekit\src\debug.h,51,20,6
+json.h,json.h,\json.h,\external_libs\homekit\src\json.h,18,17,0

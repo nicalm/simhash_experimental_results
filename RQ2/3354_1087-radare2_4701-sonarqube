@@ -1,0 +1,12 @@
+1087-radare2,4701-sonarqube
+index.js,index.js,\doc\node.js\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,36,79,6
+index.js,index.js,\doc\node.js\index.js,\server\sonar-web\config\documentation-loader\index.js,36,28,2
+index.js,index.js,\doc\pdb\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,143,79,13
+index.js,index.js,\doc\pdb\index.js,\server\sonar-web\config\documentation-loader\index.js,143,28,3
+index.js,index.js,\shlr\www\graph\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,49,79,13
+index.js,index.js,\shlr\www\graph\index.js,\server\sonar-web\config\documentation-loader\index.js,49,28,2
+index.js,index.js,\sys\build\make.js\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,201,79,16
+index.js,index.js,\sys\build\make.js\index.js,\server\sonar-web\config\documentation-loader\index.js,201,28,2
+utils.js,utils.js,\sys\build\make.js\utils.js,\server\sonar-web\config\utils.js,87,58,8
+index.js,index.js,\test\new\travis\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,120,79,17
+index.js,index.js,\test\new\travis\index.js,\server\sonar-web\config\documentation-loader\index.js,120,28,5

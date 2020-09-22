@@ -1,0 +1,16 @@
+14239-neomutt,461-vim
+edit.c,edit.c,\edit.c,\src\edit.c,431,4344,119
+globals.h,globals.h,\globals.h,\src\globals.h,224,1015,24
+keymap.h,keymap.h,\keymap.h,\src\keymap.h,96,312,3
+main.c,main.c,\main.c,\src\main.c,1056,3234,296
+menu.c,menu.c,\menu.c,\src\menu.c,1219,2155,414
+state.c,state.c,\state.c,\src\libvterm\src\state.c,92,1575,33
+version.c,version.c,\version.c,\src\version.c,397,1339,107
+terminal.c,terminal.c,\gui\terminal.c,\src\terminal.c,57,5185,15
+message.c,message.c,\imap\message.c,\src\message.c,1402,3726,358
+buffer.c,buffer.c,\mutt\buffer.c,\src\buffer.c,215,4239,65
+charset.c,charset.c,\mutt\charset.c,\src\charset.c,662,1529,138
+list.c,list.c,\mutt\list.c,\src\list.c,136,1649,45
+mbyte.c,mbyte.c,\mutt\mbyte.c,\src\mbyte.c,266,5343,87
+crypt.c,crypt.c,\ncrypt\crypt.c,\src\crypt.c,950,398,86
+main.c,main.c,\test\main.c,\src\main.c,389,3234,1

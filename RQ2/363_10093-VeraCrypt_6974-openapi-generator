@@ -1,0 +1,5 @@
+10093-VeraCrypt,6974-openapi-generator
+User.h,User.h,\src\Platform\User.h,\samples\client\petstore\cpp-tizen\src\User.h,19,44,3
+User.h,User.h,\src\Platform\User.h,\samples\server\petstore\cpp-pistache\model\User.h,19,71,4
+User.h,User.h,\src\Platform\User.h,\samples\server\petstore\cpp-restbed\model\User.h,19,49,4
+User.h,User.h,\src\Platform\User.h,\samples\client\petstore\cpp-restsdk\client\model\User.h,19,74,4

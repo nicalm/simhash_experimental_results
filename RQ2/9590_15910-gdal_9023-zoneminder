@@ -1,0 +1,4 @@
+15910-gdal,9023-zoneminder
+conf.py,conf.py,\gdal\doc\source\conf.py,\docs\conf.py,323,34,11
+jinclude.h,jinclude.h,\gdal\frmts\jpeg\libjpeg\jinclude.h,\src\jinclude.h,26,26,26
+base.h,base.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\base.h,\src\jwt-cpp\include\jwt-cpp\base.h,280,142,17

@@ -1,0 +1,10 @@
+1593-ungit,1652-joplin
+main.js,main.js,\public\main.js,\CliClient\app\main.js,131,64,8
+main.js,main.js,\public\main.js,\ElectronClient\app\main.js,131,33,4
+config.js,config.js,\source\config.js,\ReactNativeClient\lib\components\screens\config.js,203,471,15
+app.js,app.js,\components\app\app.js,\CliClient\app\app.js,123,357,25
+app.js,app.js,\components\app\app.js,\ElectronClient\app\app.js,123,1144,26
+dialogs.js,dialogs.js,\components\dialogs\dialogs.js,\ReactNativeClient\lib\dialogs.js,153,57,3
+dialogs.js,dialogs.js,\components\dialogs\dialogs.js,\ElectronClient\app\gui\dialogs.js,153,25,6
+main.js,main.js,\public\source\main.js,\CliClient\app\main.js,180,64,9
+main.js,main.js,\public\source\main.js,\ElectronClient\app\main.js,180,33,4

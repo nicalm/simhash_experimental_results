@@ -1,0 +1,5 @@
+14790-sleuthkit,18962-tcpdump
+getopt_long.c,getopt_long.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\getopt_long.c,\missing\getopt_long.c,341,408,206
+print.c,print.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\print.c,\print.c,188,418,25
+strlcat.c,strlcat.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcat.c,\missing\strlcat.c,26,29,23
+strlcpy.c,strlcpy.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcpy.c,\missing\strlcpy.c,23,26,21

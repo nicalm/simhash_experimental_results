@@ -1,0 +1,6 @@
+12688-ffi,4000-mruby
+enum.rb,enum.rb,\lib\ffi\enum.rb,\mrblib\enum.rb,146,174,33
+enum.rb,enum.rb,\lib\ffi\enum.rb,\mrbgems\mruby-enum-ext\mrblib\enum.rb,146,417,35
+enum.rb,enum.rb,\lib\ffi\enum.rb,\mrbgems\mruby-enum-ext\test\enum.rb,146,165,32
+struct.rb,struct.rb,\lib\ffi\struct.rb,\mrbgems\mruby-struct\mrblib\struct.rb,161,51,15
+struct.rb,struct.rb,\lib\ffi\struct.rb,\mrbgems\mruby-struct\test\struct.rb,161,171,29

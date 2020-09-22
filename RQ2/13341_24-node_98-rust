@@ -1,0 +1,12 @@
+24-node,98-rust
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,297,21,6
+configure.py,configure.py,\configure.py,\src\bootstrap\configure.py,1265,375,22
+test.py,test.py,\tools\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,1305,43,6
+test.c,test.c,\deps\http_parser\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,3896,30,9
+test.c,test.c,\deps\http_parser\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,3896,196,24
+test.c,test.c,\deps\http_parser\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,3896,22,6
+verify.js,verify.js,\deps\npm\node_modules\cacache\lib\verify.js,\src\test\run-make\wasm-export-all-symbols\verify.js,198,24,3
+main.js,main.js,\deps\npm\node_modules\dotenv\lib\main.js,\src\librustdoc\html\static\main.js,54,2266,9
+verify.js,verify.js,\deps\npm\node_modules\http-signature\lib\verify.js,\src\test\run-make\wasm-export-all-symbols\verify.js,44,24,1
+main.js,main.js,\deps\npm\node_modules\qrcode-terminal\lib\main.js,\src\librustdoc\html\static\main.js,84,2266,19
+main.js,main.js,\deps\npm\node_modules\qrcode-terminal\test\main.js,\src\librustdoc\html\static\main.js,54,2266,17

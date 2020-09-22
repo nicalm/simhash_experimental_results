@@ -1,0 +1,4 @@
+1541-h2o,754-folly
+setup.py,setup.py,\deps\brotli\setup.py,\folly\python\setup.py,237,25,3
+transform.h,transform.h,\deps\brotli\c\dec\transform.h,\folly\experimental\pushmi\o\transform.h,269,79,13
+error.h,error.h,\deps\mruby\include\mruby\error.h,\folly\experimental\pushmi\o\error.h,32,33,1

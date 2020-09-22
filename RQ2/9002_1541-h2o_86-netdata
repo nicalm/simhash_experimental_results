@@ -1,0 +1,16 @@
+1541-h2o,86-netdata
+main.c,main.c,\src\main.c,\daemon\main.c,2462,995,190
+socket.c,socket.c,\deps\libyrmcds\socket.c,\libnetdata\socket\socket.c,27,1305,4
+socket.h,socket.h,\include\h2o\socket.h,\libnetdata\socket\socket.h,235,156,10
+socket.c,socket.c,\lib\common\socket.c,\libnetdata\socket\socket.c,1307,1305,251
+url.c,url.c,\lib\common\url.c,\libnetdata\url\url.c,356,226,56
+cli.c,cli.c,\deps\picotls\t\cli.c,\cli\cli.c,480,159,36
+cli.c,cli.c,\deps\quicly\src\cli.c,\cli\cli.c,989,159,42
+dictionary.c,dictionary.c,\deps\brotli\c\common\dictionary.c,\libnetdata\dictionary\dictionary.c,5886,221,5
+dictionary.h,dictionary.h,\deps\brotli\c\common\dictionary.h,\libnetdata\dictionary\dictionary.h,21,34,1
+common.h,common.h,\deps\mruby\include\mruby\common.h,\daemon\common.h,52,48,1
+socket.c,socket.c,\t\00unit\lib\common\socket.c,\libnetdata\socket\socket.c,124,1305,11
+url.c,url.c,\t\00unit\lib\common\url.c,\libnetdata\url\url.c,566,226,11
+eval.c,eval.c,\deps\mruby\mrbgems\mruby-eval\src\eval.c,\libnetdata\eval\eval.c,337,887,66
+socket.c,socket.c,\deps\mruby\mrbgems\mruby-socket\src\socket.c,\libnetdata\socket\socket.c,802,1305,115
+main.c,main.c,\deps\picotls\deps\cifra\src\arm\main.c,\daemon\main.c,385,995,47

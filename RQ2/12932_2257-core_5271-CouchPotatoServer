@@ -1,0 +1,11 @@
+2257-core,5271-CouchPotatoServer
+login.js,login.js,\core\js\login.js,\couchpotato\static\scripts\page\login.js,20,26,3
+log.js,log.js,\settings\js\log.js,\couchpotato\core\plugins\log\static\log.js,37,255,7
+settings.js,settings.js,\settings\js\settings.js,\couchpotato\static\scripts\page\settings.js,72,1012,21
+navigation.js,navigation.js,\apps\files\js\navigation.js,\couchpotato\static\scripts\block\navigation.js,60,20,4
+search.js,search.js,\apps\files\js\search.js,\couchpotato\core\media\movie\_base\static\search.js,141,194,16
+search.js,search.js,\apps\files\js\search.js,\couchpotato\core\media\_base\search\static\search.js,141,162,22
+settings.js,settings.js,\apps\files_external\js\settings.js,\couchpotato\static\scripts\page\settings.js,1085,1012,180
+search.js,search.js,\core\search\js\search.js,\couchpotato\core\media\movie\_base\static\search.js,321,194,18
+search.js,search.js,\core\search\js\search.js,\couchpotato\core\media\_base\search\static\search.js,321,162,24
+profile.js,profile.js,\settings\js\panels\profile.js,\couchpotato\core\plugins\profile\static\profile.js,278,298,41

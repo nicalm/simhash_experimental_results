@@ -1,0 +1,5 @@
+1460-iTerm2,4984-jerryscript
+main.c,main.c,\SignedArchive\resign\main.c,\targets\curie_bsp\jerry_app\quark\main.c,60,130,13
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\targets\curie_bsp\setup.py,20,129,1
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\targets\curie_bsp\setup.py,33,129,0
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\tools\runners\util.py,241,36,1

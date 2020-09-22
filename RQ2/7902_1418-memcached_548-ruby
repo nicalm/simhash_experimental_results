@@ -1,0 +1,6 @@
+1418-memcached,548-ruby
+hash.c,hash.c,\hash.c,\hash.c,18,4145,7
+thread.c,thread.c,\thread.c,\thread.c,650,3451,138
+util.c,util.c,\util.c,\util.c,193,517,45
+util.h,util.h,\util.h,\internal\util.h,20,15,2
+util.h,util.h,\util.h,\include\ruby\util.h,20,62,3

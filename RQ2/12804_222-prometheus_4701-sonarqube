@@ -1,0 +1,3 @@
+222-prometheus,4701-sonarqube
+index.js,index.js,\web\ui\static\js\graph\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,1022,79,17
+index.js,index.js,\web\ui\static\js\graph\index.js,\server\sonar-web\config\documentation-loader\index.js,1022,28,3

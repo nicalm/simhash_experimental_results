@@ -1,0 +1,11 @@
+369-mongoose,516-mongo
+aggregate.js,aggregate.js,\lib\aggregate.js,\jstests\readonly\aggregate.js,386,85,6
+collection.js,collection.js,\lib\collection.js,\src\mongo\shell\collection.js,108,1162,31
+query.js,query.js,\lib\query.js,\src\mongo\shell\query.js,1936,668,175
+utils.js,utils.js,\lib\utils.js,\jstests\aggregation\extras\utils.js,686,227,75
+utils.js,utils.js,\lib\utils.js,\src\mongo\shell\utils.js,686,1454,226
+auth.js,auth.js,\tools\auth.js,\jstests\sharding\auth.js,20,232,4
+repl.js,repl.js,\tools\repl.js,\jstests\auth\repl.js,26,136,4
+insert.js,insert.js,\benchmarks\benchjs\insert.js,\jstests\parallel\insert.js,157,18,3
+aggregate.js,aggregate.js,\examples\aggregate\aggregate.js,\jstests\readonly\aggregate.js,68,85,14
+collection.js,collection.js,\lib\drivers\node-mongodb-native\collection.js,\src\mongo\shell\collection.js,230,1162,65

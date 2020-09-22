@@ -1,0 +1,12 @@
+1087-radare2,618-jq
+main.c,main.c,\libr\main\main.c,\src\main.c,40,647,10
+main.c,main.c,\shlr\grub\main.c,\src\main.c,113,647,24
+main.c,main.c,\shlr\spp\main.c,\src\main.c,127,647,28
+main.c,main.c,\libr\bin\pdb\main.c,\src\main.c,52,647,10
+main.c,main.c,\shlr\sdb\src\main.c,\src\main.c,472,647,103
+util.c,util.c,\shlr\sdb\src\util.c,\src\util.c,327,380,67
+main.c,main.c,\libr\asm\arch\dcpu16\main.c,\src\main.c,31,647,6
+parser.h,parser.h,\shlr\grub\include\grub\parser.h,\src\parser.h,69,145,6
+main.c,main.c,\shlr\sdb\src\json\main.c,\src\main.c,76,647,12
+main.c,main.c,\test\unit\legacy_unit\debug\main.c,\src\main.c,54,647,8
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\src\util.h,256,42,8

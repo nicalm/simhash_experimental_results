@@ -1,0 +1,7 @@
+10572-Openfire,464-gentelella
+effects.js,effects.js,\xmppserver\src\main\webapp\js\effects.js,\vendors\jquery\src\effects.js,854,489,100
+effects.js,effects.js,\xmppserver\src\main\webapp\js\effects.js,\vendors\parsleyjs\bower_components\jquery\src\effects.js,854,499,99
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\vendors\moment\src\lib\duration\prototype.js,5993,42,0
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\vendors\moment\src\lib\locale\prototype.js,5993,71,0
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\vendors\moment\src\lib\moment\prototype.js,5993,119,0
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\vendors\moment\src\lib\moment\calendar.js,1540,16,1

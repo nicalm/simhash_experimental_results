@@ -1,0 +1,8 @@
+2496-proxygen,6714-cryptography
+utils.py,utils.py,\build\fbcode_builder\utils.py,\tests\utils.py,59,692,6
+utils.py,utils.py,\build\fbcode_builder\utils.py,\src\cryptography\utils.py,59,119,4
+utils.py,utils.py,\build\fbcode_builder\utils.py,\src\_cffi_src\utils.py,59,64,4
+utils.py,utils.py,\build\fbcode_builder\utils.py,\tests\hazmat\primitives\utils.py,59,368,5
+utils.py,utils.py,\build\fbcode_builder\utils.py,\src\cryptography\hazmat\backends\openssl\utils.py,59,52,2
+utils.py,utils.py,\build\fbcode_builder\utils.py,\src\cryptography\hazmat\primitives\asymmetric\utils.py,59,24,2
+utils.py,utils.py,\build\fbcode_builder\utils.py,\src\cryptography\hazmat\primitives\twofactor\utils.py,59,19,0

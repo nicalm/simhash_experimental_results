@@ -1,0 +1,11 @@
+67679-k8s-multicluster-ingress,981-numpy
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\setup.py,20,245,1
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\setup.py,20,23,0
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\core\setup.py,20,692,0
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\f2py\setup.py,20,41,2
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\linalg\setup.py,20,51,0
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\random\setup.py,20,107,0
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\testing\setup.py,20,16,0
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\tools\swig\test\setup.py,20,50,0
+setup.py,setup.py,\vendor\github.com\prometheus\client_model\setup.py,\numpy\random\_examples\cython\setup.py,20,24,1
+common.py,common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,\benchmarks\benchmarks\common.py,21,71,0

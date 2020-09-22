@@ -1,0 +1,12 @@
+1541-h2o,2004-skaffold
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\cloud.google.com\go\storage\reader.go,103,276,32
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\mitchellh\ioprogress\reader.go,103,63,20
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\googleapis\gnostic\compiler\reader.go,103,145,25
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\golang.org\x\crypto\openpgp\packet\reader.go,103,47,19
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\gopkg.in\src-d\go-git.v4\plumbing\format\objfile\reader.go,103,79,27
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\hack\tools\vendor\golang.org\x\crypto\openpgp\packet\reader.go,103,47,19
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\cloud.google.com\go\storage\writer.go,84,159,29
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\sirupsen\logrus\writer.go,84,53,12
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\hack\tools\vendor\github.com\sirupsen\logrus\writer.go,84,53,12
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\gopkg.in\src-d\go-git.v4\plumbing\format\idxfile\writer.go,84,128,24
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\gopkg.in\src-d\go-git.v4\plumbing\format\objfile\writer.go,84,72,26

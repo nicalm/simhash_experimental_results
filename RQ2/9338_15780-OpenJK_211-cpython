@@ -1,0 +1,4 @@
+15780-OpenJK,211-cpython
+tokenizer.h,tokenizer.h,\codeJK2\icarus\tokenizer.h,\Parser\tokenizer.h,461,64,4
+tokenizer.h,tokenizer.h,\codemp\icarus\tokenizer.h,\Parser\tokenizer.h,456,64,3
+resource.h,resource.h,\codemp\win32\resource.h,\PC\bdist_wininst\resource.h,16,23,0

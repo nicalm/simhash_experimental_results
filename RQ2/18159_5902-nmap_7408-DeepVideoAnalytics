@@ -1,0 +1,5 @@
+5902-nmap,7408-DeepVideoAnalytics
+setup.py,setup.py,\ndiff\setup.py,\client\setup.py,159,15,0
+setup.py,setup.py,\ndiff\setup.py,\repos\lopq\python\setup.py,159,90,2
+setup.py,setup.py,\zenmap\setup.py,\client\setup.py,333,15,0
+setup.py,setup.py,\zenmap\setup.py,\repos\lopq\python\setup.py,333,90,6

@@ -1,0 +1,12 @@
+1087-radare2,4420-zcash
+undo.h,undo.h,\libr\io\undo.h,\src\undo.h,25,55,3
+format.h,format.h,\libr\asm\arch\avr\format.h,\src\leveldb\table\format.h,34,62,3
+env.h,env.h,\shlr\grub\include\grub\env.h,\src\leveldb\include\leveldb\env.h,54,160,6
+net.h,net.h,\shlr\grub\include\grub\net.h,\src\net.h,28,494,5
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\src\crypto\common.h,480,94,1
+table.h,table.h,\libr\asm\arch\tms320\c55x\table.h,\src\leveldb\include\leveldb\table.h,3548,38,0
+arena.h,arena.h,\shlr\heap\include\r_jemalloc\internal\arena.h,\src\leveldb\util\arena.h,975,38,6
+hash.h,hash.h,\shlr\heap\include\r_jemalloc\internal\hash.h,\src\hash.h,253,164,28
+hash.h,hash.h,\shlr\heap\include\r_jemalloc\internal\hash.h,\src\secp256k1\src\hash.h,253,27,1
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\src\util.h,256,150,24
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\src\secp256k1\src\util.h,256,92,25

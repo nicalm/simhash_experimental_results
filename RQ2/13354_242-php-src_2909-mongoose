@@ -1,0 +1,14 @@
+242-php-src,2909-mongoose
+main.c,main.c,\main\main.c,\examples\CC3200\main.c,2098,249,50
+main.c,main.c,\main\main.c,\examples\NXP_K64\main.c,2098,131,21
+main.c,main.c,\main\main.c,\examples\STM32F4_CC3100\main.c,2098,124,33
+main.c,main.c,\main\main.c,\examples\ESP32_IDF\main\main.c,2098,75,13
+main.c,main.c,\main\main.c,\examples\nRF51\http\main.c,2098,64,14
+main.c,main.c,\main\main.c,\examples\nRF52\http\main.c,2098,66,15
+main.c,main.c,\main\main.c,\examples\CC3200\ccs\MG_hello\main.c,2098,192,40
+main.c,main.c,\main\main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,2098,142,28
+main.c,main.c,\main\main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,2098,129,24
+main.c,main.c,\main\main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,2098,147,30
+sqlite3.c,sqlite3.c,\ext\sqlite3\sqlite3.c,\examples\api_server\sqlite3.c,1964,84126,564
+crypt.c,crypt.c,\ext\standard\crypt.c,\test\ccgi-1.2\crypt.c,201,107,15
+test.c,test.c,\ext\zend_test\test.c,\test\ccgi-1.2\t\test.c,265,125,20

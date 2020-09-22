@@ -1,0 +1,16 @@
+2116-libgit2,60419-iv
+alloc.c,alloc.c,\src\alloc.c,\iv\lv5\third_party\gc\alloc.c,25,968,8
+alloc.h,alloc.h,\src\alloc.h,\iv\alloc.h,16,143,1
+array.h,array.h,\src\array.h,\iv\detail\array.h,75,16,1
+array.h,array.h,\src\array.h,\iv\lv5\runtime\array.h,75,38,1
+global.h,global.h,\src\global.h,\iv\lv5\runtime\global.h,20,20,1
+iterator.h,iterator.h,\src\iterator.h,\iv\lv5\iterator.h,176,45,8
+map.h,map.h,\src\map.h,\iv\lv5\map.h,29,473,1
+map.h,map.h,\src\map.h,\iv\lv5\runtime\map.h,29,21,1
+object.h,object.h,\src\object.h,\iv\lv5\runtime\object.h,43,31,1
+regexp.h,regexp.h,\src\regexp.h,\iv\lv5\regexp.h,31,82,1
+regexp.h,regexp.h,\src\regexp.h,\iv\lv5\runtime\regexp.h,31,15,1
+unicode.h,unicode.h,\deps\ntlmclient\unicode.h,\iv\unicode.h,20,425,1
+object.h,object.h,\include\git2\object.h,\iv\lv5\runtime\object.h,39,31,1
+thread.h,thread.h,\src\win32\thread.h,\iv\thread.h,45,37,3
+alloc.h,alloc.h,\include\git2\sys\alloc.h,\iv\alloc.h,19,143,1

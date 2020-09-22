@@ -1,0 +1,5 @@
+1615-rufus,9975-hexchat
+checksum.c,checksum.c,\src\checksum.c,\plugins\checksum\checksum.c,779,194,57
+format.c,format.c,\src\format.c,\plugins\sysinfo\format.c,2478,60,20
+util.h,util.h,\src\libcdio\cdio\util.h,\src\common\util.h,79,47,3
+util.c,util.c,\src\libcdio\driver\util.c,\src\common\util.c,124,1287,45

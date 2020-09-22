@@ -1,0 +1,4 @@
+15439-ettercap,4266-webkit
+ec.h,ec.h,\include\ec.h,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\include\openssl\ec.h,132,145,4
+ec_asn1.c,ec_asn1.c,\src\ec_asn1.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\ec_extra\ec_asn1.c,154,400,25
+strsep.c,strsep.c,\src\missing\strsep.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\libyasm\strsep.c,32,36,24

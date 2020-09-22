@@ -1,0 +1,5 @@
+11212-varnish-cache,6285-ImageMagick
+version.c,version.c,\lib\libvarnish\version.c,\MagickCore\version.c,45,351,5
+url.c,url.c,\lib\libvmod_blob\url.c,\coders\url.c,137,239,23
+random.c,random.c,\lib\libvmod_directors\random.c,\MagickCore\random.c,103,544,19
+cache.h,cache.h,\bin\varnishd\cache\cache.h,\MagickCore\cache.h,527,51,4

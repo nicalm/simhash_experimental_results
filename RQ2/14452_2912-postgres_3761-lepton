@@ -1,0 +1,15 @@
+2912-postgres,3761-lepton
+crc32.c,crc32.c,\contrib\ltree\crc32.c,\dependencies\zlib\crc32.c,25,285,7
+md5.c,md5.c,\contrib\pgcrypto\md5.c,\dependencies\md5\md5.c,318,211,16
+md5.h,md5.h,\contrib\pgcrypto\md5.h,\dependencies\md5\md5.h,38,21,1
+md5.c,md5.c,\src\common\md5.c,\dependencies\md5\md5.c,231,211,15
+port.h,port.h,\src\include\port.h,\dependencies\brotli\c\dec\port.h,314,121,28
+port.h,port.h,\src\include\port.h,\dependencies\brotli\c\enc\port.h,314,125,12
+port.h,port.h,\src\include\port.h,\dependencies\brotli\c\include\brotli\port.h,314,102,30
+cluster.c,cluster.c,\src\backend\commands\cluster.c,\dependencies\brotli\c\enc\cluster.c,828,37,4
+command.h,command.h,\src\bin\psql\command.h,\dependencies\brotli\c\enc\command.h,27,132,1
+hash.h,hash.h,\src\include\access\hash.h,\dependencies\brotli\c\enc\hash.h,269,345,2
+cluster.h,cluster.h,\src\include\commands\cluster.h,\dependencies\brotli\c\enc\cluster.h,21,30,1
+decode.c,decode.c,\src\backend\replication\logical\decode.c,\dependencies\brotli\c\dec\decode.c,624,1997,87
+encode.c,encode.c,\src\backend\utils\adt\encode.c,\dependencies\brotli\c\enc\encode.c,422,1443,57
+memory.c,memory.c,\src\interfaces\ecpg\ecpglib\memory.c,\dependencies\brotli\c\enc\memory.c,138,147,21

@@ -1,0 +1,4 @@
+10827-keepalived,1418-memcached
+logger.c,logger.c,\lib\logger.c,\logger.c,173,631,34
+logger.h,logger.h,\lib\logger.h,\logger.h,27,159,4
+daemon.c,daemon.c,\keepalived\core\daemon.c,\daemon.c,42,50,10

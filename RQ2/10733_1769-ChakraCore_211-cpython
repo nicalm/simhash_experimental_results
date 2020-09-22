@@ -1,0 +1,8 @@
+1769-ChakraCore,211-cpython
+opcode.h,opcode.h,\lib\wabt\src\opcode.h,\Include\opcode.h,96,132,2
+token.h,token.h,\lib\wabt\src\token.h,\Include\token.h,91,81,2
+internal.h,internal.h,\pal\src\safecrt\internal.h,\Modules\expat\internal.h,712,44,20
+build.py,build.py,\test\WasmSpec\testsuite\build.py,\Lib\distutils\command\build.py,177,105,1
+context.h,context.h,\pal\src\include\pal\context.h,\Include\context.h,383,33,7
+module.h,module.h,\pal\src\include\pal\module.h,\Modules\_sqlite\module.h,37,21,1
+run.py,run.py,\test\WasmSpec\testsuite\core\run.py,\Lib\idlelib\run.py,70,447,2

@@ -1,0 +1,7 @@
+10572-Openfire,4701-sonarqube
+Version.java,Version.java,\xmppserver\src\main\java\org\jivesoftware\util\Version.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\Version.java,173,156,54
+VersionTest.java,VersionTest.java,\xmppserver\src\test\java\org\jivesoftware\util\VersionTest.java,\sonar-plugin-api\src\test\java\org\sonar\api\utils\VersionTest.java,123,102,22
+Node.java,Node.java,\xmppserver\src\main\java\org\jivesoftware\openfire\pubsub\Node.java,\sonar-duplications\src\main\java\org\sonar\duplications\detector\suffixtree\Node.java,1195,41,10
+Node.java,Node.java,\xmppserver\src\main\java\org\jivesoftware\openfire\pubsub\Node.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\dag\Node.java,1195,78,28
+User.java,User.java,\xmppserver\src\main\java\org\jivesoftware\openfire\user\User.java,\sonar-plugin-api\src\main\java\org\sonar\api\database\model\User.java,365,53,26
+User.java,User.java,\xmppserver\src\main\java\org\jivesoftware\openfire\crowd\jaxb\User.java,\sonar-plugin-api\src\main\java\org\sonar\api\database\model\User.java,22,53,3

@@ -1,0 +1,8 @@
+10115-mbedtls,1769-ChakraCore
+config.h,config.h,\include\mbedtls\config.h,\lib\wabt\chakra\windows\config.h,143,247,3
+debug.h,debug.h,\include\mbedtls\debug.h,\pal\src\include\pal\debug.h,89,18,7
+error.h,error.h,\include\mbedtls\error.h,\lib\wabt\src\error.h,16,32,2
+md.h,md.h,\include\mbedtls\md.h,\lib\Backend\amd64\md.h,83,19,0
+md.h,md.h,\include\mbedtls\md.h,\lib\Backend\arm\md.h,83,17,2
+md.h,md.h,\include\mbedtls\md.h,\lib\Backend\arm64\md.h,83,17,2
+md.h,md.h,\include\mbedtls\md.h,\lib\Backend\i386\md.h,83,19,0

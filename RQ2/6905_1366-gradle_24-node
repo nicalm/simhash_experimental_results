@@ -1,0 +1,12 @@
+1366-gradle,24-node
+search.js,search.js,\subprojects\docs\src\docs\js\javadoc\search.js,\deps\npm\lib\search.js,299,97,9
+search.js,search.js,\subprojects\docs\src\docs\js\javadoc\search.js,\deps\npm\test\tap\search.js,299,235,3
+report.js,report.js,\subprojects\core\src\main\resources\org\gradle\reporting\report.js,\test\common\report.js,148,227,15
+report.js,report.js,\subprojects\core\src\main\resources\org\gradle\reporting\report.js,\lib\internal\process\report.js,148,98,7
+report.js,report.js,\subprojects\internal-performance-testing\src\main\resources\org\gradle\reporting\report.js,\test\common\report.js,62,227,14
+report.js,report.js,\subprojects\internal-performance-testing\src\main\resources\org\gradle\reporting\report.js,\lib\internal\process\report.js,62,98,6
+gtest.h,gtest.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\gtest.h,\test\cctest\gtest\gtest.h,886,8424,688
+gtest.h,gtest.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\gtest.h,\test\cctest\gtest\gtest.h,886,8424,688
+sample.js,sample.js,\subprojects\platform-play\src\testFixtures\resources\org\gradle\play\integtest\fixtures\app\advancedplayapp\app\assets\javascripts\sample.js,\tools\node_modules\eslint\node_modules\rxjs\internal\operators\sample.js,37,58,8
+sample.js,sample.js,\subprojects\platform-play\src\testFixtures\resources\org\gradle\play\integtest\fixtures\app\advancedplayapp\app\assets\javascripts\sample.js,\tools\node_modules\eslint\node_modules\rxjs\_esm2015\internal\operators\sample.js,37,38,4
+sample.js,sample.js,\subprojects\platform-play\src\testFixtures\resources\org\gradle\play\integtest\fixtures\app\advancedplayapp\app\assets\javascripts\sample.js,\tools\node_modules\eslint\node_modules\rxjs\_esm5\internal\operators\sample.js,37,43,7

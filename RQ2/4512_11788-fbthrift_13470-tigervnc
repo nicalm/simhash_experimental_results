@@ -1,0 +1,17 @@
+11788-fbthrift,13470-tigervnc
+util.h,util.h,\thrift\compiler\util.h,\common\rfb\util.h,91,75,10
+util.h,util.h,\thrift\compiler\util.h,\tests\perf\util.h,91,15,1
+types.h,types.h,\thrift\lib\py3\types.h,\common\rdr\types.h,20,48,1
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\common\rfb\util.h,25,75,4
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\tests\perf\util.h,25,15,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\common\rfb\util.h,17,75,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\tests\perf\util.h,17,15,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\common\rfb\util.h,29,75,6
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\tests\perf\util.h,29,15,0
+Exception.h,Exception.h,\thrift\lib\cpp\concurrency\Exception.h,\common\rdr\Exception.h,38,27,6
+Exception.h,Exception.h,\thrift\lib\cpp\concurrency\Exception.h,\common\rfb\Exception.h,38,23,5
+Mutex.h,Mutex.h,\thrift\lib\cpp\concurrency\Mutex.h,\common\os\Mutex.h,169,34,12
+Thread.h,Thread.h,\thrift\lib\cpp\concurrency\Thread.h,\common\os\Thread.h,72,29,9
+IntervalTimer.h,IntervalTimer.h,\thrift\lib\cpp\test\loadgen\IntervalTimer.h,\win\rfb_win32\IntervalTimer.h,71,39,9
+Decoder.h,Decoder.h,\thrift\lib\cpp2\protocol\nimble\Decoder.h,\common\rfb\Decoder.h,118,43,6
+Encoder.h,Encoder.h,\thrift\lib\cpp2\protocol\nimble\Encoder.h,\common\rfb\Encoder.h,82,42,5

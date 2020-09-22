@@ -1,0 +1,4 @@
+10549-luci,4482-nixpkgs
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\pkgs\os-specific\linux\net-tools\config.h,89,40,0
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\pkgs\os-specific\linux\net-tools\config.h,89,40,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\pkgs\os-specific\linux\net-tools\config.h,35,40,0

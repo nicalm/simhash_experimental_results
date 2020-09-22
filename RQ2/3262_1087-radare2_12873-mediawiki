@@ -1,0 +1,16 @@
+1087-radare2,12873-mediawiki
+index.js,index.js,\doc\node.js\index.js,\resources\src\mediawiki.api\index.js,36,237,9
+index.js,index.js,\doc\node.js\index.js,\resources\src\mediawiki.cookie\index.js,36,51,3
+index.js,index.js,\doc\node.js\index.js,\tests\selenium\wdio-mediawiki\index.js,36,15,2
+index.js,index.js,\doc\pdb\index.js,\resources\src\mediawiki.api\index.js,143,237,25
+index.js,index.js,\doc\pdb\index.js,\resources\src\mediawiki.cookie\index.js,143,51,11
+index.js,index.js,\doc\pdb\index.js,\tests\selenium\wdio-mediawiki\index.js,143,15,3
+index.js,index.js,\shlr\www\graph\index.js,\resources\src\mediawiki.api\index.js,49,237,13
+index.js,index.js,\shlr\www\graph\index.js,\resources\src\mediawiki.cookie\index.js,49,51,8
+index.js,index.js,\shlr\www\graph\index.js,\tests\selenium\wdio-mediawiki\index.js,49,15,2
+index.js,index.js,\sys\build\make.js\index.js,\resources\src\mediawiki.api\index.js,201,237,34
+index.js,index.js,\sys\build\make.js\index.js,\resources\src\mediawiki.cookie\index.js,201,51,9
+index.js,index.js,\sys\build\make.js\index.js,\tests\selenium\wdio-mediawiki\index.js,201,15,3
+index.js,index.js,\test\new\travis\index.js,\resources\src\mediawiki.api\index.js,120,237,28
+index.js,index.js,\test\new\travis\index.js,\resources\src\mediawiki.cookie\index.js,120,51,9
+index.js,index.js,\test\new\travis\index.js,\tests\selenium\wdio-mediawiki\index.js,120,15,6

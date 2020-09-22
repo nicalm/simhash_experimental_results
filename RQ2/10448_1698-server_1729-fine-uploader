@@ -1,0 +1,9 @@
+1698-server,1729-fine-uploader
+sidebar.js,sidebar.js,\apps\files\src\sidebar.js,\docs\_static\js\sidebar.js,27,46,3
+client.js,client.js,\core\js\files\client.js,\test\static\local\client.js,570,80,21
+util.js,util.js,\core\src\OC\util.js,\client\js\util.js,140,624,30
+util.js,util.js,\core\src\OC\util.js,\test\unit\util.js,140,648,12
+util.js,util.js,\core\src\OC\util.js,\client\js\azure\util.js,140,74,16
+util.js,util.js,\core\src\OC\util.js,\client\js\s3\util.js,140,349,28
+util.js,util.js,\core\src\OC\util.js,\test\unit\s3\util.js,140,145,5
+sidebar.js,sidebar.js,\apps\files\js\dist\sidebar.js,\docs\_static\js\sidebar.js,17,46,0

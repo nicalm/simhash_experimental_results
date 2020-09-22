@@ -1,0 +1,8 @@
+1698-server,98-rust
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,17,21,3
+main.js,main.js,\core\src\main.js,\src\librustdoc\html\static\main.js,17,2266,2
+main.js,main.js,\apps\accessibility\src\main.js,\src\librustdoc\html\static\main.js,15,2266,0
+settings.js,settings.js,\apps\files_external\js\settings.js,\src\librustdoc\html\static\settings.js,939,26,10
+settings.js,settings.js,\apps\settings\js\settings.js,\src\librustdoc\html\static\settings.js,70,26,7
+main.js,main.js,\core\js\dist\main.js,\src\librustdoc\html\static\main.js,65,2266,0
+settings.js,settings.js,\apps\settings\src\store\settings.js,\src\librustdoc\html\static\settings.js,15,26,3

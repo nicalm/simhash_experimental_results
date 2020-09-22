@@ -1,0 +1,12 @@
+6285-ImageMagick,702-swoole-src
+channel.c,channel.c,\MagickCore\channel.c,\src\core\channel.c,993,181,62
+client.c,client.c,\MagickCore\client.c,\examples\ssl\client.c,39,112,12
+list.c,list.c,\MagickCore\list.c,\src\core\list.c,652,187,73
+list.h,list.h,\MagickCore\list.h,\include\list.h,41,605,4
+log.c,log.c,\MagickCore\log.c,\src\core\log.c,1233,114,41
+semaphore.c,semaphore.c,\MagickCore\semaphore.c,\src\lock\semaphore.c,271,46,13
+stream.c,stream.c,\MagickCore\stream.c,\src\network\stream.c,2062,138,60
+string.c,string.c,\MagickCore\string.c,\src\core\string.c,1281,237,94
+timer.c,timer.c,\MagickCore\timer.c,\src\network\timer.c,216,247,40
+timer.c,timer.c,\MagickCore\timer.c,\src\os\timer.c,216,69,24
+stream.c,stream.c,\MagickWand\stream.c,\src\network\stream.c,635,138,56

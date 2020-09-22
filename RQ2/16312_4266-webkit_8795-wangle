@@ -1,0 +1,11 @@
+4266-webkit,8795-wangle
+fetcher.py,fetcher.py,\Tools\BuildSlaveSupport\ews-app\ews\fetcher.py,\build\fbcode_builder\getdeps\fetcher.py,59,450,5
+utils.py,utils.py,\Tools\Scripts\webkitpy\benchmark_runner\utils.py,\build\fbcode_builder\utils.py,56,59,4
+manifest.py,manifest.py,\LayoutTests\imported\w3c\web-platform-tests\tools\manifest\manifest.py,\build\fbcode_builder\getdeps\manifest.py,432,361,14
+utils.py,utils.py,\LayoutTests\imported\w3c\web-platform-tests\tools\manifest\utils.py,\build\fbcode_builder\utils.py,76,59,3
+utils.py,utils.py,\LayoutTests\imported\w3c\web-platform-tests\tools\wpt\utils.py,\build\fbcode_builder\utils.py,70,59,4
+utils.py,utils.py,\LayoutTests\imported\w3c\web-platform-tests\tools\wptserve\wptserve\utils.py,\build\fbcode_builder\utils.py,106,59,1
+utils.py,utils.py,\Source\ThirdParty\libwebrtc\Source\webrtc\rtc_tools\testing\utils.py,\build\fbcode_builder\utils.py,78,59,9
+utils.py,utils.py,\WebDriverTests\imported\selenium\py\selenium\webdriver\common\utils.py,\build\fbcode_builder\utils.py,69,59,2
+utils.py,utils.py,\WebDriverTests\imported\selenium\py\selenium\webdriver\remote\utils.py,\build\fbcode_builder\utils.py,60,59,3
+utils.py,utils.py,\LayoutTests\imported\w3c\web-platform-tests\tools\third_party\attrs\tests\utils.py,\build\fbcode_builder\utils.py,21,59,2

@@ -1,0 +1,3 @@
+4482-nixpkgs,67701-r-source
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\src\nmath\standalone\test.c,41,24,4
+config.h,config.h,\pkgs\os-specific\linux\net-tools\config.h,\src\gnuwin32\fixed\h\config.h,40,267,0

@@ -1,0 +1,4 @@
+6285-ImageMagick,8848-lwjgl3
+log.h,log.h,\MagickCore\log.h,\modules\lwjgl\yoga\src\main\c\log.h,65,24,1
+matrix.h,matrix.h,\MagickCore\matrix.h,\modules\lwjgl\tootle\src\main\c\matrix.h,26,364,2
+option.h,option.h,\MagickCore\option.h,\modules\lwjgl\tootle\src\main\c\option.h,167,124,6

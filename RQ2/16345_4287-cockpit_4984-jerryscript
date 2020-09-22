@@ -1,0 +1,4 @@
+4287-cockpit,4984-jerryscript
+test-unicode.c,test-unicode.c,\src\common\test-unicode.c,\tests\unit-core\test-unicode.c,73,35,9
+main.c,main.c,\src\tls\main.c,\targets\curie_bsp\jerry_app\quark\main.c,89,130,10
+main.c,main.c,\src\ws\main.c,\targets\curie_bsp\jerry_app\quark\main.c,242,130,35

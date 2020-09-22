@@ -1,0 +1,8 @@
+140-neovim,9088-httpd
+log.c,log.c,\src\nvim\log.c,\server\log.c,244,1428,66
+macros.h,macros.h,\src\nvim\macros.h,\docs\log-message-tags\macros.h,121,29,0
+main.c,main.c,\src\nvim\main.c,\server\main.c,1480,643,104
+regexp.c,regexp.c,\src\nvim\regexp.c,\modules\filters\regexp.c,5532,485,95
+regexp.h,regexp.h,\src\nvim\regexp.h,\modules\filters\regexp.h,16,72,2
+os.h,os.h,\src\nvim\os\os.h,\os\win32\os.h,15,49,2
+handle.c,handle.c,\src\nvim\api\private\handle.c,\modules\apreq\handle.c,32,316,3

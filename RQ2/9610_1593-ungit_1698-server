@@ -1,0 +1,17 @@
+1593-ungit,1698-server
+main.js,main.js,\public\main.js,\core\src\main.js,131,17,2
+main.js,main.js,\public\main.js,\apps\accessibility\src\main.js,131,15,2
+main.js,main.js,\public\main.js,\core\js\dist\main.js,131,65,0
+app.js,app.js,\components\app\app.js,\apps\files\js\app.js,123,196,19
+app.js,app.js,\components\app\app.js,\apps\files_external\js\app.js,123,75,14
+app.js,app.js,\components\app\app.js,\apps\files_sharing\js\app.js,123,239,20
+app.js,app.js,\components\app\app.js,\apps\files_trashbin\src\app.js,123,107,5
+app.js,app.js,\components\app\app.js,\apps\systemtags\src\app.js,123,73,8
+dialogs.js,dialogs.js,\components\dialogs\dialogs.js,\core\src\OC\dialogs.js,153,1056,28
+login.js,login.js,\components\login\login.js,\core\src\login.js,38,41,4
+login.js,login.js,\components\login\login.js,\core\js\dist\login.js,38,19,0
+main.js,main.js,\public\source\main.js,\core\src\main.js,180,17,3
+main.js,main.js,\public\source\main.js,\apps\accessibility\src\main.js,180,15,0
+main.js,main.js,\public\source\main.js,\core\js\dist\main.js,180,65,0
+navigation.js,navigation.js,\public\source\navigation.js,\apps\files\js\navigation.js,18,207,3
+tooltip.js,tooltip.js,\public\vendor\js\bootstrap\tooltip.js,\core\src\Polyfill\tooltip.js,263,16,4

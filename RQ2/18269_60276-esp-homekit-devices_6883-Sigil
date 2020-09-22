@@ -1,0 +1,11 @@
+60276-esp-homekit-devices,6883-Sigil
+compress.c,compress.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,\3rdparty\zlib\compress.c,85,47,12
+error.c,error.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\error.c,\internal\gumbo\error.c,284,221,7
+compress.c,compress.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,\3rdparty\zlib\compress.c,85,47,12
+error.c,error.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\error.c,\internal\gumbo\error.c,284,221,7
+util.c,util.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,\internal\gumbo\util.c,138,49,10
+util.c,util.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,\internal\gumbo\util.c,138,49,10
+__init__.py,__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,348,362,12
+__init__.py,__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,348,187,10
+__init__.py,__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,348,362,12
+__init__.py,__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,348,187,10

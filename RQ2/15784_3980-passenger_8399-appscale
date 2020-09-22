@@ -1,0 +1,6 @@
+3980-passenger,8399-appscale
+nginx.rb,nginx.rb,\build\nginx.rb,\AppController\lib\nginx.rb,54,235,4
+bootstrap.js,bootstrap.js,\resources\templates\error_renderer\with_details\src\bootstrap\bootstrap.js,\AppDashboard\static\js\bootstrap\bootstrap.js,188,1597,188
+console.js,console.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\transports\console.js,\AppServer\google\appengine\tools\devappserver2\admin\templates\console.js,72,103,9
+file.js,file.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\transports\file.js,\AppDashboard\static\js\file.js,407,69,8
+webhook.js,webhook.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\transports\webhook.js,\AppServer\google\appengine\ext\admin\templates\js\webhook.js,79,80,9

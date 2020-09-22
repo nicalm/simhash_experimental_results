@@ -1,0 +1,7 @@
+18309-tor,98-rust
+test.c,test.c,\src\test\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,611,30,3
+test.c,test.c,\src\test\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,611,196,18
+test.c,test.c,\src\test\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,611,22,5
+test.c,test.c,\src\ext\ed25519\donna\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,177,30,5
+test.c,test.c,\src\ext\ed25519\donna\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,177,196,19
+test.c,test.c,\src\ext\ed25519\donna\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,177,22,3

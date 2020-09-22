@@ -1,0 +1,11 @@
+10572-Openfire,9776-gaia
+controls.js,controls.js,\xmppserver\src\main\webapp\js\controls.js,\disabled_apps\camera\js\controllers\controls.js,651,129,8
+controls.js,controls.js,\xmppserver\src\main\webapp\js\controls.js,\disabled_apps\camera\js\views\controls.js,651,231,43
+controls.js,controls.js,\xmppserver\src\main\webapp\js\controls.js,\tools\extensions\browser-helper@gaiamobile.org\content\panel\controls.js,651,62,13
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\js\models\calendar.js,1540,77,11
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\js\store\calendar.js,1540,222,32
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\js\templates\calendar.js,1540,26,3
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\js\backend\models\calendar.js,1540,77,11
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\js\backend\store\calendar.js,1540,210,31
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\test\marionette\lib\calendar.js,1540,266,21
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\disabled_apps\calendar\test\unit\support\calendar.js,1540,112,14

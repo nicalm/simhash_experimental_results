@@ -1,0 +1,4 @@
+3980-passenger,5868-libvips
+threadpool.c,threadpool.c,\src\cxx_supportlib\vendor-copy\libuv\src\threadpool.c,\libvips\iofuncs\threadpool.c,210,545,34
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\libvips\include\vips\internal.h,221,153,5
+stream.c,stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,\libvips\iofuncs\stream.c,1065,82,17

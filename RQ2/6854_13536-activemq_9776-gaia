@@ -1,0 +1,7 @@
+13536-activemq,9776-gaia
+common.js,common.js,\activemq-web-console\src\main\webapp\js\common.js,\disabled_apps\costcontrol\js\common.js,78,348,21
+css.js,css.js,\activemq-web-console\src\main\webapp\js\css.js,\disabled_apps\calendar\js\curl\plugin\css.js,55,15,1
+css.js,css.js,\activemq-web-console\src\main\webapp\js\css.js,\distros\spark\apps\customizer\components\js-beautify\test\data\css.js,55,181,5
+listener.py,listener.py,\assembly\src\release\examples\stomp\python\stomppy\listener.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\runner_service\listener.py,37,100,3
+listener.py,listener.py,\assembly\src\release\examples\stomp\python\stompest\async\listener.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\runner_service\listener.py,39,100,2
+listener.py,listener.py,\assembly\src\release\examples\stomp\python\stompest\sync\listener.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\runner_service\listener.py,25,100,2

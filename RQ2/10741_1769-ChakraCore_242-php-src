@@ -1,0 +1,9 @@
+1769-ChakraCore,242-php-src
+ittnotify_config.h,ittnotify_config.h,\lib\Runtime\Base\ittnotify_config.h,\ext\opcache\jit\vtune\ittnotify_config.h,473,472,469
+ittnotify_types.h,ittnotify_types.h,\lib\Runtime\Base\ittnotify_types.h,\ext\opcache\jit\vtune\ittnotify_types.h,51,51,51
+jitprofiling.h,jitprofiling.h,\lib\Runtime\Base\jitprofiling.h,\ext\opcache\jit\vtune\jitprofiling.h,117,117,117
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\ext\pcre\pcre2lib\config.h,247,46,16
+file.h,file.h,\pal\src\include\pal\file.h,\ext\standard\file.h,45,112,3
+file.h,file.h,\pal\src\include\pal\file.h,\ext\fileinfo\libmagic\file.h,45,483,6
+locale.h,locale.h,\pal\src\include\pal\locale.h,\ext\intl\locale\locale.h,46,15,1
+unicode_data.h,unicode_data.h,\pal\src\include\pal\unicode_data.h,\ext\mbstring\unicode_data.h,24,5065,0

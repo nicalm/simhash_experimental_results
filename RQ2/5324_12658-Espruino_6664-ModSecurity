@@ -1,0 +1,14 @@
+12658-Espruino,6664-ModSecurity
+base64.c,base64.c,\libs\crypto\mbedtls\library\base64.c,\others\mbedtls\base64.c,195,199,190
+md5.c,md5.c,\libs\crypto\mbedtls\library\md5.c,\others\mbedtls\md5.c,293,293,293
+sha1.c,sha1.c,\libs\crypto\mbedtls\library\sha1.c,\others\mbedtls\sha1.c,328,328,328
+base64.h,base64.h,\libs\crypto\mbedtls\include\mbedtls\base64.h,\others\mbedtls\base64.h,17,17,17
+base64.h,base64.h,\libs\crypto\mbedtls\include\mbedtls\base64.h,\src\utils\base64.h,17,19,2
+check_config.h,check_config.h,\libs\crypto\mbedtls\include\mbedtls\check_config.h,\others\mbedtls\check_config.h,393,402,393
+md5.h,md5.h,\libs\crypto\mbedtls\include\mbedtls\md5.h,\others\mbedtls\md5.h,43,43,43
+md5.h,md5.h,\libs\crypto\mbedtls\include\mbedtls\md5.h,\src\utils\md5.h,43,18,3
+md5.h,md5.h,\libs\crypto\mbedtls\include\mbedtls\md5.h,\src\actions\transformations\md5.h,43,21,6
+platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\others\mbedtls\platform.h,106,106,106
+sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\others\mbedtls\sha1.h,43,43,43
+sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\src\utils\sha1.h,43,16,3
+sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\src\actions\transformations\sha1.h,43,21,6

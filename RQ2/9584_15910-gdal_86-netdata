@@ -1,0 +1,8 @@
+15910-gdal,86-netdata
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,40,171,5
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,40,168,5
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,40,58,2
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,40,51,0
+registry.h,registry.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\registry.h,\registry\registry.h,71,17,1
+json.h,json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,\backends\json\json.h,18,27,1
+json.h,json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,\libnetdata\json\json.h,18,48,3

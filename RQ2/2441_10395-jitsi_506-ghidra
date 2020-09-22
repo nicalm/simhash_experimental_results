@@ -1,0 +1,12 @@
+10395-jitsi,506-ghidra
+Constants.java,Constants.java,\src\net\java\sip\communicator\plugin\branding\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,27,22,1
+ImageUtils.java,ImageUtils.java,\src\net\java\sip\communicator\plugin\desktoputil\ImageUtils.java,\Ghidra\Framework\Generic\src\main\java\generic\util\image\ImageUtils.java,372,249,48
+PasswordChangeDialog.java,PasswordChangeDialog.java,\src\net\java\sip\communicator\plugin\desktoputil\PasswordChangeDialog.java,\Ghidra\Framework\Docking\src\main\java\docking\widgets\PasswordChangeDialog.java,231,122,29
+AnimationUtils.java,AnimationUtils.java,\src\net\java\sip\communicator\impl\gui\utils\AnimationUtils.java,\Ghidra\Framework\Docking\src\main\java\docking\util\AnimationUtils.java,32,828,8
+Constants.java,Constants.java,\src\net\java\sip\communicator\impl\gui\utils\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,296,22,1
+Utils.java,Utils.java,\src\net\java\sip\communicator\impl\protocol\irc\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcode\utils\Utils.java,140,127,29
+Utils.java,Utils.java,\src\net\java\sip\communicator\impl\protocol\irc\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\utils\Utils.java,140,266,30
+Preferences.java,Preferences.java,\src\net\java\sip\communicator\plugin\generalconfig\autoaway\Preferences.java,\Ghidra\Framework\Generic\src\main\java\ghidra\framework\preferences\Preferences.java,74,219,9
+Msg.java,Msg.java,\src\net\java\sip\communicator\plugin\irccommands\command\Msg.java,\Ghidra\Framework\Utility\src\main\java\ghidra\util\Msg.java,53,93,9
+XmlUtils.java,XmlUtils.java,\src\net\java\sip\communicator\impl\protocol\sip\xcap\model\XmlUtils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\utils\XmlUtils.java,29,95,5
+DataType.java,DataType.java,\src\net\java\sip\communicator\impl\protocol\sip\xcap\model\prescontent\DataType.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\program\model\data\DataType.java,20,67,1

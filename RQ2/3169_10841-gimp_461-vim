@@ -1,0 +1,4 @@
+10841-gimp,461-vim
+main.c,main.c,\app\main.c,\src\main.c,631,3234,134
+gui.c,gui.c,\app\gui\gui.c,\src\gui.c,714,4032,126
+session.c,session.c,\app\gui\session.c,\src\session.c,334,1015,75

@@ -1,0 +1,16 @@
+11788-fbthrift,506-ghidra
+types.h,types.h,\thrift\lib\py3\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,20,280,0
+types.h,types.h,\thrift\lib\py3\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,20,161,0
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,47,41,3
+Constants.java,Constants.java,\thrift\compiler\test\fixtures\includes\gen-android\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,16,22,1
+Constants.java,Constants.java,\thrift\compiler\test\fixtures\refs\gen-java\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,48,22,1
+Range.java,Range.java,\thrift\compiler\test\fixtures\constants\gen-swift\test\fixtures\constants\Range.java,\Ghidra\Framework\Generic\src\main\java\ghidra\util\datastruct\Range.java,83,45,20
+Range.java,Range.java,\thrift\compiler\test\fixtures\constants\gen-swift\test\fixtures\constants\Range.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\address\Range.java,83,98,13
+Constants.java,Constants.java,\thrift\compiler\test\fixtures\includes\gen-android\one\two\three\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,21,22,1
+Constants.java,Constants.java,\thrift\compiler\test\fixtures\lazy_constants\gen-swift\test\fixtures\lazy_constants\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,44,22,1
+Range.java,Range.java,\thrift\compiler\test\fixtures\lazy_constants\gen-swift\test\fixtures\lazy_constants\Range.java,\Ghidra\Framework\Generic\src\main\java\ghidra\util\datastruct\Range.java,83,45,20
+Range.java,Range.java,\thrift\compiler\test\fixtures\lazy_constants\gen-swift\test\fixtures\lazy_constants\Range.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\address\Range.java,83,98,13
+Constants.java,Constants.java,\thrift\compiler\test\fixtures\list\gen-swift\test\fixtures\list\Constants.java,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\Constants.java,17,22,1
+Enum.java,Enum.java,\thrift\compiler\test\fixtures\qualified\gen-swift\test\fixtures\module0\Enum.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\program\model\data\Enum.java,28,16,1
+Enum.java,Enum.java,\thrift\compiler\test\fixtures\qualified\gen-swift\test\fixtures\module1\Enum.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\program\model\data\Enum.java,28,16,1
+Enum.java,Enum.java,\thrift\compiler\test\fixtures\shapes\gen-swift\test\fixtures\shapes\Enum.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\program\model\data\Enum.java,22,16,1

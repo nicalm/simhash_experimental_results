@@ -1,0 +1,8 @@
+1652-joplin,63622-mirador
+App.js,App.js,\Clipper\joplin-webclipper\popup\src\App.js,\src\components\App.js,342,72,13
+App.js,App.js,\Clipper\joplin-webclipper\popup\src\App.js,\src\containers\App.js,342,22,4
+config.js,config.js,\ReactNativeClient\lib\components\screens\config.js,\src\state\actions\config.js,471,21,6
+config.js,config.js,\ReactNativeClient\lib\components\screens\config.js,\src\state\reducers\config.js,471,15,2
+config.js,config.js,\ReactNativeClient\lib\components\screens\config.js,\src\state\selectors\config.js,471,44,8
+search.js,search.js,\ReactNativeClient\lib\components\screens\search.js,\src\state\actions\search.js,164,87,15
+search.js,search.js,\ReactNativeClient\lib\components\screens\search.js,\src\state\reducers\search.js,164,129,11

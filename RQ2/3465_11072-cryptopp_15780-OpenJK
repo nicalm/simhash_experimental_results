@@ -1,0 +1,14 @@
+11072-cryptopp,15780-OpenJK
+channels.h,channels.h,\channels.h,\code\game\channels.h,104,16,1
+channels.h,channels.h,\channels.h,\codeJK2\game\channels.h,104,16,1
+eax.h,eax.h,\eax.h,\code\client\eax\eax.h,79,1012,8
+eax.h,eax.h,\eax.h,\codemp\client\eax\eax.h,79,1016,8
+files.cpp,files.cpp,\files.cpp,\code\qcommon\files.cpp,218,1886,70
+files.cpp,files.cpp,\files.cpp,\codemp\qcommon\files.cpp,218,2579,70
+files.cpp,files.cpp,\files.cpp,\shared\qcommon\safe\files.cpp,218,101,37
+files.h,files.h,\files.h,\shared\qcommon\safe\files.h,89,74,12
+md4.cpp,md4.cpp,\md4.cpp,\code\qcommon\md4.cpp,83,139,5
+md4.cpp,md4.cpp,\md4.cpp,\codemp\qcommon\md4.cpp,83,134,5
+md5.cpp,md5.cpp,\md5.cpp,\codemp\qcommon\md5.cpp,105,246,13
+md5.h,md5.h,\md5.h,\codemp\qcommon\md5.h,25,21,0
+zlib.h,zlib.h,\zlib.h,\lib\zlib\include\zlib.h,42,279,2

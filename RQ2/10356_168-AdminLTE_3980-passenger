@@ -1,0 +1,5 @@
+168-AdminLTE,3980-passenger
+webpack.config.js,webpack.config.js,\plugins\raphael\webpack.config.js,\resources\templates\error_renderer\without_details\webpack.config.js,32,40,8
+webpack.config.js,webpack.config.js,\plugins\raphael\webpack.config.js,\resources\templates\error_renderer\with_details\webpack.config.js,32,45,8
+bootstrap.js,bootstrap.js,\plugins\bootstrap\js\bootstrap.js,\resources\templates\error_renderer\with_details\src\bootstrap\bootstrap.js,3347,188,27
+bootstrap.js,bootstrap.js,\docs\assets\plugins\bootstrap\js\bootstrap.js,\resources\templates\error_renderer\with_details\src\bootstrap\bootstrap.js,3347,188,27

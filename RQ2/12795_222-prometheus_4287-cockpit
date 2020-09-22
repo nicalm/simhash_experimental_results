@@ -1,0 +1,6 @@
+222-prometheus,4287-cockpit
+index.js,index.js,\web\ui\static\js\graph\index.js,\eslint-plugin-cockpit\index.js,1022,15,7
+index.js,index.js,\web\ui\static\js\graph\index.js,\pkg\machines\index.js,1022,50,9
+index.js,index.js,\web\ui\static\js\graph\index.js,\pkg\playground\index.js,1022,28,7
+index.js,index.js,\web\ui\static\js\graph\index.js,\pkg\shell\index.js,1022,32,2
+index.js,index.js,\web\ui\static\js\graph\index.js,\pkg\sosreport\index.js,1022,136,26

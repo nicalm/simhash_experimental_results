@@ -1,0 +1,9 @@
+11788-fbthrift,9469-wireshark
+util.h,util.h,\thrift\compiler\util.h,\ui\util.h,91,15,2
+exceptions.h,exceptions.h,\thrift\lib\py3\exceptions.h,\epan\exceptions.h,17,130,2
+stream.h,stream.h,\thrift\lib\py3\stream.h,\epan\stream.h,24,28,0
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\ui\util.h,25,15,1
+util.h,util.h,\thrift\compiler\lib\java\util.h,\ui\util.h,17,15,1
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\ui\util.h,29,15,1
+merge.h,merge.h,\thrift\lib\cpp2\reflection\merge.h,\wiretap\merge.h,20,83,1
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\ui\qt\main.cpp,47,650,2

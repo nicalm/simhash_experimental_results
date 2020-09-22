@@ -1,0 +1,10 @@
+2116-libgit2,4984-jerryscript
+common.c,common.c,\examples\common.c,\jerry-core\parser\js\common.c,194,76,28
+common.h,common.h,\examples\common.h,\jerry-core\parser\js\common.h,74,78,10
+log.c,log.c,\examples\log.c,\jerry-libm\log.c,345,117,30
+common.h,common.h,\src\common.h,\jerry-core\parser\js\common.h,114,78,13
+config.h,config.h,\src\config.h,\jerry-core\config.h,47,338,1
+main.c,main.c,\tests\main.c,\targets\curie_bsp\jerry_app\quark\main.c,29,130,4
+common.h,common.h,\include\git2\common.h,\jerry-core\parser\js\common.h,103,78,9
+config.h,config.h,\include\git2\config.h,\jerry-core\config.h,112,338,1
+config.h,config.h,\include\git2\sys\config.h,\jerry-core\config.h,41,338,1

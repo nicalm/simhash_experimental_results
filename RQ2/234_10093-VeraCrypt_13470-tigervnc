@@ -1,0 +1,11 @@
+10093-VeraCrypt,13470-tigervnc
+Exception.h,Exception.h,\src\Common\Exception.h,\common\rdr\Exception.h,88,27,6
+Exception.h,Exception.h,\src\Common\Exception.h,\common\rfb\Exception.h,88,23,5
+Password.h,Password.h,\src\Common\Password.h,\common\rfb\Password.h,43,24,2
+Registry.h,Registry.h,\src\Common\Registry.h,\win\rfb_win32\Registry.h,23,52,1
+resource.h,resource.h,\src\ExpandVolume\resource.h,\win\vncconfig\resource.h,141,86,5
+resource.h,resource.h,\src\ExpandVolume\resource.h,\win\winvnc\resource.h,141,46,5
+Exception.h,Exception.h,\src\Platform\Exception.h,\common\rdr\Exception.h,87,27,6
+Exception.h,Exception.h,\src\Platform\Exception.h,\common\rfb\Exception.h,87,23,4
+Mutex.h,Mutex.h,\src\Platform\Mutex.h,\common\os\Mutex.h,43,34,10
+Thread.h,Thread.h,\src\Platform\Thread.h,\common\os\Thread.h,54,29,8

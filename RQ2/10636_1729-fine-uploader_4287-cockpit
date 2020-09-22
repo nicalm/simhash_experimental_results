@@ -1,0 +1,10 @@
+1729-fine-uploader,4287-cockpit
+util.js,util.js,\client\js\util.js,\pkg\docker\util.js,624,598,87
+image.js,image.js,\test\unit\image.js,\pkg\docker\image.js,65,120,11
+util.js,util.js,\test\unit\util.js,\pkg\docker\util.js,648,598,36
+util.js,util.js,\client\js\azure\util.js,\pkg\docker\util.js,74,598,20
+image.js,image.js,\client\js\image-support\image.js,\pkg\docker\image.js,209,120,20
+util.js,util.js,\client\js\s3\util.js,\pkg\docker\util.js,349,598,49
+client.js,client.js,\test\static\local\client.js,\pkg\docker\client.js,80,603,21
+client.js,client.js,\test\static\local\client.js,\pkg\storaged\client.js,80,694,21
+util.js,util.js,\test\unit\s3\util.js,\pkg\docker\util.js,145,598,31

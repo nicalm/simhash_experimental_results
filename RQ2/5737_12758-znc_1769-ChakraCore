@@ -1,0 +1,12 @@
+12758-znc,1769-ChakraCore
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-shared-basic\sample.cpp,239,47,1
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-c98\sample.cpp,239,51,2
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-char\sample.cpp,239,58,3
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-char16\sample.cpp,239,55,2
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-external\sample.cpp,239,107,7
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-native\sample.cpp,239,47,1
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-pal\sample.cpp,239,56,7
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-property\sample.cpp,239,69,3
+sample.cpp,sample.cpp,\modules\sample.cpp,\test\native-tests\test-static-property-symbol\sample.cpp,239,71,3
+module.h,module.h,\modules\modperl\module.h,\pal\src\include\pal\module.h,207,37,4
+module.h,module.h,\modules\modpython\module.h,\pal\src\include\pal\module.h,287,37,4

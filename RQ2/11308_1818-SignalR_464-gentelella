@@ -1,0 +1,6 @@
+1818-SignalR,464-gentelella
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\vendors\Flot\karma.conf.js,96,94,14
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\vendors\bootstrap\js\tests\karma.conf.js,96,125,19
+dashboard.js,dashboard.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\dashboard.js,\vendors\bootstrap\site\docs\4.3\examples\dashboard\dashboard.js,127,47,6
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\vendors\bootstrap\dist\js\bootstrap.js,1251,3262,184
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\vendors\parsleyjs\bower_components\bootstrap\dist\js\bootstrap.js,1251,1191,593

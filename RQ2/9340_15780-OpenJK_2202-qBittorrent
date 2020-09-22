@@ -1,0 +1,6 @@
+15780-OpenJK,2202-qBittorrent
+server.h,server.h,\code\server\server.h,\src\base\http\server.h,188,31,6
+server.h,server.h,\codemp\server\server.h,\src\base\http\server.h,278,31,2
+string.cpp,string.cpp,\tests\safe\string.cpp,\src\base\utils\string.cpp,61,130,12
+string.cpp,string.cpp,\shared\qcommon\safe\string.cpp,\src\base\utils\string.cpp,59,130,23
+string.h,string.h,\shared\qcommon\safe\string.h,\src\base\utils\string.h,45,35,9

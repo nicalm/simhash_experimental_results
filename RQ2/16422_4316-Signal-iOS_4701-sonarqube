@@ -1,0 +1,7 @@
+4316-Signal-iOS,4701-sonarqube
+schema.sql,schema.sql,\SignalServiceKit\Resources\schema.sql,\server\sonar-db-migration\src\test\resources\org\sonar\server\platform\db\migration\version\v80\PopulateNewCodePeriodTableTest\schema.sql,695,79,0
+schema.sql,schema.sql,\SignalServiceKit\Resources\schema.sql,\server\sonar-db-migration\src\test\resources\org\sonar\server\platform\db\migration\version\v80\PopulateProjectQualityGatesTableTest\schema.sql,695,72,0
+schema.sql,schema.sql,\SignalServiceKit\Resources\schema.sql,\server\sonar-db-migration\src\test\resources\org\sonar\server\platform\db\migration\version\v81\MigrateAzureAlmSettingsTest\schema.sql,695,83,0
+schema.sql,schema.sql,\SignalServiceKit\Resources\schema.sql,\server\sonar-db-migration\src\test\resources\org\sonar\server\platform\db\migration\version\v81\MigrateBitbucketAlmSettingsTest\schema.sql,695,83,0
+schema.sql,schema.sql,\SignalServiceKit\Resources\schema.sql,\server\sonar-db-migration\src\test\resources\org\sonar\server\platform\db\migration\version\v81\MigrateDefaultBranchesToKeepSettingTest\schema.sql,695,57,0
+schema.sql,schema.sql,\SignalServiceKit\Resources\schema.sql,\server\sonar-db-migration\src\test\resources\org\sonar\server\platform\db\migration\version\v81\MigrateGithubAlmSettingsTest\schema.sql,695,83,0

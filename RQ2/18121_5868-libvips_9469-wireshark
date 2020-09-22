@@ -1,0 +1,11 @@
+5868-libvips,9469-wireshark
+StandaloneFuzzTargetMain.c,StandaloneFuzzTargetMain.c,\fuzz\StandaloneFuzzTargetMain.c,\fuzz\StandaloneFuzzTargetMain.c,30,26,17
+profile.c,profile.c,\libvips\arithmetic\profile.c,\ui\profile.c,200,332,21
+buffer.c,buffer.c,\libvips\iofuncs\buffer.c,\wsutil\buffer.c,447,142,46
+stream.c,stream.c,\libvips\iofuncs\stream.c,\epan\stream.c,82,288,12
+util.c,util.c,\libvips\iofuncs\util.c,\ui\util.c,1294,182,39
+merge.c,merge.c,\libvips\mosaicing\merge.c,\wiretap\merge.c,111,739,15
+resample.c,resample.c,\libvips\resample\resample.c,\speexdsp\resample.c,86,931,13
+basic.h,basic.h,\libvips\include\vips\basic.h,\plugins\epan\unistim\basic.h,29,55,1
+stream.h,stream.h,\libvips\include\vips\stream.h,\epan\stream.h,184,28,1
+util.h,util.h,\libvips\include\vips\util.h,\ui\util.h,230,15,7

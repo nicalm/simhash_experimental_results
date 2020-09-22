@@ -1,0 +1,4 @@
+2202-qBittorrent,506-ghidra
+main.cpp,main.cpp,\src\app\main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,324,41,10
+types.h,types.h,\src\base\http\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,80,280,1
+types.h,types.h,\src\base\http\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,80,161,1

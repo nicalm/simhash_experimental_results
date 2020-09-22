@@ -1,0 +1,11 @@
+18692-spdk,4000-mruby
+string.h,string.h,\include\spdk\string.h,\include\mruby\string.h,27,142,3
+version.h,version.h,\include\spdk\version.h,\include\mruby\version.h,37,43,5
+init.c,init.c,\lib\env_dpdk\init.c,\src\init.c,396,41,3
+socket.c,socket.c,\lib\rte_vhost\socket.c,\mrbgems\mruby-socket\src\socket.c,623,803,108
+file.c,file.c,\lib\util\file.c,\mrbgems\mruby-io\src\file.c,30,449,6
+math.c,math.c,\lib\util\math.c,\mrbgems\mruby-math\src\math.c,26,399,8
+string.c,string.c,\lib\util\string.c,\src\string.c,339,2271,107
+string.c,string.c,\lib\util\string.c,\mrbgems\mruby-string-ext\src\string.c,339,897,86
+common.h,common.h,\module\bdev\nvme\common.h,\include\mruby\common.h,84,55,1
+data.h,data.h,\module\bdev\ocf\data.h,\include\mruby\data.h,16,46,2

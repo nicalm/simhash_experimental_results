@@ -1,0 +1,10 @@
+18692-spdk,790-libuv
+queue.h,queue.h,\include\spdk\queue.h,\src\queue.h,30,73,2
+tree.h,tree.h,\lib\blobfs\tree.h,\include\uv\tree.h,36,666,1
+task.h,task.h,\lib\iscsi\task.h,\test\task.h,102,159,5
+tcp.c,tcp.c,\lib\nvmf\tcp.c,\src\unix\tcp.c,2178,284,49
+tcp.c,tcp.c,\lib\nvmf\tcp.c,\src\win\tcp.c,2178,1070,216
+thread.c,thread.c,\lib\thread\thread.c,\src\unix\thread.c,1021,622,89
+thread.c,thread.c,\lib\thread\thread.c,\src\win\thread.c,1021,409,72
+pipe.c,pipe.c,\lib\util\pipe.c,\src\unix\pipe.c,188,263,27
+pipe.c,pipe.c,\lib\util\pipe.c,\src\win\pipe.c,188,1664,47

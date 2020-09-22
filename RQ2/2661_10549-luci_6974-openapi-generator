@@ -1,0 +1,14 @@
+10549-luci,6974-openapi-generator
+binary.c,binary.c,\libs\luci-lib-nixio\src\binary.c,\samples\client\petstore\c\src\binary.c,250,55,5
+user.c,user.c,\libs\luci-lib-nixio\src\user.c,\samples\client\petstore\c\model\user.c,209,162,26
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\samples\client\petstore\k6\script.js,154,153,14
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\samples\config\petstore\k6\script.js,154,153,14
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\samples\client\petstore\k6\script.js,204,153,19
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\samples\config\petstore\k6\script.js,204,153,19
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\website\src\pages\index.js,82,380,10
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\samples\client\petstore\javascript\src\index.js,82,67,4
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\samples\client\petstore\javascript-apollo\src\index.js,82,22,1
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\samples\client\petstore\javascript-es6\src\index.js,82,112,1
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\samples\client\petstore\javascript-promise\src\index.js,82,67,4
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\samples\client\petstore\javascript-promise-es6\src\index.js,82,112,1
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\samples\openapi3\client\petstore\javascript-es6\src\index.js,82,116,1

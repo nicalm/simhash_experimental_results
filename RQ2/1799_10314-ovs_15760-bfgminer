@@ -1,0 +1,5 @@
+10314-ovs,15760-bfgminer
+compat.h,compat.h,\datapath\compat.h,\compat.h,59,164,9
+util.c,util.c,\lib\util.c,\util.c,1694,3540,506
+util.h,util.h,\lib\util.h,\util.h,431,687,91
+util.h,util.h,\include\openvswitch\util.h,\util.h,121,687,17

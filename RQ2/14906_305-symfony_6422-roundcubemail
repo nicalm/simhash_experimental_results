@@ -1,0 +1,9 @@
+305-symfony,6422-roundcubemail
+bootstrap.php,bootstrap.php,\src\Symfony\Bridge\PhpUnit\bootstrap.php,\tests\Browser\bootstrap.php,101,106,8
+bootstrap.php,bootstrap.php,\src\Symfony\Bridge\PhpUnit\bootstrap.php,\program\lib\Roundcube\bootstrap.php,101,266,8
+Parser.php,Parser.php,\src\Symfony\Component\ExpressionLanguage\Parser.php,\plugins\managesieve\tests\Parser.php,260,43,15
+Parser.php,Parser.php,\src\Symfony\Component\Yaml\Parser.php,\plugins\managesieve\tests\Parser.php,850,43,16
+Parser.php,Parser.php,\src\Symfony\Component\CssSelector\Parser\Parser.php,\plugins\managesieve\tests\Parser.php,253,43,15
+Tokenizer.php,Tokenizer.php,\src\Symfony\Component\CssSelector\Parser\Tokenizer\Tokenizer.php,\plugins\managesieve\tests\Tokenizer.php,39,27,8
+index.php,index.php,\src\Symfony\Contracts\HttpClient\Test\Fixtures\web\index.php,\index.php,149,197,15
+index.php,index.php,\src\Symfony\Contracts\HttpClient\Test\Fixtures\web\index.php,\installer\index.php,149,104,16

@@ -1,0 +1,4 @@
+10841-gimp,1811-otp
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\erts\emulator\beam\utils.c,303,4338,82
+global.h,global.h,\plug-ins\selection-to-path\global.h,\erts\emulator\beam\global.h,83,1202,5
+math.c,math.c,\plug-ins\selection-to-path\math.c,\lib\crypto\c_src\math.c,96,25,3

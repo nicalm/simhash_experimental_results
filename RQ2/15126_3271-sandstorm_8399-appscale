@@ -1,0 +1,7 @@
+3271-sandstorm,8399-appscale
+core.js,core.js,\shell\server\core.js,\AppServer\lib\django-0.96\django\contrib\admin\media\js\core.js,471,111,31
+core.js,core.js,\shell\server\core.js,\AppServer\lib\django-1.2\django\contrib\admin\media\js\core.js,471,161,42
+core.js,core.js,\shell\server\core.js,\AppServer\lib\django-1.3\django\contrib\admin\media\js\core.js,471,161,42
+core.js,core.js,\shell\server\core.js,\AppServer\lib\django-1.4\django\contrib\admin\static\admin\js\core.js,471,154,40
+core.js,core.js,\shell\server\core.js,\AppServer\lib\django-1.5\django\contrib\admin\static\admin\js\core.js,471,154,40
+email.js,email.js,\shell\imports\server\email.js,\AppDashboard\static\js\email.js,123,155,12

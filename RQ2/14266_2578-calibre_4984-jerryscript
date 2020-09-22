@@ -1,0 +1,6 @@
+2578-calibre,4984-jerryscript
+setup.py,setup.py,\setup.py,\targets\curie_bsp\setup.py,92,129,1
+build.py,build.py,\manual\build.py,\tools\build.py,106,227,2
+build.py,build.py,\setup\build.py,\tools\build.py,408,227,2
+main.c,main.c,\bypy\windows\main.c,\targets\curie_bsp\jerry_app\quark\main.c,107,130,17
+main.cpp,main.cpp,\src\calibre\headless\main.cpp,\targets\particle\source\main.cpp,18,85,3

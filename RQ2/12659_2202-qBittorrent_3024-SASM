@@ -1,0 +1,10 @@
+2202-qBittorrent,3024-SASM
+main.cpp,main.cpp,\src\app\main.cpp,\main.cpp,324,90,13
+mainwindow.cpp,mainwindow.cpp,\src\gui\mainwindow.cpp,\mainwindow.cpp,1634,1873,340
+mainwindow.h,mainwindow.h,\src\gui\mainwindow.h,\mainwindow.h,204,220,12
+qtlocalpeer.cpp,qtlocalpeer.cpp,\src\app\qtlocalpeer\qtlocalpeer.cpp,\singleapplication\qtlocalpeer.cpp,152,142,123
+qtlocalpeer.h,qtlocalpeer.h,\src\app\qtlocalpeer\qtlocalpeer.h,\singleapplication\qtlocalpeer.h,25,28,19
+qtlockedfile.cpp,qtlockedfile.cpp,\src\app\qtlocalpeer\qtlockedfile.cpp,\singleapplication\qtlockedfile.cpp,35,35,34
+qtlockedfile.h,qtlockedfile.h,\src\app\qtlocalpeer\qtlockedfile.h,\singleapplication\qtlockedfile.h,38,47,28
+qtlockedfile_unix.cpp,qtlockedfile_unix.cpp,\src\app\qtlocalpeer\qtlockedfile_unix.cpp,\singleapplication\qtlockedfile_unix.cpp,58,58,58
+qtlockedfile_win.cpp,qtlockedfile_win.cpp,\src\app\qtlocalpeer\qtlockedfile_win.cpp,\singleapplication\qtlockedfile_win.cpp,147,150,147

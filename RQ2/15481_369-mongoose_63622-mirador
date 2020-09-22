@@ -1,0 +1,10 @@
+369-mongoose,63622-mirador
+webpack.config.js,webpack.config.js,\webpack.config.js,\webpack.config.js,17,62,5
+search.js,search.js,\docs\search.js,\src\state\actions\search.js,82,87,13
+search.js,search.js,\docs\search.js,\src\state\reducers\search.js,82,129,4
+index.test.js,index.test.js,\test\index.test.js,\__tests__\src\selectors\index.test.js,587,119,7
+utils.test.js,utils.test.js,\test\utils.test.js,\__tests__\src\reducers\utils.test.js,288,62,15
+auth.js,auth.js,\tools\auth.js,\src\state\actions\auth.js,20,67,3
+auth.js,auth.js,\tools\auth.js,\src\state\reducers\auth.js,20,48,0
+search.js,search.js,\docs\js\search.js,\src\state\actions\search.js,49,87,9
+search.js,search.js,\docs\js\search.js,\src\state\reducers\search.js,49,129,7

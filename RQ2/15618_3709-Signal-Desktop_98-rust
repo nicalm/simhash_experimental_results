@@ -1,0 +1,8 @@
+3709-Signal-Desktop,98-rust
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,40,21,5
+main.js,main.js,\main.js,\src\librustdoc\html\static\main.js,881,2266,176
+storage.js,storage.js,\js\storage.js,\src\librustdoc\html\static\storage.js,98,98,20
+storage.js,storage.js,\libtextsecure\storage.js,\src\librustdoc\html\static\storage.js,23,98,0
+.eslintrc.js,.eslintrc.js,\test\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,32,21,5
+settings.js,settings.js,\js\modules\settings.js,\src\librustdoc\html\static\settings.js,76,26,7
+.eslintrc.js,.eslintrc.js,\test\modules\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,22,21,5

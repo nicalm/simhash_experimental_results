@@ -1,0 +1,13 @@
+6974-openapi-generator,7242-Sia
+main.go,main.go,\samples\server\petstore\go-api-server\main.go,\cmd\siac\main.go,17,118,5
+main.go,main.go,\samples\server\petstore\go-api-server\main.go,\cmd\siad\main.go,17,141,5
+main.go,main.go,\samples\server\petstore\go-api-server\main.go,\vendor\github.com\coreos\bbolt\cmd\bolt\main.go,17,1571,5
+client.go,client.go,\samples\client\petstore\go\go-petstore\client.go,\node\api\client\client.go,405,144,66
+client.go,client.go,\samples\client\petstore\go\go-petstore-withXml\client.go,\node\api\client\client.go,405,144,66
+client.go,client.go,\samples\client\petstore\go-experimental\go-petstore\client.go,\node\api\client\client.go,402,144,66
+main.go,main.go,\samples\openapi3\server\petstore\go-api-server\main.go,\cmd\siac\main.go,25,118,5
+main.go,main.go,\samples\openapi3\server\petstore\go-api-server\main.go,\cmd\siad\main.go,25,141,5
+main.go,main.go,\samples\openapi3\server\petstore\go-api-server\main.go,\vendor\github.com\coreos\bbolt\cmd\bolt\main.go,25,1571,5
+api.go,api.go,\samples\server\petstore\go-api-server\go\api.go,\node\api\api.go,57,99,9
+client.go,client.go,\samples\openapi3\client\petstore\go\go-petstore\client.go,\node\api\client\client.go,407,144,66
+client.go,client.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\client.go,\node\api\client\client.go,412,144,66

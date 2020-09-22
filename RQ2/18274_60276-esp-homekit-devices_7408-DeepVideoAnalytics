@@ -1,0 +1,13 @@
+60276-esp-homekit-devices,7408-DeepVideoAnalytics
+setup.py,setup.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfcrypt\setup.py,\client\setup.py,29,15,1
+setup.py,setup.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfcrypt\setup.py,\repos\lopq\python\setup.py,29,90,2
+setup.py,setup.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\setup.py,\client\setup.py,49,15,1
+setup.py,setup.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\setup.py,\repos\lopq\python\setup.py,49,90,3
+setup.py,setup.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfcrypt\setup.py,\client\setup.py,29,15,1
+setup.py,setup.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfcrypt\setup.py,\repos\lopq\python\setup.py,29,90,2
+setup.py,setup.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\setup.py,\client\setup.py,49,15,1
+setup.py,setup.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\setup.py,\repos\lopq\python\setup.py,49,90,3
+__init__.py,__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\deploy\compose\__init__.py,348,161,12
+__init__.py,__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\deploy\kube\__init__.py,348,256,7
+__init__.py,__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\deploy\compose\__init__.py,348,161,12
+__init__.py,__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,\deploy\kube\__init__.py,348,256,7

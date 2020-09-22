@@ -1,0 +1,10 @@
+99-redis,9975-hexchat
+notify.c,notify.c,\src\notify.c,\src\common\notify.c,75,570,10
+server.c,server.c,\src\server.c,\src\common\server.c,3476,1542,251
+server.h,server.h,\src\server.h,\src\common\server.h,1796,18,1
+util.c,util.c,\src\util.c,\src\common\util.c,590,1287,114
+util.h,util.h,\src\util.h,\src\common\util.h,24,47,2
+example.c,example.c,\deps\linenoise\example.c,\src\common\dbus\example.c,53,158,10
+example.c,example.c,\deps\hiredis\examples\example.c,\src\common\dbus\example.c,57,158,7
+lua.c,lua.c,\deps\lua\src\lua.c,\plugins\lua\lua.c,323,1572,79
+util.h,util.h,\deps\jemalloc\include\jemalloc\internal\util.h,\src\common\util.h,42,47,3

@@ -1,0 +1,15 @@
+10841-gimp,2909-mongoose
+app.c,app.c,\app\app.c,\examples\PIC32\http_server\firmware\src\app.c,324,132,39
+app.c,app.c,\app\app.c,\examples\PIC32\mqtt_client\firmware\src\app.c,324,145,23
+app.h,app.h,\app\app.h,\examples\PIC32\http_server\firmware\src\app.h,33,28,1
+app.h,app.h,\app\app.h,\examples\PIC32\mqtt_client\firmware\src\app.h,33,27,2
+main.c,main.c,\app\main.c,\examples\CC3200\main.c,631,249,40
+main.c,main.c,\app\main.c,\examples\NXP_K64\main.c,631,131,17
+main.c,main.c,\app\main.c,\examples\STM32F4_CC3100\main.c,631,124,16
+main.c,main.c,\app\main.c,\examples\ESP32_IDF\main\main.c,631,75,10
+main.c,main.c,\app\main.c,\examples\nRF51\http\main.c,631,64,11
+main.c,main.c,\app\main.c,\examples\nRF52\http\main.c,631,66,11
+main.c,main.c,\app\main.c,\examples\CC3200\ccs\MG_hello\main.c,631,192,34
+main.c,main.c,\app\main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,631,142,23
+main.c,main.c,\app\main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,631,129,17
+main.c,main.c,\app\main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,631,147,22

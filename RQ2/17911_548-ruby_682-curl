@@ -1,0 +1,15 @@
+548-ruby,682-curl
+debug.c,debug.c,\debug.c,\docs\examples\debug.c,211,100,16
+file.c,file.c,\file.c,\lib\file.c,4432,376,82
+hash.c,hash.c,\hash.c,\lib\hash.c,4145,242,82
+util.c,util.c,\util.c,\tests\server\util.c,517,375,84
+version.c,version.c,\version.c,\lib\version.c,89,398,19
+hash.h,hash.h,\internal\hash.h,\lib\hash.h,189,57,4
+util.h,util.h,\internal\util.h,\tests\server\util.h,15,29,2
+file.c,file.c,\win32\file.c,\lib\file.c,558,376,50
+digest.c,digest.c,\ext\digest\digest.c,\lib\vauth\digest.c,379,643,63
+digest.h,digest.h,\ext\digest\digest.h,\lib\vauth\digest.h,42,18,0
+util.h,util.h,\include\ruby\util.h,\tests\server\util.h,62,29,3
+escape.c,escape.c,\ext\cgi\escape\escape.c,\lib\escape.c,341,154,32
+md5.c,md5.c,\ext\digest\md5\md5.c,\lib\md5.c,290,367,26
+nonblock.c,nonblock.c,\ext\io\nonblock\nonblock.c,\lib\nonblock.c,97,44,9

@@ -1,0 +1,3 @@
+12726-json-c,86-netdata
+json.h,json.h,\json.h,\backends\json\json.h,18,27,1
+json.h,json.h,\json.h,\libnetdata\json\json.h,18,48,3

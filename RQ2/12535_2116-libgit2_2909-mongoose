@@ -1,0 +1,13 @@
+2116-libgit2,2909-mongoose
+notes.c,notes.c,\src\notes.c,\src\common\platforms\esp31\rom\notes.c,638,100,15
+main.c,main.c,\tests\main.c,\examples\CC3200\main.c,29,249,6
+main.c,main.c,\tests\main.c,\examples\NXP_K64\main.c,29,131,5
+main.c,main.c,\tests\main.c,\examples\STM32F4_CC3100\main.c,29,124,3
+main.c,main.c,\tests\main.c,\examples\ESP32_IDF\main\main.c,29,75,3
+main.c,main.c,\tests\main.c,\examples\nRF51\http\main.c,29,64,4
+main.c,main.c,\tests\main.c,\examples\nRF52\http\main.c,29,66,4
+main.c,main.c,\tests\main.c,\examples\CC3200\ccs\MG_hello\main.c,29,192,5
+main.c,main.c,\tests\main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,29,142,5
+main.c,main.c,\tests\main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,29,129,3
+main.c,main.c,\tests\main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,29,147,5
+notes.c,notes.c,\tests\notes\notes.c,\src\common\platforms\esp31\rom\notes.c,449,100,15

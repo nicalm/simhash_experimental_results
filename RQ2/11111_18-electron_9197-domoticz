@@ -1,0 +1,12 @@
+18-electron,9197-domoticz
+main.js,main.js,\spec\static\main.js,\www\app\main.js,223,46,0
+main.js,main.js,\spec\fixtures\snapshot-items-available\main.js,\www\app\main.js,22,46,0
+main.js,main.js,\spec\fixtures\api\cookie-app\main.js,\www\app\main.js,42,46,0
+main.js,main.js,\spec\fixtures\api\default-menu\main.js,\www\app\main.js,27,46,0
+main.js,main.js,\spec\fixtures\api\exit-closes-all-windows-app\main.js,\www\app\main.js,15,46,0
+main.js,main.js,\spec\fixtures\api\mixed-sandbox-app\main.js,\www\app\main.js,67,46,0
+main.js,main.js,\spec\fixtures\api\relaunch\main.js,\www\app\main.js,19,46,0
+main.js,main.js,\spec\fixtures\api\site-instance-overrides\main.js,\www\app\main.js,28,46,0
+main.js,main.js,\spec\fixtures\api\window-all-closed\main.js,\www\app\main.js,16,46,0
+main.js,main.js,\spec\fixtures\extensions\chrome-api\main.js,\www\app\main.js,24,46,2
+main.js,main.js,\spec-main\fixtures\api\net-log\main.js,\www\app\main.js,24,46,0

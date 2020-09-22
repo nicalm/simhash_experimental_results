@@ -1,0 +1,4 @@
+63622-mirador,7408-DeepVideoAnalytics
+config.js,config.js,\src\state\actions\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,21,21,1
+config.js,config.js,\src\state\reducers\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,15,21,1
+config.js,config.js,\src\state\selectors\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,44,21,0

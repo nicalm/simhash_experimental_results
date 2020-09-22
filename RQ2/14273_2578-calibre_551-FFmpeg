@@ -1,0 +1,5 @@
+2578-calibre,551-FFmpeg
+convert.py,convert.py,\src\calibre\srv\convert.py,\tools\python\convert.py,251,28,1
+convert.py,convert.py,\src\calibre\gui2\actions\convert.py,\tools\python\convert.py,251,28,1
+des.c,des.c,\src\calibre\utils\msdes\des.c,\libavutil\des.c,434,275,36
+des.c,des.c,\src\calibre\utils\msdes\des.c,\libavutil\tests\des.c,434,107,16

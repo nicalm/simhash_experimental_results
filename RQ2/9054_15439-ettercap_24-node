@@ -1,0 +1,5 @@
+15439-ettercap,24-node
+ec.h,ec.h,\include\ec.h,\deps\openssl\openssl\include\openssl\ec.h,132,481,17
+ec_asn1.c,ec_asn1.c,\src\ec_asn1.c,\deps\openssl\openssl\crypto\ec\ec_asn1.c,154,962,32
+nameser.h,nameser.h,\include\missing\nameser.h,\deps\cares\include\nameser.h,371,189,103
+getopt.c,getopt.c,\src\missing\getopt.c,\deps\uv\samples\socks5-proxy\getopt.c,775,78,17

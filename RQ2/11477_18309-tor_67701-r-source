@@ -1,0 +1,10 @@
+18309-tor,67701-r-source
+test.c,test.c,\src\test\test.c,\src\nmath\standalone\test.c,611,24,3
+config.h,config.h,\src\app\config\config.h,\src\gnuwin32\fixed\h\config.h,232,267,6
+main.c,main.c,\src\app\main\main.c,\src\main\main.c,1029,1257,189
+status.c,status.c,\src\core\or\status.c,\src\extra\graphapp\status.c,191,45,9
+malloc.c,malloc.c,\src\lib\malloc\malloc.c,\src\gnuwin32\malloc.c,118,2815,27
+printf.c,printf.c,\src\lib\string\printf.c,\src\extra\intl\printf.c,104,339,34
+version.c,version.c,\src\lib\version\version.c,\src\main\version.c,33,107,8
+test.c,test.c,\src\ext\ed25519\donna\test.c,\src\nmath\standalone\test.c,177,24,4
+open.c,open.c,\src\ext\ed25519\ref10\open.c,\src\gnuwin32\front-ends\open.c,34,35,3

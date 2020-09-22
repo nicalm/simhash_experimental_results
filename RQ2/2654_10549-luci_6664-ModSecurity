@@ -1,0 +1,7 @@
+10549-luci,6664-ModSecurity
+md5.c,md5.c,\libs\luci-lib-nixio\axTLS\crypto\md5.c,\others\mbedtls\md5.c,184,293,25
+sha1.c,sha1.c,\libs\luci-lib-nixio\axTLS\crypto\sha1.c,\others\mbedtls\sha1.c,148,328,39
+sha1.c,sha1.c,\libs\luci-lib-px5g\src\library\sha1.c,\others\mbedtls\sha1.c,445,328,224
+sha1.h,sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,\others\mbedtls\sha1.h,30,43,11
+sha1.h,sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,\src\utils\sha1.h,30,16,3
+sha1.h,sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,\src\actions\transformations\sha1.h,30,21,5

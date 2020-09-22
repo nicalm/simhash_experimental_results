@@ -1,0 +1,14 @@
+2283-capnproto,9529-ltp
+endian.h,endian.h,\c++\src\capnp\endian.h,\thirdparty\boost\include\boost\predef\other\endian.h,212,141,11
+debug.h,debug.h,\c++\src\kj\debug.h,\src\parser\debug.h,327,57,11
+debug.h,debug.h,\c++\src\kj\debug.h,\src\srl\include\base\debug.h,327,75,16
+io.h,io.h,\c++\src\kj\io.h,\src\framework\io.h,223,43,10
+io.h,io.h,\c++\src\kj\io.h,\src\ner\io.h,223,37,9
+io.h,io.h,\c++\src\kj\io.h,\src\parser.n\io.h,223,28,9
+io.h,io.h,\c++\src\kj\io.h,\src\postagger\io.h,223,31,9
+io.h,io.h,\c++\src\kj\io.h,\src\segmentor\io.h,223,37,9
+timer.h,timer.h,\c++\src\kj\timer.h,\src\srl\include\base\timer.h,48,46,5
+compiler.h,compiler.h,\c++\src\capnp\compiler\compiler.h,\thirdparty\boost\include\boost\predef\compiler.h,56,34,0
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\src\parser\parser.h,69,79,5
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\src\parser.n\parser.h,69,105,4
+gtest.h,gtest.h,\c++\src\kj\compat\gtest.h,\thirdparty\gtest\include\gtest\gtest.h,72,799,14

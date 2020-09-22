@@ -1,0 +1,9 @@
+15760-bfgminer,60276-esp-homekit-devices
+api.c,api.c,\api.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\tests\api.c,3686,8741,620
+api.c,api.c,\api.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\tests\api.c,3686,8741,620
+logging.c,logging.c,\logging.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\logging.c,72,389,21
+logging.c,logging.c,\logging.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\logging.c,72,389,21
+logging.h,logging.h,\logging.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\logging.h,133,67,5
+logging.h,logging.h,\logging.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\logging.h,133,67,5
+util.c,util.c,\util.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,3540,138,30
+util.c,util.c,\util.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,3540,138,30

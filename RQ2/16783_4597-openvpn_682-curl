@@ -1,0 +1,10 @@
+4597-openvpn,682-curl
+base64.c,base64.c,\src\openvpn\base64.c,\lib\base64.c,150,182,26
+multi.c,multi.c,\src\openvpn\multi.c,\lib\multi.c,2592,2199,433
+multi.h,multi.h,\src\openvpn\multi.h,\include\curl\multi.h,340,158,9
+ntlm.c,ntlm.c,\src\openvpn\ntlm.c,\lib\vauth\ntlm.c,272,536,48
+socks.c,socks.c,\src\openvpn\socks.c,\lib\socks.c,442,535,75
+socks.h,socks.h,\src\openvpn\socks.h,\lib\socks.h,31,29,1
+simple.c,simple.c,\sample\sample-plugins\defer\simple.c,\docs\examples\simple.c,232,18,5
+base64.c,base64.c,\sample\sample-plugins\simple\base64.c,\lib\base64.c,85,182,17
+simple.c,simple.c,\sample\sample-plugins\simple\simple.c,\docs\examples\simple.c,61,18,4

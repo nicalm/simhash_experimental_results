@@ -1,0 +1,3 @@
+4984-jerryscript,8874-collectd
+common.c,common.c,\jerry-core\parser\js\common.c,\src\utils\common\common.c,76,1217,34
+common.h,common.h,\jerry-core\parser\js\common.h,\src\utils\common\common.h,78,131,8

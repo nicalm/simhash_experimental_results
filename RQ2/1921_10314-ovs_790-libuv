@@ -1,0 +1,12 @@
+10314-ovs,790-libuv
+conf.py,conf.py,\Documentation\conf.py,\docs\src\conf.py,71,59,5
+process.c,process.c,\lib\process.c,\src\unix\process.c,487,441,73
+process.c,process.c,\lib\process.c,\src\win\process.c,487,879,69
+stream.c,stream.c,\lib\stream.c,\src\unix\stream.c,584,1128,121
+stream.c,stream.c,\lib\stream.c,\src\win\stream.c,584,171,32
+timer.c,timer.c,\lib\timer.c,\src\timer.c,20,103,4
+util.c,util.c,\lib\util.c,\samples\socks5-proxy\util.c,1694,43,9
+util.c,util.c,\lib\util.c,\src\win\util.c,1694,1211,183
+server.c,server.c,\ovsdb\server.c,\samples\socks5-proxy\server.c,135,180,21
+udp.c,udp.c,\datapath\linux\compat\udp.c,\src\unix\udp.c,33,722,8
+udp.c,udp.c,\datapath\linux\compat\udp.c,\src\win\udp.c,33,725,4

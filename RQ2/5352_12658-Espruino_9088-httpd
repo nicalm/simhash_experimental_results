@@ -1,0 +1,12 @@
+12658-Espruino,9088-httpd
+main.c,main.c,\targets\emscripten\main.c,\server\main.c,50,643,7
+main.c,main.c,\targets\esp32\main.c,\server\main.c,92,643,14
+log.c,log.c,\targets\esp8266\log.c,\server\log.c,162,1428,28
+main.c,main.c,\targets\linux\main.c,\server\main.c,335,643,41
+main.c,main.c,\targets\nrf5x\main.c,\server\main.c,16,643,4
+main.c,main.c,\targets\nrf5x_dfu\main.c,\server\main.c,191,643,47
+main.c,main.c,\targets\stm32\main.c,\server\main.c,38,643,11
+main.c,main.c,\targets\stm32_boot\main.c,\server\main.c,236,643,44
+main.c,main.c,\targets\stm32_ll\main.c,\server\main.c,23,643,5
+base64.c,base64.c,\libs\crypto\mbedtls\library\base64.c,\test\unit\base64.c,195,117,20
+md.h,md.h,\libs\crypto\mbedtls\include\mbedtls\md.h,\modules\md\md.h,79,201,2

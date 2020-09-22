@@ -1,0 +1,3 @@
+2475-fmt,506-ghidra
+build.py,build.py,\doc\build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,79,235,3
+main.cpp,main.cpp,\test\fuzzing\main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,20,41,2

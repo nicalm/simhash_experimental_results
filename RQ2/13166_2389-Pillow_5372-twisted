@@ -1,0 +1,15 @@
+2389-Pillow,5372-twisted
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,45,57,8
+helper.py,helper.py,\Tests\helper.py,\src\twisted\conch\insults\helper.py,260,319,13
+test_main.py,test_main.py,\Tests\test_main.py,\src\twisted\test\test_main.py,32,46,1
+test_main.py,test_main.py,\Tests\test_main.py,\src\twisted\internet\test\test_main.py,32,20,0
+test_util.py,test_util.py,\Tests\test_util.py,\src\twisted\logger\test\test_util.py,30,71,0
+test_util.py,test_util.py,\Tests\test_util.py,\src\twisted\names\test\test_util.py,30,57,0
+test_util.py,test_util.py,\Tests\test_util.py,\src\twisted\python\test\test_util.py,30,600,0
+test_util.py,test_util.py,\Tests\test_util.py,\src\twisted\trial\test\test_util.py,30,327,0
+test_util.py,test_util.py,\Tests\test_util.py,\src\twisted\web\test\test_util.py,30,211,0
+_util.py,_util.py,\src\PIL\_util.py,\src\twisted\logger\_util.py,17,20,1
+_util.py,_util.py,\src\PIL\_util.py,\src\twisted\web\test\_util.py,17,43,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\src\twisted\logger\__init__.py,52,45,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\src\twisted\python\__init__.py,52,15,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\src\twisted\_threads\__init__.py,52,15,1

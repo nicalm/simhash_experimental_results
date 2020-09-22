@@ -1,0 +1,3 @@
+2475-fmt,5868-libvips
+util.h,util.h,\test\util.h,\libvips\include\vips\util.h,55,230,4
+format.h,format.h,\include\fmt\format.h,\libvips\include\vips\format.h,2673,84,4

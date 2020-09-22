@@ -1,0 +1,4 @@
+15439-ettercap,18490-libpcap
+getopt.c,getopt.c,\src\missing\getopt.c,\missing\getopt.c,775,85,21
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\missing\strlcat.c,29,29,8
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\missing\strlcpy.c,23,25,5

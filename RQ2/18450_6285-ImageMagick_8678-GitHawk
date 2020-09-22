@@ -1,0 +1,5 @@
+6285-ImageMagick,8678-GitHawk
+html.c,html.c,\coders\html.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\html.c,270,400,16
+map.c,map.c,\coders\map.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\map.c,278,90,12
+registry.c,registry.c,\MagickCore\registry.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\registry.c,266,50,10
+registry.h,registry.h,\MagickCore\registry.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\registry.h,27,17,5

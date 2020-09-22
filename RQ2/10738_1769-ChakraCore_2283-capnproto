@@ -1,0 +1,8 @@
+1769-ChakraCore,2283-capnproto
+common.h,common.h,\lib\wabt\src\common.h,\c++\src\benchmark\common.h,324,229,32
+common.h,common.h,\lib\wabt\src\common.h,\c++\src\capnp\common.h,324,508,44
+common.h,common.h,\lib\wabt\src\common.h,\c++\src\kj\common.h,324,1054,45
+common.h,common.h,\lib\wabt\src\common.h,\c++\src\kj\parse\common.h,324,564,45
+rpc.h,rpc.h,\pal\inc\rt\rpc.h,\c++\src\capnp\rpc.h,15,278,0
+debug.h,debug.h,\pal\src\include\pal\debug.h,\c++\src\kj\debug.h,18,327,4
+list.h,list.h,\pal\src\include\pal\list.h,\c++\src\capnp\list.h,55,398,5

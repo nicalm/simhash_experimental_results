@@ -1,0 +1,10 @@
+1123-envoy,6364-Tautulli
+client.py,client.py,\examples\grpc-bridge\client\client.py,\lib\plexapi\client.py,43,227,0
+client.py,client.py,\examples\grpc-bridge\client\client.py,\lib\paho\mqtt\client.py,43,1567,0
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\lib\apscheduler\util.py,15,212,0
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\lib\arrow\util.py,15,27,0
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\lib\mako\util.py,15,245,1
+util.py,util.py,\test\common\json\config_schemas_test_data\util.py,\lib\musicbrainzngs\util.py,15,26,0
+client.py,client.py,\test\extensions\filters\network\thrift_proxy\driver\client.py,\lib\plexapi\client.py,224,227,1
+client.py,client.py,\test\extensions\filters\network\thrift_proxy\driver\client.py,\lib\paho\mqtt\client.py,224,1567,13
+server.py,server.py,\test\extensions\filters\network\thrift_proxy\driver\server.py,\lib\plexapi\server.py,191,219,2

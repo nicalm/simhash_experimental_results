@@ -1,0 +1,8 @@
+10115-mbedtls,6773-server
+base64.c,base64.c,\library\base64.c,\mysys\base64.c,199,268,39
+error.c,error.c,\library\error.c,\storage\mroonga\vendor\groonga\lib\error.c,771,419,16
+sha256.c,sha256.c,\library\sha256.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\check\sha256.c,419,137,41
+config.h,config.h,\include\mbedtls\config.h,\storage\mroonga\vendor\groonga\include\groonga\config.h,143,36,2
+config.h,config.h,\include\mbedtls\config.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\dos\config.h,143,47,0
+config.h,config.h,\include\mbedtls\config.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\windows\config.h,143,54,2
+version.h,version.h,\include\mbedtls\version.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\api\lzma\version.h,26,40,5

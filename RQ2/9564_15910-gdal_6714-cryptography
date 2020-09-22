@@ -1,0 +1,8 @@
+15910-gdal,6714-cryptography
+conftest.py,conftest.py,\autotest\conftest.py,\tests\conftest.py,39,35,2
+conf.py,conf.py,\gdal\doc\source\conf.py,\docs\conf.py,323,66,11
+setup.py,setup.py,\gdal\swig\python\setup.py,\setup.py,329,181,11
+setup.py,setup.py,\gdal\swig\python\setup.py,\vectors\setup.py,329,19,2
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\cryptography\x509\__init__.py,40,175,0
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\cryptography\hazmat\primitives\asymmetric\__init__.py,40,15,0
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\cryptography\hazmat\primitives\serialization\__init__.py,40,18,0

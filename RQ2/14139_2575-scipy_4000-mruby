@@ -1,0 +1,4 @@
+2575-scipy,4000-mruby
+example.c,example.c,\scipy\optimize\tnc\example.c,\examples\mrbgems\c_and_ruby_extension_example\src\example.c,36,16,4
+example.c,example.c,\scipy\optimize\tnc\example.c,\examples\mrbgems\c_extension_example\src\example.c,36,16,4
+debug.h,debug.h,\scipy\sparse\linalg\eigen\arpack\ARPACK\SRC\debug.h,\include\mruby\debug.h,16,38,0

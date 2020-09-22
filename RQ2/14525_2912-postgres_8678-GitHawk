@@ -1,0 +1,4 @@
+2912-postgres,8678-GitHawk
+parser.h,parser.h,\src\include\parser\parser.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\parser.h,16,37,1
+table.c,table.c,\src\backend\access\table\table.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\table.c,67,576,8
+xml.c,xml.c,\src\backend\utils\adt\xml.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\xml.c,3224,155,32

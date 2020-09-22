@@ -1,0 +1,5 @@
+86-netdata,8678-GitHawk
+registry.c,registry.c,\registry\registry.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\registry.c,286,50,9
+registry.h,registry.h,\registry\registry.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\registry.h,17,17,1
+buffer.c,buffer.c,\libnetdata\buffer\buffer.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\buffer.c,280,211,31
+buffer.h,buffer.h,\libnetdata\buffer\buffer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\buffer.h,64,76,2

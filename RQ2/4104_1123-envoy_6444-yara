@@ -1,0 +1,16 @@
+1123-envoy,6444-yara
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,60,35,10
+common.h,common.h,\test\mocks\common.h,\common.h,59,91,6
+types.h,types.h,\include\envoy\upstream\types.h,\libyara\include\yara\types.h,31,527,5
+hash.h,hash.h,\source\common\common\hash.h,\libyara\include\yara\hash.h,73,62,0
+common.h,common.h,\source\common\grpc\common.h,\common.h,48,91,2
+exception.h,exception.h,\source\common\http\exception.h,\libyara\exception.h,28,115,2
+common.h,common.h,\test\common\http\common.h,\common.h,47,91,6
+common.h,common.h,\test\integration\filters\common.h,\common.h,18,91,2
+stream.h,stream.h,\test\mocks\http\stream.h,\libyara\include\yara\stream.h,31,30,0
+crypto.h,crypto.h,\include\envoy\common\crypto\crypto.h,\libyara\crypto.h,16,89,3
+util.h,util.h,\source\extensions\tracers\zipkin\util.h,\tests\util.h,28,199,1
+common.h,common.h,\test\extensions\common\tap\common.h,\common.h,48,91,9
+parser.h,parser.h,\source\extensions\filters\network\kafka\parser.h,\libyara\include\yara\parser.h,63,79,0
+utils.h,utils.h,\source\extensions\filters\network\zookeeper_proxy\utils.h,\libyara\include\yara\utils.h,29,87,1
+common.h,common.h,\test\extensions\filters\http\tap\common.h,\common.h,30,91,6

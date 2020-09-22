@@ -1,0 +1,13 @@
+1615-rufus,242-php-src
+net.c,net.c,\src\net.c,\ext\standard\net.c,928,220,50
+crc32.c,crc32.c,\src\bled\crc32.c,\ext\standard\crc32.c,82,70,15
+config.h,config.h,\src\ext2fs\config.h,\ext\pcre\pcre2lib\config.h,182,46,14
+link.c,link.c,\src\ext2fs\link.c,\ext\standard\link.c,138,169,14
+getopt.c,getopt.c,\src\getopt\getopt.c,\main\getopt.c,653,150,42
+config.h,config.h,\src\libcdio\config.h,\ext\pcre\pcre2lib\config.h,53,46,4
+file.c,file.c,\src\ms-sys\file.c,\ext\standard\file.c,158,1874,38
+types.h,types.h,\src\libcdio\cdio\types.h,\ext\opcache\jit\libudis86\types.h,181,155,10
+memory.c,memory.c,\src\libcdio\driver\memory.c,\main\streams\memory.c,16,589,3
+util.c,util.c,\src\libcdio\driver\util.c,\ext\phar\util.c,124,1635,32
+file.h,file.h,\src\ms-sys\inc\file.h,\ext\standard\file.h,21,112,4
+file.h,file.h,\src\ms-sys\inc\file.h,\ext\fileinfo\libmagic\file.h,21,483,3

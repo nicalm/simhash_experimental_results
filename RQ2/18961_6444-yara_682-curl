@@ -1,0 +1,6 @@
+6444-yara,682-curl
+hash.c,hash.c,\libyara\hash.c,\lib\hash.c,259,242,42
+util.c,util.c,\tests\util.c,\tests\server\util.c,285,375,54
+util.h,util.h,\tests\util.h,\tests\server\util.h,199,29,1
+hash.h,hash.h,\libyara\include\yara\hash.h,\lib\hash.h,62,57,3
+hash.c,hash.c,\libyara\modules\hash\hash.c,\lib\hash.c,436,242,54

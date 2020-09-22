@@ -1,0 +1,8 @@
+1863-SkeletonView,5765-EFQRCode
+Package.swift,Package.swift,\Package.swift,\Package.swift,20,18,9
+AppDelegate.swift,AppDelegate.swift,\Example\CollectionView\AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,18,21,8
+ViewController.swift,ViewController.swift,\Example\CollectionView\ViewController.swift,\Examples\iOS\ViewController.swift,144,135,25
+ViewController.swift,ViewController.swift,\Example\CollectionView\ViewController.swift,\Examples\macOS\macOS Example\ViewController.swift,144,179,25
+AppDelegate.swift,AppDelegate.swift,\Example\TableView\AppDelegate.swift,\Examples\macOS\macOS Example\AppDelegate.swift,18,21,8
+ViewController.swift,ViewController.swift,\Example\TableView\ViewController.swift,\Examples\iOS\ViewController.swift,169,135,27
+ViewController.swift,ViewController.swift,\Example\TableView\ViewController.swift,\Examples\macOS\macOS Example\ViewController.swift,169,179,25

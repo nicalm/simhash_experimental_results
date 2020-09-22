@@ -1,0 +1,3 @@
+2475-fmt,9197-domoticz
+compile.h,compile.h,\include\fmt\compile.h,\hardware\plugins\Include\compile.h,475,55,5
+main.cpp,main.cpp,\test\fuzzing\main.cpp,\tinyxpath\main.cpp,20,296,2

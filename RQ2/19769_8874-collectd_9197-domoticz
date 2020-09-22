@@ -1,0 +1,4 @@
+8874-collectd,9197-domoticz
+lua.c,lua.c,\src\lua.c,\lua\src\lua.c,424,393,72
+globals.h,globals.h,\src\daemon\globals.h,\hardware\eHouse\globals.h,20,223,6
+crc32.c,crc32.c,\src\utils\crc32\crc32.c,\zlib\crc32.c,63,285,1

@@ -1,0 +1,4 @@
+2116-libgit2,506-ghidra
+types.h,types.h,\include\git2\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,131,280,4
+types.h,types.h,\include\git2\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,131,161,4
+custom.c,custom.c,\tests\filter\custom.c,\GhidraDocs\GhidraClass\Advanced\Examples\custom.c,183,33,3

@@ -1,0 +1,11 @@
+1652-joplin,6347-librealsense
+app.js,app.js,\CliClient\app\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,357,480,61
+app.js,app.js,\ElectronClient\app\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,1144,480,99
+index.js,index.js,\ReactNativeClient\locales\index.js,\wrappers\nodejs\index.js,71,2989,0
+index.js,index.js,\ReactNativeClient\locales\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,71,379,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\wrappers\nodejs\index.js,352,2989,61
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,352,379,59
+index.js,index.js,\ElectronClient\app\locales\index.js,\wrappers\nodejs\index.js,71,2989,0
+index.js,index.js,\ElectronClient\app\locales\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,71,379,0
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\wrappers\nodejs\index.js,82,2989,10
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,82,379,9

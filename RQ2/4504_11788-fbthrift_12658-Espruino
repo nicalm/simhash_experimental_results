@@ -1,0 +1,10 @@
+11788-fbthrift,12658-Espruino
+common.h,common.h,\thrift\compiler\common.h,\libs\tensorflow\tensorflow\lite\kernels\internal\common.h,39,517,4
+ssl.h,ssl.h,\thrift\lib\py3\ssl.h,\libs\crypto\mbedtls\include\mbedtls\ssl.h,77,751,3
+types.h,types.h,\thrift\lib\py3\types.h,\targetlibs\nrf5x_12\external\micro-ecc\types.h,20,87,0
+types.h,types.h,\thrift\lib\py3\types.h,\targetlibs\nrf5x_15\external\micro-ecc\types.h,20,87,0
+types.h,types.h,\thrift\lib\py3\types.h,\libs\tensorflow\tensorflow\lite\kernels\internal\types.h,20,784,6
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\scripts\intelhex\__init__.py,44,781,11
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\libs\crypto\mbedtls\include\mbedtls\debug.h,58,72,2
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\scripts\intelhex\__init__.py,108,781,10
+test_helpers.h,test_helpers.h,\thrift\lib\cpp2\reflection\internal\test_helpers.h,\libs\tensorflow\tensorflow\lite\experimental\micro\test_helpers.h,39,55,3

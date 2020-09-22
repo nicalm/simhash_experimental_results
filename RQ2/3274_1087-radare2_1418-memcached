@@ -1,0 +1,7 @@
+1087-radare2,1418-memcached
+hash.c,hash.c,\libr\hash\hash.c,\hash.c,333,18,4
+cache.c,cache.c,\libr\io\cache.c,\cache.c,176,132,24
+cache.c,cache.c,\libr\util\cache.c,\cache.c,85,132,20
+thread.c,thread.c,\libr\util\thread.c,\thread.c,236,650,59
+util.c,util.c,\shlr\sdb\src\util.c,\util.c,327,193,47
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\util.h,256,20,3

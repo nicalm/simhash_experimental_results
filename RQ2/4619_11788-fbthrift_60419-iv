@@ -1,0 +1,8 @@
+11788-fbthrift,60419-iv
+compiler.cc,compiler.cc,\thrift\compiler\compiler.cc,\iv\lv5\breaker\compiler.cc,338,2342,54
+token.h,token.h,\thrift\compiler\mustache\token.h,\iv\token.h,63,310,9
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\iv\utils.h,19,109,5
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\iv\lv5\third_party\v8_dtoa\utils.h,19,63,4
+checks.h,checks.h,\thrift\lib\cpp\test\checks.h,\iv\lv5\third_party\v8_dtoa\checks.h,73,43,4
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\iv\debug.h,58,32,1
+macros.h,macros.h,\thrift\lib\rb\ext\macros.h,\third_party\google-benchmark\include\benchmark\macros.h,18,29,2

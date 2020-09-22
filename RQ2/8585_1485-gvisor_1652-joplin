@@ -1,0 +1,9 @@
+1485-gvisor,1652-joplin
+index.js,index.js,\benchmarks\workloads\node\index.js,\ReactNativeClient\locales\index.js,23,71,0
+index.js,index.js,\benchmarks\workloads\node\index.js,\Clipper\joplin-webclipper\content_scripts\index.js,23,352,2
+index.js,index.js,\benchmarks\workloads\node\index.js,\ElectronClient\app\locales\index.js,23,71,0
+index.js,index.js,\benchmarks\workloads\node\index.js,\Clipper\joplin-webclipper\popup\src\index.js,23,82,1
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\ReactNativeClient\locales\index.js,27,71,0
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\Clipper\joplin-webclipper\content_scripts\index.js,27,352,6
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\ElectronClient\app\locales\index.js,27,71,0
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\Clipper\joplin-webclipper\popup\src\index.js,27,82,5

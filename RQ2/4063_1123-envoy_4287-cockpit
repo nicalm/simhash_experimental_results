@@ -1,0 +1,9 @@
+1123-envoy,4287-cockpit
+server.h,server.h,\source\server\server.h,\src\tls\server.h,260,17,1
+server.h,server.h,\test\integration\server.h,\src\tls\server.h,302,17,1
+connection.h,connection.h,\include\envoy\network\connection.h,\src\tls\connection.h,90,15,1
+connection.h,connection.h,\include\envoy\ssl\connection.h,\src\tls\connection.h,33,15,1
+connection.h,connection.h,\source\server\config_validation\connection.h,\src\tls\connection.h,19,15,1
+server.h,server.h,\source\server\config_validation\server.h,\src\tls\server.h,157,17,1
+connection.h,connection.h,\test\mocks\network\connection.h,\src\tls\connection.h,154,15,1
+utils.h,utils.h,\source\extensions\filters\network\zookeeper_proxy\utils.h,\src\tls\utils.h,29,24,1

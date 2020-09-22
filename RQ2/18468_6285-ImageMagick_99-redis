@@ -1,0 +1,9 @@
+6285-ImageMagick,99-redis
+debug.c,debug.c,\coders\debug.c,\src\debug.c,144,1230,14
+log.c,log.c,\MagickCore\log.c,\deps\jemalloc\src\log.c,1233,57,10
+log.c,log.c,\MagickCore\log.c,\deps\jemalloc\test\unit\log.c,1233,150,17
+log.h,log.h,\MagickCore\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,65,60,4
+module.c,module.c,\MagickCore\module.c,\src\module.c,1030,2942,121
+mutex.h,mutex.h,\MagickCore\mutex.h,\deps\jemalloc\include\jemalloc\internal\mutex.h,76,189,17
+stream.h,stream.h,\MagickCore\stream.h,\src\stream.h,26,66,1
+timer.c,timer.c,\MagickCore\timer.c,\deps\jemalloc\test\src\timer.c,216,45,7

@@ -1,0 +1,10 @@
+11788-fbthrift,6285-ImageMagick
+token.h,token.h,\thrift\compiler\mustache\token.h,\MagickCore\token.h,63,23,1
+stream.h,stream.h,\thrift\lib\py3\stream.h,\MagickCore\stream.h,24,26,1
+Exception.h,Exception.h,\thrift\lib\cpp\concurrency\Exception.h,\Magick++\lib\Magick++\Exception.h,38,327,11
+Thread.h,Thread.h,\thrift\lib\cpp\concurrency\Thread.h,\Magick++\lib\Magick++\Thread.h,72,30,5
+meta.h,meta.h,\thrift\lib\cpp2\detail\meta.h,\coders\meta.h,37,28,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-enum-from-string\gen-cocoa\module.h,\MagickCore\module.h,16,50,0
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-reserved-properties-prefix\gen-cocoa\module.h,\MagickCore\module.h,26,50,1
+module.h,module.h,\thrift\compiler\test\fixtures\includes\gen-cocoa\module.h,\MagickCore\module.h,31,50,1
+module.h,module.h,\thrift\compiler\test\fixtures\req-opt\gen-cocoa\module.h,\MagickCore\module.h,36,50,1

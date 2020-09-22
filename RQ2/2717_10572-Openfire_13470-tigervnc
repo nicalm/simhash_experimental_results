@@ -1,0 +1,4 @@
+10572-Openfire,13470-tigervnc
+Channel.java,Channel.java,\xmppserver\src\main\java\org\jivesoftware\openfire\Channel.java,\java\com\jcraft\jsch\Channel.java,81,607,20
+Channel.java,Channel.java,\xmppserver\src\main\java\org\jivesoftware\openfire\mediaproxy\Channel.java,\java\com\jcraft\jsch\Channel.java,99,607,31
+Session.java,Session.java,\xmppserver\src\main\java\org\jivesoftware\openfire\session\Session.java,\java\com\jcraft\jsch\Session.java,43,2046,3

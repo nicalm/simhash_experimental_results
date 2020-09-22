@@ -1,0 +1,5 @@
+1769-ChakraCore,6444-yara
+common.h,common.h,\lib\wabt\src\common.h,\common.h,324,91,15
+error.h,error.h,\lib\wabt\src\error.h,\libyara\include\yara\error.h,32,97,4
+stream.h,stream.h,\lib\wabt\src\stream.h,\libyara\include\yara\stream.h,150,30,4
+utils.h,utils.h,\pal\src\include\pal\utils.h,\libyara\include\yara\utils.h,23,87,6

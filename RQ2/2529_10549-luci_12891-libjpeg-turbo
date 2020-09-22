@@ -1,0 +1,4 @@
+10549-luci,12891-libjpeg-turbo
+md5.c,md5.c,\libs\luci-lib-nixio\axTLS\crypto\md5.c,\md5\md5.c,184,162,15
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\java\doc\script.js,154,29,7
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\java\doc\script.js,204,29,7

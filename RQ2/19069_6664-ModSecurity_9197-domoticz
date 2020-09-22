@@ -1,0 +1,8 @@
+6664-ModSecurity,9197-domoticz
+lua.h,lua.h,\src\engine\lua.h,\lua\src\lua.h,87,222,4
+regex.h,regex.h,\src\utils\regex.h,\cereal\external\rapidjson\internal\regex.h,47,560,11
+status.h,status.h,\src\variables\status.h,\hardware\eHouse\status.h,15,1262,1
+status.h,status.h,\src\actions\data\status.h,\hardware\eHouse\status.h,26,1262,3
+serial.h,serial.h,\src\audit_log\writer\serial.h,\hardware\serial\serial.h,30,253,9
+writer.h,writer.h,\src\audit_log\writer\writer.h,\json\writer.h,45,129,6
+writer.h,writer.h,\src\audit_log\writer\writer.h,\cereal\external\rapidjson\writer.h,45,422,13

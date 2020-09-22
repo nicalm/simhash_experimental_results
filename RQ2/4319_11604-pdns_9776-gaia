@@ -1,0 +1,10 @@
+11604-pdns,9776-gaia
+conf.py,conf.py,\docs\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,82,38,8
+runtests.py,runtests.py,\regression-tests.api\runtests.py,\tests\python\gaia-ui-tests\gaiatest\runtests.py,138,62,3
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,48,38,13
+local.js,local.js,\pdns\dnsdistdist\html\local.js,\disabled_apps\calendar\js\provider\local.js,231,84,15
+local.js,local.js,\pdns\dnsdistdist\html\local.js,\disabled_apps\calendar\js\backend\provider\local.js,231,75,13
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\tests\python\gaia-ui-tests\docs\conf.py,52,38,10
+local.js,local.js,\pdns\recursordist\html\local.js,\disabled_apps\calendar\js\provider\local.js,199,84,18
+local.js,local.js,\pdns\recursordist\html\local.js,\disabled_apps\calendar\js\backend\provider\local.js,199,75,15
+underscore.js,underscore.js,\pdns\recursordist\html\js\underscore.js,\distros\spark\apps\customizer\components\js-beautify\test\underscore.js,1072,1018,852

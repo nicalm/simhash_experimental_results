@@ -1,0 +1,8 @@
+4139-outline-client,5091-LFLiveKit
+error.c,error.c,\third_party\mbedtls\library\error.c,\LFLiveKit\Vendor\pili-librtmp\error.c,594,17,5
+error.c,error.c,\third_party\tap-windows6\src\error.c,\LFLiveKit\Vendor\pili-librtmp\error.c,226,17,4
+error.h,error.h,\third_party\tap-windows6\src\error.h,\LFLiveKit\Vendor\pili-librtmp\error.h,51,37,1
+AppDelegate.swift,AppDelegate.swift,\apple\xcode\osx\OutlineLauncher\AppDelegate.swift,\samples\LFLiveKitSwiftDemo\LFLiveKitSwiftDemo\AppDelegate.swift,24,18,5
+log.c,log.c,\third_party\badvpn\ncd\modules\log.c,\LFLiveKit\Vendor\pili-librtmp\log.c,186,141,24
+error.h,error.h,\third_party\shadowsocks-libev\libcork\include\libcork\core\error.h,\LFLiveKit\Vendor\pili-librtmp\error.h,84,37,2
+error.c,error.c,\third_party\shadowsocks-libev\libcork\src\libcork\core\error.c,\LFLiveKit\Vendor\pili-librtmp\error.c,189,17,5

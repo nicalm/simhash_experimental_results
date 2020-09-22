@@ -1,0 +1,7 @@
+10081-irssi,8874-collectd
+common.h,common.h,\src\common.h,\src\utils\common\common.h,81,131,5
+network.c,network.c,\src\core\network.c,\src\network.c,414,2472,121
+network.c,network.c,\src\core\network.c,\src\libcollectdclient\network.c,414,312,65
+network.h,network.h,\src\core\network.h,\src\network.h,51,20,1
+network.h,network.h,\src\core\network.h,\src\libcollectdclient\collectd\network.h,51,32,3
+server.c,server.c,\src\fe-fuzz\server.c,\src\libcollectdclient\server.c,124,170,15

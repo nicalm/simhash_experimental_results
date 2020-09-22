@@ -1,0 +1,11 @@
+10572-Openfire,8399-appscale
+controls.js,controls.js,\xmppserver\src\main\webapp\js\controls.js,\AppDashboard\static\javascripts\controls.js,651,804,372
+dragdrop.js,dragdrop.js,\xmppserver\src\main\webapp\js\dragdrop.js,\AppDashboard\static\javascripts\dragdrop.js,588,786,511
+effects.js,effects.js,\xmppserver\src\main\webapp\js\effects.js,\AppDashboard\static\javascripts\effects.js,854,1022,617
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\AppDashboard\static\javascripts\prototype.js,5993,3567,1926
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\AppDashboard\static\js\calendar.js,1540,151,6
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\AppServer\lib\django-0.96\django\contrib\admin\media\js\calendar.js,1540,118,25
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\AppServer\lib\django-1.2\django\contrib\admin\media\js\calendar.js,1540,129,28
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\AppServer\lib\django-1.3\django\contrib\admin\media\js\calendar.js,1540,129,28
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\AppServer\lib\django-1.4\django\contrib\admin\static\admin\js\calendar.js,1540,129,28
+calendar.js,calendar.js,\xmppserver\src\main\webapp\js\jscalendar\calendar.js,\AppServer\lib\django-1.5\django\contrib\admin\static\admin\js\calendar.js,1540,129,28

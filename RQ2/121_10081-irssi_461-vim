@@ -1,0 +1,6 @@
+10081-irssi,461-vim
+session.c,session.c,\src\core\session.c,\src\session.c,273,1015,44
+utf8.h,utf8.h,\src\core\utf8.h,\src\libvterm\src\utf8.h,24,34,1
+term.c,term.c,\src\fe-text\term.c,\src\term.c,151,4828,35
+term.h,term.h,\src\fe-text\term.h,\src\term.h,69,177,1
+keyboard.c,keyboard.c,\src\fe-common\core\keyboard.c,\src\libvterm\src\keyboard.c,725,195,27

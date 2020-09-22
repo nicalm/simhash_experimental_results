@@ -1,0 +1,3 @@
+140-neovim,63225-sedutil
+log.h,log.h,\src\nvim\log.h,\Common\log.h,62,279,7
+os.h,os.h,\src\nvim\os\os.h,\windows\os.h,15,17,0

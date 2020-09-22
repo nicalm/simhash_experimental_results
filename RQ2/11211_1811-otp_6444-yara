@@ -1,0 +1,14 @@
+1811-otp,6444-yara
+error.h,error.h,\erts\emulator\beam\error.h,\libyara\include\yara\error.h,82,97,1
+hash.c,hash.c,\erts\emulator\beam\hash.c,\libyara\hash.c,215,259,41
+hash.c,hash.c,\erts\emulator\beam\hash.c,\libyara\modules\hash\hash.c,215,436,43
+hash.h,hash.h,\erts\emulator\beam\hash.h,\libyara\include\yara\hash.h,88,62,4
+time.c,time.c,\erts\emulator\beam\time.c,\libyara\modules\time\time.c,1078,36,10
+atoms.c,atoms.c,\lib\crypto\c_src\atoms.c,\libyara\atoms.c,223,985,6
+atoms.h,atoms.h,\lib\crypto\c_src\atoms.h,\libyara\include\yara\atoms.h,107,87,1
+common.h,common.h,\lib\crypto\c_src\common.h,\common.h,24,91,2
+hash.c,hash.c,\lib\crypto\c_src\hash.c,\libyara\hash.c,441,259,26
+hash.c,hash.c,\lib\crypto\c_src\hash.c,\libyara\modules\hash\hash.c,441,436,30
+math.c,math.c,\lib\crypto\c_src\math.c,\libyara\modules\math\math.c,25,449,4
+hash.h,hash.h,\lib\erl_interface\src\registry\hash.h,\libyara\include\yara\hash.h,21,62,1
+re.c,re.c,\erts\lib_src\yielding_c_fun\lib\tiny_regex_c\re.c,\libyara\re.c,350,1625,142

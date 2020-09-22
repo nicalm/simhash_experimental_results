@@ -1,0 +1,13 @@
+10115-mbedtls,2912-postgres
+base64.c,base64.c,\library\base64.c,\src\common\base64.c,199,144,37
+error.c,error.c,\library\error.c,\src\interfaces\ecpg\ecpglib\error.c,771,235,13
+md.c,md.c,\library\md.c,\src\backend\storage\smgr\md.c,360,744,64
+md5.c,md5.c,\library\md5.c,\contrib\pgcrypto\md5.c,358,318,28
+md5.c,md5.c,\library\md5.c,\src\common\md5.c,358,231,24
+oid.c,oid.c,\library\oid.c,\src\backend\utils\adt\oid.c,627,308,43
+sha1.c,sha1.c,\library\sha1.c,\contrib\pgcrypto\sha1.c,414,264,28
+version.c,version.c,\library\version.c,\src\bin\pg_upgrade\version.c,23,308,6
+md.h,md.h,\include\mbedtls\md.h,\src\include\storage\md.h,83,32,1
+md5.h,md5.h,\include\mbedtls\md5.h,\contrib\pgcrypto\md5.h,73,38,2
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\contrib\pgcrypto\sha1.h,74,31,2
+strerror.c,strerror.c,\programs\util\strerror.c,\src\port\strerror.c,61,250,19

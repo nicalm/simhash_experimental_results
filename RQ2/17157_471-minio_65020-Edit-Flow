@@ -1,0 +1,7 @@
+471-minio,65020-Edit-Flow
+webpack.config.js,webpack.config.js,\browser\webpack.config.js,\webpack.config.js,104,107,21
+index.js,index.js,\browser\app\index.js,\tests\e2e\utils\index.js,22,32,1
+index.js,index.js,\browser\app\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,22,78,0
+index.js,index.js,\browser\app\index.js,\modules\calendar\lib\react\calendar-filters\index.js,22,152,0
+index.js,index.js,\browser\app\index.js,\modules\calendar\lib\react\calendar-header\index.js,22,35,0
+index.js,index.js,\browser\app\index.js,\modules\calendar\lib\react\combobox\index.js,22,166,0

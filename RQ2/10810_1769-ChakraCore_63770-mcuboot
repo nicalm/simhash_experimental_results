@@ -1,0 +1,7 @@
+1769-ChakraCore,63770-mcuboot
+md.h,md.h,\lib\Backend\amd64\md.h,\ext\mbedtls-asn1\include\mbedtls\md.h,19,83,0
+md.h,md.h,\lib\Backend\arm\md.h,\ext\mbedtls-asn1\include\mbedtls\md.h,17,83,2
+md.h,md.h,\lib\Backend\arm64\md.h,\ext\mbedtls-asn1\include\mbedtls\md.h,17,83,2
+md.h,md.h,\lib\Backend\i386\md.h,\ext\mbedtls-asn1\include\mbedtls\md.h,19,83,0
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,247,24,4
+utils.h,utils.h,\pal\src\include\pal\utils.h,\ext\tinycrypt\lib\include\tinycrypt\utils.h,23,16,6

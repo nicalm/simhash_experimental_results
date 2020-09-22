@@ -1,0 +1,7 @@
+1769-ChakraCore,1916-robomongo
+configure.py,configure.py,\tools\icu\configure.py,\src\third-party\qscintilla\sources\Python\configure.py,149,927,4
+Event.h,Event.h,\lib\Common\Common\Event.h,\src\robomongo\core\Event.h,35,38,8
+file.cpp,file.cpp,\pal\src\cruntime\file.cpp,\trash\src\robomongo\shell\util\file.cpp,584,240,48
+common.cpp,common.cpp,\pal\src\map\common.cpp,\src\robomongo\utils\common.cpp,35,26,4
+utils.cpp,utils.cpp,\pal\src\misc\utils.cpp,\trash\src\robomongo\shell\scripting\utils.cpp,174,34,5
+misc.h,misc.h,\pal\src\include\pal\misc.h,\src\third-party\libssh2\sources\src\misc.h,21,40,3

@@ -1,0 +1,15 @@
+10841-gimp,2116-libgit2
+errors.c,errors.c,\app\errors.c,\src\errors.c,347,167,50
+errors.c,errors.c,\app\errors.c,\tests\core\errors.c,347,160,21
+errors.h,errors.h,\app\errors.h,\src\errors.h,15,34,2
+errors.h,errors.h,\app\errors.h,\include\git2\errors.h,15,82,1
+main.c,main.c,\app\main.c,\tests\main.c,631,29,6
+tests.c,tests.c,\app\tests.c,\tests\index\tests.c,131,786,24
+general.c,general.c,\plug-ins\gimpressionist\general.c,\examples\general.c,224,310,16
+print.c,print.c,\plug-ins\print\print.c,\tests\patch\print.c,407,144,54
+print.h,print.h,\plug-ins\print\print.h,\tests\clar\print.h,33,53,3
+global.h,global.h,\plug-ins\selection-to-path\global.h,\src\global.h,83,20,1
+types.h,types.h,\plug-ins\selection-to-path\types.h,\include\git2\types.h,92,131,4
+vector.c,vector.c,\plug-ins\selection-to-path\vector.c,\src\vector.c,151,305,39
+vector.c,vector.c,\plug-ins\selection-to-path\vector.c,\tests\core\vector.c,151,325,37
+vector.h,vector.h,\plug-ins\selection-to-path\vector.h,\src\vector.h,42,78,2

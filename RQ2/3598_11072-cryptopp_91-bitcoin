@@ -1,0 +1,11 @@
+11072-cryptopp,91-bitcoin
+bench.h,bench.h,\bench.h,\src\bench\bench.h,58,86,2
+bench.h,bench.h,\bench.h,\src\secp256k1\src\bench.h,58,70,1
+hex.cpp,hex.cpp,\hex.cpp,\src\test\fuzz\hex.cpp,45,15,3
+integer.cpp,integer.cpp,\integer.cpp,\src\test\fuzz\integer.cpp,3988,112,7
+misc.cpp,misc.cpp,\misc.cpp,\src\rpc\misc.cpp,233,486,50
+poly1305.cpp,poly1305.cpp,\poly1305.cpp,\src\bench\poly1305.cpp,291,28,8
+poly1305.cpp,poly1305.cpp,\poly1305.cpp,\src\crypto\poly1305.cpp,291,105,1
+pubkey.cpp,pubkey.cpp,\pubkey.cpp,\src\pubkey.cpp,137,252,15
+pubkey.h,pubkey.h,\pubkey.h,\src\pubkey.h,1325,153,48
+siphash.h,siphash.h,\siphash.h,\src\crypto\siphash.h,201,19,5

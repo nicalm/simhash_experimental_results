@@ -1,0 +1,4 @@
+11788-fbthrift,4287-cockpit
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\src\tls\utils.h,19,24,1
+server.h,server.h,\thrift\lib\py3\server.h,\src\tls\server.h,37,17,1
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\src\tls\server.h,58,17,1

@@ -1,0 +1,8 @@
+1615-rufus,211-cpython
+parser.c,parser.c,\src\parser.c,\Parser\parser.c,1126,336,71
+resource.h,resource.h,\src\resource.h,\PC\bdist_wininst\resource.h,543,23,0
+fileio.c,fileio.c,\src\ext2fs\fileio.c,\Modules\_io\fileio.c,479,910,70
+getopt.c,getopt.c,\src\getopt\getopt.c,\Python\getopt.c,653,113,32
+util.h,util.h,\src\libcdio\cdio\util.h,\Modules\_sqlite\util.h,79,16,3
+util.c,util.c,\src\libcdio\driver\util.c,\Modules\_sqlite\util.c,124,93,14
+cache.c,cache.c,\src\syslinux\libfat\cache.c,\Modules\_sqlite\cache.c,37,273,10

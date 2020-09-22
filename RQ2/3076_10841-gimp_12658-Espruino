@@ -1,0 +1,17 @@
+10841-gimp,12658-Espruino
+main.c,main.c,\app\main.c,\targets\emscripten\main.c,631,50,7
+main.c,main.c,\app\main.c,\targets\esp32\main.c,631,92,14
+main.c,main.c,\app\main.c,\targets\linux\main.c,631,335,40
+main.c,main.c,\app\main.c,\targets\nrf5x\main.c,631,16,4
+main.c,main.c,\app\main.c,\targets\nrf5x_dfu\main.c,631,191,41
+main.c,main.c,\app\main.c,\targets\stm32\main.c,631,38,11
+main.c,main.c,\app\main.c,\targets\stm32_boot\main.c,631,236,33
+main.c,main.c,\app\main.c,\targets\stm32_ll\main.c,631,23,5
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\targetlibs\stm32f1\lib\misc.c,169,62,21
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\targetlibs\stm32f2\lib\misc.c,169,62,21
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\targetlibs\stm32f4\lib\misc.c,169,62,21
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\targetlibs\stm32l1\lib\misc.c,169,62,21
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\targets\stm32_boot\utils.c,303,188,26
+types.h,types.h,\plug-ins\selection-to-path\types.h,\targetlibs\nrf5x_12\external\micro-ecc\types.h,92,87,4
+types.h,types.h,\plug-ins\selection-to-path\types.h,\targetlibs\nrf5x_15\external\micro-ecc\types.h,92,87,4
+types.h,types.h,\plug-ins\selection-to-path\types.h,\libs\tensorflow\tensorflow\lite\kernels\internal\types.h,92,784,4

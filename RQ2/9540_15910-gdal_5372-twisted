@@ -1,0 +1,5 @@
+15910-gdal,5372-twisted
+conf.py,conf.py,\gdal\doc\source\conf.py,\docs\conf.py,323,57,12
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\twisted\logger\__init__.py,40,45,0
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\twisted\python\__init__.py,40,15,0
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\src\twisted\_threads\__init__.py,40,15,0

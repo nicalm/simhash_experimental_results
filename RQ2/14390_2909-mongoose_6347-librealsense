@@ -1,0 +1,4 @@
+2909-mongoose,6347-librealsense
+sqlite3.c,sqlite3.c,\examples\api_server\sqlite3.c,\third-party\sqlite\sqlite3.c,84126,120405,70373
+sqlite3.h,sqlite3.h,\examples\api_server\sqlite3.h,\third-party\sqlite\sqlite3.h,953,1408,730
+platform.h,platform.h,\src\common\platform.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,118,37,8

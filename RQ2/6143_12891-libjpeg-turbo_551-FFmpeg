@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,551-FFmpeg
+jfdctfst.c,jfdctfst.c,\jfdctfst.c,\libavcodec\jfdctfst.c,104,157,87
+md5.c,md5.c,\md5\md5.c,\libavutil\md5.c,162,159,19
+md5.c,md5.c,\md5\md5.c,\libavutil\tests\md5.c,162,31,4
+md5.h,md5.h,\md5\md5.h,\libavutil\md5.h,20,22,2

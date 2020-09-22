@@ -1,0 +1,6 @@
+1366-gradle,8848-lwjgl3
+Configuration.java,Configuration.java,\subprojects\core-api\src\main\java\org\gradle\api\artifacts\Configuration.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Configuration.java,76,104,4
+Configuration.java,Configuration.java,\subprojects\core-api\src\main\java\org\gradle\api\artifacts\Configuration.java,\modules\lwjgl\driftfx\src\main\java\org\eclipse\fx\drift\internal\Configuration.java,76,41,3
+Configuration.java,Configuration.java,\subprojects\dependency-management\src\main\java\org\gradle\internal\component\external\descriptor\Configuration.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Configuration.java,47,104,8
+Configuration.java,Configuration.java,\subprojects\dependency-management\src\main\java\org\gradle\internal\component\external\descriptor\Configuration.java,\modules\lwjgl\driftfx\src\main\java\org\eclipse\fx\drift\internal\Configuration.java,47,41,11
+Library.java,Library.java,\subprojects\ide\src\main\java\org\gradle\plugins\ide\eclipse\model\Library.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Library.java,20,404,5

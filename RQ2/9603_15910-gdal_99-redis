@@ -1,0 +1,6 @@
+15910-gdal,99-redis
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\deps\jemalloc\include\jemalloc\internal\hash.h,91,228,17
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\src\util.h,411,24,2
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,411,42,12
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\src\config.h,54,149,10
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\src\debug.c,74,1230,22

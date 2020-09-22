@@ -1,0 +1,4 @@
+18490-libpcap,86-netdata
+socket.h,socket.h,\pcap\socket.h,\libnetdata\socket\socket.h,24,156,6
+daemon.c,daemon.c,\rpcapd\daemon.c,\daemon\daemon.c,1943,364,102
+log.c,log.c,\rpcapd\log.c,\libnetdata\log\log.c,150,565,33

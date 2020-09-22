@@ -1,0 +1,15 @@
+4287-cockpit,4701-sonarqube
+webpack.config.js,webpack.config.js,\webpack.config.js,\server\sonar-web\config\webpack.config.js,333,189,41
+index.js,index.js,\eslint-plugin-cockpit\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,15,79,4
+index.js,index.js,\eslint-plugin-cockpit\index.js,\server\sonar-web\config\documentation-loader\index.js,15,28,2
+index.js,index.js,\pkg\machines\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,50,79,7
+index.js,index.js,\pkg\machines\index.js,\server\sonar-web\config\documentation-loader\index.js,50,28,2
+utils.js,utils.js,\pkg\networkmanager\utils.js,\server\sonar-web\config\utils.js,193,58,7
+index.js,index.js,\pkg\playground\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,28,79,4
+index.js,index.js,\pkg\playground\index.js,\server\sonar-web\config\documentation-loader\index.js,28,28,3
+index.js,index.js,\pkg\shell\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,32,79,0
+index.js,index.js,\pkg\shell\index.js,\server\sonar-web\config\documentation-loader\index.js,32,28,1
+index.js,index.js,\pkg\sosreport\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,136,79,16
+index.js,index.js,\pkg\sosreport\index.js,\server\sonar-web\config\documentation-loader\index.js,136,28,2
+utils.js,utils.js,\pkg\storaged\utils.js,\server\sonar-web\config\utils.js,577,58,11
+utils.js,utils.js,\pkg\machines\components\networks\utils.js,\server\sonar-web\config\utils.js,110,58,7

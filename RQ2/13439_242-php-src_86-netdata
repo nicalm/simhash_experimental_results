@@ -1,0 +1,9 @@
+242-php-src,86-netdata
+main.c,main.c,\main\main.c,\daemon\main.c,2098,995,165
+registry.c,registry.c,\win32\registry.c,\registry\registry.c,243,286,31
+json.c,json.c,\ext\json\json.c,\backends\json\json.c,259,121,10
+json.c,json.c,\ext\json\json.c,\exporting\json\json.c,259,134,15
+json.c,json.c,\ext\json\json.c,\libnetdata\json\json.c,259,345,42
+json.c,json.c,\ext\json\json.c,\web\api\formatters\json\json.c,259,185,25
+url.c,url.c,\ext\standard\url.c,\libnetdata\url\url.c,541,226,54
+buffer.c,buffer.c,\ext\fileinfo\libmagic\buffer.c,\libnetdata\buffer\buffer.c,58,280,11

@@ -1,0 +1,3 @@
+618-jq,9975-hexchat
+util.c,util.c,\src\util.c,\src\common\util.c,380,1287,84
+util.h,util.h,\src\util.h,\src\common\util.h,42,47,4

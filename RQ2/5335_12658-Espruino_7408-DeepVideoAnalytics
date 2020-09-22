@@ -1,0 +1,4 @@
+12658-Espruino,7408-DeepVideoAnalytics
+test.py,test.py,\scripts\intelhex\test.py,\repos\tf_ctpn_cpu\lib\fast_rcnn\test.py,1109,42,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\deploy\compose\__init__.py,781,161,17
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\deploy\kube\__init__.py,781,256,10

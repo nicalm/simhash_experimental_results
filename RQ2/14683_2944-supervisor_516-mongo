@@ -1,0 +1,14 @@
+2944-supervisor,516-mongo
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\bench\workgen\setup.py,72,29,1
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\lang\python\setup.py,72,19,1
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\test\3rdparty\concurrencytest-0.1.2\setup.py,72,27,4
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\test\3rdparty\discover-0.4.0\setup.py,72,56,10
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\test\3rdparty\extras-0.0.3\setup.py,72,29,1
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\test\3rdparty\python-subunit-0.0.16\setup.py,72,54,4
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\test\3rdparty\testscenarios-0.4\setup.py,72,27,3
+setup.py,setup.py,\setup.py,\src\third_party\wiredtiger\test\3rdparty\testtools-0.9.34\setup.py,72,65,7
+conf.py,conf.py,\docs\conf.py,\src\third_party\wiredtiger\test\3rdparty\testtools-0.9.34\doc\conf.py,34,18,7
+compat.py,compat.py,\supervisor\compat.py,\src\third_party\wiredtiger\test\3rdparty\testtools-0.9.34\testtools\compat.py,122,255,18
+loggers.py,loggers.py,\supervisor\loggers.py,\buildscripts\resmokelib\logging\loggers.py,297,193,5
+process.py,process.py,\supervisor\process.py,\buildscripts\resmokelib\core\process.py,709,130,12
+base.py,base.py,\supervisor\tests\base.py,\buildscripts\linter\base.py,1010,21,3

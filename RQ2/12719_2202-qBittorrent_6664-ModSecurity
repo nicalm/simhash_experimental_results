@@ -1,0 +1,4 @@
+2202-qBittorrent,6664-ModSecurity
+global.h,global.h,\src\base\global.h,\src\variables\global.h,38,85,5
+session.h,session.h,\src\base\bittorrent\session.h,\src\variables\session.h,612,84,10
+string.h,string.h,\src\base\utils\string.h,\src\utils\string.h,35,54,4

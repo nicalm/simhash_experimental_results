@@ -1,0 +1,3 @@
+12310-weechat,6444-yara
+exec.c,exec.c,\src\plugins\exec\exec.c,\libyara\exec.c,590,1237,127
+exec.h,exec.h,\src\plugins\exec\exec.h,\libyara\include\yara\exec.h,55,136,1

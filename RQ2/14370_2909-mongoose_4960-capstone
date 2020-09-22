@@ -1,0 +1,13 @@
+2909-mongoose,4960-capstone
+main.c,main.c,\examples\CC3200\main.c,\suite\cstest\src\main.c,249,300,43
+main.c,main.c,\examples\NXP_K64\main.c,\suite\cstest\src\main.c,131,300,17
+main.c,main.c,\examples\STM32F4_CC3100\main.c,\suite\cstest\src\main.c,124,300,31
+platform.h,platform.h,\src\common\platform.h,\include\platform.h,118,80,11
+platform.h,platform.h,\src\common\platform.h,\include\capstone\platform.h,118,88,14
+main.c,main.c,\examples\ESP32_IDF\main\main.c,\suite\cstest\src\main.c,75,300,13
+main.c,main.c,\examples\nRF51\http\main.c,\suite\cstest\src\main.c,64,300,14
+main.c,main.c,\examples\nRF52\http\main.c,\suite\cstest\src\main.c,66,300,15
+main.c,main.c,\examples\CC3200\ccs\MG_hello\main.c,\suite\cstest\src\main.c,192,300,35
+main.c,main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,\suite\cstest\src\main.c,142,300,25
+main.c,main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,\suite\cstest\src\main.c,129,300,24
+main.c,main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,\suite\cstest\src\main.c,147,300,23

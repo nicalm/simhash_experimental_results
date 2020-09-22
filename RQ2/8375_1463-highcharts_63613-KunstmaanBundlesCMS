@@ -1,0 +1,7 @@
+1463-highcharts,63613-KunstmaanBundlesCMS
+scripts.js,scripts.js,\tools\gulptasks\scripts.js,\groundcontrol\tasks\scripts.js,118,17,3
+default.js,default.js,\tools\gulptasks\unsorted\default.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\pastefromword\filter\default.js,112,29,0
+options.js,options.js,\js\modules\accessibility\options\options.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\scayt\dialogs\options.js,61,17,0
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,325,77,3
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,325,15,1
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,325,27,2

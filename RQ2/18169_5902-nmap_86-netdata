@@ -1,0 +1,4 @@
+5902-nmap,86-netdata
+socket.h,socket.h,\libpcap\pcap\socket.h,\libnetdata\socket\socket.h,24,156,6
+os.h,os.h,\libdnet-stripped\include\dnet\os.h,\libnetdata\os.h,99,30,3
+socket.h,socket.h,\libssh2\os400\include\sys\socket.h,\libnetdata\socket\socket.h,24,156,6

@@ -1,0 +1,4 @@
+12758-znc,548-ruby
+defines.h,defines.h,\include\znc\defines.h,\include\ruby\defines.h,15,449,2
+version.h,version.h,\include\znc\version.h,\version.h,43,69,13
+version.h,version.h,\include\znc\version.h,\include\ruby\version.h,43,35,6

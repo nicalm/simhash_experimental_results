@@ -1,0 +1,10 @@
+13956-dolibarr,67679-k8s-multicluster-ingress
+jquery.treeview.edit.js,jquery.treeview.edit.js,\htdocs\includes\jquery\plugins\jquerytreeview\jquery.treeview.edit.js,\vendor\golang.org\x\tools\godoc\static\jquery.treeview.edit.js,36,36,36
+jquery.treeview.js,jquery.treeview.js,\htdocs\includes\jquery\plugins\jquerytreeview\jquery.treeview.js,\vendor\golang.org\x\tools\godoc\static\jquery.treeview.js,190,190,190
+swagger-ui.js,swagger-ui.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\swagger-ui.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\swagger-ui.js,18368,1371,854
+handlebars-1.0.0.js,handlebars-1.0.0.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\handlebars-1.0.0.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,1719,1719,1719
+marked.js,marked.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\marked.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\marked.js,940,940,940
+shred.bundle.js,shred.bundle.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\shred.bundle.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\shred.bundle.js,2030,2026,2024
+swagger-oauth.js,swagger-oauth.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\swagger-oauth.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\swagger-oauth.js,296,239,221
+swagger.js,swagger.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\swagger.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\swagger.js,1233,1271,1200
+content.js,content.js,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\shred\content.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\shred\content.js,121,121,121

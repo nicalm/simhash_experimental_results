@@ -1,0 +1,8 @@
+6285-ImageMagick,9197-domoticz
+meta.h,meta.h,\coders\meta.h,\cereal\external\rapidjson\internal\meta.h,28,104,3
+compress.c,compress.c,\MagickCore\compress.c,\zlib\compress.c,939,47,9
+stream.h,stream.h,\MagickCore\stream.h,\cereal\external\rapidjson\stream.h,26,67,2
+token.h,token.h,\MagickCore\token.h,\hardware\plugins\Include\token.h,23,78,5
+Color.h,Color.h,\Magick++\lib\Magick++\Color.h,\hardware\openzwave\command_classes\Color.h,187,36,8
+Options.h,Options.h,\Magick++\lib\Magick++\Options.h,\hardware\openzwave\Options.h,158,62,9
+Thread.h,Thread.h,\Magick++\lib\Magick++\Thread.h,\hardware\openzwave\platform\Thread.h,30,26,7

@@ -1,0 +1,10 @@
+11788-fbthrift,4984-jerryscript
+common.h,common.h,\thrift\compiler\common.h,\jerry-core\parser\js\common.h,39,78,2
+setup.py,setup.py,\thrift\lib\py\setup.py,\targets\curie_bsp\setup.py,54,129,1
+setup.py,setup.py,\thrift\lib\py3\setup.py,\targets\curie_bsp\setup.py,29,129,1
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\targets\particle\source\main.cpp,47,85,2
+handler.h,handler.h,\thrift\lib\py3\test\client_event_handlers\handler.h,\jerry-ext\include\jerryscript-ext\handler.h,19,60,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-enum-from-string\gen-cocoa\module.h,\jerry-ext\include\jerryscript-ext\module.h,16,74,0
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-reserved-properties-prefix\gen-cocoa\module.h,\jerry-ext\include\jerryscript-ext\module.h,26,74,1
+module.h,module.h,\thrift\compiler\test\fixtures\includes\gen-cocoa\module.h,\jerry-ext\include\jerryscript-ext\module.h,31,74,1
+module.h,module.h,\thrift\compiler\test\fixtures\req-opt\gen-cocoa\module.h,\jerry-ext\include\jerryscript-ext\module.h,36,74,1

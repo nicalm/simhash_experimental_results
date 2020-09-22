@@ -1,0 +1,8 @@
+3709-Signal-Desktop,65020-Edit-Flow
+notifications.js,notifications.js,\js\notifications.js,\modules\notifications\lib\notifications.js,156,62,11
+settings.js,settings.js,\js\modules\settings.js,\modules\settings\lib\settings.js,76,71,9
+index.js,index.js,\js\modules\migrations\18\index.js,\tests\e2e\utils\index.js,15,32,1
+index.js,index.js,\js\modules\migrations\18\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,15,78,2
+index.js,index.js,\js\modules\migrations\18\index.js,\modules\calendar\lib\react\calendar-filters\index.js,15,152,4
+index.js,index.js,\js\modules\migrations\18\index.js,\modules\calendar\lib\react\calendar-header\index.js,15,35,3
+index.js,index.js,\js\modules\migrations\18\index.js,\modules\calendar\lib\react\combobox\index.js,15,166,3

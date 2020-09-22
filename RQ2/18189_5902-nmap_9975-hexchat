@@ -1,0 +1,5 @@
+5902-nmap,9975-hexchat
+lua.c,lua.c,\liblua\lua.c,\plugins\lua\lua.c,411,1572,86
+util.c,util.c,\ncat\util.c,\src\common\util.c,502,1287,153
+util.h,util.h,\ncat\util.h,\src\common\util.h,72,47,3
+example.c,example.c,\libz\test\example.c,\src\common\dbus\example.c,442,158,21

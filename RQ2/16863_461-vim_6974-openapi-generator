@@ -1,0 +1,3 @@
+461-vim,6974-openapi-generator
+list.c,list.c,\src\list.c,\samples\client\petstore\c\src\list.c,1649,132,32
+tag.c,tag.c,\src\tag.c,\samples\client\petstore\c\model\tag.c,3207,67,18

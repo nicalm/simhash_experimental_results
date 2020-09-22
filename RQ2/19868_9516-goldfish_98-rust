@@ -1,0 +1,3 @@
+9516-goldfish,98-rust
+.eslintrc.js,.eslintrc.js,\frontend\.eslintrc.js,\src\librustdoc\html\static\.eslintrc.js,16,21,4
+test.py,test.py,\vendor\github.com\ugorji\go\codec\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,98,43,1

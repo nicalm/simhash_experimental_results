@@ -1,0 +1,10 @@
+11788-fbthrift,9975-hexchat
+util.h,util.h,\thrift\compiler\util.h,\src\common\util.h,91,47,2
+server.h,server.h,\thrift\lib\py3\server.h,\src\common\server.h,37,18,0
+ssl.h,ssl.h,\thrift\lib\py3\ssl.h,\src\common\ssl.h,77,40,1
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\common\util.h,25,47,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\common\util.h,17,47,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\common\util.h,29,47,0
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\src\htm\Program.cs,35,18,7
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\src\common\server.h,58,18,0
+AssemblyInfo.cs,AssemblyInfo.cs,\thrift\test\csharp\ThriftTest\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,15,18,10

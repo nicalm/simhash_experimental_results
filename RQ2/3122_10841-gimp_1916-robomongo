@@ -1,0 +1,3 @@
+10841-gimp,1916-robomongo
+session.c,session.c,\app\gui\session.c,\src\third-party\libssh2\sources\src\session.c,334,1245,78
+misc.c,misc.c,\plug-ins\file-dds\misc.c,\src\third-party\libssh2\sources\src\misc.c,169,445,23

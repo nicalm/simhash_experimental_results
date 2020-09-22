@@ -1,0 +1,7 @@
+15910-gdal,6444-yara
+mem.c,mem.c,\gdal\alg\internal_libqhull\mem.c,\libyara\mem.c,328,93,22
+mem.h,mem.h,\gdal\alg\internal_libqhull\mem.h,\libyara\include\yara\mem.h,93,30,4
+conf.py,conf.py,\gdal\doc\source\conf.py,\docs\conf.py,323,35,10
+scan.c,scan.c,\gdal\frmts\grib\degrib\degrib\scan.c,\libyara\scan.c,127,673,33
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\libyara\include\yara\hash.h,91,62,1
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\tests\util.h,411,199,2

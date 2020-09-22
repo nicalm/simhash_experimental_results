@@ -1,0 +1,10 @@
+211-cpython,6444-yara
+conf.py,conf.py,\Doc\conf.py,\docs\conf.py,104,35,6
+grammar.h,grammar.h,\Include\grammar.h,\libyara\grammar.h,49,139,3
+object.h,object.h,\Include\object.h,\libyara\include\yara\object.h,332,116,5
+object.c,object.c,\Objects\object.c,\libyara\object.c,1792,921,189
+parser.c,parser.c,\Parser\parser.c,\libyara\parser.c,336,939,64
+parser.h,parser.h,\Parser\parser.h,\libyara\include\yara\parser.h,37,79,1
+object.h,object.h,\Include\cpython\object.h,\libyara\include\yara\object.h,278,116,5
+util.c,util.c,\Modules\_sqlite\util.c,\tests\util.c,93,285,18
+util.h,util.h,\Modules\_sqlite\util.h,\tests\util.h,16,199,1

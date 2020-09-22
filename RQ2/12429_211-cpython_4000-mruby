@@ -1,0 +1,10 @@
+211-cpython,4000-mruby
+compile.h,compile.h,\Include\compile.h,\include\mruby\compile.h,78,148,4
+node.h,node.h,\Include\node.h,\mrbgems\mruby-compiler\core\node.h,36,95,1
+object.h,object.h,\Include\object.h,\include\mruby\object.h,332,29,1
+opcode.h,opcode.h,\Include\opcode.h,\include\mruby\opcode.h,132,50,1
+object.c,object.c,\Objects\object.c,\src\object.c,1792,394,109
+object.c,object.c,\Objects\object.c,\mrbgems\mruby-object-ext\src\object.c,1792,72,25
+object.h,object.h,\Include\cpython\object.h,\include\mruby\object.h,278,29,1
+io.c,io.c,\Modules\_decimal\libmpdec\io.c,\mrbgems\mruby-io\src\io.c,1119,1155,229
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,23,28,3

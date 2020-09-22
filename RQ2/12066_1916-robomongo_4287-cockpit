@@ -1,0 +1,4 @@
+1916-robomongo,4287-cockpit
+server.c,server.c,\src\robomongo\ssh\server.c,\src\tls\server.c,44,228,6
+ssh.c,ssh.c,\src\robomongo\ssh\ssh.c,\src\ssh\ssh.c,533,65,7
+session.c,session.c,\src\third-party\libssh2\sources\src\session.c,\src\ws\session.c,1245,572,103

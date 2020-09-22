@@ -1,0 +1,7 @@
+24-node,2475-fmt
+util.cc,util.cc,\src\util.cc,\test\util.cc,202,38,10
+util.h,util.h,\src\util.h,\test\util.h,520,55,14
+gtest.h,gtest.h,\test\cctest\gtest\gtest.h,\test\gtest\gtest.h,8424,13412,6558
+util.h,util.h,\deps\icu-small\source\common\util.h,\test\util.h,51,55,5
+conf.py,conf.py,\deps\uv\docs\src\conf.py,\doc\conf.py,59,37,11
+format.h,format.h,\deps\icu-small\source\i18n\unicode\format.h,\include\fmt\format.h,55,2673,8

@@ -1,0 +1,13 @@
+4701-sonarqube,9516-goldfish
+utils.js,utils.js,\server\sonar-web\config\utils.js,\frontend\build\utils.js,58,55,5
+build.js,build.js,\server\sonar-web\scripts\build.js,\frontend\build\build.js,27,35,0
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\frontend\config\index.js,79,31,4
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\frontend\client\router\index.js,79,33,5
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\frontend\client\store\index.js,79,24,0
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\frontend\client\store\modules\menu\index.js,79,49,6
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,79,58,7
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\frontend\config\index.js,28,31,1
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\frontend\client\router\index.js,28,33,1
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\frontend\client\store\index.js,28,24,0
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\frontend\client\store\modules\menu\index.js,28,49,1
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,28,58,1

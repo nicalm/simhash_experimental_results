@@ -1,0 +1,11 @@
+1615-rufus,6347-librealsense
+icon.c,icon.c,\src\icon.c,\third-party\glfw\tests\icon.c,135,99,19
+platform.h,platform.h,\src\bled\platform.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,498,37,11
+config.h,config.h,\src\ext2fs\config.h,\src\pipeline\config.h,182,54,0
+getopt.c,getopt.c,\src\getopt\getopt.c,\third-party\glfw\deps\getopt.c,653,109,25
+getopt.h,getopt.h,\src\getopt\getopt.h,\third-party\glfw\deps\getopt.h,60,23,11
+config.h,config.h,\src\libcdio\config.h,\src\pipeline\config.h,53,54,0
+device.h,device.h,\src\libcdio\cdio\device.h,\src\device.h,225,75,2
+types.h,types.h,\src\libcdio\cdio\types.h,\src\types.h,181,1521,20
+types.h,types.h,\src\libcdio\cdio\types.h,\wrappers\matlab\types.h,181,209,3
+types.h,types.h,\src\libcdio\cdio\types.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\types.h,181,15,4

@@ -1,0 +1,6 @@
+1541-h2o,222-prometheus
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\tsdb\wal\reader.go,103,137,27
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\googleapis\gnostic\compiler\reader.go,103,137,24
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\go.mongodb.org\mongo-driver\bson\bsonrw\reader.go,103,39,6
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\mailru\easyjson\jwriter\writer.go,84,300,23
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\go.mongodb.org\mongo-driver\bson\bsonrw\writer.go,84,65,11

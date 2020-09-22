@@ -1,0 +1,5 @@
+15910-gdal,753-fish-shell
+io.h,io.h,\gdal\alg\internal_libqhull\io.h,\src\io.h,92,260,2
+conf.py,conf.py,\gdal\doc\source\conf.py,\sphinx_doc_src\conf.py,323,79,9
+io.cpp,io.cpp,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.cpp,\src\io.cpp,737,241,55
+io.h,io.h,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.h,\src\io.h,104,260,12

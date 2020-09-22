@@ -1,0 +1,6 @@
+18309-tor,461-vim
+main.c,main.c,\src\app\main\main.c,\src\main.c,1029,3234,201
+channel.c,channel.c,\src\core\or\channel.c,\src\channel.c,2009,5165,467
+map.c,map.c,\src\lib\container\map.c,\src\map.c,323,1965,38
+version.c,version.c,\src\lib\version\version.c,\src\version.c,33,1339,7
+sign.c,sign.c,\src\ext\ed25519\ref10\sign.c,\src\sign.c,23,2042,4

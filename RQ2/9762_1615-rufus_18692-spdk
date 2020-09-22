@@ -1,0 +1,9 @@
+1615-rufus,18692-spdk
+dev.c,dev.c,\src\dev.c,\lib\scsi\dev.c,787,327,84
+net.c,net.c,\src\net.c,\module\event\subsystems\net\net.c,928,51,12
+crc32.c,crc32.c,\src\bled\crc32.c,\lib\util\crc32.c,82,49,16
+crc16.c,crc16.c,\src\ext2fs\crc16.c,\lib\util\crc16.c,48,612,5
+crc32c.c,crc32c.c,\src\ext2fs\crc32c.c,\lib\util\crc32c.c,865,71,19
+file.c,file.c,\src\ms-sys\file.c,\lib\util\file.c,158,30,6
+util.h,util.h,\src\libcdio\cdio\util.h,\include\spdk\util.h,79,52,15
+memory.c,memory.c,\src\libcdio\driver\memory.c,\lib\env_dpdk\memory.c,16,991,5

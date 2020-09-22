@@ -1,0 +1,9 @@
+1087-radare2,1460-iTerm2
+main.c,main.c,\libr\main\main.c,\SignedArchive\resign\main.c,40,60,6
+main.c,main.c,\shlr\grub\main.c,\SignedArchive\resign\main.c,113,60,15
+main.c,main.c,\shlr\spp\main.c,\SignedArchive\resign\main.c,127,60,14
+main.c,main.c,\libr\bin\pdb\main.c,\SignedArchive\resign\main.c,52,60,6
+main.c,main.c,\shlr\sdb\src\main.c,\SignedArchive\resign\main.c,472,60,15
+main.c,main.c,\libr\asm\arch\dcpu16\main.c,\SignedArchive\resign\main.c,31,60,3
+main.c,main.c,\shlr\sdb\src\json\main.c,\SignedArchive\resign\main.c,76,60,7
+main.c,main.c,\test\unit\legacy_unit\debug\main.c,\SignedArchive\resign\main.c,54,60,5

@@ -1,0 +1,8 @@
+1460-iTerm2,86-netdata
+main.c,main.c,\SignedArchive\resign\main.c,\daemon\main.c,60,995,15
+connection.py,connection.py,\api\library\python\iterm2\iterm2\connection.py,\collectors\python.d.plugin\python_modules\urllib3\connection.py,197,227,9
+connection.py,connection.py,\api\library\python\iterm2\iterm2\connection.py,\collectors\python.d.plugin\python_modules\urllib3\util\connection.py,197,67,5
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,52,171,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,52,168,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,52,58,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,52,51,0

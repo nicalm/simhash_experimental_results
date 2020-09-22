@@ -1,0 +1,13 @@
+140-neovim,67701-r-source
+context.c,context.c,\src\nvim\context.c,\src\main\context.c,254,542,70
+context.c,context.c,\src\nvim\context.c,\src\extra\graphapp\context.c,254,337,64
+edit.c,edit.c,\src\nvim\edit.c,\src\main\edit.c,6306,148,23
+eval.c,eval.c,\src\nvim\eval.c,\src\main\eval.c,18208,5195,821
+iconv.h,iconv.h,\src\nvim\iconv.h,\src\gnuwin32\fixed\h\iconv.h,15,33,3
+main.c,main.c,\src\nvim\main.c,\src\main\main.c,1480,1257,223
+memory.c,memory.c,\src\nvim\memory.c,\src\main\memory.c,397,3001,93
+state.c,state.c,\src\nvim\state.c,\src\library\grid\src\state.c,132,260,30
+strings.c,strings.c,\src\nvim\strings.c,\src\extra\graphapp\strings.c,1003,168,40
+types.h,types.h,\src\nvim\types.h,\src\extra\xdr\rpc\types.h,15,48,1
+version.c,version.c,\src\nvim\version.c,\src\main\version.c,2086,107,14
+memory.c,memory.c,\test\symbolic\klee\nvim\memory.c,\src\main\memory.c,86,3001,22

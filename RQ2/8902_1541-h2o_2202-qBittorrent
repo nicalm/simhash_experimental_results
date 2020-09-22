@@ -1,0 +1,7 @@
+1541-h2o,2202-qBittorrent
+net.h,net.h,\deps\hiredis\net.h,\src\base\utils\net.h,15,29,1
+version.h,version.h,\include\h2o\version.h,\src\base\utils\version.h,17,139,1
+string.h,string.h,\deps\mruby\include\mruby\string.h,\src\base\utils\string.h,114,35,1
+version.h,version.h,\deps\mruby\include\mruby\version.h,\src\base\utils\version.h,29,139,1
+types.h,types.h,\deps\picotls\deps\micro-ecc\types.h,\src\base\http\types.h,87,80,1
+types.h,types.h,\deps\brotli\c\include\brotli\types.h,\src\base\http\types.h,31,80,1

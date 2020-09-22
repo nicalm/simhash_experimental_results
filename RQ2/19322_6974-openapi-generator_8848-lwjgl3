@@ -1,0 +1,4 @@
+6974-openapi-generator,8848-lwjgl3
+Version.java,Version.java,\modules\openapi-generator-cli\src\main\java\org\openapitools\codegen\cmd\Version.java,\modules\lwjgl\core\src\main\java\org\lwjgl\Version.java,23,31,3
+Configuration.java,Configuration.java,\samples\client\petstore\java\vertx\src\main\java\org\openapitools\client\Configuration.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Configuration.java,17,104,4
+Configuration.java,Configuration.java,\samples\client\petstore\java\vertx\src\main\java\org\openapitools\client\Configuration.java,\modules\lwjgl\driftfx\src\main\java\org\eclipse\fx\drift\internal\Configuration.java,17,41,5

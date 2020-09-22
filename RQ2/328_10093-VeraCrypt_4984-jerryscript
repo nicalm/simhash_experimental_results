@@ -1,0 +1,3 @@
+10093-VeraCrypt,4984-jerryscript
+config.h,config.h,\src\Crypto\config.h,\jerry-core\config.h,152,338,35
+config.h,config.h,\src\Common\libzip\config.h,\jerry-core\config.h,60,338,6

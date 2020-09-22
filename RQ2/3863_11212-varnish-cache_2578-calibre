@@ -1,0 +1,8 @@
+11212-varnish-cache,2578-calibre
+generate.py,generate.py,\include\generate.py,\imgsrc\generate.py,37,63,0
+generate.py,generate.py,\include\generate.py,\imgsrc\srv\generate.py,37,44,0
+style.py,style.py,\include\tbl\style.py,\src\odf\style.py,57,87,0
+generate.py,generate.py,\lib\libvarnishapi\generate.py,\imgsrc\generate.py,96,63,3
+generate.py,generate.py,\lib\libvarnishapi\generate.py,\imgsrc\srv\generate.py,96,44,1
+generate.py,generate.py,\lib\libvcc\generate.py,\imgsrc\generate.py,554,63,4
+generate.py,generate.py,\lib\libvcc\generate.py,\imgsrc\srv\generate.py,554,44,3

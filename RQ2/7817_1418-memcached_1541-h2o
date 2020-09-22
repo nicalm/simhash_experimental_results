@@ -1,0 +1,10 @@
+1418-memcached,1541-h2o
+cache.c,cache.c,\cache.c,\lib\common\cache.c,132,200,25
+cache.c,cache.c,\cache.c,\t\00unit\lib\common\cache.c,132,37,2
+cache.h,cache.h,\cache.h,\include\h2o\cache.h,38,36,1
+hash.c,hash.c,\hash.c,\deps\mruby\src\hash.c,18,977,6
+memcached.c,memcached.c,\memcached.c,\lib\common\memcached.c,7983,352,84
+memcached.h,memcached.h,\memcached.h,\include\h2o\memcached.h,633,19,2
+util.c,util.c,\util.c,\lib\core\util.c,193,769,47
+util.c,util.c,\util.c,\t\00unit\lib\core\util.c,193,203,11
+util.h,util.h,\util.h,\deps\picotls\t\util.h,20,247,2

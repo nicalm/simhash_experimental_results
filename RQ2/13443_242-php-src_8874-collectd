@@ -1,0 +1,13 @@
+242-php-src,8874-collectd
+network.c,network.c,\main\network.c,\src\network.c,1015,2472,273
+network.c,network.c,\main\network.c,\src\libcollectdclient\network.c,1015,312,69
+globals.c,globals.c,\win32\globals.c,\src\daemon\globals.c,41,18,2
+interface.c,interface.c,\ext\curl\interface.c,\src\interface.c,3028,288,44
+snmp.c,snmp.c,\ext\snmp\snmp.c,\src\snmp.c,1590,1706,279
+crc32.c,crc32.c,\ext\standard\crc32.c,\src\utils\crc32\crc32.c,70,63,1
+dns.c,dns.c,\ext\standard\dns.c,\src\dns.c,968,287,47
+dns.c,dns.c,\ext\standard\dns.c,\src\utils\dns\dns.c,968,882,151
+exec.c,exec.c,\ext\standard\exec.c,\src\exec.c,429,695,85
+syslog.c,syslog.c,\ext\standard\syslog.c,\src\syslog.c,133,104,12
+memory.c,memory.c,\main\streams\memory.c,\src\memory.c,589,314,39
+types.h,types.h,\ext\opcache\jit\libudis86\types.h,\src\libcollectdclient\collectd\types.h,155,48,5

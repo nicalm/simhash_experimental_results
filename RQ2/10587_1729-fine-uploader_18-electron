@@ -1,0 +1,3 @@
+1729-fine-uploader,18-electron
+session.js,session.js,\client\js\session.js,\lib\browser\api\session.js,58,44,9
+session.js,session.js,\test\unit\session.js,\lib\browser\api\session.js,357,44,8

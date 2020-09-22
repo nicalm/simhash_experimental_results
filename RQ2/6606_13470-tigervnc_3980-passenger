@@ -1,0 +1,5 @@
+13470-tigervnc,3980-passenger
+Socket.h,Socket.h,\common\network\Socket.h,\src\agent\Core\ApplicationPool\Socket.h,69,204,10
+Configuration.h,Configuration.h,\common\rfb\Configuration.h,\src\nginx_module\Configuration.h,169,47,3
+Timer.h,Timer.h,\common\rfb\Timer.h,\src\cxx_supportlib\Utils\Timer.h,33,59,2
+Registry.h,Registry.h,\win\rfb_win32\Registry.h,\src\cxx_supportlib\WrapperRegistry\Registry.h,52,226,5

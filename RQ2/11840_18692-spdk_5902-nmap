@@ -1,0 +1,8 @@
+18692-spdk,5902-nmap
+blob.h,blob.h,\include\spdk\blob.h,\libdnet-stripped\include\dnet\blob.h,190,33,2
+crc32.h,crc32.h,\include\spdk\crc32.h,\libz\crc32.h,23,437,3
+queue.h,queue.h,\include\spdk\queue.h,\libdnet-stripped\include\queue.h,30,314,11
+util.h,util.h,\include\spdk\util.h,\ncat\util.h,52,72,5
+transport.c,transport.c,\lib\nvmf\transport.c,\libssh2\src\transport.c,387,508,79
+base64.c,base64.c,\lib\util\base64.c,\ncat\base64.c,180,38,7
+crc32.c,crc32.c,\lib\util\crc32.c,\libz\crc32.c,49,289,14

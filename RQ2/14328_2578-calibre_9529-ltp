@@ -1,0 +1,6 @@
+2578-calibre,9529-ltp
+build.py,build.py,\manual\build.py,\tools\build-document\build.py,106,29,1
+conf.py,conf.py,\manual\conf.py,\doc\conf.py,113,30,5
+build.py,build.py,\setup\build.py,\tools\build-document\build.py,408,29,3
+main.cpp,main.cpp,\src\calibre\headless\main.cpp,\src\parser.n\main.cpp,18,128,2
+system.h,system.h,\src\calibre\utils\lzx\system.h,\src\parser.n\system.h,37,123,3

@@ -1,0 +1,12 @@
+10827-keepalived,67701-r-source
+http.c,http.c,\genhash\http.c,\src\library\tools\src\http.c,272,17,4
+main.c,main.c,\genhash\main.c,\src\main\main.c,263,1257,53
+sock.c,sock.c,\genhash\sock.c,\src\modules\internet\sock.c,30,170,8
+sock.c,sock.c,\genhash\sock.c,\src\library\utils\src\sock.c,30,37,7
+list.c,list.c,\lib\list.c,\src\main\list.c,225,84,12
+memory.c,memory.c,\lib\memory.c,\src\main\memory.c,545,3001,110
+signals.c,signals.c,\lib\signals.c,\src\library\tools\src\signals.c,459,157,38
+utils.c,utils.c,\lib\utils.c,\src\library\utils\src\utils.c,948,68,24
+utils.h,utils.h,\lib\utils.h,\src\library\utils\src\utils.h,177,64,3
+sock.h,sock.h,\genhash\include\sock.h,\src\modules\internet\sock.h,23,29,0
+main.c,main.c,\keepalived\core\main.c,\src\main\main.c,1950,1257,233

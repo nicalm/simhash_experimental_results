@@ -1,0 +1,3 @@
+18490-libpcap,790-libuv
+getopt.c,getopt.c,\missing\getopt.c,\samples\socks5-proxy\getopt.c,85,78,52
+unix.h,unix.h,\testprogs\unix.h,\include\uv\unix.h,17,394,2

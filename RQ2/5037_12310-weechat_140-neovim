@@ -1,0 +1,6 @@
+12310-weechat,140-neovim
+charset.c,charset.c,\src\plugins\charset\charset.c,\src\nvim\charset.c,452,1198,93
+charset.c,charset.c,\src\plugins\charset\charset.c,\test\symbolic\klee\nvim\charset.c,452,154,33
+spell.c,spell.c,\src\plugins\spell\spell.c,\src\nvim\spell.c,863,5311,200
+main.c,main.c,\src\gui\curses\headless\main.c,\src\nvim\main.c,64,1480,17
+main.c,main.c,\src\gui\curses\normal\main.c,\src\nvim\main.c,16,1480,3

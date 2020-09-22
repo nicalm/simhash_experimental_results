@@ -1,0 +1,4 @@
+86-netdata,9197-domoticz
+eval.h,eval.h,\libnetdata\eval\eval.h,\hardware\plugins\Include\eval.h,53,20,1
+main.js,main.js,\web\gui\main.js,\www\app\main.js,4130,46,3
+main.js,main.js,\web\gui\src\dashboard.js\main.js,\www\app\main.js,3119,46,3

@@ -1,0 +1,5 @@
+11788-fbthrift,2389-Pillow
+setup.py,setup.py,\thrift\lib\py\setup.py,\setup.py,54,714,7
+setup.py,setup.py,\thrift\lib\py3\setup.py,\setup.py,29,714,5
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\PIL\__init__.py,44,52,1
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\PIL\__init__.py,108,52,1

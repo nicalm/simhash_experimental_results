@@ -1,0 +1,10 @@
+2257-core,8874-collectd
+index.php,index.php,\index.php,\contrib\php-collection\index.php,42,275,6
+config.php,config.php,\.phan\config.php,\contrib\php-collection\config.php,26,32,1
+index.php,index.php,\ocm-provider\index.php,\contrib\php-collection\index.php,16,275,3
+config.php,config.php,\core\js\config.php,\contrib\php-collection\config.php,190,32,1
+index.php,index.php,\apps\files\templates\index.php,\contrib\php-collection\index.php,27,275,2
+config.php,config.php,\apps\files_external\lib\config.php,\contrib\php-collection\config.php,35,32,1
+config.php,config.php,\apps\files_external\tests\config.php,\contrib\php-collection\config.php,53,32,1
+index.php,index.php,\apps\files_trashbin\templates\index.php,\contrib\php-collection\index.php,50,275,3
+functions.php,functions.php,\lib\private\legacy\template\functions.php,\contrib\php-collection\functions.php,117,646,41

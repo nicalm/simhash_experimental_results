@@ -1,0 +1,5 @@
+11072-cryptopp,4420-zcash
+bench.h,bench.h,\bench.h,\src\secp256k1\src\bench.h,58,55,1
+misc.cpp,misc.cpp,\misc.cpp,\src\rpc\misc.cpp,233,981,55
+pubkey.cpp,pubkey.cpp,\pubkey.cpp,\src\pubkey.cpp,137,131,16
+pubkey.h,pubkey.h,\pubkey.h,\src\pubkey.h,1325,172,54

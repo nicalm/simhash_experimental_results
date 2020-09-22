@@ -1,0 +1,7 @@
+15760-bfgminer,548-ruby
+api.c,api.c,\api.c,\ext\psych\yaml\api.c,3686,941,169
+sha2.c,sha2.c,\sha2.c,\ext\digest\sha2\sha2.c,139,713,29
+sha2.h,sha2.h,\sha2.h,\ext\digest\sha2\sha2.h,29,133,1
+util.c,util.c,\util.c,\util.c,3540,517,130
+util.h,util.h,\util.h,\internal\util.h,687,15,3
+util.h,util.h,\util.h,\include\ruby\util.h,687,62,15

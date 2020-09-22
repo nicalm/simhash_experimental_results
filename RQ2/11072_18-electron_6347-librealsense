@@ -1,0 +1,13 @@
+18-electron,6347-librealsense
+index.js,index.js,\npm\index.js,\wrappers\nodejs\index.js,15,2989,4
+index.js,index.js,\npm\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,15,379,4
+index.js,index.js,\spec-main\index.js,\wrappers\nodejs\index.js,75,2989,6
+index.js,index.js,\spec-main\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,75,379,6
+index.js,index.js,\script\release\notes\index.js,\wrappers\nodejs\index.js,149,2989,27
+index.js,index.js,\script\release\notes\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,149,379,27
+archive.h,archive.h,\shell\common\asar\archive.h,\src\archive.h,51,403,7
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\wrappers\nodejs\index.js,17,2989,0
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,17,379,0
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\wrappers\nodejs\index.js,33,2989,2
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,33,379,2
+common.h,common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,48,501,6

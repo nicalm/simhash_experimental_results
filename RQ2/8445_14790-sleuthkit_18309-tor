@@ -1,0 +1,8 @@
+14790-sleuthkit,18309-tor
+dos.c,dos.c,\tsk\vs\dos.c,\src\core\or\dos.c,850,475,50
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\src\lib\compress\compress.c,395,507,68
+strlcat.c,strlcat.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcat.c,\src\ext\strlcat.c,26,28,22
+strlcpy.c,strlcpy.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcpy.c,\src\ext\strlcpy.c,23,22,7
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\src\test\test.c,79,611,20
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\src\ext\ed25519\donna\test.c,79,177,17
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\src\app\config\config.h,41,232,3

@@ -1,0 +1,13 @@
+548-ruby,6347-librealsense
+internal.h,internal.h,\internal.h,\third-party\glfw\src\internal.h,32,570,2
+class.h,class.h,\internal\class.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\class.h,127,413,16
+debug.h,debug.h,\internal\debug.h,\src\core\debug.h,16,22,0
+debug.h,debug.h,\internal\debug.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\debug.h,16,21,1
+time.h,time.h,\internal\time.h,\third-party\realsense-file\rosbag\rostime\include\ros\time.h,18,117,2
+time.h,time.h,\internal\time.h,\third-party\realsense-file\rosbag\rostime\include\ros\impl\time.h,18,98,2
+monitor.c,monitor.c,\ext\monitor\monitor.c,\third-party\glfw\src\monitor.c,181,339,43
+init.c,init.c,\ext\sdbm\init.c,\third-party\glfw\src\init.c,605,212,51
+init.c,init.c,\ext\socket\init.c,\third-party\glfw\src\init.c,707,212,51
+debug.h,debug.h,\include\ruby\debug.h,\src\core\debug.h,70,22,3
+debug.h,debug.h,\include\ruby\debug.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\debug.h,70,21,4
+init.c,init.c,\ext\-test-\symbol\init.c,\third-party\glfw\src\init.c,34,212,8

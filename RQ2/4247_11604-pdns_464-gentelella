@@ -1,0 +1,14 @@
+11604-pdns,464-gentelella
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\Flot\jquery.js,7102,6563,4568
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\Flot\source\jquery.js,7102,6563,4568
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\jquery\src\jquery.js,7102,35,1
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\jquery.easy-pie-chart\test\unit\jquery.js,7102,48,15
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,7102,6390,3396
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\parsleyjs\bower_components\jquery\dist\jquery.js,7102,6188,5385
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\parsleyjs\bower_components\jquery\src\jquery.js,7102,35,2
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\vendors\moment\moment.js,2690,3064,2628
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\vendors\moment\src\moment.js,2690,60,0
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\vendors\moment\src\lib\moment\moment.js,2690,25,3
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\vendors\moment\moment.js,2389,3064,1108
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\vendors\moment\src\moment.js,2389,60,1
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\vendors\moment\src\lib\moment\moment.js,2389,25,3

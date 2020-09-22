@@ -1,0 +1,8 @@
+1193-mpv,3980-passenger
+event.c,event.c,\input\event.c,\src\cxx_supportlib\vendor-modified\libev\event.c,67,299,16
+compiler.h,compiler.h,\osdep\compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,20,34,2
+endian.h,endian.h,\osdep\endian.h,\src\cxx_supportlib\vendor-modified\boost\predef\other\endian.h,31,141,9
+timer.c,timer.c,\osdep\timer.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\timer.c,110,106,16
+core.h,core.h,\player\core.h,\src\cxx_supportlib\vendor-copy\utf8\core.h,437,269,1
+stream.c,stream.c,\stream\stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,655,1065,122
+internal.h,internal.h,\audio\out\internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,95,221,4

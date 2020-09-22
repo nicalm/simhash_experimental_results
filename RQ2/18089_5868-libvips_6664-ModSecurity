@@ -1,0 +1,2 @@
+5868-libvips,6664-ModSecurity
+base64.c,base64.c,\libvips\iofuncs\base64.c,\others\mbedtls\base64.c,162,199,33

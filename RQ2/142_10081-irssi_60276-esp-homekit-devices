@@ -1,0 +1,15 @@
+10081-irssi,60276-esp-homekit-devices
+common.h,common.h,\src\common.h,\external_libs\cJSON\cJSON\tests\common.h,81,82,1
+misc.c,misc.c,\src\core\misc.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\misc.c,805,190,54
+misc.c,misc.c,\src\core\misc.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\misc.c,805,190,54
+misc.h,misc.h,\src\core\misc.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\misc.h,55,58,1
+misc.h,misc.h,\src\core\misc.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\misc.h,55,58,1
+settings.h,settings.h,\src\core\settings.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\settings.h,107,516,1
+settings.h,settings.h,\src\core\settings.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\settings.h,107,1125,1
+settings.h,settings.h,\src\core\settings.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\settings.h,107,516,1
+settings.h,settings.h,\src\core\settings.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\settings.h,107,1125,1
+tls.c,tls.c,\src\core\tls.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\src\tls.c,150,6341,50
+tls.c,tls.c,\src\core\tls.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\src\tls.c,150,6341,50
+server.c,server.c,\src\fe-fuzz\server.c,\external_libs\homekit\src\server.c,124,2760,17
+server.c,server.c,\src\fe-fuzz\server.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\examples\server\server.c,124,1355,15
+server.c,server.c,\src\fe-fuzz\server.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\examples\server\server.c,124,1355,15

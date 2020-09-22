@@ -1,0 +1,7 @@
+98-rust,99-redis
+test.c,test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,\deps\hiredis\test.c,30,687,6
+test.c,test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,\deps\jemalloc\test\src\test.c,30,168,5
+test.c,test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,\deps\hiredis\test.c,196,687,20
+test.c,test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,\deps\jemalloc\test\src\test.c,196,168,16
+test.c,test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,\deps\hiredis\test.c,22,687,5
+test.c,test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,\deps\jemalloc\test\src\test.c,22,168,1

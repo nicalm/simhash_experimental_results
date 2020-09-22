@@ -1,0 +1,4 @@
+506-ghidra,9529-ltp
+build.py,build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,\tools\build-document\build.py,235,29,3
+graph.cc,graph.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\graph.cc,\thirdparty\dynet\dynet\graph.cc,422,29,6
+main.cpp,main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,\src\parser.n\main.cpp,41,128,9

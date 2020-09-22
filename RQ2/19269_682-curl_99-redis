@@ -1,0 +1,14 @@
+682-curl,99-redis
+dict.c,dict.c,\lib\dict.c,\src\dict.c,209,741,33
+dict.c,dict.c,\lib\dict.c,\deps\hiredis\dict.c,209,202,28
+gopher.c,gopher.c,\lib\gopher.c,\src\gopher.c,105,29,5
+hash.c,hash.c,\lib\hash.c,\deps\jemalloc\test\unit\hash.c,242,123,20
+hash.h,hash.h,\lib\hash.h,\deps\jemalloc\include\jemalloc\internal\hash.h,57,228,1
+multi.c,multi.c,\lib\multi.c,\src\multi.c,2199,227,43
+rand.c,rand.c,\lib\rand.c,\src\rand.c,107,44,3
+sha256.c,sha256.c,\lib\sha256.c,\src\sha256.c,193,120,17
+debug.c,debug.c,\docs\examples\debug.c,\src\debug.c,100,1230,17
+test.h,test.h,\tests\libtest\test.h,\deps\jemalloc\test\include\test\test.h,311,300,13
+util.c,util.c,\tests\server\util.c,\src\util.c,375,590,52
+util.h,util.h,\tests\server\util.h,\src\util.h,29,24,2
+util.h,util.h,\tests\server\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,29,42,3

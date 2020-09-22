@@ -1,0 +1,14 @@
+140-neovim,5868-libvips
+buffer.c,buffer.c,\src\nvim\buffer.c,\libvips\iofuncs\buffer.c,3997,447,84
+math.c,math.c,\src\nvim\math.c,\libvips\arithmetic\math.c,32,240,8
+memory.c,memory.c,\src\nvim\memory.c,\libvips\iofuncs\memory.c,397,199,36
+memory.h,memory.h,\src\nvim\memory.h,\libvips\include\vips\memory.h,32,43,4
+profile.c,profile.c,\src\nvim\profile.c,\libvips\arithmetic\profile.c,145,200,20
+sign.c,sign.c,\src\nvim\sign.c,\libvips\arithmetic\sign.c,1304,111,13
+window.c,window.c,\src\nvim\window.c,\libvips\iofuncs\window.c,5015,270,46
+buffer.c,buffer.c,\src\nvim\api\buffer.c,\libvips\iofuncs\buffer.c,704,447,67
+window.c,window.c,\src\nvim\api\window.c,\libvips\iofuncs\window.c,334,270,39
+stream.c,stream.c,\src\nvim\event\stream.c,\libvips\iofuncs\stream.c,119,82,16
+stream.h,stream.h,\src\nvim\event\stream.h,\libvips\include\vips\stream.h,43,184,3
+dispatch.h,dispatch.h,\src\nvim\api\private\dispatch.h,\libvips\include\vips\dispatch.h,15,157,3
+memory.c,memory.c,\test\symbolic\klee\nvim\memory.c,\libvips\iofuncs\memory.c,86,199,21

@@ -1,0 +1,5 @@
+4984-jerryscript,6285-ImageMagick
+log.c,log.c,\jerry-libm\log.c,\MagickCore\log.c,117,1233,38
+module.c,module.c,\jerry-ext\module\module.c,\MagickCore\module.c,211,1030,71
+module.h,module.h,\jerry-ext\include\jerryscript-ext\module.h,\MagickCore\module.h,74,50,6
+registry.h,registry.h,\targets\mbedos5\jerryscript-mbed\jerryscript-mbed-library-registry\registry.h,\MagickCore\registry.h,31,27,2

@@ -1,0 +1,4 @@
+15910-gdal,4984-jerryscript
+setup.py,setup.py,\gdal\swig\python\setup.py,\targets\curie_bsp\setup.py,329,129,4
+registry.h,registry.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\registry.h,\targets\mbedos5\jerryscript-mbed\jerryscript-mbed-library-registry\registry.h,71,31,10
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\jerry-core\config.h,54,338,9

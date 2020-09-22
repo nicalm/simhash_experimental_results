@@ -1,0 +1,16 @@
+2283-capnproto,551-FFmpeg
+common.h,common.h,\c++\src\benchmark\common.h,\libavutil\common.h,229,288,28
+common.h,common.h,\c++\src\capnp\common.h,\libavutil\common.h,508,288,34
+common.h,common.h,\c++\src\kj\common.h,\libavutil\common.h,1054,288,55
+hash.h,hash.h,\c++\src\kj\hash.h,\libavutil\hash.h,95,22,0
+thread.h,thread.h,\c++\src\kj\thread.h,\libavcodec\thread.h,39,29,1
+thread.h,thread.h,\c++\src\kj\thread.h,\libavutil\thread.h,39,121,6
+timer.h,timer.h,\c++\src\kj\timer.h,\libavutil\timer.h,48,101,2
+timer.h,timer.h,\c++\src\kj\timer.h,\libavutil\aarch64\timer.h,48,17,1
+timer.h,timer.h,\c++\src\kj\timer.h,\libavutil\bfin\timer.h,48,17,1
+timer.h,timer.h,\c++\src\kj\timer.h,\libavutil\ppc\timer.h,48,20,1
+timer.h,timer.h,\c++\src\kj\timer.h,\libavutil\x86\timer.h,48,22,1
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\libavcodec\parser.h,69,21,0
+tls.h,tls.h,\c++\src\kj\compat\tls.h,\libavformat\tls.h,84,30,0
+url.h,url.h,\c++\src\kj\compat\url.h,\libavformat\url.h,44,88,0
+common.h,common.h,\c++\src\kj\parse\common.h,\libavutil\common.h,564,288,32

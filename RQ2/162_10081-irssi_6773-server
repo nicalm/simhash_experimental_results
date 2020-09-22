@@ -1,0 +1,11 @@
+10081-irssi,6773-server
+common.h,common.h,\src\common.h,\extra\mariabackup\common.h,81,136,7
+common.h,common.h,\src\common.h,\plugin\win_auth_client\common.h,81,175,5
+common.h,common.h,\src\common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,81,117,4
+args.c,args.c,\src\core\args.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\args.c,25,338,6
+log.h,log.h,\src\core\log.h,\sql\log.h,47,770,5
+log.h,log.h,\src\core\log.h,\storage\tokudb\PerconaFT\ft\logger\log.h,47,26,0
+misc.c,misc.c,\src\core\misc.c,\extra\readline\misc.c,805,421,109
+signals.c,signals.c,\src\core\signals.c,\extra\readline\signals.c,310,330,33
+signals.c,signals.c,\src\core\signals.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\signals.c,310,101,21
+dump.c,dump.c,\src\irc\proxy\dump.c,\storage\mroonga\vendor\groonga\lib\dump.c,223,88,19

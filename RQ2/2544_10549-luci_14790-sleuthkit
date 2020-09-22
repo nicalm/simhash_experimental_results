@@ -1,0 +1,8 @@
+10549-luci,14790-sleuthkit
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,89,41,0
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,355,401,47
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,89,41,0
+md5.c,md5.c,\libs\luci-lib-nixio\axTLS\crypto\md5.c,\tools\hashtools\md5.c,184,48,9
+sha1.c,sha1.c,\libs\luci-lib-nixio\axTLS\crypto\sha1.c,\tools\hashtools\sha1.c,148,50,11
+sha1.c,sha1.c,\libs\luci-lib-px5g\src\library\sha1.c,\tools\hashtools\sha1.c,445,50,14
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,35,41,2

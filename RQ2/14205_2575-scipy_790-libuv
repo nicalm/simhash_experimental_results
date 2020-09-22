@@ -1,0 +1,4 @@
+2575-scipy,790-libuv
+conf.py,conf.py,\doc\source\conf.py,\docs\src\conf.py,237,59,12
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\samples\socks5-proxy\util.c,345,43,6
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\src\win\util.c,345,1211,49

@@ -1,0 +1,8 @@
+10205-firejail,4139-outline-client
+files.c,files.c,\src\faudit\files.c,\third_party\shadowsocks-libev\libcork\src\libcork\posix\files.c,37,693,6
+utils.c,utils.c,\src\fbuilder\utils.c,\third_party\shadowsocks-libev\src\utils.c,39,447,9
+utils.c,utils.c,\src\fbuilder\utils.c,\third_party\sodium\src\libsodium\sodium\utils.c,39,668,9
+env.c,env.c,\src\firejail\env.c,\third_party\shadowsocks-libev\libcork\src\libcork\posix\env.c,155,155,21
+print.c,print.c,\src\fsec-print\print.c,\third_party\badvpn\ncd\modules\print.c,257,123,19
+common.h,common.h,\src\include\common.h,\third_party\shadowsocks-libev\src\common.h,89,46,2
+common.h,common.h,\src\include\common.h,\third_party\sodium\src\libsodium\include\sodium\private\common.h,89,220,15

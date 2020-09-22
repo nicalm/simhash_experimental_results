@@ -1,0 +1,7 @@
+2202-qBittorrent,4287-cockpit
+utils.h,utils.h,\src\gui\utils.h,\src\tls\utils.h,30,24,2
+connection.h,connection.h,\src\base\http\connection.h,\src\tls\connection.h,30,15,0
+server.h,server.h,\src\base\http\server.h,\src\tls\server.h,31,17,0
+client.js,client.js,\src\webui\www\private\scripts\client.js,\pkg\docker\client.js,881,603,102
+client.js,client.js,\src\webui\www\private\scripts\client.js,\pkg\storaged\client.js,881,694,127
+login.js,login.js,\src\webui\www\public\scripts\login.js,\src\ws\login.js,32,663,4

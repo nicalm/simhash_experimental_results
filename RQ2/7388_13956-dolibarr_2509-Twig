@@ -1,0 +1,16 @@
+13956-dolibarr,2509-Twig
+CoreTest.php,CoreTest.php,\test\phpunit\CoreTest.php,\tests\Extension\CoreTest.php,224,263,28
+ImportTest.php,ImportTest.php,\test\phpunit\ImportTest.php,\tests\Node\ImportTest.php,59,29,7
+Source.php,Source.php,\htdocs\includes\stripe\lib\Source.php,\src\Source.php,63,27,11
+Parser.php,Parser.php,\htdocs\includes\phpoffice\PhpSpreadsheet\Writer\Xls\Parser.php,\src\Parser.php,935,280,93
+Node.php,Node.php,\htdocs\includes\sabre\sabre\vobject\lib\Node.php,\src\Node\Node.php,55,136,12
+Parser.php,Parser.php,\htdocs\includes\sabre\sabre\vobject\lib\Parser\Parser.php,\src\Parser.php,15,280,4
+Parser.php,Parser.php,\htdocs\includes\swiftmailer\egulias\email-validator\EmailValidator\Parser\Parser.php,\src\Parser.php,174,280,58
+Parser.php,Parser.php,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Writer\Excel5\Parser.php,\src\Parser.php,1008,280,93
+Node.php,Node.php,\htdocs\includes\sabre\sabre\dav\lib\CalDAV\Notifications\Node.php,\src\Node\Node.php,32,136,8
+Node.php,Node.php,\htdocs\includes\sabre\sabre\dav\lib\DAV\FS\Node.php,\src\Node\Node.php,24,136,6
+TextTest.php,TextTest.php,\htdocs\includes\sabre\sabre\vobject\tests\VObject\Property\TextTest.php,\tests\Node\TextTest.php,60,18,4
+TextTest.php,TextTest.php,\htdocs\includes\sabre\sabre\vobject\tests\VObject\Property\TextTest.php,\tests\Profiler\Dumper\TextTest.php,60,21,3
+Error.php,Error.php,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Shared\JAMA\utils\Error.php,\src\Error\Error.php,47,153,6
+AbstractTest.php,AbstractTest.php,\htdocs\includes\sabre\sabre\dav\tests\Sabre\CalDAV\Backend\AbstractTest.php,\tests\Profiler\Dumper\AbstractTest.php,144,75,15
+AbstractTest.php,AbstractTest.php,\htdocs\includes\sabre\sabre\dav\tests\Sabre\DAV\Locks\Backend\AbstractTest.php,\tests\Profiler\Dumper\AbstractTest.php,110,75,9

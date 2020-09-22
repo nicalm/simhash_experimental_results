@@ -1,0 +1,6 @@
+1916-robomongo,6883-Sigil
+main.cpp,main.cpp,\src\robomongo\app\main.cpp,\src\main.cpp,79,466,10
+MainWindow.cpp,MainWindow.cpp,\src\robomongo\gui\MainWindow.cpp,\src\MainUI\MainWindow.cpp,1140,4872,254
+MainWindow.h,MainWindow.h,\src\robomongo\gui\MainWindow.h,\src\MainUI\MainWindow.h,136,321,10
+log.c,log.c,\src\robomongo\ssh\log.c,\3rdparty\hunspell\intl\log.c,88,82,15
+parser.h,parser.h,\src\third-party\qjson\sources\src\parser.h,\internal\gumbo\parser.h,26,19,2

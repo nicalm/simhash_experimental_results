@@ -1,0 +1,10 @@
+11788-fbthrift,1193-mpv
+common.h,common.h,\thrift\compiler\common.h,\common\common.h,39,78,1
+common.h,common.h,\thrift\compiler\common.h,\video\out\opengl\common.h,39,197,1
+common.h,common.h,\thrift\compiler\common.h,\video\out\vulkan\common.h,39,27,1
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\video\out\gpu\utils.h,19,68,5
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\video\out\opengl\utils.h,19,28,0
+client.h,client.h,\thrift\lib\py3\client.h,\libmpv\client.h,116,226,1
+client.h,client.h,\thrift\lib\py3\client.h,\player\client.h,116,43,0
+stream.h,stream.h,\thrift\lib\py3\stream.h,\stream\stream.h,24,161,3
+custom.py,custom.py,\thrift\lib\py3\test\custom.py,\waftools\checks\custom.py,45,106,0

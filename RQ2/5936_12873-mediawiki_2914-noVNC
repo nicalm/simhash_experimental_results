@@ -1,0 +1,3 @@
+12873-mediawiki,2914-noVNC
+deflate.js,deflate.js,\resources\lib\easy-deflate\deflate.js,\vendor\pako\lib\zlib\deflate.js,1297,1047,241
+util.js,util.js,\resources\src\mediawiki.util\util.js,\core\input\util.js,268,139,32

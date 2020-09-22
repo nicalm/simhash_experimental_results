@@ -1,0 +1,4 @@
+10081-irssi,8063-CMake
+common.h,common.h,\src\common.h,\Utilities\cmliblzma\liblzma\common\common.h,81,136,4
+core.c,core.c,\src\core\core.c,\Utilities\cmlibuv\src\unix\core.c,243,1077,27
+core.c,core.c,\src\core\core.c,\Utilities\cmlibuv\src\win\core.c,243,412,24

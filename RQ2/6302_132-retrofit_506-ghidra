@@ -1,0 +1,8 @@
+132-retrofit,506-ghidra
+Platform.java,Platform.java,\retrofit\src\main\java\retrofit2\Platform.java,\Ghidra\Framework\Generic\src\main\java\ghidra\framework\Platform.java,80,86,19
+Utils.java,Utils.java,\retrofit\src\main\java\retrofit2\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcode\utils\Utils.java,388,127,30
+Utils.java,Utils.java,\retrofit\src\main\java\retrofit2\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\utils\Utils.java,388,266,67
+Field.java,Field.java,\retrofit\src\main\java\retrofit2\http\Field.java,\Ghidra\Framework\DB\src\main\java\db\Field.java,16,101,1
+Field.java,Field.java,\retrofit\src\main\java\retrofit2\http\Field.java,\Ghidra\Framework\Docking\src\main\java\docking\widgets\fieldpanel\field\Field.java,16,33,1
+Path.java,Path.java,\retrofit\src\main\java\retrofit2\http\Path.java,\Ghidra\Framework\Generic\src\main\java\generic\util\Path.java,16,141,1
+Path.java,Path.java,\retrofit\src\main\java\retrofit2\http\Path.java,\Ghidra\Framework\Generic\src\main\java\ghidra\util\graph\Path.java,16,23,1

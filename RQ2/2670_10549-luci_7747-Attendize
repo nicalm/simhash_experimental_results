@@ -1,0 +1,16 @@
+10549-luci,7747-Attendize
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\public\vendor\jquery\src\ajax\script.js,154,56,13
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\public\vendor\jquery\src\ajax\script.js,204,56,13
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\public\vendor\vue\src\config.js,53,40,1
+keys.js,keys.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\keys.js,\public\vendor\moment\src\lib\utils\keys.js,17,16,1
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue\src\index.js,82,22,2
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue-resource\src\index.js,82,38,10
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue\src\filters\index.js,82,71,7
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue\src\observer\index.js,82,125,10
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue\src\transition\index.js,82,35,5
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue-resource\src\http\index.js,82,74,9
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue-resource\src\url\index.js,82,78,10
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue\src\directives\public\index.js,82,24,1
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue-resource\src\http\client\index.js,82,39,9
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\public\vendor\vue\src\directives\public\model\index.js,82,67,10
+load.js,load.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\load.js,\public\vendor\jquery\src\ajax\load.js,214,45,7

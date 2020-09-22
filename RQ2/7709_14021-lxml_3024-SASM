@@ -1,0 +1,5 @@
+14021-lxml,3024-SASM
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,1099,79,16
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,1099,63,10
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,154,79,6
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,154,63,5

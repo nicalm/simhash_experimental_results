@@ -1,0 +1,5 @@
+10081-irssi,6444-yara
+common.h,common.h,\src\common.h,\common.h,81,91,3
+args.c,args.c,\src\core\args.c,\args.c,25,201,7
+modules.c,modules.c,\src\core\modules.c,\libyara\modules.c,216,141,27
+modules.h,modules.h,\src\core\modules.h,\libyara\include\yara\modules.h,67,305,5

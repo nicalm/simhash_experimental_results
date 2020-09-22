@@ -1,0 +1,3 @@
+10081-irssi,2202-qBittorrent
+misc.h,misc.h,\src\core\misc.h,\src\base\utils\misc.h,55,55,1
+statusbar.h,statusbar.h,\src\fe-text\statusbar.h,\src\gui\statusbar.h,80,37,2

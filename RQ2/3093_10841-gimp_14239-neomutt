@@ -1,0 +1,9 @@
+10841-gimp,14239-neomutt
+main.c,main.c,\app\main.c,\main.c,631,1056,127
+main.c,main.c,\app\main.c,\test\main.c,631,389,1
+compose.c,compose.c,\plug-ins\common\compose.c,\compose.c,1137,1783,221
+color.c,color.c,\plug-ins\file-dds\color.c,\gui\color.c,30,975,7
+color.h,color.h,\plug-ins\file-dds\color.h,\gui\color.h,60,115,6
+color.c,color.c,\plug-ins\gimpressionist\color.c,\gui\color.c,68,975,8
+help.c,help.c,\plug-ins\help\help.c,\help.c,277,325,46
+types.h,types.h,\plug-ins\selection-to-path\types.h,\config\types.h,92,48,1

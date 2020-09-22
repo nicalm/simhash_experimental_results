@@ -1,0 +1,7 @@
+10314-ovs,3405-libevent
+getopt_long.c,getopt_long.c,\lib\getopt_long.c,\WIN32-Code\getopt_long.c,306,165,88
+util.h,util.h,\lib\util.h,\include\event2\util.h,431,462,35
+log.c,log.c,\ovsdb\log.c,\log.c,693,172,54
+thread.h,thread.h,\include\openvswitch\thread.h,\include\event2\thread.h,85,65,12
+util.h,util.h,\include\openvswitch\util.h,\include\event2\util.h,121,462,19
+getopt.h,getopt.h,\include\windows\getopt.h,\WIN32-Code\getopt.h,17,26,10

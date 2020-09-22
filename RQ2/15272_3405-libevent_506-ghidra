@@ -1,0 +1,3 @@
+3405-libevent,506-ghidra
+getopt.c,getopt.c,\WIN32-Code\getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,96,637,22
+getopt.h,getopt.h,\WIN32-Code\getopt.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\getopt.h,26,52,21

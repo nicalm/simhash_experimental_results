@@ -1,0 +1,12 @@
+10395-jitsi,4139-outline-client
+run.c,run.c,\src\native\windows\run\run.c,\third_party\badvpn\ncd\modules\run.c,1415,109,27
+err.h,err.h,\src\native\windows\setup\err.h,\third_party\badvpn\lwip\src\include\lwip\err.h,18,38,3
+err.h,err.h,\src\native\windows\setup\err.h,\third_party\Potatso\PacketProcessor\tun2socks\lwip\src\include\lwip\err.h,18,38,3
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\third_party\sodium\src\libsodium\crypto_core\ed25519\ref10\fe_25_5\base.h,66,1344,0
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\third_party\sodium\src\libsodium\crypto_core\ed25519\ref10\fe_51\base.h,66,1344,0
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\third_party\mbedtls\include\mbedtls\version.h,40,26,5
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\third_party\sodium\builds\msvc\version.h,40,21,3
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\third_party\mbedtls\apple\include\mbedtls\version.h,40,26,5
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\third_party\mbedtls\linux\include\mbedtls\version.h,40,26,5
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\third_party\sodium\apple\include\sodium\version.h,40,21,3
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\third_party\sodium\linux\include\sodium\version.h,40,21,3

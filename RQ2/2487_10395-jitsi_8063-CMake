@@ -1,0 +1,17 @@
+10395-jitsi,8063-CMake
+bzlib.h,bzlib.h,\src\native\windows\setup\include\bzlib.h,\Utilities\cmbzip2\bzlib.h,195,195,194
+lzma.h,lzma.h,\src\native\windows\setup\include\lzma.h,\Utilities\cmliblzma\liblzma\api\lzma.h,121,125,119
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\Utilities\cmliblzma\liblzma\api\lzma\base.h,66,69,65
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\Utilities\cmliblzma\liblzma\api\lzma\block.h,71,75,67
+check.h,check.h,\src\native\windows\setup\include\lzma\check.h,\Utilities\cmliblzma\liblzma\check\check.h,23,98,1
+check.h,check.h,\src\native\windows\setup\include\lzma\check.h,\Utilities\cmliblzma\liblzma\api\lzma\check.h,23,23,23
+container.h,container.h,\src\native\windows\setup\include\lzma\container.h,\Utilities\cmliblzma\liblzma\api\lzma\container.h,48,81,45
+delta.h,delta.h,\src\native\windows\setup\include\lzma\delta.h,\Utilities\cmliblzma\liblzma\api\lzma\delta.h,19,19,19
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\Utilities\cmliblzma\liblzma\api\lzma\filter.h,51,52,45
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\Utilities\cmliblzma\liblzma\common\index.h,114,32,1
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\Utilities\cmliblzma\liblzma\api\lzma\index.h,114,114,106
+index_hash.h,index_hash.h,\src\native\windows\setup\include\lzma\index_hash.h,\Utilities\cmliblzma\liblzma\api\lzma\index_hash.h,19,19,17
+lzma.h,lzma.h,\src\native\windows\setup\include\lzma\lzma.h,\Utilities\cmliblzma\liblzma\api\lzma.h,57,125,1
+stream_flags.h,stream_flags.h,\src\native\windows\setup\include\lzma\stream_flags.h,\Utilities\cmliblzma\liblzma\api\lzma\stream_flags.h,40,40,40
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\Utilities\cmliblzma\liblzma\api\lzma\version.h,40,40,38
+vli.h,vli.h,\src\native\windows\setup\include\lzma\vli.h,\Utilities\cmliblzma\liblzma\api\lzma\vli.h,17,17,17

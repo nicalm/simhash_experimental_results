@@ -1,0 +1,4 @@
+2944-supervisor,86-netdata
+events.py,events.py,\supervisor\events.py,\collectors\python.d.plugin\python_modules\pyyaml2\events.py,177,67,7
+events.py,events.py,\supervisor\events.py,\collectors\python.d.plugin\python_modules\pyyaml3\events.py,177,67,7
+loggers.py,loggers.py,\supervisor\loggers.py,\collectors\python.d.plugin\python_modules\bases\loggers.py,297,133,6

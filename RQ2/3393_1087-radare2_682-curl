@@ -1,0 +1,16 @@
+1087-radare2,682-curl
+debug.c,debug.c,\libr\debug\debug.c,\docs\examples\debug.c,1378,100,24
+file.c,file.c,\libr\fs\file.c,\lib\file.c,78,376,20
+hash.c,hash.c,\libr\hash\hash.c,\lib\hash.c,333,242,45
+md4.c,md4.c,\libr\hash\md4.c,\lib\md4.c,147,335,18
+md5.c,md5.c,\libr\hash\md5.c,\lib\md5.c,160,367,17
+version.c,version.c,\libr\main\version.c,\lib\version.c,23,398,5
+http.c,http.c,\libr\socket\http.c,\lib\http.c,204,2827,46
+file.c,file.c,\libr\util\file.c,\lib\file.c,1162,376,56
+file.c,file.c,\shlr\grub\kern\file.c,\lib\file.c,173,376,24
+base64.c,base64.c,\shlr\sdb\src\base64.c,\lib\base64.c,105,182,19
+dict.c,dict.c,\shlr\sdb\src\dict.c,\lib\dict.c,236,209,30
+util.c,util.c,\shlr\sdb\src\util.c,\tests\server\util.c,327,375,51
+test.h,test.h,\shlr\grub\include\grub\test.h,\tests\libtest\test.h,47,311,3
+hash.h,hash.h,\shlr\heap\include\r_jemalloc\internal\hash.h,\lib\hash.h,253,57,1
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\tests\server\util.h,256,29,3

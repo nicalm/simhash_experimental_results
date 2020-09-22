@@ -1,0 +1,4 @@
+10549-luci,2257-core
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\core\js\config.js,53,48,2
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\settings\js\settings.js,54,72,3
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\apps\files_external\js\settings.js,54,1085,3

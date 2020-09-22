@@ -1,0 +1,3 @@
+1769-ChakraCore,99-redis
+stream.h,stream.h,\lib\wabt\src\stream.h,\src\stream.h,150,66,1
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\src\config.h,247,149,27

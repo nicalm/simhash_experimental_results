@@ -1,0 +1,15 @@
+551-FFmpeg,6444-yara
+parser.c,parser.c,\libavcodec\parser.c,\libyara\parser.c,259,939,46
+parser.h,parser.h,\libavcodec\parser.h,\libyara\include\yara\parser.h,21,79,1
+common.h,common.h,\libavutil\common.h,\common.h,288,91,28
+error.h,error.h,\libavutil\error.h,\libyara\include\yara\error.h,49,97,4
+hash.c,hash.c,\libavutil\hash.c,\libyara\hash.c,205,259,29
+hash.c,hash.c,\libavutil\hash.c,\libyara\modules\hash\hash.c,205,436,29
+hash.h,hash.h,\libavutil\hash.h,\libyara\include\yara\hash.h,22,62,1
+mem.c,mem.c,\libavutil\mem.c,\libyara\mem.c,378,93,39
+mem.h,mem.h,\libavutil\mem.h,\libyara\include\yara\mem.h,73,30,3
+time.c,time.c,\libavutil\time.c,\libyara\modules\time\time.c,72,36,11
+math.c,math.c,\compat\djgpp\math.c,\libyara\modules\math\math.c,24,449,8
+hash.c,hash.c,\libavutil\tests\hash.c,\libyara\hash.c,37,259,5
+hash.c,hash.c,\libavutil\tests\hash.c,\libyara\modules\hash\hash.c,37,436,4
+types.h,types.h,\compat\avisynth\avs\types.h,\libyara\include\yara\types.h,16,527,3

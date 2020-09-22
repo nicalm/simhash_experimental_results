@@ -1,0 +1,4 @@
+18490-libpcap,3405-libevent
+getopt.c,getopt.c,\missing\getopt.c,\WIN32-Code\getopt.c,85,96,63
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\strlcpy.c,25,32,8
+log.c,log.c,\rpcapd\log.c,\log.c,150,172,41

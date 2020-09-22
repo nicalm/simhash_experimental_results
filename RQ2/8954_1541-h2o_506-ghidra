@@ -1,0 +1,9 @@
+1541-h2o,506-ghidra
+types.h,types.h,\deps\picotls\deps\micro-ecc\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,87,280,17
+types.h,types.h,\deps\picotls\deps\micro-ecc\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,87,161,16
+getopt.c,getopt.c,\deps\picotls\picotlsvs\picotls-esni\getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,57,637,13
+types.h,types.h,\deps\brotli\c\include\brotli\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,31,280,5
+types.h,types.h,\deps\brotli\c\include\brotli\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,31,161,5
+build.py,build.py,\deps\picotls\deps\cifra\doc\build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,145,235,3
+Utils.java,Utils.java,\deps\brotli\java\org\brotli\dec\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcode\utils\Utils.java,36,127,9
+Utils.java,Utils.java,\deps\brotli\java\org\brotli\dec\Utils.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\pcodeCPort\utils\Utils.java,36,266,9

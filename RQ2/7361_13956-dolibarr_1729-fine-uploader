@@ -1,0 +1,4 @@
+13956-dolibarr,1729-fine-uploader
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,\test\static\third-party\jquery\jquery.js,6800,6645,4605
+image.js,image.js,\htdocs\includes\ckeditor\ckeditor\plugins\image\dialogs\image.js,\test\unit\image.js,41,65,0
+image.js,image.js,\htdocs\includes\ckeditor\ckeditor\plugins\image\dialogs\image.js,\client\js\image-support\image.js,41,209,0

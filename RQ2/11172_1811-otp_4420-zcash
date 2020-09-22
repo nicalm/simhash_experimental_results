@@ -1,0 +1,7 @@
+1811-otp,4420-zcash
+hash.h,hash.h,\erts\emulator\beam\hash.h,\src\hash.h,88,164,10
+hash.h,hash.h,\erts\emulator\beam\hash.h,\src\secp256k1\src\hash.h,88,27,2
+register.h,register.h,\erts\emulator\beam\register.h,\src\rpc\register.h,30,17,2
+common.h,common.h,\lib\crypto\c_src\common.h,\src\crypto\common.h,24,94,4
+hash.h,hash.h,\lib\erl_interface\src\registry\hash.h,\src\hash.h,21,164,1
+hash.h,hash.h,\lib\erl_interface\src\registry\hash.h,\src\secp256k1\src\hash.h,21,27,1

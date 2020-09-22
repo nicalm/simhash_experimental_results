@@ -1,0 +1,6 @@
+3980-passenger,86-netdata
+json.h,json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,\backends\json\json.h,953,27,1
+json.h,json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,\libnetdata\json\json.h,953,48,5
+os.h,os.h,\src\cxx_supportlib\vendor-modified\boost\predef\os.h,\libnetdata\os.h,23,30,2
+common.js,common.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\common.js,\web\gui\src\dashboard.js\common.js,316,169,37
+colors.js,colors.js,\src\nodejs_supportlib\vendor-copy\winston\node_modules\colors\lib\colors.js,\web\gui\src\dashboard.js\colors.js,118,26,5

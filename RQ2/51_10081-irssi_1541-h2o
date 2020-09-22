@@ -1,0 +1,10 @@
+10081-irssi,1541-h2o
+common.h,common.h,\src\common.h,\deps\mruby\include\mruby\common.h,81,52,5
+server.c,server.c,\src\fe-fuzz\server.c,\lib\http3\server.c,124,1150,14
+modes.c,modes.c,\src\irc\core\modes.c,\deps\picotls\deps\cifra\src\modes.c,700,72,20
+modes.h,modes.h,\src\irc\core\modes.h,\deps\picotls\deps\cifra\src\modes.h,45,138,1
+dump.c,dump.c,\src\irc\proxy\dump.c,\deps\mruby\src\dump.c,223,788,36
+proxy.c,proxy.c,\src\irc\proxy\proxy.c,\lib\core\proxy.c,76,612,22
+proxy.c,proxy.c,\src\irc\proxy\proxy.c,\lib\handler\proxy.c,76,86,13
+proxy.c,proxy.c,\src\irc\proxy\proxy.c,\lib\handler\configurator\proxy.c,76,497,20
+proxy.c,proxy.c,\src\irc\proxy\proxy.c,\t\00unit\lib\core\proxy.c,76,22,4

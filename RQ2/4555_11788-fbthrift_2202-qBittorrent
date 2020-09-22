@@ -1,0 +1,7 @@
+11788-fbthrift,2202-qBittorrent
+utils.cpp,utils.cpp,\thrift\compiler\mustache\utils.cpp,\src\gui\utils.cpp,63,156,14
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\src\gui\utils.h,19,30,3
+server.h,server.h,\thrift\lib\py3\server.h,\src\base\http\server.h,37,31,4
+types.h,types.h,\thrift\lib\py3\types.h,\src\base\http\types.h,20,80,2
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\src\app\main.cpp,47,324,2
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\src\base\http\server.h,58,31,3

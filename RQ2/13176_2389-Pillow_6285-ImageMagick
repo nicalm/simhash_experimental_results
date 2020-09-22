@@ -1,0 +1,4 @@
+2389-Pillow,6285-ImageMagick
+display.c,display.c,\src\display.c,\MagickCore\display.c,586,12792,82
+display.c,display.c,\src\display.c,\MagickWand\display.c,586,1706,76
+map.c,map.c,\src\map.c,\coders\map.c,284,278,34

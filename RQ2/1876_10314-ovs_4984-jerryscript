@@ -1,0 +1,6 @@
+10314-ovs,4984-jerryscript
+log.c,log.c,\ovsdb\log.c,\jerry-libm\log.c,693,117,34
+setup.py,setup.py,\python\setup.py,\targets\curie_bsp\setup.py,71,129,1
+math.h,math.h,\include\sparse\math.h,\jerry-libm\include\math.h,181,45,18
+util.py,util.py,\python\ovs\util.py,\tools\runners\util.py,36,36,3
+util.py,util.py,\python\ovstest\util.py,\tools\runners\util.py,139,36,3

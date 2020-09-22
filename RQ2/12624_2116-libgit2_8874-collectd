@@ -1,0 +1,9 @@
+2116-libgit2,8874-collectd
+common.c,common.c,\examples\common.c,\src\utils\common\common.c,194,1217,45
+common.h,common.h,\examples\common.h,\src\utils\common\common.h,74,131,6
+common.h,common.h,\src\common.h,\src\utils\common\common.h,114,131,9
+crc32.c,crc32.c,\deps\zlib\crc32.c,\src\utils\crc32\crc32.c,282,63,1
+common.h,common.h,\include\git2\common.h,\src\utils\common\common.h,103,131,9
+types.h,types.h,\include\git2\types.h,\src\libcollectdclient\collectd\types.h,131,48,4
+smart.c,smart.c,\src\transports\smart.c,\src\smart.c,400,200,31
+memory.c,memory.c,\tests\config\memory.c,\src\memory.c,116,314,19

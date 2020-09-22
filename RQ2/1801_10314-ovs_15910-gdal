@@ -1,0 +1,10 @@
+10314-ovs,15910-gdal
+conf.py,conf.py,\Documentation\conf.py,\gdal\doc\source\conf.py,71,323,4
+hash.h,hash.h,\lib\hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,285,91,19
+random.c,random.c,\lib\random.c,\gdal\alg\internal_libqhull\random.c,71,133,10
+util.h,util.h,\lib\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,431,411,63
+file.c,file.c,\ovsdb\file.c,\gdal\frmts\pcraster\libcsf\file.c,384,22,4
+setup.py,setup.py,\python\setup.py,\gdal\swig\python\setup.py,71,329,13
+json.h,json.h,\include\openvswitch\json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,95,18,7
+util.h,util.h,\include\openvswitch\util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,121,411,19
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\gdal\swig\python\osgeo\__init__.py,44,40,2

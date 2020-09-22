@@ -1,0 +1,3 @@
+11604-pdns,86-netdata
+d3.js,d3.js,\pdns\dnsdistdist\src_js\d3.js,\web\gui\src\dashboard.js\charting\d3.js,9543,35,6
+d3.js,d3.js,\pdns\recursordist\html\js\d3.js,\web\gui\src\dashboard.js\charting\d3.js,8972,35,7

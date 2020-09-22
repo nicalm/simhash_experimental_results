@@ -1,0 +1,4 @@
+10115-mbedtls,6285-ImageMagick
+cipher.c,cipher.c,\library\cipher.c,\MagickCore\cipher.c,859,781,106
+debug.c,debug.c,\library\debug.c,\coders\debug.c,345,144,19
+version.c,version.c,\library\version.c,\MagickCore\version.c,23,351,9

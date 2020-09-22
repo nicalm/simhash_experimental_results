@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,98-rust
+test.c,test.c,\depends\hiredis\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,570,30,6
+test.c,test.c,\depends\hiredis\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,570,196,20
+test.c,test.c,\depends\hiredis\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,570,22,5

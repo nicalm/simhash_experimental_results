@@ -1,0 +1,15 @@
+12658-Espruino,461-vim
+main.c,main.c,\targets\emscripten\main.c,\src\main.c,50,3234,9
+main.c,main.c,\targets\esp32\main.c,\src\main.c,92,3234,14
+main.c,main.c,\targets\linux\main.c,\src\main.c,335,3234,49
+main.c,main.c,\targets\nrf5x\main.c,\src\main.c,16,3234,4
+main.c,main.c,\targets\nrf5x_dfu\main.c,\src\main.c,191,3234,49
+main.c,main.c,\targets\stm32\main.c,\src\main.c,38,3234,11
+main.c,main.c,\targets\stm32_boot\main.c,\src\main.c,236,3234,49
+main.c,main.c,\targets\stm32_ll\main.c,\src\main.c,23,3234,5
+blowfish.c,blowfish.c,\libs\crypto\mbedtls\library\blowfish.c,\src\blowfish.c,542,569,62
+sha256.c,sha256.c,\libs\crypto\mbedtls\library\sha256.c,\src\sha256.c,320,332,85
+version.c,version.c,\libs\crypto\mbedtls\library\version.c,\src\version.c,23,1339,9
+version.h,version.h,\libs\crypto\mbedtls\include\mbedtls\version.h,\src\version.h,26,23,1
+version.h,version.h,\libs\tensorflow\tensorflow\core\public\version.h,\src\version.h,22,23,1
+sha256.c,sha256.c,\targetlibs\nrf5x_12\components\libraries\sha256\sha256.c,\src\sha256.c,148,332,23

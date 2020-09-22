@@ -1,0 +1,8 @@
+13536-activemq,7747-Attendize
+css.js,css.js,\activemq-web-console\src\main\webapp\js\css.js,\public\vendor\jquery\src\css.js,55,317,17
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\public\vendor\moment\src\lib\duration\prototype.js,4042,42,0
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\public\vendor\moment\src\lib\locale\prototype.js,4042,71,0
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\public\vendor\moment\src\lib\moment\prototype.js,4042,119,0
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\public\vendor\moment\src\lib\duration\prototype.js,1446,42,0
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\public\vendor\moment\src\lib\locale\prototype.js,1446,71,0
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\public\vendor\moment\src\lib\moment\prototype.js,1446,119,0

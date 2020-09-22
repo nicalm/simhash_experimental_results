@@ -1,0 +1,7 @@
+1193-mpv,2578-calibre
+main.c,main.c,\player\main.c,\bypy\windows\main.c,377,107,17
+custom.py,custom.py,\waftools\checks\custom.py,\manual\custom.py,106,248,0
+headers.py,headers.py,\waftools\generators\headers.py,\src\calibre\ebooks\mobi\debug\headers.py,38,525,0
+headers.py,headers.py,\waftools\generators\headers.py,\src\calibre\ebooks\mobi\reader\headers.py,38,292,0
+utils.h,utils.h,\video\out\gpu\utils.h,\src\calibre\ebooks\pdf\utils.h,68,29,9
+utils.h,utils.h,\video\out\opengl\utils.h,\src\calibre\ebooks\pdf\utils.h,28,29,1

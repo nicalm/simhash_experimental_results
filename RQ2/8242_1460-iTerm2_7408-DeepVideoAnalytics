@@ -1,0 +1,7 @@
+1460-iTerm2,7408-DeepVideoAnalytics
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\client\setup.py,20,15,2
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\repos\lopq\python\setup.py,20,90,2
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\client\setup.py,33,15,4
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\repos\lopq\python\setup.py,33,90,3
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\deploy\compose\__init__.py,52,161,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\deploy\kube\__init__.py,52,256,0

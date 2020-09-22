@@ -1,0 +1,12 @@
+10081-irssi,14239-neomutt
+common.h,common.h,\src\common.h,\test\address\common.h,81,17,2
+common.h,common.h,\src\common.h,\test\config\common.h,81,20,1
+common.h,common.h,\src\common.h,\test\rfc2047\common.h,81,15,1
+commands.c,commands.c,\src\core\commands.c,\commands.c,717,1013,152
+commands.h,commands.h,\src\core\commands.h,\commands.h,95,33,1
+parse.c,parse.c,\src\lib-config\parse.c,\email\parse.c,251,1240,56
+set.c,set.c,\src\lib-config\set.c,\config\set.c,123,518,31
+set.c,set.c,\src\lib-config\set.c,\test\config\set.c,123,269,31
+sasl.c,sasl.c,\src\irc\core\sasl.c,\conn\sasl.c,217,468,51
+dump.c,dump.c,\src\irc\proxy\dump.c,\config\dump.c,223,182,33
+dump.c,dump.c,\src\irc\proxy\dump.c,\test\config\dump.c,223,247,34

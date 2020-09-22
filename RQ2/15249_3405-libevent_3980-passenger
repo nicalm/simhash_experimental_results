@@ -1,0 +1,9 @@
+3405-libevent,3980-passenger
+event.c,event.c,\event.c,\src\cxx_supportlib\vendor-modified\libev\event.c,3093,299,142
+kqueue.c,kqueue.c,\kqueue.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\kqueue.c,387,295,57
+poll.c,poll.c,\poll.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\poll.c,242,65,10
+signal.c,signal.c,\signal.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\signal.c,348,264,46
+event.h,event.h,\include\event.h,\src\cxx_supportlib\vendor-modified\libev\event.h,39,104,13
+tree.h,tree.h,\WIN32-Code\tree.h,\src\cxx_supportlib\vendor-copy\libuv\include\tree.h,580,666,552
+queue.h,queue.h,\compat\sys\queue.h,\src\cxx_supportlib\vendor-copy\libuv\src\queue.h,304,73,1
+event.h,event.h,\include\event2\event.h,\src\cxx_supportlib\vendor-modified\libev\event.h,251,104,27

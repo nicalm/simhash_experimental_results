@@ -1,0 +1,12 @@
+10093-VeraCrypt,4139-outline-client
+config.h,config.h,\src\Crypto\config.h,\third_party\mbedtls\include\mbedtls\config.h,152,140,4
+config.h,config.h,\src\Crypto\config.h,\third_party\mbedtls\apple\include\mbedtls\config.h,152,140,4
+config.h,config.h,\src\Crypto\config.h,\third_party\mbedtls\linux\include\mbedtls\config.h,152,140,4
+config.h,config.h,\src\Crypto\config.h,\third_party\shadowsocks-libev\libcork\include\libcork\config\config.h,152,29,7
+pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\third_party\mbedtls\include\mbedtls\pkcs11.h,31,63,7
+pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\third_party\mbedtls\apple\include\mbedtls\pkcs11.h,31,63,7
+pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\third_party\mbedtls\linux\include\mbedtls\pkcs11.h,31,63,7
+config.h,config.h,\src\Common\libzip\config.h,\third_party\mbedtls\include\mbedtls\config.h,60,140,4
+config.h,config.h,\src\Common\libzip\config.h,\third_party\mbedtls\apple\include\mbedtls\config.h,60,140,4
+config.h,config.h,\src\Common\libzip\config.h,\third_party\mbedtls\linux\include\mbedtls\config.h,60,140,4
+config.h,config.h,\src\Common\libzip\config.h,\third_party\shadowsocks-libev\libcork\include\libcork\config\config.h,60,29,6

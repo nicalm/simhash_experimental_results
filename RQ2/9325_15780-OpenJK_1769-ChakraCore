@@ -1,0 +1,7 @@
+15780-OpenJK,1769-ChakraCore
+config.h,config.h,\code\mp3code\config.h,\lib\wabt\chakra\windows\config.h,74,247,20
+common.cpp,common.cpp,\code\qcommon\common.cpp,\pal\src\map\common.cpp,1128,35,12
+config.h,config.h,\codemp\mp3code\config.h,\lib\wabt\chakra\windows\config.h,74,247,20
+common.cpp,common.cpp,\codemp\qcommon\common.cpp,\pal\src\map\common.cpp,1234,35,12
+string.cpp,string.cpp,\tests\safe\string.cpp,\pal\src\cruntime\string.cpp,61,98,12
+string.cpp,string.cpp,\shared\qcommon\safe\string.cpp,\pal\src\cruntime\string.cpp,59,98,18

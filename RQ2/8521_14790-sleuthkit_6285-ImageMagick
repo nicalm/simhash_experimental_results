@@ -1,0 +1,9 @@
+14790-sleuthkit,6285-ImageMagick
+raw.c,raw.c,\tsk\img\raw.c,\coders\raw.c,577,426,40
+raw.h,raw.h,\tsk\img\raw.h,\coders\raw.h,31,19,4
+mac.c,mac.c,\tsk\vs\mac.c,\coders\mac.c,175,182,17
+sun.c,sun.c,\tsk\vs\sun.c,\coders\sun.c,273,745,47
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\MagickCore\compress.c,395,939,59
+magic.c,magic.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\magic.c,\MagickCore\magic.c,389,451,57
+magic.h,magic.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\magic.h,\MagickCore\magic.h,51,22,4
+thumbnail.c,thumbnail.c,\framework\modules\c_LibExifModule\libexif-0.6.20\contrib\examples\thumbnail.c,\coders\thumbnail.c,43,100,5

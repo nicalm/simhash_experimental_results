@@ -1,0 +1,13 @@
+222-prometheus,369-mongoose
+index.js,index.js,\web\ui\static\js\graph\index.js,\benchmarks\index.js,1022,135,38
+index.js,index.js,\web\ui\static\js\graph\index.js,\lib\index.js,1022,333,74
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\source\index.js,1022,34,1
+index.js,index.js,\web\ui\static\js\graph\index.js,\lib\error\index.js,1022,15,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\lib\schema\index.js,1022,17,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\examples\schema\storing-schemas-as-json\index.js,1022,16,1
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\3.0.x\docs\source\index.js,1022,18,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\3.1.x\docs\source\index.js,1022,18,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\3.2.x\docs\source\index.js,1022,19,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\3.3.x\docs\source\index.js,1022,20,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\3.4.x\docs\source\index.js,1022,20,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\docs\3.5.x\docs\source\index.js,1022,20,0

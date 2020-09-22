@@ -1,0 +1,10 @@
+6883-Sigil,86-netdata
+log.c,log.c,\3rdparty\hunspell\intl\log.c,\libnetdata\log\log.c,82,565,24
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,362,171,4
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,362,168,4
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,362,58,4
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,362,51,1
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,187,171,5
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,187,168,5
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,187,58,4
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,187,51,1

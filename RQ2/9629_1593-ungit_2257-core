@@ -1,0 +1,9 @@
+1593-ungit,2257-core
+config.js,config.js,\source\config.js,\core\js\config.js,203,48,9
+app.js,app.js,\components\app\app.js,\apps\files\js\app.js,123,181,17
+app.js,app.js,\components\app\app.js,\apps\files_external\js\app.js,123,76,14
+app.js,app.js,\components\app\app.js,\apps\files_sharing\js\app.js,123,272,25
+app.js,app.js,\components\app\app.js,\apps\files_trashbin\js\app.js,123,84,10
+app.js,app.js,\components\app\app.js,\apps\systemtags\js\app.js,123,73,12
+login.js,login.js,\components\login\login.js,\core\js\login.js,38,20,4
+navigation.js,navigation.js,\public\source\navigation.js,\apps\files\js\navigation.js,18,60,3

@@ -1,0 +1,5 @@
+2389-Pillow,3637-qutebrowser
+setup.py,setup.py,\setup.py,\setup.py,714,64,8
+conf.py,conf.py,\docs\conf.py,\doc\extapi\conf.py,45,36,9
+config.py,config.py,\winbuild\config.py,\qutebrowser\config\config.py,173,345,0
+config.py,config.py,\winbuild\config.py,\scripts\dev\pylint_checkers\qute_pylint\config.py,173,46,1

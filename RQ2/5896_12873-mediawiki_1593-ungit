@@ -1,0 +1,4 @@
+12873-mediawiki,1593-ungit
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\Gruntfile.js,150,404,43
+config.js,config.js,\mw-config\config.js,\source\config.js,114,203,12
+login.js,login.js,\resources\src\mediawiki.api\login.js,\components\login\login.js,37,38,5

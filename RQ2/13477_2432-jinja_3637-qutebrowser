@@ -1,0 +1,15 @@
+2432-jinja,3637-qutebrowser
+setup.py,setup.py,\setup.py,\setup.py,50,64,5
+conf.py,conf.py,\docs\conf.py,\doc\extapi\conf.py,40,36,6
+debug.py,debug.py,\jinja2\debug.py,\qutebrowser\utils\debug.py,152,191,13
+utils.py,utils.py,\jinja2\utils.py,\scripts\utils.py,349,39,6
+utils.py,utils.py,\jinja2\utils.py,\qutebrowser\utils\utils.py,349,406,18
+utils.py,utils.py,\jinja2\utils.py,\tests\helpers\utils.py,349,111,5
+conftest.py,conftest.py,\tests\conftest.py,\tests\conftest.py,77,205,5
+conftest.py,conftest.py,\tests\conftest.py,\tests\end2end\conftest.py,77,105,5
+conftest.py,conftest.py,\tests\conftest.py,\tests\end2end\features\conftest.py,77,429,2
+conftest.py,conftest.py,\tests\conftest.py,\tests\unit\javascript\conftest.py,77,51,5
+conftest.py,conftest.py,\tests\conftest.py,\tests\unit\keyinput\conftest.py,77,30,3
+test_debug.py,test_debug.py,\tests\test_debug.py,\tests\unit\utils\test_debug.py,59,177,2
+test_loader.py,test_loader.py,\tests\test_loader.py,\tests\unit\extensions\test_loader.py,294,78,2
+test_utils.py,test_utils.py,\tests\test_utils.py,\tests\unit\utils\test_utils.py,157,596,2

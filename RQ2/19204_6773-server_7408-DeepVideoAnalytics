@@ -1,0 +1,3 @@
+6773-server,7408-DeepVideoAnalytics
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\client\setup.py,15,15,2
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\repos\lopq\python\setup.py,15,90,0

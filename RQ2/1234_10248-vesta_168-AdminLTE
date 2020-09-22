@@ -1,0 +1,17 @@
+10248-vesta,168-AdminLTE
+Gruntfile.js,Gruntfile.js,\web\js\iviewer\Gruntfile.js,\plugins\raphael\Gruntfile.js,64,62,16
+jquery.mousewheel.js,jquery.mousewheel.js,\web\js\iviewer\test\jquery.mousewheel.js,\plugins\jquery-mousewheel\jquery.mousewheel.js,71,145,48
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\fullcalendar\main.js,50,7977,12
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\fullcalendar-bootstrap\main.js,50,59,4
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\fullcalendar-daygrid\main.js,50,1471,12
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\fullcalendar-interaction\main.js,50,1906,12
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\fullcalendar-timegrid\main.js,50,1195,12
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\daterangepicker\example\amd\main.js,50,104,10
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\plugins\daterangepicker\example\browserify\main.js,50,98,9
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\fullcalendar\main.js,94,7977,24
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\fullcalendar-bootstrap\main.js,94,59,4
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\fullcalendar-daygrid\main.js,94,1471,24
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\fullcalendar-interaction\main.js,94,1906,24
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\fullcalendar-timegrid\main.js,94,1195,24
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\daterangepicker\example\amd\main.js,94,104,12
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\plugins\daterangepicker\example\browserify\main.js,94,98,9

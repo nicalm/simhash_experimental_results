@@ -1,0 +1,5 @@
+1460-iTerm2,4960-capstone
+main.c,main.c,\SignedArchive\resign\main.c,\suite\cstest\src\main.c,60,300,17
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\bindings\python\setup.py,20,173,7
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\bindings\python\setup.py,33,173,6
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\bindings\python\capstone\__init__.py,52,801,0

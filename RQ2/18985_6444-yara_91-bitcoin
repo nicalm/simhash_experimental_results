@@ -1,0 +1,10 @@
+6444-yara,91-bitcoin
+common.h,common.h,\common.h,\src\crypto\common.h,91,83,25
+util.h,util.h,\tests\util.h,\src\rpc\util.h,199,173,3
+util.h,util.h,\tests\util.h,\src\secp256k1\src\util.h,199,99,4
+arena.h,arena.h,\libyara\include\yara\arena.h,\src\leveldb\util\arena.h,88,39,2
+endian.h,endian.h,\libyara\include\yara\endian.h,\src\compat\endian.h,55,198,16
+error.h,error.h,\libyara\include\yara\error.h,\src\util\error.h,97,21,1
+hash.h,hash.h,\libyara\include\yara\hash.h,\src\hash.h,62,153,3
+hash.h,hash.h,\libyara\include\yara\hash.h,\src\secp256k1\src\hash.h,62,27,1
+tests.c,tests.c,\libyara\modules\tests\tests.c,\src\secp256k1\src\tests.c,142,4396,29

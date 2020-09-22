@@ -1,0 +1,5 @@
+15910-gdal,682-curl
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\lib\file.c,22,376,8
+hash.h,hash.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\hash.h,\lib\hash.h,91,57,4
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\tests\server\util.h,411,29,3
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\docs\examples\debug.c,74,100,10

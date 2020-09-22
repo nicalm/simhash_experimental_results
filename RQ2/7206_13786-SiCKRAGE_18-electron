@@ -1,0 +1,4 @@
+13786-SiCKRAGE,18-electron
+config.py,config.py,\sickrage\core\config.py,\script\lib\config.py,2204,78,3
+config.py,config.py,\sickrage\indexers\config.py,\script\lib\config.py,20,78,0
+util.py,util.py,\sickrage\core\media\util.py,\script\lib\util.py,51,206,4

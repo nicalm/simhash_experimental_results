@@ -1,0 +1,11 @@
+140-neovim,702-swoole-src
+buffer.c,buffer.c,\src\nvim\buffer.c,\src\memory\buffer.c,3997,135,50
+buffer.h,buffer.h,\src\nvim\buffer.h,\include\buffer.h,90,46,5
+channel.c,channel.c,\src\nvim\channel.c,\src\core\channel.c,670,181,62
+context.h,context.h,\src\nvim\context.h,\include\context.h,38,115,4
+log.c,log.c,\src\nvim\log.c,\src\core\log.c,244,114,26
+buffer.c,buffer.c,\src\nvim\api\buffer.c,\src\memory\buffer.c,704,135,46
+signal.c,signal.c,\src\nvim\event\signal.c,\src\os\signal.c,49,308,16
+stream.c,stream.c,\src\nvim\event\stream.c,\src\network\stream.c,119,138,25
+channel.c,channel.c,\src\nvim\msgpack_rpc\channel.c,\src\core\channel.c,635,181,62
+signal.c,signal.c,\src\nvim\os\signal.c,\src\os\signal.c,160,308,29

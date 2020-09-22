@@ -1,0 +1,13 @@
+11788-fbthrift,5372-twisted
+utils.py,utils.py,\build\fbcode_builder\utils.py,\src\twisted\internet\utils.py,59,121,2
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\twisted\logger\__init__.py,44,45,3
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\twisted\python\__init__.py,44,15,0
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\twisted\_threads\__init__.py,44,15,0
+test_server.py,test_server.py,\thrift\perf\py\test_server.py,\src\twisted\names\test\test_server.py,92,596,0
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\twisted\logger\__init__.py,108,45,2
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\twisted\python\__init__.py,108,15,0
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\twisted\_threads\__init__.py,108,15,1
+server.py,server.py,\thrift\lib\py3\test\server.py,\src\twisted\names\server.py,109,154,0
+server.py,server.py,\thrift\lib\py3\test\server.py,\src\twisted\web\server.py,109,447,1
+test_client.py,test_client.py,\thrift\lib\py3\test\stream\test_client.py,\src\twisted\names\test\test_client.py,84,635,2
+test_client.py,test_client.py,\thrift\lib\py3\test\stream\test_client.py,\src\twisted\web\test\test_client.py,84,23,0

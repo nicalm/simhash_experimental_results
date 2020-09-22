@@ -1,0 +1,6 @@
+222-prometheus,3980-passenger
+index.js,index.js,\web\ui\static\js\graph\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,1022,31,6
+index.js,index.js,\web\ui\static\js\graph\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,1022,286,60
+index.js,index.js,\web\ui\static\js\graph\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,1022,71,23
+index.js,index.js,\web\ui\static\js\graph\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,1022,71,23
+bootstrap.js,bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,\resources\templates\error_renderer\with_details\src\bootstrap\bootstrap.js,3262,188,27

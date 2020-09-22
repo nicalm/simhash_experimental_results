@@ -1,0 +1,11 @@
+60276-esp-homekit-devices,702-swoole-src
+test.c,test.c,\external_libs\cJSON\cJSON\test.c,\thirdparty\hiredis\test.c,189,686,29
+base64.c,base64.c,\external_libs\homekit\src\base64.c,\src\protocol\base64.c,71,95,14
+ssl.c,ssl.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\src\ssl.c,\src\protocol\ssl.c,20388,1090,401
+ssl.c,ssl.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\src\ssl.c,\src\protocol\ssl.c,20388,1090,401
+client.c,client.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\examples\client\client.c,\examples\ssl\client.c,2172,112,28
+test.c,test.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\thirdparty\hiredis\test.c,12558,686,47
+hash.h,hash.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\hash.h,\include\hash.h,103,129,2
+client.c,client.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\examples\client\client.c,\examples\ssl\client.c,2172,112,28
+test.c,test.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\thirdparty\hiredis\test.c,12558,686,47
+hash.h,hash.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\hash.h,\include\hash.h,103,129,2

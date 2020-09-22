@@ -1,0 +1,14 @@
+1769-ChakraCore,6773-server
+stdafx.h,stdafx.h,\bin\ch\stdafx.h,\win\upgrade_wizard\stdafx.h,295,19,5
+stdafx.h,stdafx.h,\bin\GCStress\stdafx.h,\win\upgrade_wizard\stdafx.h,23,19,2
+stdafx.h,stdafx.h,\bin\NativeTests\stdafx.h,\win\upgrade_wizard\stdafx.h,35,19,4
+common.cc,common.cc,\lib\wabt\src\common.cc,\plugin\win_auth_client\common.cc,72,263,12
+common.h,common.h,\lib\wabt\src\common.h,\extra\mariabackup\common.h,324,136,21
+common.h,common.h,\lib\wabt\src\common.h,\plugin\win_auth_client\common.h,324,175,25
+common.h,common.h,\lib\wabt\src\common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,324,117,8
+token.h,token.h,\lib\wabt\src\token.h,\storage\mroonga\vendor\groonga\include\groonga\token.h,91,38,2
+file.cpp,file.cpp,\pal\src\cruntime\file.cpp,\storage\mroonga\vendor\groonga\lib\dat\file.cpp,584,44,11
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\storage\mroonga\vendor\groonga\include\groonga\config.h,247,36,5
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\dos\config.h,247,47,1
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\windows\config.h,247,54,4
+context.h,context.h,\pal\src\include\pal\context.h,\storage\tokudb\PerconaFT\util\context.h,383,64,2

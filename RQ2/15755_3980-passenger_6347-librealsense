@@ -1,0 +1,15 @@
+3980-passenger,6347-librealsense
+app.js,app.js,\test\stub\node\app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,114,480,22
+Factory.h,Factory.h,\src\agent\Core\SpawningKit\Factory.h,\wrappers\matlab\Factory.h,72,51,9
+os.h,os.h,\src\cxx_supportlib\vendor-modified\boost\predef\os.h,\common\os.h,23,41,0
+platform.h,platform.h,\src\cxx_supportlib\vendor-modified\boost\predef\platform.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,17,37,2
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,\wrappers\nodejs\index.js,31,2989,7
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,31,379,7
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\third-party\glfw\src\internal.h,221,570,16
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,\wrappers\nodejs\index.js,286,2989,56
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,286,379,54
+common.js,common.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\common.js,\wrappers\nodejs\examples\realsense_viewer\public\common.js,316,34,6
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,\wrappers\nodejs\index.js,71,2989,20
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,71,379,19
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,\wrappers\nodejs\index.js,71,2989,20
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,71,379,19

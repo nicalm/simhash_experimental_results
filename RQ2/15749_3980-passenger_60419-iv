@@ -1,0 +1,11 @@
+3980-passenger,60419-iv
+extconf.rb,extconf.rb,\src\ruby_native_extension\extconf.rb,\iv\phonic\ext\iv\phonic\extconf.rb,34,32,1
+extconf.rb,extconf.rb,\src\helper-scripts\download_binaries\extconf.rb,\iv\phonic\ext\iv\phonic\extconf.rb,75,32,1
+core.h,core.h,\src\cxx_supportlib\vendor-copy\utf8\core.h,\iv\lv5\radio\core.h,269,140,19
+json.h,json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,\iv\lv5\json.h,953,42,9
+compiler.h,compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,\iv\aero\compiler.h,34,473,1
+compiler.h,compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,\iv\lv5\breaker\compiler.h,34,285,1
+compiler.h,compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,\iv\lv5\railgun\compiler.h,34,977,2
+platform.h,platform.h,\src\cxx_supportlib\vendor-modified\boost\predef\platform.h,\iv\platform.h,17,161,2
+platform.h,platform.h,\src\cxx_supportlib\vendor-modified\boost\predef\platform.h,\iv\lv5\third_party\v8_dtoa\platform.h,17,27,2
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\iv\lv5\internal.h,221,238,4

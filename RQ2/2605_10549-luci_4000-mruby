@@ -1,0 +1,9 @@
+10549-luci,4000-mruby
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\mrbgems\mruby-io\src\file.c,355,449,63
+io.c,io.c,\libs\luci-lib-nixio\src\io.c,\mrbgems\mruby-io\src\io.c,157,1155,41
+socket.c,socket.c,\libs\luci-lib-nixio\src\socket.c,\mrbgems\mruby-socket\src\socket.c,113,803,24
+proc.c,proc.c,\libs\luci-lib-nixio\axTLS\httpd\proc.c,\src\proc.c,946,252,59
+proc.c,proc.c,\libs\luci-lib-nixio\axTLS\httpd\proc.c,\mrbgems\mruby-proc-ext\src\proc.c,946,149,33
+proc.c,proc.c,\libs\luci-lib-nixio\axTLS\httpd\proc.c,\mrbgems\mruby-proc-ext\test\proc.c,946,55,12
+symbol.c,symbol.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\symbol.c,\src\symbol.c,698,465,111
+symbol.c,symbol.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\symbol.c,\mrbgems\mruby-symbol-ext\src\symbol.c,698,44,9

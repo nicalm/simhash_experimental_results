@@ -1,0 +1,13 @@
+12658-Espruino,4984-jerryscript
+main.c,main.c,\targets\emscripten\main.c,\targets\curie_bsp\jerry_app\quark\main.c,50,130,7
+main.c,main.c,\targets\esp32\main.c,\targets\curie_bsp\jerry_app\quark\main.c,92,130,9
+log.c,log.c,\targets\esp8266\log.c,\jerry-libm\log.c,162,117,18
+user_main.c,user_main.c,\targets\esp8266\user_main.c,\targets\esp8266\user\user_main.c,190,86,33
+main.c,main.c,\targets\linux\main.c,\targets\curie_bsp\jerry_app\quark\main.c,335,130,21
+main.c,main.c,\targets\nrf5x\main.c,\targets\curie_bsp\jerry_app\quark\main.c,16,130,4
+main.c,main.c,\targets\nrf5x_dfu\main.c,\targets\curie_bsp\jerry_app\quark\main.c,191,130,20
+main.c,main.c,\targets\stm32\main.c,\targets\curie_bsp\jerry_app\quark\main.c,38,130,3
+main.c,main.c,\targets\stm32_boot\main.c,\targets\curie_bsp\jerry_app\quark\main.c,236,130,16
+main.c,main.c,\targets\stm32_ll\main.c,\targets\curie_bsp\jerry_app\quark\main.c,23,130,2
+config.h,config.h,\libs\crypto\mbedtls\config.h,\jerry-core\config.h,60,338,4
+common.h,common.h,\libs\tensorflow\tensorflow\lite\kernels\internal\common.h,\jerry-core\parser\js\common.h,517,78,8

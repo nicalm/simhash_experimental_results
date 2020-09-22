@@ -1,0 +1,6 @@
+2202-qBittorrent,702-swoole-src
+main.cpp,main.cpp,\src\app\main.cpp,\core-tests\src\main.cpp,324,55,19
+connection.h,connection.h,\src\base\http\connection.h,\include\connection.h,30,264,5
+server.cpp,server.cpp,\src\base\http\server.cpp,\core-tests\src\server.cpp,102,157,24
+server.cpp,server.cpp,\src\base\http\server.cpp,\examples\wrapper\server.cpp,102,115,23
+server.h,server.h,\src\base\http\server.h,\include\server.h,31,728,5

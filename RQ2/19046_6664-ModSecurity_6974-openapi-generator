@@ -1,0 +1,3 @@
+6664-ModSecurity,6974-openapi-generator
+tag.h,tag.h,\src\actions\tag.h,\samples\client\petstore\c\model\tag.h,25,20,1
+user.h,user.h,\src\variables\user.h,\samples\client\petstore\c\model\user.h,84,32,1

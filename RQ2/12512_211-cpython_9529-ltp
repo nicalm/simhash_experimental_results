@@ -1,0 +1,11 @@
+211-cpython,9529-ltp
+conf.py,conf.py,\Doc\conf.py,\doc\conf.py,104,30,6
+parser.h,parser.h,\Parser\parser.h,\src\parser\parser.h,37,79,2
+parser.h,parser.h,\Parser\parser.h,\src\parser.n\parser.h,37,105,2
+request.py,request.py,\Lib\urllib\request.py,\tools\autotest\request.py,1838,99,26
+build.py,build.py,\Lib\distutils\command\build.py,\tools\build-document\build.py,105,29,1
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\src\framework\io.h,23,43,4
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\src\ner\io.h,23,37,3
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\src\parser.n\io.h,23,28,3
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\src\postagger\io.h,23,31,3
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\src\segmentor\io.h,23,37,3

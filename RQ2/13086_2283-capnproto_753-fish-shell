@@ -1,0 +1,9 @@
+2283-capnproto,753-fish-shell
+common.h,common.h,\c++\src\benchmark\common.h,\src\common.h,229,572,48
+common.h,common.h,\c++\src\capnp\common.h,\src\common.h,508,572,75
+common.h,common.h,\c++\src\kj\common.h,\src\common.h,1054,572,99
+function.h,function.h,\c++\src\kj\function.h,\src\function.h,148,35,1
+io.h,io.h,\c++\src\kj\io.h,\src\io.h,223,260,45
+timer.h,timer.h,\c++\src\kj\timer.h,\src\timer.h,48,20,3
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\src\parser.h,69,170,7
+common.h,common.h,\c++\src\kj\parse\common.h,\src\common.h,564,572,84

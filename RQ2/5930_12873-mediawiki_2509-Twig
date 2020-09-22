@@ -1,0 +1,6 @@
+12873-mediawiki,2509-Twig
+Parser.php,Parser.php,\includes\parser\Parser.php,\src\Parser.php,3718,280,69
+Token.php,Token.php,\includes\session\Token.php,\src\Token.php,49,142,12
+HtmlTest.php,HtmlTest.php,\tests\phpunit\includes\HtmlTest.php,\tests\Profiler\Dumper\HtmlTest.php,729,22,3
+ImportTest.php,ImportTest.php,\tests\phpunit\includes\import\ImportTest.php,\tests\Node\ImportTest.php,259,29,6
+ParserTest.php,ParserTest.php,\tests\phpunit\includes\parser\ParserTest.php,\tests\ParserTest.php,74,160,12

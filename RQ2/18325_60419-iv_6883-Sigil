@@ -1,0 +1,5 @@
+60419-iv,6883-Sigil
+parser.h,parser.h,\iv\parser.h,\internal\gumbo\parser.h,1955,19,2
+parser.h,parser.h,\iv\aero\parser.h,\internal\gumbo\parser.h,693,19,2
+error.h,error.h,\iv\lv5\error.h,\internal\gumbo\error.h,131,114,2
+error.h,error.h,\iv\lv5\runtime\error.h,\internal\gumbo\error.h,18,114,1

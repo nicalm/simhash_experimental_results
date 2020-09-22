@@ -1,0 +1,5 @@
+4597-openvpn,9975-hexchat
+plugin.c,plugin.c,\src\openvpn\plugin.c,\src\common\plugin.c,812,1633,300
+plugin.h,plugin.h,\src\openvpn\plugin.h,\src\common\plugin.h,147,163,7
+ssl.c,ssl.c,\src\openvpn\ssl.c,\src\common\ssl.c,3094,386,104
+ssl.h,ssl.h,\src\openvpn\ssl.h,\src\common\ssl.h,185,40,2

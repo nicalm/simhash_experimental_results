@@ -1,0 +1,5 @@
+506-ghidra,60419-iv
+context.cc,context.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\context.cc,\iv\lv5\context.cc,166,1219,33
+symbol.h,symbol.h,\Ghidra\Features\PDB\src\pdb\headers\symbol.h,\iv\symbol.h,25,22,1
+symbol.h,symbol.h,\Ghidra\Features\PDB\src\pdb\headers\symbol.h,\iv\lv5\symbol.h,25,20,1
+symbol.h,symbol.h,\Ghidra\Features\PDB\src\pdb\headers\symbol.h,\iv\lv5\runtime\symbol.h,25,15,1

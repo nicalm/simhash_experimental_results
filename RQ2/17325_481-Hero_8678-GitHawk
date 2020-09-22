@@ -1,0 +1,8 @@
+481-Hero,8678-GitHawk
+SwiftSupport.swift,SwiftSupport.swift,\Sources\SwiftSupport.swift,\Pods\FBSnapshotTestCase\FBSnapshotTestCase\SwiftSupport.swift,34,101,10
+AppDelegate.swift,AppDelegate.swift,\TvOSExamples\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,23,36,12
+jazzy.js,jazzy.js,\docs\js\jazzy.js,\Local Pods\SwipeCellKit\docs\js\jazzy.js,48,37,23
+jazzy.js,jazzy.js,\docs\js\jazzy.js,\Local Pods\SwipeCellKit\docs\docsets\SwipeCellKit.docset\Contents\Resources\Documents\js\jazzy.js,48,37,23
+AppDelegate.swift,AppDelegate.swift,\Examples\Resources\AppDelegate.swift,\Classes\Systems\AppDelegate.swift,34,36,12
+jazzy.js,jazzy.js,\docs\docsets\Hero.docset\Contents\Resources\Documents\js\jazzy.js,\Local Pods\SwipeCellKit\docs\js\jazzy.js,48,37,23
+jazzy.js,jazzy.js,\docs\docsets\Hero.docset\Contents\Resources\Documents\js\jazzy.js,\Local Pods\SwipeCellKit\docs\docsets\SwipeCellKit.docset\Contents\Resources\Documents\js\jazzy.js,48,37,23

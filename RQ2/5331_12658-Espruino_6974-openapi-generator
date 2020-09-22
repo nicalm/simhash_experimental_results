@@ -1,0 +1,11 @@
+12658-Espruino,6974-openapi-generator
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python\petstore_api\__init__.py,781,63,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python-asyncio\petstore_api\__init__.py,781,63,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python-experimental\petstore_api\__init__.py,781,77,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python-tornado\petstore_api\__init__.py,781,63,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python\petstore_api\models\__init__.py,781,49,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python-asyncio\petstore_api\models\__init__.py,781,49,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\client\petstore\python-tornado\petstore_api\models\__init__.py,781,49,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\openapi3\client\petstore\python\petstore_api\__init__.py,781,65,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\openapi3\client\petstore\python-experimental\petstore_api\__init__.py,781,78,0
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\samples\openapi3\client\petstore\python\petstore_api\models\__init__.py,781,50,0

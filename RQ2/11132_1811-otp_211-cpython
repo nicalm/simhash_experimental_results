@@ -1,0 +1,4 @@
+1811-otp,211-cpython
+io.c,io.c,\erts\emulator\beam\io.c,\Modules\_decimal\libmpdec\io.c,6019,1119,338
+module.c,module.c,\erts\emulator\beam\module.c,\Modules\_sqlite\module.c,179,367,41
+module.h,module.h,\erts\emulator\beam\module.h,\Modules\_sqlite\module.h,68,21,1

@@ -1,0 +1,3 @@
+11093-mongoose-os,1615-rufus
+logging.h,logging.h,\include\common\logging.h,\src\libcdio\cdio\logging.h,54,30,1
+platform.h,platform.h,\include\common\platform.h,\src\bled\platform.h,109,498,15

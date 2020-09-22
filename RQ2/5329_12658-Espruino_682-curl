@@ -1,0 +1,9 @@
+12658-Espruino,682-curl
+security.c,security.c,\libs\network\cc3000\security.c,\lib\security.c,285,431,21
+base64.c,base64.c,\libs\crypto\mbedtls\library\base64.c,\lib\base64.c,195,182,23
+debug.c,debug.c,\libs\crypto\mbedtls\library\debug.c,\docs\examples\debug.c,264,100,19
+md4.c,md4.c,\libs\crypto\mbedtls\library\md4.c,\lib\md4.c,276,335,43
+md5.c,md5.c,\libs\crypto\mbedtls\library\md5.c,\lib\md5.c,293,367,45
+sha256.c,sha256.c,\libs\crypto\mbedtls\library\sha256.c,\lib\sha256.c,320,193,37
+version.c,version.c,\libs\crypto\mbedtls\library\version.c,\lib\version.c,23,398,9
+sha256.c,sha256.c,\targetlibs\nrf5x_12\components\libraries\sha256\sha256.c,\lib\sha256.c,148,193,22

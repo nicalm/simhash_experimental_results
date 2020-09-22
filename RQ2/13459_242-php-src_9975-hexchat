@@ -1,0 +1,7 @@
+242-php-src,9975-hexchat
+network.c,network.c,\main\network.c,\src\common\network.c,1015,126,31
+text.c,text.c,\ext\dom\text.c,\src\common\text.c,124,1817,27
+util.c,util.c,\ext\phar\util.c,\src\common\util.c,1635,1287,178
+exec.c,exec.c,\ext\standard\exec.c,\plugins\exec\exec.c,429,111,26
+url.c,url.c,\ext\standard\url.c,\src\common\url.c,541,502,76
+url.h,url.h,\ext\standard\url.h,\src\common\url.h,37,17,1

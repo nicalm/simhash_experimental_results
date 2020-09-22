@@ -1,0 +1,16 @@
+2909-mongoose,86-netdata
+unit_test.c,unit_test.c,\test\unit_test.c,\daemon\unit_test.c,4756,1810,194
+main.c,main.c,\examples\CC3200\main.c,\daemon\main.c,249,995,46
+main.c,main.c,\examples\NXP_K64\main.c,\daemon\main.c,131,995,22
+main.c,main.c,\examples\STM32F4_CC3100\main.c,\daemon\main.c,124,995,32
+main.js,main.js,\examples\CC3200\slfs\main.js,\web\gui\main.js,435,4130,91
+main.js,main.js,\examples\CC3200\slfs\main.js,\web\gui\src\dashboard.js\main.js,435,3119,88
+main.js,main.js,\examples\connected_device_4\web_root\main.js,\web\gui\main.js,62,4130,17
+main.js,main.js,\examples\connected_device_4\web_root\main.js,\web\gui\src\dashboard.js\main.js,62,3119,14
+main.c,main.c,\examples\ESP32_IDF\main\main.c,\daemon\main.c,75,995,12
+main.c,main.c,\examples\nRF51\http\main.c,\daemon\main.c,64,995,15
+main.c,main.c,\examples\nRF52\http\main.c,\daemon\main.c,66,995,16
+main.c,main.c,\examples\CC3200\ccs\MG_hello\main.c,\daemon\main.c,192,995,37
+main.c,main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,\daemon\main.c,142,995,27
+main.c,main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,\daemon\main.c,129,995,25
+main.c,main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,\daemon\main.c,147,995,30

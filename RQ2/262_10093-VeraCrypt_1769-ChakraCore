@@ -1,0 +1,16 @@
+10093-VeraCrypt,1769-ChakraCore
+Common.h,Common.h,\src\Common\Common.h,\lib\Common\Common.h,70,115,4
+Dictionary.h,Dictionary.h,\src\Common\Dictionary.h,\lib\Common\DataStructures\Dictionary.h,16,408,1
+config.h,config.h,\src\Crypto\config.h,\lib\wabt\chakra\windows\config.h,152,247,35
+misc.h,misc.h,\src\Crypto\misc.h,\pal\src\include\pal\misc.h,153,21,7
+Event.h,Event.h,\src\Platform\Event.h,\lib\Common\Common\Event.h,61,35,14
+Exception.cpp,Exception.cpp,\src\Platform\Exception.cpp,\lib\Runtime\Base\Exception.cpp,38,48,11
+SystemInfo.h,SystemInfo.h,\src\Platform\SystemInfo.h,\lib\Common\PlatformAgnostic\SystemInfo.h,16,58,7
+Thread.h,Thread.h,\src\Platform\Thread.h,\lib\Common\PlatformAgnostic\Thread.h,54,20,6
+Hash.cpp,Hash.cpp,\src\Volume\Hash.cpp,\lib\Parser\Hash.cpp,124,329,48
+Hash.h,Hash.h,\src\Volume\Hash.h,\lib\Parser\Hash.h,123,385,20
+config.h,config.h,\src\Common\libzip\config.h,\lib\wabt\chakra\windows\config.h,60,247,8
+SystemInfo.cpp,SystemInfo.cpp,\src\Platform\Unix\SystemInfo.cpp,\lib\Runtime\PlatformAgnostic\Platform\Linux\SystemInfo.cpp,48,16,6
+SystemInfo.cpp,SystemInfo.cpp,\src\Platform\Unix\SystemInfo.cpp,\lib\Runtime\PlatformAgnostic\Platform\Unix\SystemInfo.cpp,48,16,6
+Thread.cpp,Thread.cpp,\src\Platform\Unix\Thread.cpp,\lib\Runtime\PlatformAgnostic\Platform\Common\Thread.cpp,39,29,6
+Thread.cpp,Thread.cpp,\src\Platform\Unix\Thread.cpp,\lib\Runtime\PlatformAgnostic\Platform\Windows\Thread.cpp,39,38,10

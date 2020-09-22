@@ -1,0 +1,11 @@
+12658-Espruino,1615-rufus
+config.h,config.h,\libs\crypto\mbedtls\config.h,\src\ext2fs\config.h,60,182,4
+config.h,config.h,\libs\crypto\mbedtls\config.h,\src\libcdio\config.h,60,53,4
+net.c,net.c,\libs\crypto\mbedtls\library\net.c,\src\net.c,396,928,69
+sha512.c,sha512.c,\libs\crypto\mbedtls\library\sha512.c,\src\ext2fs\sha512.c,373,246,32
+types.h,types.h,\targetlibs\nrf5x_12\external\micro-ecc\types.h,\src\libcdio\cdio\types.h,87,181,17
+types.h,types.h,\targetlibs\nrf5x_15\external\micro-ecc\types.h,\src\libcdio\cdio\types.h,87,181,17
+platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\src\bled\platform.h,106,498,39
+crc16.c,crc16.c,\targetlibs\nrf5x_12\components\libraries\crc16\crc16.c,\src\ext2fs\crc16.c,18,48,5
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\src\bled\crc32.c,19,82,7
+types.h,types.h,\libs\tensorflow\tensorflow\lite\kernels\internal\types.h,\src\libcdio\cdio\types.h,784,181,11

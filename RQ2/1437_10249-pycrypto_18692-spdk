@@ -1,0 +1,9 @@
+10249-pycrypto,18692-spdk
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\scripts\rpc\__init__.py,90,116,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\scripts\rpc\__init__.py,47,116,1
+common.py,common.py,\lib\Crypto\SelfTest\Cipher\common.py,\scripts\perf\nvmf\common.py,555,30,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\scripts\rpc\__init__.py,18,116,0
+common.py,common.py,\lib\Crypto\SelfTest\Hash\common.py,\scripts\perf\nvmf\common.py,176,30,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\scripts\rpc\__init__.py,23,116,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\scripts\rpc\__init__.py,16,116,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\scripts\rpc\__init__.py,17,116,0

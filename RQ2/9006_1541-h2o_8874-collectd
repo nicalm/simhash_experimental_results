@@ -1,0 +1,12 @@
+1541-h2o,8874-collectd
+memcached.c,memcached.c,\lib\common\memcached.c,\src\memcached.c,352,580,52
+memory.c,memory.c,\lib\common\memory.c,\src\memory.c,372,314,31
+redis.c,redis.c,\lib\common\redis.c,\src\redis.c,319,630,73
+common.c,common.c,\lib\http3\common.c,\src\utils\common\common.c,821,1217,175
+server.c,server.c,\lib\http3\server.c,\src\libcollectdclient\server.c,1150,170,36
+load.c,load.c,\deps\mruby\src\load.c,\src\load.c,574,132,23
+redis.c,redis.c,\lib\handler\mruby\redis.c,\src\redis.c,237,630,49
+memory.c,memory.c,\deps\brotli\c\enc\memory.c,\src\memory.c,147,314,27
+common.h,common.h,\deps\mruby\include\mruby\common.h,\src\utils\common\common.h,52,131,9
+types.h,types.h,\deps\picotls\deps\micro-ecc\types.h,\src\libcollectdclient\collectd\types.h,87,48,1
+types.h,types.h,\deps\brotli\c\include\brotli\types.h,\src\libcollectdclient\collectd\types.h,31,48,2

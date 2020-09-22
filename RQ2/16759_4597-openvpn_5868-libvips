@@ -1,0 +1,9 @@
+4597-openvpn,5868-libvips
+base64.c,base64.c,\src\openvpn\base64.c,\libvips\iofuncs\base64.c,150,162,35
+buffer.c,buffer.c,\src\openvpn\buffer.c,\libvips\iofuncs\buffer.c,1182,447,100
+error.c,error.c,\src\openvpn\error.c,\libvips\iofuncs\error.c,754,530,157
+error.h,error.h,\src\openvpn\error.h,\libvips\include\vips\error.h,214,58,4
+init.c,init.c,\src\openvpn\init.c,\libvips\iofuncs\init.c,3572,636,136
+basic.h,basic.h,\src\tapctl\basic.h,\libvips\include\vips\basic.h,31,29,3
+error.h,error.h,\src\tapctl\error.h,\libvips\include\vips\error.h,48,58,4
+base64.c,base64.c,\sample\sample-plugins\simple\base64.c,\libvips\iofuncs\base64.c,85,162,23

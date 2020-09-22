@@ -1,0 +1,5 @@
+2116-libgit2,63225-sedutil
+sha1.h,sha1.h,\src\hash\sha1.h,\Common\pbkdf2\sha1.h,24,20,1
+sha1.c,sha1.c,\tests\core\sha1.c,\Common\pbkdf2\sha1.c,48,103,10
+sha1.c,sha1.c,\src\hash\sha1\sha1dc\sha1.c,\Common\pbkdf2\sha1.c,1597,103,19
+sha1.h,sha1.h,\src\hash\sha1\sha1dc\sha1.h,\Common\pbkdf2\sha1.h,42,20,2

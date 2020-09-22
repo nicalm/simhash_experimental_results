@@ -1,0 +1,6 @@
+10081-irssi,2283-capnproto
+common.h,common.h,\src\common.h,\c++\src\benchmark\common.h,81,229,9
+common.h,common.h,\src\common.h,\c++\src\capnp\common.h,81,508,5
+common.h,common.h,\src\common.h,\c++\src\kj\common.h,81,1054,6
+common.h,common.h,\src\common.h,\c++\src\kj\parse\common.h,81,564,5
+tls.h,tls.h,\src\core\tls.h,\c++\src\kj\compat\tls.h,54,84,3

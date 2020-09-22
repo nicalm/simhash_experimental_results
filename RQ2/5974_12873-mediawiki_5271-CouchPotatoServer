@@ -1,0 +1,9 @@
+12873-mediawiki,5271-CouchPotatoServer
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\Gruntfile.js,150,211,41
+category.js,category.js,\resources\src\mediawiki.api\category.js,\couchpotato\core\plugins\category\static\category.js,57,257,15
+login.js,login.js,\resources\src\mediawiki.api\login.js,\couchpotato\static\scripts\page\login.js,37,26,4
+notification.js,notification.js,\resources\src\mediawiki.notification\notification.js,\couchpotato\core\notifications\core\static\notification.js,247,205,36
+search.js,search.js,\resources\src\mediawiki.special.search\search.js,\couchpotato\core\media\movie\_base\static\search.js,35,194,6
+search.js,search.js,\resources\src\mediawiki.special.search\search.js,\couchpotato\core\media\_base\search\static\search.js,35,162,6
+page.js,page.js,\tests\selenium\specs\page.js,\couchpotato\static\scripts\page.js,89,138,9
+page.js,page.js,\tests\selenium\specs\page.js,\couchpotato\core\media\movie\_base\static\page.js,89,34,1

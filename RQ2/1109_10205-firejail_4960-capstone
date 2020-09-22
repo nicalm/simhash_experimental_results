@@ -1,0 +1,14 @@
+10205-firejail,4960-capstone
+main.c,main.c,\src\faudit\main.c,\suite\cstest\src\main.c,49,300,10
+main.c,main.c,\src\fbuilder\main.c,\suite\cstest\src\main.c,63,300,15
+utils.c,utils.c,\src\fbuilder\utils.c,\utils.c,39,92,8
+main.c,main.c,\src\fcopy\main.c,\suite\cstest\src\main.c,305,300,46
+main.c,main.c,\src\firecfg\main.c,\suite\cstest\src\main.c,379,300,48
+main.c,main.c,\src\firejail\main.c,\suite\cstest\src\main.c,2361,300,62
+main.c,main.c,\src\fldd\main.c,\suite\cstest\src\main.c,252,300,49
+main.c,main.c,\src\fnet\main.c,\suite\cstest\src\main.c,111,300,24
+main.c,main.c,\src\fnetfilter\main.c,\suite\cstest\src\main.c,155,300,25
+main.c,main.c,\src\fsec-optimize\main.c,\suite\cstest\src\main.c,57,300,10
+main.c,main.c,\src\fsec-print\main.c,\suite\cstest\src\main.c,44,300,8
+main.c,main.c,\src\fseccomp\main.c,\suite\cstest\src\main.c,74,300,9
+main.c,main.c,\src\ftee\main.c,\suite\cstest\src\main.c,172,300,33

@@ -1,0 +1,14 @@
+8874-collectd,9975-hexchat
+df.c,df.c,\src\df.c,\plugins\sysinfo\shared\df.c,257,27,5
+exec.c,exec.c,\src\exec.c,\plugins\exec\exec.c,695,111,32
+lua.c,lua.c,\src\lua.c,\plugins\lua\lua.c,424,1572,104
+network.c,network.c,\src\network.c,\src\common\network.c,2472,126,33
+network.h,network.h,\src\network.h,\src\common\network.h,20,19,1
+perl.c,perl.c,\src\perl.c,\plugins\perl\perl.c,1789,1280,244
+plugin.c,plugin.c,\src\daemon\plugin.c,\src\common\plugin.c,2059,1633,293
+plugin.h,plugin.h,\src\daemon\plugin.h,\src\common\plugin.h,248,163,7
+network.c,network.c,\src\libcollectdclient\network.c,\src\common\network.c,312,126,31
+server.c,server.c,\src\libcollectdclient\server.c,\src\common\server.c,170,1542,43
+network.h,network.h,\src\libcollectdclient\collectd\network.h,\src\common\network.h,32,19,2
+server.h,server.h,\src\libcollectdclient\collectd\server.h,\src\common\server.h,25,18,1
+match.c,match.c,\src\utils\match\match.c,\plugins\sysinfo\unix\match.c,278,73,12

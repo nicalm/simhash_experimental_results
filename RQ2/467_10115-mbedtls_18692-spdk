@@ -1,0 +1,5 @@
+10115-mbedtls,18692-spdk
+base64.c,base64.c,\library\base64.c,\lib\util\base64.c,199,180,32
+md5.c,md5.c,\library\md5.c,\lib\iscsi\md5.c,358,33,10
+base64.h,base64.h,\include\mbedtls\base64.h,\include\spdk\base64.h,24,22,7
+version.h,version.h,\include\mbedtls\version.h,\include\spdk\version.h,26,37,5

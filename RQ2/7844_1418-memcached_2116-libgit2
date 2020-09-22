@@ -1,0 +1,14 @@
+1418-memcached,2116-libgit2
+cache.c,cache.c,\cache.c,\src\cache.c,132,204,25
+cache.c,cache.c,\cache.c,\tests\index\cache.c,132,176,7
+cache.c,cache.c,\cache.c,\tests\object\cache.c,132,218,28
+cache.h,cache.h,\cache.h,\src\cache.h,38,48,2
+hash.c,hash.c,\hash.c,\src\hash.c,18,80,5
+hash.c,hash.c,\hash.c,\tests\object\raw\hash.c,18,123,2
+stats.c,stats.c,\stats.c,\tests\diff\stats.c,274,275,19
+thread.c,thread.c,\thread.c,\src\win32\thread.c,650,183,24
+tls.c,tls.c,\tls.c,\src\streams\tls.c,126,55,10
+trace.h,trace.h,\trace.h,\src\trace.h,69,43,3
+trace.h,trace.h,\trace.h,\include\git2\trace.h,69,18,1
+util.c,util.c,\util.c,\src\util.c,193,653,45
+util.h,util.h,\util.h,\src\util.h,20,264,3

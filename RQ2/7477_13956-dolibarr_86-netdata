@@ -1,0 +1,5 @@
+13956-dolibarr,86-netdata
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\web\gui\main.js,75,4130,20
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\web\gui\src\dashboard.js\main.js,75,3119,21
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\web\gui\src\dashboard.js\common.js,48,169,8
+options.js,options.js,\htdocs\includes\ckeditor\ckeditor\plugins\scayt\dialogs\options.js,\web\gui\src\dashboard.js\options.js,32,131,0

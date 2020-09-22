@@ -1,0 +1,4 @@
+13956-dolibarr,4701-sonarqube
+markdown.js,markdown.js,\htdocs\includes\ace\snippets\markdown.js,\server\sonar-web\src\main\js\helpers\markdown.js,93,68,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,40,79,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\server\sonar-web\config\documentation-loader\index.js,40,28,1

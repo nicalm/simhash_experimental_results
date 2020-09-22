@@ -1,0 +1,5 @@
+1811-otp,5868-libvips
+binary.c,binary.c,\erts\emulator\beam\binary.c,\libvips\arithmetic\binary.c,1336,52,9
+copy.c,copy.c,\erts\emulator\beam\copy.c,\libvips\conversion\copy.c,1821,229,23
+error.h,error.h,\erts\emulator\beam\error.h,\libvips\include\vips\error.h,82,58,1
+math.c,math.c,\lib\crypto\c_src\math.c,\libvips\arithmetic\math.c,25,240,3

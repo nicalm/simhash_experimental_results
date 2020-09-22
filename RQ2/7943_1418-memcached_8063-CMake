@@ -1,0 +1,6 @@
+1418-memcached,8063-CMake
+hash.c,hash.c,\hash.c,\Utilities\cmcurl\lib\hash.c,18,242,5
+thread.c,thread.c,\thread.c,\Utilities\cmlibuv\src\unix\thread.c,650,575,93
+thread.c,thread.c,\thread.c,\Utilities\cmlibuv\src\win\thread.c,650,341,63
+util.c,util.c,\util.c,\Utilities\cmlibuv\src\win\util.c,193,1300,49
+util.h,util.h,\util.h,\Utilities\cmlibrhash\librhash\util.h,20,23,3

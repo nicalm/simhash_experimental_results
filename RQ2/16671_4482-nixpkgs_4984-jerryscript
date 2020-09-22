@@ -1,0 +1,3 @@
+4482-nixpkgs,4984-jerryscript
+config.h,config.h,\pkgs\os-specific\linux\net-tools\config.h,\jerry-core\config.h,40,338,0
+settings.py,settings.py,\pkgs\servers\mail\mailman\settings.py,\tools\settings.py,258,22,0

@@ -1,0 +1,12 @@
+10549-luci,1615-rufus
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\src\ext2fs\config.h,89,182,0
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\src\libcdio\config.h,89,53,0
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\src\ms-sys\file.c,355,158,20
+fs.c,fs.c,\libs\luci-lib-nixio\src\fs.c,\src\syslinux\libinstaller\fs.c,461,119,11
+process.c,process.c,\libs\luci-lib-nixio\src\process.c,\src\process.c,351,518,57
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\src\ext2fs\config.h,89,182,0
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\src\libcdio\config.h,89,53,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\src\ext2fs\config.h,35,182,2
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\src\libcdio\config.h,35,53,2
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\src\libcdio\driver\util.c,81,124,20
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\src\libcdio\driver\util.c,261,124,27

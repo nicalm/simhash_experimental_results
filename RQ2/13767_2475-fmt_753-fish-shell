@@ -1,0 +1,3 @@
+2475-fmt,753-fish-shell
+conf.py,conf.py,\doc\conf.py,\sphinx_doc_src\conf.py,37,79,8
+color.h,color.h,\include\fmt\color.h,\src\color.h,479,90,11

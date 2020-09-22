@@ -1,0 +1,8 @@
+1087-radare2,981-numpy
+alloc.c,alloc.c,\binr\preload\alloc.c,\numpy\core\src\multiarray\alloc.c,112,216,22
+alloc.c,alloc.c,\libr\util\alloc.c,\numpy\core\src\multiarray\alloc.c,59,216,14
+utils.h,utils.h,\shlr\gdb\include\utils.h,\numpy\core\include\numpy\utils.h,15,15,1
+common.c,common.c,\shlr\gdb\src\common.c,\numpy\core\src\multiarray\common.c,141,698,25
+utils.h,utils.h,\shlr\qnx\include\utils.h,\numpy\core\include\numpy\utils.h,24,15,2
+buffer.c,buffer.c,\shlr\sdb\src\buffer.c,\numpy\core\src\multiarray\buffer.c,50,877,20
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\numpy\core\src\multiarray\common.h,480,192,1

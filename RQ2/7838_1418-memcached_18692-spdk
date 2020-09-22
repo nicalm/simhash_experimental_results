@@ -1,0 +1,6 @@
+1418-memcached,18692-spdk
+crc32c.c,crc32c.c,\crc32c.c,\lib\util\crc32c.c,277,71,16
+stats.c,stats.c,\stats.c,\module\bdev\ocf\stats.c,274,66,3
+thread.c,thread.c,\thread.c,\lib\thread\thread.c,650,1021,114
+trace.h,trace.h,\trace.h,\include\spdk\trace.h,69,154,2
+util.h,util.h,\util.h,\include\spdk\util.h,20,52,2

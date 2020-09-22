@@ -1,0 +1,4 @@
+10395-jitsi,24-node
+err.h,err.h,\src\native\windows\setup\err.h,\deps\openssl\openssl\include\openssl\err.h,18,222,3
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\deps\openssl\openssl\test\ossl_shim\include\openssl\base.h,66,66,1
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\deps\v8\src\utils\version.h,40,39,1

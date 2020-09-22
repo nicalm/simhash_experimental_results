@@ -1,0 +1,10 @@
+12658-Espruino,4000-mruby
+socket.c,socket.c,\libs\network\cc3000\socket.c,\mrbgems\mruby-socket\src\socket.c,456,803,103
+debug.c,debug.c,\libs\crypto\mbedtls\library\debug.c,\src\debug.c,264,175,35
+error.c,error.c,\libs\crypto\mbedtls\library\error.c,\src\error.c,583,426,19
+version.c,version.c,\libs\crypto\mbedtls\library\version.c,\src\version.c,23,15,2
+socket.c,socket.c,\libs\network\wiznet\Ethernet\socket.c,\mrbgems\mruby-socket\src\socket.c,725,803,140
+debug.h,debug.h,\libs\crypto\mbedtls\include\mbedtls\debug.h,\include\mruby\debug.h,72,38,1
+version.h,version.h,\libs\crypto\mbedtls\include\mbedtls\version.h,\include\mruby\version.h,26,43,4
+version.h,version.h,\libs\tensorflow\tensorflow\core\public\version.h,\include\mruby\version.h,22,43,1
+common.h,common.h,\libs\tensorflow\tensorflow\lite\kernels\internal\common.h,\include\mruby\common.h,517,55,15

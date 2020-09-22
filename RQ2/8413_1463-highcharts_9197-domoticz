@@ -1,0 +1,9 @@
+1463-highcharts,9197-domoticz
+highcharts-more.src.js,highcharts-more.src.js,\js\masters\highcharts-more.src.js,\www\js\highcharts\highcharts-more.src.js,15,3631,1
+highcharts.src.js,highcharts.src.js,\js\masters\highcharts.src.js,\www\js\highcharts\highcharts.src.js,64,18400,2
+exporting.src.js,exporting.src.js,\js\modules\exporting.src.js,\www\js\highcharts\modules\exporting.src.js,814,902,643
+xrange.src.js,xrange.src.js,\js\modules\xrange.src.js,\www\js\highcharts\modules\xrange.src.js,302,348,198
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\www\app\app.js,325,742,35
+server.js,server.js,\tools\gulptasks\lib\api\server.js,\dzVents\runtime\integration-tests\server.js,94,32,4
+highcharts-more.js,highcharts-more.js,\exporting-server\java\highcharts-export\highcharts-export-convert\target\classes\phantomjs\highcharts-more.js,\www\js\highcharts\highcharts-more.js,47,90,0
+highcharts.js,highcharts.js,\exporting-server\java\highcharts-export\highcharts-export-convert\target\classes\phantomjs\highcharts.js,\www\js\highcharts\highcharts.js,317,428,0

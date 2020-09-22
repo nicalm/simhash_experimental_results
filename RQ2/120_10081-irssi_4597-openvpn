@@ -1,0 +1,7 @@
+10081-irssi,4597-openvpn
+common.h,common.h,\src\common.h,\src\openvpn\common.h,81,33,5
+log.c,log.c,\src\core\log.c,\sample\sample-plugins\log\log.c,455,130,36
+misc.c,misc.c,\src\core\misc.c,\src\openvpn\misc.c,805,564,159
+misc.h,misc.h,\src\core\misc.h,\src\openvpn\misc.h,55,89,1
+proxy.c,proxy.c,\src\irc\proxy\proxy.c,\src\openvpn\proxy.c,76,852,20
+proxy.h,proxy.h,\src\irc\proxy\proxy.h,\src\openvpn\proxy.h,28,56,1

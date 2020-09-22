@@ -1,0 +1,6 @@
+8063-CMake,9975-hexchat
+url.c,url.c,\Utilities\cmcurl\lib\url.c,\src\common\url.c,2784,502,125
+url.h,url.h,\Utilities\cmcurl\lib\url.h,\src\common\url.h,46,17,1
+util.h,util.h,\Utilities\cmlibrhash\librhash\util.h,\src\common\util.h,23,47,3
+tree.h,tree.h,\Utilities\cmlibuv\include\uv\tree.h,\src\common\tree.h,666,16,1
+util.c,util.c,\Utilities\cmlibuv\src\win\util.c,\src\common\util.c,1300,1287,154

@@ -1,0 +1,17 @@
+6347-librealsense,8063-CMake
+archive.h,archive.h,\src\archive.h,\Utilities\cmlibarchive\libarchive\archive.h,403,603,1
+example.h,example.h,\examples\C\example.h,\Tests\UseSWIG\example.h,22,31,3
+example.h,example.h,\examples\C\example.h,\Tests\Plugin\include\example.h,22,19,1
+debug.h,debug.h,\src\core\debug.h,\Utilities\cmzstd\lib\common\debug.h,22,39,1
+config.h,config.h,\src\pipeline\config.h,\Utilities\cmjsoncpp\include\json\config.h,54,130,1
+internal.h,internal.h,\third-party\glfw\src\internal.h,\Utilities\cmexpat\lib\internal.h,570,44,9
+internal.h,internal.h,\third-party\glfw\src\internal.h,\Utilities\cmlibuv\src\unix\internal.h,570,258,16
+internal.h,internal.h,\third-party\glfw\src\internal.h,\Utilities\cmlibuv\src\win\internal.h,570,184,8
+xxhash.c,xxhash.c,\third-party\realsense-file\lz4\xxhash.c,\Utilities\cmlibarchive\libarchive\xxhash.c,606,351,194
+xxhash.c,xxhash.c,\third-party\realsense-file\lz4\xxhash.c,\Utilities\cmzstd\lib\common\xxhash.c,606,594,558
+xxhash.h,xxhash.h,\third-party\realsense-file\lz4\xxhash.h,\Utilities\cmzstd\lib\common\xxhash.h,109,109,103
+xxhash.c,xxhash.c,\third-party\realsense-file\rosbag\roslz4\src\xxhash.c,\Utilities\cmlibarchive\libarchive\xxhash.c,305,351,283
+xxhash.c,xxhash.c,\third-party\realsense-file\rosbag\roslz4\src\xxhash.c,\Utilities\cmzstd\lib\common\xxhash.c,305,594,190
+xxhash.h,xxhash.h,\third-party\realsense-file\rosbag\roslz4\src\xxhash.h,\Utilities\cmzstd\lib\common\xxhash.h,20,109,7
+debug.h,debug.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\debug.h,\Utilities\cmzstd\lib\common\debug.h,21,39,2
+common.h,common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,\Utilities\cmliblzma\liblzma\common\common.h,501,136,12

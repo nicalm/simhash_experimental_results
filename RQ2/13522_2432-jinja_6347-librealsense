@@ -1,0 +1,4 @@
+2432-jinja,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,50,64,6
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,50,21,0
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,50,73,4

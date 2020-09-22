@@ -1,0 +1,4 @@
+63411-CMS,63622-mirador
+config.js,config.js,\iu-application\views\administration\ckeditor\config.js,\src\state\actions\config.js,16,21,1
+config.js,config.js,\iu-application\views\administration\ckeditor\config.js,\src\state\reducers\config.js,16,15,1
+config.js,config.js,\iu-application\views\administration\ckeditor\config.js,\src\state\selectors\config.js,16,44,0

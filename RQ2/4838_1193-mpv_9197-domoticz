@@ -1,0 +1,4 @@
+1193-mpv,9197-domoticz
+codecs.h,codecs.h,\common\codecs.h,\hardware\plugins\Include\codecs.h,23,90,1
+lua.c,lua.c,\player\lua.c,\lua\src\lua.c,1109,393,75
+stream.h,stream.h,\stream\stream.h,\cereal\external\rapidjson\stream.h,161,67,8

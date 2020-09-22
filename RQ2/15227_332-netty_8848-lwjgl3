@@ -1,0 +1,4 @@
+332-netty,8848-lwjgl3
+Version.java,Version.java,\common\src\main\java\io\netty\util\Version.java,\modules\lwjgl\core\src\main\java\org\lwjgl\Version.java,128,31,8
+MathUtil.java,MathUtil.java,\common\src\main\java\io\netty\util\internal\MathUtil.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\MathUtil.java,15,83,8
+MathUtil.java,MathUtil.java,\common\src\main\java\io\netty\util\internal\MathUtil.java,\modules\lwjgl\core\src\main\java10\org\lwjgl\system\MathUtil.java,15,87,8

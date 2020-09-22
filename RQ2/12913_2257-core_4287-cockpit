@@ -1,0 +1,7 @@
+2257-core,4287-cockpit
+config.js,config.js,\core\js\config.js,\pkg\machines\config.js,48,18,5
+login.js,login.js,\core\js\login.js,\src\ws\login.js,20,663,5
+search.js,search.js,\apps\files\js\search.js,\pkg\docker\search.js,141,135,13
+client.js,client.js,\core\js\files\client.js,\pkg\docker\client.js,533,603,71
+client.js,client.js,\core\js\files\client.js,\pkg\storaged\client.js,533,694,105
+search.js,search.js,\core\search\js\search.js,\pkg\docker\search.js,321,135,15

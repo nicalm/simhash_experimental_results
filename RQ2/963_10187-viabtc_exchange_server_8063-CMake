@@ -1,0 +1,5 @@
+10187-viabtc_exchange_server,8063-CMake
+async.c,async.c,\depends\hiredis\async.c,\Utilities\cmlibuv\src\unix\async.c,450,147,22
+async.c,async.c,\depends\hiredis\async.c,\Utilities\cmlibuv\src\win\async.c,450,52,11
+dict.c,dict.c,\depends\hiredis\dict.c,\Utilities\cmcurl\lib\dict.c,202,209,28
+test.c,test.c,\depends\hiredis\test.c,\Utilities\KWIML\test\test.c,570,27,4

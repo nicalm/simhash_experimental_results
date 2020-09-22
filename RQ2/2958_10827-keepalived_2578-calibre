@@ -1,0 +1,6 @@
+10827-keepalived,2578-calibre
+main.c,main.c,\genhash\main.c,\bypy\windows\main.c,263,107,20
+html.c,html.c,\lib\html.c,\src\calibre\gui2\tweak_book\editor\syntax\html.c,48,467,7
+utils.h,utils.h,\lib\utils.h,\src\calibre\ebooks\pdf\utils.h,177,29,8
+conf.py,conf.py,\doc\source\conf.py,\manual\conf.py,35,113,7
+main.c,main.c,\keepalived\core\main.c,\bypy\windows\main.c,1950,107,27

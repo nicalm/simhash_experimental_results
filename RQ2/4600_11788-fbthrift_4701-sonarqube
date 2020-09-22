@@ -1,0 +1,6 @@
+11788-fbthrift,4701-sonarqube
+Module.java,Module.java,\thrift\compiler\test\fixtures\complex-union\gen-android\Module.java,\sonar-core\src\main\java\org\sonar\core\platform\Module.java,46,22,2
+Module.java,Module.java,\thrift\compiler\test\fixtures\constants\gen-android\Module.java,\sonar-core\src\main\java\org\sonar\core\platform\Module.java,50,22,2
+Module.java,Module.java,\thrift\compiler\test\fixtures\optionals\gen-android\Module.java,\sonar-core\src\main\java\org\sonar\core\platform\Module.java,68,22,2
+Module.java,Module.java,\thrift\compiler\test\fixtures\refs\gen-android\Module.java,\sonar-core\src\main\java\org\sonar\core\platform\Module.java,113,22,2
+Logger.java,Logger.java,\thrift\lib\java\src\main\java\com\facebook\thrift\utils\Logger.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\log\Logger.java,94,41,5

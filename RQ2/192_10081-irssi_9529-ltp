@@ -1,0 +1,5 @@
+10081-irssi,9529-ltp
+settings.h,settings.h,\src\core\settings.h,\src\ner\settings.h,107,15,1
+settings.h,settings.h,\src\core\settings.h,\src\parser\settings.h,107,41,3
+settings.h,settings.h,\src\core\settings.h,\src\parser.n\settings.h,107,41,3
+settings.h,settings.h,\src\core\settings.h,\src\segmentor\settings.h,107,29,1

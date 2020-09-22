@@ -1,0 +1,3 @@
+11788-fbthrift,9088-httpd
+macros.h,macros.h,\thrift\lib\rb\ext\macros.h,\docs\log-message-tags\macros.h,18,29,0
+protocol.c,protocol.c,\thrift\lib\rb\ext\protocol.c,\server\protocol.c,125,1718,27

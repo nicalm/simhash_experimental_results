@@ -1,0 +1,7 @@
+15780-OpenJK,67701-r-source
+config.h,config.h,\code\mp3code\config.h,\src\gnuwin32\fixed\h\config.h,74,267,17
+port.h,port.h,\code\mp3code\port.h,\src\library\stats\src\port.h,36,52,3
+config.h,config.h,\codemp\mp3code\config.h,\src\gnuwin32\fixed\h\config.h,74,267,17
+port.h,port.h,\codemp\mp3code\port.h,\src\library\stats\src\port.h,36,52,3
+md5.h,md5.h,\codemp\qcommon\md5.h,\src\library\tools\src\md5.h,21,64,0
+unzip.h,unzip.h,\lib\minizip\include\minizip\unzip.h,\src\main\unzip.h,175,101,72

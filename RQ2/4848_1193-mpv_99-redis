@@ -1,0 +1,6 @@
+1193-mpv,99-redis
+atomic.h,atomic.h,\osdep\atomic.h,\deps\jemalloc\include\jemalloc\internal\atomic.h,72,33,3
+timer.c,timer.c,\osdep\timer.c,\deps\jemalloc\test\src\timer.c,110,45,7
+lua.c,lua.c,\player\lua.c,\deps\lua\src\lua.c,1109,323,70
+scripting.c,scripting.c,\player\scripting.c,\src\scripting.c,204,1895,41
+stream.h,stream.h,\stream\stream.h,\src\stream.h,161,66,2

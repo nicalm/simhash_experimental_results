@@ -1,0 +1,4 @@
+3405-libevent,5868-libvips
+buffer.c,buffer.c,\buffer.c,\libvips\iofuncs\buffer.c,2732,447,112
+thread.h,thread.h,\include\event2\thread.h,\libvips\include\vips\thread.h,65,16,7
+util.h,util.h,\include\event2\util.h,\libvips\include\vips\util.h,462,230,12

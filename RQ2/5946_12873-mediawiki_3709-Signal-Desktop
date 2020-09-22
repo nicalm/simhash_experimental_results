@@ -1,0 +1,10 @@
+12873-mediawiki,3709-Signal-Desktop
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\Gruntfile.js,150,389,34
+config.js,config.js,\mw-config\config.js,\app\config.js,114,33,4
+index.js,index.js,\resources\src\mediawiki.api\index.js,\js\modules\migrations\18\index.js,237,15,4
+messages.js,messages.js,\resources\src\mediawiki.api\messages.js,\js\models\messages.js,35,1907,11
+user.js,user.js,\resources\src\mediawiki.api\user.js,\libtextsecure\storage\user.js,16,34,2
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\js\modules\migrations\18\index.js,51,15,1
+debug.js,debug.js,\resources\src\mediawiki.debug\debug.js,\js\modules\debug.js,238,148,15
+user.js,user.js,\tests\selenium\specs\user.js,\libtextsecure\storage\user.js,37,34,0
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\js\modules\migrations\18\index.js,15,15,1

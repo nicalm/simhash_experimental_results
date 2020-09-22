@@ -1,0 +1,4 @@
+4014-kanboard,4701-sonarqube
+utils.js,utils.js,\assets\js\core\utils.js,\server\sonar-web\config\utils.js,94,58,8
+index.js,index.js,\assets\vendor\text-caret\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,94,79,9
+index.js,index.js,\assets\vendor\text-caret\index.js,\server\sonar-web\config\documentation-loader\index.js,94,28,3

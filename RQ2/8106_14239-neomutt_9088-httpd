@@ -1,0 +1,8 @@
+14239-neomutt,9088-httpd
+filter.c,filter.c,\filter.c,\modules\apreq\filter.c,154,381,42
+main.c,main.c,\main.c,\server\main.c,1056,643,116
+util.c,util.c,\imap\util.c,\server\util.c,784,2737,242
+util.c,util.c,\imap\util.c,\test\unit\util.c,784,44,7
+util.c,util.c,\imap\util.c,\modules\dav\main\util.c,784,1250,154
+base64.c,base64.c,\mutt\base64.c,\test\unit\base64.c,116,117,18
+main.c,main.c,\test\main.c,\server\main.c,389,643,0

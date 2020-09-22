@@ -1,0 +1,17 @@
+24-node,9529-ltp
+gtest.h,gtest.h,\test\cctest\gtest\gtest.h,\thirdparty\gtest\include\gtest\gtest.h,8424,799,591
+config.h,config.h,\deps\nghttp2\lib\includes\config.h,\src\srl\include\base\config.h,23,58,1
+config.h,config.h,\deps\nghttp2\lib\includes\config.h,\thirdparty\jsoncpp\include\json\config.h,23,123,5
+conf.py,conf.py,\deps\uv\docs\src\conf.py,\doc\conf.py,59,30,14
+unix.h,unix.h,\deps\uv\include\uv\unix.h,\thirdparty\boost\include\boost\predef\os\unix.h,416,28,5
+compiler.h,compiler.h,\deps\v8\src\codegen\compiler.h,\thirdparty\boost\include\boost\predef\compiler.h,241,34,1
+graph.cc,graph.cc,\deps\v8\src\compiler\graph.cc,\thirdparty\dynet\dynet\graph.cc,58,29,6
+debug.h,debug.h,\deps\v8\src\debug\debug.h,\src\parser\debug.h,410,57,11
+debug.h,debug.h,\deps\v8\src\debug\debug.h,\src\srl\include\base\debug.h,410,75,16
+parser.h,parser.h,\deps\v8\src\parsing\parser.h,\src\parser\parser.h,820,79,12
+parser.h,parser.h,\deps\v8\src\parsing\parser.h,\src\parser.n\parser.h,820,105,5
+decoder.h,decoder.h,\deps\v8\src\wasm\decoder.h,\src\framework\decoder.h,313,421,58
+decoder.h,decoder.h,\deps\v8\src\wasm\decoder.h,\src\ner\decoder.h,313,37,6
+decoder.h,decoder.h,\deps\v8\src\wasm\decoder.h,\src\parser\decoder.h,313,136,18
+decoder.h,decoder.h,\deps\v8\src\wasm\decoder.h,\src\postagger\decoder.h,313,52,6
+decoder.h,decoder.h,\deps\v8\src\wasm\decoder.h,\src\segmentor\decoder.h,313,43,6

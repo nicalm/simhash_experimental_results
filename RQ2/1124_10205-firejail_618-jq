@@ -1,0 +1,15 @@
+10205-firejail,618-jq
+main.c,main.c,\src\faudit\main.c,\src\main.c,49,647,10
+main.c,main.c,\src\fbuilder\main.c,\src\main.c,63,647,16
+main.c,main.c,\src\fcopy\main.c,\src\main.c,305,647,45
+main.c,main.c,\src\firecfg\main.c,\src\main.c,379,647,72
+util.c,util.c,\src\firecfg\util.c,\src\util.c,50,380,9
+main.c,main.c,\src\firejail\main.c,\src\main.c,2361,647,112
+util.c,util.c,\src\firejail\util.c,\src\util.c,968,380,71
+main.c,main.c,\src\fldd\main.c,\src\main.c,252,647,50
+main.c,main.c,\src\fnet\main.c,\src\main.c,111,647,25
+main.c,main.c,\src\fnetfilter\main.c,\src\main.c,155,647,27
+main.c,main.c,\src\fsec-optimize\main.c,\src\main.c,57,647,12
+main.c,main.c,\src\fsec-print\main.c,\src\main.c,44,647,10
+main.c,main.c,\src\fseccomp\main.c,\src\main.c,74,647,10
+main.c,main.c,\src\ftee\main.c,\src\main.c,172,647,32

@@ -1,0 +1,7 @@
+132-retrofit,4701-sonarqube
+HttpException.java,HttpException.java,\retrofit\src\main\java\retrofit2\HttpException.java,\sonar-ws\src\main\java\org\sonarqube\ws\client\HttpException.java,27,21,9
+Response.java,Response.java,\retrofit\src\main\java\retrofit2\Response.java,\sonar-plugin-api\src\main\java\org\sonar\api\server\ws\Response.java,97,21,2
+Result.java,Result.java,\retrofit-adapters\rxjava\src\main\java\retrofit2\adapter\rxjava\Result.java,\server\sonar-webserver-webapi\src\main\java\org\sonar\server\issue\Result.java,37,96,10
+ResultTest.java,ResultTest.java,\retrofit-adapters\rxjava\src\test\java\retrofit2\adapter\rxjava\ResultTest.java,\server\sonar-webserver-webapi\src\test\java\org\sonar\server\issue\ResultTest.java,39,66,8
+Result.java,Result.java,\retrofit-adapters\rxjava2\src\main\java\retrofit2\adapter\rxjava2\Result.java,\server\sonar-webserver-webapi\src\main\java\org\sonar\server\issue\Result.java,31,96,8
+ResultTest.java,ResultTest.java,\retrofit-adapters\rxjava2\src\test\java\retrofit2\adapter\rxjava2\ResultTest.java,\server\sonar-webserver-webapi\src\test\java\org\sonar\server\issue\ResultTest.java,38,66,8

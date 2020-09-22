@@ -1,0 +1,16 @@
+548-ruby,5902-nmap
+error.c,error.c,\error.c,\nsock\src\error.c,1954,24,5
+util.c,util.c,\util.c,\ncat\util.c,517,502,102
+error.h,error.h,\internal\error.h,\nsock\src\error.h,120,27,7
+util.h,util.h,\internal\util.h,\ncat\util.h,15,72,3
+crypt.c,crypt.c,\missing\crypt.c,\libssh2\src\crypt.c,729,280,40
+crypt.h,crypt.h,\missing\crypt.h,\libz\contrib\minizip\crypt.h,65,71,2
+memcmp.c,memcmp.c,\missing\memcmp.c,\libdnet-stripped\src\memcmp.c,15,18,4
+strlcat.c,strlcat.c,\missing\strlcat.c,\libdnet-stripped\src\strlcat.c,26,31,9
+strlcat.c,strlcat.c,\missing\strlcat.c,\libpcap\missing\strlcat.c,26,29,23
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\libdnet-stripped\src\strlcpy.c,22,28,9
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\libpcap\missing\strlcpy.c,22,25,19
+getaddrinfo.c,getaddrinfo.c,\ext\socket\getaddrinfo.c,\nbase\getaddrinfo.c,555,103,34
+getnameinfo.c,getnameinfo.c,\ext\socket\getnameinfo.c,\nbase\getnameinfo.c,188,46,16
+util.h,util.h,\include\ruby\util.h,\ncat\util.h,62,72,6
+scanner.c,scanner.c,\ext\psych\yaml\scanner.c,\libpcap\scanner.c,1741,4300,215

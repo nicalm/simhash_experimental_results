@@ -1,0 +1,4 @@
+1769-ChakraCore,1811-otp
+common.h,common.h,\lib\wabt\src\common.h,\lib\crypto\c_src\common.h,324,24,2
+error.h,error.h,\lib\wabt\src\error.h,\erts\emulator\beam\error.h,32,82,2
+module.h,module.h,\pal\src\include\pal\module.h,\erts\emulator\beam\module.h,37,68,7

@@ -1,0 +1,4 @@
+63225-sedutil,8063-CMake
+hmac.c,hmac.c,\Common\pbkdf2\hmac.c,\Utilities\cmcurl\lib\hmac.c,63,82,9
+sha1.c,sha1.c,\Common\pbkdf2\sha1.c,\Utilities\cmlibrhash\librhash\sha1.c,103,121,15
+sha1.h,sha1.h,\Common\pbkdf2\sha1.h,\Utilities\cmlibrhash\librhash\sha1.h,20,21,4

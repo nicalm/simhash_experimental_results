@@ -1,0 +1,12 @@
+11788-fbthrift,99-redis
+util.h,util.h,\thrift\compiler\util.h,\src\util.h,91,24,1
+util.h,util.h,\thrift\compiler\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,91,42,4
+server.h,server.h,\thrift\lib\py3\server.h,\src\server.h,37,1796,2
+stream.h,stream.h,\thrift\lib\py3\stream.h,\src\stream.h,24,66,0
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\util.h,25,24,0
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,25,42,2
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\util.h,17,24,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,17,42,2
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\util.h,29,24,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,29,42,2
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\src\server.h,58,1796,1

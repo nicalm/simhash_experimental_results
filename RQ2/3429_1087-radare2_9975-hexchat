@@ -1,0 +1,13 @@
+1087-radare2,9975-hexchat
+plugin.c,plugin.c,\libr\core\plugin.c,\src\common\plugin.c,51,1633,15
+plugin.c,plugin.c,\libr\debug\plugin.c,\src\common\plugin.c,88,1633,20
+plugin.c,plugin.c,\libr\io\plugin.c,\src\common\plugin.c,171,1633,50
+parse.c,parse.c,\libr\parse\parse.c,\plugins\sysinfo\unix\parse.c,129,294,31
+format.c,format.c,\libr\util\format.c,\plugins\sysinfo\format.c,2589,60,13
+tree.c,tree.c,\libr\util\tree.c,\src\common\tree.c,129,190,27
+match.c,match.c,\shlr\sdb\src\match.c,\plugins\sysinfo\unix\match.c,102,73,12
+util.c,util.c,\shlr\sdb\src\util.c,\src\common\util.c,327,1287,107
+format.c,format.c,\libr\asm\arch\avr\format.c,\plugins\sysinfo\format.c,132,60,9
+menu.h,menu.h,\shlr\grub\include\grub\menu.h,\src\fe-gtk\menu.h,31,44,1
+parse.c,parse.c,\test\unit\legacy_unit\parse\parse.c,\plugins\sysinfo\unix\parse.c,35,294,5
+util.h,util.h,\shlr\heap\include\r_jemalloc\internal\util.h,\src\common\util.h,256,47,3

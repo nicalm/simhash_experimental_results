@@ -1,0 +1,4 @@
+13956-dolibarr,6347-librealsense
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\wrappers\nodejs\index.js,40,2989,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,40,379,7
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\wrappers\nodejs\examples\realsense_viewer\public\common.js,48,34,1

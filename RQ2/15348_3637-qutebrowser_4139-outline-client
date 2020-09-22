@@ -1,0 +1,4 @@
+3637-qutebrowser,4139-outline-client
+setup.py,setup.py,\setup.py,\third_party\shadowsocks-libev\libipset\python\setup.py,64,17,2
+conf.py,conf.py,\doc\extapi\conf.py,\third_party\shadowsocks-libev\libcork\docs\old\conf.py,36,40,11
+version.py,version.py,\qutebrowser\utils\version.py,\third_party\shadowsocks-libev\libipset\python\version.py,370,37,6

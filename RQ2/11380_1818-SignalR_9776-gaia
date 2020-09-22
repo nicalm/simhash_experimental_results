@@ -1,0 +1,15 @@
+1818-SignalR,9776-gaia
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\apps\homescreen\bower_components\gaia-container\test\karma.conf.js,96,22,9
+dashboard.js,dashboard.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\dashboard.js,\tv_apps\dashboard\js\dashboard.js,127,80,13
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\apps\system\js\bootstrap.js,1251,22,3
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\shared\js\sync\bootstrap.js,1251,107,8
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\tools\extensions\browser-helper@gaiamobile.org\bootstrap.js,1251,210,22
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\tools\extensions\desktop-helper\bootstrap.js,1251,63,11
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\tools\extensions\gaia-build@gaiamobile.org\bootstrap.js,1251,55,7
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\tools\extensions\httpd\bootstrap.js,1251,420,38
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\tv_apps\smart-system\js\bootstrap.js,1251,126,14
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\disabled_apps\communications\contacts\js\bootstrap.js,1251,46,3
+jquery.cookie.js,jquery.cookie.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\jquery.cookie.js,\distros\spark\apps\customizer\components\js-beautify\web\third-party\jquery\jquery.cookie.js,37,66,11
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\disabled_apps\costcontrol\js\common.js,65,348,15
+example.js,example.js,\tools\docu\templates\js\example.js,\shared\elements\gaia_grid\examples\example.js,20,57,2
+example.js,example.js,\tools\docu\templates\js\example.js,\shared\elements\gaia_sim_picker\examples\example.js,20,21,3

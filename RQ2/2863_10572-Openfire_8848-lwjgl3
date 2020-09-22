@@ -1,0 +1,3 @@
+10572-Openfire,8848-lwjgl3
+Log.java,Log.java,\xmppserver\src\main\java\org\jivesoftware\util\Log.java,\modules\lwjgl\driftfx\src\main\java\org\eclipse\fx\drift\internal\Log.java,235,18,7
+Version.java,Version.java,\xmppserver\src\main\java\org\jivesoftware\util\Version.java,\modules\lwjgl\core\src\main\java\org\lwjgl\Version.java,173,31,6

@@ -1,0 +1,17 @@
+14790-sleuthkit,548-ruby
+md5.c,md5.c,\tools\hashtools\md5.c,\ext\digest\md5\md5.c,48,290,11
+sha1.c,sha1.c,\tools\hashtools\sha1.c,\ext\digest\sha1\sha1.c,50,187,10
+ffs.c,ffs.c,\tsk\fs\ffs.c,\missing\ffs.c,1611,36,9
+sha2.c,sha2.c,\tools\fiwalk\src\sha2.c,\ext\digest\sha2\sha2.c,753,713,103
+sha2.h,sha2.h,\tools\fiwalk\src\sha2.h,\ext\digest\sha2\sha2.h,61,133,11
+regcomp.c,regcomp.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regcomp.c,\regcomp.c,3008,5781,768
+regex.h,regex.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex.h,\include\ruby\regex.h,217,26,11
+regexec.c,regexec.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regexec.c,\regexec.c,3460,4016,576
+encoding.c,encoding.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\encoding.c,\encoding.c,291,1312,46
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\file.c,401,4432,116
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\win32\file.c,401,558,49
+file.h,file.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\internal\file.h,402,25,3
+file.h,file.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\missing\file.h,402,16,4
+file.h,file.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\win32\file.h,402,40,6
+strlcat.c,strlcat.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcat.c,\missing\strlcat.c,26,26,9
+strlcpy.c,strlcpy.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcpy.c,\missing\strlcpy.c,23,22,9

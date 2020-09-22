@@ -1,0 +1,7 @@
+10093-VeraCrypt,1615-rufus
+config.h,config.h,\src\Crypto\config.h,\src\ext2fs\config.h,152,182,18
+config.h,config.h,\src\Crypto\config.h,\src\libcdio\config.h,152,53,5
+resource.h,resource.h,\src\ExpandVolume\resource.h,\src\resource.h,141,543,5
+config.h,config.h,\src\Common\libzip\config.h,\src\ext2fs\config.h,60,182,7
+config.h,config.h,\src\Common\libzip\config.h,\src\libcdio\config.h,60,53,4
+crc32.c,crc32.c,\src\Common\zlib\crc32.c,\src\bled\crc32.c,289,82,20

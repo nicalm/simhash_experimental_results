@@ -1,0 +1,10 @@
+60419-iv,8063-CMake
+debug.h,debug.h,\iv\debug.h,\Utilities\cmzstd\lib\common\debug.h,32,39,6
+compiler.h,compiler.h,\iv\aero\compiler.h,\Utilities\cmzstd\lib\common\compiler.h,473,87,2
+internal.h,internal.h,\iv\lv5\internal.h,\Utilities\cmexpat\lib\internal.h,238,44,2
+internal.h,internal.h,\iv\lv5\internal.h,\Utilities\cmlibuv\src\unix\internal.h,238,258,3
+internal.h,internal.h,\iv\lv5\internal.h,\Utilities\cmlibuv\src\win\internal.h,238,184,2
+compiler.h,compiler.h,\iv\lv5\breaker\compiler.h,\Utilities\cmzstd\lib\common\compiler.h,285,87,2
+block.h,block.h,\iv\lv5\radio\block.h,\Utilities\cmliblzma\liblzma\api\lzma\block.h,176,75,1
+compiler.h,compiler.h,\iv\lv5\railgun\compiler.h,\Utilities\cmzstd\lib\common\compiler.h,977,87,3
+test.c,test.c,\iv\lv5\third_party\gc\tests\test.c,\Utilities\KWIML\test\test.c,1639,27,8

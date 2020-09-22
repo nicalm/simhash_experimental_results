@@ -1,0 +1,4 @@
+63770-mcuboot,6883-Sigil
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,63,362,4
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,63,187,4
+config.h,config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,\3rdparty\hunspell\src\win_api\config.h,24,68,0

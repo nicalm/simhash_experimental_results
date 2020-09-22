@@ -1,0 +1,4 @@
+1593-ungit,63622-mirador
+config.js,config.js,\source\config.js,\src\state\actions\config.js,203,21,6
+config.js,config.js,\source\config.js,\src\state\reducers\config.js,203,15,2
+config.js,config.js,\source\config.js,\src\state\selectors\config.js,203,44,1

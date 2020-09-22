@@ -1,0 +1,5 @@
+12310-weechat,9975-hexchat
+plugin.c,plugin.c,\src\plugins\plugin.c,\src\common\plugin.c,1150,1633,260
+plugin.h,plugin.h,\src\plugins\plugin.h,\src\common\plugin.h,35,163,1
+exec.c,exec.c,\src\plugins\exec\exec.c,\plugins\exec\exec.c,590,111,35
+irc.c,irc.c,\src\plugins\irc\irc.c,\plugins\fishlim\irc.c,204,29,4

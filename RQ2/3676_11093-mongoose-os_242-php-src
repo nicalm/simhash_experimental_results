@@ -1,0 +1,10 @@
+11093-mongoose-os,242-php-src
+queue.h,queue.h,\include\common\queue.h,\ext\xmlrpc\libxmlrpc\queue.h,515,59,3
+main.c,main.c,\platforms\posix\main.c,\main\main.c,78,2098,20
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\main\main.c,128,2098,21
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\main\main.c,136,2098,25
+sockets.c,sockets.c,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\win32\sockets.c,1856,51,13
+sockets.c,sockets.c,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\ext\sockets\sockets.c,1856,2108,379
+dns.c,dns.c,\tools\docker\esp8266\cs_lwip\src\core\dns.c,\ext\standard\dns.c,582,968,119
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\ext\bcmath\libbcmath\src\init.c,288,59,1
+time.h,time.h,\tools\docker\esp8266\cs_lwip\espressif\include\lwip\app\time.h,\win32\time.h,44,33,2

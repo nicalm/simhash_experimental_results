@@ -1,0 +1,16 @@
+1652-joplin,168-AdminLTE
+main.js,main.js,\CliClient\app\main.js,\plugins\fullcalendar\main.js,64,7977,8
+main.js,main.js,\CliClient\app\main.js,\plugins\fullcalendar-bootstrap\main.js,64,59,4
+main.js,main.js,\CliClient\app\main.js,\plugins\fullcalendar-daygrid\main.js,64,1471,8
+main.js,main.js,\CliClient\app\main.js,\plugins\fullcalendar-interaction\main.js,64,1906,8
+main.js,main.js,\CliClient\app\main.js,\plugins\fullcalendar-timegrid\main.js,64,1195,8
+main.js,main.js,\CliClient\app\main.js,\plugins\daterangepicker\example\amd\main.js,64,104,8
+main.js,main.js,\CliClient\app\main.js,\plugins\daterangepicker\example\browserify\main.js,64,98,7
+main.js,main.js,\ElectronClient\app\main.js,\plugins\fullcalendar\main.js,33,7977,4
+main.js,main.js,\ElectronClient\app\main.js,\plugins\fullcalendar-bootstrap\main.js,33,59,3
+main.js,main.js,\ElectronClient\app\main.js,\plugins\fullcalendar-daygrid\main.js,33,1471,4
+main.js,main.js,\ElectronClient\app\main.js,\plugins\fullcalendar-interaction\main.js,33,1906,4
+main.js,main.js,\ElectronClient\app\main.js,\plugins\fullcalendar-timegrid\main.js,33,1195,4
+main.js,main.js,\ElectronClient\app\main.js,\plugins\daterangepicker\example\amd\main.js,33,104,4
+main.js,main.js,\ElectronClient\app\main.js,\plugins\daterangepicker\example\browserify\main.js,33,98,4
+Dropdown.js,Dropdown.js,\ReactNativeClient\lib\components\Dropdown.js,\build\js\Dropdown.js,134,90,9

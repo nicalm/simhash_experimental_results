@@ -1,0 +1,5 @@
+11788-fbthrift,9529-ltp
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\src\parser\debug.h,58,57,8
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\src\srl\include\base\debug.h,58,75,10
+merge.h,merge.h,\thrift\lib\cpp2\reflection\merge.h,\src\srl\tool\process\merge.h,20,45,1
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\src\parser.n\main.cpp,47,128,3

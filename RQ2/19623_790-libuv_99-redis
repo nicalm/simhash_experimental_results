@@ -1,0 +1,7 @@
+790-libuv,99-redis
+timer.c,timer.c,\src\timer.c,\deps\jemalloc\test\src\timer.c,103,45,7
+server.c,server.c,\samples\socks5-proxy\server.c,\src\server.c,180,3476,37
+util.c,util.c,\samples\socks5-proxy\util.c,\src\util.c,43,590,8
+async.c,async.c,\src\unix\async.c,\deps\hiredis\async.c,187,474,28
+async.c,async.c,\src\win\async.c,\deps\hiredis\async.c,50,474,8
+util.c,util.c,\src\win\util.c,\src\util.c,1211,590,115

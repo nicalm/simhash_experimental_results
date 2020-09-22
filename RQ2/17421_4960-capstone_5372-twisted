@@ -1,0 +1,5 @@
+4960-capstone,5372-twisted
+test_basic.py,test_basic.py,\bindings\python\test_basic.py,\src\twisted\protocols\test\test_basic.py,84,634,1
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\src\twisted\logger\__init__.py,801,45,6
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\src\twisted\python\__init__.py,801,15,0
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\src\twisted\_threads\__init__.py,801,15,2

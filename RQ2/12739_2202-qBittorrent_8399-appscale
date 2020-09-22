@@ -1,0 +1,11 @@
+2202-qBittorrent,8399-appscale
+helpers.py,helpers.py,\src\searchengine\nova\helpers.py,\AppServer\lib\django-1.2\django\contrib\admin\helpers.py,66,285,4
+helpers.py,helpers.py,\src\searchengine\nova\helpers.py,\AppServer\lib\django-1.3\django\contrib\admin\helpers.py,66,285,4
+helpers.py,helpers.py,\src\searchengine\nova\helpers.py,\AppServer\lib\django-1.4\django\contrib\admin\helpers.py,66,293,4
+helpers.py,helpers.py,\src\searchengine\nova\helpers.py,\AppServer\lib\django-1.5\django\contrib\admin\helpers.py,66,291,4
+socks.py,socks.py,\src\searchengine\nova\socks.py,\AppServer\lib\httplib2\httplib2\socks.py,238,264,163
+helpers.py,helpers.py,\src\searchengine\nova3\helpers.py,\AppServer\lib\django-1.2\django\contrib\admin\helpers.py,68,285,4
+helpers.py,helpers.py,\src\searchengine\nova3\helpers.py,\AppServer\lib\django-1.3\django\contrib\admin\helpers.py,68,285,4
+helpers.py,helpers.py,\src\searchengine\nova3\helpers.py,\AppServer\lib\django-1.4\django\contrib\admin\helpers.py,68,293,4
+helpers.py,helpers.py,\src\searchengine\nova3\helpers.py,\AppServer\lib\django-1.5\django\contrib\admin\helpers.py,68,291,4
+socks.py,socks.py,\src\searchengine\nova3\socks.py,\AppServer\lib\httplib2\httplib2\socks.py,238,264,164

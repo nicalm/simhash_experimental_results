@@ -1,0 +1,16 @@
+1593-ungit,168-AdminLTE
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\plugins\raphael\Gruntfile.js,404,62,23
+main.js,main.js,\public\main.js,\plugins\fullcalendar\main.js,131,7977,36
+main.js,main.js,\public\main.js,\plugins\fullcalendar-bootstrap\main.js,131,59,4
+main.js,main.js,\public\main.js,\plugins\fullcalendar-daygrid\main.js,131,1471,31
+main.js,main.js,\public\main.js,\plugins\fullcalendar-interaction\main.js,131,1906,33
+main.js,main.js,\public\main.js,\plugins\fullcalendar-timegrid\main.js,131,1195,31
+main.js,main.js,\public\main.js,\plugins\daterangepicker\example\amd\main.js,131,104,12
+main.js,main.js,\public\main.js,\plugins\daterangepicker\example\browserify\main.js,131,98,9
+main.js,main.js,\public\source\main.js,\plugins\fullcalendar\main.js,180,7977,36
+main.js,main.js,\public\source\main.js,\plugins\fullcalendar-bootstrap\main.js,180,59,7
+main.js,main.js,\public\source\main.js,\plugins\fullcalendar-daygrid\main.js,180,1471,36
+main.js,main.js,\public\source\main.js,\plugins\fullcalendar-interaction\main.js,180,1906,36
+main.js,main.js,\public\source\main.js,\plugins\fullcalendar-timegrid\main.js,180,1195,35
+main.js,main.js,\public\source\main.js,\plugins\daterangepicker\example\amd\main.js,180,104,15
+main.js,main.js,\public\source\main.js,\plugins\daterangepicker\example\browserify\main.js,180,98,12

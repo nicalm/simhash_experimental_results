@@ -1,0 +1,4 @@
+1811-otp,3980-passenger
+spinlock.h,spinlock.h,\erts\include\internal\i386\spinlock.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\spinlock.h,59,25,6
+spinlock.h,spinlock.h,\erts\include\internal\ppc32\spinlock.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\spinlock.h,55,25,6
+spinlock.h,spinlock.h,\erts\include\internal\sparc32\spinlock.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\spinlock.h,49,25,6

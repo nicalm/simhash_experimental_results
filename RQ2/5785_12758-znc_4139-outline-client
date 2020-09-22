@@ -1,0 +1,17 @@
+12758-znc,4139-outline-client
+main.cpp,main.cpp,\src\main.cpp,\third_party\mbedtls\yotta\data\example-authcrypt\main.cpp,445,105,24
+main.cpp,main.cpp,\src\main.cpp,\third_party\mbedtls\yotta\data\example-benchmark\main.cpp,445,788,63
+main.cpp,main.cpp,\src\main.cpp,\third_party\mbedtls\yotta\data\example-hashing\main.cpp,445,90,18
+main.cpp,main.cpp,\src\main.cpp,\third_party\mbedtls\yotta\data\example-selftest\main.cpp,445,200,21
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\third_party\mbedtls\yotta\data\example-authcrypt\main.cpp,35,105,5
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\third_party\mbedtls\yotta\data\example-benchmark\main.cpp,35,788,6
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\third_party\mbedtls\yotta\data\example-hashing\main.cpp,35,90,4
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\third_party\mbedtls\yotta\data\example-selftest\main.cpp,35,200,3
+version.h,version.h,\include\znc\version.h,\third_party\mbedtls\include\mbedtls\version.h,43,26,6
+version.h,version.h,\include\znc\version.h,\third_party\sodium\builds\msvc\version.h,43,21,3
+version.h,version.h,\include\znc\version.h,\third_party\mbedtls\apple\include\mbedtls\version.h,43,26,6
+version.h,version.h,\include\znc\version.h,\third_party\mbedtls\linux\include\mbedtls\version.h,43,26,6
+version.h,version.h,\include\znc\version.h,\third_party\sodium\apple\include\sodium\version.h,43,21,3
+version.h,version.h,\include\znc\version.h,\third_party\sodium\linux\include\sodium\version.h,43,21,3
+base.h,base.h,\test\integration\framework\base.h,\third_party\sodium\src\libsodium\crypto_core\ed25519\ref10\fe_25_5\base.h,144,1344,20
+base.h,base.h,\test\integration\framework\base.h,\third_party\sodium\src\libsodium\crypto_core\ed25519\ref10\fe_51\base.h,144,1344,20

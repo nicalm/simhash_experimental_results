@@ -1,0 +1,10 @@
+12758-znc,551-FFmpeg
+version.h,version.h,\include\znc\version.h,\libavcodec\version.h,43,99,8
+version.h,version.h,\include\znc\version.h,\libavdevice\version.h,43,15,1
+version.h,version.h,\include\znc\version.h,\libavfilter\version.h,43,30,6
+version.h,version.h,\include\znc\version.h,\libavformat\version.h,43,69,8
+version.h,version.h,\include\znc\version.h,\libavresample\version.h,43,15,1
+version.h,version.h,\include\znc\version.h,\libavutil\version.h,43,45,8
+version.h,version.h,\include\znc\version.h,\libpostproc\version.h,43,15,1
+version.h,version.h,\include\znc\version.h,\libswresample\version.h,43,15,1
+version.h,version.h,\include\znc\version.h,\libswscale\version.h,43,18,2

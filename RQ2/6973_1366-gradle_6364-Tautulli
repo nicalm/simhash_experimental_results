@@ -1,0 +1,4 @@
+1366-gradle,6364-Tautulli
+script.js,script.js,\subprojects\docs\src\docs\js\javadoc\script.js,\data\interfaces\default\js\script.js,136,690,42
+script.js,script.js,\subprojects\docs\src\docs\release\content\script.js,\data\interfaces\default\js\script.js,64,690,17
+script.js,script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,\data\interfaces\default\js\script.js,164,690,41

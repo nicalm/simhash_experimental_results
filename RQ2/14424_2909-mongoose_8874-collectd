@@ -1,0 +1,5 @@
+2909-mongoose,8874-collectd
+server.c,server.c,\examples\connected_device_1\server.c,\src\libcollectdclient\server.c,31,170,7
+server.c,server.c,\examples\connected_device_2\server.c,\src\libcollectdclient\server.c,62,170,16
+server.c,server.c,\examples\connected_device_3\server.c,\src\libcollectdclient\server.c,70,170,17
+server.c,server.c,\examples\connected_device_4\server.c,\src\libcollectdclient\server.c,85,170,21

@@ -1,0 +1,7 @@
+18-electron,4014-kanboard
+index.js,index.js,\npm\index.js,\assets\vendor\text-caret\index.js,15,94,4
+index.js,index.js,\spec-main\index.js,\assets\vendor\text-caret\index.js,75,94,6
+utils.js,utils.js,\script\lib\utils.js,\assets\js\core\utils.js,74,94,15
+index.js,index.js,\script\release\notes\index.js,\assets\vendor\text-caret\index.js,149,94,7
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\assets\vendor\text-caret\index.js,17,94,0
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\assets\vendor\text-caret\index.js,33,94,2

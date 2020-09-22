@@ -1,0 +1,9 @@
+1698-server,9197-domoticz
+main.js,main.js,\core\src\main.js,\www\app\main.js,17,46,0
+main.js,main.js,\apps\accessibility\src\main.js,\www\app\main.js,15,46,1
+app.js,app.js,\apps\files\js\app.js,\www\app\app.js,196,742,38
+app.js,app.js,\apps\files_external\js\app.js,\www\app\app.js,75,742,23
+app.js,app.js,\apps\files_sharing\js\app.js,\www\app\app.js,239,742,36
+app.js,app.js,\apps\files_trashbin\src\app.js,\www\app\app.js,107,742,14
+app.js,app.js,\apps\systemtags\src\app.js,\www\app\app.js,73,742,14
+main.js,main.js,\core\js\dist\main.js,\www\app\main.js,65,46,0

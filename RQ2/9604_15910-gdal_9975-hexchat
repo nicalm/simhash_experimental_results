@@ -1,0 +1,3 @@
+15910-gdal,9975-hexchat
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,19,18,6
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\src\common\util.h,411,47,3

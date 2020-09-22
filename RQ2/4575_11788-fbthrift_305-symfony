@@ -1,0 +1,3 @@
+11788-fbthrift,305-symfony
+TestClient.php,TestClient.php,\thrift\test\php\TestClient.php,\src\Symfony\Component\BrowserKit\Tests\TestClient.php,268,36,7
+TestClient.php,TestClient.php,\thrift\test\php\TestClient.php,\src\Symfony\Component\HttpKernel\Tests\Fixtures\TestClient.php,268,16,3

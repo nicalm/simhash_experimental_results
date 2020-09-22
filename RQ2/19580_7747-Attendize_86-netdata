@@ -1,0 +1,6 @@
+7747-Attendize,86-netdata
+data.js,data.js,\public\vendor\jquery\src\data.js,\tests\k6\data.js,111,47,4
+options.js,options.js,\public\vendor\vue\src\util\options.js,\web\gui\src\dashboard.js\options.js,268,131,11
+timeout.js,timeout.js,\public\vendor\vue-resource\src\http\timeout.js,\web\gui\src\dashboard.js\timeout.js,17,42,5
+extend.js,extend.js,\public\vendor\moment\src\lib\utils\extend.js,\collectors\node.d.plugin\node_modules\extend.js,15,59,5
+data.js,data.js,\public\vendor\vue\src\instance\api\data.js,\tests\k6\data.js,107,47,2

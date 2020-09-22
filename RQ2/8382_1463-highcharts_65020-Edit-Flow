@@ -1,0 +1,11 @@
+1463-highcharts,65020-Edit-Flow
+index.js,index.js,\studies\highcharts-jsdom\index.js,\tests\e2e\utils\index.js,93,32,2
+index.js,index.js,\studies\highcharts-jsdom\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,93,78,1
+index.js,index.js,\studies\highcharts-jsdom\index.js,\modules\calendar\lib\react\calendar-filters\index.js,93,152,12
+index.js,index.js,\studies\highcharts-jsdom\index.js,\modules\calendar\lib\react\calendar-header\index.js,93,35,1
+index.js,index.js,\studies\highcharts-jsdom\index.js,\modules\calendar\lib\react\combobox\index.js,93,166,6
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\tests\e2e\utils\index.js,40,32,2
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,40,78,2
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\modules\calendar\lib\react\calendar-filters\index.js,40,152,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\modules\calendar\lib\react\calendar-header\index.js,40,35,2
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\modules\calendar\lib\react\combobox\index.js,40,166,6

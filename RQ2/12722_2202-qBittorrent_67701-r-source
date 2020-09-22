@@ -1,0 +1,4 @@
+2202-qBittorrent,67701-r-source
+preferences.h,preferences.h,\src\base\preferences.h,\src\gnuwin32\preferences.h,325,25,2
+utils.h,utils.h,\src\gui\utils.h,\src\library\utils\src\utils.h,30,64,1
+types.h,types.h,\src\base\http\types.h,\src\extra\xdr\rpc\types.h,80,48,1

@@ -1,0 +1,6 @@
+3405-libevent,682-curl
+http.c,http.c,\http.c,\lib\http.c,4015,2827,521
+select.c,select.c,\select.c,\lib\select.c,230,411,33
+hostcheck.c,hostcheck.c,\sample\hostcheck.c,\lib\hostcheck.c,127,84,34
+http.h,http.h,\include\event2\http.h,\lib\http.h,347,158,6
+util.h,util.h,\include\event2\util.h,\tests\server\util.h,462,29,3

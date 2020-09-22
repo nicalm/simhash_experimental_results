@@ -1,0 +1,4 @@
+15780-OpenJK,2283-capnproto
+memory.h,memory.h,\code\qcommon\safe\memory.h,\c++\src\kj\memory.h,82,346,18
+memory.h,memory.h,\codeJK2\qcommon\safe\memory.h,\c++\src\kj\memory.h,82,346,18
+string.h,string.h,\shared\qcommon\safe\string.h,\c++\src\kj\string.h,45,440,8

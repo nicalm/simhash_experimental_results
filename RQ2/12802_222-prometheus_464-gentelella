@@ -1,0 +1,12 @@
+222-prometheus,464-gentelella
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\echarts\index.js,1022,32,0
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\jszip\lib\index.js,1022,35,8
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\bootstrap\js\src\index.js,1022,41,3
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\bootstrap-datetimepicker\test\screen-capture\index.js,1022,24,4
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\parsleyjs\bower_components\expect.js\index.js,1022,806,140
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\pnotify\libtests\browserify\index.js,1022,20,6
+index.js,index.js,\web\ui\static\js\graph\index.js,\vendors\mjolnic-bootstrap-colorpicker\docs\helpers\code\index.js,1022,21,12
+jquery.hotkeys.js,jquery.hotkeys.js,\web\ui\static\vendor\js\jquery.hotkeys.js,\vendors\jquery.hotkeys\jquery.hotkeys.js,70,158,37
+bootstrap.bundle.js,bootstrap.bundle.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.bundle.js,\vendors\bootstrap\dist\js\bootstrap.bundle.js,4493,4493,4493
+bootstrap.js,bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,\vendors\bootstrap\dist\js\bootstrap.js,3262,3262,3262
+bootstrap.js,bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,\vendors\parsleyjs\bower_components\bootstrap\dist\js\bootstrap.js,3262,1191,172

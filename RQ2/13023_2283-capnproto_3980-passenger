@@ -1,0 +1,4 @@
+2283-capnproto,3980-passenger
+endian.h,endian.h,\c++\src\capnp\endian.h,\src\cxx_supportlib\vendor-modified\boost\predef\other\endian.h,212,141,11
+json.h,json.h,\c++\src\capnp\compat\json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,317,953,46
+compiler.h,compiler.h,\c++\src\capnp\compiler\compiler.h,\src\cxx_supportlib\vendor-modified\boost\predef\compiler.h,56,34,0

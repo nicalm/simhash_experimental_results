@@ -1,0 +1,4 @@
+332-netty,4701-sonarqube
+Version.java,Version.java,\common\src\main\java\io\netty\util\Version.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\Version.java,128,156,27
+TestUtils.java,TestUtils.java,\testsuite\src\main\java\io\netty\testsuite\util\TestUtils.java,\sonar-testing-harness\src\main\java\org\sonar\test\TestUtils.java,175,22,9
+TestUtils.java,TestUtils.java,\testsuite\src\main\java\io\netty\testsuite\util\TestUtils.java,\sonar-plugin-api\src\test\java\org\sonar\api\utils\TestUtils.java,175,22,9

@@ -1,0 +1,5 @@
+3761-lepton,9469-wireshark
+adler32.c,adler32.c,\dependencies\zlib\adler32.c,\wsutil\adler32.c,137,23,8
+crc32.c,crc32.c,\dependencies\zlib\crc32.c,\wsutil\crc32.c,285,366,25
+crc32.h,crc32.h,\dependencies\zlib\crc32.h,\wsutil\crc32.h,437,32,2
+ringbuffer.h,ringbuffer.h,\dependencies\brotli\c\enc\ringbuffer.h,\ringbuffer.h,105,18,1

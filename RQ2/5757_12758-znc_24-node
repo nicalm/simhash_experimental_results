@@ -1,0 +1,5 @@
+12758-znc,24-node
+version.h,version.h,\include\znc\version.h,\deps\v8\src\utils\version.h,43,39,1
+module.h,module.h,\modules\modperl\module.h,\deps\v8\src\objects\module.h,207,101,10
+module.h,module.h,\modules\modpython\module.h,\deps\v8\src\objects\module.h,287,101,10
+base.h,base.h,\test\integration\framework\base.h,\deps\openssl\openssl\test\ossl_shim\include\openssl\base.h,144,66,13

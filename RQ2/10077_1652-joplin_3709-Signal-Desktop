@@ -1,0 +1,16 @@
+1652-joplin,3709-Signal-Desktop
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\.eslintrc.js,69,40,7
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\test\.eslintrc.js,69,32,8
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\test\modules\.eslintrc.js,69,22,8
+main.js,main.js,\CliClient\app\main.js,\main.js,64,881,9
+background.js,background.js,\Clipper\joplin-webclipper\background.js,\js\background.js,62,2033,15
+main.js,main.js,\ElectronClient\app\main.js,\main.js,33,881,4
+database.js,database.js,\ReactNativeClient\lib\database.js,\js\database.js,266,96,5
+database.js,database.js,\ReactNativeClient\lib\database.js,\js\modules\database.js,266,52,6
+locale.js,locale.js,\ReactNativeClient\lib\locale.js,\app\locale.js,287,49,8
+index.js,index.js,\ReactNativeClient\locales\index.js,\js\modules\migrations\18\index.js,71,15,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\js\modules\migrations\18\index.js,352,15,3
+index.js,index.js,\ElectronClient\app\locales\index.js,\js\modules\migrations\18\index.js,71,15,0
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\js\modules\migrations\18\index.js,82,15,2
+preload.js,preload.js,\ElectronClient\app\gui\note-viewer\preload.js,\preload.js,27,364,6
+config.js,config.js,\ReactNativeClient\lib\components\screens\config.js,\app\config.js,471,33,4

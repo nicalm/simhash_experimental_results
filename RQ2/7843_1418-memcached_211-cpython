@@ -1,0 +1,6 @@
+1418-memcached,211-cpython
+cache.c,cache.c,\cache.c,\Modules\_sqlite\cache.c,132,273,25
+cache.h,cache.h,\cache.h,\Modules\_sqlite\cache.h,38,32,1
+thread.c,thread.c,\thread.c,\Python\thread.c,650,167,40
+util.c,util.c,\util.c,\Modules\_sqlite\util.c,193,93,12
+util.h,util.h,\util.h,\Modules\_sqlite\util.h,20,16,3

@@ -1,0 +1,3 @@
+12310-weechat,86-netdata
+main.c,main.c,\src\gui\curses\headless\main.c,\daemon\main.c,64,995,16
+main.c,main.c,\src\gui\curses\normal\main.c,\daemon\main.c,16,995,3

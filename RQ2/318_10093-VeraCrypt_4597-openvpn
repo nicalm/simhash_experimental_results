@@ -1,0 +1,4 @@
+10093-VeraCrypt,4597-openvpn
+misc.h,misc.h,\src\Crypto\misc.h,\src\openvpn\misc.h,153,89,10
+pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\src\openvpn\pkcs11.h,31,41,2
+compat.h,compat.h,\src\Common\libzip\compat.h,\src\compat\compat.h,143,33,11

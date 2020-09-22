@@ -1,0 +1,11 @@
+10093-VeraCrypt,11788-fbthrift
+Exception.h,Exception.h,\src\Common\Exception.h,\thrift\lib\cpp\concurrency\Exception.h,88,38,8
+Exception.h,Exception.h,\src\Platform\Exception.h,\thrift\lib\cpp\concurrency\Exception.h,87,38,7
+Mutex.h,Mutex.h,\src\Platform\Mutex.h,\thrift\lib\cpp\concurrency\Mutex.h,43,169,8
+Serializer.cpp,Serializer.cpp,\src\Platform\Serializer.cpp,\thrift\lib\cpp2\protocol\Serializer.cpp,233,70,17
+Serializer.cpp,Serializer.cpp,\src\Platform\Serializer.cpp,\thrift\lib\cpp2\transport\rocket\framing\Serializer.cpp,233,18,6
+Serializer.h,Serializer.h,\src\Platform\Serializer.h,\thrift\lib\cpp2\protocol\Serializer.h,59,200,4
+Serializer.h,Serializer.h,\src\Platform\Serializer.h,\thrift\lib\cpp2\transport\rocket\framing\Serializer.h,59,116,4
+Stream.h,Stream.h,\src\Platform\Stream.h,\thrift\lib\cpp2\async\Stream.h,21,193,4
+Thread.h,Thread.h,\src\Platform\Thread.h,\thrift\lib\cpp\concurrency\Thread.h,54,72,9
+Mutex.cpp,Mutex.cpp,\src\Platform\Unix\Mutex.cpp,\thrift\lib\cpp\concurrency\Mutex.cpp,45,97,5

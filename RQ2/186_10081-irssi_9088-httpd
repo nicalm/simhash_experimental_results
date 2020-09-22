@@ -1,0 +1,6 @@
+10081-irssi,9088-httpd
+core.c,core.c,\src\core\core.c,\server\core.c,243,4522,43
+log.c,log.c,\src\core\log.c,\server\log.c,455,1428,91
+modules.c,modules.c,\src\core\modules.c,\os\netware\modules.c,216,91,0
+modules.c,modules.c,\src\core\modules.c,\os\win32\modules.c,216,31,0
+listen.c,listen.c,\src\irc\proxy\listen.c,\server\listen.c,675,862,121

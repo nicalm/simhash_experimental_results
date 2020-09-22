@@ -1,0 +1,3 @@
+2202-qBittorrent,6444-yara
+utils.h,utils.h,\src\gui\utils.h,\libyara\include\yara\utils.h,30,87,2
+types.h,types.h,\src\base\http\types.h,\libyara\include\yara\types.h,80,527,13

@@ -1,0 +1,12 @@
+2578-calibre,67701-r-source
+util.c,util.c,\bypy\linux\util.c,\src\main\util.c,196,2082,34
+util.c,util.c,\bypy\linux\util.c,\src\library\grid\src\util.c,196,178,22
+util.c,util.c,\bypy\linux\util.c,\src\library\utils\src\windows\util.c,196,479,31
+util.c,util.c,\bypy\macos\util.c,\src\main\util.c,169,2082,30
+util.c,util.c,\bypy\macos\util.c,\src\library\grid\src\util.c,169,178,21
+util.c,util.c,\bypy\macos\util.c,\src\library\utils\src\windows\util.c,169,479,25
+main.c,main.c,\bypy\windows\main.c,\src\main\main.c,107,1257,23
+util.c,util.c,\bypy\windows\util.c,\src\main\util.c,328,2082,50
+util.c,util.c,\bypy\windows\util.c,\src\library\grid\src\util.c,328,178,20
+util.c,util.c,\bypy\windows\util.c,\src\library\utils\src\windows\util.c,328,479,40
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\src\library\utils\src\utils.h,29,64,0

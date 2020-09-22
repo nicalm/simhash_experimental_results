@@ -1,0 +1,14 @@
+10395-jitsi,11788-fbthrift
+Logger.java,Logger.java,\src\net\java\sip\communicator\util\Logger.java,\thrift\lib\java\src\main\java\com\facebook\thrift\utils\Logger.java,146,94,17
+Constants.java,Constants.java,\src\net\java\sip\communicator\plugin\branding\Constants.java,\thrift\compiler\test\fixtures\includes\gen-android\Constants.java,27,16,2
+Constants.java,Constants.java,\src\net\java\sip\communicator\plugin\branding\Constants.java,\thrift\compiler\test\fixtures\refs\gen-java\Constants.java,27,48,4
+Constants.java,Constants.java,\src\net\java\sip\communicator\plugin\branding\Constants.java,\thrift\compiler\test\fixtures\includes\gen-android\one\two\three\Constants.java,27,21,2
+Constants.java,Constants.java,\src\net\java\sip\communicator\plugin\branding\Constants.java,\thrift\compiler\test\fixtures\lazy_constants\gen-swift\test\fixtures\lazy_constants\Constants.java,27,44,1
+Constants.java,Constants.java,\src\net\java\sip\communicator\plugin\branding\Constants.java,\thrift\compiler\test\fixtures\list\gen-swift\test\fixtures\list\Constants.java,27,17,1
+Constants.java,Constants.java,\src\net\java\sip\communicator\impl\gui\utils\Constants.java,\thrift\compiler\test\fixtures\includes\gen-android\Constants.java,296,16,2
+Constants.java,Constants.java,\src\net\java\sip\communicator\impl\gui\utils\Constants.java,\thrift\compiler\test\fixtures\refs\gen-java\Constants.java,296,48,5
+Constants.java,Constants.java,\src\net\java\sip\communicator\impl\gui\utils\Constants.java,\thrift\compiler\test\fixtures\includes\gen-android\one\two\three\Constants.java,296,21,2
+Constants.java,Constants.java,\src\net\java\sip\communicator\impl\gui\utils\Constants.java,\thrift\compiler\test\fixtures\lazy_constants\gen-swift\test\fixtures\lazy_constants\Constants.java,296,44,1
+Constants.java,Constants.java,\src\net\java\sip\communicator\impl\gui\utils\Constants.java,\thrift\compiler\test\fixtures\list\gen-swift\test\fixtures\list\Constants.java,296,17,1
+Color.java,Color.java,\src\net\java\sip\communicator\impl\protocol\irc\Color.java,\thrift\compiler\test\fixtures\optionals\gen-java\Color.java,29,408,6
+Color.java,Color.java,\src\net\java\sip\communicator\impl\protocol\irc\Color.java,\thrift\compiler\test\fixtures\optionals\gen-swift\test\fixtures\optionals\Color.java,29,117,3

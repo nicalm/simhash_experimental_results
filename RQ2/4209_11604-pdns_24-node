@@ -1,0 +1,7 @@
+11604-pdns,24-node
+conf.py,conf.py,\docs\conf.py,\deps\uv\docs\src\conf.py,82,59,7
+json.cc,json.cc,\pdns\json.cc,\deps\v8\test\fuzzer\json.cc,84,27,3
+json.cc,json.cc,\pdns\json.cc,\deps\v8\src\torque\ls\json.cc,84,58,12
+version.cc,version.cc,\pdns\version.cc,\deps\v8\src\utils\version.cc,141,42,7
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\deps\uv\docs\src\conf.py,48,59,12
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\deps\uv\docs\src\conf.py,52,59,9

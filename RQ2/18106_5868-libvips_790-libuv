@@ -1,0 +1,9 @@
+5868-libvips,790-libuv
+error.c,error.c,\libvips\iofuncs\error.c,\src\win\error.c,530,132,11
+stream.c,stream.c,\libvips\iofuncs\stream.c,\src\unix\stream.c,82,1128,17
+stream.c,stream.c,\libvips\iofuncs\stream.c,\src\win\stream.c,82,171,7
+threadpool.c,threadpool.c,\libvips\iofuncs\threadpool.c,\src\threadpool.c,545,263,43
+util.c,util.c,\libvips\iofuncs\util.c,\samples\socks5-proxy\util.c,1294,43,14
+util.c,util.c,\libvips\iofuncs\util.c,\src\win\util.c,1294,1211,166
+internal.h,internal.h,\libvips\include\vips\internal.h,\src\unix\internal.h,153,209,5
+internal.h,internal.h,\libvips\include\vips\internal.h,\src\win\internal.h,153,166,2

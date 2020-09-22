@@ -1,0 +1,11 @@
+140-neovim,211-cpython
+ascii.h,ascii.h,\src\nvim\ascii.h,\Modules\expat\ascii.h,117,85,0
+context.c,context.c,\src\nvim\context.c,\Python\context.c,254,960,73
+context.c,context.c,\src\nvim\context.c,\Modules\_decimal\libmpdec\context.c,254,216,57
+context.h,context.h,\src\nvim\context.h,\Include\context.h,38,33,3
+cursor.c,cursor.c,\src\nvim\cursor.c,\Modules\_sqlite\cursor.c,332,771,79
+eval.h,eval.h,\src\nvim\eval.h,\Include\eval.h,130,29,2
+fileio.c,fileio.c,\src\nvim\fileio.c,\Modules\_io\fileio.c,5326,910,233
+main.c,main.c,\src\nvim\main.c,\Modules\main.c,1480,529,138
+fileio.c,fileio.c,\src\nvim\os\fileio.c,\Modules\_io\fileio.c,284,910,75
+parser.h,parser.h,\src\nvim\viml\parser\parser.h,\Parser\parser.h,171,37,6

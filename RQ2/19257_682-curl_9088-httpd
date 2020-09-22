@@ -1,0 +1,5 @@
+682-curl,9088-httpd
+base64.c,base64.c,\lib\base64.c,\test\unit\base64.c,182,117,14
+util.c,util.c,\tests\server\util.c,\server\util.c,375,2737,101
+util.c,util.c,\tests\server\util.c,\test\unit\util.c,375,44,8
+util.c,util.c,\tests\server\util.c,\modules\dav\main\util.c,375,1250,64

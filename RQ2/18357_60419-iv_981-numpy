@@ -1,0 +1,7 @@
+60419-iv,981-numpy
+alloc.h,alloc.h,\iv\alloc.h,\numpy\core\src\multiarray\alloc.h,143,27,3
+mt19937.h,mt19937.h,\iv\mt19937.h,\numpy\random\src\mt19937\mt19937.h,114,43,11
+utils.h,utils.h,\iv\utils.h,\numpy\core\include\numpy\utils.h,109,15,4
+number.h,number.h,\iv\lv5\runtime\number.h,\numpy\core\src\multiarray\number.h,22,62,1
+alloc.c,alloc.c,\iv\lv5\third_party\gc\alloc.c,\numpy\core\src\multiarray\alloc.c,968,216,54
+utils.h,utils.h,\iv\lv5\third_party\v8_dtoa\utils.h,\numpy\core\include\numpy\utils.h,63,15,1

@@ -1,0 +1,7 @@
+13324-librenms,7408-DeepVideoAnalytics
+__init__.py,__init__.py,\LibreNMS\__init__.py,\deploy\compose\__init__.py,252,161,11
+__init__.py,__init__.py,\LibreNMS\__init__.py,\deploy\kube\__init__.py,252,256,10
+tests.py,tests.py,\tests\tests.py,\repos\lopq\python\test\tests.py,107,177,1
+bootstrap.js,bootstrap.js,\html\js\bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,1588,1597,1565
+app.js,app.js,\resources\js\app.js,\server\dvaapp\static\app\app.js,25,180,4
+app.js,app.js,\resources\js\app.js,\server\dvaapp\static\dist\js\app.js,25,470,4

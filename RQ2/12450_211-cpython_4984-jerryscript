@@ -1,0 +1,17 @@
+211-cpython,4984-jerryscript
+setup.py,setup.py,\setup.py,\targets\curie_bsp\setup.py,1651,129,6
+main.c,main.c,\Modules\main.c,\targets\curie_bsp\jerry_app\quark\main.c,529,130,37
+util.py,util.py,\Lib\ctypes\util.py,\tools\runners\util.py,276,36,3
+util.py,util.py,\Lib\distutils\util.py,\tools\runners\util.py,285,36,3
+util.py,util.py,\Lib\importlib\util.py,\tools\runners\util.py,178,36,2
+util.py,util.py,\Lib\multiprocessing\util.py,\tools\runners\util.py,274,36,2
+util.py,util.py,\Lib\unittest\util.py,\tools\runners\util.py,134,36,1
+util.py,util.py,\Lib\wsgiref\util.py,\tools\runners\util.py,107,36,1
+module.c,module.c,\Modules\_sqlite\module.c,\jerry-ext\module\module.c,367,211,48
+module.h,module.h,\Modules\_sqlite\module.h,\jerry-ext\include\jerryscript-ext\module.h,21,74,1
+setup.py,setup.py,\Tools\test2to3\setup.py,\targets\curie_bsp\setup.py,22,129,1
+build.py,build.py,\Lib\distutils\command\build.py,\tools\build.py,105,227,1
+setup.py,setup.py,\Lib\test\libregrtest\setup.py,\targets\curie_bsp\setup.py,90,129,2
+util.py,util.py,\Lib\test\test_importlib\util.py,\tools\runners\util.py,420,36,2
+util.py,util.py,\Lib\test\test_tools\test_c_analyzer\util.py,\tools\runners\util.py,37,36,0
+util.py,util.py,\Tools\c-analyzer\c_analyzer\common\util.py,\tools\runners\util.py,159,36,2

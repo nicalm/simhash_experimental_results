@@ -1,0 +1,12 @@
+12310-weechat,6773-server
+plugin.c,plugin.c,\src\plugins\plugin.c,\storage\mroonga\vendor\groonga\lib\plugin.c,1150,1183,199
+plugin.h,plugin.h,\src\plugins\plugin.h,\include\mysql\plugin.h,35,395,1
+plugin.h,plugin.h,\src\plugins\plugin.h,\storage\mroonga\vendor\groonga\include\groonga\plugin.h,35,137,1
+charset.c,charset.c,\src\plugins\charset\charset.c,\mysys\charset.c,452,1021,112
+logger.c,logger.c,\src\plugins\logger\logger.c,\storage\mroonga\vendor\groonga\lib\logger.c,875,696,159
+logger.h,logger.h,\src\plugins\logger\logger.h,\storage\rocksdb\logger.h,24,51,0
+logger.h,logger.h,\src\plugins\logger\logger.h,\storage\tokudb\PerconaFT\ft\logger\logger.h,24,141,0
+main.c,main.c,\src\gui\curses\headless\main.c,\dbug\main.c,64,23,6
+main.c,main.c,\src\gui\curses\headless\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,64,166,17
+main.c,main.c,\src\gui\curses\normal\main.c,\dbug\main.c,16,23,2
+main.c,main.c,\src\gui\curses\normal\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,16,166,4

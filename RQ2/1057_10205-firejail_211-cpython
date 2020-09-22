@@ -1,0 +1,15 @@
+10205-firejail,211-cpython
+main.c,main.c,\src\faudit\main.c,\Modules\main.c,49,529,11
+main.c,main.c,\src\fbuilder\main.c,\Modules\main.c,63,529,19
+main.c,main.c,\src\fcopy\main.c,\Modules\main.c,305,529,55
+main.c,main.c,\src\firecfg\main.c,\Modules\main.c,379,529,76
+util.c,util.c,\src\firecfg\util.c,\Modules\_sqlite\util.c,50,93,8
+main.c,main.c,\src\firejail\main.c,\Modules\main.c,2361,529,128
+util.c,util.c,\src\firejail\util.c,\Modules\_sqlite\util.c,968,93,19
+main.c,main.c,\src\fldd\main.c,\Modules\main.c,252,529,51
+main.c,main.c,\src\fnet\main.c,\Modules\main.c,111,529,29
+main.c,main.c,\src\fnetfilter\main.c,\Modules\main.c,155,529,31
+main.c,main.c,\src\fsec-optimize\main.c,\Modules\main.c,57,529,13
+main.c,main.c,\src\fsec-print\main.c,\Modules\main.c,44,529,10
+main.c,main.c,\src\fseccomp\main.c,\Modules\main.c,74,529,13
+main.c,main.c,\src\ftee\main.c,\Modules\main.c,172,529,38

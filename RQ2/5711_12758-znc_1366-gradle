@@ -1,0 +1,5 @@
+12758-znc,1366-gradle
+main.cpp,main.cpp,\src\main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,445,17,4
+main.cpp,main.cpp,\src\main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,445,17,4
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,35,17,3
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,35,17,3

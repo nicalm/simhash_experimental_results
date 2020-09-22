@@ -1,0 +1,3 @@
+1541-h2o,18490-libpcap
+socket.h,socket.h,\include\h2o\socket.h,\pcap\socket.h,235,24,7
+getopt.c,getopt.c,\deps\picotls\picotlsvs\picotls-esni\getopt.c,\missing\getopt.c,57,85,48

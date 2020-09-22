@@ -1,0 +1,9 @@
+18309-tor,6285-ImageMagick
+channel.c,channel.c,\src\core\or\channel.c,\MagickCore\channel.c,2009,993,237
+channel.h,channel.h,\src\core\or\channel.h,\MagickCore\channel.h,293,18,4
+compress.c,compress.c,\src\lib\compress\compress.c,\MagickCore\compress.c,507,939,111
+compress.h,compress.h,\src\lib\compress\compress.h,\MagickCore\compress.h,58,53,1
+map.c,map.c,\src\lib\container\map.c,\coders\map.c,323,278,37
+log.c,log.c,\src\lib\log\log.c,\MagickCore\log.c,1118,1233,208
+log.h,log.h,\src\lib\log\log.h,\MagickCore\log.h,188,65,6
+version.c,version.c,\src\lib\version\version.c,\MagickCore\version.c,33,351,7

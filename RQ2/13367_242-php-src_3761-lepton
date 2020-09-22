@@ -1,0 +1,11 @@
+242-php-src,3761-lepton
+crc32.c,crc32.c,\ext\standard\crc32.c,\dependencies\zlib\crc32.c,70,285,16
+crc32.h,crc32.h,\ext\standard\crc32.h,\dependencies\zlib\crc32.h,67,437,1
+md5.c,md5.c,\ext\standard\md5.c,\dependencies\md5\md5.c,267,211,152
+md5.h,md5.h,\ext\standard\md5.h,\dependencies\md5\md5.h,17,21,3
+memory.c,memory.c,\main\streams\memory.c,\dependencies\brotli\c\enc\memory.c,589,147,27
+compress.c,compress.c,\ext\fileinfo\libmagic\compress.c,\dependencies\zlib\compress.c,662,47,8
+config.h,config.h,\ext\pcre\pcre2lib\config.h,\dependencies\config.h,46,33,1
+decode.c,decode.c,\ext\opcache\jit\libudis86\decode.c,\dependencies\brotli\c\dec\decode.c,958,1997,198
+decode.h,decode.h,\ext\opcache\jit\libudis86\decode.h,\dependencies\brotli\c\include\brotli\decode.h,111,97,2
+types.h,types.h,\ext\opcache\jit\libudis86\types.h,\dependencies\brotli\c\include\brotli\types.h,155,31,5

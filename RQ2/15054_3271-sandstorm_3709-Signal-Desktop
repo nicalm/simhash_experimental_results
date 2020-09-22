@@ -1,0 +1,6 @@
+3271-sandstorm,3709-Signal-Desktop
+Gruntfile.js,Gruntfile.js,\icons\Gruntfile.js,\Gruntfile.js,25,389,8
+backup.js,backup.js,\shell\server\backup.js,\js\modules\backup.js,311,1077,71
+migrations.js,migrations.js,\shell\imports\server\migrations.js,\js\modules\migrations\migrations.js,939,186,30
+helpers.js,helpers.js,\shell\packages\sandstorm-identicons\helpers.js,\libtextsecure\helpers.js,80,50,5
+permissions.js,permissions.js,\shell\packages\sandstorm-permissions\permissions.js,\app\permissions.js,1149,31,8

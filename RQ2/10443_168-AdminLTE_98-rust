@@ -1,0 +1,8 @@
+168-AdminLTE,98-rust
+main.js,main.js,\plugins\fullcalendar\main.js,\src\librustdoc\html\static\main.js,7977,2266,559
+main.js,main.js,\plugins\fullcalendar-bootstrap\main.js,\src\librustdoc\html\static\main.js,59,2266,7
+main.js,main.js,\plugins\fullcalendar-daygrid\main.js,\src\librustdoc\html\static\main.js,1471,2266,235
+main.js,main.js,\plugins\fullcalendar-interaction\main.js,\src\librustdoc\html\static\main.js,1906,2266,331
+main.js,main.js,\plugins\fullcalendar-timegrid\main.js,\src\librustdoc\html\static\main.js,1195,2266,198
+main.js,main.js,\plugins\daterangepicker\example\amd\main.js,\src\librustdoc\html\static\main.js,104,2266,14
+main.js,main.js,\plugins\daterangepicker\example\browserify\main.js,\src\librustdoc\html\static\main.js,98,2266,11

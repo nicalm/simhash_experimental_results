@@ -1,0 +1,6 @@
+11788-fbthrift,2283-capnproto
+common.h,common.h,\thrift\compiler\common.h,\c++\src\benchmark\common.h,39,229,7
+common.h,common.h,\thrift\compiler\common.h,\c++\src\capnp\common.h,39,508,4
+common.h,common.h,\thrift\compiler\common.h,\c++\src\kj\common.h,39,1054,4
+common.h,common.h,\thrift\compiler\common.h,\c++\src\kj\parse\common.h,39,564,4
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\c++\src\kj\debug.h,58,327,10

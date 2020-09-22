@@ -1,0 +1,5 @@
+3024-SASM,7408-DeepVideoAnalytics
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\deploy\compose\__init__.py,79,161,10
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\deploy\kube\__init__.py,79,256,6
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\deploy\compose\__init__.py,63,161,6
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\deploy\kube\__init__.py,63,256,5

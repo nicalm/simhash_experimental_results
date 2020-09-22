@@ -1,0 +1,5 @@
+2283-capnproto,5991-cJSON
+common.h,common.h,\c++\src\benchmark\common.h,\tests\common.h,229,82,13
+common.h,common.h,\c++\src\capnp\common.h,\tests\common.h,508,82,13
+common.h,common.h,\c++\src\kj\common.h,\tests\common.h,1054,82,14
+common.h,common.h,\c++\src\kj\parse\common.h,\tests\common.h,564,82,16

@@ -1,0 +1,16 @@
+11788-fbthrift,12758-znc
+Client.cpp,Client.cpp,\thrift\perf\cpp2\client\Client.cpp,\src\Client.cpp,84,1074,10
+Server.cpp,Server.cpp,\thrift\perf\cpp2\server\Server.cpp,\src\Server.cpp,87,20,2
+Client.cpp,Client.cpp,\thrift\test\loadshedding\client\Client.cpp,\src\Client.cpp,74,1074,8
+Client.h,Client.h,\thrift\test\loadshedding\client\Client.h,\include\znc\Client.h,63,246,11
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\src\main.cpp,47,445,4
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\cmake\cxx11check\main.cpp,47,35,3
+Server.cpp,Server.cpp,\thrift\test\loadshedding\server\Server.cpp,\src\Server.cpp,35,20,2
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-enum-from-string\gen-cocoa\module.h,\modules\modperl\module.h,16,207,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-enum-from-string\gen-cocoa\module.h,\modules\modpython\module.h,16,287,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-reserved-properties-prefix\gen-cocoa\module.h,\modules\modperl\module.h,26,207,1
+module.h,module.h,\thrift\compiler\test\fixtures\cocoa-reserved-properties-prefix\gen-cocoa\module.h,\modules\modpython\module.h,26,287,1
+module.h,module.h,\thrift\compiler\test\fixtures\includes\gen-cocoa\module.h,\modules\modperl\module.h,31,207,1
+module.h,module.h,\thrift\compiler\test\fixtures\includes\gen-cocoa\module.h,\modules\modpython\module.h,31,287,1
+module.h,module.h,\thrift\compiler\test\fixtures\req-opt\gen-cocoa\module.h,\modules\modperl\module.h,36,207,1
+module.h,module.h,\thrift\compiler\test\fixtures\req-opt\gen-cocoa\module.h,\modules\modpython\module.h,36,287,1

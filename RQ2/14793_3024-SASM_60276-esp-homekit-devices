@@ -1,0 +1,5 @@
+3024-SASM,60276-esp-homekit-devices
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,79,348,9
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,79,348,9
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,63,348,7
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,63,348,7

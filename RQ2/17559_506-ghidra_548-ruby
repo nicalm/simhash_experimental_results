@@ -1,0 +1,5 @@
+506-ghidra,548-ruby
+builtin.c,builtin.c,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\builtin.c,\builtin.c,479,52,14
+alloca.c,alloca.c,\GPL\DemanglerGnu\src\demangler_gnu\c\alloca.c,\missing\alloca.c,271,100,67
+symbol.h,symbol.h,\Ghidra\Features\PDB\src\pdb\headers\symbol.h,\symbol.h,25,91,1
+symbol.h,symbol.h,\Ghidra\Features\PDB\src\pdb\headers\symbol.h,\internal\symbol.h,25,27,1

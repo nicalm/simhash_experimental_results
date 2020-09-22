@@ -1,0 +1,3 @@
+14790-sleuthkit,18490-libpcap
+strlcat.c,strlcat.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcat.c,\missing\strlcat.c,26,29,8
+strlcpy.c,strlcpy.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\strlcpy.c,\missing\strlcpy.c,23,25,8

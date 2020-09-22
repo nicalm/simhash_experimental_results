@@ -1,0 +1,13 @@
+1087-radare2,2202-qBittorrent
+types.h,types.h,\libr\fs\types.h,\src\base\http\types.h,19,80,1
+types.h,types.h,\libr\bin\pdb\types.h,\src\base\http\types.h,1100,80,3
+types.h,types.h,\libr\include\sdb\types.h,\src\base\http\types.h,113,80,3
+utils.h,utils.h,\shlr\gdb\include\utils.h,\src\gui\utils.h,15,30,1
+utils.h,utils.h,\shlr\qnx\include\utils.h,\src\gui\utils.h,24,30,1
+types.h,types.h,\shlr\sdb\src\types.h,\src\base\http\types.h,113,80,3
+fs.h,fs.h,\shlr\grub\include\grub\fs.h,\src\base\utils\fs.h,47,33,5
+misc.h,misc.h,\shlr\grub\include\grub\misc.h,\src\base\utils\misc.h,236,55,10
+net.h,net.h,\shlr\grub\include\grub\net.h,\src\base\utils\net.h,28,29,3
+types.h,types.h,\shlr\grub\include\grub\types.h,\src\base\http\types.h,217,80,11
+misc.h,misc.h,\shlr\grub\include\grub\emu\misc.h,\src\base\utils\misc.h,46,55,3
+misc.h,misc.h,\shlr\grub\include\grub\util\misc.h,\src\base\utils\misc.h,58,55,3

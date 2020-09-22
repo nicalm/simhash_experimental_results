@@ -1,0 +1,4 @@
+3024-SASM,4984-jerryscript
+debugger.h,debugger.h,\debugger.h,\jerry-core\debugger\debugger.h,88,269,5
+debugger.h,debugger.h,\debugger.h,\jerry-ext\include\jerryscript-ext\debugger.h,88,17,3
+main.cpp,main.cpp,\main.cpp,\targets\particle\source\main.cpp,90,85,9

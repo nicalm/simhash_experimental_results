@@ -1,0 +1,9 @@
+1615-rufus,6883-Sigil
+parser.c,parser.c,\src\parser.c,\internal\gumbo\parser.c,1126,3936,242
+crc32.c,crc32.c,\src\bled\crc32.c,\3rdparty\zlib\crc32.c,82,285,20
+config.h,config.h,\src\ext2fs\config.h,\3rdparty\hunspell\src\win_api\config.h,182,68,22
+config.h,config.h,\src\libcdio\config.h,\3rdparty\hunspell\src\win_api\config.h,53,68,11
+utf8.h,utf8.h,\src\libcdio\cdio\utf8.h,\internal\gumbo\utf8.h,19,41,1
+util.h,util.h,\src\libcdio\cdio\util.h,\internal\gumbo\util.h,79,48,17
+utf8.c,utf8.c,\src\libcdio\driver\utf8.c,\internal\gumbo\utf8.c,258,164,30
+util.c,util.c,\src\libcdio\driver\util.c,\internal\gumbo\util.c,124,49,14

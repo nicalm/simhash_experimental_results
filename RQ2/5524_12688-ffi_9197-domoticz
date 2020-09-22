@@ -1,0 +1,3 @@
+12688-ffi,9197-domoticz
+Thread.h,Thread.h,\ext\ffi_c\Thread.h,\hardware\openzwave\platform\Thread.h,45,26,2
+stdint.h,stdint.h,\ext\ffi_c\win32\stdint.h,\cereal\external\rapidjson\msinttypes\stdint.h,148,184,29

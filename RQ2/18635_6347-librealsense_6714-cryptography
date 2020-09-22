@@ -1,0 +1,7 @@
+6347-librealsense,6714-cryptography
+setup.py,setup.py,\wrappers\python\setup.py,\setup.py,64,181,8
+setup.py,setup.py,\wrappers\python\setup.py,\vectors\setup.py,64,19,3
+setup.py,setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,\setup.py,21,181,0
+setup.py,setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,\vectors\setup.py,21,19,0
+setup.py,setup.py,\wrappers\python\third_party\pybind11\setup.py,\setup.py,73,181,7
+setup.py,setup.py,\wrappers\python\third_party\pybind11\setup.py,\vectors\setup.py,73,19,2

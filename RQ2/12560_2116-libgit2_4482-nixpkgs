@@ -1,0 +1,4 @@
+2116-libgit2,4482-nixpkgs
+config.h,config.h,\src\config.h,\pkgs\os-specific\linux\net-tools\config.h,47,40,0
+config.h,config.h,\include\git2\config.h,\pkgs\os-specific\linux\net-tools\config.h,112,40,0
+config.h,config.h,\include\git2\sys\config.h,\pkgs\os-specific\linux\net-tools\config.h,41,40,0

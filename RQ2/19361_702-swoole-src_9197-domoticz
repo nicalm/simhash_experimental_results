@@ -1,0 +1,6 @@
+702-swoole-src,9197-domoticz
+error.h,error.h,\include\error.h,\cereal\external\rapidjson\error\error.h,92,57,2
+uthash.h,uthash.h,\include\uthash.h,\MQTT\uthash.h,745,757,742
+main.cpp,main.cpp,\core-tests\src\main.cpp,\tinyxpath\main.cpp,55,296,19
+server.cpp,server.cpp,\core-tests\src\server.cpp,\webserver\server.cpp,157,259,26
+server.cpp,server.cpp,\examples\wrapper\server.cpp,\webserver\server.cpp,115,259,21

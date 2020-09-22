@@ -1,0 +1,5 @@
+12310-weechat,242-php-src
+exec.c,exec.c,\src\plugins\exec\exec.c,\ext\standard\exec.c,590,429,75
+exec.h,exec.h,\src\plugins\exec\exec.h,\ext\standard\exec.h,55,19,1
+main.c,main.c,\src\gui\curses\headless\main.c,\main\main.c,64,2098,20
+main.c,main.c,\src\gui\curses\normal\main.c,\main\main.c,16,2098,3

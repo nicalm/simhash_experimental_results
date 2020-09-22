@@ -1,0 +1,4 @@
+4482-nixpkgs,99-redis
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\deps\hiredis\test.c,41,687,9
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\deps\jemalloc\test\src\test.c,41,168,3
+config.h,config.h,\pkgs\os-specific\linux\net-tools\config.h,\src\config.h,40,149,0

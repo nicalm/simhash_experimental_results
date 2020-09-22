@@ -1,0 +1,12 @@
+13786-SiCKRAGE,3637-qutebrowser
+setup.py,setup.py,\setup.py,\setup.py,74,64,6
+test_config.py,test_config.py,\tests\test_config.py,\tests\unit\config\test_config.py,38,563,1
+config.py,config.py,\sickrage\core\config.py,\qutebrowser\config\config.py,2204,345,17
+config.py,config.py,\sickrage\core\config.py,\scripts\dev\pylint_checkers\qute_pylint\config.py,2204,46,4
+config.py,config.py,\sickrage\indexers\config.py,\qutebrowser\config\config.py,20,345,0
+config.py,config.py,\sickrage\indexers\config.py,\scripts\dev\pylint_checkers\qute_pylint\config.py,20,46,1
+util.py,util.py,\sickrage\core\media\util.py,\qutebrowser\completion\models\util.py,51,20,0
+history.py,history.py,\sickrage\core\tv\show\history.py,\qutebrowser\browser\history.py,227,232,4
+history.py,history.py,\sickrage\core\webserver\handlers\history.py,\qutebrowser\browser\history.py,81,232,3
+http.py,http.py,\sickrage\libs\trakt\core\http.py,\qutebrowser\browser\webkit\http.py,192,34,1
+history.py,history.py,\sickrage\libs\trakt\interfaces\sync\history.py,\qutebrowser\browser\history.py,42,232,0

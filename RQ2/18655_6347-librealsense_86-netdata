@@ -1,0 +1,9 @@
+6347-librealsense,86-netdata
+os.h,os.h,\common\os.h,\libnetdata\os.h,41,30,0
+log.h,log.h,\src\log.h,\libnetdata\log\log.h,171,76,1
+threads.c,threads.c,\third-party\glfw\tests\threads.c,\libnetdata\threads\threads.c,94,148,11
+common.js,common.js,\wrappers\nodejs\examples\realsense_viewer\public\common.js,\web\gui\src\dashboard.js\common.js,34,169,5
+buffer.h,buffer.h,\third-party\realsense-file\rosbag\rosbag_storage\include\rosbag\buffer.h,\libnetdata\buffer\buffer.h,23,64,2
+query.h,query.h,\third-party\realsense-file\rosbag\rosbag_storage\include\rosbag\query.h,\web\api\queries\query.h,73,19,1
+eval.h,eval.h,\wrappers\python\third_party\pybind11\include\pybind11\eval.h,\libnetdata\eval\eval.h,81,53,1
+common.h,common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,\daemon\common.h,501,48,1

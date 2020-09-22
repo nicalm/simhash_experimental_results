@@ -1,0 +1,5 @@
+2257-core,3271-sandstorm
+admin.js,admin.js,\settings\js\admin.js,\shell\shared\admin.js,123,106,2
+admin.js,admin.js,\apps\updatenotification\js\admin.js,\shell\shared\admin.js,50,106,3
+mail.js,mail.js,\settings\js\panels\mail.js,\shell\server\drivers\mail.js,47,364,14
+profile.js,profile.js,\settings\js\panels\profile.js,\shell\packages\sandstorm-db\profile.js,278,310,46

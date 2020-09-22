@@ -1,0 +1,16 @@
+2257-core,702-swoole-src
+config.php,config.php,\.phan\config.php,\tests\include\config.php,26,80,1
+base.php,base.php,\lib\base.php,\examples\coroutine\library\base.php,679,36,9
+bootstrap.php,bootstrap.php,\tests\bootstrap.php,\tools\bootstrap.php,20,135,4
+bootstrap.php,bootstrap.php,\tests\bootstrap.php,\tests\include\bootstrap.php,20,30,3
+Base.php,Base.php,\core\Command\Base.php,\benchmark\src\Base.php,102,402,27
+config.php,config.php,\core\js\config.php,\tests\include\config.php,190,80,2
+config.php,config.php,\apps\files_external\lib\config.php,\tests\include\config.php,35,80,3
+config.php,config.php,\apps\files_external\tests\config.php,\tests\include\config.php,53,80,2
+Base.php,Base.php,\core\Command\Background\Base.php,\benchmark\src\Base.php,25,402,5
+Redis.php,Redis.php,\lib\private\Memcache\Redis.php,\tests\include\lib\src\Redis\Redis.php,95,56,12
+Base.php,Base.php,\lib\private\Template\Base.php,\benchmark\src\Base.php,83,402,24
+functions.php,functions.php,\lib\private\legacy\template\functions.php,\tests\include\functions.php,117,624,42
+Lock.php,Lock.php,\lib\private\Lock\Persistent\Lock.php,\tests\include\lib\src\Redis\Lock.php,60,47,12
+bootstrap.php,bootstrap.php,\tests\acceptance\features\bootstrap\bootstrap.php,\tools\bootstrap.php,18,135,1
+bootstrap.php,bootstrap.php,\tests\acceptance\features\bootstrap\bootstrap.php,\tests\include\bootstrap.php,18,30,1

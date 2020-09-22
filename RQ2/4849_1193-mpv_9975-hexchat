@@ -1,0 +1,3 @@
+1193-mpv,9975-hexchat
+format.c,format.c,\audio\format.c,\plugins\sysinfo\format.c,192,60,16
+lua.c,lua.c,\player\lua.c,\plugins\lua\lua.c,1109,1572,301

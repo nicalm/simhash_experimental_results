@@ -1,0 +1,15 @@
+1485-gvisor,7408-DeepVideoAnalytics
+__init__.py,__init__.py,\benchmarks\runner\__init__.py,\deploy\compose\__init__.py,167,161,6
+__init__.py,__init__.py,\benchmarks\runner\__init__.py,\deploy\kube\__init__.py,167,256,4
+network.py,network.py,\benchmarks\suites\network.py,\repos\facenet\models\network.py,39,132,0
+network.py,network.py,\benchmarks\suites\network.py,\repos\tf_ctpn_cpu\lib\networks\network.py,39,316,0
+__init__.py,__init__.py,\benchmarks\suites\__init__.py,\deploy\compose\__init__.py,54,161,2
+__init__.py,__init__.py,\benchmarks\suites\__init__.py,\deploy\kube\__init__.py,54,256,2
+__init__.py,__init__.py,\benchmarks\workloads\ab\__init__.py,\deploy\compose\__init__.py,15,161,0
+__init__.py,__init__.py,\benchmarks\workloads\ab\__init__.py,\deploy\kube\__init__.py,15,256,0
+__init__.py,__init__.py,\benchmarks\workloads\fio\__init__.py,\deploy\compose\__init__.py,16,161,1
+__init__.py,__init__.py,\benchmarks\workloads\fio\__init__.py,\deploy\kube\__init__.py,16,256,1
+__init__.py,__init__.py,\benchmarks\workloads\redisbenchmark\__init__.py,\deploy\compose\__init__.py,35,161,0
+__init__.py,__init__.py,\benchmarks\workloads\redisbenchmark\__init__.py,\deploy\kube\__init__.py,35,256,0
+__init__.py,__init__.py,\benchmarks\workloads\sysbench\__init__.py,\deploy\compose\__init__.py,30,161,0
+__init__.py,__init__.py,\benchmarks\workloads\sysbench\__init__.py,\deploy\kube\__init__.py,30,256,1

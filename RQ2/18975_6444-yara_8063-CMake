@@ -1,0 +1,17 @@
+6444-yara,8063-CMake
+common.h,common.h,\common.h,\Utilities\cmliblzma\liblzma\common\common.h,91,136,4
+threading.c,threading.c,\threading.c,\Utilities\cmzstd\lib\common\threading.c,125,39,16
+threading.h,threading.h,\threading.h,\Utilities\cmzstd\lib\common\threading.h,44,73,6
+hash.c,hash.c,\libyara\hash.c,\Utilities\cmcurl\lib\hash.c,259,242,42
+stream.c,stream.c,\libyara\stream.c,\Utilities\cmlibuv\src\unix\stream.c,22,1132,5
+stream.c,stream.c,\libyara\stream.c,\Utilities\cmlibuv\src\win\stream.c,22,174,4
+threading.c,threading.c,\libyara\threading.c,\Utilities\cmzstd\lib\common\threading.c,125,39,8
+util.c,util.c,\tests\util.c,\Utilities\cmlibuv\src\win\util.c,285,1300,37
+util.h,util.h,\tests\util.h,\Utilities\cmlibrhash\librhash\util.h,199,23,1
+freebsd.c,freebsd.c,\libyara\proc\freebsd.c,\Utilities\cmlibuv\src\unix\freebsd.c,104,217,17
+openbsd.c,openbsd.c,\libyara\proc\openbsd.c,\Utilities\cmlibuv\src\unix\openbsd.c,109,167,14
+compiler.h,compiler.h,\libyara\include\yara\compiler.h,\Utilities\cmzstd\lib\common\compiler.h,192,87,1
+hash.h,hash.h,\libyara\include\yara\hash.h,\Utilities\cmcurl\lib\hash.h,62,57,3
+mem.h,mem.h,\libyara\include\yara\mem.h,\Utilities\cmzstd\lib\common\mem.h,30,281,3
+threading.h,threading.h,\libyara\include\yara\threading.h,\Utilities\cmzstd\lib\common\threading.h,23,73,5
+hash.c,hash.c,\libyara\modules\hash\hash.c,\Utilities\cmcurl\lib\hash.c,436,242,54

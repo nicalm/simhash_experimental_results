@@ -1,0 +1,4 @@
+2116-libgit2,63411-CMS
+file.php,file.php,\tests\resources\userdiff\after\file.php,\iu-application\models\file.php,34,173,10
+file.php,file.php,\tests\resources\userdiff\before\file.php,\iu-application\models\file.php,33,173,10
+file.php,file.php,\tests\resources\userdiff\files\file.php,\iu-application\models\file.php,34,173,10

@@ -1,0 +1,10 @@
+4420-zcash,9529-ltp
+init.h,init.h,\src\init.h,\thirdparty\dynet\dynet\init.h,23,24,4
+main.cpp,main.cpp,\src\main.cpp,\src\parser.n\main.cpp,4730,128,16
+net.h,net.h,\src\net.h,\thirdparty\boost\include\boost\predef\os\bsd\net.h,494,51,2
+endian.h,endian.h,\src\compat\endian.h,\thirdparty\boost\include\boost\predef\other\endian.h,160,141,31
+main.cpp,main.cpp,\src\gtest\main.cpp,\src\parser.n\main.cpp,42,128,2
+options.h,options.h,\src\leveldb\include\leveldb\options.h,\src\framework\options.h,48,30,7
+options.h,options.h,\src\leveldb\include\leveldb\options.h,\src\parser\options.h,48,58,7
+options.h,options.h,\src\leveldb\include\leveldb\options.h,\src\parser.n\options.h,48,55,7
+options.h,options.h,\src\leveldb\include\leveldb\options.h,\src\segmentor\options.h,48,16,4

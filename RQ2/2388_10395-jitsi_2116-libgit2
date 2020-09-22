@@ -1,0 +1,12 @@
+10395-jitsi,2116-libgit2
+registry.c,registry.c,\src\native\windows\run\registry.c,\src\streams\registry.c,44,88,14
+setup.c,setup.c,\src\native\windows\setup\setup.c,\tests\rebase\setup.c,1682,448,35
+setup.c,setup.c,\src\native\windows\setup\setup.c,\tests\merge\workdir\setup.c,1682,799,78
+delta.h,delta.h,\src\native\windows\setup\include\lzma\delta.h,\src\delta.h,19,53,1
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\src\filter.h,51,24,2
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\include\git2\filter.h,51,60,1
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\include\git2\sys\filter.h,51,65,1
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\src\index.h,114,113,2
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\include\git2\index.h,114,149,3
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\include\git2\sys\index.h,114,33,1
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\src\win32\version.h,40,23,1

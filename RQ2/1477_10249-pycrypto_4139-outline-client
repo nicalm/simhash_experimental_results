@@ -1,0 +1,8 @@
+10249-pycrypto,4139-outline-client
+setup.py,setup.py,\setup.py,\third_party\shadowsocks-libev\libipset\python\setup.py,369,17,2
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,90,124,7
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,47,124,3
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,18,124,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,23,124,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,16,124,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\third_party\shadowsocks-libev\libipset\python\src\ipset\__init__.py,17,124,0

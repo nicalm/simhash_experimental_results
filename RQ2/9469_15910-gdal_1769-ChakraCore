@@ -1,0 +1,3 @@
+15910-gdal,1769-ChakraCore
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\lib\wabt\chakra\windows\config.h,54,247,10
+debug.h,debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,\pal\src\include\pal\debug.h,56,18,6

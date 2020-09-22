@@ -1,0 +1,6 @@
+2575-scipy,99-redis
+example.c,example.c,\scipy\optimize\tnc\example.c,\deps\linenoise\example.c,36,53,5
+example.c,example.c,\scipy\optimize\tnc\example.c,\deps\hiredis\examples\example.c,36,57,5
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\src\util.h,38,24,1
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,38,42,3
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\src\util.c,345,590,51

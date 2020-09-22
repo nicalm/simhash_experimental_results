@@ -1,0 +1,14 @@
+10115-mbedtls,1087-radare2
+base64.c,base64.c,\library\base64.c,\shlr\sdb\src\base64.c,199,105,19
+debug.c,debug.c,\library\debug.c,\libr\debug\debug.c,345,1378,58
+des.c,des.c,\library\des.c,\libr\crypto\des.c,786,206,21
+entropy.c,entropy.c,\library\entropy.c,\libr\hash\entropy.c,497,24,6
+md4.c,md4.c,\library\md4.c,\libr\hash\md4.c,356,147,18
+md5.c,md5.c,\library\md5.c,\libr\hash\md5.c,358,160,17
+sha1.c,sha1.c,\library\sha1.c,\libr\hash\sha1.c,414,88,14
+version.c,version.c,\library\version.c,\libr\main\version.c,23,23,4
+x509.c,x509.c,\library\x509.c,\libr\util\x509.c,687,726,55
+config.h,config.h,\include\mbedtls\config.h,\shlr\zip\zip\config.h,143,71,3
+x509.h,x509.h,\include\mbedtls\x509.h,\libr\util\x509.h,159,17,1
+hello.c,hello.c,\programs\hash\hello.c,\test\unit\legacy_unit\hash\hello.c,54,56,6
+hello.c,hello.c,\programs\hash\hello.c,\test\unit\legacy_unit\syscall\hello.c,54,15,3

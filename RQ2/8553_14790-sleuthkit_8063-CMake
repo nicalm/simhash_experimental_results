@@ -1,0 +1,9 @@
+14790-sleuthkit,8063-CMake
+md5.c,md5.c,\tools\hashtools\md5.c,\Utilities\cmcurl\lib\md5.c,48,404,9
+md5.c,md5.c,\tools\hashtools\md5.c,\Utilities\cmlibrhash\librhash\md5.c,48,160,9
+sha1.c,sha1.c,\tools\hashtools\sha1.c,\Utilities\cmlibrhash\librhash\sha1.c,50,121,10
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\Utilities\cmbzip2\compress.c,395,439,44
+compress.c,compress.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\Utilities\cmzlib\compress.c,395,46,8
+file.c,file.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\Utilities\cmcurl\lib\file.c,401,377,62
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\Utilities\KWIML\test\test.c,79,27,3
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\Utilities\cmjsoncpp\include\json\config.h,41,130,3

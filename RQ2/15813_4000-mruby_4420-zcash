@@ -1,0 +1,4 @@
+4000-mruby,4420-zcash
+common.h,common.h,\include\mruby\common.h,\src\crypto\common.h,55,94,3
+hash.h,hash.h,\include\mruby\hash.h,\src\hash.h,42,164,2
+hash.h,hash.h,\include\mruby\hash.h,\src\secp256k1\src\hash.h,42,27,1

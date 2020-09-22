@@ -1,0 +1,11 @@
+10549-luci,790-libuv
+fs.c,fs.c,\libs\luci-lib-nixio\src\fs.c,\src\unix\fs.c,461,1451,84
+fs.c,fs.c,\libs\luci-lib-nixio\src\fs.c,\src\win\fs.c,461,1992,86
+poll.c,poll.c,\libs\luci-lib-nixio\src\poll.c,\src\unix\poll.c,154,81,8
+poll.c,poll.c,\libs\luci-lib-nixio\src\poll.c,\src\win\poll.c,154,459,28
+process.c,process.c,\libs\luci-lib-nixio\src\process.c,\src\unix\process.c,351,441,60
+process.c,process.c,\libs\luci-lib-nixio\src\process.c,\src\win\process.c,351,879,71
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\samples\socks5-proxy\util.c,81,43,9
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\src\win\util.c,81,1211,13
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\samples\socks5-proxy\util.c,261,43,6
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\src\win\util.c,261,1211,27

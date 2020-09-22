@@ -1,0 +1,4 @@
+10549-luci,4597-openvpn
+socket.c,socket.c,\libs\luci-lib-nixio\src\socket.c,\src\openvpn\socket.c,113,3367,21
+crypto.h,crypto.h,\libs\luci-lib-nixio\axTLS\crypto\crypto.h,\src\openvpn\crypto.h,129,143,9
+ssl.h,ssl.h,\libs\luci-lib-nixio\axTLS\ssl\ssl.h,\src\openvpn\ssl.h,95,185,5

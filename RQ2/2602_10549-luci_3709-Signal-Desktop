@@ -1,0 +1,4 @@
+10549-luci,3709-Signal-Desktop
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\app\config.js,53,33,2
+settings.js,settings.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\settings.js,\js\modules\settings.js,54,76,3
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\js\modules\migrations\18\index.js,82,15,3

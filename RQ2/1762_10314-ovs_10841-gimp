@@ -1,0 +1,7 @@
+10314-ovs,10841-gimp
+actions.c,actions.c,\datapath\actions.c,\app\actions\actions.c,1206,591,104
+bitmap.h,bitmap.h,\lib\bitmap.h,\plug-ins\selection-to-path\bitmap.h,218,43,3
+cmap.c,cmap.c,\lib\cmap.c,\plug-ins\flame\cmap.c,626,5648,48
+signals.c,signals.c,\lib\signals.c,\app\signals.c,44,101,13
+types.h,types.h,\include\openvswitch\types.h,\plug-ins\selection-to-path\types.h,98,92,4
+utils.c,utils.c,\datapath\linux\compat\utils.c,\plug-ins\gimpressionist\utils.c,88,303,16

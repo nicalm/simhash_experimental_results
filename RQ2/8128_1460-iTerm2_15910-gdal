@@ -1,0 +1,5 @@
+1460-iTerm2,15910-gdal
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\gdal\swig\python\setup.py,20,329,8
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\gdal\swig\python\setup.py,33,329,3
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\gdal\doc\source\conf.py,39,323,11
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\gdal\swig\python\osgeo\__init__.py,52,40,0

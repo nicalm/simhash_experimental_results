@@ -1,0 +1,5 @@
+11788-fbthrift,682-curl
+util.h,util.h,\thrift\compiler\util.h,\tests\server\util.h,91,29,1
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\tests\server\util.h,25,29,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\tests\server\util.h,17,29,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\tests\server\util.h,29,29,0

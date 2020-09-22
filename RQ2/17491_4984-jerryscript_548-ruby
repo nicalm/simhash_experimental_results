@@ -1,0 +1,7 @@
+4984-jerryscript,548-ruby
+nextafter.c,nextafter.c,\jerry-libm\nextafter.c,\missing\nextafter.c,94,62,17
+nextafter.c,nextafter.c,\jerry-libm\nextafter.c,\ext\-test-\float\nextafter.c,94,28,6
+vm.c,vm.c,\jerry-core\vm\vm.c,\vm.c,3400,2818,679
+vm.h,vm.h,\jerry-core\vm\vm.h,\internal\vm.h,256,151,4
+vm.h,vm.h,\jerry-core\vm\vm.h,\include\ruby\vm.h,256,20,6
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\main.c,130,31,4

@@ -1,0 +1,16 @@
+1087-radare2,2578-calibre
+des.c,des.c,\libr\crypto\des.c,\src\calibre\utils\msdes\des.c,206,434,16
+names.h,names.h,\libr\magic\names.h,\src\unicode_names\names.h,90,64642,2
+main.c,main.c,\libr\main\main.c,\bypy\windows\main.c,40,107,7
+main.c,main.c,\shlr\grub\main.c,\bypy\windows\main.c,113,107,15
+main.c,main.c,\shlr\spp\main.c,\bypy\windows\main.c,127,107,14
+main.c,main.c,\libr\bin\pdb\main.c,\bypy\windows\main.c,52,107,5
+utils.h,utils.h,\shlr\gdb\include\utils.h,\src\calibre\ebooks\pdf\utils.h,15,29,0
+utils.h,utils.h,\shlr\qnx\include\utils.h,\src\calibre\ebooks\pdf\utils.h,24,29,0
+main.c,main.c,\shlr\sdb\src\main.c,\bypy\windows\main.c,472,107,24
+util.c,util.c,\shlr\sdb\src\util.c,\bypy\linux\util.c,327,196,29
+util.c,util.c,\shlr\sdb\src\util.c,\bypy\macos\util.c,327,169,22
+util.c,util.c,\shlr\sdb\src\util.c,\bypy\windows\util.c,327,328,44
+main.c,main.c,\libr\asm\arch\dcpu16\main.c,\bypy\windows\main.c,31,107,2
+main.c,main.c,\shlr\sdb\src\json\main.c,\bypy\windows\main.c,76,107,8
+main.c,main.c,\test\unit\legacy_unit\debug\main.c,\bypy\windows\main.c,54,107,6

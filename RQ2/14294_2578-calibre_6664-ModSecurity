@@ -1,0 +1,4 @@
+2578-calibre,6664-ModSecurity
+system.h,system.h,\src\calibre\utils\lzx\system.h,\src\utils\system.h,37,19,3
+global.h,global.h,\src\calibre\utils\podofo\global.h,\src\variables\global.h,89,85,13
+global.h,global.h,\src\calibre\devices\mtp\windows\global.h,\src\variables\global.h,41,85,1

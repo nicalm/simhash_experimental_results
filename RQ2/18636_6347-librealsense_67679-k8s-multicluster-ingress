@@ -1,0 +1,4 @@
+6347-librealsense,67679-k8s-multicluster-ingress
+setup.py,setup.py,\wrappers\python\setup.py,\vendor\github.com\prometheus\client_model\setup.py,64,20,3
+setup.py,setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,\vendor\github.com\prometheus\client_model\setup.py,21,20,0
+setup.py,setup.py,\wrappers\python\third_party\pybind11\setup.py,\vendor\github.com\prometheus\client_model\setup.py,73,20,3

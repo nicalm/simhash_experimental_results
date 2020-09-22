@@ -1,0 +1,5 @@
+18-electron,4984-jerryscript
+js2c.py,js2c.py,\tools\js2c.py,\tools\js2c.py,15,61,2
+util.py,util.py,\script\lib\util.py,\tools\runners\util.py,206,36,4
+class.js,class.js,\spec\fixtures\module\class.js,\tests\jerry\es2015\class.js,22,187,7
+common.h,common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,\jerry-core\parser\js\common.h,48,78,2

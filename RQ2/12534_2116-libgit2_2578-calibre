@@ -1,0 +1,9 @@
+2116-libgit2,2578-calibre
+global.h,global.h,\src\global.h,\src\calibre\utils\podofo\global.h,20,89,1
+global.h,global.h,\src\global.h,\src\calibre\devices\mtp\windows\global.h,20,41,1
+util.c,util.c,\src\util.c,\bypy\linux\util.c,653,196,30
+util.c,util.c,\src\util.c,\bypy\macos\util.c,653,169,27
+util.c,util.c,\src\util.c,\bypy\windows\util.c,653,328,42
+generate.py,generate.py,\tests\generate.py,\imgsrc\generate.py,187,63,3
+generate.py,generate.py,\tests\generate.py,\imgsrc\srv\generate.py,187,44,2
+main.c,main.c,\tests\main.c,\bypy\windows\main.c,29,107,5

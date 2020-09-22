@@ -1,0 +1,7 @@
+2202-qBittorrent,2578-calibre
+main.cpp,main.cpp,\src\app\main.cpp,\src\calibre\headless\main.cpp,324,18,4
+global.h,global.h,\src\base\global.h,\src\calibre\utils\podofo\global.h,38,89,6
+global.h,global.h,\src\base\global.h,\src\calibre\devices\mtp\windows\global.h,38,41,2
+utils.cpp,utils.cpp,\src\gui\utils.cpp,\src\calibre\utils\podofo\utils.cpp,156,29,6
+utils.cpp,utils.cpp,\src\gui\utils.cpp,\src\calibre\devices\mtp\windows\utils.cpp,156,53,7
+utils.h,utils.h,\src\gui\utils.h,\src\calibre\ebooks\pdf\utils.h,30,29,6

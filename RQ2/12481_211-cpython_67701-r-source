@@ -1,0 +1,14 @@
+211-cpython,67701-r-source
+datetime.h,datetime.h,\Include\datetime.h,\src\main\datetime.h,152,36,1
+main.c,main.c,\Modules\main.c,\src\main\main.c,529,1257,152
+context.c,context.c,\Python\context.c,\src\main\context.c,960,542,90
+context.c,context.c,\Python\context.c,\src\extra\graphapp\context.c,960,337,76
+errors.c,errors.c,\Python\errors.c,\src\main\errors.c,1304,1502,290
+internal.h,internal.h,\Modules\expat\internal.h,\src\extra\graphapp\internal.h,44,292,19
+util.c,util.c,\Modules\_sqlite\util.c,\src\main\util.c,93,2082,28
+util.c,util.c,\Modules\_sqlite\util.c,\src\library\grid\src\util.c,93,178,15
+util.c,util.c,\Modules\_sqlite\util.c,\src\library\utils\src\windows\util.c,93,479,24
+install.c,install.c,\PC\bdist_wininst\install.c,\src\library\tools\src\install.c,2017,131,22
+context.c,context.c,\Modules\_decimal\libmpdec\context.c,\src\main\context.c,216,542,60
+context.c,context.c,\Modules\_decimal\libmpdec\context.c,\src\extra\graphapp\context.c,216,337,63
+io.c,io.c,\Modules\_decimal\libmpdec\io.c,\src\library\utils\src\io.c,1119,970,160

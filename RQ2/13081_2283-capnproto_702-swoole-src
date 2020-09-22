@@ -1,0 +1,8 @@
+2283-capnproto,702-swoole-src
+list.h,list.h,\c++\src\capnp\list.h,\include\list.h,398,605,4
+array.h,array.h,\c++\src\kj\array.h,\include\array.h,661,25,1
+async.h,async.h,\c++\src\kj\async.h,\include\async.h,274,50,2
+async.h,async.h,\c++\src\kj\async.h,\thirdparty\hiredis\async.h,274,63,2
+hash.h,hash.h,\c++\src\kj\hash.h,\include\hash.h,95,129,13
+table.h,table.h,\c++\src\kj\table.h,\include\table.h,1113,163,19
+http.h,http.h,\c++\src\kj\compat\http.h,\include\http.h,398,98,4

@@ -1,0 +1,14 @@
+1769-ChakraCore,2257-core
+log.js,log.js,\test\Math\log.js,\settings\js\log.js,26,37,3
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\core\l10n\ast.js,207,298,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\lib\l10n\ast.js,207,162,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\settings\l10n\ast.js,207,293,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\federatedfilesharing\l10n\ast.js,207,26,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\files\l10n\ast.js,207,105,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\files_external\l10n\ast.js,207,102,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\files_sharing\l10n\ast.js,207,113,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\files_trashbin\l10n\ast.js,207,19,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\systemtags\l10n\ast.js,207,32,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\apps\updatenotification\l10n\ast.js,207,19,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\tests\data\apptheme\apps\files\l10n\ast.js,207,105,1
+ast.js,ast.js,\test\benchmarks\ARES-6\Basic\ast.js,\tests\data\themes\abc\apps\files\l10n\ast.js,207,105,1

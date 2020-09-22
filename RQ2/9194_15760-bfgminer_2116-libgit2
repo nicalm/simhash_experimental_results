@@ -1,0 +1,5 @@
+15760-bfgminer,2116-libgit2
+compat.h,compat.h,\compat.h,\deps\ntlmclient\compat.h,164,21,7
+util.c,util.c,\util.c,\src\util.c,3540,653,170
+util.h,util.h,\util.h,\src\util.h,687,264,64
+memmem.c,memmem.c,\lib\memmem.c,\tests\core\memmem.c,34,41,4

@@ -1,0 +1,9 @@
+2432-jinja,7408-DeepVideoAnalytics
+setup.py,setup.py,\setup.py,\client\setup.py,50,15,4
+setup.py,setup.py,\setup.py,\repos\lopq\python\setup.py,50,90,3
+tests.py,tests.py,\jinja2\tests.py,\repos\lopq\python\test\tests.py,98,177,0
+utils.py,utils.py,\jinja2\utils.py,\repos\crnn\utils.py,349,91,3
+utils.py,utils.py,\jinja2\utils.py,\repos\lopq\python\lopq\utils.py,349,90,5
+__init__.py,__init__.py,\jinja2\__init__.py,\deploy\compose\__init__.py,31,161,0
+__init__.py,__init__.py,\jinja2\__init__.py,\deploy\kube\__init__.py,31,256,0
+test_utils.py,test_utils.py,\tests\test_utils.py,\repos\crnn\test\test_utils.py,157,70,0

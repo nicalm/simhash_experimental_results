@@ -1,0 +1,10 @@
+60276-esp-homekit-devices,98-rust
+test.c,test.c,\external_libs\cJSON\cJSON\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,189,30,5
+test.c,test.c,\external_libs\cJSON\cJSON\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,189,196,20
+test.c,test.c,\external_libs\cJSON\cJSON\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,189,22,3
+test.c,test.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,12558,30,6
+test.c,test.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,12558,196,23
+test.c,test.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,12558,22,6
+test.c,test.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,12558,30,6
+test.c,test.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,12558,196,23
+test.c,test.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\test\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,12558,22,6

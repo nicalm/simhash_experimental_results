@@ -1,0 +1,7 @@
+1769-ChakraCore,4679-ArduinoJson
+StreamReader.cpp,StreamReader.cpp,\lib\SCACore\StreamReader.cpp,\extras\tests\Misc\StreamReader.cpp,25,22,3
+misc.cpp,misc.cpp,\pal\src\cruntime\misc.cpp,\extras\tests\JsonDeserializer\misc.cpp,344,100,25
+misc.cpp,misc.cpp,\pal\src\cruntime\misc.cpp,\extras\tests\JsonSerializer\misc.cpp,344,36,4
+misc.cpp,misc.cpp,\pal\src\cruntime\misc.cpp,\extras\tests\JsonVariant\misc.cpp,344,38,6
+misc.cpp,misc.cpp,\pal\src\cruntime\misc.cpp,\extras\tests\MsgPackSerializer\misc.cpp,344,36,4
+string.cpp,string.cpp,\pal\src\cruntime\string.cpp,\extras\tests\JsonDeserializer\string.cpp,98,55,7

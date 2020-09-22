@@ -1,0 +1,3 @@
+12758-znc,1541-h2o
+version.h,version.h,\include\znc\version.h,\include\h2o\version.h,43,17,4
+version.h,version.h,\include\znc\version.h,\deps\mruby\include\mruby\version.h,43,29,1

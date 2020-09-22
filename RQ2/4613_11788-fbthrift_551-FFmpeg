@@ -1,0 +1,5 @@
+11788-fbthrift,551-FFmpeg
+common.h,common.h,\thrift\compiler\common.h,\libavutil\common.h,39,288,4
+types.h,types.h,\thrift\lib\py3\types.h,\compat\avisynth\avs\types.h,20,16,0
+constants.h,constants.h,\thrift\lib\rb\ext\constants.h,\libavcodec\mips\constants.h,72,44,0
+constants.h,constants.h,\thrift\lib\rb\ext\constants.h,\libavcodec\x86\constants.h,72,45,0

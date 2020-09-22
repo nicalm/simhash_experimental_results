@@ -1,0 +1,12 @@
+4984-jerryscript,9776-gaia
+settings.py,settings.py,\tools\settings.py,\tests\python\gaia-ui-tests\gaiatest\apps\cost_control\regions\settings.py,22,77,0
+settings.py,settings.py,\tools\settings.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\settings.py,22,48,0
+setup.py,setup.py,\targets\curie_bsp\setup.py,\tests\python\gaia-ui-tests\setup.py,129,47,1
+setup.py,setup.py,\targets\curie_bsp\setup.py,\tests\python\gaia-unit-tests\setup.py,129,25,1
+setup.py,setup.py,\targets\curie_bsp\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,129,16,0
+setup.py,setup.py,\targets\curie_bsp\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,129,29,0
+setup.py,setup.py,\targets\curie_bsp\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,129,148,0
+array.js,array.js,\tests\jerry\array.js,\disabled_apps\email\js\array.js,128,16,1
+error.js,error.js,\tests\jerry\error.js,\disabled_apps\calendar\js\common\error.js,144,22,2
+error.js,error.js,\tests\jerry\error.js,\disabled_apps\calendar\js\controllers\error.js,144,39,4
+error.js,error.js,\tests\jerry\error.js,\tests\jsmarionette\client\marionette-client\lib\marionette\error.js,144,90,4

@@ -1,0 +1,7 @@
+24-node,8848-lwjgl3
+cpu.h,cpu.h,\deps\v8\src\base\cpu.h,\modules\lwjgl\zstd\src\main\c\common\cpu.h,118,184,4
+compiler.h,compiler.h,\deps\v8\src\codegen\compiler.h,\modules\lwjgl\zstd\src\main\c\common\compiler.h,241,101,2
+debug.h,debug.h,\deps\v8\src\debug\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,410,39,2
+heap.h,heap.h,\deps\v8\src\heap\heap.h,\modules\lwjgl\tootle\src\main\c\heap.h,1288,22,4
+log.h,log.h,\deps\v8\src\logging\log.h,\modules\lwjgl\yoga\src\main\c\log.h,302,24,4
+vector.h,vector.h,\deps\v8\src\utils\vector.h,\modules\lwjgl\tootle\src\main\c\vector.h,201,92,14

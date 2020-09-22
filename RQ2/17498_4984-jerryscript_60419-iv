@@ -1,0 +1,8 @@
+4984-jerryscript,60419-iv
+vm.h,vm.h,\jerry-core\vm\vm.h,\iv\aero\vm.h,256,472,6
+vm.h,vm.h,\jerry-core\vm\vm.h,\iv\lv5\railgun\vm.h,256,1864,10
+math.h,math.h,\jerry-libm\include\math.h,\iv\lv5\runtime\math.h,45,43,1
+arguments.js,arguments.js,\tests\jerry\arguments.js,\iv\lv5\test\suite\spec\arguments.js,104,22,2
+math-trunc.js,math-trunc.js,\tests\jerry\es2015\math-trunc.js,\iv\lv5\test\suite\spec\math-trunc.js,20,19,0
+string-fromcodepoint.js,string-fromcodepoint.js,\tests\jerry\es2015\string-fromcodepoint.js,\iv\lv5\test\suite\spec\string\string-fromcodepoint.js,42,21,0
+string-raw.js,string-raw.js,\tests\jerry\es2015\string-raw.js,\iv\lv5\test\suite\spec\string\string-raw.js,34,15,1

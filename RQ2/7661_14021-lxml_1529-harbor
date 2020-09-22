@@ -1,0 +1,13 @@
+14021-lxml,1529-harbor
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,1099,17,1
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,1099,42,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,1099,53,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,1099,44,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,1099,60,5
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,1099,17,1
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,154,17,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,154,42,1
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,154,53,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,154,44,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,154,60,3
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,154,17,0

@@ -1,0 +1,4 @@
+5372-twisted,63770-mcuboot
+__init__.py,__init__.py,\src\twisted\logger\__init__.py,\scripts\imgtool\keys\__init__.py,45,63,0
+__init__.py,__init__.py,\src\twisted\python\__init__.py,\scripts\imgtool\keys\__init__.py,15,63,0
+__init__.py,__init__.py,\src\twisted\_threads\__init__.py,\scripts\imgtool\keys\__init__.py,15,63,0

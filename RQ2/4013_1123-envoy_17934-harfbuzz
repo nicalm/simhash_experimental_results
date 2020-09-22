@@ -1,0 +1,9 @@
+1123-envoy,17934-harfbuzz
+main.cc,main.cc,\test\main.cc,\src\main.cc,26,156,3
+main.cc,main.cc,\test\main.cc,\test\fuzzing\main.cc,26,22,1
+main.cc,main.cc,\source\exe\main.cc,\src\main.cc,20,156,3
+main.cc,main.cc,\source\exe\main.cc,\test\fuzzing\main.cc,20,22,2
+main.cc,main.cc,\test\fuzz\main.cc,\src\main.cc,49,156,11
+main.cc,main.cc,\test\fuzz\main.cc,\test\fuzzing\main.cc,49,22,4
+main.cc,main.cc,\tools\clang_tools\api_booster\main.cc,\src\main.cc,346,156,17
+main.cc,main.cc,\tools\clang_tools\api_booster\main.cc,\test\fuzzing\main.cc,346,22,4

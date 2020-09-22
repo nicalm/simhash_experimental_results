@@ -1,0 +1,15 @@
+464-gentelella,7921-mobile-chrome-apps
+gulpfile.js,gulpfile.js,\gulpfile.js,\gulpfile.js,47,30,7
+gulpfile.js,gulpfile.js,\vendors\animate.css\gulpfile.js,\gulpfile.js,70,30,3
+gulpfile.js,gulpfile.js,\vendors\bootstrap-wysiwyg\gulpfile.js,\gulpfile.js,49,30,6
+gulpfile.js,gulpfile.js,\vendors\Chart.js\gulpfile.js,\gulpfile.js,181,30,5
+gulpfile.js,gulpfile.js,\vendors\Flot\gulpfile.js,\gulpfile.js,50,30,3
+utils.js,utils.js,\vendors\jquery-sparkline\src\utils.js,\src\utils.js,191,79,22
+utils.js,utils.js,\vendors\jszip\lib\utils.js,\src\utils.js,230,79,19
+utils.js,utils.js,\vendors\parsleyjs\src\parsley\utils.js,\src\utils.js,101,79,10
+utils.js,utils.js,\vendors\select2\src\js\select2\utils.js,\src\utils.js,191,79,20
+jasmine-html.js,jasmine-html.js,\vendors\echarts\test\ut\lib\jasmine-2.3.4\jasmine-html.js,\chrome-cordova\spec\www\third_party\jasmine-1.2.0\jasmine-html.js,348,484,92
+jasmine-html.js,jasmine-html.js,\vendors\echarts\test\ut\lib\jasmine-2.3.4\jasmine-html.js,\chrome-cordova\spec\www\third_party\jasmine-1.3.1\jasmine-html.js,348,540,94
+jasmine.js,jasmine.js,\vendors\echarts\test\ut\lib\jasmine-2.3.4\jasmine.js,\chrome-cordova\spec\www\third_party\jasmine-1.2.0\jasmine.js,2612,1582,550
+jasmine.js,jasmine.js,\vendors\echarts\test\ut\lib\jasmine-2.3.4\jasmine.js,\chrome-cordova\spec\www\third_party\jasmine-1.3.1\jasmine.js,2612,1624,562
+utils.js,utils.js,\vendors\select2\src\js\select2\compat\utils.js,\src\utils.js,32,79,10

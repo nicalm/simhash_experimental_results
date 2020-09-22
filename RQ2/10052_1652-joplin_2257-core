@@ -1,0 +1,17 @@
+1652-joplin,2257-core
+app.js,app.js,\CliClient\app\app.js,\apps\files\js\app.js,357,181,24
+app.js,app.js,\CliClient\app\app.js,\apps\files_external\js\app.js,357,76,22
+app.js,app.js,\CliClient\app\app.js,\apps\files_sharing\js\app.js,357,272,45
+app.js,app.js,\CliClient\app\app.js,\apps\files_trashbin\js\app.js,357,84,15
+app.js,app.js,\CliClient\app\app.js,\apps\systemtags\js\app.js,357,73,17
+encryption.js,encryption.js,\CliClient\tests\encryption.js,\settings\js\panels\encryption.js,116,24,2
+app.js,app.js,\ElectronClient\app\app.js,\apps\files\js\app.js,1144,181,37
+app.js,app.js,\ElectronClient\app\app.js,\apps\files_external\js\app.js,1144,76,23
+app.js,app.js,\ElectronClient\app\app.js,\apps\files_sharing\js\app.js,1144,272,65
+app.js,app.js,\ElectronClient\app\app.js,\apps\files_trashbin\js\app.js,1144,84,15
+app.js,app.js,\ElectronClient\app\app.js,\apps\systemtags\js\app.js,1144,73,18
+config.js,config.js,\ReactNativeClient\lib\components\screens\config.js,\core\js\config.js,471,48,16
+log.js,log.js,\ReactNativeClient\lib\components\screens\log.js,\settings\js\log.js,117,37,6
+search.js,search.js,\ReactNativeClient\lib\components\screens\search.js,\apps\files\js\search.js,164,141,25
+search.js,search.js,\ReactNativeClient\lib\components\screens\search.js,\core\search\js\search.js,164,321,24
+tags.js,tags.js,\ReactNativeClient\lib\components\screens\tags.js,\core\js\tags.js,95,319,19

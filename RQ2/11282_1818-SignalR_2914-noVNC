@@ -1,0 +1,3 @@
+1818-SignalR,2914-noVNC
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\karma.conf.js,96,81,21
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\vendor\pako\lib\utils\common.js,65,33,3

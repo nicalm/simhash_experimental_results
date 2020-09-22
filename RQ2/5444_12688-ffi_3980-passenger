@@ -1,0 +1,5 @@
+12688-ffi,3980-passenger
+extconf.rb,extconf.rb,\ext\ffi_c\extconf.rb,\src\ruby_native_extension\extconf.rb,63,34,7
+extconf.rb,extconf.rb,\ext\ffi_c\extconf.rb,\src\helper-scripts\download_binaries\extconf.rb,63,75,12
+spec_helper.rb,spec_helper.rb,\spec\ffi\spec_helper.rb,\test\integration_tests\spec_helper.rb,19,18,1
+spec_helper.rb,spec_helper.rb,\spec\ffi\spec_helper.rb,\test\ruby\spec_helper.rb,19,92,6

@@ -1,0 +1,5 @@
+15780-OpenJK,4420-zcash
+server.h,server.h,\code\server\server.h,\src\rpc\server.h,188,96,8
+interpreter.h,interpreter.h,\codeJK2\icarus\interpreter.h,\src\script\interpreter.h,171,107,16
+interpreter.h,interpreter.h,\codemp\icarus\interpreter.h,\src\script\interpreter.h,171,107,16
+server.h,server.h,\codemp\server\server.h,\src\rpc\server.h,278,96,2

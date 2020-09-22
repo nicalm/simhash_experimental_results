@@ -1,0 +1,3 @@
+10395-jitsi,754-folly
+Logger.h,Logger.h,\src\native\addrbook\msoutlook\Logger.h,\folly\logging\Logger.h,23,81,2
+filter.h,filter.h,\src\native\windows\setup\include\lzma\filter.h,\folly\experimental\pushmi\o\filter.h,51,54,0

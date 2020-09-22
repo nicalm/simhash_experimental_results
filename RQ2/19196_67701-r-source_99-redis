@@ -1,0 +1,15 @@
+67701-r-source,99-redis
+debug.c,debug.c,\src\main\debug.c,\src\debug.c,202,1230,37
+print.c,print.c,\src\main\print.c,\deps\lua\src\print.c,880,208,60
+sort.c,sort.c,\src\main\sort.c,\src\sort.c,1216,407,87
+util.c,util.c,\src\main\util.c,\src\util.c,2082,590,103
+localtime.c,localtime.c,\src\extra\tzone\localtime.c,\src\localtime.c,1427,52,9
+test.c,test.c,\src\nmath\standalone\test.c,\deps\hiredis\test.c,24,687,4
+test.c,test.c,\src\nmath\standalone\test.c,\deps\jemalloc\test\src\test.c,24,168,2
+config.h,config.h,\src\gnuwin32\fixed\h\config.h,\src\config.h,267,149,19
+base.c,base.c,\src\library\graphics\src\base.c,\deps\jemalloc\src\base.c,306,405,27
+base.c,base.c,\src\library\graphics\src\base.c,\deps\jemalloc\test\unit\base.c,306,193,17
+util.c,util.c,\src\library\grid\src\util.c,\src\util.c,178,590,28
+fork.c,fork.c,\src\library\parallel\src\fork.c,\deps\jemalloc\test\unit\fork.c,682,109,32
+stats.h,stats.h,\src\library\stats\src\stats.h,\deps\jemalloc\include\jemalloc\internal\stats.h,26,22,1
+util.c,util.c,\src\library\utils\src\windows\util.c,\src\util.c,479,590,70

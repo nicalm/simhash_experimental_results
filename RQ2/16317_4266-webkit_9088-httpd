@@ -1,0 +1,16 @@
+4266-webkit,9088-httpd
+main.c,main.c,\ManualTests\NPN_Invoke\main.c,\server\main.c,187,643,34
+main.c,main.c,\Tools\MiniBrowser\gtk\main.c,\server\main.c,521,643,72
+os.h,os.h,\PerformanceTests\StitchMarker\folly\boost\predef\os.h,\os\win32\os.h,23,49,2
+util.c,util.c,\Source\ThirdParty\libwebrtc\Source\third_party\libsrtp\test\util.c,\server\util.c,141,2737,32
+util.c,util.c,\Source\ThirdParty\libwebrtc\Source\third_party\libsrtp\test\util.c,\test\unit\util.c,141,44,7
+util.c,util.c,\Source\ThirdParty\libwebrtc\Source\third_party\libsrtp\test\util.c,\modules\dav\main\util.c,141,1250,26
+macros.h,macros.h,\Source\ThirdParty\libwebrtc\Source\third_party\abseil-cpp\absl\base\macros.h,\docs\log-message-tags\macros.h,66,29,0
+macros.h,macros.h,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\decrepit\macros.h,\docs\log-message-tags\macros.h,73,29,0
+macros.h,macros.h,\Source\ThirdParty\libwebrtc\Source\third_party\opus\src\silk\macros.h,\docs\log-message-tags\macros.h,83,29,0
+main.c,main.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\main.c,\server\main.c,174,643,33
+main.c,main.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\main.c,\server\main.c,35,643,9
+base64.c,base64.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\base64\base64.c,\test\unit\base64.c,307,117,9
+filter.c,filter.c,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\vp8\common\filter.c,\modules\apreq\filter.c,225,381,26
+macros.h,macros.h,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\src\google\protobuf\stubs\macros.h,\docs\log-message-tags\macros.h,35,29,0
+main.c,main.c,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\audio_processing\test\android\apmtest\jni\main.c,\server\main.c,185,643,31

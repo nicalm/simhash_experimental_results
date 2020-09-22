@@ -1,0 +1,4 @@
+244-go-ethereum,548-ruby
+hash.h,hash.h,\crypto\secp256k1\libsecp256k1\src\hash.h,\internal\hash.h,27,189,1
+util.h,util.h,\crypto\secp256k1\libsecp256k1\src\util.h,\internal\util.h,92,15,2
+util.h,util.h,\crypto\secp256k1\libsecp256k1\src\util.h,\include\ruby\util.h,92,62,17

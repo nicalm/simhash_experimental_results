@@ -1,0 +1,8 @@
+11212-varnish-cache,4139-outline-client
+version.c,version.c,\lib\libvarnish\version.c,\third_party\mbedtls\library\version.c,45,23,5
+version.c,version.c,\lib\libvarnish\version.c,\third_party\sodium\src\libsodium\sodium\version.c,45,25,6
+daemon.c,daemon.c,\lib\libvarnishapi\daemon.c,\third_party\badvpn\ncd\modules\daemon.c,54,172,8
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\third_party\mbedtls\library\base64.c,269,199,32
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\third_party\shadowsocks-libev\src\base64.c,269,63,11
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\third_party\sodium\test\default\hash.c,75,41,6
+cache.h,cache.h,\bin\varnishd\cache\cache.h,\third_party\shadowsocks-libev\src\cache.h,527,28,4

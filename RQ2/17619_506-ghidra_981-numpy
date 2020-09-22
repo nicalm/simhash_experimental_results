@@ -1,0 +1,2 @@
+506-ghidra,981-numpy
+build.py,build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,\numpy\distutils\command\build.py,235,34,2

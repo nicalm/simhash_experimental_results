@@ -1,0 +1,5 @@
+4960-capstone,7408-DeepVideoAnalytics
+setup.py,setup.py,\bindings\python\setup.py,\client\setup.py,173,15,4
+setup.py,setup.py,\bindings\python\setup.py,\repos\lopq\python\setup.py,173,90,6
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\deploy\compose\__init__.py,801,161,18
+__init__.py,__init__.py,\bindings\python\capstone\__init__.py,\deploy\kube\__init__.py,801,256,10

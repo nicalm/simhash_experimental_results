@@ -1,0 +1,16 @@
+6773-server,981-numpy
+common.h,common.h,\extra\mariabackup\common.h,\numpy\core\src\multiarray\common.h,136,192,36
+common.h,common.h,\plugin\win_auth_client\common.h,\numpy\core\src\multiarray\common.h,175,192,33
+alloc.c,alloc.c,\storage\mroonga\vendor\groonga\lib\alloc.c,\numpy\core\src\multiarray\alloc.c,849,216,55
+number.c,number.c,\storage\mroonga\vendor\groonga\plugins\functions\number.c,\numpy\core\src\multiarray\number.c,144,889,19
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\setup.py,15,245,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\setup.py,15,23,0
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\core\setup.py,15,692,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\f2py\setup.py,15,41,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\linalg\setup.py,15,51,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\random\setup.py,15,107,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\testing\setup.py,15,16,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\tools\swig\test\setup.py,15,50,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\numpy\random\_examples\cython\setup.py,15,24,1
+common.c,common.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.c,\numpy\core\src\multiarray\common.c,232,698,39
+common.h,common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,\numpy\core\src\multiarray\common.h,117,192,11

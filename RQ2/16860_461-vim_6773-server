@@ -1,0 +1,13 @@
+461-vim,6773-server
+charset.c,charset.c,\src\charset.c,\mysys\charset.c,1529,1021,266
+list.c,list.c,\src\list.c,\mysys\list.c,1649,78,25
+main.c,main.c,\src\main.c,\dbug\main.c,3234,23,6
+main.c,main.c,\src\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,3234,166,50
+message.c,message.c,\src\message.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\message.c,3726,705,168
+search.c,search.c,\src\search.c,\extra\readline\search.c,4455,392,122
+sha256.c,sha256.c,\src\sha256.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\check\sha256.c,332,137,22
+sign.c,sign.c,\src\sign.c,\plugin\auth_ed25519\ref10\sign.c,2042,32,4
+structs.h,structs.h,\src\structs.h,\sql\structs.h,2763,638,103
+terminal.c,terminal.c,\src\terminal.c,\extra\readline\terminal.c,5185,506,151
+undo.c,undo.c,\src\undo.c,\extra\readline\undo.c,2662,231,74
+version.h,version.h,\src\version.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\api\lzma\version.h,23,40,1

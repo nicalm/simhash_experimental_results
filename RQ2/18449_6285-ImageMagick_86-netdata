@@ -1,0 +1,10 @@
+6285-ImageMagick,86-netdata
+json.c,json.c,\coders\json.c,\backends\json\json.c,1500,121,10
+json.c,json.c,\coders\json.c,\exporting\json\json.c,1500,134,14
+json.c,json.c,\coders\json.c,\libnetdata\json\json.c,1500,345,70
+json.c,json.c,\coders\json.c,\web\api\formatters\json\json.c,1500,185,29
+url.c,url.c,\coders\url.c,\libnetdata\url\url.c,239,226,21
+log.c,log.c,\MagickCore\log.c,\libnetdata\log\log.c,1233,565,115
+log.h,log.h,\MagickCore\log.h,\libnetdata\log\log.h,65,76,2
+registry.c,registry.c,\MagickCore\registry.c,\registry\registry.c,266,286,28
+registry.h,registry.h,\MagickCore\registry.h,\registry\registry.h,27,17,1

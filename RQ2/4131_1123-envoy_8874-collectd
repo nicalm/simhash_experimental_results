@@ -1,0 +1,13 @@
+1123-envoy,8874-collectd
+server.h,server.h,\source\server\server.h,\src\libcollectdclient\collectd\server.h,260,25,0
+server.h,server.h,\test\integration\server.h,\src\libcollectdclient\collectd\server.h,302,25,0
+common.h,common.h,\test\mocks\common.h,\src\utils\common\common.h,59,131,2
+dns.h,dns.h,\include\envoy\network\dns.h,\src\utils\dns\dns.h,32,45,1
+types.h,types.h,\include\envoy\upstream\types.h,\src\libcollectdclient\collectd\types.h,31,48,3
+common.h,common.h,\source\common\grpc\common.h,\src\utils\common\common.h,48,131,2
+server.h,server.h,\source\server\config_validation\server.h,\src\libcollectdclient\collectd\server.h,157,25,0
+common.h,common.h,\test\common\http\common.h,\src\utils\common\common.h,47,131,2
+common.h,common.h,\test\integration\filters\common.h,\src\utils\common\common.h,18,131,2
+common.h,common.h,\test\extensions\common\tap\common.h,\src\utils\common\common.h,48,131,2
+common.h,common.h,\test\extensions\filters\http\tap\common.h,\src\utils\common\common.h,30,131,1
+client.h,client.h,\source\extensions\filters\network\common\redis\client.h,\src\libcollectdclient\collectd\client.h,70,38,0

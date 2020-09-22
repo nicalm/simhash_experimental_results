@@ -1,0 +1,8 @@
+13324-librenms,168-AdminLTE
+bootstrap-switch.js,bootstrap-switch.js,\html\js\bootstrap-switch.js,\plugins\bootstrap-switch\js\bootstrap-switch.js,652,735,265
+bootstrap.js,bootstrap.js,\html\js\bootstrap.js,\plugins\bootstrap\js\bootstrap.js,1588,3347,248
+bootstrap.js,bootstrap.js,\html\js\bootstrap.js,\docs\assets\plugins\bootstrap\js\bootstrap.js,1588,3347,248
+jquery.mapael.js,jquery.mapael.js,\html\js\jquery.mapael.js,\plugins\jquery-mapael\jquery.mapael.js,917,1781,263
+france_departments.js,france_departments.js,\html\js\maps\france_departments.js,\plugins\jquery-mapael\maps\france_departments.js,128,144,113
+usa_states.js,usa_states.js,\html\js\maps\usa_states.js,\plugins\jquery-mapael\maps\usa_states.js,110,128,95
+world_countries.js,world_countries.js,\html\js\maps\world_countries.js,\plugins\jquery-mapael\maps\world_countries.js,199,209,13

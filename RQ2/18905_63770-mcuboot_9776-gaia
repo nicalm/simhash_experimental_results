@@ -1,0 +1,10 @@
+63770-mcuboot,9776-gaia
+setup.py,setup.py,\scripts\setup.py,\tests\python\gaia-ui-tests\setup.py,28,47,0
+setup.py,setup.py,\scripts\setup.py,\tests\python\gaia-unit-tests\setup.py,28,25,1
+setup.py,setup.py,\scripts\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,28,16,1
+setup.py,setup.py,\scripts\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,28,29,1
+setup.py,setup.py,\scripts\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,28,148,0
+main.py,main.py,\scripts\imgtool\main.py,\tests\python\gaia-unit-tests\gaia_unit_test\main.py,271,194,6
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,63,338,1
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,63,1303,4
+__init__.py,__init__.py,\scripts\imgtool\keys\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,63,41,3

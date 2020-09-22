@@ -1,0 +1,3 @@
+14790-sleuthkit,4960-capstone
+utils.c,utils.c,\tools\fiwalk\src\utils.c,\utils.c,91,92,23
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\utils.h,33,39,4

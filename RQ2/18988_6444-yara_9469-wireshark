@@ -1,0 +1,5 @@
+6444-yara,9469-wireshark
+stream.c,stream.c,\libyara\stream.c,\epan\stream.c,22,288,4
+util.c,util.c,\tests\util.c,\ui\util.c,285,182,25
+util.h,util.h,\tests\util.h,\ui\util.h,199,15,1
+stream.h,stream.h,\libyara\include\yara\stream.h,\epan\stream.h,30,28,1

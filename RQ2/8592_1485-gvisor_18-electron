@@ -1,0 +1,11 @@
+1485-gvisor,18-electron
+index.js,index.js,\benchmarks\workloads\node\index.js,\npm\index.js,23,15,0
+index.js,index.js,\benchmarks\workloads\node\index.js,\spec-main\index.js,23,75,0
+index.js,index.js,\benchmarks\workloads\node\index.js,\script\release\notes\index.js,23,149,0
+index.js,index.js,\benchmarks\workloads\node\index.js,\spec\fixtures\auto-update\check\index.js,23,17,0
+index.js,index.js,\benchmarks\workloads\node\index.js,\spec\fixtures\auto-update\update\index.js,23,33,0
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\npm\index.js,27,15,3
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\spec-main\index.js,27,75,4
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\script\release\notes\index.js,27,149,4
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\spec\fixtures\auto-update\check\index.js,27,17,0
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\spec\fixtures\auto-update\update\index.js,27,33,1

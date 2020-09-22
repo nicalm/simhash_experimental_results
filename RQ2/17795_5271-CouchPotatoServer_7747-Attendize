@@ -1,0 +1,6 @@
+5271-CouchPotatoServer,7747-Attendize
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\Gruntfile.js,211,89,33
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\public\vendor\bootstrap-touchspin\Gruntfile.js,211,58,26
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\public\vendor\datetimepicker\Gruntfile.js,211,129,26
+header.js,header.js,\couchpotato\static\scripts\block\header.js,\public\vendor\vue-resource\src\http\header.js,42,16,3
+scrollspy.js,scrollspy.js,\couchpotato\static\scripts\library\scrollspy.js,\public\vendor\bootstrap\js\scrollspy.js,51,116,4

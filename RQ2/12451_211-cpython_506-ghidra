@@ -1,0 +1,5 @@
+211-cpython,506-ghidra
+getopt.c,getopt.c,\Python\getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,113,637,34
+custom.c,custom.c,\Doc\includes\custom.c,\GhidraDocs\GhidraClass\Advanced\Examples\custom.c,37,33,2
+find.h,find.h,\Objects\stringlib\find.h,\Ghidra\Features\PDB\src\pdb\headers\find.h,83,17,1
+build.py,build.py,\Lib\distutils\command\build.py,\Ghidra\Extensions\SleighDevTools\pcodetest\build.py,105,235,3

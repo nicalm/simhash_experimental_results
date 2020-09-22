@@ -1,0 +1,7 @@
+242-php-src,461-vim
+main.c,main.c,\main\main.c,\src\main.c,2098,3234,491
+json.c,json.c,\ext\json\json.c,\src\json.c,259,982,43
+session.c,session.c,\ext\session\session.c,\src\session.c,2451,1015,207
+crypt.c,crypt.c,\ext\standard\crypt.c,\src\crypt.c,201,398,45
+buffer.c,buffer.c,\ext\fileinfo\libmagic\buffer.c,\src\buffer.c,58,4239,16
+encoding.c,encoding.c,\ext\fileinfo\libmagic\encoding.c,\src\libvterm\src\encoding.c,375,186,33

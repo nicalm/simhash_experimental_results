@@ -1,0 +1,11 @@
+10115-mbedtls,242-php-src
+base64.c,base64.c,\library\base64.c,\ext\standard\base64.c,199,715,51
+base64.c,base64.c,\library\base64.c,\ext\xmlrpc\libxmlrpc\base64.c,199,140,24
+debug.c,debug.c,\library\debug.c,\ext\bcmath\libbcmath\src\debug.c,345,29,9
+md5.c,md5.c,\library\md5.c,\ext\standard\md5.c,358,267,33
+sha1.c,sha1.c,\library\sha1.c,\ext\standard\sha1.c,414,264,31
+base64.h,base64.h,\include\mbedtls\base64.h,\ext\standard\base64.h,24,19,3
+base64.h,base64.h,\include\mbedtls\base64.h,\ext\xmlrpc\libxmlrpc\base64.h,24,17,1
+config.h,config.h,\include\mbedtls\config.h,\ext\pcre\pcre2lib\config.h,143,46,3
+md5.h,md5.h,\include\mbedtls\md5.h,\ext\standard\md5.h,73,17,2
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\ext\standard\sha1.h,74,15,3

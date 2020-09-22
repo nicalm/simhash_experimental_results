@@ -1,0 +1,4 @@
+4482-nixpkgs,98-rust
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,41,30,5
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,41,196,4
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,41,22,2

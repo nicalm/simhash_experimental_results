@@ -1,0 +1,5 @@
+1366-gradle,2004-skaffold
+Application.java,Application.java,\subprojects\docs\src\snippets\userguide\multiproject\dependencies\outgoingArtifact\groovy\consumer\src\main\java\Application.java,\integration\testdata\jib\src\main\java\hello\Application.java,21,17,4
+Application.java,Application.java,\subprojects\docs\src\snippets\userguide\multiproject\dependencies\outgoingArtifact\groovy\consumer\src\main\java\Application.java,\integration\testdata\debug\jib\src\main\java\hello\Application.java,21,17,4
+Application.java,Application.java,\subprojects\docs\src\snippets\userguide\multiproject\dependencies\outgoingArtifact\kotlin\consumer\src\main\java\Application.java,\integration\testdata\jib\src\main\java\hello\Application.java,21,17,4
+Application.java,Application.java,\subprojects\docs\src\snippets\userguide\multiproject\dependencies\outgoingArtifact\kotlin\consumer\src\main\java\Application.java,\integration\testdata\debug\jib\src\main\java\hello\Application.java,21,17,4

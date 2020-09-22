@@ -1,0 +1,5 @@
+1615-rufus,461-vim
+parser.c,parser.c,\src\parser.c,\src\libvterm\src\parser.c,1126,294,92
+ui.c,ui.c,\src\ui.c,\src\ui.c,1176,2229,154
+fileio.c,fileio.c,\src\ext2fs\fileio.c,\src\fileio.c,479,3790,78
+utf8.h,utf8.h,\src\libcdio\cdio\utf8.h,\src\libvterm\src\utf8.h,19,34,1

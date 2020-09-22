@@ -1,0 +1,3 @@
+11093-mongoose-os,8848-lwjgl3
+debug.h,debug.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,48,39,6
+mem.h,mem.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\mem.h,\modules\lwjgl\zstd\src\main\c\common\mem.h,114,303,29

@@ -1,0 +1,7 @@
+12873-mediawiki,4701-sonarqube
+index.js,index.js,\resources\src\mediawiki.api\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,237,79,17
+index.js,index.js,\resources\src\mediawiki.api\index.js,\server\sonar-web\config\documentation-loader\index.js,237,28,3
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,51,79,8
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\server\sonar-web\config\documentation-loader\index.js,51,28,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,15,79,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\server\sonar-web\config\documentation-loader\index.js,15,28,3

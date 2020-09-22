@@ -1,0 +1,8 @@
+12658-Espruino,60419-iv
+misc.c,misc.c,\targetlibs\stm32f1\lib\misc.c,\iv\lv5\third_party\gc\misc.c,62,1686,23
+misc.c,misc.c,\targetlibs\stm32f2\lib\misc.c,\iv\lv5\third_party\gc\misc.c,62,1686,23
+misc.c,misc.c,\targetlibs\stm32f4\lib\misc.c,\iv\lv5\third_party\gc\misc.c,62,1686,23
+misc.c,misc.c,\targetlibs\stm32l1\lib\misc.c,\iv\lv5\third_party\gc\misc.c,62,1686,23
+debug.h,debug.h,\libs\crypto\mbedtls\include\mbedtls\debug.h,\iv\debug.h,72,32,6
+platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\iv\platform.h,106,161,29
+platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\iv\lv5\third_party\v8_dtoa\platform.h,106,27,4

@@ -1,0 +1,5 @@
+10205-firejail,9975-hexchat
+network.c,network.c,\src\faudit\network.c,\src\common\network.c,65,126,10
+util.c,util.c,\src\firecfg\util.c,\src\common\util.c,50,1287,15
+network.c,network.c,\src\firejail\network.c,\src\common\network.c,214,126,13
+util.c,util.c,\src\firejail\util.c,\src\common\util.c,968,1287,157

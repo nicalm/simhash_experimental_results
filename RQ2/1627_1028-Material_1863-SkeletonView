@@ -1,0 +1,5 @@
+1028-Material,1863-SkeletonView
+Package.swift,Package.swift,\Package.swift,\Package.swift,18,20,8
+CollectionViewCell.swift,CollectionViewCell.swift,\Sources\iOS\Collection\CollectionViewCell.swift,\Example\CollectionView\CollectionViewCell.swift,139,42,7
+ViewController.swift,ViewController.swift,\Sources\iOS\View\ViewController.swift,\Example\CollectionView\ViewController.swift,21,144,7
+ViewController.swift,ViewController.swift,\Sources\iOS\View\ViewController.swift,\Example\TableView\ViewController.swift,21,169,7

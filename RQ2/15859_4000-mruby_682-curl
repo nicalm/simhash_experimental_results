@@ -1,0 +1,6 @@
+4000-mruby,682-curl
+debug.c,debug.c,\src\debug.c,\docs\examples\debug.c,175,100,15
+hash.c,hash.c,\src\hash.c,\lib\hash.c,976,242,71
+version.c,version.c,\src\version.c,\lib\version.c,15,398,2
+hash.h,hash.h,\include\mruby\hash.h,\lib\hash.h,42,57,2
+file.c,file.c,\mrbgems\mruby-io\src\file.c,\lib\file.c,449,376,62

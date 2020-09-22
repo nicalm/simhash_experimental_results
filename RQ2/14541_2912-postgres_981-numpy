@@ -1,0 +1,12 @@
+2912-postgres,981-numpy
+sequence.c,sequence.c,\src\backend\commands\sequence.c,\numpy\core\src\multiarray\sequence.c,1290,41,3
+common.c,common.c,\src\bin\pg_dump\common.c,\numpy\core\src\multiarray\common.c,685,698,86
+common.c,common.c,\src\bin\psql\common.c,\numpy\core\src\multiarray\common.c,1435,698,173
+common.h,common.h,\src\bin\psql\common.h,\numpy\core\src\multiarray\common.h,23,192,1
+common.c,common.c,\src\bin\scripts\common.c,\numpy\core\src\multiarray\common.c,289,698,46
+common.h,common.h,\src\bin\scripts\common.h,\numpy\core\src\multiarray\common.h,37,192,2
+datetime.c,datetime.c,\src\backend\utils\adt\datetime.c,\numpy\core\src\multiarray\datetime.c,3285,2778,416
+descriptor.c,descriptor.c,\src\interfaces\ecpg\ecpglib\descriptor.c,\numpy\core\src\multiarray\descriptor.c,813,2856,185
+common.c,common.c,\src\interfaces\ecpg\pgtypeslib\common.c,\numpy\core\src\multiarray\common.c,123,698,30
+datetime.c,datetime.c,\src\interfaces\ecpg\pgtypeslib\datetime.c,\numpy\core\src\multiarray\datetime.c,521,2778,165
+descriptor.c,descriptor.c,\src\interfaces\ecpg\preproc\descriptor.c,\numpy\core\src\multiarray\descriptor.c,289,2856,76

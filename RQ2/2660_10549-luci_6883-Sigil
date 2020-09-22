@@ -1,0 +1,6 @@
+10549-luci,6883-Sigil
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\3rdparty\hunspell\src\win_api\config.h,89,68,0
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\3rdparty\hunspell\src\win_api\config.h,89,68,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\3rdparty\hunspell\src\win_api\config.h,35,68,0
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\internal\gumbo\util.c,81,49,11
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\internal\gumbo\util.c,261,49,10

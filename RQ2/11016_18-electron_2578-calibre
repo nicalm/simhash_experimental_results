@@ -1,0 +1,7 @@
+18-electron,2578-calibre
+zip.py,zip.py,\build\zip.py,\src\calibre\ebooks\metadata\zip.py,56,54,3
+config.py,config.py,\script\lib\config.py,\manual\plugin_examples\interface_demo\config.py,78,21,0
+config.py,config.py,\script\lib\config.py,\src\calibre\utils\config.py,78,349,2
+config.py,config.py,\script\lib\config.py,\src\calibre\ebooks\conversion\config.py,78,257,1
+config.py,config.py,\script\lib\config.py,\src\calibre\gui2\metadata\config.py,78,112,1
+upload.py,upload.py,\script\release\uploaders\upload.py,\setup\upload.py,161,303,4

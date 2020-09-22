@@ -1,0 +1,16 @@
+2116-libgit2,9088-httpd
+config.c,config.c,\examples\config.c,\server\config.c,40,1757,13
+log.c,log.c,\examples\log.c,\server\log.c,345,1428,58
+config.c,config.c,\src\config.c,\server\config.c,1115,1757,229
+filter.c,filter.c,\src\filter.c,\modules\apreq\filter.c,813,381,72
+regexp.c,regexp.c,\src\regexp.c,\modules\filters\regexp.c,170,485,34
+regexp.h,regexp.h,\src\regexp.h,\modules\filters\regexp.h,31,72,2
+util.c,util.c,\src\util.c,\server\util.c,653,2737,178
+util.c,util.c,\src\util.c,\test\unit\util.c,653,44,9
+util.c,util.c,\src\util.c,\modules\dav\main\util.c,653,1250,141
+main.c,main.c,\tests\main.c,\server\main.c,29,643,6
+regexp.c,regexp.c,\tests\core\regexp.c,\modules\filters\regexp.c,171,485,30
+core.c,core.c,\tests\path\core.c,\server\core.c,306,4522,38
+config.c,config.c,\tests\repo\config.c,\server\config.c,153,1757,10
+config.c,config.c,\tests\worktree\config.c,\server\config.c,33,1757,8
+filter.c,filter.c,\tests\object\blob\filter.c,\modules\apreq\filter.c,119,381,16

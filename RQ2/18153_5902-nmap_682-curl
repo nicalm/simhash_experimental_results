@@ -1,0 +1,15 @@
+5902-nmap,682-curl
+inet_ntop.c,inet_ntop.c,\nbase\inet_ntop.c,\lib\inet_ntop.c,163,116,57
+inet_pton.c,inet_pton.c,\nbase\inet_pton.c,\lib\inet_pton.c,164,154,114
+base64.c,base64.c,\ncat\base64.c,\lib\base64.c,38,182,7
+http.c,http.c,\ncat\http.c,\lib\http.c,1208,2827,221
+http.h,http.h,\ncat\http.h,\lib\http.h,128,158,6
+http_digest.c,http_digest.c,\ncat\http_digest.c,\lib\http_digest.c,222,104,13
+util.c,util.c,\ncat\util.c,\tests\server\util.c,502,375,87
+util.h,util.h,\ncat\util.h,\tests\server\util.h,72,29,4
+rand.c,rand.c,\libdnet-stripped\src\rand.c,\lib\rand.c,172,107,18
+nwlib.c,nwlib.c,\libssh2\nw\nwlib.c,\lib\nwlib.c,187,196,175
+os400sys.c,os400sys.c,\libssh2\os400\os400sys.c,\packages\OS400\os400sys.c,128,1031,70
+mbedtls.c,mbedtls.c,\libssh2\src\mbedtls.c,\lib\vtls\mbedtls.c,527,825,103
+openssl.c,openssl.c,\libssh2\src\openssl.c,\lib\vtls\openssl.c,2551,3153,549
+connect.c,connect.c,\nsock\tests\connect.c,\lib\connect.c,80,1110,17

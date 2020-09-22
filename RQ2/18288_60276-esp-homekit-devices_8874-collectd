@@ -1,0 +1,14 @@
+60276-esp-homekit-devices,8874-collectd
+types.h,types.h,\devices\HAA\types.h,\src\libcollectdclient\collectd\types.h,141,48,1
+ping.c,ping.c,\libs\ping\ping.c,\src\ping.c,151,509,30
+server.c,server.c,\external_libs\homekit\src\server.c,\src\libcollectdclient\server.c,2760,170,43
+common.h,common.h,\external_libs\cJSON\cJSON\tests\common.h,\src\utils\common\common.h,82,131,1
+types.h,types.h,\external_libs\homekit\include\homekit\types.h,\src\libcollectdclient\collectd\types.h,235,48,5
+client.c,client.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\examples\client\client.c,\src\libcollectdclient\client.c,2172,785,141
+server.c,server.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\examples\server\server.c,\src\libcollectdclient\server.c,1355,170,36
+memory.c,memory.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\memory.c,\src\memory.c,701,314,42
+types.h,types.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\types.h,\src\libcollectdclient\collectd\types.h,472,48,4
+client.c,client.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\examples\client\client.c,\src\libcollectdclient\client.c,2172,785,141
+server.c,server.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\examples\server\server.c,\src\libcollectdclient\server.c,1355,170,36
+memory.c,memory.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\memory.c,\src\memory.c,701,314,42
+types.h,types.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\types.h,\src\libcollectdclient\collectd\types.h,472,48,4

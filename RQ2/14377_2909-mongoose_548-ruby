@@ -1,0 +1,12 @@
+2909-mongoose,548-ruby
+main.c,main.c,\examples\CC3200\main.c,\main.c,249,31,8
+main.c,main.c,\examples\NXP_K64\main.c,\main.c,131,31,5
+main.c,main.c,\examples\STM32F4_CC3100\main.c,\main.c,124,31,2
+crypt.c,crypt.c,\test\ccgi-1.2\crypt.c,\missing\crypt.c,107,729,18
+main.c,main.c,\examples\ESP32_IDF\main\main.c,\main.c,75,31,2
+main.c,main.c,\examples\nRF51\http\main.c,\main.c,64,31,3
+main.c,main.c,\examples\nRF52\http\main.c,\main.c,66,31,3
+main.c,main.c,\examples\CC3200\ccs\MG_hello\main.c,\main.c,192,31,6
+main.c,main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,\main.c,142,31,3
+main.c,main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,\main.c,129,31,2
+main.c,main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,\main.c,147,31,5

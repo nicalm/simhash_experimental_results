@@ -1,0 +1,5 @@
+10115-mbedtls,5868-libvips
+base64.c,base64.c,\library\base64.c,\libvips\iofuncs\base64.c,199,162,33
+error.c,error.c,\library\error.c,\libvips\iofuncs\error.c,771,530,18
+debug.h,debug.h,\include\mbedtls\debug.h,\libvips\include\vips\debug.h,89,37,13
+error.h,error.h,\include\mbedtls\error.h,\libvips\include\vips\error.h,16,58,7

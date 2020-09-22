@@ -1,0 +1,3 @@
+11072-cryptopp,1123-envoy
+base64.h,base64.h,\base64.h,\source\common\common\base64.h,46,20,5
+hex.h,hex.h,\hex.h,\source\common\common\hex.h,26,15,3

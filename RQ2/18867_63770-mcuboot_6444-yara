@@ -1,0 +1,4 @@
+63770-mcuboot,6444-yara
+threading.h,threading.h,\ext\mbedtls-asn1\include\mbedtls\threading.h,\threading.h,46,44,5
+threading.h,threading.h,\ext\mbedtls-asn1\include\mbedtls\threading.h,\libyara\include\yara\threading.h,46,23,4
+utils.h,utils.h,\ext\tinycrypt\lib\include\tinycrypt\utils.h,\libyara\include\yara\utils.h,16,87,5

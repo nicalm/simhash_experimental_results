@@ -1,0 +1,5 @@
+2578-calibre,5868-libvips
+util.c,util.c,\bypy\linux\util.c,\libvips\iofuncs\util.c,196,1294,35
+util.c,util.c,\bypy\macos\util.c,\libvips\iofuncs\util.c,169,1294,29
+util.c,util.c,\bypy\windows\util.c,\libvips\iofuncs\util.c,328,1294,52
+test.cpp,test.cpp,\src\calibre\utils\podofo\test.cpp,\cplusplus\examples\test.cpp,21,261,1

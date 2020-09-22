@@ -1,0 +1,5 @@
+6347-librealsense,8874-collectd
+types.h,types.h,\src\types.h,\src\libcollectdclient\collectd\types.h,1521,48,5
+types.h,types.h,\wrappers\matlab\types.h,\src\libcollectdclient\collectd\types.h,209,48,3
+types.h,types.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\types.h,\src\libcollectdclient\collectd\types.h,15,48,2
+common.h,common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,\src\utils\common\common.h,501,131,11

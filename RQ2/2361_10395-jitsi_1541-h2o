@@ -1,0 +1,4 @@
+10395-jitsi,1541-h2o
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\include\h2o\version.h,40,17,4
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\deps\mruby\include\mruby\version.h,40,29,1
+Utils.java,Utils.java,\src\net\java\sip\communicator\impl\protocol\irc\Utils.java,\deps\brotli\java\org\brotli\dec\Utils.java,140,36,9

@@ -1,0 +1,4 @@
+11093-mongoose-os,1193-mpv
+main.c,main.c,\platforms\posix\main.c,\player\main.c,78,377,21
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\player\main.c,128,377,19
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\player\main.c,136,377,22

@@ -1,0 +1,6 @@
+6444-yara,6883-Sigil
+parser.c,parser.c,\libyara\parser.c,\internal\gumbo\parser.c,939,3936,110
+util.c,util.c,\tests\util.c,\internal\gumbo\util.c,285,49,12
+util.h,util.h,\tests\util.h,\internal\gumbo\util.h,199,48,2
+error.h,error.h,\libyara\include\yara\error.h,\internal\gumbo\error.h,97,114,5
+parser.h,parser.h,\libyara\include\yara\parser.h,\internal\gumbo\parser.h,79,19,1

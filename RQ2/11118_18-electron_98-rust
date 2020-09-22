@@ -1,0 +1,12 @@
+18-electron,98-rust
+main.js,main.js,\spec\static\main.js,\src\librustdoc\html\static\main.js,223,2266,18
+main.js,main.js,\spec\fixtures\snapshot-items-available\main.js,\src\librustdoc\html\static\main.js,22,2266,3
+main.js,main.js,\spec\fixtures\api\cookie-app\main.js,\src\librustdoc\html\static\main.js,42,2266,3
+main.js,main.js,\spec\fixtures\api\default-menu\main.js,\src\librustdoc\html\static\main.js,27,2266,4
+main.js,main.js,\spec\fixtures\api\exit-closes-all-windows-app\main.js,\src\librustdoc\html\static\main.js,15,2266,2
+main.js,main.js,\spec\fixtures\api\mixed-sandbox-app\main.js,\src\librustdoc\html\static\main.js,67,2266,11
+main.js,main.js,\spec\fixtures\api\relaunch\main.js,\src\librustdoc\html\static\main.js,19,2266,1
+main.js,main.js,\spec\fixtures\api\site-instance-overrides\main.js,\src\librustdoc\html\static\main.js,28,2266,3
+main.js,main.js,\spec\fixtures\api\window-all-closed\main.js,\src\librustdoc\html\static\main.js,16,2266,1
+main.js,main.js,\spec\fixtures\extensions\chrome-api\main.js,\src\librustdoc\html\static\main.js,24,2266,3
+main.js,main.js,\spec-main\fixtures\api\net-log\main.js,\src\librustdoc\html\static\main.js,24,2266,4

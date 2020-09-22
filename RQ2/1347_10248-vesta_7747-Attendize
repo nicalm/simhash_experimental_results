@@ -1,0 +1,9 @@
+10248-vesta,7747-Attendize
+app.js,app.js,\web\js\app.js,\public\assets\javascript\app.js,903,372,74
+events.js,events.js,\web\js\events.js,\public\vendor\vue\src\instance\api\events.js,360,126,26
+events.js,events.js,\web\js\events.js,\public\vendor\vue\src\instance\internal\events.js,360,105,28
+init.js,init.js,\web\js\init.js,\public\vendor\jquery\src\core\init.js,502,70,15
+init.js,init.js,\web\js\init.js,\public\vendor\vue\src\instance\internal\init.js,502,55,5
+Gruntfile.js,Gruntfile.js,\web\js\iviewer\Gruntfile.js,\Gruntfile.js,64,89,19
+Gruntfile.js,Gruntfile.js,\web\js\iviewer\Gruntfile.js,\public\vendor\bootstrap-touchspin\Gruntfile.js,64,58,20
+Gruntfile.js,Gruntfile.js,\web\js\iviewer\Gruntfile.js,\public\vendor\datetimepicker\Gruntfile.js,64,129,14

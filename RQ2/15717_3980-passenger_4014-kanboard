@@ -1,0 +1,6 @@
+3980-passenger,4014-kanboard
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,\assets\vendor\text-caret\index.js,31,94,1
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,\assets\vendor\text-caret\index.js,286,94,11
+http.js,http.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\transports\http.js,\assets\js\core\http.js,153,110,18
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,\assets\vendor\text-caret\index.js,71,94,9
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,\assets\vendor\text-caret\index.js,71,94,9

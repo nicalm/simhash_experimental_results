@@ -1,0 +1,4 @@
+10841-gimp,4000-mruby
+print.c,print.c,\plug-ins\print\print.c,\src\print.c,407,35,13
+print.c,print.c,\plug-ins\print\print.c,\mrbgems\mruby-print\src\print.c,407,55,15
+math.c,math.c,\plug-ins\selection-to-path\math.c,\mrbgems\mruby-math\src\math.c,96,399,24

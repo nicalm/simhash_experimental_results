@@ -1,0 +1,11 @@
+1652-joplin,471-minio
+reducer.js,reducer.js,\ReactNativeClient\lib\reducer.js,\browser\app\js\alert\reducer.js,610,24,7
+reducer.js,reducer.js,\ReactNativeClient\lib\reducer.js,\browser\app\js\browser\reducer.js,610,28,5
+reducer.js,reducer.js,\ReactNativeClient\lib\reducer.js,\browser\app\js\buckets\reducer.js,610,64,14
+reducer.js,reducer.js,\ReactNativeClient\lib\reducer.js,\browser\app\js\objects\reducer.js,610,99,20
+reducer.js,reducer.js,\ReactNativeClient\lib\reducer.js,\browser\app\js\uploads\reducer.js,610,47,10
+index.js,index.js,\ReactNativeClient\locales\index.js,\browser\app\index.js,71,22,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\browser\app\index.js,352,22,0
+index.js,index.js,\ElectronClient\app\locales\index.js,\browser\app\index.js,71,22,0
+App.js,App.js,\Clipper\joplin-webclipper\popup\src\App.js,\browser\app\js\App.js,342,16,2
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\browser\app\index.js,82,22,0

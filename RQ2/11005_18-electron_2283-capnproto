@@ -1,0 +1,16 @@
+18-electron,2283-capnproto
+main.js,main.js,\spec\static\main.js,\doc\javascripts\main.js,223,175,18
+main.js,main.js,\spec\fixtures\snapshot-items-available\main.js,\doc\javascripts\main.js,22,175,3
+main.js,main.js,\spec\fixtures\api\cookie-app\main.js,\doc\javascripts\main.js,42,175,3
+main.js,main.js,\spec\fixtures\api\default-menu\main.js,\doc\javascripts\main.js,27,175,4
+main.js,main.js,\spec\fixtures\api\exit-closes-all-windows-app\main.js,\doc\javascripts\main.js,15,175,2
+main.js,main.js,\spec\fixtures\api\mixed-sandbox-app\main.js,\doc\javascripts\main.js,67,175,11
+main.js,main.js,\spec\fixtures\api\relaunch\main.js,\doc\javascripts\main.js,19,175,1
+main.js,main.js,\spec\fixtures\api\site-instance-overrides\main.js,\doc\javascripts\main.js,28,175,3
+main.js,main.js,\spec\fixtures\api\window-all-closed\main.js,\doc\javascripts\main.js,16,175,1
+main.js,main.js,\spec\fixtures\extensions\chrome-api\main.js,\doc\javascripts\main.js,24,175,3
+main.js,main.js,\spec-main\fixtures\api\net-log\main.js,\doc\javascripts\main.js,24,175,4
+common.h,common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,\c++\src\benchmark\common.h,48,229,11
+common.h,common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,\c++\src\capnp\common.h,48,508,11
+common.h,common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,\c++\src\kj\common.h,48,1054,11
+common.h,common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,\c++\src\kj\parse\common.h,48,564,11

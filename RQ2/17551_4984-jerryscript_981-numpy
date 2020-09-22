@@ -1,0 +1,14 @@
+4984-jerryscript,981-numpy
+build.py,build.py,\tools\build.py,\numpy\distutils\command\build.py,227,34,2
+setup.py,setup.py,\targets\curie_bsp\setup.py,\setup.py,129,245,9
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\setup.py,129,23,1
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\core\setup.py,129,692,5
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\f2py\setup.py,129,41,1
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\linalg\setup.py,129,51,4
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\random\setup.py,129,107,4
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\testing\setup.py,129,16,1
+setup.py,setup.py,\targets\curie_bsp\setup.py,\tools\swig\test\setup.py,129,50,0
+setup.py,setup.py,\targets\curie_bsp\setup.py,\numpy\random\_examples\cython\setup.py,129,24,0
+util.py,util.py,\tools\runners\util.py,\numpy\f2py\tests\util.py,36,218,2
+common.c,common.c,\jerry-core\parser\js\common.c,\numpy\core\src\multiarray\common.c,76,698,29
+common.h,common.h,\jerry-core\parser\js\common.h,\numpy\core\src\multiarray\common.h,78,192,15

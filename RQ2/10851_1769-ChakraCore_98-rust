@@ -1,0 +1,3 @@
+1769-ChakraCore,98-rust
+runtests.py,runtests.py,\test\runtests.py,\src\etc\test-float-parse\runtests.py,595,259,18
+configure.py,configure.py,\tools\icu\configure.py,\src\bootstrap\configure.py,149,375,4

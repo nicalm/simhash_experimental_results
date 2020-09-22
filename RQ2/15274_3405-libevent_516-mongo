@@ -1,0 +1,12 @@
+3405-libevent,516-mongo
+log.c,log.c,\log.c,\src\third_party\wiredtiger\src\log\log.c,172,1688,51
+queue.h,queue.h,\compat\sys\queue.h,\src\mongo\util\queue.h,304,157,11
+queue.h,queue.h,\compat\sys\queue.h,\src\third_party\wiredtiger\src\include\queue.h,304,209,47
+tag.h,tag.h,\include\event2\tag.h,\src\third_party\yaml-cpp-0.6.2\src\tag.h,71,26,3
+thread.h,thread.h,\include\event2\thread.h,\src\mongo\stdx\thread.h,65,138,7
+thread.h,thread.h,\include\event2\thread.h,\src\third_party\wiredtiger\test\fops\thread.h,65,19,0
+thread.h,thread.h,\include\event2\thread.h,\src\third_party\wiredtiger\test\thread\thread.h,65,17,0
+util.h,util.h,\include\event2\util.h,\src\mongo\db\ftdc\util.h,462,38,2
+util.h,util.h,\include\event2\util.h,\src\third_party\icu4c-57.1\source\common\util.h,462,46,2
+util.h,util.h,\include\event2\util.h,\src\third_party\wiredtiger\src\utilities\util.h,462,44,0
+util.h,util.h,\include\event2\util.h,\src\third_party\zstandard-1.4.3\zstd\programs\util.h,462,115,26

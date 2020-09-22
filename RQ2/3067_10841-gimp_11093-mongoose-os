@@ -1,0 +1,4 @@
+10841-gimp,11093-mongoose-os
+main.c,main.c,\app\main.c,\platforms\posix\main.c,631,78,22
+main.c,main.c,\app\main.c,\fw\examples\c_mqtt\src\main.c,631,128,18
+main.c,main.c,\app\main.c,\platforms\cc3200\boot\src\main.c,631,136,24

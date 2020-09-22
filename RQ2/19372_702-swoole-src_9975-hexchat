@@ -1,0 +1,4 @@
+702-swoole-src,9975-hexchat
+server.h,server.h,\include\server.h,\src\common\server.h,728,18,1
+ssl.c,ssl.c,\src\protocol\ssl.c,\src\common\ssl.c,1090,386,102
+example.c,example.c,\thirdparty\hiredis\examples\example.c,\src\common\dbus\example.c,57,158,7

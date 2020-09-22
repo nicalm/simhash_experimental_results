@@ -1,0 +1,7 @@
+4482-nixpkgs,6347-librealsense
+config.h,config.h,\pkgs\os-specific\linux\net-tools\config.h,\src\pipeline\config.h,40,54,0
+AssemblyInfo.cs,AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-1-depth\Properties\AssemblyInfo.cs,15,15,7
+AssemblyInfo.cs,AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-2-capture\Properties\AssemblyInfo.cs,15,15,7
+AssemblyInfo.cs,AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-3-processing\Properties\AssemblyInfo.cs,15,15,7
+AssemblyInfo.cs,AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-4-software-dev\Properties\AssemblyInfo.cs,15,15,7
+AssemblyInfo.cs,AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,\wrappers\csharp\Intel.RealSense\Properties\AssemblyInfo.cs,15,15,7

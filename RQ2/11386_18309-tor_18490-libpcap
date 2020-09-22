@@ -1,0 +1,6 @@
+18309-tor,18490-libpcap
+strlcat.c,strlcat.c,\src\ext\strlcat.c,\missing\strlcat.c,28,29,9
+strlcpy.c,strlcpy.c,\src\ext\strlcpy.c,\missing\strlcpy.c,22,25,6
+log.c,log.c,\src\lib\log\log.c,\rpcapd\log.c,1118,150,39
+socket.h,socket.h,\src\lib\net\socket.h,\pcap\socket.h,79,24,5
+daemon.c,daemon.c,\src\lib\process\daemon.c,\rpcapd\daemon.c,120,1943,40

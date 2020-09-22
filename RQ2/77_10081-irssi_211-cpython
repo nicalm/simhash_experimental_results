@@ -1,0 +1,6 @@
+10081-irssi,211-cpython
+module.h,module.h,\src\irc\notifylist\module.h,\Modules\_sqlite\module.h,29,21,0
+module.h,module.h,\src\irc\proxy\module.h,\Modules\_sqlite\module.h,18,21,0
+module.h,module.h,\src\perl\common\module.h,\Modules\_sqlite\module.h,40,21,0
+module.h,module.h,\src\perl\irc\module.h,\Modules\_sqlite\module.h,35,21,0
+module.h,module.h,\src\perl\textui\module.h,\Modules\_sqlite\module.h,15,21,0

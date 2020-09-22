@@ -1,0 +1,6 @@
+7408-DeepVideoAnalytics,9023-zoneminder
+video.js,video.js,\server\dvaapp\static\videojs\video.js,\web\skins\classic\js\video.js,30093,4277,1808
+video.js,video.js,\server\dvaapp\static\videojs\video.js,\web\skins\classic\views\js\video.js,30093,29,7
+bootstrap.js,bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,\web\skins\classic\js\bootstrap.js,1597,1588,1567
+moment.js,moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,\web\skins\classic\js\moment.js,2305,2361,2223
+jquery-ui.js,jquery-ui.js,\server\dvaapp\static\plugins\jQueryUI\jquery-ui.js,\web\skins\classic\js\jquery-ui-1.12.1\jquery-ui.js,12619,13645,10911

@@ -1,0 +1,7 @@
+4139-outline-client,4482-nixpkgs
+config.h,config.h,\third_party\mbedtls\include\mbedtls\config.h,\pkgs\os-specific\linux\net-tools\config.h,140,40,0
+AssemblyInfo.cs,AssemblyInfo.cs,\tools\OutlineService\OutlineService\Properties\AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,16,15,9
+config.h,config.h,\third_party\mbedtls\apple\include\mbedtls\config.h,\pkgs\os-specific\linux\net-tools\config.h,140,40,0
+config.h,config.h,\third_party\mbedtls\linux\include\mbedtls\config.h,\pkgs\os-specific\linux\net-tools\config.h,140,40,0
+test.c,test.c,\third_party\shadowsocks-libev\libbloom\misc\test\test.c,\pkgs\build-support\libredirect\test.c,184,41,11
+config.h,config.h,\third_party\shadowsocks-libev\libcork\include\libcork\config\config.h,\pkgs\os-specific\linux\net-tools\config.h,29,40,0

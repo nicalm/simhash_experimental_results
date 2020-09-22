@@ -1,0 +1,11 @@
+86-netdata,9469-wireshark
+json.c,json.c,\backends\json\json.c,\wiretap\json.c,121,41,6
+json.c,json.c,\exporting\json\json.c,\wiretap\json.c,134,41,7
+buffer.c,buffer.c,\libnetdata\buffer\buffer.c,\wsutil\buffer.c,280,142,39
+buffer.h,buffer.h,\libnetdata\buffer\buffer.h,\wsutil\buffer.h,64,45,2
+jsmn.c,jsmn.c,\libnetdata\json\jsmn.c,\wsutil\jsmn.c,230,257,219
+jsmn.h,jsmn.h,\libnetdata\json\jsmn.h,\wsutil\jsmn.h,38,39,32
+json.c,json.c,\libnetdata\json\json.c,\wiretap\json.c,345,41,7
+socket.c,socket.c,\libnetdata\socket\socket.c,\wsutil\socket.c,1305,123,33
+socket.h,socket.h,\libnetdata\socket\socket.h,\wsutil\socket.h,156,42,7
+json.c,json.c,\web\api\formatters\json\json.c,\wiretap\json.c,185,41,6

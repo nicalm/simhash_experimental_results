@@ -1,0 +1,17 @@
+1087-radare2,8678-GitHawk
+utf8.c,utf8.c,\libr\cons\utf8.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\utf8.c,185,268,35
+plugin.c,plugin.c,\libr\core\plugin.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plugin.c,51,27,4
+map.c,map.c,\libr\debug\map.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\map.c,319,90,17
+plugin.c,plugin.c,\libr\debug\plugin.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plugin.c,88,27,4
+map.c,map.c,\libr\io\map.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\map.c,531,90,21
+plugin.c,plugin.c,\libr\io\plugin.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plugin.c,171,27,4
+arena.c,arena.c,\libr\reg\arena.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\arena.c,312,85,15
+table.c,table.c,\libr\util\table.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\table.c,819,576,105
+utf8.c,utf8.c,\libr\util\utf8.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\utf8.c,766,268,31
+buffer.h,buffer.h,\libr\include\sdb\buffer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\buffer.h,43,76,1
+buffer.c,buffer.c,\shlr\sdb\src\buffer.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\buffer.c,50,211,13
+buffer.h,buffer.h,\shlr\sdb\src\buffer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\buffer.h,43,76,1
+config.h,config.h,\shlr\zip\zip\config.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\config.h,71,53,9
+xml.c,xml.c,\shlr\gdb\src\gdbclient\xml.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\xml.c,792,155,28
+parser.h,parser.h,\shlr\grub\include\grub\parser.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\parser.h,69,37,3
+chunk.h,chunk.h,\shlr\heap\include\r_jemalloc\internal\chunk.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\chunk.h,66,110,3

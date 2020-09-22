@@ -1,0 +1,8 @@
+461-vim,86-netdata
+buffer.c,buffer.c,\src\buffer.c,\libnetdata\buffer\buffer.c,4239,280,61
+eval.c,eval.c,\src\eval.c,\libnetdata\eval\eval.c,4916,887,180
+json.c,json.c,\src\json.c,\backends\json\json.c,982,121,10
+json.c,json.c,\src\json.c,\exporting\json\json.c,982,134,14
+json.c,json.c,\src\json.c,\libnetdata\json\json.c,982,345,80
+json.c,json.c,\src\json.c,\web\api\formatters\json\json.c,982,185,28
+main.c,main.c,\src\main.c,\daemon\main.c,3234,995,183

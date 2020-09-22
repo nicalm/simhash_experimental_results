@@ -1,0 +1,10 @@
+15910-gdal,18692-spdk
+histogram.py,histogram.py,\autotest\gcore\histogram.py,\scripts\histogram.py,43,35,0
+crc32.c,crc32.c,\gdal\frmts\zlib\crc32.c,\lib\util\crc32.c,287,49,14
+crc32.h,crc32.h,\gdal\frmts\zlib\crc32.h,\include\spdk\crc32.h,437,23,3
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\lib\util\file.c,22,30,3
+__init__.py,__init__.py,\gdal\swig\python\osgeo\__init__.py,\scripts\rpc\__init__.py,40,116,1
+reduce.c,reduce.c,\gdal\frmts\grib\degrib\g2clib\reduce.c,\lib\reduce\reduce.c,140,1210,30
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\include\spdk\util.h,411,52,10
+json.h,json.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\json.h,\include\spdk\json.h,18,110,7
+json_util.c,json_util.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\json_util.c,\lib\json\json_util.c,227,487,56

@@ -1,0 +1,3 @@
+1418-memcached,1811-otp
+hash.c,hash.c,\hash.c,\erts\emulator\beam\hash.c,18,215,2
+hash.c,hash.c,\hash.c,\lib\crypto\c_src\hash.c,18,441,6

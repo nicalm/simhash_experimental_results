@@ -1,0 +1,4 @@
+5868-libvips,682-curl
+base64.c,base64.c,\libvips\iofuncs\base64.c,\lib\base64.c,162,182,27
+util.c,util.c,\libvips\iofuncs\util.c,\tests\server\util.c,1294,375,89
+util.h,util.h,\libvips\include\vips\util.h,\tests\server\util.h,230,29,3

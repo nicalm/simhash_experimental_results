@@ -1,0 +1,13 @@
+3405-libevent,8063-CMake
+http.c,http.c,\http.c,\Utilities\cmcurl\lib\http.c,4015,2834,522
+kqueue.c,kqueue.c,\kqueue.c,\Utilities\cmlibuv\src\unix\kqueue.c,387,377,63
+poll.c,poll.c,\poll.c,\Utilities\cmlibuv\src\unix\poll.c,242,85,10
+poll.c,poll.c,\poll.c,\Utilities\cmlibuv\src\win\poll.c,242,463,25
+select.c,select.c,\select.c,\Utilities\cmcurl\lib\select.c,230,326,34
+signal.c,signal.c,\signal.c,\Utilities\cmlibuv\src\unix\signal.c,348,333,51
+signal.c,signal.c,\signal.c,\Utilities\cmlibuv\src\win\signal.c,348,157,24
+hostcheck.c,hostcheck.c,\sample\hostcheck.c,\Utilities\cmcurl\lib\hostcheck.c,127,84,34
+tree.h,tree.h,\WIN32-Code\tree.h,\Utilities\cmlibuv\include\uv\tree.h,580,666,552
+queue.h,queue.h,\compat\sys\queue.h,\Utilities\cmlibuv\src\queue.h,304,73,1
+http.h,http.h,\include\event2\http.h,\Utilities\cmcurl\lib\http.h,347,158,6
+util.h,util.h,\include\event2\util.h,\Utilities\cmlibrhash\librhash\util.h,462,23,9

@@ -1,0 +1,13 @@
+1529-harbor,60276-esp-homekit-devices
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,17,348,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,17,348,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,42,348,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,42,348,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,53,348,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,53,348,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,44,348,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,44,348,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,60,348,5
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,60,348,5
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,17,348,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\__init__.py,17,348,0

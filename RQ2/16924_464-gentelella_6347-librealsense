@@ -1,0 +1,17 @@
+464-gentelella,6347-librealsense
+index.js,index.js,\vendors\echarts\index.js,\wrappers\nodejs\index.js,32,2989,0
+index.js,index.js,\vendors\echarts\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,32,379,0
+prettify.js,prettify.js,\vendors\gauge.js\assets\prettify.js,\wrappers\nodejs\doc\jsdoc-template\static\scripts\prettify\prettify.js,28,28,28
+prettify.js,prettify.js,\vendors\google-code-prettify\src\prettify.js,\wrappers\nodejs\doc\jsdoc-template\static\scripts\prettify\prettify.js,1082,28,0
+index.js,index.js,\vendors\jszip\lib\index.js,\wrappers\nodejs\index.js,35,2989,9
+index.js,index.js,\vendors\jszip\lib\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,35,379,9
+index.js,index.js,\vendors\bootstrap\js\src\index.js,\wrappers\nodejs\index.js,41,2989,3
+index.js,index.js,\vendors\bootstrap\js\src\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,41,379,3
+index.js,index.js,\vendors\bootstrap-datetimepicker\test\screen-capture\index.js,\wrappers\nodejs\index.js,24,2989,4
+index.js,index.js,\vendors\bootstrap-datetimepicker\test\screen-capture\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,24,379,4
+index.js,index.js,\vendors\parsleyjs\bower_components\expect.js\index.js,\wrappers\nodejs\index.js,806,2989,176
+index.js,index.js,\vendors\parsleyjs\bower_components\expect.js\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,806,379,71
+index.js,index.js,\vendors\pnotify\libtests\browserify\index.js,\wrappers\nodejs\index.js,20,2989,6
+index.js,index.js,\vendors\pnotify\libtests\browserify\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,20,379,6
+index.js,index.js,\vendors\mjolnic-bootstrap-colorpicker\docs\helpers\code\index.js,\wrappers\nodejs\index.js,21,2989,4
+index.js,index.js,\vendors\mjolnic-bootstrap-colorpicker\docs\helpers\code\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,21,379,4

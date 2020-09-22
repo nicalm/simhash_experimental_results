@@ -1,0 +1,6 @@
+682-curl,91-bitcoin
+hash.h,hash.h,\lib\hash.h,\src\hash.h,57,153,4
+hash.h,hash.h,\lib\hash.h,\src\secp256k1\src\hash.h,57,27,1
+system.h,system.h,\include\curl\system.h,\src\util\system.h,380,200,7
+util.h,util.h,\tests\server\util.h,\src\rpc\util.h,29,173,1
+util.h,util.h,\tests\server\util.h,\src\secp256k1\src\util.h,29,99,3

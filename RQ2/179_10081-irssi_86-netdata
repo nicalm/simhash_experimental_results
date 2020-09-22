@@ -1,0 +1,7 @@
+10081-irssi,86-netdata
+common.h,common.h,\src\common.h,\daemon\common.h,81,48,1
+commands.c,commands.c,\src\core\commands.c,\daemon\commands.c,717,482,98
+commands.h,commands.h,\src\core\commands.h,\daemon\commands.h,95,45,1
+log.c,log.c,\src\core\log.c,\libnetdata\log\log.c,455,565,81
+log.h,log.h,\src\core\log.h,\libnetdata\log\log.h,47,76,1
+signals.c,signals.c,\src\core\signals.c,\daemon\signals.c,310,209,33

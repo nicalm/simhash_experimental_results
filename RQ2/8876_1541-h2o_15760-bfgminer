@@ -1,0 +1,6 @@
+1541-h2o,15760-bfgminer
+util.c,util.c,\lib\core\util.c,\util.c,769,3540,172
+util.h,util.h,\deps\picotls\t\util.h,\util.h,247,687,53
+api.c,api.c,\deps\yaml\src\api.c,\api.c,939,3686,169
+util.c,util.c,\t\00unit\lib\core\util.c,\util.c,203,3540,20
+sha2.h,sha2.h,\deps\picotls\deps\cifra\src\sha2.h,\sha2.h,48,29,4

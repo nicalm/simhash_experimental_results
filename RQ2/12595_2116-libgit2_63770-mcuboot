@@ -1,0 +1,14 @@
+2116-libgit2,63770-mcuboot
+config.h,config.h,\src\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,47,24,1
+ignore.h,ignore.h,\src\ignore.h,\boot\bootutil\include\bootutil\ignore.h,34,35,1
+oid.h,oid.h,\src\oid.h,\ext\mbedtls-asn1\include\mbedtls\oid.h,21,216,2
+main.c,main.c,\tests\main.c,\boot\zephyr\main.c,29,250,6
+main.c,main.c,\tests\main.c,\boot\cypress\BlinkyApp\main.c,29,73,6
+main.c,main.c,\tests\main.c,\boot\cypress\MCUBootApp\main.c,29,40,4
+main.c,main.c,\tests\main.c,\boot\mynewt\src\main.c,29,164,6
+main.c,main.c,\tests\main.c,\testplan\mynewt\apps\blinky\src\main.c,29,42,5
+main.c,main.c,\tests\main.c,\testplan\mynewt\apps\slinky\src\main.c,29,191,5
+config.h,config.h,\include\git2\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,112,24,1
+ignore.h,ignore.h,\include\git2\ignore.h,\boot\bootutil\include\bootutil\ignore.h,16,35,1
+oid.h,oid.h,\include\git2\oid.h,\ext\mbedtls-asn1\include\mbedtls\oid.h,33,216,1
+config.h,config.h,\include\git2\sys\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,41,24,1

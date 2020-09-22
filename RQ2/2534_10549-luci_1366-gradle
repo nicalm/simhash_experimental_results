@@ -1,0 +1,7 @@
+10549-luci,1366-gradle
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\subprojects\docs\src\docs\js\javadoc\script.js,154,136,29
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\subprojects\docs\src\docs\release\content\script.js,154,64,11
+script.js,script.js,\themes\luci-theme-material\htdocs\luci-static\material\js\script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,154,164,27
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\subprojects\docs\src\docs\js\javadoc\script.js,204,136,38
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\subprojects\docs\src\docs\release\content\script.js,204,64,11
+script.js,script.js,\themes\luci-theme-rosy\htdocs\luci-static\rosy\js\script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,204,164,34

@@ -1,0 +1,14 @@
+24-node,461-vim
+version.c,version.c,\deps\uv\src\version.c,\src\version.c,17,1339,4
+state.c,state.c,\deps\brotli\c\dec\state.c,\src\libvterm\src\state.c,132,1575,9
+version.c,version.c,\deps\openssl\openssl\apps\version.c,\src\version.c,179,1339,36
+main.c,main.c,\deps\uv\samples\socks5-proxy\main.c,\src\main.c,64,3234,20
+macros.h,macros.h,\deps\v8\src\base\macros.h,\src\macros.h,236,209,37
+globals.h,globals.h,\deps\v8\src\common\globals.h,\src\globals.h,1064,1015,36
+regexp.h,regexp.h,\deps\v8\src\regexp\regexp.h,\src\regexp.h,91,94,3
+version.h,version.h,\deps\v8\src\utils\version.h,\src\version.h,39,23,1
+utf8.h,utf8.h,\deps\icu-small\source\common\unicode\utf8.h,\src\libvterm\src\utf8.h,271,34,6
+buffer.c,buffer.c,\deps\openssl\openssl\crypto\buffer\buffer.c,\src\buffer.c,134,4239,34
+sha256.c,sha256.c,\deps\openssl\openssl\crypto\sha\sha256.c,\src\sha256.c,323,332,29
+main.c,main.c,\deps\openssl\openssl\test\testutil\main.c,\src\main.c,78,3234,21
+globals.h,globals.h,\deps\v8\src\torque\ls\globals.h,\src\globals.h,40,1015,2

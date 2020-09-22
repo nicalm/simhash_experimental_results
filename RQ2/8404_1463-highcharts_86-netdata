@@ -1,0 +1,6 @@
+1463-highcharts,86-netdata
+data.js,data.js,\studies\hc4\01\data.js,\tests\k6\data.js,24,47,2
+data.js,data.js,\studies\maps\netherlands\data.js,\tests\k6\data.js,44,47,4
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\web\gui\src\dashboard.js\utils.js,53,324,16
+options.js,options.js,\js\modules\accessibility\options\options.js,\web\gui\src\dashboard.js\options.js,61,131,8
+data.js,data.js,\exporting-server\java\highcharts-export\highcharts-export-convert\target\classes\phantomjs\data.js,\tests\k6\data.js,18,47,0

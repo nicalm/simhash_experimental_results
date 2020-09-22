@@ -1,0 +1,10 @@
+1652-joplin,4701-sonarqube
+theme.js,theme.js,\ElectronClient\app\theme.js,\server\sonar-web\src\main\js\app\theme.js,391,129,2
+index.js,index.js,\ReactNativeClient\locales\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,71,79,0
+index.js,index.js,\ReactNativeClient\locales\index.js,\server\sonar-web\config\documentation-loader\index.js,71,28,0
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,352,79,16
+index.js,index.js,\Clipper\joplin-webclipper\content_scripts\index.js,\server\sonar-web\config\documentation-loader\index.js,352,28,3
+index.js,index.js,\ElectronClient\app\locales\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,71,79,0
+index.js,index.js,\ElectronClient\app\locales\index.js,\server\sonar-web\config\documentation-loader\index.js,71,28,0
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,82,79,6
+index.js,index.js,\Clipper\joplin-webclipper\popup\src\index.js,\server\sonar-web\config\documentation-loader\index.js,82,28,3

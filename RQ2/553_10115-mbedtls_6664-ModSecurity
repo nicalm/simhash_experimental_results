@@ -1,0 +1,14 @@
+10115-mbedtls,6664-ModSecurity
+base64.c,base64.c,\library\base64.c,\others\mbedtls\base64.c,199,199,197
+md5.c,md5.c,\library\md5.c,\others\mbedtls\md5.c,358,293,255
+sha1.c,sha1.c,\library\sha1.c,\others\mbedtls\sha1.c,414,328,287
+base64.h,base64.h,\include\mbedtls\base64.h,\others\mbedtls\base64.h,24,17,17
+base64.h,base64.h,\include\mbedtls\base64.h,\src\utils\base64.h,24,19,2
+check_config.h,check_config.h,\include\mbedtls\check_config.h,\others\mbedtls\check_config.h,529,402,402
+md5.h,md5.h,\include\mbedtls\md5.h,\others\mbedtls\md5.h,73,43,33
+md5.h,md5.h,\include\mbedtls\md5.h,\src\utils\md5.h,73,18,3
+md5.h,md5.h,\include\mbedtls\md5.h,\src\actions\transformations\md5.h,73,21,5
+platform.h,platform.h,\include\mbedtls\platform.h,\others\mbedtls\platform.h,176,106,103
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\others\mbedtls\sha1.h,74,43,33
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\src\utils\sha1.h,74,16,3
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\src\actions\transformations\sha1.h,74,21,5

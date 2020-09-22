@@ -1,0 +1,6 @@
+2257-core,9197-domoticz
+app.js,app.js,\apps\files\js\app.js,\www\app\app.js,181,742,35
+app.js,app.js,\apps\files_external\js\app.js,\www\app\app.js,76,742,23
+app.js,app.js,\apps\files_sharing\js\app.js,\www\app\app.js,272,742,65
+app.js,app.js,\apps\files_trashbin\js\app.js,\www\app\app.js,84,742,16
+app.js,app.js,\apps\systemtags\js\app.js,\www\app\app.js,73,742,18

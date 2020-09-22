@@ -1,0 +1,5 @@
+4597-openvpn,4984-jerryscript
+common.h,common.h,\src\openvpn\common.h,\jerry-core\parser\js\common.h,33,78,9
+common.c,common.c,\src\openvpnserv\common.c,\jerry-core\parser\js\common.c,246,76,29
+main.c,main.c,\src\tapctl\main.c,\targets\curie_bsp\jerry_app\quark\main.c,349,130,36
+log.c,log.c,\sample\sample-plugins\log\log.c,\jerry-libm\log.c,130,117,34

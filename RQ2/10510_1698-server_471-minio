@@ -1,0 +1,5 @@
+1698-server,471-minio
+index.js,index.js,\core\src\jquery\index.js,\browser\app\index.js,22,22,0
+index.js,index.js,\core\src\OC\index.js,\browser\app\index.js,162,22,0
+index.js,index.js,\core\src\OCP\index.js,\browser\app\index.js,18,22,0
+index.js,index.js,\apps\settings\src\store\index.js,\browser\app\index.js,29,22,0

@@ -1,0 +1,6 @@
+12310-weechat,24-node
+script.h,script.h,\src\plugins\script\script.h,\deps\v8\src\objects\script.h,16,107,1
+main.c,main.c,\src\gui\curses\headless\main.c,\deps\uv\samples\socks5-proxy\main.c,64,64,13
+main.c,main.c,\src\gui\curses\headless\main.c,\deps\openssl\openssl\test\testutil\main.c,64,78,15
+main.c,main.c,\src\gui\curses\normal\main.c,\deps\uv\samples\socks5-proxy\main.c,16,64,3
+main.c,main.c,\src\gui\curses\normal\main.c,\deps\openssl\openssl\test\testutil\main.c,16,78,2

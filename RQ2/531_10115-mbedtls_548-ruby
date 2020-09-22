@@ -1,0 +1,15 @@
+10115-mbedtls,548-ruby
+bignum.c,bignum.c,\library\bignum.c,\bignum.c,1809,5872,450
+debug.c,debug.c,\library\debug.c,\debug.c,345,211,34
+error.c,error.c,\library\error.c,\error.c,771,1954,32
+md5.c,md5.c,\library\md5.c,\ext\digest\md5\md5.c,358,290,26
+sha1.c,sha1.c,\library\sha1.c,\ext\digest\sha1\sha1.c,414,187,30
+version.c,version.c,\library\version.c,\version.c,23,89,9
+bignum.h,bignum.h,\include\mbedtls\bignum.h,\internal\bignum.h,188,211,17
+debug.h,debug.h,\include\mbedtls\debug.h,\internal\debug.h,89,16,1
+debug.h,debug.h,\include\mbedtls\debug.h,\include\ruby\debug.h,89,70,8
+error.h,error.h,\include\mbedtls\error.h,\internal\error.h,16,120,6
+md5.h,md5.h,\include\mbedtls\md5.h,\ext\digest\md5\md5.h,73,20,3
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\ext\digest\sha1\sha1.h,74,22,3
+version.h,version.h,\include\mbedtls\version.h,\version.h,26,69,6
+version.h,version.h,\include\mbedtls\version.h,\include\ruby\version.h,26,35,7

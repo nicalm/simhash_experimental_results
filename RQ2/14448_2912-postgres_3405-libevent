@@ -1,0 +1,6 @@
+2912-postgres,3405-libevent
+getopt.c,getopt.c,\src\port\getopt.c,\WIN32-Code\getopt.c,76,96,46
+getopt_long.c,getopt_long.c,\src\port\getopt_long.c,\WIN32-Code\getopt_long.c,136,165,42
+strlcpy.c,strlcpy.c,\src\port\strlcpy.c,\strlcpy.c,24,32,11
+regress.c,regress.c,\src\test\regress\regress.c,\test\regress.c,642,2853,112
+signal.c,signal.c,\src\backend\port\win32\signal.c,\signal.c,183,348,45

@@ -1,0 +1,14 @@
+5868-libvips,60276-esp-homekit-devices
+base64.c,base64.c,\libvips\iofuncs\base64.c,\external_libs\homekit\src\base64.c,162,71,9
+error.c,error.c,\libvips\iofuncs\error.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\error.c,530,284,11
+error.c,error.c,\libvips\iofuncs\error.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\error.c,530,284,11
+memory.c,memory.c,\libvips\iofuncs\memory.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\memory.c,199,701,44
+memory.c,memory.c,\libvips\iofuncs\memory.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\memory.c,199,701,44
+util.c,util.c,\libvips\iofuncs\util.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,1294,138,26
+util.c,util.c,\libvips\iofuncs\util.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,1294,138,26
+debug.h,debug.h,\libvips\include\vips\debug.h,\external_libs\homekit\src\debug.h,37,20,5
+header.h,header.h,\libvips\include\vips\header.h,\devices\HAA\header.h,91,296,1
+internal.h,internal.h,\libvips\include\vips\internal.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\internal.h,153,3192,9
+internal.h,internal.h,\libvips\include\vips\internal.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\internal.h,153,3192,9
+memory.h,memory.h,\libvips\include\vips\memory.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,43,138,7
+memory.h,memory.h,\libvips\include\vips\memory.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,43,138,7

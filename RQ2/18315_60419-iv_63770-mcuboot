@@ -1,0 +1,5 @@
+60419-iv,63770-mcuboot
+platform.h,platform.h,\iv\platform.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,161,176,44
+utils.h,utils.h,\iv\utils.h,\ext\tinycrypt\lib\include\tinycrypt\utils.h,109,16,4
+platform.h,platform.h,\iv\lv5\third_party\v8_dtoa\platform.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,27,176,4
+utils.h,utils.h,\iv\lv5\third_party\v8_dtoa\utils.h,\ext\tinycrypt\lib\include\tinycrypt\utils.h,63,16,2

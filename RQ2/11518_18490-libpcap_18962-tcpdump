@@ -1,0 +1,12 @@
+18490-libpcap,18962-tcpdump
+bpf_dump.c,bpf_dump.c,\bpf_dump.c,\bpf_dump.c,37,35,30
+ethertype.h,ethertype.h,\ethertype.h,\ethertype.h,90,167,86
+extract.h,extract.h,\extract.h,\extract.h,258,616,252
+llc.h,llc.h,\llc.h,\llc.h,64,84,62
+nlpid.h,nlpid.h,\nlpid.h,\nlpid.h,27,16,0
+ppp.h,ppp.h,\ppp.h,\ppp.h,35,45,33
+os-sunos4.h,os-sunos4.h,\lbl\os-sunos4.h,\lbl\os-sunos4.h,184,184,182
+strlcat.c,strlcat.c,\missing\strlcat.c,\missing\strlcat.c,29,29,11
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\missing\strlcpy.c,25,26,11
+compiler-tests.h,compiler-tests.h,\pcap\compiler-tests.h,\compiler-tests.h,42,35,23
+funcattrs.h,funcattrs.h,\pcap\funcattrs.h,\funcattrs.h,68,46,17

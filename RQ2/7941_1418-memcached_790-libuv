@@ -1,0 +1,5 @@
+1418-memcached,790-libuv
+thread.c,thread.c,\thread.c,\src\unix\thread.c,650,622,101
+thread.c,thread.c,\thread.c,\src\win\thread.c,650,409,72
+util.c,util.c,\util.c,\samples\socks5-proxy\util.c,193,43,12
+util.c,util.c,\util.c,\src\win\util.c,193,1211,47

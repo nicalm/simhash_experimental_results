@@ -1,0 +1,8 @@
+1916-robomongo,2475-fmt
+main.cpp,main.cpp,\src\robomongo\app\main.cpp,\test\fuzzing\main.cpp,79,20,2
+gtest.h,gtest.h,\trash\tests\gtest-1.7.0\fused-src\gtest\gtest.h,\test\gtest\gtest.h,13408,13412,13408
+gtest-spi.h,gtest-spi.h,\trash\tests\gtest-1.7.0\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,97,97,97
+gtest.h,gtest.h,\trash\tests\gtest-1.7.0\include\gtest\gtest.h,\test\gtest\gtest.h,886,13412,876
+gmock.h,gmock.h,\src\third-party\googletest-1.8.1\googlemock\include\gmock\gmock.h,\test\gmock\gmock.h,20,9221,9
+gtest-spi.h,gtest-spi.h,\src\third-party\googletest-1.8.1\googletest\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,99,97,94
+gtest.h,gtest.h,\src\third-party\googletest-1.8.1\googletest\include\gtest\gtest.h,\test\gtest\gtest.h,903,13412,747

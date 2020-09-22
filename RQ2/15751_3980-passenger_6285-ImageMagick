@@ -1,0 +1,10 @@
+3980-passenger,6285-ImageMagick
+Options.h,Options.h,\src\agent\Core\ApplicationPool\Options.h,\Magick++\lib\Magick++\Options.h,316,158,8
+version.c,version.c,\src\cxx_supportlib\vendor-copy\libuv\src\version.c,\MagickCore\version.c,17,351,4
+core.c,core.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\core.c,\www\source\core.c,791,47,8
+stream.c,stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,\MagickCore\stream.c,1065,2062,137
+stream.c,stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,\MagickWand\stream.c,1065,635,69
+thread.c,thread.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\thread.c,\MagickCore\thread.c,352,106,19
+timer.c,timer.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\timer.c,\MagickCore\timer.c,106,216,12
+vms.h,vms.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\vms.h,\MagickCore\vms.h,23,945,5
+vms.h,vms.h,\src\cxx_supportlib\vendor-modified\boost\predef\library\c\vms.h,\MagickCore\vms.h,17,945,3

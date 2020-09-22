@@ -1,0 +1,3 @@
+6285-ImageMagick,9088-httpd
+log.c,log.c,\MagickCore\log.c,\server\log.c,1233,1428,216
+core.c,core.c,\www\source\core.c,\server\core.c,47,4522,7

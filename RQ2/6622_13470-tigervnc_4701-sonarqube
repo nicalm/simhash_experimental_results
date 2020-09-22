@@ -1,0 +1,4 @@
+13470-tigervnc,4701-sonarqube
+Request.java,Request.java,\java\com\jcraft\jsch\Request.java,\sonar-plugin-api\src\main\java\org\sonar\api\server\ws\Request.java,38,330,10
+Configuration.java,Configuration.java,\java\com\tigervnc\rfb\Configuration.java,\sonar-plugin-api\src\main\java\org\sonar\api\config\Configuration.java,194,46,10
+FileUtils.java,FileUtils.java,\java\com\tigervnc\vncviewer\FileUtils.java,\sonar-core\src\main\java\org\sonar\core\util\FileUtils.java,55,115,14

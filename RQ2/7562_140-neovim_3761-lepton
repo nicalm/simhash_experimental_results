@@ -1,0 +1,11 @@
+140-neovim,3761-lepton
+context.h,context.h,\src\nvim\context.h,\dependencies\brotli\c\dec\context.h,38,130,1
+context.h,context.h,\src\nvim\context.h,\dependencies\brotli\c\enc\context.h,38,84,4
+memory.c,memory.c,\src\nvim\memory.c,\dependencies\brotli\c\enc\memory.c,397,147,32
+memory.h,memory.h,\src\nvim\memory.h,\dependencies\brotli\c\enc\memory.h,32,44,4
+state.c,state.c,\src\nvim\state.c,\dependencies\brotli\c\dec\state.c,132,138,13
+types.h,types.h,\src\nvim\types.h,\dependencies\brotli\c\include\brotli\types.h,15,31,2
+decode.c,decode.c,\src\nvim\eval\decode.c,\dependencies\brotli\c\dec\decode.c,980,1997,177
+encode.c,encode.c,\src\nvim\eval\encode.c,\dependencies\brotli\c\enc\encode.c,835,1443,79
+encode.h,encode.h,\src\nvim\eval\encode.h,\dependencies\brotli\c\include\brotli\encode.h,42,61,3
+memory.c,memory.c,\test\symbolic\klee\nvim\memory.c,\dependencies\brotli\c\enc\memory.c,86,147,15

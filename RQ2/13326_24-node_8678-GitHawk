@@ -1,0 +1,12 @@
+24-node,8678-GitHawk
+node.h,node.h,\src\node.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\node.h,555,94,11
+config.h,config.h,\deps\nghttp2\lib\includes\config.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\config.h,23,53,4
+iterator.h,iterator.h,\deps\v8\src\base\iterator.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\iterator.h,45,21,3
+node.h,node.h,\deps\v8\src\compiler\node.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\node.h,452,94,11
+map.h,map.h,\deps\v8\src\objects\map.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\map.h,506,31,5
+parser.h,parser.h,\deps\v8\src\parsing\parser.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\parser.h,820,37,3
+references.h,references.h,\deps\v8\src\snapshot\references.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\references.h,164,19,3
+utf8.h,utf8.h,\deps\icu-small\source\common\unicode\utf8.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\utf8.h,271,25,3
+buffer.c,buffer.c,\deps\openssl\openssl\crypto\buffer\buffer.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\buffer.c,134,211,26
+buffer.h,buffer.h,\deps\openssl\openssl\include\openssl\buffer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\buffer.h,35,76,8
+table.c,table.c,\deps\v8\third_party\wasm-api\example\table.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\table.c,163,576,23

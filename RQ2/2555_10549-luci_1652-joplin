@@ -1,0 +1,7 @@
+10549-luci,1652-joplin
+config.js,config.js,\applications\luci-app-ttyd\htdocs\luci-static\resources\view\ttyd\config.js,\ReactNativeClient\lib\components\screens\config.js,53,471,2
+status.js,status.js,\applications\luci-app-yggdrasil\htdocs\luci-static\resources\view\yggdrasil\status.js,\ReactNativeClient\lib\components\screens\status.js,100,118,8
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\ReactNativeClient\locales\index.js,82,71,0
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\Clipper\joplin-webclipper\content_scripts\index.js,82,352,13
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\ElectronClient\app\locales\index.js,82,71,0
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\Clipper\joplin-webclipper\popup\src\index.js,82,82,8

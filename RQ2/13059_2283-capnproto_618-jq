@@ -1,0 +1,3 @@
+2283-capnproto,618-jq
+lexer.h,lexer.h,\c++\src\capnp\compiler\lexer.h,\src\lexer.h,48,554,1
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\src\parser.h,69,145,3

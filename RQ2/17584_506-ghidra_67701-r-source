@@ -1,0 +1,5 @@
+506-ghidra,67701-r-source
+builtin.c,builtin.c,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\builtin.c,\src\main\builtin.c,479,895,66
+types.h,types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\src\extra\xdr\rpc\types.h,280,48,13
+alloca.c,alloca.c,\GPL\DemanglerGnu\src\demangler_gnu\c\alloca.c,\src\main\alloca.c,271,286,247
+types.h,types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,\src\extra\xdr\rpc\types.h,161,48,13

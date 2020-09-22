@@ -1,0 +1,9 @@
+2004-skaffold,4139-outline-client
+main.go,main.go,\hack\schemas\main.go,\tools\find_tap_name\main.go,360,122,38
+main.go,main.go,\hack\tests\main.go,\tools\find_tap_name\main.go,131,122,33
+main.go,main.go,\vendor\4d63.com\embedfiles\main.go,\tools\find_tap_name\main.go,100,122,42
+main.go,main.go,\hack\versions\cmd\update_comments\main.go,\tools\find_tap_name\main.go,19,122,8
+main.go,main.go,\vendor\github.com\shurcooL\sanitized_anchor_name\main.go,\tools\find_tap_name\main.go,19,122,4
+main.go,main.go,\vendor\github.com\golang\protobuf\protoc-gen-go\main.go,\tools\find_tap_name\main.go,51,122,19
+main.go,main.go,\vendor\golang.org\x\exp\cmd\apidiff\main.go,\tools\find_tap_name\main.go,127,122,38
+main.go,main.go,\vendor\google.golang.org\protobuf\cmd\protoc-gen-go\internal_gengo\main.go,\tools\find_tap_name\main.go,743,122,41

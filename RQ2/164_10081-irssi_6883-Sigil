@@ -1,0 +1,4 @@
+10081-irssi,6883-Sigil
+log.c,log.c,\src\core\log.c,\3rdparty\hunspell\intl\log.c,455,82,26
+utf8.c,utf8.c,\src\core\utf8.c,\internal\gumbo\utf8.c,82,164,20
+utf8.h,utf8.h,\src\core\utf8.h,\internal\gumbo\utf8.h,24,41,1

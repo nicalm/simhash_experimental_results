@@ -1,0 +1,3 @@
+10187-viabtc_exchange_server,4000-mruby
+example.c,example.c,\depends\hiredis\examples\example.c,\examples\mrbgems\c_and_ruby_extension_example\src\example.c,57,16,4
+example.c,example.c,\depends\hiredis\examples\example.c,\examples\mrbgems\c_extension_example\src\example.c,57,16,4

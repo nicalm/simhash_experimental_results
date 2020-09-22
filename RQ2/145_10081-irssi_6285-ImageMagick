@@ -1,0 +1,9 @@
+10081-irssi,6285-ImageMagick
+core.c,core.c,\src\core\core.c,\www\source\core.c,243,47,6
+log.c,log.c,\src\core\log.c,\MagickCore\log.c,455,1233,86
+log.h,log.h,\src\core\log.h,\MagickCore\log.h,47,65,1
+module.h,module.h,\src\irc\notifylist\module.h,\MagickCore\module.h,29,50,0
+module.h,module.h,\src\irc\proxy\module.h,\MagickCore\module.h,18,50,0
+module.h,module.h,\src\perl\common\module.h,\MagickCore\module.h,40,50,0
+module.h,module.h,\src\perl\irc\module.h,\MagickCore\module.h,35,50,0
+module.h,module.h,\src\perl\textui\module.h,\MagickCore\module.h,15,50,0

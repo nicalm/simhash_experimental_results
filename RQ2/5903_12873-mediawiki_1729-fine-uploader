@@ -1,0 +1,8 @@
+12873-mediawiki,1729-fine-uploader
+jquery.js,jquery.js,\resources\lib\jquery\jquery.js,\test\static\third-party\jquery\jquery.js,6800,6645,4605
+sinon.js,sinon.js,\resources\lib\sinonjs\sinon.js,\test\static\third-party\sinon\sinon.js,4912,281,201
+util.js,util.js,\resources\src\mediawiki.util\util.js,\client\js\util.js,268,624,56
+util.js,util.js,\resources\src\mediawiki.util\util.js,\test\unit\util.js,268,648,17
+util.js,util.js,\resources\src\mediawiki.util\util.js,\client\js\azure\util.js,268,74,21
+util.js,util.js,\resources\src\mediawiki.util\util.js,\client\js\s3\util.js,268,349,52
+util.js,util.js,\resources\src\mediawiki.util\util.js,\test\unit\s3\util.js,268,145,7

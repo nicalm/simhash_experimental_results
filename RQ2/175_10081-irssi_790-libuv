@@ -1,0 +1,4 @@
+10081-irssi,790-libuv
+core.c,core.c,\src\core\core.c,\src\unix\core.c,243,1056,28
+core.c,core.c,\src\core\core.c,\src\win\core.c,243,317,19
+server.c,server.c,\src\fe-fuzz\server.c,\samples\socks5-proxy\server.c,124,180,15

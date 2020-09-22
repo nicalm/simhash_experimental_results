@@ -1,0 +1,8 @@
+10081-irssi,1193-mpv
+common.h,common.h,\src\common.h,\common\common.h,81,78,3
+common.h,common.h,\src\common.h,\video\out\opengl\common.h,81,197,4
+common.h,common.h,\src\common.h,\video\out\vulkan\common.h,81,27,5
+core.h,core.h,\src\core\core.h,\player\core.h,18,437,1
+misc.c,misc.c,\src\core\misc.c,\player\misc.c,805,239,58
+formats.c,formats.c,\src\fe-common\core\formats.c,\video\out\opengl\formats.c,1160,140,16
+formats.h,formats.h,\src\fe-common\core\formats.h,\video\out\opengl\formats.h,112,36,5

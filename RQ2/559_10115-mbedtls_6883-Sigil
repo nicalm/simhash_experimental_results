@@ -1,0 +1,4 @@
+10115-mbedtls,6883-Sigil
+error.c,error.c,\library\error.c,\internal\gumbo\error.c,771,221,14
+config.h,config.h,\include\mbedtls\config.h,\3rdparty\hunspell\src\win_api\config.h,143,68,0
+error.h,error.h,\include\mbedtls\error.h,\internal\gumbo\error.h,16,114,8

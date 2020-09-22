@@ -1,0 +1,4 @@
+5902-nmap,753-fish-shell
+output.h,output.h,\output.h,\src\output.h,85,64,1
+dftables.c,dftables.c,\libpcre\dftables.c,\pcre2-10.32\src\dftables.c,130,139,104
+output.h,output.h,\nping\output.h,\src\output.h,38,64,2

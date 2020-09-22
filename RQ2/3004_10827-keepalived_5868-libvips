@@ -1,0 +1,5 @@
+10827-keepalived,5868-libvips
+memory.c,memory.c,\lib\memory.c,\libvips\iofuncs\memory.c,545,199,53
+memory.h,memory.h,\lib\memory.h,\libvips\include\vips\memory.h,64,43,3
+vector.c,vector.c,\lib\vector.c,\libvips\iofuncs\vector.c,239,400,72
+vector.h,vector.h,\lib\vector.h,\libvips\include\vips\vector.h,42,73,3

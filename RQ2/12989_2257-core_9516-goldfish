@@ -1,0 +1,13 @@
+2257-core,9516-goldfish
+admin.js,admin.js,\settings\js\admin.js,\frontend\client\store\modules\menu\admin.js,123,30,2
+app.js,app.js,\apps\files\js\app.js,\frontend\client\app.js,181,124,12
+app.js,app.js,\apps\files\js\app.js,\frontend\client\store\modules\app.js,181,36,12
+app.js,app.js,\apps\files_external\js\app.js,\frontend\client\app.js,76,124,12
+app.js,app.js,\apps\files_external\js\app.js,\frontend\client\store\modules\app.js,76,36,11
+app.js,app.js,\apps\files_sharing\js\app.js,\frontend\client\app.js,272,124,12
+app.js,app.js,\apps\files_sharing\js\app.js,\frontend\client\store\modules\app.js,272,36,12
+app.js,app.js,\apps\files_trashbin\js\app.js,\frontend\client\app.js,84,124,6
+app.js,app.js,\apps\files_trashbin\js\app.js,\frontend\client\store\modules\app.js,84,36,9
+app.js,app.js,\apps\systemtags\js\app.js,\frontend\client\app.js,73,124,9
+app.js,app.js,\apps\systemtags\js\app.js,\frontend\client\store\modules\app.js,73,36,11
+admin.js,admin.js,\apps\updatenotification\js\admin.js,\frontend\client\store\modules\menu\admin.js,50,30,5

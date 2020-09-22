@@ -1,0 +1,4 @@
+2116-libgit2,5991-cJSON
+common.h,common.h,\examples\common.h,\tests\common.h,74,82,1
+common.h,common.h,\src\common.h,\tests\common.h,114,82,5
+common.h,common.h,\include\git2\common.h,\tests\common.h,103,82,1

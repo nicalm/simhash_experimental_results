@@ -1,0 +1,4 @@
+4960-capstone,6773-server
+setup.py,setup.py,\bindings\python\setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,173,15,1
+main.c,main.c,\suite\cstest\src\main.c,\dbug\main.c,300,23,6
+main.c,main.c,\suite\cstest\src\main.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\main.c,300,166,38

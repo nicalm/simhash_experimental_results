@@ -1,0 +1,7 @@
+4266-webkit,63225-sedutil
+os.h,os.h,\PerformanceTests\StitchMarker\folly\boost\predef\os.h,\windows\os.h,23,17,0
+sha1.h,sha1.h,\Source\ThirdParty\ANGLE\src\common\third_party\base\anglebase\sha1.h,\Common\pbkdf2\sha1.h,15,20,3
+hmac.h,hmac.h,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\include\openssl\hmac.h,\Common\pbkdf2\hmac.h,46,22,1
+bitops.h,bitops.h,\Source\ThirdParty\libwebrtc\Source\third_party\libvpx\source\libvpx\vpx_ports\bitops.h,\Common\pbkdf2\bitops.h,49,189,7
+hmac.c,hmac.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\fipsmodule\hmac\hmac.c,\Common\pbkdf2\hmac.c,132,63,6
+sha1.c,sha1.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\fipsmodule\sha\sha1.c,\Common\pbkdf2\sha1.c,270,103,6

@@ -1,0 +1,5 @@
+12310-weechat,4287-cockpit
+main.c,main.c,\src\gui\curses\headless\main.c,\src\tls\main.c,64,89,15
+main.c,main.c,\src\gui\curses\headless\main.c,\src\ws\main.c,64,242,18
+main.c,main.c,\src\gui\curses\normal\main.c,\src\tls\main.c,16,89,6
+main.c,main.c,\src\gui\curses\normal\main.c,\src\ws\main.c,16,242,5

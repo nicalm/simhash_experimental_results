@@ -1,0 +1,3 @@
+506-ghidra,702-swoole-src
+context.cc,context.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\context.cc,\src\coroutine\context.cc,166,98,24
+main.cpp,main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,\core-tests\src\main.cpp,41,55,8

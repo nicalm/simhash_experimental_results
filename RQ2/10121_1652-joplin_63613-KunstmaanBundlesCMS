@@ -1,0 +1,7 @@
+1652-joplin,63613-KunstmaanBundlesCMS
+app.js,app.js,\CliClient\app\app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,357,77,6
+app.js,app.js,\CliClient\app\app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,357,15,4
+app.js,app.js,\CliClient\app\app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,357,27,2
+app.js,app.js,\ElectronClient\app\app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,1144,77,11
+app.js,app.js,\ElectronClient\app\app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,1144,15,3
+app.js,app.js,\ElectronClient\app\app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,1144,27,2

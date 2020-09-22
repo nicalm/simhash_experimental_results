@@ -1,0 +1,5 @@
+24-node,7736-wayne
+karma.conf.js,karma.conf.js,\deps\npm\node_modules\debug\karma.conf.js,\src\frontend\src\karma.conf.js,23,28,9
+karma.conf.js,karma.conf.js,\deps\npm\node_modules\psl\karma.conf.js,\src\frontend\src\karma.conf.js,25,28,9
+lang.js,lang.js,\tools\node_modules\babel-eslint\node_modules\lodash\lang.js,\src\frontend\lang.js,58,97,0
+lang.js,lang.js,\tools\node_modules\eslint\node_modules\lodash\lang.js,\src\frontend\lang.js,58,97,0

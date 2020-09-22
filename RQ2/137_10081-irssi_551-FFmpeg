@@ -1,0 +1,14 @@
+10081-irssi,551-FFmpeg
+common.h,common.h,\src\common.h,\libavutil\common.h,81,288,9
+log.c,log.c,\src\core\log.c,\libavutil\log.c,455,360,58
+log.c,log.c,\src\core\log.c,\libavutil\tests\log.c,455,47,13
+log.h,log.h,\src\core\log.h,\libavutil\log.h,47,77,1
+network.c,network.c,\src\core\network.c,\libavformat\network.c,414,485,92
+network.h,network.h,\src\core\network.h,\libavformat\network.h,51,189,11
+tls.c,tls.c,\src\core\tls.c,\libavformat\tls.c,150,72,9
+tls.h,tls.h,\src\core\tls.h,\libavformat\tls.h,54,30,1
+utf8.c,utf8.c,\src\core\utf8.c,\libavutil\tests\utf8.c,82,45,10
+formats.c,formats.c,\src\fe-common\core\formats.c,\libavfilter\formats.c,1160,557,109
+formats.c,formats.c,\src\fe-common\core\formats.c,\libavfilter\tests\formats.c,1160,42,4
+formats.h,formats.h,\src\fe-common\core\formats.h,\libavfilter\formats.h,112,69,2
+dump.c,dump.c,\src\irc\proxy\dump.c,\libavformat\dump.c,223,564,39

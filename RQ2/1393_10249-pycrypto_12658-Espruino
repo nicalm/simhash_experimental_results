@@ -1,0 +1,9 @@
+10249-pycrypto,12658-Espruino
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\scripts\intelhex\__init__.py,90,781,10
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\scripts\intelhex\__init__.py,47,781,4
+common.py,common.py,\lib\Crypto\SelfTest\Cipher\common.py,\scripts\common.py,555,323,7
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\scripts\intelhex\__init__.py,18,781,0
+common.py,common.py,\lib\Crypto\SelfTest\Hash\common.py,\scripts\common.py,176,323,4
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\scripts\intelhex\__init__.py,23,781,2
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\scripts\intelhex\__init__.py,16,781,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\scripts\intelhex\__init__.py,17,781,1

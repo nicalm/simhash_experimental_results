@@ -1,0 +1,6 @@
+2578-calibre,67679-k8s-multicluster-ingress
+setup.py,setup.py,\setup.py,\vendor\github.com\prometheus\client_model\setup.py,92,20,0
+server.py,server.py,\src\calibre\gui2\preferences\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,1191,15,1
+server.py,server.py,\src\calibre\utils\ipc\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,320,15,1
+common.py,common.py,\src\calibre\ebooks\pdf\render\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,184,21,0
+common.py,common.py,\src\calibre\utils\fonts\sfnt\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,172,21,0

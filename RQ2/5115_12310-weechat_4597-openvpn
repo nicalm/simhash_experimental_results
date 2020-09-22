@@ -1,0 +1,5 @@
+12310-weechat,4597-openvpn
+plugin.c,plugin.c,\src\plugins\plugin.c,\src\openvpn\plugin.c,1150,812,195
+plugin.h,plugin.h,\src\plugins\plugin.h,\src\openvpn\plugin.h,35,147,1
+main.c,main.c,\src\gui\curses\headless\main.c,\src\tapctl\main.c,64,349,19
+main.c,main.c,\src\gui\curses\normal\main.c,\src\tapctl\main.c,16,349,4

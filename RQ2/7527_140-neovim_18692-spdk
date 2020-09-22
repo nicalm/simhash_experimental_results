@@ -1,0 +1,13 @@
+140-neovim,18692-spdk
+assert.h,assert.h,\src\nvim\assert.h,\include\spdk\assert.h,83,15,5
+assert.h,assert.h,\src\nvim\assert.h,\include\spdk_internal\assert.h,83,16,5
+log.c,log.c,\src\nvim\log.c,\lib\log\log.c,244,153,31
+log.h,log.h,\src\nvim\log.h,\include\spdk\log.h,62,41,3
+log.h,log.h,\src\nvim\log.h,\include\spdk_internal\log.h,62,57,2
+math.c,math.c,\src\nvim\math.c,\lib\util\math.c,32,26,7
+memory.c,memory.c,\src\nvim\memory.c,\lib\env_dpdk\memory.c,397,991,95
+memory.h,memory.h,\src\nvim\memory.h,\include\spdk_internal\memory.h,32,20,3
+socket.c,socket.c,\src\nvim\event\socket.c,\lib\rte_vhost\socket.c,222,623,47
+queue.h,queue.h,\src\nvim\lib\queue.h,\include\spdk\queue.h,54,30,2
+env.c,env.c,\src\nvim\os\env.c,\lib\env_dpdk\env.c,772,343,99
+memory.c,memory.c,\test\symbolic\klee\nvim\memory.c,\lib\env_dpdk\memory.c,86,991,24

@@ -1,0 +1,11 @@
+4287-cockpit,6347-librealsense
+index.js,index.js,\eslint-plugin-cockpit\index.js,\wrappers\nodejs\index.js,15,2989,7
+index.js,index.js,\eslint-plugin-cockpit\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,15,379,6
+index.js,index.js,\pkg\machines\index.js,\wrappers\nodejs\index.js,50,2989,7
+index.js,index.js,\pkg\machines\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,50,379,7
+index.js,index.js,\pkg\playground\index.js,\wrappers\nodejs\index.js,28,2989,6
+index.js,index.js,\pkg\playground\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,28,379,6
+index.js,index.js,\pkg\shell\index.js,\wrappers\nodejs\index.js,32,2989,1
+index.js,index.js,\pkg\shell\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,32,379,1
+index.js,index.js,\pkg\sosreport\index.js,\wrappers\nodejs\index.js,136,2989,25
+index.js,index.js,\pkg\sosreport\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,136,379,25

@@ -1,0 +1,4 @@
+12658-Espruino,5868-libvips
+base64.c,base64.c,\libs\crypto\mbedtls\library\base64.c,\libvips\iofuncs\base64.c,195,162,32
+error.c,error.c,\libs\crypto\mbedtls\library\error.c,\libvips\iofuncs\error.c,583,530,18
+debug.h,debug.h,\libs\crypto\mbedtls\include\mbedtls\debug.h,\libvips\include\vips\debug.h,72,37,13

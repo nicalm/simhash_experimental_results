@@ -1,0 +1,16 @@
+14021-lxml,24-node
+test.py,test.py,\test.py,\tools\test.py,432,1305,41
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\test\testpy\__init__.py,1099,107,7
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\inspector_protocol\jinja2\__init__.py,1099,38,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\inspector_protocol\markupsafe\__init__.py,1099,125,10
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\deps\v8\third_party\jinja2\__init__.py,1099,38,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\deps\v8\third_party\markupsafe\__init__.py,1099,125,10
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\tools\gyp\pylib\gyp\__init__.py,1099,369,25
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\__init__.py,1099,369,25
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\test\testpy\__init__.py,154,107,4
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\inspector_protocol\jinja2\__init__.py,154,38,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\inspector_protocol\markupsafe\__init__.py,154,125,3
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\deps\v8\third_party\jinja2\__init__.py,154,38,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\deps\v8\third_party\markupsafe\__init__.py,154,125,3
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\tools\gyp\pylib\gyp\__init__.py,154,369,11
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\__init__.py,154,369,11

@@ -1,0 +1,7 @@
+18309-tor,5372-twisted
+util.py,util.py,\scripts\maint\practracker\util.py,\src\twisted\python\util.py,40,495,5
+util.py,util.py,\scripts\maint\practracker\util.py,\src\twisted\spread\util.py,40,115,1
+util.py,util.py,\scripts\maint\practracker\util.py,\src\twisted\trial\util.py,40,174,2
+util.py,util.py,\scripts\maint\practracker\util.py,\src\twisted\web\util.py,40,144,1
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\twisted\internet\base.py,60,655,0
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\twisted\positioning\base.py,60,291,0

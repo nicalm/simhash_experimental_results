@@ -1,0 +1,10 @@
+6422-roundcubemail,702-swoole-src
+config.php,config.php,\installer\config.php,\tests\include\config.php,508,80,2
+test.php,test.php,\installer\test.php,\examples\coroutine\test.php,368,33,6
+test.php,test.php,\installer\test.php,\examples\coroutine\channel\test.php,368,32,6
+test.php,test.php,\installer\test.php,\examples\coroutine\select\test.php,368,20,3
+bootstrap.php,bootstrap.php,\tests\Browser\bootstrap.php,\tools\bootstrap.php,106,135,30
+bootstrap.php,bootstrap.php,\tests\Browser\bootstrap.php,\tests\include\bootstrap.php,106,30,4
+bootstrap.php,bootstrap.php,\program\lib\Roundcube\bootstrap.php,\tools\bootstrap.php,266,135,42
+bootstrap.php,bootstrap.php,\program\lib\Roundcube\bootstrap.php,\tests\include\bootstrap.php,266,30,4
+mysql.php,mysql.php,\program\lib\Roundcube\db\mysql.php,\examples\php\mysql.php,126,25,9

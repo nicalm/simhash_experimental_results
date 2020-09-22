@@ -1,0 +1,10 @@
+11788-fbthrift,9197-domoticz
+token.h,token.h,\thrift\compiler\mustache\token.h,\hardware\plugins\Include\token.h,63,78,1
+stream.h,stream.h,\thrift\lib\py3\stream.h,\cereal\external\rapidjson\stream.h,24,67,4
+Mutex.h,Mutex.h,\thrift\lib\cpp\concurrency\Mutex.h,\hardware\openzwave\platform\Mutex.h,169,22,5
+Thread.h,Thread.h,\thrift\lib\cpp\concurrency\Thread.h,\hardware\openzwave\platform\Thread.h,72,26,6
+Stream.h,Stream.h,\thrift\lib\cpp2\async\Stream.h,\hardware\openzwave\platform\Stream.h,193,35,5
+meta.h,meta.h,\thrift\lib\cpp2\detail\meta.h,\cereal\external\rapidjson\internal\meta.h,37,104,3
+Program.cs,Program.cs,\thrift\test\csharp\ThriftTest\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,35,26,13
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\tinyxpath\main.cpp,47,296,3
+Controller.h,Controller.h,\thrift\lib\cpp\test\loadgen\Controller.h,\hardware\openzwave\platform\Controller.h,46,23,4

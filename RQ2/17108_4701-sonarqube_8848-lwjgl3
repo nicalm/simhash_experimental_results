@@ -1,0 +1,5 @@
+4701-sonarqube,8848-lwjgl3
+Configuration.java,Configuration.java,\sonar-plugin-api\src\main\java\org\sonar\api\config\Configuration.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Configuration.java,46,104,8
+Configuration.java,Configuration.java,\sonar-plugin-api\src\main\java\org\sonar\api\config\Configuration.java,\modules\lwjgl\driftfx\src\main\java\org\eclipse\fx\drift\internal\Configuration.java,46,41,11
+Version.java,Version.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\Version.java,\modules\lwjgl\core\src\main\java\org\lwjgl\Version.java,156,31,6
+Checks.java,Checks.java,\sonar-plugin-api\src\main\java\org\sonar\api\batch\rule\Checks.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Checks.java,147,273,30

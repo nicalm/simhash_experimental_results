@@ -1,0 +1,7 @@
+2389-Pillow,6714-cryptography
+setup.py,setup.py,\setup.py,\setup.py,714,181,25
+setup.py,setup.py,\setup.py,\vectors\setup.py,714,19,3
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,45,66,11
+__init__.py,__init__.py,\src\PIL\__init__.py,\src\cryptography\x509\__init__.py,52,175,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\src\cryptography\hazmat\primitives\asymmetric\__init__.py,52,15,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\src\cryptography\hazmat\primitives\serialization\__init__.py,52,18,1

@@ -1,0 +1,10 @@
+702-swoole-src,8874-collectd
+client.h,client.h,\include\client.h,\src\libcollectdclient\collectd\client.h,123,38,2
+server.h,server.h,\include\server.h,\src\libcollectdclient\collectd\server.h,728,25,2
+client.c,client.c,\examples\ssl\client.c,\src\libcollectdclient\client.c,112,785,32
+heap.c,heap.c,\src\core\heap.c,\src\utils\heap\heap.c,177,133,21
+table.c,table.c,\src\memory\table.c,\src\table.c,387,365,64
+mqtt.c,mqtt.c,\src\protocol\mqtt.c,\src\mqtt.c,46,575,8
+redis.c,redis.c,\src\protocol\redis.c,\src\redis.c,150,630,45
+config.php,config.php,\tests\include\config.php,\contrib\php-collection\config.php,80,32,1
+functions.php,functions.php,\tests\include\functions.php,\contrib\php-collection\functions.php,624,646,85

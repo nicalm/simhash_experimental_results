@@ -1,0 +1,11 @@
+10549-luci,1769-ChakraCore
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\lib\wabt\chakra\windows\config.h,89,247,0
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\lib\wabt\chakra\windows\config.h,89,247,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\lib\wabt\chakra\windows\config.h,35,247,2
+map.js,map.js,\protocols\luci-proto-ipv6\htdocs\luci-static\resources\protocol\map.js,\test\TTBasic\map.js,73,31,1
+custom.js,custom.js,\applications\luci-app-firewall\htdocs\luci-static\resources\view\firewall\custom.js,\test\benchmarks\ARES-6\Air\custom.js,27,68,4
+switch.js,switch.js,\modules\luci-mod-network\htdocs\luci-static\resources\view\network\switch.js,\test\Basics\switch.js,286,52,5
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\test\WasmSpec\convert-test-suite\index.js,82,195,17
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\test\benchmarks\ARES-6\Babylon\index.js,82,5263,16
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\test\benchmarks\ARES-6\ml\index.js,82,4664,22
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\test\WasmSpec\convert-test-suite\generateTests\index.js,82,17,0

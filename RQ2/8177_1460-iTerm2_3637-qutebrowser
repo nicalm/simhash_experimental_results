@@ -1,0 +1,7 @@
+1460-iTerm2,3637-qutebrowser
+setup.py,setup.py,\tools\ply\ply-3.4\setup.py,\setup.py,20,64,4
+setup.py,setup.py,\api\library\python\iterm2\setup.py,\setup.py,33,64,6
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\doc\extapi\conf.py,39,36,19
+app.py,app.py,\api\library\python\iterm2\iterm2\app.py,\qutebrowser\app.py,415,547,8
+prompt.py,prompt.py,\api\library\python\iterm2\iterm2\prompt.py,\qutebrowser\mainwindow\prompt.py,96,580,4
+util.py,util.py,\api\library\python\iterm2\iterm2\util.py,\qutebrowser\completion\models\util.py,241,20,1

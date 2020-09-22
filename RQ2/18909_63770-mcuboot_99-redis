@@ -1,0 +1,5 @@
+63770-mcuboot,99-redis
+sha256.h,sha256.h,\boot\bootutil\include\bootutil\sha256.h,\src\sha256.h,79,17,2
+config.h,config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,\src\config.h,24,149,4
+sha256.c,sha256.c,\ext\tinycrypt\lib\source\sha256.c,\src\sha256.c,138,120,15
+sha256.h,sha256.h,\ext\tinycrypt\lib\include\tinycrypt\sha256.h,\src\sha256.h,24,17,3

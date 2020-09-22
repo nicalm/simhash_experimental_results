@@ -1,0 +1,15 @@
+4014-kanboard,8874-collectd
+functions.php,functions.php,\app\functions.php,\contrib\php-collection\functions.php,129,646,36
+index.php,index.php,\app\Template\action\index.php,\contrib\php-collection\index.php,78,275,5
+index.php,index.php,\app\Template\auth\index.php,\contrib\php-collection\index.php,32,275,0
+index.php,index.php,\app\Template\category\index.php,\contrib\php-collection\index.php,40,275,5
+index.php,index.php,\app\Template\column\index.php,\contrib\php-collection\index.php,63,275,4
+index.php,index.php,\app\Template\custom_filter\index.php,\contrib\php-collection\index.php,57,275,5
+index.php,index.php,\app\Template\group\index.php,\contrib\php-collection\index.php,65,275,0
+index.php,index.php,\app\Template\project_permission\index.php,\contrib\php-collection\index.php,17,275,0
+index.php,index.php,\app\Template\project_tag\index.php,\contrib\php-collection\index.php,37,275,5
+index.php,index.php,\app\Template\search\index.php,\contrib\php-collection\index.php,41,275,0
+index.php,index.php,\app\Template\swimlane\index.php,\contrib\php-collection\index.php,25,275,0
+index.php,index.php,\app\Template\tag\index.php,\contrib\php-collection\index.php,29,275,5
+index.php,index.php,\vendor\christian-riesen\otp\example\index.php,\contrib\php-collection\index.php,65,275,11
+index.php,index.php,\vendor\gregwar\captcha\demo\index.php,\contrib\php-collection\index.php,15,275,0

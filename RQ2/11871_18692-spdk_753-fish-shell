@@ -1,0 +1,6 @@
+18692-spdk,753-fish-shell
+trace.cpp,trace.cpp,\app\trace\trace.cpp,\src\trace.cpp,357,27,5
+env.h,env.h,\include\spdk\env.h,\src\env.h,212,178,9
+event.h,event.h,\include\spdk\event.h,\src\event.h,75,58,3
+event.h,event.h,\include\spdk_internal\event.h,\src\event.h,68,58,4
+common.h,common.h,\module\bdev\nvme\common.h,\src\common.h,84,572,7

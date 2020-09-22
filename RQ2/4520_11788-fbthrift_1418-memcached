@@ -1,0 +1,5 @@
+11788-fbthrift,1418-memcached
+util.h,util.h,\thrift\compiler\util.h,\util.h,91,20,2
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\util.h,25,20,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\util.h,17,20,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\util.h,29,20,0

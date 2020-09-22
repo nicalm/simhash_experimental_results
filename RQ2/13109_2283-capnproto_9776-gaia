@@ -1,0 +1,15 @@
+2283-capnproto,9776-gaia
+main.js,main.js,\doc\javascripts\main.js,\apps\settings\js\main.js,175,71,15
+main.js,main.js,\doc\javascripts\main.js,\dev_apps\test-keyboard-app\js\main.js,175,54,12
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\calendar\js\main.js,175,36,4
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\camera\js\main.js,175,54,7
+main.js,main.js,\doc\javascripts\main.js,\tv_apps\remote-control-client\js\main.js,175,85,20
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\clock\js\banner\main.js,175,67,10
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\clock\js\panels\alarm\main.js,175,17,2
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\clock\js\panels\alarm_edit\main.js,175,272,21
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\clock\js\panels\stopwatch\main.js,175,251,26
+main.js,main.js,\doc\javascripts\main.js,\disabled_apps\clock\js\panels\timer\main.js,175,221,25
+main.js,main.js,\doc\javascripts\main.js,\distros\spark\apps\studio\js\main.js,175,168,11
+main.js,main.js,\doc\javascripts\main.js,\distros\spark\apps\customizer\js\controllers\main.js,175,185,18
+main.js,main.js,\doc\javascripts\main.js,\distros\spark\apps\customizer\js\views\main.js,175,105,6
+main.js,main.js,\doc\javascripts\main.js,\apps\keyboard\test\marionette_disabled\apps\imetestapp\js\main.js,175,55,12

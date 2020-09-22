@@ -1,0 +1,13 @@
+140-neovim,3980-passenger
+version.c,version.c,\src\nvim\version.c,\src\cxx_supportlib\vendor-copy\libuv\src\version.c,2086,17,4
+loop.c,loop.c,\src\nvim\event\loop.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\loop.c,135,99,6
+process.c,process.c,\src\nvim\event\process.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\process.c,304,379,52
+signal.c,signal.c,\src\nvim\event\signal.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\signal.c,49,264,8
+stream.c,stream.c,\src\nvim\event\stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,119,1065,30
+queue.h,queue.h,\src\nvim\lib\queue.h,\src\cxx_supportlib\vendor-copy\libuv\src\queue.h,54,73,5
+dl.c,dl.c,\src\nvim\os\dl.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\dl.c,48,42,5
+fs.c,fs.c,\src\nvim\os\fs.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\fs.c,827,1008,159
+os.h,os.h,\src\nvim\os\os.h,\src\cxx_supportlib\vendor-modified\boost\predef\os.h,15,23,2
+process.c,process.c,\src\nvim\os\process.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\process.c,203,379,40
+signal.c,signal.c,\src\nvim\os\signal.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\signal.c,160,264,14
+tty.c,tty.c,\src\nvim\os\tty.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\tty.c,40,169,10

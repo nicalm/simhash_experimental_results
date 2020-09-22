@@ -1,0 +1,4 @@
+1811-otp,4984-jerryscript
+module.c,module.c,\erts\emulator\beam\module.c,\jerry-ext\module\module.c,179,211,38
+module.h,module.h,\erts\emulator\beam\module.h,\jerry-ext\include\jerryscript-ext\module.h,68,74,10
+common.h,common.h,\lib\crypto\c_src\common.h,\jerry-core\parser\js\common.h,24,78,5

@@ -1,0 +1,9 @@
+11788-fbthrift,6444-yara
+common.h,common.h,\thrift\compiler\common.h,\common.h,39,91,4
+util.h,util.h,\thrift\compiler\util.h,\tests\util.h,91,199,2
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\libyara\include\yara\utils.h,19,87,1
+stream.h,stream.h,\thrift\lib\py3\stream.h,\libyara\include\yara\stream.h,24,30,0
+types.h,types.h,\thrift\lib\py3\types.h,\libyara\include\yara\types.h,20,527,0
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\tests\util.h,25,199,0
+util.h,util.h,\thrift\compiler\lib\java\util.h,\tests\util.h,17,199,0
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\tests\util.h,29,199,1

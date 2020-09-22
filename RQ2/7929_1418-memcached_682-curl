@@ -1,0 +1,5 @@
+1418-memcached,682-curl
+crawler.c,crawler.c,\crawler.c,\docs\examples\crawler.c,566,170,31
+hash.c,hash.c,\hash.c,\lib\hash.c,18,242,5
+util.c,util.c,\util.c,\tests\server\util.c,193,375,39
+util.h,util.h,\util.h,\tests\server\util.h,20,29,2

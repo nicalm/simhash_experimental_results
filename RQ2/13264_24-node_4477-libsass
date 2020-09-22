@@ -1,0 +1,5 @@
+24-node,4477-libsass
+context.h,context.h,\deps\brotli\c\common\context.h,\include\sass\context.h,143,117,2
+util.cpp,util.cpp,\deps\icu-small\source\common\util.cpp,\src\util.cpp,204,522,48
+encode.h,encode.h,\deps\brotli\c\include\brotli\encode.h,\src\b64\encode.h,65,55,2
+base.h,base.h,\deps\openssl\openssl\test\ossl_shim\include\openssl\base.h,\include\sass\base.h,66,63,3

@@ -1,0 +1,13 @@
+548-ruby,91-bitcoin
+node.h,node.h,\node.h,\src\interfaces\node.h,403,120,4
+siphash.h,siphash.h,\siphash.h,\src\crypto\siphash.h,41,19,3
+error.h,error.h,\internal\error.h,\src\util\error.h,120,21,1
+hash.h,hash.h,\internal\hash.h,\src\hash.h,189,153,30
+hash.h,hash.h,\internal\hash.h,\src\secp256k1\src\hash.h,189,27,1
+string.h,string.h,\internal\string.h,\src\util\string.h,108,34,11
+time.h,time.h,\internal\time.h,\src\util\time.h,18,19,1
+util.h,util.h,\internal\util.h,\src\rpc\util.h,15,173,1
+util.h,util.h,\internal\util.h,\src\secp256k1\src\util.h,15,99,2
+util.h,util.h,\include\ruby\util.h,\src\rpc\util.h,62,173,4
+util.h,util.h,\include\ruby\util.h,\src\secp256k1\src\util.h,62,99,17
+sha1.h,sha1.h,\ext\digest\sha1\sha1.h,\src\crypto\sha1.h,22,18,1

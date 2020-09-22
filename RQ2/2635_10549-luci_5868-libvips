@@ -1,0 +1,4 @@
+10549-luci,5868-libvips
+binary.c,binary.c,\libs\luci-lib-nixio\src\binary.c,\libvips\arithmetic\binary.c,250,52,4
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\libvips\iofuncs\util.c,81,1294,23
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\libvips\iofuncs\util.c,261,1294,49

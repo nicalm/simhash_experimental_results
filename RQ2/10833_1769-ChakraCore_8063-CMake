@@ -1,0 +1,12 @@
+1769-ChakraCore,8063-CMake
+stdafx.h,stdafx.h,\bin\ch\stdafx.h,\Tests\MFC\mfc1\stdafx.h,295,42,13
+stdafx.h,stdafx.h,\bin\GCStress\stdafx.h,\Tests\MFC\mfc1\stdafx.h,23,42,2
+stdafx.h,stdafx.h,\bin\NativeTests\stdafx.h,\Tests\MFC\mfc1\stdafx.h,35,42,5
+test3.js,test3.js,\test\Optimizer\test3.js,\Tests\JavascriptCoverage\test3.js,106,34,9
+test.js,test.js,\test\TaggedFloats\test.js,\Tests\JavascriptCoverage\test.js,12715,49,9
+common.h,common.h,\lib\wabt\src\common.h,\Utilities\cmliblzma\liblzma\common\common.h,324,136,8
+internal.h,internal.h,\pal\src\safecrt\internal.h,\Utilities\cmexpat\lib\internal.h,712,44,20
+internal.h,internal.h,\pal\src\safecrt\internal.h,\Utilities\cmlibuv\src\unix\internal.h,712,258,39
+internal.h,internal.h,\pal\src\safecrt\internal.h,\Utilities\cmlibuv\src\win\internal.h,712,184,11
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\Utilities\cmjsoncpp\include\json\config.h,247,130,26
+debug.h,debug.h,\pal\src\include\pal\debug.h,\Utilities\cmzstd\lib\common\debug.h,18,39,4

@@ -1,0 +1,5 @@
+10395-jitsi,91-bitcoin
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\src\index\base.h,66,44,1
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\src\primitives\block.h,71,109,1
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\src\leveldb\table\block.h,71,26,1
+check.h,check.h,\src\native\windows\setup\include\lzma\check.h,\src\util\check.h,23,21,1

@@ -1,0 +1,12 @@
+1123-envoy,2202-qBittorrent
+server.h,server.h,\source\server\server.h,\src\base\http\server.h,260,31,4
+server.h,server.h,\test\integration\server.h,\src\base\http\server.h,302,31,4
+global.h,global.h,\test\test_common\global.h,\src\base\global.h,55,38,5
+connection.h,connection.h,\include\envoy\network\connection.h,\src\base\http\connection.h,90,30,3
+connection.h,connection.h,\include\envoy\ssl\connection.h,\src\base\http\connection.h,33,30,3
+types.h,types.h,\include\envoy\upstream\types.h,\src\base\http\types.h,31,80,7
+logger.h,logger.h,\source\common\common\logger.h,\src\base\logger.h,202,63,7
+connection.h,connection.h,\source\server\config_validation\connection.h,\src\base\http\connection.h,19,30,3
+server.h,server.h,\source\server\config_validation\server.h,\src\base\http\server.h,157,31,4
+connection.h,connection.h,\test\mocks\network\connection.h,\src\base\http\connection.h,154,30,3
+utils.h,utils.h,\source\extensions\filters\network\zookeeper_proxy\utils.h,\src\gui\utils.h,29,30,3

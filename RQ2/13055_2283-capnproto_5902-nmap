@@ -1,0 +1,3 @@
+2283-capnproto,5902-nmap
+blob.h,blob.h,\c++\src\capnp\blob.h,\libdnet-stripped\include\dnet\blob.h,137,33,1
+http.h,http.h,\c++\src\kj\compat\http.h,\ncat\http.h,398,128,8

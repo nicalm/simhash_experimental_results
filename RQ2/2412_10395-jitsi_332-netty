@@ -1,0 +1,2 @@
+10395-jitsi,332-netty
+Base64.java,Base64.java,\src\net\java\sip\communicator\util\Base64.java,\codec\src\main\java\io\netty\handler\codec\base64\Base64.java,282,307,47

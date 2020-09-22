@@ -1,0 +1,5 @@
+3405-libevent,60276-esp-homekit-devices
+visibility.h,visibility.h,\include\event2\visibility.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\visibility.h,32,40,10
+visibility.h,visibility.h,\include\event2\visibility.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\visibility.h,32,40,8
+visibility.h,visibility.h,\include\event2\visibility.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\visibility.h,32,40,10
+visibility.h,visibility.h,\include\event2\visibility.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\visibility.h,32,40,8

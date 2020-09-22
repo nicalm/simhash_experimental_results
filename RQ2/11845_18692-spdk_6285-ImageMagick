@@ -1,0 +1,10 @@
+18692-spdk,6285-ImageMagick
+blob.h,blob.h,\include\spdk\blob.h,\MagickCore\blob.h,190,66,5
+log.h,log.h,\include\spdk\log.h,\MagickCore\log.h,41,65,5
+log.h,log.h,\include\spdk_internal\log.h,\MagickCore\log.h,57,65,3
+memory.c,memory.c,\lib\env_dpdk\memory.c,\MagickCore\memory.c,991,792,129
+log.c,log.c,\lib\log\log.c,\MagickCore\log.c,153,1233,39
+thread.c,thread.c,\lib\thread\thread.c,\MagickCore\thread.c,1021,106,25
+string.c,string.c,\lib\util\string.c,\MagickCore\string.c,339,1281,99
+identify.c,identify.c,\examples\nvme\identify\identify.c,\MagickCore\identify.c,1566,1358,159
+identify.c,identify.c,\examples\nvme\identify\identify.c,\MagickWand\identify.c,1566,793,118

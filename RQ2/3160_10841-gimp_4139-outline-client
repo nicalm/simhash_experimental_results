@@ -1,0 +1,7 @@
+10841-gimp,4139-outline-client
+errors.h,errors.h,\app\errors.h,\third_party\shadowsocks-libev\libcork\include\libcork\helpers\errors.h,15,75,2
+test-core.c,test-core.c,\app\tests\test-core.c,\third_party\shadowsocks-libev\libcork\tests\test-core.c,172,944,22
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\third_party\shadowsocks-libev\src\utils.c,303,447,55
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\third_party\sodium\src\libsodium\sodium\utils.c,303,668,77
+print.c,print.c,\plug-ins\print\print.c,\third_party\badvpn\ncd\modules\print.c,407,123,29
+types.h,types.h,\plug-ins\selection-to-path\types.h,\third_party\shadowsocks-libev\libcork\include\libcork\core\types.h,92,55,4

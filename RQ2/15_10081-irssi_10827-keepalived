@@ -1,0 +1,3 @@
+10081-irssi,10827-keepalived
+signals.c,signals.c,\src\core\signals.c,\lib\signals.c,310,459,64
+signals.h,signals.h,\src\core\signals.h,\lib\signals.h,49,34,1

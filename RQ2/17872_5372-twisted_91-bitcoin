@@ -1,0 +1,11 @@
+5372-twisted,91-bitcoin
+address.py,address.py,\src\twisted\internet\address.py,\test\functional\test_framework\address.py,82,72,0
+util.py,util.py,\src\twisted\python\util.py,\test\functional\test_framework\util.py,495,395,17
+util.py,util.py,\src\twisted\spread\util.py,\test\functional\test_framework\util.py,115,395,4
+util.py,util.py,\src\twisted\trial\util.py,\test\functional\test_framework\util.py,174,395,14
+script.py,script.py,\src\twisted\web\script.py,\test\functional\test_framework\script.py,97,541,2
+util.py,util.py,\src\twisted\web\util.py,\test\functional\test_framework\util.py,144,395,1
+test_runner.py,test_runner.py,\src\twisted\trial\test\test_runner.py,\test\functional\test_runner.py,539,520,8
+test_runner.py,test_runner.py,\src\twisted\trial\test\test_runner.py,\test\fuzz\test_runner.py,539,145,4
+test_runner.py,test_runner.py,\src\twisted\application\runner\test\test_runner.py,\test\functional\test_runner.py,213,520,5
+test_runner.py,test_runner.py,\src\twisted\application\runner\test\test_runner.py,\test\fuzz\test_runner.py,213,145,7

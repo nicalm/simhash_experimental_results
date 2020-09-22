@@ -1,0 +1,11 @@
+1485-gvisor,3980-passenger
+index.js,index.js,\benchmarks\workloads\node\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,23,31,1
+index.js,index.js,\benchmarks\workloads\node\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,23,286,3
+index.js,index.js,\benchmarks\workloads\node\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,23,71,3
+index.js,index.js,\benchmarks\workloads\node\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,23,71,3
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,27,31,0
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,27,286,6
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,27,71,6
+index.js,index.js,\benchmarks\workloads\node_template\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,27,71,6
+main.rb,main.rb,\benchmarks\workloads\ruby_template\main.rb,\src\ruby_supportlib\phusion_passenger\config\main.rb,22,140,5
+main.rb,main.rb,\benchmarks\workloads\ruby_template\main.rb,\src\ruby_supportlib\phusion_passenger\standalone\main.rb,22,74,5

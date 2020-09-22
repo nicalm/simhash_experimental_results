@@ -1,0 +1,7 @@
+13324-librenms,1529-harbor
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,252,17,1
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,252,42,3
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,252,53,1
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,252,44,1
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,252,60,4
+__init__.py,__init__.py,\LibreNMS\__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,252,17,1

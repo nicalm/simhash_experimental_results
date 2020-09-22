@@ -1,0 +1,5 @@
+464-gentelella,9088-httpd
+prettify.js,prettify.js,\vendors\gauge.js\assets\prettify.js,\docs\manual\style\scripts\prettify.js,28,1092,0
+prettify.min.js,prettify.min.js,\vendors\google-code-prettify\bin\prettify.min.js,\docs\manual\style\scripts\prettify.min.js,30,122,0
+prettify.js,prettify.js,\vendors\google-code-prettify\src\prettify.js,\docs\manual\style\scripts\prettify.js,1082,1092,952
+prettify.min.js,prettify.min.js,\vendors\select2\docs\vendor\js\prettify.min.js,\docs\manual\style\scripts\prettify.min.js,28,122,0

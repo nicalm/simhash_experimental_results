@@ -1,0 +1,13 @@
+1541-h2o,6883-Sigil
+util.c,util.c,\lib\core\util.c,\internal\gumbo\util.c,769,49,16
+compress.c,compress.c,\lib\handler\compress.c,\3rdparty\zlib\compress.c,128,47,8
+example.c,example.c,\deps\hiredis\examples\example.c,\3rdparty\zlib\test\example.c,57,441,12
+error.c,error.c,\deps\mruby\src\error.c,\internal\gumbo\error.c,403,221,38
+util.h,util.h,\deps\picotls\t\util.h,\internal\gumbo\util.h,247,48,16
+parser.c,parser.c,\deps\yaml\src\parser.c,\internal\gumbo\parser.c,967,3936,128
+compress.c,compress.c,\lib\handler\configurator\compress.c,\3rdparty\zlib\compress.c,125,47,7
+error.h,error.h,\deps\mruby\include\mruby\error.h,\internal\gumbo\error.h,32,114,1
+util.c,util.c,\t\00unit\lib\core\util.c,\internal\gumbo\util.c,203,49,11
+compress.c,compress.c,\t\00unit\lib\handler\compress.c,\3rdparty\zlib\compress.c,87,47,7
+example.c,example.c,\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\src\example.c,\3rdparty\zlib\test\example.c,16,441,5
+example.c,example.c,\deps\mruby\examples\mrbgems\c_extension_example\src\example.c,\3rdparty\zlib\test\example.c,16,441,5

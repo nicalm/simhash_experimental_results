@@ -1,0 +1,12 @@
+222-prometheus,7747-Attendize
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue\src\index.js,1022,22,2
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue-resource\src\index.js,1022,38,11
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue\src\filters\index.js,1022,71,14
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue\src\observer\index.js,1022,125,30
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue\src\transition\index.js,1022,35,5
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue-resource\src\http\index.js,1022,74,12
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue-resource\src\url\index.js,1022,78,19
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue\src\directives\public\index.js,1022,24,1
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue-resource\src\http\client\index.js,1022,39,12
+index.js,index.js,\web\ui\static\js\graph\index.js,\public\vendor\vue\src\directives\public\model\index.js,1022,67,11
+bootstrap.js,bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,\public\vendor\bootstrap\dist\js\bootstrap.js,3262,1388,218

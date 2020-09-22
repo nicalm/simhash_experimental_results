@@ -1,0 +1,9 @@
+13470-tigervnc,1366-gradle
+Request.java,Request.java,\java\com\jcraft\jsch\Request.java,\subprojects\core\src\main\java\org\gradle\process\internal\worker\request\Request.java,38,26,6
+Configuration.java,Configuration.java,\java\com\tigervnc\rfb\Configuration.java,\subprojects\core-api\src\main\java\org\gradle\api\artifacts\Configuration.java,194,76,3
+Configuration.java,Configuration.java,\java\com\tigervnc\rfb\Configuration.java,\subprojects\dependency-management\src\main\java\org\gradle\internal\component\external\descriptor\Configuration.java,194,47,11
+Cursor.java,Cursor.java,\java\com\tigervnc\rfb\Cursor.java,\subprojects\logging\src\main\java\org\gradle\internal\logging\console\Cursor.java,16,59,3
+Decoder.java,Decoder.java,\java\com\tigervnc\rfb\Decoder.java,\subprojects\messaging\src\main\java\org\gradle\internal\serialize\Decoder.java,64,21,1
+FileUtils.java,FileUtils.java,\java\com\tigervnc\vncviewer\FileUtils.java,\subprojects\base-services\src\main\java\org\gradle\internal\FileUtils.java,55,128,15
+Parameters.java,Parameters.java,\java\com\tigervnc\vncviewer\Parameters.java,\subprojects\launcher\src\main\java\org\gradle\launcher\cli\Parameters.java,469,27,7
+Compression.java,Compression.java,\java\com\jcraft\jsch\jcraft\Compression.java,\subprojects\core\src\main\java\org\gradle\api\tasks\bundling\Compression.java,101,22,4

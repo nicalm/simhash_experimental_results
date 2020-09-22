@@ -1,0 +1,12 @@
+2116-libgit2,981-numpy
+common.c,common.c,\examples\common.c,\numpy\core\src\multiarray\common.c,194,698,40
+common.h,common.h,\examples\common.h,\numpy\core\src\multiarray\common.h,74,192,7
+alloc.c,alloc.c,\src\alloc.c,\numpy\core\src\multiarray\alloc.c,25,216,9
+alloc.h,alloc.h,\src\alloc.h,\numpy\core\src\multiarray\alloc.h,16,27,1
+buffer.c,buffer.c,\src\buffer.c,\numpy\core\src\multiarray\buffer.c,790,877,158
+common.h,common.h,\src\common.h,\numpy\core\src\multiarray\common.h,114,192,17
+common.h,common.h,\include\git2\common.h,\numpy\core\src\multiarray\common.h,103,192,11
+buffer.c,buffer.c,\tests\blame\buffer.c,\numpy\core\src\multiarray\buffer.c,149,877,16
+buffer.c,buffer.c,\tests\core\buffer.c,\numpy\core\src\multiarray\buffer.c,906,877,71
+alloc.h,alloc.h,\include\git2\sys\alloc.h,\numpy\core\src\multiarray\alloc.h,19,27,1
+convert.c,convert.c,\tests\object\raw\convert.c,\numpy\core\src\multiarray\convert.c,78,455,9

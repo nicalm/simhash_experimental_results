@@ -1,0 +1,13 @@
+5868-libvips,8063-CMake
+rename.c,rename.c,\libvips\deprecated\rename.c,\Utilities\cmcurl\lib\rename.c,602,29,5
+base64.c,base64.c,\libvips\iofuncs\base64.c,\Utilities\cmcurl\lib\base64.c,162,182,27
+error.c,error.c,\libvips\iofuncs\error.c,\Utilities\cmlibuv\src\win\error.c,530,135,12
+stream.c,stream.c,\libvips\iofuncs\stream.c,\Utilities\cmlibuv\src\unix\stream.c,82,1132,17
+stream.c,stream.c,\libvips\iofuncs\stream.c,\Utilities\cmlibuv\src\win\stream.c,82,174,7
+threadpool.c,threadpool.c,\libvips\iofuncs\threadpool.c,\Utilities\cmlibuv\src\threadpool.c,545,267,44
+util.c,util.c,\libvips\iofuncs\util.c,\Utilities\cmlibuv\src\win\util.c,1294,1300,168
+debug.h,debug.h,\libvips\include\vips\debug.h,\Utilities\cmzstd\lib\common\debug.h,37,39,11
+internal.h,internal.h,\libvips\include\vips\internal.h,\Utilities\cmexpat\lib\internal.h,153,44,8
+internal.h,internal.h,\libvips\include\vips\internal.h,\Utilities\cmlibuv\src\unix\internal.h,153,258,5
+internal.h,internal.h,\libvips\include\vips\internal.h,\Utilities\cmlibuv\src\win\internal.h,153,184,5
+util.h,util.h,\libvips\include\vips\util.h,\Utilities\cmlibrhash\librhash\util.h,230,23,9

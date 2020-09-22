@@ -1,0 +1,12 @@
+2909-mongoose,461-vim
+main.c,main.c,\examples\CC3200\main.c,\src\main.c,249,3234,49
+main.c,main.c,\examples\NXP_K64\main.c,\src\main.c,131,3234,19
+main.c,main.c,\examples\STM32F4_CC3100\main.c,\src\main.c,124,3234,29
+crypt.c,crypt.c,\test\ccgi-1.2\crypt.c,\src\crypt.c,107,398,14
+main.c,main.c,\examples\ESP32_IDF\main\main.c,\src\main.c,75,3234,13
+main.c,main.c,\examples\nRF51\http\main.c,\src\main.c,64,3234,14
+main.c,main.c,\examples\nRF52\http\main.c,\src\main.c,66,3234,15
+main.c,main.c,\examples\CC3200\ccs\MG_hello\main.c,\src\main.c,192,3234,39
+main.c,main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,\src\main.c,142,3234,27
+main.c,main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,\src\main.c,129,3234,24
+main.c,main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,\src\main.c,147,3234,25

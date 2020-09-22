@@ -1,0 +1,4 @@
+506-ghidra,551-FFmpeg
+types.h,types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\compat\avisynth\avs\types.h,280,16,5
+getopt.c,getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,\compat\getopt.c,637,48,19
+types.h,types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,\compat\avisynth\avs\types.h,161,16,5

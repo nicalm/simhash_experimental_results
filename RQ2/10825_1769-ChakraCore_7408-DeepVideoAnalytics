@@ -1,0 +1,5 @@
+1769-ChakraCore,7408-DeepVideoAnalytics
+default.js,default.js,\test\DebuggerCommon\default.js,\server\dva\static\rest_framework\js\default.js,288,49,7
+default.js,default.js,\test\DebuggerCommon\default.js,\server\dvaapp\static\plugins\ckeditor\plugins\pastefromword\filter\default.js,288,29,0
+default.js,default.js,\test\es6\default.js,\server\dva\static\rest_framework\js\default.js,544,49,8
+default.js,default.js,\test\es6\default.js,\server\dvaapp\static\plugins\ckeditor\plugins\pastefromword\filter\default.js,544,29,0

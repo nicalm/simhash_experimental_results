@@ -1,0 +1,7 @@
+6773-server,754-folly
+filter.h,filter.h,\storage\connect\filter.h,\folly\experimental\pushmi\o\filter.h,86,54,5
+json.cpp,json.cpp,\storage\connect\json.cpp,\folly\json.cpp,1061,812,146
+json.h,json.h,\storage\connect\json.h,\folly\json.h,227,76,6
+tap.h,tap.h,\unittest\mytap\tap.h,\folly\experimental\pushmi\o\tap.h,38,101,1
+setup.py,setup.py,\storage\mroonga\vendor\groonga\bindings\python\ql\setup.py,\folly\python\setup.py,15,25,1
+filter.h,filter.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\api\lzma\filter.h,\folly\experimental\pushmi\o\filter.h,47,54,0

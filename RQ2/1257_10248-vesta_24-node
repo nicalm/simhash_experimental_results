@@ -1,0 +1,17 @@
+10248-vesta,24-node
+app.js,app.js,\web\js\app.js,\test\fixtures\clustered-server\app.js,903,30,8
+events.js,events.js,\web\js\events.js,\lib\events.js,360,384,64
+events.js,events.js,\web\js\events.js,\tools\node_modules\eslint\node_modules\inquirer\lib\utils\events.js,360,45,2
+init.js,init.js,\web\js\init.js,\deps\npm\lib\init.js,502,79,9
+init.js,init.js,\web\js\init.js,\deps\npm\node_modules\promzard\example\npm-init\init.js,502,29,0
+templates.js,templates.js,\web\js\templates.js,\deps\npm\node_modules\chalk\templates.js,299,106,7
+templates.js,templates.js,\web\js\templates.js,\deps\v8\test\js-perf-test\Templates\templates.js,299,61,5
+templates.js,templates.js,\web\js\templates.js,\deps\v8\test\mjsunit\es6\templates.js,299,694,17
+templates.js,templates.js,\web\js\templates.js,\tools\node_modules\babel-eslint\node_modules\chalk\templates.js,299,106,7
+templates.js,templates.js,\web\js\templates.js,\tools\node_modules\eslint\node_modules\chalk\templates.js,299,106,7
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\deps\npm\node_modules\dotenv\lib\main.js,50,54,5
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\deps\npm\node_modules\qrcode-terminal\lib\main.js,50,84,6
+main.js,main.js,\web\js\iviewer\test\lightbox\main.js,\deps\npm\node_modules\qrcode-terminal\test\main.js,50,54,6
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\deps\npm\node_modules\dotenv\lib\main.js,94,54,9
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\deps\npm\node_modules\qrcode-terminal\lib\main.js,94,84,13
+main.js,main.js,\web\js\iviewer\test\lightbox-gallery\main.js,\deps\npm\node_modules\qrcode-terminal\test\main.js,94,54,8

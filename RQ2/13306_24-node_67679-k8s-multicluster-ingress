@@ -1,0 +1,9 @@
+24-node,67679-k8s-multicluster-ingress
+karma.conf.js,karma.conf.js,\deps\npm\node_modules\debug\karma.conf.js,\vendor\golang.org\x\tools\cmd\heapview\client\testing\karma.conf.js,23,18,6
+karma.conf.js,karma.conf.js,\deps\npm\node_modules\psl\karma.conf.js,\vendor\golang.org\x\tools\cmd\heapview\client\testing\karma.conf.js,25,18,5
+content.js,content.js,\deps\v8\tools\link_clicker.extension\content.js,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\shred\content.js,52,121,9
+common.py,common.py,\tools\gyp\pylib\gyp\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,314,21,1
+common.py,common.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,311,21,1
+typescript.js,typescript.js,\tools\node_modules\babel-eslint\node_modules\@babel\generator\lib\generators\typescript.js,\vendor\golang.org\x\tools\third_party\typescript\typescript.js,596,51390,102
+typescript.js,typescript.js,\tools\node_modules\babel-eslint\node_modules\@babel\types\lib\definitions\typescript.js,\vendor\golang.org\x\tools\third_party\typescript\typescript.js,405,51390,101
+typescript.js,typescript.js,\tools\node_modules\babel-eslint\node_modules\@babel\types\scripts\generators\typescript.js,\vendor\golang.org\x\tools\third_party\typescript\typescript.js,156,51390,26

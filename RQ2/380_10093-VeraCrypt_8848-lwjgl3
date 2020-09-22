@@ -1,0 +1,5 @@
+10093-VeraCrypt,8848-lwjgl3
+Common.h,Common.h,\src\Common\Common.h,\modules\lwjgl\driftfx\src\main\c\include\DriftFX\Common.h,70,27,1
+cpu.h,cpu.h,\src\Crypto\cpu.h,\modules\lwjgl\zstd\src\main\c\common\cpu.h,420,184,12
+Platform.h,Platform.h,\src\Platform\Platform.h,\modules\lwjgl\llvm\src\main\c\clang-c\Platform.h,18,27,1
+Platform.h,Platform.h,\src\Boot\Windows\Platform.h,\modules\lwjgl\llvm\src\main\c\clang-c\Platform.h,81,27,2

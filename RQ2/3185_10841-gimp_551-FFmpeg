@@ -1,0 +1,15 @@
+10841-gimp,551-FFmpeg
+bmp.c,bmp.c,\plug-ins\file-bmp\bmp.c,\libavcodec\bmp.c,167,316,15
+dds.c,dds.c,\plug-ins\file-dds\dds.c,\libavcodec\dds.c,424,614,38
+fits.c,fits.c,\plug-ins\file-fits\fits.c,\libavcodec\fits.c,970,166,36
+psd.c,psd.c,\plug-ins\file-psd\psd.c,\libavcodec\psd.c,311,465,27
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libavcodec\utils.c,303,1921,75
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libavdevice\utils.c,303,37,5
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libavformat\utils.c,303,4814,82
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libavresample\utils.c,303,647,62
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libavutil\utils.c,303,118,29
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libswscale\utils.c,303,2027,80
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\tests\utils.c,303,132,15
+utils.c,utils.c,\plug-ins\gimpressionist\utils.c,\libavcodec\tests\utils.c,303,16,5
+math.c,math.c,\plug-ins\selection-to-path\math.c,\compat\djgpp\math.c,96,24,8
+types.h,types.h,\plug-ins\selection-to-path\types.h,\compat\avisynth\avs\types.h,92,16,4

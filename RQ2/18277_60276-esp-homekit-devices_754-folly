@@ -1,0 +1,6 @@
+60276-esp-homekit-devices,754-folly
+json.h,json.h,\external_libs\homekit\src\json.h,\folly\json.h,17,76,1
+setup.py,setup.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfcrypt\setup.py,\folly\python\setup.py,29,25,1
+setup.py,setup.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\setup.py,\folly\python\setup.py,49,25,2
+setup.py,setup.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfcrypt\setup.py,\folly\python\setup.py,29,25,1
+setup.py,setup.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\setup.py,\folly\python\setup.py,49,25,2

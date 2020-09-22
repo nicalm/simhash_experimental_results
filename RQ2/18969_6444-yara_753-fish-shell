@@ -1,0 +1,6 @@
+6444-yara,753-fish-shell
+common.h,common.h,\common.h,\src\common.h,91,572,23
+conf.py,conf.py,\docs\conf.py,\sphinx_doc_src\conf.py,35,79,9
+exec.h,exec.h,\libyara\include\yara\exec.h,\src\exec.h,136,17,1
+parser.h,parser.h,\libyara\include\yara\parser.h,\src\parser.h,79,170,1
+proc.h,proc.h,\libyara\include\yara\proc.h,\src\proc.h,21,249,1

@@ -1,0 +1,7 @@
+10827-keepalived,12310-weechat
+main.c,main.c,\genhash\main.c,\src\gui\curses\headless\main.c,263,64,19
+main.c,main.c,\genhash\main.c,\src\gui\curses\normal\main.c,263,16,5
+logger.c,logger.c,\lib\logger.c,\src\plugins\logger\logger.c,173,875,49
+logger.h,logger.h,\lib\logger.h,\src\plugins\logger\logger.h,27,24,1
+main.c,main.c,\keepalived\core\main.c,\src\gui\curses\headless\main.c,1950,64,26
+main.c,main.c,\keepalived\core\main.c,\src\gui\curses\normal\main.c,1950,16,6

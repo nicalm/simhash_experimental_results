@@ -1,0 +1,6 @@
+11788-fbthrift,14239-neomutt
+common.h,common.h,\thrift\compiler\common.h,\test\address\common.h,39,17,1
+common.h,common.h,\thrift\compiler\common.h,\test\config\common.h,39,20,1
+common.h,common.h,\thrift\compiler\common.h,\test\rfc2047\common.h,39,15,1
+types.h,types.h,\thrift\lib\py3\types.h,\config\types.h,20,48,0
+handler.h,handler.h,\thrift\lib\py3\test\client_event_handlers\handler.h,\handler.h,19,19,0

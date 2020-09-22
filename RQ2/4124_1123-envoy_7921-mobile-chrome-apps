@@ -1,0 +1,4 @@
+1123-envoy,7921-mobile-chrome-apps
+client.py,client.py,\examples\grpc-bridge\client\client.py,\chrome-cordova\gcmServer\xmpp\client.py,43,223,0
+client.py,client.py,\test\extensions\filters\network\thrift_proxy\driver\client.py,\chrome-cordova\gcmServer\xmpp\client.py,224,223,5
+server.py,server.py,\test\extensions\filters\network\thrift_proxy\driver\server.py,\chrome-cordova\gcmServer\server.py,191,83,0

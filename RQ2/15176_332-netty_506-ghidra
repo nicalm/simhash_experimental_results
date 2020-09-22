@@ -1,0 +1,8 @@
+332-netty,506-ghidra
+ConstantPool.java,ConstantPool.java,\common\src\main\java\io\netty\util\ConstantPool.java,\Ghidra\Framework\SoftwareModeling\src\main\java\ghidra\program\model\lang\ConstantPool.java,60,94,14
+Version.java,Version.java,\common\src\main\java\io\netty\util\Version.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\store\Version.java,128,45,9
+TestUtils.java,TestUtils.java,\testsuite\src\main\java\io\netty\testsuite\util\TestUtils.java,\Ghidra\Framework\Generic\src\main\java\generic\test\TestUtils.java,175,179,39
+Buffer.java,Buffer.java,\transport-native-unix-common\src\main\java\io\netty\channel\unix\Buffer.java,\Ghidra\Framework\DB\src\main\java\db\Buffer.java,31,19,1
+HttpUtil.java,HttpUtil.java,\codec-http\src\main\java\io\netty\handler\codec\http\HttpUtil.java,\Ghidra\Framework\Generic\src\main\java\ghidra\net\http\HttpUtil.java,240,98,25
+XmlElement.java,XmlElement.java,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlElement.java,\Ghidra\Framework\Utility\src\main\java\ghidra\xml\XmlElement.java,64,16,1
+Attribute.java,Attribute.java,\codec-http\src\main\java\io\netty\handler\codec\http\multipart\Attribute.java,\Ghidra\Framework\Generic\src\main\java\ghidra\util\graph\attributes\Attribute.java,23,36,1

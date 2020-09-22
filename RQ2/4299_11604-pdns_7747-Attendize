@@ -1,0 +1,10 @@
+11604-pdns,7747-Attendize
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\public\vendor\jquery\dist\jquery.js,7102,6188,5385
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\public\vendor\jquery\src\jquery.js,7102,35,2
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\public\vendor\jquery-backstretch\libs\jquery\jquery.js,7102,6563,4568
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\public\vendor\moment\moment.js,2690,3064,2628
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\public\vendor\moment\src\moment.js,2690,60,0
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\public\vendor\moment\src\lib\moment\moment.js,2690,25,3
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\public\vendor\moment\moment.js,2389,3064,1108
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\public\vendor\moment\src\moment.js,2389,60,1
+moment.js,moment.js,\pdns\recursordist\html\js\moment.js,\public\vendor\moment\src\lib\moment\moment.js,2389,25,3

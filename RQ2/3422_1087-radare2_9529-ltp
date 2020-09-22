@@ -1,0 +1,13 @@
+1087-radare2,9529-ltp
+dict.h,dict.h,\libr\include\sdb\dict.h,\thirdparty\dynet\dynet\dict.h,35,68,1
+dict.h,dict.h,\shlr\sdb\src\dict.h,\thirdparty\dynet\dynet\dict.h,35,68,1
+config.h,config.h,\shlr\zip\zip\config.h,\src\srl\include\base\config.h,71,58,1
+config.h,config.h,\shlr\zip\zip\config.h,\thirdparty\jsoncpp\include\json\config.h,71,123,9
+net.h,net.h,\shlr\grub\include\grub\net.h,\thirdparty\boost\include\boost\predef\os\bsd\net.h,28,51,1
+parser.h,parser.h,\shlr\grub\include\grub\parser.h,\src\parser\parser.h,69,79,6
+parser.h,parser.h,\shlr\grub\include\grub\parser.h,\src\parser.n\parser.h,69,105,4
+mips.h,mips.h,\libr\asm\arch\include\elf\mips.h,\thirdparty\boost\include\boost\predef\architecture\mips.h,442,34,1
+mips.h,mips.h,\libr\asm\arch\include\opcode\mips.h,\thirdparty\boost\include\boost\predef\architecture\mips.h,579,34,1
+ppc.h,ppc.h,\libr\asm\arch\include\opcode\ppc.h,\thirdparty\boost\include\boost\predef\architecture\ppc.h,90,31,1
+ppc.h,ppc.h,\libr\asm\arch\include\opcode\ppc.h,\thirdparty\boost\include\boost\predef\hardware\simd\ppc.h,90,24,1
+sparc.h,sparc.h,\libr\asm\arch\include\opcode\sparc.h,\thirdparty\boost\include\boost\predef\architecture\sparc.h,80,24,0

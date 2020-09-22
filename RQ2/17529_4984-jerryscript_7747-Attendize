@@ -1,0 +1,7 @@
+4984-jerryscript,7747-Attendize
+array.js,array.js,\tests\jerry\array.js,\public\vendor\vue\src\observer\array.js,128,60,1
+for.js,for.js,\tests\jerry\for.js,\public\vendor\vue\src\directives\public\for.js,49,421,11
+class.js,class.js,\tests\jerry\es2015\class.js,\public\vendor\vue\src\directives\internal\class.js,187,72,17
+directive.js,directive.js,\tests\jerry\es2015\directive.js,\public\vendor\vue\src\directive.js,17,216,3
+directive.js,directive.js,\tests\jerry\es2015\directive.js,\public\vendor\vue\src\parsers\directive.js,17,122,2
+set.js,set.js,\tests\jerry\es2015\set.js,\public\vendor\moment\src\lib\locale\set.js,88,34,1

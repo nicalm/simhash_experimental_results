@@ -1,0 +1,15 @@
+15780-OpenJK,60276-esp-homekit-devices
+port.h,port.h,\code\mp3code\port.h,\external_libs\homekit\src\port.h,36,28,4
+port.h,port.h,\codemp\mp3code\port.h,\external_libs\homekit\src\port.h,36,28,4
+md5.h,md5.h,\codemp\qcommon\md5.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\md5.h,21,17,0
+md5.h,md5.h,\codemp\qcommon\md5.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\openssl\md5.h,21,35,0
+md5.h,md5.h,\codemp\qcommon\md5.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\md5.h,21,72,0
+md5.h,md5.h,\codemp\qcommon\md5.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\cyassl\ctaocrypt\md5.h,21,17,0
+md5.h,md5.h,\codemp\qcommon\md5.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\openssl\md5.h,21,35,0
+md5.h,md5.h,\codemp\qcommon\md5.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\md5.h,21,72,0
+compress.c,compress.c,\lib\zlib\compress.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,47,85,12
+compress.c,compress.c,\lib\zlib\compress.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\compress.c,47,85,12
+memory.h,memory.h,\code\qcommon\safe\memory.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,82,138,9
+memory.h,memory.h,\code\qcommon\safe\memory.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,82,138,9
+memory.h,memory.h,\codeJK2\qcommon\safe\memory.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,82,138,9
+memory.h,memory.h,\codeJK2\qcommon\safe\memory.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\wolfcrypt\memory.h,82,138,9

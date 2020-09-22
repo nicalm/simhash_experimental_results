@@ -1,0 +1,3 @@
+506-ghidra,8874-collectd
+types.h,types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\src\libcollectdclient\collectd\types.h,280,48,1
+types.h,types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,\src\libcollectdclient\collectd\types.h,161,48,1

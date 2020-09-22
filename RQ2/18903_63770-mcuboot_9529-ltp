@@ -1,0 +1,3 @@
+63770-mcuboot,9529-ltp
+config.h,config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,\src\srl\include\base\config.h,24,58,1
+config.h,config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,\thirdparty\jsoncpp\include\json\config.h,24,123,4

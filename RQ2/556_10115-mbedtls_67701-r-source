@@ -1,0 +1,7 @@
+10115-mbedtls,67701-r-source
+debug.c,debug.c,\library\debug.c,\src\main\debug.c,345,202,45
+md5.c,md5.c,\library\md5.c,\src\library\tools\src\md5.c,358,238,35
+platform.c,platform.c,\library\platform.c,\src\main\platform.c,235,2743,78
+version.c,version.c,\library\version.c,\src\main\version.c,23,107,7
+config.h,config.h,\include\mbedtls\config.h,\src\gnuwin32\fixed\h\config.h,143,267,3
+md5.h,md5.h,\include\mbedtls\md5.h,\src\library\tools\src\md5.h,73,64,16

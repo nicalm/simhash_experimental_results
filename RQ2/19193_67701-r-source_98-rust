@@ -1,0 +1,4 @@
+67701-r-source,98-rust
+test.c,test.c,\src\nmath\standalone\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,24,30,3
+test.c,test.c,\src\nmath\standalone\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,24,196,1
+test.c,test.c,\src\nmath\standalone\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,24,22,1

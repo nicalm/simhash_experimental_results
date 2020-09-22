@@ -1,0 +1,6 @@
+10314-ovs,3637-qutebrowser
+conf.py,conf.py,\Documentation\conf.py,\doc\extapi\conf.py,71,36,6
+setup.py,setup.py,\python\setup.py,\setup.py,71,64,8
+util.py,util.py,\python\ovs\util.py,\qutebrowser\completion\models\util.py,36,20,0
+util.py,util.py,\python\ovstest\util.py,\qutebrowser\completion\models\util.py,139,20,0
+error.py,error.py,\python\ovs\db\error.py,\qutebrowser\utils\error.py,16,35,2

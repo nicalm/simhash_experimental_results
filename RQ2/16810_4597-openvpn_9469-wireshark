@@ -1,0 +1,12 @@
+4597-openvpn,9469-wireshark
+buffer.c,buffer.c,\src\openvpn\buffer.c,\wsutil\buffer.c,1182,142,51
+buffer.h,buffer.h,\src\openvpn\buffer.h,\wsutil\buffer.h,771,45,6
+console.c,console.c,\src\openvpn\console.c,\ui\console.c,44,98,12
+console.h,console.h,\src\openvpn\console.h,\ui\console.h,36,15,3
+proto.c,proto.c,\src\openvpn\proto.c,\epan\proto.c,150,8986,57
+proto.h,proto.h,\src\openvpn\proto.h,\epan\proto.h,203,977,15
+socket.c,socket.c,\src\openvpn\socket.c,\wsutil\socket.c,3367,123,39
+socket.h,socket.h,\src\openvpn\socket.h,\wsutil\socket.h,919,42,11
+basic.h,basic.h,\src\tapctl\basic.h,\plugins\epan\unistim\basic.h,31,55,1
+tap.c,tap.c,\src\tapctl\tap.c,\epan\tap.c,904,458,124
+tap.h,tap.h,\src\tapctl\tap.h,\epan\tap.h,37,59,1

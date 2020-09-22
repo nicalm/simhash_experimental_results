@@ -1,0 +1,7 @@
+1193-mpv,548-ruby
+node.c,node.c,\misc\node.c,\node.c,115,1256,28
+io.c,io.c,\osdep\io.c,\io.c,638,9358,210
+io.h,io.h,\osdep\io.h,\internal\io.h,147,20,2
+io.h,io.h,\osdep\io.h,\include\ruby\io.h,147,128,13
+main.c,main.c,\player\main.c,\main.c,377,31,12
+internal.h,internal.h,\audio\out\internal.h,\internal.h,95,32,1

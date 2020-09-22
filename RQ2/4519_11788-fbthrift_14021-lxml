@@ -1,0 +1,9 @@
+11788-fbthrift,14021-lxml
+builder.py,builder.py,\build\fbcode_builder\getdeps\builder.py,\src\lxml\builder.py,553,85,8
+builder.py,builder.py,\build\fbcode_builder\getdeps\builder.py,\src\lxml\html\builder.py,553,97,0
+setup.py,setup.py,\thrift\lib\py\setup.py,\setup.py,54,168,4
+setup.py,setup.py,\thrift\lib\py3\setup.py,\setup.py,29,168,3
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\lxml\html\__init__.py,44,1099,11
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\src\lxml\isoschematron\__init__.py,44,154,3
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\lxml\html\__init__.py,108,1099,10
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\src\lxml\isoschematron\__init__.py,108,154,3

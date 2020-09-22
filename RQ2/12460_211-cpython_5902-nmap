@@ -1,0 +1,16 @@
+211-cpython,5902-nmap
+setup.py,setup.py,\setup.py,\ndiff\setup.py,1651,159,20
+setup.py,setup.py,\setup.py,\zenmap\setup.py,1651,333,26
+grammar.h,grammar.h,\Include\grammar.h,\libpcap\grammar.h,49,278,3
+getaddrinfo.c,getaddrinfo.c,\Modules\getaddrinfo.c,\nbase\getaddrinfo.c,522,103,31
+getnameinfo.c,getnameinfo.c,\Modules\getnameinfo.c,\nbase\getnameinfo.c,160,46,15
+getopt.c,getopt.c,\Python\getopt.c,\nbase\getopt.c,113,246,29
+getopt.c,getopt.c,\Python\getopt.c,\libpcap\missing\getopt.c,113,76,14
+textview.py,textview.py,\Lib\idlelib\textview.py,\zenmap\radialnet\bestwidgets\textview.py,105,72,1
+util.c,util.c,\Modules\_sqlite\util.c,\ncat\util.c,93,502,28
+util.h,util.h,\Modules\_sqlite\util.h,\ncat\util.h,16,72,2
+ndiff.py,ndiff.py,\Tools\scripts\ndiff.py,\ndiff\ndiff.py,67,1185,4
+setup.py,setup.py,\Tools\test2to3\setup.py,\ndiff\setup.py,22,159,2
+setup.py,setup.py,\Tools\test2to3\setup.py,\zenmap\setup.py,22,333,3
+setup.py,setup.py,\Lib\test\libregrtest\setup.py,\ndiff\setup.py,90,159,10
+setup.py,setup.py,\Lib\test\libregrtest\setup.py,\zenmap\setup.py,90,333,9

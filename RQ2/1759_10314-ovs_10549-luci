@@ -1,0 +1,10 @@
+10314-ovs,10549-luci
+colors.h,colors.h,\lib\colors.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\colors.h,16,96,0
+process.c,process.c,\lib\process.c,\libs\luci-lib-nixio\src\process.c,487,351,74
+sha1.c,sha1.c,\lib\sha1.c,\libs\luci-lib-nixio\axTLS\crypto\sha1.c,232,148,33
+sha1.c,sha1.c,\lib\sha1.c,\libs\luci-lib-px5g\src\library\sha1.c,232,445,44
+sha1.h,sha1.h,\lib\sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,30,30,1
+util.c,util.c,\lib\util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,1694,81,21
+util.c,util.c,\lib\util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,1694,261,52
+file.c,file.c,\ovsdb\file.c,\libs\luci-lib-nixio\src\file.c,384,355,53
+socket.c,socket.c,\datapath\linux\compat\socket.c,\libs\luci-lib-nixio\src\socket.c,27,113,3

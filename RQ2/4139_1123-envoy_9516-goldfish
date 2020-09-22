@@ -1,0 +1,7 @@
+1123-envoy,9516-goldfish
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\aws\ec2metadata\service.go,48,78,11
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\dynamodb\service.go,48,55,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\ec2\service.go,48,53,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\iam\service.go,48,53,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\s3\service.go,48,53,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\sts\service.go,48,53,9

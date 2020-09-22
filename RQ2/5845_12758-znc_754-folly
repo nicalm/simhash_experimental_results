@@ -1,0 +1,10 @@
+12758-znc,754-folly
+main.cpp,main.cpp,\src\main.cpp,\folly\logging\example\main.cpp,445,23,2
+main.cpp,main.cpp,\src\main.cpp,\folly\test\function_benchmark\main.cpp,445,301,47
+StringTest.cpp,StringTest.cpp,\test\StringTest.cpp,\folly\test\StringTest.cpp,207,1158,22
+StringTest.cpp,StringTest.cpp,\test\StringTest.cpp,\folly\gen\test\StringTest.cpp,207,315,20
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\folly\logging\example\main.cpp,35,23,2
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\folly\test\function_benchmark\main.cpp,35,301,2
+Config.h,Config.h,\include\znc\Config.h,\folly\portability\Config.h,128,16,1
+Utils.h,Utils.h,\include\znc\Utils.h,\folly\compression\Utils.h,175,37,7
+Utils.h,Utils.h,\include\znc\Utils.h,\folly\experimental\coro\Utils.h,175,33,10

@@ -1,0 +1,8 @@
+242-php-src,2578-calibre
+main.c,main.c,\main\main.c,\bypy\windows\main.c,2098,107,26
+winutil.c,winutil.c,\win32\winutil.c,\src\calibre\utils\windows\winutil.c,402,416,39
+util.c,util.c,\ext\phar\util.c,\bypy\linux\util.c,1635,196,32
+util.c,util.c,\ext\phar\util.c,\bypy\macos\util.c,1635,169,26
+util.c,util.c,\ext\phar\util.c,\bypy\windows\util.c,1635,328,47
+html.c,html.c,\ext\standard\html.c,\src\calibre\gui2\tweak_book\editor\syntax\html.c,1203,467,57
+tokenizer.c,tokenizer.c,\ext\tokenizer\tokenizer.c,\src\tinycss\tokenizer.c,209,430,39

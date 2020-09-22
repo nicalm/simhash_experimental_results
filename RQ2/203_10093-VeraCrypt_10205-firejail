@@ -1,0 +1,3 @@
+10093-VeraCrypt,10205-firejail
+cpu.c,cpu.c,\src\Crypto\cpu.c,\src\firejail\cpu.c,383,133,26
+cpu.c,cpu.c,\src\Crypto\cpu.c,\src\firemon\cpu.c,383,39,9

@@ -1,0 +1,5 @@
+2578-calibre,9975-hexchat
+util.c,util.c,\bypy\linux\util.c,\src\common\util.c,196,1287,35
+util.c,util.c,\bypy\macos\util.c,\src\common\util.c,169,1287,32
+util.c,util.c,\bypy\windows\util.c,\src\common\util.c,328,1287,49
+python.py,python.py,\src\calibre\gui2\tweak_book\editor\smarts\python.py,\plugins\python\python.py,54,399,4

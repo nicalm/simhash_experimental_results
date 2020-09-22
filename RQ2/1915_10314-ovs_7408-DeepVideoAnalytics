@@ -1,0 +1,6 @@
+10314-ovs,7408-DeepVideoAnalytics
+setup.py,setup.py,\python\setup.py,\client\setup.py,71,15,2
+setup.py,setup.py,\python\setup.py,\repos\lopq\python\setup.py,71,90,4
+tests.py,tests.py,\python\ovstest\tests.py,\repos\lopq\python\test\tests.py,168,177,0
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\deploy\compose\__init__.py,44,161,2
+__init__.py,__init__.py,\python\ovs\unixctl\__init__.py,\deploy\kube\__init__.py,44,256,2

@@ -1,0 +1,3 @@
+10841-gimp,86-netdata
+main.c,main.c,\app\main.c,\daemon\main.c,631,995,61
+signals.c,signals.c,\app\signals.c,\daemon\signals.c,101,209,9

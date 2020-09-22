@@ -1,0 +1,12 @@
+471-minio,7747-Attendize
+index.js,index.js,\browser\app\index.js,\public\vendor\vue\src\index.js,22,22,1
+index.js,index.js,\browser\app\index.js,\public\vendor\vue-resource\src\index.js,22,38,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue\src\filters\index.js,22,71,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue\src\observer\index.js,22,125,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue\src\transition\index.js,22,35,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue-resource\src\http\index.js,22,74,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue-resource\src\url\index.js,22,78,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue\src\directives\public\index.js,22,24,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue-resource\src\http\client\index.js,22,39,0
+index.js,index.js,\browser\app\index.js,\public\vendor\vue\src\directives\public\model\index.js,22,67,1
+mime.js,mime.js,\browser\app\js\mime.js,\public\vendor\vue-resource\src\http\mime.js,81,22,4

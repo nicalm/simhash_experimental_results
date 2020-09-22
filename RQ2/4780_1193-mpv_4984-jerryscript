@@ -1,0 +1,7 @@
+1193-mpv,4984-jerryscript
+common.c,common.c,\common\common.c,\jerry-core\parser\js\common.c,255,76,29
+common.h,common.h,\common\common.h,\jerry-core\parser\js\common.h,78,78,2
+main.c,main.c,\player\main.c,\targets\curie_bsp\jerry_app\quark\main.c,377,130,29
+common.c,common.c,\video\out\opengl\common.c,\jerry-core\parser\js\common.c,567,76,31
+common.h,common.h,\video\out\opengl\common.h,\jerry-core\parser\js\common.h,197,78,5
+common.h,common.h,\video\out\vulkan\common.h,\jerry-core\parser\js\common.h,27,78,6

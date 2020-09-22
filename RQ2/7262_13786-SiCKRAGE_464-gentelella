@@ -1,0 +1,8 @@
+13786-SiCKRAGE,464-gentelella
+webpack.config.js,webpack.config.js,\webpack.config.js,\vendors\raphael\webpack.config.js,155,50,14
+webpack.config.js,webpack.config.js,\webpack.config.js,\vendors\echarts\extension\webpack.config.js,155,16,6
+core.js,core.js,\src\js\core.js,\vendors\jquery\src\core.js,4792,305,85
+core.js,core.js,\src\js\core.js,\vendors\Chart.js\src\core\core.js,4792,68,15
+core.js,core.js,\src\js\core.js,\vendors\DateJS\src\core\core.js,4792,192,50
+core.js,core.js,\src\js\core.js,\vendors\parsleyjs\bower_components\jquery\src\core.js,4792,322,95
+core.js,core.js,\src\js\core.js,\vendors\select2\src\js\select2\core.js,4792,455,110

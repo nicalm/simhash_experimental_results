@@ -1,0 +1,6 @@
+10115-mbedtls,15780-OpenJK
+config.h,config.h,\include\mbedtls\config.h,\code\mp3code\config.h,143,74,3
+config.h,config.h,\include\mbedtls\config.h,\codemp\mp3code\config.h,143,74,3
+md5.h,md5.h,\include\mbedtls\md5.h,\codemp\qcommon\md5.h,73,21,0
+timing.h,timing.h,\include\mbedtls\timing.h,\code\qcommon\timing.h,38,37,9
+timing.h,timing.h,\include\mbedtls\timing.h,\codemp\qcommon\timing.h,38,37,9

@@ -1,0 +1,17 @@
+6974-openapi-generator,7736-wayne
+karma.conf.js,karma.conf.js,\samples\client\petstore\javascript-closure-angular\karma.conf.js,\src\frontend\src\karma.conf.js,27,28,12
+client.go,client.go,\samples\client\petstore\go\go-petstore\client.go,\src\backend\client\client.go,405,176,53
+response.go,response.go,\samples\client\petstore\go\go-petstore\response.go,\src\backend\models\response\response.go,20,107,6
+client.go,client.go,\samples\client\petstore\go\go-petstore-withXml\client.go,\src\backend\client\client.go,405,176,53
+response.go,response.go,\samples\client\petstore\go\go-petstore-withXml\response.go,\src\backend\models\response\response.go,20,107,6
+client.go,client.go,\samples\client\petstore\go-experimental\go-petstore\client.go,\src\backend\client\client.go,402,176,53
+response.go,response.go,\samples\client\petstore\go-experimental\go-petstore\response.go,\src\backend\models\response\response.go,20,107,6
+utils.go,utils.go,\samples\client\petstore\go-experimental\go-petstore\utils.go,\src\backend\util\allocator\utils.go,237,43,3
+api.go,api.go,\samples\server\petstore\go-api-server\go\api.go,\src\backend\controllers\base\api.go,57,125,9
+client.go,client.go,\samples\openapi3\client\petstore\go\go-petstore\client.go,\src\backend\client\client.go,407,176,53
+response.go,response.go,\samples\openapi3\client\petstore\go\go-petstore\response.go,\src\backend\models\response\response.go,20,107,6
+client.go,client.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\client.go,\src\backend\client\client.go,412,176,53
+response.go,response.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\response.go,\src\backend\models\response\response.go,20,107,6
+utils.go,utils.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\utils.go,\src\backend\util\allocator\utils.go,237,43,3
+karma.conf.js,karma.conf.js,\samples\client\petstore\typescript-angular-v6-provided-in-root\tests\default\src\karma.conf.js,\src\frontend\src\karma.conf.js,28,28,28
+karma.conf.js,karma.conf.js,\samples\client\petstore\typescript-angular-v7-provided-in-root\tests\default\src\karma.conf.js,\src\frontend\src\karma.conf.js,28,28,28

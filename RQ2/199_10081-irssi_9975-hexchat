@@ -1,0 +1,13 @@
+10081-irssi,9975-hexchat
+ignore.c,ignore.c,\src\core\ignore.c,\src\common\ignore.c,396,326,67
+ignore.h,ignore.h,\src\core\ignore.h,\src\common\ignore.h,39,32,3
+network.c,network.c,\src\core\network.c,\src\common\network.c,414,126,31
+network.h,network.h,\src\core\network.h,\src\common\network.h,51,19,3
+rawlog.c,rawlog.c,\src\core\rawlog.c,\src\fe-gtk\rawlog.c,189,122,28
+server.c,server.c,\src\fe-fuzz\server.c,\src\common\server.c,124,1542,16
+parse.c,parse.c,\src\lib-config\parse.c,\plugins\sysinfo\unix\parse.c,251,294,46
+ctcp.c,ctcp.c,\src\irc\core\ctcp.c,\src\common\ctcp.c,257,154,38
+irc.c,irc.c,\src\irc\core\irc.c,\plugins\fishlim\irc.c,368,29,4
+modes.c,modes.c,\src\irc\core\modes.c,\src\common\modes.c,700,686,131
+dcc.c,dcc.c,\src\irc\dcc\dcc.c,\src\common\dcc.c,432,2260,97
+dcc.h,dcc.h,\src\irc\dcc\dcc.h,\src\common\dcc.h,36,93,1

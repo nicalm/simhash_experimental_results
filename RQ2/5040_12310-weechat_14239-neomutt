@@ -1,0 +1,8 @@
+12310-weechat,14239-neomutt
+alias.c,alias.c,\src\plugins\alias\alias.c,\alias.c,512,511,147
+alias.h,alias.h,\src\plugins\alias\alias.h,\alias.h,28,31,4
+charset.c,charset.c,\src\plugins\charset\charset.c,\mutt\charset.c,452,662,110
+main.c,main.c,\src\gui\curses\headless\main.c,\main.c,64,1056,23
+main.c,main.c,\src\gui\curses\headless\main.c,\test\main.c,64,389,0
+main.c,main.c,\src\gui\curses\normal\main.c,\main.c,16,1056,5
+main.c,main.c,\src\gui\curses\normal\main.c,\test\main.c,16,389,0

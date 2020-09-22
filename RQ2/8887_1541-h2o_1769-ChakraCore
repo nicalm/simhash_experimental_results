@@ -1,0 +1,11 @@
+1541-h2o,1769-ChakraCore
+token.h,token.h,\include\h2o\token.h,\lib\wabt\src\token.h,40,91,2
+context.h,context.h,\deps\brotli\c\dec\context.h,\pal\src\include\pal\context.h,130,383,1
+context.h,context.h,\deps\brotli\c\enc\context.h,\pal\src\include\pal\context.h,84,383,6
+common.h,common.h,\deps\mruby\include\mruby\common.h,\lib\wabt\src\common.h,52,324,3
+debug.h,debug.h,\deps\mruby\include\mruby\debug.h,\pal\src\include\pal\debug.h,39,18,1
+error.h,error.h,\deps\mruby\include\mruby\error.h,\lib\wabt\src\error.h,32,32,3
+opcode.h,opcode.h,\deps\mruby\include\mruby\opcode.h,\lib\wabt\src\opcode.h,50,96,2
+range.h,range.h,\deps\mruby\include\mruby\range.h,\lib\wabt\src\range.h,44,15,2
+sprintf.c,sprintf.c,\deps\mruby\mrbgems\mruby-sprintf\src\sprintf.c,\pal\src\safecrt\sprintf.c,766,34,6
+build.py,build.py,\deps\picotls\deps\cifra\doc\build.py,\test\WasmSpec\testsuite\build.py,145,177,5

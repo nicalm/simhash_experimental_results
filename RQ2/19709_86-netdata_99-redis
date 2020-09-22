@@ -1,0 +1,5 @@
+86-netdata,99-redis
+log.c,log.c,\libnetdata\log\log.c,\deps\jemalloc\src\log.c,565,57,10
+log.c,log.c,\libnetdata\log\log.c,\deps\jemalloc\test\unit\log.c,565,150,16
+log.h,log.h,\libnetdata\log\log.h,\deps\jemalloc\include\jemalloc\internal\log.h,76,60,4
+min.c,min.c,\web\api\queries\min\min.c,\deps\lua\etc\min.c,41,30,3

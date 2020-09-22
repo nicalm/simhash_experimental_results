@@ -1,0 +1,6 @@
+2578-calibre,6444-yara
+conf.py,conf.py,\manual\conf.py,\docs\conf.py,113,35,6
+util.c,util.c,\bypy\linux\util.c,\tests\util.c,196,285,31
+util.c,util.c,\bypy\macos\util.c,\tests\util.c,169,285,24
+util.c,util.c,\bypy\windows\util.c,\tests\util.c,328,285,33
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\libyara\include\yara\utils.h,29,87,1

@@ -1,0 +1,17 @@
+15780-OpenJK,9529-ltp
+config.h,config.h,\code\mp3code\config.h,\src\srl\include\base\config.h,74,58,1
+config.h,config.h,\code\mp3code\config.h,\thirdparty\jsoncpp\include\json\config.h,74,123,17
+timing.h,timing.h,\code\qcommon\timing.h,\thirdparty\dynet\dynet\timing.h,37,17,4
+instance.h,instance.h,\codeJK2\icarus\instance.h,\src\ner\instance.h,54,106,3
+instance.h,instance.h,\codeJK2\icarus\instance.h,\src\parser\instance.h,54,246,3
+instance.h,instance.h,\codeJK2\icarus\instance.h,\src\parser.n\instance.h,54,48,3
+instance.h,instance.h,\codeJK2\icarus\instance.h,\src\postagger\instance.h,54,48,3
+instance.h,instance.h,\codeJK2\icarus\instance.h,\src\segmentor\instance.h,54,75,3
+instance.h,instance.h,\codemp\icarus\instance.h,\src\ner\instance.h,52,106,3
+instance.h,instance.h,\codemp\icarus\instance.h,\src\parser\instance.h,52,246,3
+instance.h,instance.h,\codemp\icarus\instance.h,\src\parser.n\instance.h,52,48,3
+instance.h,instance.h,\codemp\icarus\instance.h,\src\postagger\instance.h,52,48,3
+instance.h,instance.h,\codemp\icarus\instance.h,\src\segmentor\instance.h,52,75,3
+config.h,config.h,\codemp\mp3code\config.h,\src\srl\include\base\config.h,74,58,1
+config.h,config.h,\codemp\mp3code\config.h,\thirdparty\jsoncpp\include\json\config.h,74,123,17
+timing.h,timing.h,\codemp\qcommon\timing.h,\thirdparty\dynet\dynet\timing.h,37,17,4

@@ -1,0 +1,15 @@
+6285-ImageMagick,67701-r-source
+clipboard.c,clipboard.c,\coders\clipboard.c,\src\extra\graphapp\clipboard.c,222,67,15
+debug.c,debug.c,\coders\debug.c,\src\main\debug.c,144,202,19
+raw.c,raw.c,\coders\raw.c,\src\main\raw.c,426,326,39
+rgb.c,rgb.c,\coders\rgb.c,\src\extra\graphapp\rgb.c,1389,1367,12
+fourier.c,fourier.c,\MagickCore\fourier.c,\src\library\stats\src\fourier.c,1336,181,35
+image.c,image.c,\MagickCore\image.c,\src\extra\graphapp\image.c,2717,862,159
+list.c,list.c,\MagickCore\list.c,\src\main\list.c,652,84,15
+matrix.c,matrix.c,\MagickCore\matrix.c,\src\library\grid\src\matrix.c,635,89,21
+memory.c,memory.c,\MagickCore\memory.c,\src\main\memory.c,792,3001,180
+methods.h,methods.h,\MagickCore\methods.h,\src\library\methods\src\methods.h,1215,35,2
+random.c,random.c,\MagickCore\random.c,\src\main\random.c,544,447,63
+random.c,random.c,\MagickCore\random.c,\src\library\stats\src\random.c,544,332,52
+registry.c,registry.c,\MagickCore\registry.c,\src\library\utils\src\windows\registry.c,266,223,37
+version.c,version.c,\MagickCore\version.c,\src\main\version.c,351,107,13

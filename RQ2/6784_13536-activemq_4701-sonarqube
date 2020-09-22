@@ -1,0 +1,15 @@
+13536-activemq,4701-sonarqube
+Command.java,Command.java,\activemq-client\src\main\java\org\apache\activemq\command\Command.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\command\Command.java,23,99,1
+Message.java,Message.java,\activemq-client\src\main\java\org\apache\activemq\command\Message.java,\server\sonar-webserver-api\src\main\java\org\sonar\server\exceptions\Message.java,571,36,15
+Response.java,Response.java,\activemq-client\src\main\java\org\apache\activemq\command\Response.java,\sonar-plugin-api\src\main\java\org\sonar\api\server\ws\Response.java,24,21,2
+TimeUtils.java,TimeUtils.java,\activemq-client\src\main\java\org\apache\activemq\util\TimeUtils.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\TimeUtils.java,41,23,8
+MessageTest.java,MessageTest.java,\activemq-unit-tests\src\test\java\org\apache\activemq\command\MessageTest.java,\server\sonar-webserver-api\src\test\java\org\sonar\server\exceptions\MessageTest.java,68,55,7
+TestUtils.java,TestUtils.java,\activemq-unit-tests\src\test\java\org\apache\activemq\util\TestUtils.java,\sonar-testing-harness\src\main\java\org\sonar\test\TestUtils.java,64,22,7
+TestUtils.java,TestUtils.java,\activemq-unit-tests\src\test\java\org\apache\activemq\util\TestUtils.java,\sonar-plugin-api\src\test\java\org\sonar\api\utils\TestUtils.java,64,22,7
+AbstractCommand.java,AbstractCommand.java,\activemq-console\src\main\java\org\apache\activemq\console\command\AbstractCommand.java,\server\sonar-main\src\main\java\org\sonar\application\command\AbstractCommand.java,106,59,11
+AuthenticationFilter.java,AuthenticationFilter.java,\activemq-shiro\src\main\java\org\apache\activemq\shiro\authc\AuthenticationFilter.java,\server\sonar-webserver-auth\src\main\java\org\sonar\server\authentication\AuthenticationFilter.java,79,41,9
+WebServer.java,WebServer.java,\trash\activemq-optional\src\main\java\org\apache\activemq\tool\WebServer.java,\server\sonar-webserver\src\main\java\org\sonar\server\app\WebServer.java,31,66,4
+Index.java,Index.java,\activemq-kahadb-store\src\main\java\org\apache\activemq\store\kahadb\disk\index\Index.java,\server\sonar-server-common\src\main\java\org\sonar\server\es\Index.java,19,51,1
+Page.java,Page.java,\activemq-kahadb-store\src\main\java\org\apache\activemq\store\kahadb\disk\page\Page.java,\sonar-plugin-api\src\main\java\org\sonar\api\web\page\Page.java,87,115,20
+Subscriber.java,Subscriber.java,\assembly\src\release\examples\openwire\advanced-scenarios\jms-example-topic\src\main\java\example\topic\Subscriber.java,\server\sonar-db-dao\src\main\java\org\sonar\db\property\Subscriber.java,61,46,13
+Subscriber.java,Subscriber.java,\assembly\src\release\examples\openwire\advanced-scenarios\jms-example-durable-sub\src\main\java\example\topic\durable\Subscriber.java,\server\sonar-db-dao\src\main\java\org\sonar\db\property\Subscriber.java,63,46,13

@@ -1,0 +1,10 @@
+1593-ungit,6974-openapi-generator
+main.js,main.js,\public\main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,131,62,15
+main.js,main.js,\public\main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,131,62,15
+server.js,server.js,\source\server.js,\samples\server\petstore\graphql-nodejs-express-server\petstore\server.js,325,24,6
+server.js,server.js,\source\server.js,\modules\openapi-generator\src\main\resources\graphql-nodejs-express-server\server.js,325,24,6
+app.js,app.js,\components\app\app.js,\samples\server\petstore\nodejs-express-server\app.js,123,24,6
+main.js,main.js,\public\source\main.js,\samples\documentation\dynamic-html\docs\assets\js\main.js,180,62,13
+main.js,main.js,\public\source\main.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\main.js,180,62,13
+server.js,server.js,\public\source\server.js,\samples\server\petstore\graphql-nodejs-express-server\petstore\server.js,186,24,5
+server.js,server.js,\public\source\server.js,\modules\openapi-generator\src\main\resources\graphql-nodejs-express-server\server.js,186,24,5

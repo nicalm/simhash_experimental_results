@@ -1,0 +1,6 @@
+4984-jerryscript,86-netdata
+log.c,log.c,\jerry-libm\log.c,\libnetdata\log\log.c,117,565,35
+cli.c,cli.c,\jerry-main\cli.c,\cli\cli.c,298,159,30
+common.h,common.h,\jerry-core\parser\js\common.h,\daemon\common.h,78,48,1
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\daemon\main.c,130,995,28
+registry.h,registry.h,\targets\mbedos5\jerryscript-mbed\jerryscript-mbed-library-registry\registry.h,\registry\registry.h,31,17,1

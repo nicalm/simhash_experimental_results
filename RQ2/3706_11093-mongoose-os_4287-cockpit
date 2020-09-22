@@ -1,0 +1,7 @@
+11093-mongoose-os,4287-cockpit
+main.c,main.c,\platforms\posix\main.c,\src\tls\main.c,78,89,6
+main.c,main.c,\platforms\posix\main.c,\src\ws\main.c,78,242,18
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\src\tls\main.c,128,89,6
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\src\ws\main.c,128,242,18
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\src\tls\main.c,136,89,11
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\src\ws\main.c,136,242,17

@@ -1,0 +1,5 @@
+10115-mbedtls,702-swoole-src
+base64.c,base64.c,\library\base64.c,\src\protocol\base64.c,199,95,29
+sha1.c,sha1.c,\library\sha1.c,\src\protocol\sha1.c,414,105,12
+error.h,error.h,\include\mbedtls\error.h,\include\error.h,16,92,1
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\include\sha1.h,74,29,6

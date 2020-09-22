@@ -1,0 +1,4 @@
+1615-rufus,4984-jerryscript
+registry.h,registry.h,\src\registry.h,\targets\mbedos5\jerryscript-mbed\jerryscript-mbed-library-registry\registry.h,187,31,7
+config.h,config.h,\src\ext2fs\config.h,\jerry-core\config.h,182,338,13
+config.h,config.h,\src\libcdio\config.h,\jerry-core\config.h,53,338,4

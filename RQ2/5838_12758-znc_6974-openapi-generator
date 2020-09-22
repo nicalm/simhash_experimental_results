@@ -1,0 +1,13 @@
+12758-znc,6974-openapi-generator
+main.cpp,main.cpp,\src\main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,445,18,1
+main.cpp,main.cpp,\src\main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,445,72,10
+User.cpp,User.cpp,\src\User.cpp,\samples\client\petstore\cpp-tizen\src\User.cpp,1135,252,63
+User.cpp,User.cpp,\src\User.cpp,\samples\server\petstore\cpp-pistache\model\User.cpp,1135,233,49
+User.cpp,User.cpp,\src\User.cpp,\samples\server\petstore\cpp-restbed\model\User.cpp,1135,133,26
+User.cpp,User.cpp,\src\User.cpp,\samples\client\petstore\cpp-restsdk\client\model\User.cpp,1135,390,85
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,35,18,1
+main.cpp,main.cpp,\cmake\cxx11check\main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,35,72,3
+User.h,User.h,\include\znc\User.h,\samples\client\petstore\cpp-tizen\src\User.h,218,44,6
+User.h,User.h,\include\znc\User.h,\samples\server\petstore\cpp-pistache\model\User.h,218,71,6
+User.h,User.h,\include\znc\User.h,\samples\server\petstore\cpp-restbed\model\User.h,218,49,6
+User.h,User.h,\include\znc\User.h,\samples\client\petstore\cpp-restsdk\client\model\User.h,218,74,6

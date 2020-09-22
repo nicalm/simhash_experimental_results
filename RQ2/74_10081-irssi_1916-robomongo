@@ -1,0 +1,6 @@
+10081-irssi,1916-robomongo
+log.c,log.c,\src\core\log.c,\src\robomongo\ssh\log.c,455,88,19
+misc.c,misc.c,\src\core\misc.c,\src\third-party\libssh2\sources\src\misc.c,805,445,93
+misc.h,misc.h,\src\core\misc.h,\src\third-party\libssh2\sources\src\misc.h,55,40,1
+session.c,session.c,\src\core\session.c,\src\third-party\libssh2\sources\src\session.c,273,1245,42
+server.c,server.c,\src\fe-fuzz\server.c,\src\robomongo\ssh\server.c,124,44,6

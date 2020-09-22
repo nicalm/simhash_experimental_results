@@ -1,0 +1,6 @@
+1652-joplin,516-mongo
+background.js,background.js,\Clipper\joplin-webclipper\background.js,\jstests\noPassthroughWithMongod\background.js,62,34,5
+bridge.js,bridge.js,\ElectronClient\app\bridge.js,\src\mongo\shell\bridge.js,131,165,20
+parameters.js,parameters.js,\ReactNativeClient\lib\parameters.js,\jstests\noPassthrough\parameters.js,39,53,2
+bridge.js,bridge.js,\Clipper\joplin-webclipper\popup\src\bridge.js,\src\mongo\shell\bridge.js,265,165,40
+tags.js,tags.js,\ReactNativeClient\lib\components\screens\tags.js,\jstests\replsets\libs\tags.js,95,240,9

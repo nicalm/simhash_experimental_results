@@ -1,0 +1,9 @@
+4000-mruby,9529-ltp
+debug.h,debug.h,\include\mruby\debug.h,\src\parser\debug.h,38,57,1
+debug.h,debug.h,\include\mruby\debug.h,\src\srl\include\base\debug.h,38,75,1
+value.h,value.h,\include\mruby\value.h,\thirdparty\jsoncpp\include\json\value.h,308,443,37
+io.h,io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,\src\framework\io.h,28,43,3
+io.h,io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,\src\ner\io.h,28,37,3
+io.h,io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,\src\parser.n\io.h,28,28,3
+io.h,io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,\src\postagger\io.h,28,31,3
+io.h,io.h,\mrbgems\mruby-io\include\mruby\ext\io.h,\src\segmentor\io.h,28,37,3

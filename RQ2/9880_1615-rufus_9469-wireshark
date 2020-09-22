@@ -1,0 +1,8 @@
+1615-rufus,9469-wireshark
+crc32.c,crc32.c,\src\bled\crc32.c,\wsutil\crc32.c,82,366,16
+crc16.c,crc16.c,\src\ext2fs\crc16.c,\wsutil\crc16.c,48,354,5
+file.c,file.c,\src\ms-sys\file.c,\file.c,158,3028,36
+audio.h,audio.h,\src\libcdio\cdio\audio.h,\plugins\epan\unistim\audio.h,47,509,1
+util.h,util.h,\src\libcdio\cdio\util.h,\ui\util.h,79,15,7
+util.c,util.c,\src\libcdio\driver\util.c,\ui\util.c,124,182,25
+file.h,file.h,\src\ms-sys\inc\file.h,\file.h,21,168,2

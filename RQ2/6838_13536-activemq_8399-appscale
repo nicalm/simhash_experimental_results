@@ -1,0 +1,5 @@
+13536-activemq,8399-appscale
+prettify.js,prettify.js,\activemq-web-console\src\main\webapp\js\prettify.js,\AppDashboard\static\plugins\misc\prettify\prettify.js,1115,981,612
+jquery-1.4.2.min.js,jquery-1.4.2.min.js,\activemq-web-demo\src\main\webapp\js\jquery-1.4.2.min.js,\AppServer\lib\protorpc\protorpc\static\jquery-1.4.2.min.js,139,139,139
+prototype.js,prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,\AppDashboard\static\javascripts\prototype.js,4042,3567,2926
+prototype.js,prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,\AppDashboard\static\javascripts\prototype.js,1446,3567,894

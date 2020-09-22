@@ -1,0 +1,5 @@
+1615-rufus,1769-ChakraCore
+process.h,process.h,\src\process.h,\pal\src\include\pal\process.h,239,27,4
+config.h,config.h,\src\ext2fs\config.h,\lib\wabt\chakra\windows\config.h,182,247,20
+config.h,config.h,\src\libcdio\config.h,\lib\wabt\chakra\windows\config.h,53,247,5
+file.h,file.h,\src\ms-sys\inc\file.h,\pal\src\include\pal\file.h,21,45,1

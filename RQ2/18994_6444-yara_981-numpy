@@ -1,0 +1,5 @@
+6444-yara,981-numpy
+common.h,common.h,\common.h,\numpy\core\src\multiarray\common.h,91,192,22
+conf.py,conf.py,\docs\conf.py,\doc\neps\conf.py,35,65,13
+conf.py,conf.py,\docs\conf.py,\doc\source\conf.py,35,193,12
+utils.h,utils.h,\libyara\include\yara\utils.h,\numpy\core\include\numpy\utils.h,87,15,5

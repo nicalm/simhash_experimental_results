@@ -1,0 +1,6 @@
+551-FFmpeg,9197-domoticz
+adler32.c,adler32.c,\libavutil\adler32.c,\zlib\adler32.c,56,137,8
+error.h,error.h,\libavutil\error.h,\cereal\external\rapidjson\error\error.h,49,57,2
+eval.h,eval.h,\libavutil\eval.h,\hardware\plugins\Include\eval.h,20,20,1
+adler32.c,adler32.c,\libavutil\tests\adler32.c,\zlib\adler32.c,25,137,4
+config.h,config.h,\compat\avisynth\avs\config.h,\json\config.h,25,123,7

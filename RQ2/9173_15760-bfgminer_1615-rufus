@@ -1,0 +1,5 @@
+15760-bfgminer,1615-rufus
+logging.c,logging.c,\logging.c,\src\libcdio\driver\logging.c,72,104,18
+logging.h,logging.h,\logging.h,\src\libcdio\cdio\logging.h,133,30,3
+util.c,util.c,\util.c,\src\libcdio\driver\util.c,3540,124,39
+util.h,util.h,\util.h,\src\libcdio\cdio\util.h,687,79,16

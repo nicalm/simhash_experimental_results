@@ -1,0 +1,6 @@
+4287-cockpit,7408-DeepVideoAnalytics
+image.js,image.js,\pkg\docker\image.js,\server\dvaapp\static\plugins\ckeditor\plugins\image\dialogs\image.js,120,41,0
+config.js,config.js,\pkg\machines\config.js,\server\dvaapp\static\plugins\ckeditor\config.js,18,21,1
+utils.js,utils.js,\pkg\networkmanager\utils.js,\server\dvaapp\static\app\utils.js,193,48,8
+utils.js,utils.js,\pkg\storaged\utils.js,\server\dvaapp\static\app\utils.js,577,48,11
+utils.js,utils.js,\pkg\machines\components\networks\utils.js,\server\dvaapp\static\app\utils.js,110,48,8

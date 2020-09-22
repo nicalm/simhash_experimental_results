@@ -1,0 +1,4 @@
+4014-kanboard,471-minio
+utils.js,utils.js,\assets\js\core\utils.js,\browser\app\js\utils.js,94,95,17
+App.js,App.js,\assets\js\src\App.js,\browser\app\js\App.js,95,16,1
+index.js,index.js,\assets\vendor\text-caret\index.js,\browser\app\index.js,94,22,0

@@ -1,0 +1,4 @@
+3980-passenger,60276-esp-homekit-devices
+json.h,json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,\external_libs\homekit\src\json.h,953,17,0
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfssl\internal.h,221,3192,29
+internal.h,internal.h,\src\cxx_supportlib\vendor-copy\libuv\src\unix\internal.h,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfssl\internal.h,221,3192,29

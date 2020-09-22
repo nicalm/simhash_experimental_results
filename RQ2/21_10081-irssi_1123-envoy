@@ -1,0 +1,8 @@
+10081-irssi,1123-envoy
+common.h,common.h,\src\common.h,\test\mocks\common.h,81,59,0
+common.h,common.h,\src\common.h,\source\common\grpc\common.h,81,48,0
+common.h,common.h,\src\common.h,\test\common\http\common.h,81,47,0
+common.h,common.h,\src\common.h,\test\integration\filters\common.h,81,18,0
+common.h,common.h,\src\common.h,\test\extensions\common\tap\common.h,81,48,0
+common.h,common.h,\src\common.h,\test\extensions\filters\http\tap\common.h,81,30,0
+proxy.h,proxy.h,\src\irc\proxy\proxy.h,\source\extensions\filters\network\mongo_proxy\proxy.h,28,159,0

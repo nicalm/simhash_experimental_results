@@ -1,0 +1,3 @@
+15910-gdal,4482-nixpkgs
+AssemblyInfo.cs,AssemblyInfo.cs,\gdal\swig\csharp\AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,19,15,4
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\pkgs\os-specific\linux\net-tools\config.h,54,40,0

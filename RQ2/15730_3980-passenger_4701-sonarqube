@@ -1,0 +1,11 @@
+3980-passenger,4701-sonarqube
+webpack.config.js,webpack.config.js,\resources\templates\error_renderer\without_details\webpack.config.js,\server\sonar-web\config\webpack.config.js,40,189,23
+webpack.config.js,webpack.config.js,\resources\templates\error_renderer\with_details\webpack.config.js,\server\sonar-web\config\webpack.config.js,45,189,25
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,31,79,0
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,\server\sonar-web\config\documentation-loader\index.js,31,28,1
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,286,79,17
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,\server\sonar-web\config\documentation-loader\index.js,286,28,3
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,71,79,15
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,\server\sonar-web\config\documentation-loader\index.js,71,28,3
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,71,79,15
+index.js,index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,\server\sonar-web\config\documentation-loader\index.js,71,28,3

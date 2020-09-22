@@ -1,0 +1,6 @@
+12658-Espruino,9776-gaia
+common.js,common.js,\scripts\common.js,\disabled_apps\costcontrol\js\common.js,86,348,15
+test.py,test.py,\scripts\intelhex\test.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\tests\test.py,1109,230,3
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,781,338,19
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,781,1303,61
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,781,41,4

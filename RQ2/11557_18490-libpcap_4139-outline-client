@@ -1,0 +1,4 @@
+18490-libpcap,4139-outline-client
+ppp.h,ppp.h,\ppp.h,\third_party\badvpn\lwip\src\netif\ppp\ppp.h,35,65,0
+daemon.c,daemon.c,\rpcapd\daemon.c,\third_party\badvpn\ncd\modules\daemon.c,1943,172,39
+log.c,log.c,\rpcapd\log.c,\third_party\badvpn\ncd\modules\log.c,150,186,26

@@ -1,0 +1,3 @@
+132-retrofit,1366-gradle
+Path.java,Path.java,\retrofit\src\main\java\retrofit2\http\Path.java,\subprojects\base-services\src\main\java\org\gradle\util\Path.java,16,165,1
+Path.java,Path.java,\retrofit\src\main\java\retrofit2\http\Path.java,\subprojects\ide\src\main\java\org\gradle\plugins\ide\idea\model\Path.java,16,43,1

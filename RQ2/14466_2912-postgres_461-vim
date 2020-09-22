@@ -1,0 +1,16 @@
+2912-postgres,461-vim
+option.c,option.c,\contrib\postgres_fdw\option.c,\src\option.c,226,5384,54
+crypt.c,crypt.c,\src\backend\libpq\crypt.c,\src\crypt.c,168,398,45
+main.c,main.c,\src\backend\main\main.c,\src\main.c,203,3234,49
+list.c,list.c,\src\backend\nodes\list.c,\src\list.c,856,1649,225
+parser.c,parser.c,\src\backend\parser\parser.c,\src\libvterm\src\parser.c,97,294,27
+dict.c,dict.c,\src\backend\tsearch\dict.c,\src\dict.c,62,815,8
+spell.c,spell.c,\src\backend\tsearch\spell.c,\src\spell.c,1868,3141,556
+option.c,option.c,\src\bin\pg_upgrade\option.c,\src\option.c,360,5384,86
+version.c,version.c,\src\bin\pg_upgrade\version.c,\src\version.c,308,1339,55
+session.c,session.c,\src\backend\access\common\session.c,\src\session.c,99,1015,12
+message.c,message.c,\src\backend\replication\logical\message.c,\src\message.c,36,3726,7
+json.c,json.c,\src\backend\utils\adt\json.c,\src\json.c,1788,982,327
+regexp.c,regexp.c,\src\backend\utils\adt\regexp.c,\src\regexp.c,960,2125,218
+spell.h,spell.h,\src\include\tsearch\dicts\spell.h,\src\spell.h,133,192,7
+parser.c,parser.c,\src\interfaces\ecpg\preproc\parser.c,\src\libvterm\src\parser.c,95,294,25

@@ -1,0 +1,8 @@
+2575-scipy,67701-r-source
+beta.c,beta.c,\scipy\special\cephes\beta.c,\src\nmath\beta.c,167,36,6
+gamma.c,gamma.c,\scipy\special\cephes\gamma.c,\src\nmath\gamma.c,225,132,21
+rgamma.c,rgamma.c,\scipy\special\cephes\rgamma.c,\src\nmath\rgamma.c,69,115,10
+memory.c,memory.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\memory.c,\src\main\memory.c,136,3001,42
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\src\main\util.c,345,2082,77
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\src\library\grid\src\util.c,345,178,33
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\src\library\utils\src\windows\util.c,345,479,63

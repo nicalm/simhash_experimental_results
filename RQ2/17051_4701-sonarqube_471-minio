@@ -1,0 +1,6 @@
+4701-sonarqube,471-minio
+utils.js,utils.js,\server\sonar-web\config\utils.js,\browser\app\js\utils.js,58,95,4
+webpack.config.js,webpack.config.js,\server\sonar-web\config\webpack.config.js,\browser\webpack.config.js,189,104,25
+build.js,build.js,\server\sonar-web\scripts\build.js,\browser\build.js,27,106,3
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\browser\app\index.js,79,22,0
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\browser\app\index.js,28,22,1

@@ -1,0 +1,8 @@
+11072-cryptopp,8063-CMake
+cpu.h,cpu.h,\cpu.h,\Utilities\cmzstd\lib\common\cpu.h,669,184,15
+hex.h,hex.h,\hex.h,\Utilities\cmlibrhash\librhash\hex.h,26,19,2
+md5.h,md5.h,\md5.h,\Utilities\cmlibrhash\librhash\md5.h,25,21,5
+queue.h,queue.h,\queue.h,\Utilities\cmlibuv\src\queue.h,105,73,1
+sha3.h,sha3.h,\sha3.h,\Utilities\cmlibrhash\librhash\sha3.h,43,37,3
+siphash.h,siphash.h,\siphash.h,\Utilities\cmexpat\lib\siphash.h,201,230,26
+zlib.h,zlib.h,\zlib.h,\Utilities\cmzlib\zlib.h,42,192,1

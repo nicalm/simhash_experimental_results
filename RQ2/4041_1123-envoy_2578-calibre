@@ -1,0 +1,9 @@
+1123-envoy,2578-calibre
+conf.py,conf.py,\docs\conf.py,\manual\conf.py,60,113,4
+global.h,global.h,\test\test_common\global.h,\src\calibre\utils\podofo\global.h,55,89,12
+global.h,global.h,\test\test_common\global.h,\src\calibre\devices\mtp\windows\global.h,55,41,2
+annotations.py,annotations.py,\tools\api_proto_plugin\annotations.py,\src\calibre\gui2\viewer\annotations.py,53,60,0
+plugin.py,plugin.py,\tools\api_proto_plugin\plugin.py,\src\calibre\gui2\tweak_book\plugin.py,48,93,0
+utils.h,utils.h,\source\extensions\filters\network\zookeeper_proxy\utils.h,\src\calibre\ebooks\pdf\utils.h,29,29,8
+server.py,server.py,\test\extensions\filters\network\thrift_proxy\driver\server.py,\src\calibre\gui2\preferences\server.py,191,1191,20
+server.py,server.py,\test\extensions\filters\network\thrift_proxy\driver\server.py,\src\calibre\utils\ipc\server.py,191,320,7

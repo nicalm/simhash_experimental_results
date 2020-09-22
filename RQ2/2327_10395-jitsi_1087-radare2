@@ -1,0 +1,5 @@
+10395-jitsi,1087-radare2
+run.c,run.c,\src\native\windows\run\run.c,\libr\socket\run.c,1415,1100,161
+err.h,err.h,\src\native\windows\setup\err.h,\shlr\grub\include\grub\err.h,18,52,3
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\shlr\heap\include\r_jemalloc\internal\base.h,66,15,1
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\libr\main\index.h,114,27,0

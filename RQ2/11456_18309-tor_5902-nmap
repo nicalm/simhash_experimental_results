@@ -1,0 +1,11 @@
+18309-tor,5902-nmap
+strlcat.c,strlcat.c,\src\ext\strlcat.c,\libdnet-stripped\src\strlcat.c,28,31,27
+strlcat.c,strlcat.c,\src\ext\strlcat.c,\libpcap\missing\strlcat.c,28,29,9
+strlcpy.c,strlcpy.c,\src\ext\strlcpy.c,\libdnet-stripped\src\strlcpy.c,22,28,12
+strlcpy.c,strlcpy.c,\src\ext\strlcpy.c,\libpcap\missing\strlcpy.c,22,25,6
+channel.c,channel.c,\src\core\or\channel.c,\libssh2\src\channel.c,2009,1831,304
+channel.h,channel.h,\src\core\or\channel.h,\libssh2\src\channel.h,293,33,1
+compress.c,compress.c,\src\lib\compress\compress.c,\libz\compress.c,507,53,8
+pem.c,pem.c,\src\lib\encoding\pem.c,\libssh2\src\pem.c,60,692,16
+socket.h,socket.h,\src\lib\net\socket.h,\libpcap\pcap\socket.h,79,24,5
+socket.h,socket.h,\src\lib\net\socket.h,\libssh2\os400\include\sys\socket.h,79,24,5

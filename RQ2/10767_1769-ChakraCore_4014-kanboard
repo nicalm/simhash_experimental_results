@@ -1,0 +1,5 @@
+1769-ChakraCore,4014-kanboard
+index.js,index.js,\test\WasmSpec\convert-test-suite\index.js,\assets\vendor\text-caret\index.js,195,94,9
+index.js,index.js,\test\benchmarks\ARES-6\Babylon\index.js,\assets\vendor\text-caret\index.js,5263,94,13
+index.js,index.js,\test\benchmarks\ARES-6\ml\index.js,\assets\vendor\text-caret\index.js,4664,94,13
+index.js,index.js,\test\WasmSpec\convert-test-suite\generateTests\index.js,\assets\vendor\text-caret\index.js,17,94,1

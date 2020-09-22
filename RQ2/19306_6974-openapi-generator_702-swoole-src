@@ -1,0 +1,5 @@
+6974-openapi-generator,702-swoole-src
+list.h,list.h,\samples\client\petstore\c\include\list.h,\include\list.h,28,605,1
+list.c,list.c,\samples\client\petstore\c\src\list.c,\src\core\list.c,132,187,29
+main.cpp,main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,\core-tests\src\main.cpp,18,55,1
+main.cpp,main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,\core-tests\src\main.cpp,72,55,4

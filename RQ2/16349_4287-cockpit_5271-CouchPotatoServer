@@ -1,0 +1,6 @@
+4287-cockpit,5271-CouchPotatoServer
+list.js,list.js,\pkg\dashboard\list.js,\couchpotato\core\media\movie\_base\static\list.js,501,537,87
+details.js,details.js,\pkg\docker\details.js,\couchpotato\core\media\movie\_base\static\details.js,242,103,24
+search.js,search.js,\pkg\docker\search.js,\couchpotato\core\media\movie\_base\static\search.js,135,194,21
+search.js,search.js,\pkg\docker\search.js,\couchpotato\core\media\_base\search\static\search.js,135,162,22
+login.js,login.js,\src\ws\login.js,\couchpotato\static\scripts\page\login.js,663,26,2

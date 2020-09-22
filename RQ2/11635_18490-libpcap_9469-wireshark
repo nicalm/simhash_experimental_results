@@ -1,0 +1,5 @@
+18490-libpcap,9469-wireshark
+gencode.c,gencode.c,\gencode.c,\epan\dfilter\gencode.c,5829,477,115
+nlpid.h,nlpid.h,\nlpid.h,\epan\nlpid.h,27,30,1
+pcap-common.c,pcap-common.c,\pcap-common.c,\wiretap\pcap-common.c,458,1421,58
+socket.h,socket.h,\pcap\socket.h,\wsutil\socket.h,24,42,12

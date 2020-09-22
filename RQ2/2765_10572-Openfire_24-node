@@ -1,0 +1,5 @@
+10572-Openfire,24-node
+builder.js,builder.js,\xmppserver\src\main\webapp\js\builder.js,\tools\node_modules\babel-eslint\node_modules\@babel\template\lib\builder.js,81,67,8
+builder.js,builder.js,\xmppserver\src\main\webapp\js\builder.js,\tools\node_modules\babel-eslint\node_modules\@babel\types\lib\builders\builder.js,81,38,5
+cookies.js,cookies.js,\xmppserver\src\main\webapp\js\cookies.js,\deps\npm\node_modules\request\lib\cookies.js,44,32,7
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\deps\v8\test\mjsunit\prototype.js,5993,44,4

@@ -1,0 +1,15 @@
+2578-calibre,4482-nixpkgs
+update.py,update.py,\src\calibre\gui2\update.py,\maintainers\scripts\update.py,228,62,4
+update.py,update.py,\src\calibre\gui2\update.py,\pkgs\misc\vim-plugins\update.py,228,302,10
+update.py,update.py,\src\calibre\gui2\update.py,\pkgs\applications\version-management\gitlab\update.py,228,148,2
+update.py,update.py,\src\calibre\gui2\update.py,\pkgs\applications\virtualization\crosvm\update.py,228,43,0
+update.py,update.py,\src\calibre\gui2\update.py,\pkgs\applications\virtualization\virtualbox\update.py,228,67,4
+update.py,update.py,\src\calibre\gui2\update.py,\pkgs\development\tools\analysis\radare2\update.py,228,91,0
+server.py,server.py,\src\calibre\gui2\preferences\server.py,\nixos\tests\google-oslogin\server.py,1191,75,8
+server.py,server.py,\src\calibre\utils\ipc\server.py,\nixos\tests\google-oslogin\server.py,320,75,5
+update.py,update.py,\src\calibre\ebooks\metadata\sources\update.py,\maintainers\scripts\update.py,144,62,6
+update.py,update.py,\src\calibre\ebooks\metadata\sources\update.py,\pkgs\misc\vim-plugins\update.py,144,302,15
+update.py,update.py,\src\calibre\ebooks\metadata\sources\update.py,\pkgs\applications\version-management\gitlab\update.py,144,148,2
+update.py,update.py,\src\calibre\ebooks\metadata\sources\update.py,\pkgs\applications\virtualization\crosvm\update.py,144,43,1
+update.py,update.py,\src\calibre\ebooks\metadata\sources\update.py,\pkgs\applications\virtualization\virtualbox\update.py,144,67,4
+update.py,update.py,\src\calibre\ebooks\metadata\sources\update.py,\pkgs\development\tools\analysis\radare2\update.py,144,91,1

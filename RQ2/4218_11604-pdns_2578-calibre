@@ -1,0 +1,4 @@
+11604-pdns,2578-calibre
+conf.py,conf.py,\docs\conf.py,\manual\conf.py,82,113,8
+conf.py,conf.py,\pdns\dnsdistdist\docs\conf.py,\manual\conf.py,48,113,5
+conf.py,conf.py,\pdns\recursordist\docs\conf.py,\manual\conf.py,52,113,7

@@ -1,0 +1,11 @@
+15760-bfgminer,516-mongo
+api.c,api.c,\api.c,\src\third_party\libstemmer_c\runtime\api.c,3686,57,22
+logging.h,logging.h,\logging.h,\src\third_party\s2\base\logging.h,133,89,4
+logging.h,logging.h,\logging.h,\src\third_party\gperftools-2.7\dist\src\base\logging.h,133,152,17
+util.c,util.c,\util.c,\src\third_party\wiredtiger\test\format\util.c,3540,425,86
+util.c,util.c,\util.c,\src\third_party\zstandard-1.4.3\zstd\programs\util.c,3540,442,121
+util.c,util.c,\util.c,\src\third_party\wiredtiger\test\csuite\random_directio\util.c,3540,85,12
+util.h,util.h,\util.h,\src\mongo\db\ftdc\util.h,687,38,4
+util.h,util.h,\util.h,\src\third_party\icu4c-57.1\source\common\util.h,687,46,2
+util.h,util.h,\util.h,\src\third_party\wiredtiger\src\utilities\util.h,687,44,0
+util.h,util.h,\util.h,\src\third_party\zstandard-1.4.3\zstd\programs\util.h,687,115,20

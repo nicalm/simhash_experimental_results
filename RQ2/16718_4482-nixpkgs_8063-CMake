@@ -1,0 +1,3 @@
+4482-nixpkgs,8063-CMake
+test.c,test.c,\pkgs\build-support\libredirect\test.c,\Utilities\KWIML\test\test.c,41,27,4
+config.h,config.h,\pkgs\os-specific\linux\net-tools\config.h,\Utilities\cmjsoncpp\include\json\config.h,40,130,0

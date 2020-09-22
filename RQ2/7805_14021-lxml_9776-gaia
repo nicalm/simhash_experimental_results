@@ -1,0 +1,13 @@
+14021-lxml,9776-gaia
+setup.py,setup.py,\setup.py,\tests\python\gaia-ui-tests\setup.py,168,47,4
+setup.py,setup.py,\setup.py,\tests\python\gaia-unit-tests\setup.py,168,25,3
+setup.py,setup.py,\setup.py,\distros\spark\apps\customizer\components\js-beautify\python\setup.py,168,16,2
+setup.py,setup.py,\setup.py,\tests\jsmarionette\runner\marionette-js-runner\host\python\runner-service\setup.py,168,29,6
+setup.py,setup.py,\setup.py,\tests\python\gaia-ui-tests\gaiatest\apps\email\regions\setup.py,168,148,0
+test.py,test.py,\test.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\tests\test.py,432,230,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,1099,338,23
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,1099,1303,75
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,1099,41,6
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\cssbeautifier\__init__.py,154,338,7
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\__init__.py,154,1303,11
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\distros\spark\apps\customizer\components\js-beautify\python\jsbeautifier\unpackers\__init__.py,154,41,3

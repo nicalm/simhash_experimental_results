@@ -1,0 +1,7 @@
+10115-mbedtls,4000-mruby
+debug.c,debug.c,\library\debug.c,\src\debug.c,345,175,35
+error.c,error.c,\library\error.c,\src\error.c,771,426,19
+version.c,version.c,\library\version.c,\src\version.c,23,15,2
+debug.h,debug.h,\include\mbedtls\debug.h,\include\mruby\debug.h,89,38,1
+error.h,error.h,\include\mbedtls\error.h,\include\mruby\error.h,16,60,4
+version.h,version.h,\include\mbedtls\version.h,\include\mruby\version.h,26,43,4

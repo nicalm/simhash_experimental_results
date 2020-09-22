@@ -1,0 +1,8 @@
+5372-twisted,67679-k8s-multicluster-ingress
+client.py,client.py,\src\twisted\names\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,356,21,0
+common.py,common.py,\src\twisted\names\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,152,21,0
+server.py,server.py,\src\twisted\names\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,154,15,0
+client.py,client.py,\src\twisted\web\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,1013,21,0
+server.py,server.py,\src\twisted\web\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,447,15,1
+common.py,common.py,\src\twisted\conch\ssh\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,42,21,0
+client.py,client.py,\src\twisted\words\protocols\jabber\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,154,21,0

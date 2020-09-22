@@ -1,0 +1,5 @@
+2578-calibre,60419-iv
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\iv\utils.h,29,109,7
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\iv\lv5\third_party\v8_dtoa\utils.h,29,63,6
+global.h,global.h,\src\calibre\utils\podofo\global.h,\iv\lv5\runtime\global.h,89,20,0
+global.h,global.h,\src\calibre\devices\mtp\windows\global.h,\iv\lv5\runtime\global.h,41,20,0

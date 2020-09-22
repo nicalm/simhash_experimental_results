@@ -1,0 +1,4 @@
+15760-bfgminer,5902-nmap
+util.c,util.c,\util.c,\ncat\util.c,3540,502,162
+util.h,util.h,\util.h,\ncat\util.h,687,72,11
+strtok_r.c,strtok_r.c,\lib\strtok_r.c,\libpcap\missing\strtok_r.c,38,37,9

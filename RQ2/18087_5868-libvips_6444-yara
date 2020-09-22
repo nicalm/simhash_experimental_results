@@ -1,0 +1,9 @@
+5868-libvips,6444-yara
+math.c,math.c,\libvips\arithmetic\math.c,\libyara\modules\math\math.c,240,449,37
+object.c,object.c,\libvips\iofuncs\object.c,\libyara\object.c,2001,921,184
+stream.c,stream.c,\libvips\iofuncs\stream.c,\libyara\stream.c,82,22,4
+util.c,util.c,\libvips\iofuncs\util.c,\tests\util.c,1294,285,75
+error.h,error.h,\libvips\include\vips\error.h,\libyara\include\yara\error.h,58,97,4
+object.h,object.h,\libvips\include\vips\object.h,\libyara\include\yara\object.h,365,116,4
+stream.h,stream.h,\libvips\include\vips\stream.h,\libyara\include\yara\stream.h,184,30,1
+util.h,util.h,\libvips\include\vips\util.h,\tests\util.h,230,199,12

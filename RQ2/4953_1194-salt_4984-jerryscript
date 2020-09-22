@@ -1,0 +1,4 @@
+1194-salt,4984-jerryscript
+setup.py,setup.py,\setup.py,\targets\curie_bsp\setup.py,861,129,5
+build.py,build.py,\pkg\rpm\build.py,\tools\build.py,38,227,5
+setup.py,setup.py,\salt\log\setup.py,\targets\curie_bsp\setup.py,535,129,4

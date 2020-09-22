@@ -1,0 +1,7 @@
+5868-libvips,91-bitcoin
+error.h,error.h,\libvips\include\vips\error.h,\src\util\error.h,58,21,1
+format.h,format.h,\libvips\include\vips\format.h,\src\leveldb\table\format.h,84,62,2
+histogram.h,histogram.h,\libvips\include\vips\histogram.h,\src\leveldb\util\histogram.h,37,28,2
+util.h,util.h,\libvips\include\vips\util.h,\src\rpc\util.h,230,173,2
+util.h,util.h,\libvips\include\vips\util.h,\src\secp256k1\src\util.h,230,99,10
+vector.h,vector.h,\libvips\include\vips\vector.h,\src\util\vector.h,73,32,2

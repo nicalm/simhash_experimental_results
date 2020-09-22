@@ -1,0 +1,8 @@
+10827-keepalived,242-php-src
+http.c,http.c,\genhash\http.c,\ext\standard\http.c,272,211,28
+main.c,main.c,\genhash\main.c,\main\main.c,263,2098,53
+assert.c,assert.c,\lib\assert.c,\ext\standard\assert.c,21,247,4
+html.c,html.c,\lib\html.c,\ext\standard\html.c,48,1203,10
+memory.c,memory.c,\lib\memory.c,\main\streams\memory.c,545,589,70
+main.c,main.c,\keepalived\core\main.c,\main\main.c,1950,2098,308
+snmp.c,snmp.c,\keepalived\core\snmp.c,\ext\snmp\snmp.c,397,1590,67

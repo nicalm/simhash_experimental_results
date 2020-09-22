@@ -1,0 +1,15 @@
+10549-luci,551-FFmpeg
+ip.c,ip.c,\libs\luci-lib-ip\src\ip.c,\libavformat\ip.c,1310,119,37
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\compat\avisynth\avs\config.h,89,25,0
+bit.c,bit.c,\libs\luci-lib-nixio\src\bit.c,\libavformat\bit.c,110,121,9
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\libavformat\file.c,355,336,37
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\libavutil\file.c,355,127,21
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\compat\avisynth\avs\config.h,89,25,0
+aes.c,aes.c,\libs\luci-lib-nixio\axTLS\crypto\aes.c,\libavutil\aes.c,313,213,44
+aes.c,aes.c,\libs\luci-lib-nixio\axTLS\crypto\aes.c,\libavutil\tests\aes.c,313,90,16
+hmac.c,hmac.c,\libs\luci-lib-nixio\axTLS\crypto\hmac.c,\libavutil\hmac.c,52,163,11
+hmac.c,hmac.c,\libs\luci-lib-nixio\axTLS\crypto\hmac.c,\libavutil\tests\hmac.c,52,57,7
+md5.c,md5.c,\libs\luci-lib-nixio\axTLS\crypto\md5.c,\libavutil\md5.c,184,159,18
+md5.c,md5.c,\libs\luci-lib-nixio\axTLS\crypto\md5.c,\libavutil\tests\md5.c,184,31,4
+rc4.c,rc4.c,\libs\luci-lib-nixio\axTLS\crypto\rc4.c,\libavutil\rc4.c,40,39,6
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\compat\avisynth\avs\config.h,35,25,2

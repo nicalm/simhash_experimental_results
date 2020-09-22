@@ -1,0 +1,16 @@
+2912-postgres,682-curl
+md5.c,md5.c,\contrib\pgcrypto\md5.c,\lib\md5.c,318,367,25
+openssl.c,openssl.c,\contrib\pgcrypto\openssl.c,\lib\vtls\openssl.c,566,3153,128
+base64.c,base64.c,\src\common\base64.c,\lib\base64.c,144,182,26
+md5.c,md5.c,\src\common\md5.c,\lib\md5.c,231,367,26
+strerror.c,strerror.c,\src\port\strerror.c,\lib\strerror.c,250,743,55
+dict.c,dict.c,\src\backend\tsearch\dict.c,\lib\dict.c,62,209,6
+file.c,file.c,\src\bin\pg_upgrade\file.c,\lib\file.c,257,376,41
+util.c,util.c,\src\bin\pg_upgrade\util.c,\tests\server\util.c,163,375,46
+version.c,version.c,\src\bin\pg_upgrade\version.c,\lib\version.c,308,398,22
+hash.h,hash.h,\src\include\access\hash.h,\lib\hash.h,269,57,1
+progress.h,progress.h,\src\include\commands\progress.h,\lib\progress.h,61,37,1
+memdebug.h,memdebug.h,\src\include\utils\memdebug.h,\lib\memdebug.h,48,108,6
+hash.c,hash.c,\src\backend\access\hash\hash.c,\lib\hash.c,522,242,65
+memdebug.c,memdebug.c,\src\backend\utils\mmgr\memdebug.c,\lib\memdebug.c,21,333,5
+connect.c,connect.c,\src\interfaces\ecpg\ecpglib\connect.c,\lib\connect.c,577,1110,130

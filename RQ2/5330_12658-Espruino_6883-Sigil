@@ -1,0 +1,7 @@
+12658-Espruino,6883-Sigil
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,781,362,23
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,781,187,13
+log.c,log.c,\targets\esp8266\log.c,\3rdparty\hunspell\intl\log.c,162,82,13
+config.h,config.h,\libs\crypto\mbedtls\config.h,\3rdparty\hunspell\src\win_api\config.h,60,68,0
+error.c,error.c,\libs\crypto\mbedtls\library\error.c,\internal\gumbo\error.c,583,221,14
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\3rdparty\zlib\crc32.c,19,285,8

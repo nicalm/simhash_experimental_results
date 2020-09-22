@@ -1,0 +1,16 @@
+10314-ovs,9469-wireshark
+getopt_long.c,getopt_long.c,\lib\getopt_long.c,\wsutil\getopt_long.c,306,882,57
+json.c,json.c,\lib\json.c,\wiretap\json.c,1370,41,7
+stream.c,stream.c,\lib\stream.c,\epan\stream.c,584,288,65
+stream.h,stream.h,\lib\stream.h,\epan\stream.h,64,28,2
+util.c,util.c,\lib\util.c,\ui\util.c,1694,182,45
+util.h,util.h,\lib\util.h,\ui\util.h,431,15,7
+column.c,column.c,\ovsdb\column.c,\epan\column.c,226,734,62
+column.h,column.h,\ovsdb\column.h,\epan\column.h,53,65,1
+file.c,file.c,\ovsdb\file.c,\file.c,384,3028,94
+file.h,file.h,\ovsdb\file.h,\file.h,23,168,1
+util.h,util.h,\include\openvswitch\util.h,\ui\util.h,121,15,7
+socket.c,socket.c,\datapath\linux\compat\socket.c,\wsutil\socket.c,27,123,6
+packet.h,packet.h,\include\sparse\netpacket\packet.h,\epan\packet.h,17,257,3
+socket.h,socket.h,\include\sparse\sys\socket.h,\wsutil\socket.h,139,42,3
+packet.h,packet.h,\include\windows\netpacket\packet.h,\epan\packet.h,18,257,3

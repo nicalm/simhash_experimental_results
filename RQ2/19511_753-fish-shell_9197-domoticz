@@ -1,0 +1,4 @@
+753-fish-shell,9197-domoticz
+reader.h,reader.h,\src\reader.h,\json\reader.h,84,155,5
+reader.h,reader.h,\src\reader.h,\cereal\external\rapidjson\reader.h,84,1388,4
+app.js,app.js,\share\tools\web_config\js\app.js,\www\app\app.js,67,742,11

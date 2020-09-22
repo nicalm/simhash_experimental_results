@@ -1,0 +1,17 @@
+1615-rufus,2912-postgres
+iso.c,iso.c,\src\iso.c,\src\backend\utils\mb\iso.c,1276,57,18
+parser.c,parser.c,\src\parser.c,\src\backend\parser\parser.c,1126,97,27
+parser.c,parser.c,\src\parser.c,\src\interfaces\ecpg\preproc\parser.c,1126,95,25
+settings.h,settings.h,\src\settings.h,\src\bin\psql\settings.h,106,113,0
+crc32.c,crc32.c,\src\bled\crc32.c,\contrib\ltree\crc32.c,82,25,6
+rbtree.c,rbtree.c,\src\ext2fs\rbtree.c,\src\backend\lib\rbtree.c,345,418,98
+rbtree.h,rbtree.h,\src\ext2fs\rbtree.h,\src\include\lib\rbtree.h,86,41,5
+getopt.c,getopt.c,\src\getopt\getopt.c,\src\port\getopt.c,653,76,29
+file.c,file.c,\src\ms-sys\file.c,\src\bin\pg_upgrade\file.c,158,257,35
+logging.h,logging.h,\src\libcdio\cdio\logging.h,\src\include\common\logging.h,30,37,1
+generic.h,generic.h,\src\libcdio\driver\generic.h,\src\include\port\atomics\generic.h,73,300,6
+logging.c,logging.c,\src\libcdio\driver\logging.c,\src\common\logging.c,104,176,25
+memory.c,memory.c,\src\libcdio\driver\memory.c,\src\interfaces\ecpg\ecpglib\memory.c,16,138,4
+read.c,read.c,\src\libcdio\driver\read.c,\src\backend\nodes\read.c,181,257,32
+util.c,util.c,\src\libcdio\driver\util.c,\src\bin\pg_upgrade\util.c,124,163,31
+open.c,open.c,\src\syslinux\libfat\open.c,\src\port\open.c,76,136,6

@@ -1,0 +1,8 @@
+2575-scipy,5868-libvips
+test_morphology.py,test_morphology.py,\scipy\ndimage\tests\test_morphology.py,\test\test-suite\test_morphology.py,27,44,0
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\libvips\include\vips\util.h,38,230,2
+gamma.c,gamma.c,\scipy\special\cephes\gamma.c,\libvips\conversion\gamma.c,225,102,12
+round.c,round.c,\scipy\special\cephes\round.c,\libvips\arithmetic\round.c,18,145,4
+memory.c,memory.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\memory.c,\libvips\iofuncs\memory.c,136,199,38
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\libvips\iofuncs\util.c,345,1294,82
+debug.h,debug.h,\scipy\sparse\linalg\eigen\arpack\ARPACK\SRC\debug.h,\libvips\include\vips\debug.h,16,37,0

@@ -1,0 +1,8 @@
+10841-gimp,24-node
+main.c,main.c,\app\main.c,\deps\uv\samples\socks5-proxy\main.c,631,64,13
+main.c,main.c,\app\main.c,\deps\openssl\openssl\test\testutil\main.c,631,78,19
+tests.c,tests.c,\app\tests.c,\deps\openssl\openssl\test\testutil\tests.c,131,341,24
+types.h,types.h,\plug-ins\selection-to-path\types.h,\deps\v8\src\compiler\types.h,92,405,3
+types.h,types.h,\plug-ins\selection-to-path\types.h,\deps\v8\src\torque\types.h,92,605,1
+types.h,types.h,\plug-ins\selection-to-path\types.h,\deps\brotli\c\include\brotli\types.h,92,25,3
+vector.h,vector.h,\plug-ins\selection-to-path\vector.h,\deps\v8\src\utils\vector.h,42,201,1

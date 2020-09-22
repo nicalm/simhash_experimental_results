@@ -1,0 +1,8 @@
+10841-gimp,1541-h2o
+main.c,main.c,\app\main.c,\src\main.c,631,2462,129
+main.c,main.c,\app\main.c,\deps\picotls\deps\cifra\src\arm\main.c,631,385,69
+print.c,print.c,\plug-ins\print\print.c,\deps\mruby\src\print.c,407,36,13
+print.c,print.c,\plug-ins\print\print.c,\deps\mruby\mrbgems\mruby-print\src\print.c,407,55,15
+math.c,math.c,\plug-ins\selection-to-path\math.c,\deps\mruby\mrbgems\mruby-math\src\math.c,96,402,24
+types.h,types.h,\plug-ins\selection-to-path\types.h,\deps\picotls\deps\micro-ecc\types.h,92,87,4
+types.h,types.h,\plug-ins\selection-to-path\types.h,\deps\brotli\c\include\brotli\types.h,92,31,4

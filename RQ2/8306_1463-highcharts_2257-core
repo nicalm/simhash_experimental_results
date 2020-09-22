@@ -1,0 +1,9 @@
+1463-highcharts,2257-core
+navigation.js,navigation.js,\js\mixins\navigation.js,\apps\files\js\navigation.js,25,60,7
+update.js,update.js,\tools\gulptasks\update.js,\core\js\update.js,53,129,10
+log.js,log.js,\tools\gulptasks\lib\log.js,\settings\js\log.js,64,37,4
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files\js\app.js,325,181,28
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files_external\js\app.js,325,76,17
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files_sharing\js\app.js,325,272,33
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\files_trashbin\js\app.js,325,84,17
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\apps\systemtags\js\app.js,325,73,15

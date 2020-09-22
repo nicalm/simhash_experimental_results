@@ -1,0 +1,5 @@
+63613-KunstmaanBundlesCMS,6422-roundcubemail
+Parser.php,Parser.php,\src\Kunstmaan\FixturesBundle\Parser\Parser.php,\plugins\managesieve\tests\Parser.php,93,43,15
+app.js,app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,\program\js\app.js,77,7547,11
+app.js,app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,\program\js\app.js,15,7547,3
+app.js,app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,\program\js\app.js,27,7547,2

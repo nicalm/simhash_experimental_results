@@ -1,0 +1,8 @@
+10249-pycrypto,4960-capstone
+setup.py,setup.py,\setup.py,\bindings\python\setup.py,369,173,20
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\bindings\python\capstone\__init__.py,90,801,8
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\bindings\python\capstone\__init__.py,47,801,3
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\bindings\python\capstone\__init__.py,18,801,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\bindings\python\capstone\__init__.py,23,801,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\bindings\python\capstone\__init__.py,16,801,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\bindings\python\capstone\__init__.py,17,801,0

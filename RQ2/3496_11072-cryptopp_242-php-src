@@ -1,0 +1,5 @@
+11072-cryptopp,242-php-src
+base64.h,base64.h,\base64.h,\ext\standard\base64.h,46,19,3
+base64.h,base64.h,\base64.h,\ext\xmlrpc\libxmlrpc\base64.h,46,17,2
+md5.h,md5.h,\md5.h,\ext\standard\md5.h,25,17,1
+queue.h,queue.h,\queue.h,\ext\xmlrpc\libxmlrpc\queue.h,105,59,2

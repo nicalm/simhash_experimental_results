@@ -1,0 +1,5 @@
+3980-passenger,63613-KunstmaanBundlesCMS
+app.js,app.js,\test\stub\node\app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,114,77,3
+app.js,app.js,\test\stub\node\app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,114,15,1
+app.js,app.js,\test\stub\node\app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,114,27,2
+styles.js,styles.js,\src\nodejs_supportlib\vendor-copy\winston\node_modules\colors\lib\styles.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\styles.js,44,53,0

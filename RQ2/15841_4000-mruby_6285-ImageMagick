@@ -1,0 +1,9 @@
+4000-mruby,6285-ImageMagick
+debug.c,debug.c,\src\debug.c,\coders\debug.c,175,144,15
+string.c,string.c,\src\string.c,\MagickCore\string.c,2271,1281,232
+version.c,version.c,\src\version.c,\MagickCore\version.c,15,351,2
+exception.c,exception.c,\mrbgems\mruby-error\src\exception.c,\MagickCore\exception.c,94,527,14
+exception.c,exception.c,\mrbgems\mruby-error\test\exception.c,\MagickCore\exception.c,52,527,12
+inline.c,inline.c,\mrbgems\mruby-inline-struct\test\inline.c,\coders\inline.c,75,196,20
+random.c,random.c,\mrbgems\mruby-random\src\random.c,\MagickCore\random.c,294,544,67
+string.c,string.c,\mrbgems\mruby-string-ext\src\string.c,\MagickCore\string.c,897,1281,162

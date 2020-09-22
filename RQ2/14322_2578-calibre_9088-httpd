@@ -1,0 +1,11 @@
+2578-calibre,9088-httpd
+util.c,util.c,\bypy\linux\util.c,\server\util.c,196,2737,35
+util.c,util.c,\bypy\linux\util.c,\test\unit\util.c,196,44,6
+util.c,util.c,\bypy\linux\util.c,\modules\dav\main\util.c,196,1250,31
+util.c,util.c,\bypy\macos\util.c,\server\util.c,169,2737,32
+util.c,util.c,\bypy\macos\util.c,\test\unit\util.c,169,44,4
+util.c,util.c,\bypy\macos\util.c,\modules\dav\main\util.c,169,1250,25
+main.c,main.c,\bypy\windows\main.c,\server\main.c,107,643,18
+util.c,util.c,\bypy\windows\util.c,\server\util.c,328,2737,51
+util.c,util.c,\bypy\windows\util.c,\test\unit\util.c,328,44,4
+util.c,util.c,\bypy\windows\util.c,\modules\dav\main\util.c,328,1250,44

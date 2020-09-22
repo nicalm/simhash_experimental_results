@@ -1,0 +1,9 @@
+10549-luci,9088-httpd
+prettify.js,prettify.js,\docs\jsapi\scripts\prettify\prettify.js,\docs\manual\style\scripts\prettify.js,28,1092,0
+htpasswd.c,htpasswd.c,\libs\luci-lib-nixio\axTLS\httpd\htpasswd.c,\support\htpasswd.c,88,388,29
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\server\util.c,81,2737,22
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\test\unit\util.c,81,44,7
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\modules\dav\main\util.c,81,1250,22
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\server\util.c,261,2737,46
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\test\unit\util.c,261,44,9
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\modules\dav\main\util.c,261,1250,39

@@ -1,0 +1,4 @@
+1769-ChakraCore,3271-sandstorm
+basic.js,basic.js,\test\wasm\basic.js,\tests\tests\basic.js,19,28,1
+cli.js,cli.js,\test\benchmarks\ARES-6\cli.js,\tests\unittests\cli.js,31,34,1
+basic.js,basic.js,\test\benchmarks\ARES-6\Basic\basic.js,\tests\tests\basic.js,26,28,1

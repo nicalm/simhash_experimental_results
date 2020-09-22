@@ -1,0 +1,7 @@
+10549-luci,1463-highcharts
+fs.js,fs.js,\modules\luci-base\htdocs\luci-static\resources\fs.js,\tools\gulptasks\lib\fs.js,153,167,16
+map.js,map.js,\protocols\luci-proto-ipv6\htdocs\luci-static\resources\protocol\map.js,\studies\hc4\01\map.js,73,62,8
+map.js,map.js,\protocols\luci-proto-ipv6\htdocs\luci-static\resources\protocol\map.js,\studies\maps\netherlands\map.js,73,1210,0
+map.js,map.js,\protocols\luci-proto-ipv6\htdocs\luci-static\resources\protocol\map.js,\exporting-server\java\highcharts-export\highcharts-export-convert\target\classes\phantomjs\map.js,73,39,0
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\studies\highcharts-jsdom\index.js,82,93,14
+index.js,index.js,\modules\luci-mod-status\htdocs\luci-static\resources\view\status\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,82,40,8

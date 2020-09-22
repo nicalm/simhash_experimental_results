@@ -1,0 +1,4 @@
+12688-ffi,516-mongo
+Thread.h,Thread.h,\ext\ffi_c\Thread.h,\src\third_party\mozjs-60\extract\js\src\threading\Thread.h,45,133,4
+Types.h,Types.h,\ext\ffi_c\Types.h,\src\third_party\mozjs-60\extract\mfbt\Types.h,42,58,4
+Types.h,Types.h,\ext\ffi_c\Types.h,\src\third_party\mozjs-60\include\mozilla\Types.h,42,58,4

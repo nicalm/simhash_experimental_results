@@ -1,0 +1,5 @@
+4420-zcash,506-ghidra
+main.cpp,main.cpp,\src\main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,4730,41,10
+main.cpp,main.cpp,\src\gtest\main.cpp,\Ghidra\Features\PDB\src\pdb\cpp\main.cpp,42,41,1
+block.cc,block.cc,\src\leveldb\table\block.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\block.cc,207,2336,44
+options.cc,options.cc,\src\leveldb\util\options.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\options.cc,20,507,2

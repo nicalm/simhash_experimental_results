@@ -1,0 +1,4 @@
+2257-core,3709-Signal-Desktop
+config.js,config.js,\core\js\config.js,\app\config.js,48,33,3
+settings.js,settings.js,\settings\js\settings.js,\js\modules\settings.js,72,76,11
+settings.js,settings.js,\apps\files_external\js\settings.js,\js\modules\settings.js,1085,76,12

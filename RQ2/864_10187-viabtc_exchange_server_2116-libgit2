@@ -1,0 +1,11 @@
+10187-viabtc_exchange_server,2116-libgit2
+http_parser.c,http_parser.c,\utils\http_parser.c,\deps\http-parser\http_parser.c,1850,1620,1426
+http_parser.h,http_parser.h,\utils\http_parser.h,\deps\http-parser\http_parser.h,276,186,158
+net.c,net.c,\depends\hiredis\net.c,\src\net.c,344,149,19
+net.h,net.h,\depends\hiredis\net.h,\src\net.h,15,18,1
+net.h,net.h,\depends\hiredis\net.h,\include\git2\net.h,15,20,1
+read.c,read.c,\depends\hiredis\read.c,\tests\config\read.c,384,652,56
+read.c,read.c,\depends\hiredis\read.c,\tests\refs\read.c,384,225,20
+read.c,read.c,\depends\hiredis\read.c,\tests\object\tag\read.c,384,128,7
+read.c,read.c,\depends\hiredis\read.c,\tests\object\tree\read.c,384,85,6
+win32.h,win32.h,\depends\hiredis\win32.h,\src\hash\sha1\win32.h,32,84,1

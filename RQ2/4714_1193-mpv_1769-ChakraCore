@@ -1,0 +1,10 @@
+1193-mpv,1769-ChakraCore
+common.h,common.h,\common\common.h,\lib\wabt\src\common.h,78,324,3
+stream.h,stream.h,\stream\stream.h,\lib\wabt\src\stream.h,161,150,8
+internal.h,internal.h,\audio\out\internal.h,\pal\src\safecrt\internal.h,95,712,3
+context.h,context.h,\video\out\gpu\context.h,\pal\src\include\pal\context.h,57,383,0
+utils.h,utils.h,\video\out\gpu\utils.h,\pal\src\include\pal\utils.h,68,23,2
+common.h,common.h,\video\out\opengl\common.h,\lib\wabt\src\common.h,197,324,5
+context.h,context.h,\video\out\opengl\context.h,\pal\src\include\pal\context.h,20,383,0
+utils.h,utils.h,\video\out\opengl\utils.h,\pal\src\include\pal\utils.h,28,23,1
+common.h,common.h,\video\out\vulkan\common.h,\lib\wabt\src\common.h,27,324,4

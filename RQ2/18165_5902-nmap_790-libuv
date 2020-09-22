@@ -1,0 +1,12 @@
+5902-nmap,790-libuv
+getaddrinfo.c,getaddrinfo.c,\nbase\getaddrinfo.c,\src\unix\getaddrinfo.c,103,188,25
+getaddrinfo.c,getaddrinfo.c,\nbase\getaddrinfo.c,\src\win\getaddrinfo.c,103,313,17
+getnameinfo.c,getnameinfo.c,\nbase\getnameinfo.c,\src\unix\getnameinfo.c,46,80,9
+getnameinfo.c,getnameinfo.c,\nbase\getnameinfo.c,\src\win\getnameinfo.c,46,110,9
+getopt.c,getopt.c,\nbase\getopt.c,\samples\socks5-proxy\getopt.c,246,78,15
+util.c,util.c,\ncat\util.c,\samples\socks5-proxy\util.c,502,43,18
+util.c,util.c,\ncat\util.c,\src\win\util.c,502,1211,91
+queue.h,queue.h,\libdnet-stripped\include\queue.h,\src\queue.h,314,73,4
+getopt.c,getopt.c,\libpcap\missing\getopt.c,\samples\socks5-proxy\getopt.c,76,78,52
+error.c,error.c,\nsock\src\error.c,\src\win\error.c,24,132,4
+timer.c,timer.c,\nsock\tests\timer.c,\src\timer.c,88,103,15

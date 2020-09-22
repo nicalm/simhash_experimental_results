@@ -1,0 +1,4 @@
+11788-fbthrift,9205-rubygems
+setup.rb,setup.rb,\thrift\lib\rb\setup.rb,\setup.rb,1244,26,5
+server.rb,server.rb,\thrift\lib\rb\benchmark\server.rb,\lib\rubygems\server.rb,50,648,11
+exceptions.rb,exceptions.rb,\thrift\lib\rb\lib\thrift\exceptions.rb,\lib\rubygems\exceptions.rb,60,119,13

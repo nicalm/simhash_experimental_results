@@ -1,0 +1,8 @@
+1194-salt,7921-mobile-chrome-apps
+auth.py,auth.py,\salt\runners\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,18,257,0
+client.py,client.py,\salt\transport\client.py,\chrome-cordova\gcmServer\xmpp\client.py,121,223,2
+server.py,server.py,\salt\transport\server.py,\chrome-cordova\gcmServer\server.py,49,83,0
+debug.py,debug.py,\salt\utils\debug.py,\chrome-cordova\gcmServer\xmpp\debug.py,75,241,10
+client.py,client.py,\salt\client\ssh\client.py,\chrome-cordova\gcmServer\xmpp\client.py,123,223,1
+auth.py,auth.py,\salt\transport\mixins\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,384,257,9
+roster.py,roster.py,\tests\unit\files\rosters\ansible\roster.py,\chrome-cordova\gcmServer\xmpp\roster.py,41,112,0

@@ -1,0 +1,3 @@
+4482-nixpkgs,548-ruby
+test.rb,test.rb,\pkgs\development\ruby-modules\with-packages\test.rb,\basictest\test.rb,53,1982,6
+test.rb,test.rb,\pkgs\development\ruby-modules\with-packages\test.rb,\spec\ruby\core\kernel\fixtures\test.rb,53,242,5

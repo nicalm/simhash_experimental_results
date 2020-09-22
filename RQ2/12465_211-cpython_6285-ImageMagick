@@ -1,0 +1,11 @@
+211-cpython,6285-ImageMagick
+token.h,token.h,\Include\token.h,\MagickCore\token.h,81,23,5
+resource.c,resource.c,\Modules\resource.c,\MagickCore\resource.c,341,1166,54
+token.c,token.c,\Parser\token.c,\MagickCore\token.c,233,622,64
+import.c,import.c,\Python\import.c,\MagickWand\import.c,1863,1145,172
+thread.c,thread.c,\Python\thread.c,\MagickCore\thread.c,167,106,29
+semaphore.c,semaphore.c,\Modules\_multiprocessing\semaphore.c,\MagickCore\semaphore.c,543,271,56
+cache.c,cache.c,\Modules\_sqlite\cache.c,\MagickCore\cache.c,273,3512,46
+cache.h,cache.h,\Modules\_sqlite\cache.h,\MagickCore\cache.h,32,51,2
+module.c,module.c,\Modules\_sqlite\module.c,\MagickCore\module.c,367,1030,61
+module.h,module.h,\Modules\_sqlite\module.h,\MagickCore\module.h,21,50,1

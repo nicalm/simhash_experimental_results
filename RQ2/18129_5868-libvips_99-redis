@@ -1,0 +1,11 @@
+5868-libvips,99-redis
+math.c,math.c,\libvips\arithmetic\math.c,\deps\jemalloc\test\unit\math.c,240,344,21
+min.c,min.c,\libvips\arithmetic\min.c,\deps\lua\etc\min.c,314,30,8
+stats.c,stats.c,\libvips\arithmetic\stats.c,\deps\jemalloc\src\stats.c,311,1026,27
+stats.c,stats.c,\libvips\arithmetic\stats.c,\deps\jemalloc\test\unit\stats.c,311,313,23
+zone.c,zone.c,\libvips\create\zone.c,\deps\jemalloc\src\zone.c,48,308,7
+object.c,object.c,\libvips\iofuncs\object.c,\src\object.c,2001,1083,169
+util.c,util.c,\libvips\iofuncs\util.c,\src\util.c,1294,590,93
+stream.h,stream.h,\libvips\include\vips\stream.h,\src\stream.h,184,66,1
+util.h,util.h,\libvips\include\vips\util.h,\src\util.h,230,24,2
+util.h,util.h,\libvips\include\vips\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,230,42,7

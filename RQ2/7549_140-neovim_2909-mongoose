@@ -1,0 +1,15 @@
+140-neovim,2909-mongoose
+main.c,main.c,\src\nvim\main.c,\examples\CC3200\main.c,1480,249,49
+main.c,main.c,\src\nvim\main.c,\examples\NXP_K64\main.c,1480,131,22
+main.c,main.c,\src\nvim\main.c,\examples\STM32F4_CC3100\main.c,1480,124,30
+main.c,main.c,\src\nvim\main.c,\examples\ESP32_IDF\main\main.c,1480,75,14
+main.c,main.c,\src\nvim\main.c,\examples\nRF51\http\main.c,1480,64,15
+main.c,main.c,\src\nvim\main.c,\examples\nRF52\http\main.c,1480,66,16
+main.c,main.c,\src\nvim\main.c,\examples\CC3200\ccs\MG_hello\main.c,1480,192,41
+main.c,main.c,\src\nvim\main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,1480,142,29
+main.c,main.c,\src\nvim\main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,1480,129,28
+main.c,main.c,\src\nvim\main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,1480,147,30
+server.c,server.c,\src\nvim\msgpack_rpc\server.c,\examples\connected_device_1\server.c,174,31,7
+server.c,server.c,\src\nvim\msgpack_rpc\server.c,\examples\connected_device_2\server.c,174,62,12
+server.c,server.c,\src\nvim\msgpack_rpc\server.c,\examples\connected_device_3\server.c,174,70,13
+server.c,server.c,\src\nvim\msgpack_rpc\server.c,\examples\connected_device_4\server.c,174,85,17

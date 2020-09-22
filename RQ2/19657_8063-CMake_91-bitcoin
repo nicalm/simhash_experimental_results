@@ -1,0 +1,17 @@
+8063-CMake,91-bitcoin
+hash.h,hash.h,\Utilities\cmcurl\lib\hash.h,\src\hash.h,57,153,4
+hash.h,hash.h,\Utilities\cmcurl\lib\hash.h,\src\secp256k1\src\hash.h,57,27,1
+siphash.h,siphash.h,\Utilities\cmexpat\lib\siphash.h,\src\crypto\siphash.h,230,19,2
+sha1.h,sha1.h,\Utilities\cmlibrhash\librhash\sha1.h,\src\crypto\sha1.h,21,18,2
+sha256.h,sha256.h,\Utilities\cmlibrhash\librhash\sha256.h,\src\crypto\sha256.h,24,21,2
+sha512.h,sha512.h,\Utilities\cmlibrhash\librhash\sha512.h,\src\crypto\sha512.h,24,19,2
+util.h,util.h,\Utilities\cmlibrhash\librhash\util.h,\src\rpc\util.h,23,173,2
+util.h,util.h,\Utilities\cmlibrhash\librhash\util.h,\src\secp256k1\src\util.h,23,99,6
+test.c,test.c,\Utilities\KWIML\test\test.c,\src\crypto\ctaes\test.c,27,96,2
+system.h,system.h,\Utilities\cmcurl\include\curl\system.h,\src\util\system.h,380,200,7
+check.h,check.h,\Utilities\cmliblzma\liblzma\check\check.h,\src\util\check.h,98,21,2
+common.h,common.h,\Utilities\cmliblzma\liblzma\common\common.h,\src\crypto\common.h,136,83,5
+base.h,base.h,\Utilities\cmliblzma\liblzma\api\lzma\base.h,\src\index\base.h,69,44,1
+block.h,block.h,\Utilities\cmliblzma\liblzma\api\lzma\block.h,\src\primitives\block.h,75,109,1
+block.h,block.h,\Utilities\cmliblzma\liblzma\api\lzma\block.h,\src\leveldb\table\block.h,75,26,1
+check.h,check.h,\Utilities\cmliblzma\liblzma\api\lzma\check.h,\src\util\check.h,23,21,1

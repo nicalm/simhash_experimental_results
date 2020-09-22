@@ -1,0 +1,4 @@
+3271-sandstorm,5271-CouchPotatoServer
+Gruntfile.js,Gruntfile.js,\icons\Gruntfile.js,\Gruntfile.js,25,211,9
+wizard.js,wizard.js,\shell\client\setup-wizard\wizard.js,\couchpotato\core\plugins\wizard\static\wizard.js,844,167,34
+profile.js,profile.js,\shell\packages\sandstorm-db\profile.js,\couchpotato\core\plugins\profile\static\profile.js,310,298,35

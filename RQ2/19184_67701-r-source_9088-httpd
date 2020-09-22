@@ -1,0 +1,13 @@
+67701-r-source,9088-httpd
+main.c,main.c,\src\main\main.c,\server\main.c,1257,643,120
+util.c,util.c,\src\main\util.c,\server\util.c,2082,2737,424
+util.c,util.c,\src\main\util.c,\test\unit\util.c,2082,44,9
+util.c,util.c,\src\main\util.c,\modules\dav\main\util.c,2082,1250,268
+lock.c,lock.c,\src\extra\intl\lock.c,\modules\dav\fs\lock.c,701,939,137
+util.c,util.c,\src\library\grid\src\util.c,\server\util.c,178,2737,41
+util.c,util.c,\src\library\grid\src\util.c,\test\unit\util.c,178,44,7
+util.c,util.c,\src\library\grid\src\util.c,\modules\dav\main\util.c,178,1250,38
+filter.c,filter.c,\src\library\stats\src\filter.c,\modules\apreq\filter.c,121,381,23
+util.c,util.c,\src\library\utils\src\windows\util.c,\server\util.c,479,2737,102
+util.c,util.c,\src\library\utils\src\windows\util.c,\test\unit\util.c,479,44,7
+util.c,util.c,\src\library\utils\src\windows\util.c,\modules\dav\main\util.c,479,1250,90

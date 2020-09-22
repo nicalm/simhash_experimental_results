@@ -1,0 +1,4 @@
+2283-capnproto,3405-libevent
+rpc.h,rpc.h,\c++\src\capnp\rpc.h,\include\event2\rpc.h,278,196,4
+thread.h,thread.h,\c++\src\kj\thread.h,\include\event2\thread.h,39,65,6
+http.h,http.h,\c++\src\kj\compat\http.h,\include\event2\http.h,398,347,4

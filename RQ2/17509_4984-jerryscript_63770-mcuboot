@@ -1,0 +1,9 @@
+4984-jerryscript,63770-mcuboot
+config.h,config.h,\jerry-core\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,338,24,4
+setup.py,setup.py,\targets\curie_bsp\setup.py,\scripts\setup.py,129,28,1
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\boot\zephyr\main.c,130,250,27
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\boot\cypress\BlinkyApp\main.c,130,73,11
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\boot\cypress\MCUBootApp\main.c,130,40,7
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\boot\mynewt\src\main.c,130,164,21
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\testplan\mynewt\apps\blinky\src\main.c,130,42,8
+main.c,main.c,\targets\curie_bsp\jerry_app\quark\main.c,\testplan\mynewt\apps\slinky\src\main.c,130,191,26

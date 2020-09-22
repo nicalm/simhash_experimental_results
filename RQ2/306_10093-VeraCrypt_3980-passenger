@@ -1,0 +1,7 @@
+10093-VeraCrypt,3980-passenger
+Common.h,Common.h,\src\Common\Common.h,\src\cxx_supportlib\ConfigKit\Common.h,70,78,4
+Common.h,Common.h,\src\Common\Common.h,\src\agent\Core\ApplicationPool\Common.h,70,97,5
+Crypto.h,Crypto.h,\src\Common\Crypto.h,\src\cxx_supportlib\SecurityKit\Crypto.h,303,74,13
+Registry.h,Registry.h,\src\Common\Registry.h,\src\cxx_supportlib\WrapperRegistry\Registry.h,23,226,2
+Process.cpp,Process.cpp,\src\Platform\Unix\Process.cpp,\src\agent\Core\ApplicationPool\Process.cpp,168,24,6
+Process.h,Process.h,\src\Platform\Unix\Process.h,\src\agent\Core\ApplicationPool\Process.h,25,605,9

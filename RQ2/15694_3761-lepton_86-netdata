@@ -1,0 +1,3 @@
+3761-lepton,86-netdata
+dictionary.c,dictionary.c,\dependencies\brotli\c\common\dictionary.c,\libnetdata\dictionary\dictionary.c,5886,221,5
+dictionary.h,dictionary.h,\dependencies\brotli\c\common\dictionary.h,\libnetdata\dictionary\dictionary.h,21,34,1

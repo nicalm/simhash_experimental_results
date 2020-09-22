@@ -1,0 +1,3 @@
+10093-VeraCrypt,63770-mcuboot
+config.h,config.h,\src\Crypto\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,152,24,4
+config.h,config.h,\src\Common\libzip\config.h,\ext\mbedtls-asn1\include\mbedtls\config.h,60,24,4

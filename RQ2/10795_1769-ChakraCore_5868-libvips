@@ -1,0 +1,6 @@
+1769-ChakraCore,5868-libvips
+binary.h,binary.h,\lib\wabt\src\binary.h,\libvips\arithmetic\binary.h,52,29,2
+error.h,error.h,\lib\wabt\src\error.h,\libvips\include\vips\error.h,32,58,2
+stream.h,stream.h,\lib\wabt\src\stream.h,\libvips\include\vips\stream.h,150,184,2
+internal.h,internal.h,\pal\src\safecrt\internal.h,\libvips\include\vips\internal.h,712,153,8
+debug.h,debug.h,\pal\src\include\pal\debug.h,\libvips\include\vips\debug.h,18,37,6

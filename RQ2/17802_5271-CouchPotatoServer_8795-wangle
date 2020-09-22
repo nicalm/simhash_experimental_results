@@ -1,0 +1,9 @@
+5271-CouchPotatoServer,8795-wangle
+utils.py,utils.py,\libs\git\utils.py,\build\fbcode_builder\utils.py,19,59,0
+utils.py,utils.py,\libs\html5lib\utils.py,\build\fbcode_builder\utils.py,45,59,1
+utils.py,utils.py,\libs\requests\utils.py,\build\fbcode_builder\utils.py,363,59,3
+utils.py,utils.py,\libs\subliminal\utils.py,\build\fbcode_builder\utils.py,22,59,1
+builder.py,builder.py,\libs\suds\builder.py,\build\fbcode_builder\getdeps\builder.py,81,553,6
+utils.py,utils.py,\libs\ndg\httpsclient\utils.py,\build\fbcode_builder\utils.py,252,59,4
+utils.py,utils.py,\libs\oauthlib\oauth1\rfc5849\utils.py,\build\fbcode_builder\utils.py,55,59,1
+utils.py,utils.py,\libs\oauthlib\oauth2\draft25\utils.py,\build\fbcode_builder\utils.py,41,59,0

@@ -1,0 +1,15 @@
+1541-h2o,2578-calibre
+main.c,main.c,\src\main.c,\bypy\windows\main.c,2462,107,28
+setup.py,setup.py,\deps\brotli\setup.py,\setup.py,237,92,1
+util.c,util.c,\lib\core\util.c,\bypy\linux\util.c,769,196,31
+util.c,util.c,\lib\core\util.c,\bypy\macos\util.c,769,169,25
+util.c,util.c,\lib\core\util.c,\bypy\windows\util.c,769,328,37
+util.c,util.c,\t\00unit\lib\core\util.c,\bypy\linux\util.c,203,196,12
+util.c,util.c,\t\00unit\lib\core\util.c,\bypy\macos\util.c,203,169,10
+util.c,util.c,\t\00unit\lib\core\util.c,\bypy\windows\util.c,203,328,10
+build.py,build.py,\deps\picotls\deps\cifra\doc\build.py,\manual\build.py,145,106,2
+build.py,build.py,\deps\picotls\deps\cifra\doc\build.py,\setup\build.py,145,408,4
+conf.py,conf.py,\deps\picotls\deps\cifra\doc\conf.py,\manual\conf.py,35,113,5
+main.c,main.c,\deps\picotls\deps\cifra\src\arm\main.c,\bypy\windows\main.c,385,107,18
+merge.py,merge.py,\deps\picotls\deps\cifra\src\arm\merge.py,\src\calibre\utils\fonts\sfnt\merge.py,22,52,0
+report.py,report.py,\deps\picotls\deps\cifra\src\arm\report.py,\src\calibre\ebooks\oeb\polish\report.py,197,279,1

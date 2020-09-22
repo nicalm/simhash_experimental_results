@@ -1,0 +1,12 @@
+18-electron,2004-skaffold
+main.js,main.js,\spec\static\main.js,\docs\content\en\docs\references\yaml\main.js,223,166,14
+main.js,main.js,\spec\fixtures\snapshot-items-available\main.js,\docs\content\en\docs\references\yaml\main.js,22,166,3
+main.js,main.js,\spec\fixtures\api\cookie-app\main.js,\docs\content\en\docs\references\yaml\main.js,42,166,3
+main.js,main.js,\spec\fixtures\api\default-menu\main.js,\docs\content\en\docs\references\yaml\main.js,27,166,4
+main.js,main.js,\spec\fixtures\api\exit-closes-all-windows-app\main.js,\docs\content\en\docs\references\yaml\main.js,15,166,2
+main.js,main.js,\spec\fixtures\api\mixed-sandbox-app\main.js,\docs\content\en\docs\references\yaml\main.js,67,166,10
+main.js,main.js,\spec\fixtures\api\relaunch\main.js,\docs\content\en\docs\references\yaml\main.js,19,166,1
+main.js,main.js,\spec\fixtures\api\site-instance-overrides\main.js,\docs\content\en\docs\references\yaml\main.js,28,166,3
+main.js,main.js,\spec\fixtures\api\window-all-closed\main.js,\docs\content\en\docs\references\yaml\main.js,16,166,1
+main.js,main.js,\spec\fixtures\extensions\chrome-api\main.js,\docs\content\en\docs\references\yaml\main.js,24,166,3
+main.js,main.js,\spec-main\fixtures\api\net-log\main.js,\docs\content\en\docs\references\yaml\main.js,24,166,4

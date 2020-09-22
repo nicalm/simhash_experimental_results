@@ -1,0 +1,3 @@
+4984-jerryscript,6444-yara
+test-api.c,test-api.c,\tests\unit-core\test-api.c,\tests\test-api.c,735,591,57
+common.h,common.h,\jerry-core\parser\js\common.h,\common.h,78,91,12

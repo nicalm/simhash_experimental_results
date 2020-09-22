@@ -1,0 +1,3 @@
+4960-capstone,6664-ModSecurity
+platform.h,platform.h,\include\platform.h,\others\mbedtls\platform.h,80,106,12
+platform.h,platform.h,\include\capstone\platform.h,\others\mbedtls\platform.h,88,106,15

@@ -1,0 +1,4 @@
+1541-h2o,18-electron
+dictionary.h,dictionary.h,\deps\brotli\c\common\dictionary.h,\native_mate\native_mate\dictionary.h,21,78,2
+dictionary.h,dictionary.h,\deps\brotli\c\common\dictionary.h,\shell\common\gin_helper\dictionary.h,21,115,2
+common.h,common.h,\deps\mruby\include\mruby\common.h,\shell\browser\notifications\win\win32_desktop_notifications\common.h,52,48,1

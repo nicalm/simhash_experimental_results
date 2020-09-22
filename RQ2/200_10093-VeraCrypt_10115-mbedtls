@@ -1,0 +1,4 @@
+10093-VeraCrypt,10115-mbedtls
+config.h,config.h,\src\Crypto\config.h,\include\mbedtls\config.h,152,143,3
+pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\include\mbedtls\pkcs11.h,31,64,7
+config.h,config.h,\src\Common\libzip\config.h,\include\mbedtls\config.h,60,143,3

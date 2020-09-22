@@ -1,0 +1,4 @@
+5868-libvips,8848-lwjgl3
+debug.h,debug.h,\libvips\include\vips\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,37,39,11
+error.h,error.h,\libvips\include\vips\error.h,\modules\lwjgl\tootle\src\main\c\error.h,58,53,4
+vector.h,vector.h,\libvips\include\vips\vector.h,\modules\lwjgl\tootle\src\main\c\vector.h,73,92,2

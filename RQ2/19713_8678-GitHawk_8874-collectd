@@ -1,0 +1,4 @@
+8678-GitHawk,8874-collectd
+plugin.c,plugin.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plugin.c,\src\daemon\plugin.c,27,2059,6
+table.c,table.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\table.c,\src\table.c,576,365,70
+plugin.h,plugin.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\plugin.h,\src\daemon\plugin.h,20,248,4

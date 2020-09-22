@@ -1,0 +1,17 @@
+12873-mediawiki,65020-Edit-Flow
+bootstrap.php,bootstrap.php,\tests\phpunit\bootstrap.php,\tests\bootstrap.php,44,21,6
+index.js,index.js,\resources\src\mediawiki.api\index.js,\tests\e2e\utils\index.js,237,32,4
+index.js,index.js,\resources\src\mediawiki.api\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,237,78,5
+index.js,index.js,\resources\src\mediawiki.api\index.js,\modules\calendar\lib\react\calendar-filters\index.js,237,152,20
+index.js,index.js,\resources\src\mediawiki.api\index.js,\modules\calendar\lib\react\calendar-header\index.js,237,35,3
+index.js,index.js,\resources\src\mediawiki.api\index.js,\modules\calendar\lib\react\combobox\index.js,237,166,12
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\tests\e2e\utils\index.js,51,32,2
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,51,78,4
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\modules\calendar\lib\react\calendar-filters\index.js,51,152,11
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\modules\calendar\lib\react\calendar-header\index.js,51,35,1
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\modules\calendar\lib\react\combobox\index.js,51,166,7
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\tests\e2e\utils\index.js,15,32,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,15,78,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\modules\calendar\lib\react\calendar-filters\index.js,15,152,3
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\modules\calendar\lib\react\calendar-header\index.js,15,35,1
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\modules\calendar\lib\react\combobox\index.js,15,166,3

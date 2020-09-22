@@ -1,0 +1,7 @@
+11788-fbthrift,8874-collectd
+common.h,common.h,\thrift\compiler\common.h,\src\utils\common\common.h,39,131,1
+client.h,client.h,\thrift\lib\py3\client.h,\src\libcollectdclient\collectd\client.h,116,38,0
+server.h,server.h,\thrift\lib\py3\server.h,\src\libcollectdclient\collectd\server.h,37,25,0
+types.h,types.h,\thrift\lib\py3\types.h,\src\libcollectdclient\collectd\types.h,20,48,0
+testing.h,testing.h,\thrift\lib\cpp2\reflection\testing.h,\src\testing.h,21,105,0
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\src\libcollectdclient\collectd\server.h,58,25,0

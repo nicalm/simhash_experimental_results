@@ -1,0 +1,5 @@
+2578-calibre,4287-cockpit
+main.c,main.c,\bypy\windows\main.c,\src\tls\main.c,107,89,6
+main.c,main.c,\bypy\windows\main.c,\src\ws\main.c,107,242,19
+inotify.py,inotify.py,\src\calibre\utils\inotify.py,\pkg\lib\inotify.py,243,46,4
+utils.h,utils.h,\src\calibre\ebooks\pdf\utils.h,\src\tls\utils.h,29,24,2

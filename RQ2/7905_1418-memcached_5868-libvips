@@ -1,0 +1,6 @@
+1418-memcached,5868-libvips
+cache.c,cache.c,\cache.c,\libvips\conversion\cache.c,132,86,7
+cache.c,cache.c,\cache.c,\libvips\iofuncs\cache.c,132,638,28
+stats.c,stats.c,\stats.c,\libvips\arithmetic\stats.c,274,311,27
+util.c,util.c,\util.c,\libvips\iofuncs\util.c,193,1294,49
+util.h,util.h,\util.h,\libvips\include\vips\util.h,20,230,3

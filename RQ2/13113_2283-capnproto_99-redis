@@ -1,0 +1,5 @@
+2283-capnproto,99-redis
+async.h,async.h,\c++\src\kj\async.h,\deps\hiredis\async.h,274,63,2
+hash.h,hash.h,\c++\src\kj\hash.h,\deps\jemalloc\include\jemalloc\internal\hash.h,95,228,17
+mutex.h,mutex.h,\c++\src\kj\mutex.h,\deps\jemalloc\include\jemalloc\internal\mutex.h,333,189,37
+test.h,test.h,\c++\src\kj\test.h,\deps\jemalloc\test\include\test\test.h,107,300,3

@@ -1,0 +1,12 @@
+1769-ChakraCore,548-ruby
+error.h,error.h,\lib\wabt\src\error.h,\internal\error.h,32,120,4
+range.h,range.h,\lib\wabt\src\range.h,\internal\range.h,15,22,2
+internal.h,internal.h,\pal\src\safecrt\internal.h,\internal.h,712,32,3
+sprintf.c,sprintf.c,\pal\src\safecrt\sprintf.c,\sprintf.c,34,1128,6
+debug.h,debug.h,\pal\src\include\pal\debug.h,\internal\debug.h,18,16,1
+debug.h,debug.h,\pal\src\include\pal\debug.h,\include\ruby\debug.h,18,70,5
+file.h,file.h,\pal\src\include\pal\file.h,\internal\file.h,45,25,3
+file.h,file.h,\pal\src\include\pal\file.h,\missing\file.h,45,16,3
+file.h,file.h,\pal\src\include\pal\file.h,\win32\file.h,45,40,1
+list.h,list.h,\pal\src\include\pal\list.h,\ccan\list\list.h,55,263,8
+process.h,process.h,\pal\src\include\pal\process.h,\internal\process.h,27,91,5

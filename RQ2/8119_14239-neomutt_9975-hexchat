@@ -1,0 +1,9 @@
+14239-neomutt,9975-hexchat
+menu.c,menu.c,\menu.c,\src\fe-gtk\menu.c,1219,2053,375
+ssl.c,ssl.c,\conn\ssl.c,\src\common\ssl.c,1018,386,122
+parse.c,parse.c,\email\parse.c,\plugins\sysinfo\unix\parse.c,1240,294,82
+url.c,url.c,\email\url.c,\src\common\url.c,268,502,74
+url.h,url.h,\email\url.h,\src\common\url.h,46,17,1
+util.c,util.c,\imap\util.c,\src\common\util.c,784,1287,222
+history.c,history.c,\mutt\history.c,\src\common\history.c,385,90,34
+notify.c,notify.c,\mutt\notify.c,\src\common\notify.c,94,570,27

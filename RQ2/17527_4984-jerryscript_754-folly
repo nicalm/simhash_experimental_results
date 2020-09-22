@@ -1,0 +1,4 @@
+4984-jerryscript,754-folly
+setup.py,setup.py,\targets\curie_bsp\setup.py,\folly\python\setup.py,129,25,1
+main.cpp,main.cpp,\targets\particle\source\main.cpp,\folly\logging\example\main.cpp,85,23,1
+main.cpp,main.cpp,\targets\particle\source\main.cpp,\folly\test\function_benchmark\main.cpp,85,301,8

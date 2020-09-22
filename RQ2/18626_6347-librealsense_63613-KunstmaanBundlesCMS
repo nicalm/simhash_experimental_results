@@ -1,0 +1,4 @@
+6347-librealsense,63613-KunstmaanBundlesCMS
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,480,77,12
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,480,15,4
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,480,27,2

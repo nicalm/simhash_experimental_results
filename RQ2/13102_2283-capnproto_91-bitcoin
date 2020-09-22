@@ -1,0 +1,16 @@
+2283-capnproto,91-bitcoin
+common.h,common.h,\c++\src\benchmark\common.h,\src\crypto\common.h,229,83,17
+arena.h,arena.h,\c++\src\capnp\arena.h,\src\leveldb\util\arena.h,271,39,10
+common.h,common.h,\c++\src\capnp\common.h,\src\crypto\common.h,508,83,18
+endian.h,endian.h,\c++\src\capnp\endian.h,\src\compat\endian.h,212,198,23
+serialize.h,serialize.h,\c++\src\capnp\serialize.h,\src\serialize.h,87,714,14
+arena.h,arena.h,\c++\src\kj\arena.h,\src\leveldb\util\arena.h,123,39,9
+common.h,common.h,\c++\src\kj\common.h,\src\crypto\common.h,1054,83,19
+hash.h,hash.h,\c++\src\kj\hash.h,\src\hash.h,95,153,18
+hash.h,hash.h,\c++\src\kj\hash.h,\src\secp256k1\src\hash.h,95,27,0
+string.h,string.h,\c++\src\kj\string.h,\src\util\string.h,440,34,7
+table.h,table.h,\c++\src\kj\table.h,\src\leveldb\include\leveldb\table.h,1113,38,6
+time.h,time.h,\c++\src\kj\time.h,\src\util\time.h,36,19,0
+timer.h,timer.h,\c++\src\kj\timer.h,\src\logging\timer.h,48,70,6
+vector.h,vector.h,\c++\src\kj\vector.h,\src\util\vector.h,99,32,5
+common.h,common.h,\c++\src\kj\parse\common.h,\src\crypto\common.h,564,83,21

@@ -1,0 +1,14 @@
+18692-spdk,86-netdata
+json.h,json.h,\include\spdk\json.h,\backends\json\json.h,110,27,1
+json.h,json.h,\include\spdk\json.h,\libnetdata\json\json.h,110,48,3
+log.h,log.h,\include\spdk\log.h,\libnetdata\log\log.h,41,76,2
+log.h,log.h,\include\spdk_internal\log.h,\libnetdata\log\log.h,57,76,4
+threads.c,threads.c,\lib\env_dpdk\threads.c,\libnetdata\threads\threads.c,59,148,11
+log.c,log.c,\lib\log\log.c,\libnetdata\log\log.c,153,565,34
+socket.c,socket.c,\lib\rte_vhost\socket.c,\libnetdata\socket\socket.c,623,1305,121
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,116,171,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,116,168,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,116,58,0
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,116,51,0
+common.h,common.h,\module\bdev\nvme\common.h,\daemon\common.h,84,48,1
+common.py,common.py,\scripts\perf\nvmf\common.py,\.travis\package_management\common.py,30,140,1

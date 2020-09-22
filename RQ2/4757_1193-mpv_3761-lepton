@@ -1,0 +1,7 @@
+1193-mpv,3761-lepton
+encode.h,encode.h,\common\encode.h,\dependencies\brotli\c\include\brotli\encode.h,38,61,1
+command.h,command.h,\player\command.h,\dependencies\brotli\c\enc\command.h,66,132,1
+context.h,context.h,\video\out\gpu\context.h,\dependencies\brotli\c\dec\context.h,57,130,3
+context.h,context.h,\video\out\gpu\context.h,\dependencies\brotli\c\enc\context.h,57,84,2
+context.h,context.h,\video\out\opengl\context.h,\dependencies\brotli\c\dec\context.h,20,130,1
+context.h,context.h,\video\out\opengl\context.h,\dependencies\brotli\c\enc\context.h,20,84,1

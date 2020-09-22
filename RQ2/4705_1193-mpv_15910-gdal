@@ -1,0 +1,4 @@
+1193-mpv,15910-gdal
+io.c,io.c,\osdep\io.c,\gdal\alg\internal_libqhull\io.c,638,2883,117
+io.h,io.h,\osdep\io.h,\gdal\alg\internal_libqhull\io.h,147,92,2
+io.h,io.h,\osdep\io.h,\gdal\ogr\ogrsf_frmts\cad\libopencad\dwg\io.h,147,104,4

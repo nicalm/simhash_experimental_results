@@ -1,0 +1,11 @@
+211-cpython,5868-libvips
+object.h,object.h,\Include\object.h,\libvips\include\vips\object.h,332,365,26
+object.c,object.c,\Objects\object.c,\libvips\iofuncs\object.c,1792,2001,381
+object.h,object.h,\Include\cpython\object.h,\libvips\include\vips\object.h,278,365,10
+internal.h,internal.h,\Modules\expat\internal.h,\libvips\include\vips\internal.h,44,153,8
+semaphore.c,semaphore.c,\Modules\_multiprocessing\semaphore.c,\libvips\iofuncs\semaphore.c,543,72,16
+cache.c,cache.c,\Modules\_sqlite\cache.c,\libvips\conversion\cache.c,273,86,8
+cache.c,cache.c,\Modules\_sqlite\cache.c,\libvips\iofuncs\cache.c,273,638,45
+util.c,util.c,\Modules\_sqlite\util.c,\libvips\iofuncs\util.c,93,1294,25
+util.h,util.h,\Modules\_sqlite\util.h,\libvips\include\vips\util.h,16,230,3
+extract.c,extract.c,\PC\bdist_wininst\extract.c,\libvips\conversion\extract.c,240,264,25

@@ -1,0 +1,9 @@
+10314-ovs,4597-openvpn
+compat.h,compat.h,\datapath\compat.h,\src\compat\compat.h,59,33,5
+dhcp.h,dhcp.h,\lib\dhcp.h,\src\openvpn\dhcp.h,39,49,7
+log.c,log.c,\ovsdb\log.c,\sample\sample-plugins\log\log.c,693,130,46
+list.h,list.h,\include\openvswitch\list.h,\src\openvpn\list.h,203,129,26
+socket.c,socket.c,\datapath\linux\compat\socket.c,\src\openvpn\socket.c,27,3367,5
+utils.c,utils.c,\datapath\linux\compat\utils.c,\src\plugins\auth-pam\utils.c,88,81,15
+socket.h,socket.h,\include\sparse\sys\socket.h,\src\openvpn\socket.h,139,919,13
+list.h,list.h,\datapath\linux\compat\include\linux\list.h,\src\openvpn\list.h,24,129,3

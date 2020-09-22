@@ -1,0 +1,4 @@
+1194-salt,2475-fmt
+conf.py,conf.py,\doc\conf.py,\doc\conf.py,390,37,11
+build.py,build.py,\pkg\rpm\build.py,\doc\build.py,38,79,1
+manage.py,manage.py,\salt\runners\manage.py,\support\manage.py,331,195,2

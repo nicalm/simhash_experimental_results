@@ -1,0 +1,13 @@
+6347-librealsense,754-folly
+setup.py,setup.py,\wrappers\python\setup.py,\folly\python\setup.py,64,25,2
+setup.py,setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,\folly\python\setup.py,21,25,0
+setup.py,setup.py,\wrappers\python\third_party\pybind11\setup.py,\folly\python\setup.py,73,25,2
+Range.h,Range.h,\third-party\realsense-file\rosbag\msgs\sensor_msgs\Range.h,\folly\Range.h,222,1011,23
+String.h,String.h,\third-party\realsense-file\rosbag\msgs\std_msgs\String.h,\folly\String.h,128,265,20
+String.h,String.h,\third-party\realsense-file\rosbag\msgs\std_msgs\String.h,\folly\gen\String.h,128,118,16
+String.h,String.h,\third-party\realsense-file\rosbag\msgs\std_msgs\String.h,\folly\portability\String.h,128,21,2
+Time.h,Time.h,\third-party\realsense-file\rosbag\msgs\std_msgs\Time.h,\folly\portability\Time.h,127,38,2
+functional.h,functional.h,\wrappers\python\third_party\pybind11\include\pybind11\functional.h,\folly\experimental\pushmi\detail\functional.h,53,121,9
+functional.h,functional.h,\wrappers\python\third_party\pybind11\include\pybind11\functional.h,\folly\experimental\pushmi\executor\functional.h,53,73,8
+functional.h,functional.h,\wrappers\python\third_party\pybind11\include\pybind11\functional.h,\folly\experimental\pushmi\receiver\functional.h,53,98,8
+functional.h,functional.h,\wrappers\python\third_party\pybind11\include\pybind11\functional.h,\folly\experimental\pushmi\sender\functional.h,53,35,8

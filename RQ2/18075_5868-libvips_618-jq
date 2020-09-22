@@ -1,0 +1,3 @@
+5868-libvips,618-jq
+util.c,util.c,\libvips\iofuncs\util.c,\src\util.c,1294,380,78
+util.h,util.h,\libvips\include\vips\util.h,\src\util.h,230,42,7

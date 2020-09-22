@@ -1,0 +1,4 @@
+4287-cockpit,6422-roundcubemail
+list.js,list.js,\pkg\dashboard\list.js,\program\js\list.js,501,1318,97
+client.js,client.js,\pkg\docker\client.js,\installer\client.js,603,26,7
+client.js,client.js,\pkg\storaged\client.js,\installer\client.js,694,26,5

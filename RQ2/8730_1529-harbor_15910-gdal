@@ -1,0 +1,8 @@
+1529-harbor,15910-gdal
+misc.py,misc.py,\make\photon\prepare\utils\misc.py,\autotest\gcore\misc.py,122,473,2
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\gdal\swig\python\osgeo\__init__.py,17,40,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\gdal\swig\python\osgeo\__init__.py,42,40,2
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\gdal\swig\python\osgeo\__init__.py,53,40,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\gdal\swig\python\osgeo\__init__.py,44,40,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\gdal\swig\python\osgeo\__init__.py,60,40,2
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\gdal\swig\python\osgeo\__init__.py,17,40,1

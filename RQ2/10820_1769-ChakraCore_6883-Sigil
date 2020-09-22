@@ -1,0 +1,3 @@
+1769-ChakraCore,6883-Sigil
+error.h,error.h,\lib\wabt\src\error.h,\internal\gumbo\error.h,32,114,2
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\3rdparty\hunspell\src\win_api\config.h,247,68,0

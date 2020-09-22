@@ -1,0 +1,3 @@
+5271-CouchPotatoServer,65020-Edit-Flow
+block.js,block.js,\couchpotato\static\scripts\block.js,\blocks\src\custom-status\block.js,25,81,3
+settings.js,settings.js,\couchpotato\static\scripts\page\settings.js,\modules\settings\lib\settings.js,1012,71,14

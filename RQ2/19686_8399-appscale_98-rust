@@ -1,0 +1,16 @@
+8399-appscale,98-rust
+runtests.py,runtests.py,\AppServer\lib\google-api-python-client\runtests.py,\src\etc\test-float-parse\runtests.py,23,259,5
+runtests.py,runtests.py,\AppServer\lib\django-1.2\tests\runtests.py,\src\etc\test-float-parse\runtests.py,254,259,11
+runtests.py,runtests.py,\AppServer\lib\django-1.3\tests\runtests.py,\src\etc\test-float-parse\runtests.py,215,259,10
+runtests.py,runtests.py,\AppServer\lib\django-1.4\tests\runtests.py,\src\etc\test-float-parse\runtests.py,254,259,10
+runtests.py,runtests.py,\AppServer\lib\django-1.5\tests\runtests.py,\src\etc\test-float-parse\runtests.py,257,259,10
+test.py,test.py,\AppServer\lib\setuptools-0.6c11\setuptools\command\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,94,43,2
+unicode.py,unicode.py,\AppServer\lib\django-1.2\tests\regressiontests\templates\unicode.py,\src\libcore\unicode\unicode.py,17,447,0
+unicode.py,unicode.py,\AppServer\lib\django-1.3\tests\regressiontests\templates\unicode.py,\src\libcore\unicode\unicode.py,17,447,0
+unicode.py,unicode.py,\AppServer\lib\django-1.4\tests\regressiontests\templates\unicode.py,\src\libcore\unicode\unicode.py,17,447,0
+unicode.py,unicode.py,\AppServer\lib\django-1.5\tests\regressiontests\templates\unicode.py,\src\libcore\unicode\unicode.py,19,447,0
+test.py,test.py,\AppServer\lib\django-1.2\django\core\management\commands\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,32,43,2
+test.py,test.py,\AppServer\lib\django-1.3\django\core\management\commands\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,32,43,2
+test.py,test.py,\AppServer\lib\django-1.4\django\core\management\commands\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,59,43,2
+test.py,test.py,\AppServer\lib\django-1.5\django\core\management\commands\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,59,43,2
+test.py,test.py,\AppServer\google\appengine\_internal\django\core\management\commands\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,32,43,2

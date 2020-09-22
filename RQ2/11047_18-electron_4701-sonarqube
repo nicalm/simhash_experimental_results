@@ -1,0 +1,12 @@
+18-electron,4701-sonarqube
+index.js,index.js,\npm\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,15,79,4
+index.js,index.js,\npm\index.js,\server\sonar-web\config\documentation-loader\index.js,15,28,1
+index.js,index.js,\spec-main\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,75,79,6
+index.js,index.js,\spec-main\index.js,\server\sonar-web\config\documentation-loader\index.js,75,28,1
+utils.js,utils.js,\script\lib\utils.js,\server\sonar-web\config\utils.js,74,58,6
+index.js,index.js,\script\release\notes\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,149,79,13
+index.js,index.js,\script\release\notes\index.js,\server\sonar-web\config\documentation-loader\index.js,149,28,1
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,17,79,0
+index.js,index.js,\spec\fixtures\auto-update\check\index.js,\server\sonar-web\config\documentation-loader\index.js,17,28,0
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,33,79,2
+index.js,index.js,\spec\fixtures\auto-update\update\index.js,\server\sonar-web\config\documentation-loader\index.js,33,28,1

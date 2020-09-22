@@ -1,0 +1,12 @@
+18309-tor,2578-calibre
+metrics.py,metrics.py,\scripts\maint\practracker\metrics.py,\src\calibre\utils\fonts\sfnt\metrics.py,40,97,0
+main.c,main.c,\src\app\main\main.c,\bypy\windows\main.c,1029,107,23
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\db\tests\base.py,60,94,0
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\devices\mtp\base.py,60,45,0
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\ebooks\oeb\base.py,60,1466,1
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\srv\tests\base.py,60,126,0
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\ebooks\metadata\book\base.py,60,612,1
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\ebooks\metadata\sources\base.py,60,312,1
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\ebooks\oeb\polish\check\base.py,60,40,0
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\ebooks\oeb\polish\tests\base.py,60,88,0
+base.py,base.py,\src\ext\ed25519\ref10\base.py,\src\calibre\gui2\tweak_book\editor\syntax\base.py,60,201,0

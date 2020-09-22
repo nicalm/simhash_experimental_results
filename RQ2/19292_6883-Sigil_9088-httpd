@@ -1,0 +1,6 @@
+6883-Sigil,9088-httpd
+util.c,util.c,\internal\gumbo\util.c,\server\util.c,49,2737,16
+util.c,util.c,\internal\gumbo\util.c,\test\unit\util.c,49,44,7
+util.c,util.c,\internal\gumbo\util.c,\modules\dav\main\util.c,49,1250,14
+lock.c,lock.c,\3rdparty\hunspell\intl\lock.c,\modules\dav\fs\lock.c,701,939,137
+log.c,log.c,\3rdparty\hunspell\intl\log.c,\server\log.c,82,1428,26

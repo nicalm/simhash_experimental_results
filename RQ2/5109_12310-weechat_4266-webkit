@@ -1,0 +1,12 @@
+12310-weechat,4266-webkit
+plugin.h,plugin.h,\src\plugins\plugin.h,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\src\google\protobuf\compiler\plugin.h,35,18,1
+main.c,main.c,\src\gui\curses\headless\main.c,\ManualTests\NPN_Invoke\main.c,64,187,14
+main.c,main.c,\src\gui\curses\headless\main.c,\Tools\MiniBrowser\gtk\main.c,64,521,17
+main.c,main.c,\src\gui\curses\headless\main.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\main.c,64,174,15
+main.c,main.c,\src\gui\curses\headless\main.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\main.c,64,35,11
+main.c,main.c,\src\gui\curses\headless\main.c,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\audio_processing\test\android\apmtest\jni\main.c,64,185,8
+main.c,main.c,\src\gui\curses\normal\main.c,\ManualTests\NPN_Invoke\main.c,16,187,2
+main.c,main.c,\src\gui\curses\normal\main.c,\Tools\MiniBrowser\gtk\main.c,16,521,3
+main.c,main.c,\src\gui\curses\normal\main.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\main.c,16,174,3
+main.c,main.c,\src\gui\curses\normal\main.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\main.c,16,35,4
+main.c,main.c,\src\gui\curses\normal\main.c,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\audio_processing\test\android\apmtest\jni\main.c,16,185,1

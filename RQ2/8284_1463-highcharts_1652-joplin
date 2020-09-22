@@ -1,0 +1,13 @@
+1463-highcharts,1652-joplin
+compile.js,compile.js,\tools\compile.js,\ElectronClient\app\compile.js,79,42,5
+index.js,index.js,\studies\highcharts-jsdom\index.js,\ReactNativeClient\locales\index.js,93,71,0
+index.js,index.js,\studies\highcharts-jsdom\index.js,\Clipper\joplin-webclipper\content_scripts\index.js,93,352,12
+index.js,index.js,\studies\highcharts-jsdom\index.js,\ElectronClient\app\locales\index.js,93,71,0
+index.js,index.js,\studies\highcharts-jsdom\index.js,\Clipper\joplin-webclipper\popup\src\index.js,93,82,7
+log.js,log.js,\tools\gulptasks\lib\log.js,\ReactNativeClient\lib\components\screens\log.js,64,117,13
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\CliClient\app\app.js,325,357,17
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\ElectronClient\app\app.js,325,1144,35
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\ReactNativeClient\locales\index.js,40,71,0
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\Clipper\joplin-webclipper\content_scripts\index.js,40,352,10
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\ElectronClient\app\locales\index.js,40,71,0
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\Clipper\joplin-webclipper\popup\src\index.js,40,82,6

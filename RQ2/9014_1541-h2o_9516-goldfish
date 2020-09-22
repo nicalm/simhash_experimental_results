@@ -1,0 +1,6 @@
+1541-h2o,9516-goldfish
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\cloud.google.com\go\storage\reader.go,103,41,14
+reader.go,reader.go,\deps\brotli\go\cbrotli\reader.go,\vendor\github.com\keybase\go-crypto\openpgp\packet\reader.go,103,47,19
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\cloud.google.com\go\storage\writer.go,84,108,28
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\mailru\easyjson\jwriter\writer.go,84,255,23
+writer.go,writer.go,\deps\brotli\go\cbrotli\writer.go,\vendor\github.com\hashicorp\vault\helper\gated-writer\writer.go,84,31,10

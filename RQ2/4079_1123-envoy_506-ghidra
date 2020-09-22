@@ -1,0 +1,4 @@
+1123-envoy,506-ghidra
+types.h,types.h,\include\envoy\upstream\types.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,31,280,0
+types.h,types.h,\include\envoy\upstream\types.h,\Ghidra\Features\Decompiler\src\decompile\cpp\types.h,31,161,0
+context.cc,context.cc,\source\extensions\filters\common\expr\context.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\context.cc,199,166,23

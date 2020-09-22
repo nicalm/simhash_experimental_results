@@ -1,0 +1,4 @@
+63622-mirador,7747-Attendize
+config.js,config.js,\src\state\actions\config.js,\public\vendor\vue\src\config.js,21,40,3
+config.js,config.js,\src\state\reducers\config.js,\public\vendor\vue\src\config.js,15,40,1
+config.js,config.js,\src\state\selectors\config.js,\public\vendor\vue\src\config.js,44,40,2

@@ -1,0 +1,7 @@
+6714-cryptography,6883-Sigil
+__init__.py,__init__.py,\src\cryptography\x509\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,175,362,1
+__init__.py,__init__.py,\src\cryptography\x509\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,175,187,3
+__init__.py,__init__.py,\src\cryptography\hazmat\primitives\asymmetric\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,15,362,0
+__init__.py,__init__.py,\src\cryptography\hazmat\primitives\asymmetric\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,15,187,0
+__init__.py,__init__.py,\src\cryptography\hazmat\primitives\serialization\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,18,362,1
+__init__.py,__init__.py,\src\cryptography\hazmat\primitives\serialization\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,18,187,3

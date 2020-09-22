@@ -1,0 +1,10 @@
+4139-outline-client,63757-chain33
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\autotest\main.go,122,27,11
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\execblock\main.go,122,95,24
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\jsfmt\main.go,122,121,32
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\miner_accounts\main.go,122,106,31
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\tools\main.go,122,29,10
+main.go,main.go,\tools\find_tap_name\main.go,\cmd\webhook\main.go,122,83,25
+main.go,main.go,\tools\find_tap_name\main.go,\wallet\seedtool\main.go,122,109,35
+main.go,main.go,\tools\find_tap_name\main.go,\system\store\mavl\db\tool\main.go,122,87,27
+main.go,main.go,\tools\find_tap_name\main.go,\wallet\bipwallet\basen\cmd\basen\main.go,122,146,37

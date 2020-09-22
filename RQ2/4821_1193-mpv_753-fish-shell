@@ -1,0 +1,8 @@
+1193-mpv,753-fish-shell
+common.h,common.h,\common\common.h,\src\common.h,78,572,4
+input.h,input.h,\input\input.h,\src\input.h,80,66,3
+path.h,path.h,\options\path.h,\src\path.h,29,22,1
+io.h,io.h,\osdep\io.h,\src\io.h,147,260,4
+timer.h,timer.h,\osdep\timer.h,\src\timer.h,15,20,1
+common.h,common.h,\video\out\opengl\common.h,\src\common.h,197,572,7
+common.h,common.h,\video\out\vulkan\common.h,\src\common.h,27,572,5

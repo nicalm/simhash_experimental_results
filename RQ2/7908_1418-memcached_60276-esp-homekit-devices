@@ -1,0 +1,10 @@
+1418-memcached,60276-esp-homekit-devices
+hash.c,hash.c,\hash.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\tests\hash.c,18,839,3
+hash.c,hash.c,\hash.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\tests\hash.c,18,839,3
+hash.c,hash.c,\hash.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\hash.c,18,500,6
+hash.c,hash.c,\hash.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\hash.c,18,500,6
+storage.c,storage.c,\storage.c,\external_libs\homekit\src\storage.c,488,313,77
+tls.c,tls.c,\tls.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\src\tls.c,126,6341,28
+tls.c,tls.c,\tls.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\src\tls.c,126,6341,28
+util.c,util.c,\util.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,193,138,21
+util.c,util.c,\util.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\mqx\util_lib\Sources\util.c,193,138,21

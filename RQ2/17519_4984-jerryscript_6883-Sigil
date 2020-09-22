@@ -1,0 +1,4 @@
+4984-jerryscript,6883-Sigil
+config.h,config.h,\jerry-core\config.h,\3rdparty\hunspell\src\win_api\config.h,338,68,0
+log.c,log.c,\jerry-libm\log.c,\3rdparty\hunspell\intl\log.c,117,82,20
+main.cpp,main.cpp,\targets\particle\source\main.cpp,\src\main.cpp,85,466,16

@@ -1,0 +1,6 @@
+551-FFmpeg,8678-GitHawk
+parser.h,parser.h,\libavcodec\parser.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\parser.h,21,37,1
+buffer.c,buffer.c,\libavutil\buffer.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\buffer.c,258,211,34
+buffer.h,buffer.h,\libavutil\buffer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\buffer.h,32,76,2
+utf8.c,utf8.c,\libavutil\tests\utf8.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\utf8.c,45,268,8
+config.h,config.h,\compat\avisynth\avs\config.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\config.h,25,53,6

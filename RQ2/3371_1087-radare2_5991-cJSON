@@ -1,0 +1,9 @@
+1087-radare2,5991-cJSON
+test.c,test.c,\libr\util\regex\test.c,\test.c,48,189,7
+test.c,test.c,\test\unit\legacy_unit\egg\test.c,\test.c,49,189,7
+test.c,test.c,\test\unit\legacy_unit\hash\test.c,\test.c,22,189,3
+test.c,test.c,\test\unit\legacy_unit\reg\test.c,\test.c,99,189,11
+test.c,test.c,\test\unit\legacy_unit\search\test.c,\test.c,38,189,5
+test.c,test.c,\test\unit\legacy_unit\socket\test.c,\test.c,22,189,3
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\tests\common.h,480,82,1
+test.c,test.c,\test\unit\legacy_unit\util\diff\test.c,\test.c,93,189,17

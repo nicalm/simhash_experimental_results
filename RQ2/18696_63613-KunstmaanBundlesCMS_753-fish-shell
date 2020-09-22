@@ -1,0 +1,4 @@
+63613-KunstmaanBundlesCMS,753-fish-shell
+app.js,app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,\share\tools\web_config\js\app.js,77,67,6
+app.js,app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,\share\tools\web_config\js\app.js,15,67,4
+app.js,app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,\share\tools\web_config\js\app.js,27,67,2

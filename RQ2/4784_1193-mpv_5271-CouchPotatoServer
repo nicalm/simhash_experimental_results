@@ -1,0 +1,3 @@
+1193-mpv,5271-CouchPotatoServer
+features.py,features.py,\waftools\features.py,\libs\xmpp\features.py,57,91,0
+custom.py,custom.py,\waftools\checks\custom.py,\couchpotato\core\plugins\custom.py,106,15,1

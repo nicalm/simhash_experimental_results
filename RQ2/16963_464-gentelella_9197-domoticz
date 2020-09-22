@@ -1,0 +1,9 @@
+464-gentelella,9197-domoticz
+helpers.js,helpers.js,\vendors\select2\tests\helpers.js,\www\app\report\helpers.js,36,19,7
+main.js,main.js,\vendors\bootstrap-daterangepicker\example\amd\main.js,\www\app\main.js,104,46,1
+main.js,main.js,\vendors\bootstrap-daterangepicker\example\browserify\main.js,\www\app\main.js,98,46,1
+main.js,main.js,\vendors\flot.orderbars\examples\js\main.js,\www\app\main.js,58,46,3
+en.js,en.js,\vendors\parsleyjs\dist\i18n\en.js,\www\js\blockly\msg\en.js,25,426,0
+en.js,en.js,\vendors\parsleyjs\src\i18n\en.js,\www\js\blockly\msg\en.js,26,426,0
+main.js,main.js,\vendors\parsleyjs\src\parsley\main.js,\www\app\main.js,82,46,2
+en.js,en.js,\vendors\select2\src\js\select2\i18n\en.js,\www\js\blockly\msg\en.js,36,426,0

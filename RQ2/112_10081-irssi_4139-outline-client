@@ -1,0 +1,17 @@
+10081-irssi,4139-outline-client
+common.h,common.h,\src\common.h,\third_party\shadowsocks-libev\src\common.h,81,46,5
+common.h,common.h,\src\common.h,\third_party\sodium\src\libsodium\include\sodium\private\common.h,81,220,7
+commands.c,commands.c,\src\core\commands.c,\third_party\shadowsocks-libev\libcork\src\libcork\cli\commands.c,717,166,48
+commands.h,commands.h,\src\core\commands.h,\third_party\shadowsocks-libev\libcork\include\libcork\cli\commands.h,95,37,2
+core.c,core.c,\src\core\core.c,\third_party\sodium\src\libsodium\sodium\core.c,243,194,36
+core.h,core.h,\src\core\core.h,\third_party\shadowsocks-libev\libcork\include\libcork\core.h,18,16,1
+core.h,core.h,\src\core\core.h,\third_party\sodium\apple\include\sodium\core.h,18,18,1
+core.h,core.h,\src\core\core.h,\third_party\sodium\linux\include\sodium\core.h,18,18,1
+core.h,core.h,\src\core\core.h,\third_party\sodium\src\libsodium\include\sodium\core.h,18,18,1
+log.c,log.c,\src\core\log.c,\third_party\badvpn\ncd\modules\log.c,455,186,47
+modules.h,modules.h,\src\core\modules.h,\third_party\badvpn\ncd\modules\modules.h,67,176,4
+tls.c,tls.c,\src\core\tls.c,\third_party\shadowsocks-libev\src\tls.c,150,148,17
+server.c,server.c,\src\fe-fuzz\server.c,\third_party\badvpn\server\server.c,124,1682,18
+server.c,server.c,\src\fe-fuzz\server.c,\third_party\shadowsocks-libev\src\server.c,124,1776,14
+parse.c,parse.c,\src\lib-config\parse.c,\third_party\badvpn\ncd\modules\parse.c,251,273,47
+write.c,write.c,\src\lib-config\write.c,\third_party\shadowsocks-libev\libipset\src\libipset\bdd\write.c,286,305,45

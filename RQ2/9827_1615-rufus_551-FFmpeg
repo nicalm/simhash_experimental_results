@@ -1,0 +1,15 @@
+1615-rufus,551-FFmpeg
+format.c,format.c,\src\format.c,\libavformat\format.c,2478,254,50
+parser.c,parser.c,\src\parser.c,\libavcodec\parser.c,1126,259,47
+config.h,config.h,\src\ext2fs\config.h,\compat\avisynth\avs\config.h,182,25,6
+sha512.c,sha512.c,\src\ext2fs\sha512.c,\libavutil\sha512.c,246,239,19
+sha512.c,sha512.c,\src\ext2fs\sha512.c,\libavutil\tests\sha512.c,246,62,5
+getopt.c,getopt.c,\src\getopt\getopt.c,\compat\getopt.c,653,48,19
+config.h,config.h,\src\libcdio\config.h,\compat\avisynth\avs\config.h,53,25,5
+file.c,file.c,\src\ms-sys\file.c,\libavformat\file.c,158,336,35
+file.c,file.c,\src\ms-sys\file.c,\libavutil\file.c,158,127,21
+audio.h,audio.h,\src\libcdio\cdio\audio.h,\libavfilter\audio.h,47,24,1
+types.h,types.h,\src\libcdio\cdio\types.h,\compat\avisynth\avs\types.h,181,16,6
+utf8.c,utf8.c,\src\libcdio\driver\utf8.c,\libavutil\tests\utf8.c,258,45,10
+xa.c,xa.c,\src\libcdio\iso9660\xa.c,\libavformat\xa.c,94,84,7
+cache.c,cache.c,\src\syslinux\libfat\cache.c,\libavformat\cache.c,37,262,9

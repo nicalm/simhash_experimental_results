@@ -1,0 +1,10 @@
+10314-ovs,13470-tigervnc
+util.h,util.h,\lib\util.h,\common\rfb\util.h,431,75,15
+util.h,util.h,\lib\util.h,\tests\perf\util.h,431,15,1
+resource.h,resource.h,\datapath-windows\ovsext\resource.h,\win\vncconfig\resource.h,1569,86,5
+resource.h,resource.h,\datapath-windows\ovsext\resource.h,\win\winvnc\resource.h,1569,46,5
+types.h,types.h,\include\openvswitch\types.h,\common\rdr\types.h,98,48,6
+util.h,util.h,\include\openvswitch\util.h,\common\rfb\util.h,121,75,13
+util.h,util.h,\include\openvswitch\util.h,\tests\perf\util.h,121,15,1
+resource.h,resource.h,\include\windows\sys\resource.h,\win\vncconfig\resource.h,31,86,2
+resource.h,resource.h,\include\windows\sys\resource.h,\win\winvnc\resource.h,31,46,2

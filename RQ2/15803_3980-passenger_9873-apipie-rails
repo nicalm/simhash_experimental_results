@@ -1,0 +1,4 @@
+3980-passenger,9873-apipie-rails
+spec_helper.rb,spec_helper.rb,\test\integration_tests\spec_helper.rb,\spec\spec_helper.rb,18,65,2
+spec_helper.rb,spec_helper.rb,\test\ruby\spec_helper.rb,\spec\spec_helper.rb,92,65,17
+bootstrap.js,bootstrap.js,\resources\templates\error_renderer\with_details\src\bootstrap\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,188,1073,53

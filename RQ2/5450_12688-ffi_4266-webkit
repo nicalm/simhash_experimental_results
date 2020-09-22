@@ -1,0 +1,7 @@
+12688-ffi,4266-webkit
+Function.h,Function.h,\ext\ffi_c\Function.h,\PerformanceTests\StitchMarker\wtf\Function.h,46,68,2
+Function.h,Function.h,\ext\ffi_c\Function.h,\Source\WTF\wtf\Function.h,46,74,2
+Function.h,Function.h,\ext\ffi_c\Function.h,\PerformanceTests\StitchMarker\folly\folly\Function.h,46,385,2
+Thread.h,Thread.h,\ext\ffi_c\Thread.h,\Source\ThirdParty\ANGLE\src\libANGLE\Thread.h,45,42,2
+Types.h,Types.h,\ext\ffi_c\Types.h,\Source\ThirdParty\ANGLE\src\compiler\translator\Types.h,42,324,2
+stdint.h,stdint.h,\ext\ffi_c\win32\stdint.h,\Source\ThirdParty\capstone\Source\include\windowsce\stdint.h,148,108,22

@@ -1,0 +1,3 @@
+6974-openapi-generator,9529-ltp
+main.cpp,main.cpp,\samples\client\petstore\cpp-qt5\PetStore\main.cpp,\src\parser.n\main.cpp,18,128,1
+main.cpp,main.cpp,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\main.cpp,\src\parser.n\main.cpp,72,128,4

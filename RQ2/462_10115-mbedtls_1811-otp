@@ -1,0 +1,8 @@
+10115-mbedtls,1811-otp
+aes.c,aes.c,\library\aes.c,\lib\crypto\c_src\aes.c,1682,222,17
+cipher.c,cipher.c,\library\cipher.c,\lib\crypto\c_src\cipher.c,859,256,51
+cmac.c,cmac.c,\library\cmac.c,\lib\crypto\c_src\cmac.c,781,31,4
+ecdh.c,ecdh.c,\library\ecdh.c,\lib\crypto\c_src\ecdh.c,500,56,5
+rsa.c,rsa.c,\library\rsa.c,\lib\crypto\c_src\rsa.c,1737,208,18
+cipher.h,cipher.h,\include\mbedtls\cipher.h,\lib\crypto\c_src\cipher.h,307,52,5
+error.h,error.h,\include\mbedtls\error.h,\erts\emulator\beam\error.h,16,82,1

@@ -1,0 +1,3 @@
+11788-fbthrift,4482-nixpkgs
+server.py,server.py,\thrift\lib\py3\test\server.py,\nixos\tests\google-oslogin\server.py,109,75,0
+AssemblyInfo.cs,AssemblyInfo.cs,\thrift\test\csharp\ThriftTest\Properties\AssemblyInfo.cs,\pkgs\build-support\dotnetenv\Wrapper\Wrapper\Properties\AssemblyInfo.cs,15,15,9

@@ -1,0 +1,17 @@
+3761-lepton,551-FFmpeg
+config.h,config.h,\dependencies\config.h,\compat\avisynth\avs\config.h,33,25,1
+md5.c,md5.c,\dependencies\md5\md5.c,\libavutil\md5.c,211,159,17
+md5.c,md5.c,\dependencies\md5\md5.c,\libavutil\tests\md5.c,211,31,4
+md5.h,md5.h,\dependencies\md5\md5.h,\libavutil\md5.h,21,22,4
+adler32.c,adler32.c,\dependencies\zlib\adler32.c,\libavutil\adler32.c,137,56,8
+adler32.c,adler32.c,\dependencies\zlib\adler32.c,\libavutil\tests\adler32.c,137,25,4
+constants.h,constants.h,\dependencies\brotli\c\common\constants.h,\libavcodec\mips\constants.h,28,44,1
+constants.h,constants.h,\dependencies\brotli\c\common\constants.h,\libavcodec\x86\constants.h,28,45,1
+decode.c,decode.c,\dependencies\brotli\c\dec\decode.c,\libavcodec\decode.c,1997,1667,273
+huffman.c,huffman.c,\dependencies\brotli\c\dec\huffman.c,\libavcodec\huffman.c,306,147,21
+huffman.h,huffman.h,\dependencies\brotli\c\dec\huffman.h,\libavcodec\huffman.h,35,17,1
+transform.h,transform.h,\dependencies\brotli\c\dec\transform.h,\libavfilter\transform.h,269,37,3
+encode.c,encode.c,\dependencies\brotli\c\enc\encode.c,\libavcodec\encode.c,1443,347,60
+hash.h,hash.h,\dependencies\brotli\c\enc\hash.h,\libavutil\hash.h,345,22,2
+decode.h,decode.h,\dependencies\brotli\c\include\brotli\decode.h,\libavcodec\decode.h,97,20,1
+types.h,types.h,\dependencies\brotli\c\include\brotli\types.h,\compat\avisynth\avs\types.h,31,16,6

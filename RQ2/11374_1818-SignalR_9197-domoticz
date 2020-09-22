@@ -1,0 +1,13 @@
+1818-SignalR,9197-domoticz
+Program.cs,Program.cs,\samples\Microsoft.AspNet.SelfHost.Samples\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,17,26,9
+Program.cs,Program.cs,\samples\Microsoft.AspNet.SignalR.Client.Samples\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,25,26,9
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Client\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,244,32,20
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Core\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,292,32,30
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Redis\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,48,32,29
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.SqlServer\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,43,32,30
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.StackExchangeRedis\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,48,32,29
+Program.cs,Program.cs,\src\Microsoft.AspNet.SignalR.Stress\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,115,26,13
+Program.cs,Program.cs,\src\Microsoft.AspNet.SignalR.Utils\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,104,26,14
+Resources.Designer.cs,Resources.Designer.cs,\src\Microsoft.AspNet.SignalR.Utils\Resources.Designer.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Properties\Resources.Designer.cs,167,32,22
+Program.cs,Program.cs,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,78,26,14
+Program.cs,Program.cs,\test\Microsoft.AspNet.SignalR.Client.UWP.TestHost\Program.cs,\hardware\1Wire\OneWireDomoticzService\OneWireDomoticzService\Program.cs,27,26,13

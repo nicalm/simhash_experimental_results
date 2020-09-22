@@ -1,0 +1,5 @@
+4597-openvpn,6444-yara
+common.h,common.h,\src\openvpn\common.h,\common.h,33,91,6
+crypto.h,crypto.h,\src\openvpn\crypto.h,\libyara\crypto.h,143,89,4
+error.h,error.h,\src\openvpn\error.h,\libyara\include\yara\error.h,214,97,9
+error.h,error.h,\src\tapctl\error.h,\libyara\include\yara\error.h,48,97,6

@@ -1,0 +1,5 @@
+11212-varnish-cache,682-curl
+version.c,version.c,\lib\libvarnish\version.c,\lib\version.c,45,398,5
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\lib\base64.c,269,182,24
+url.c,url.c,\lib\libvmod_blob\url.c,\lib\url.c,137,2758,33
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\lib\hash.c,75,242,12

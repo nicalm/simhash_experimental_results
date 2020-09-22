@@ -1,0 +1,10 @@
+2578-calibre,7921-mobile-chrome-apps
+commands.py,commands.py,\setup\commands.py,\chrome-cordova\gcmServer\xmpp\commands.py,86,191,0
+debug.py,debug.py,\src\calibre\debug.py,\chrome-cordova\gcmServer\xmpp\debug.py,313,241,14
+auth.py,auth.py,\src\calibre\srv\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,208,257,9
+browser.py,browser.py,\src\calibre\utils\browser.py,\chrome-cordova\gcmServer\xmpp\browser.py,122,75,1
+debug.py,debug.py,\src\calibre\ebooks\readability\debug.py,\chrome-cordova\gcmServer\xmpp\debug.py,25,241,1
+debug.py,debug.py,\src\calibre\gui2\convert\debug.py,\chrome-cordova\gcmServer\xmpp\debug.py,44,241,4
+server.py,server.py,\src\calibre\gui2\preferences\server.py,\chrome-cordova\gcmServer\server.py,1191,83,5
+auth.py,auth.py,\src\calibre\srv\tests\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,242,257,1
+server.py,server.py,\src\calibre\utils\ipc\server.py,\chrome-cordova\gcmServer\server.py,320,83,3

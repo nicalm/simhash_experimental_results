@@ -1,0 +1,9 @@
+4420-zcash,548-ruby
+hash.h,hash.h,\src\hash.h,\internal\hash.h,164,189,27
+util.h,util.h,\src\util.h,\internal\util.h,150,15,2
+util.h,util.h,\src\util.h,\include\ruby\util.h,150,62,9
+sha1.h,sha1.h,\src\crypto\sha1.h,\ext\digest\sha1\sha1.h,18,22,1
+bignum.h,bignum.h,\src\test\bignum.h,\internal\bignum.h,157,211,27
+hash.h,hash.h,\src\secp256k1\src\hash.h,\internal\hash.h,27,189,1
+util.h,util.h,\src\secp256k1\src\util.h,\internal\util.h,92,15,2
+util.h,util.h,\src\secp256k1\src\util.h,\include\ruby\util.h,92,62,17

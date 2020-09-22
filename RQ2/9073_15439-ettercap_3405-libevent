@@ -1,0 +1,4 @@
+15439-ettercap,3405-libevent
+getopt.h,getopt.h,\include\missing\getopt.h,\WIN32-Code\getopt.h,60,26,21
+getopt.c,getopt.c,\src\missing\getopt.c,\WIN32-Code\getopt.c,775,96,22
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\strlcpy.c,23,32,12

@@ -1,0 +1,7 @@
+3980-passenger,6773-server
+json.h,json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,\storage\connect\json.h,953,227,24
+command.rb,command.rb,\src\ruby_supportlib\phusion_passenger\config\command.rb,\storage\mroonga\vendor\groonga\lib\mrb\scripts\command.rb,35,57,13
+command.rb,command.rb,\src\ruby_supportlib\phusion_passenger\standalone\command.rb,\storage\mroonga\vendor\groonga\lib\mrb\scripts\command.rb,45,57,15
+os.h,os.h,\src\cxx_supportlib\vendor-modified\boost\predef\os.h,\storage\connect\os.h,23,56,2
+thread.c,thread.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\thread.c,\storage\mroonga\vendor\groonga\lib\thread.c,352,35,8
+solaris.h,solaris.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\solaris.h,\include\atomic\solaris.h,19,85,2

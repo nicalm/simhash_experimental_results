@@ -1,0 +1,3 @@
+2283-capnproto,3761-lepton
+hash.h,hash.h,\c++\src\kj\hash.h,\dependencies\brotli\c\enc\hash.h,95,345,15
+memory.h,memory.h,\c++\src\kj\memory.h,\dependencies\brotli\c\enc\memory.h,346,44,2

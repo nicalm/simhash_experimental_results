@@ -1,0 +1,10 @@
+13324-librenms,6422-roundcubemail
+install.php,install.php,\html\install.php,\tests\Browser\install.php,516,27,6
+bootstrap.php,bootstrap.php,\tests\bootstrap.php,\tests\Browser\bootstrap.php,41,106,5
+bootstrap.php,bootstrap.php,\tests\bootstrap.php,\program\lib\Roundcube\bootstrap.php,41,266,5
+DuskTestCase.php,DuskTestCase.php,\tests\DuskTestCase.php,\tests\Browser\DuskTestCase.php,27,135,16
+Html.php,Html.php,\LibreNMS\Util\Html.php,\tests\Framework\Html.php,75,97,12
+Mail.php,Mail.php,\LibreNMS\Validations\Mail.php,\tests\Browser\Mail\Mail.php,49,19,5
+app.js,app.js,\resources\js\app.js,\program\js\app.js,25,7547,4
+config.php,config.php,\includes\html\collectd\config.php,\installer\config.php,68,508,2
+Mail.php,Mail.php,\LibreNMS\Alert\Transport\Mail.php,\tests\Browser\Mail\Mail.php,33,19,5

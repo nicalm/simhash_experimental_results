@@ -1,0 +1,4 @@
+10093-VeraCrypt,18309-tor
+config.h,config.h,\src\Crypto\config.h,\src\app\config\config.h,152,232,6
+config.h,config.h,\src\Common\libzip\config.h,\src\app\config\config.h,60,232,6
+compress.c,compress.c,\src\Common\zlib\compress.c,\src\lib\compress\compress.c,53,507,8

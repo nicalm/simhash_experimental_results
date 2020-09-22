@@ -1,0 +1,5 @@
+4420-zcash,753-fish-shell
+util.cpp,util.cpp,\src\util.cpp,\src\util.cpp,691,63,11
+common.h,common.h,\src\crypto\common.h,\src\common.h,94,572,16
+util.cpp,util.cpp,\src\zcash\util.cpp,\src\util.cpp,34,63,8
+env.h,env.h,\src\leveldb\include\leveldb\env.h,\src\env.h,160,178,26

@@ -1,0 +1,4 @@
+506-ghidra,6773-server
+getopt.c,getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\lib\getopt.c,637,805,399
+getopt1.c,getopt1.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt1.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\lib\getopt1.c,115,123,96
+context.cc,context.cc,\Ghidra\Features\Decompiler\src\decompile\cpp\context.cc,\storage\tokudb\PerconaFT\util\context.cc,166,128,21

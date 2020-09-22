@@ -1,0 +1,4 @@
+2912-postgres,98-rust
+test.c,test.c,\src\test\modules\test_shm_mq\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,152,30,2
+test.c,test.c,\src\test\modules\test_shm_mq\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,152,196,11
+test.c,test.c,\src\test\modules\test_shm_mq\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,152,22,1

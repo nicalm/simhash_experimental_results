@@ -1,0 +1,5 @@
+10549-luci,4984-jerryscript
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\jerry-core\config.h,89,338,0
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\jerry-core\config.h,89,338,0
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\jerry-core\config.h,35,338,2
+map.js,map.js,\protocols\luci-proto-ipv6\htdocs\luci-static\resources\protocol\map.js,\tests\jerry\es2015\map.js,73,108,2

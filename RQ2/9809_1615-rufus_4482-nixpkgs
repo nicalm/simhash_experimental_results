@@ -1,0 +1,3 @@
+1615-rufus,4482-nixpkgs
+config.h,config.h,\src\ext2fs\config.h,\pkgs\os-specific\linux\net-tools\config.h,182,40,0
+config.h,config.h,\src\libcdio\config.h,\pkgs\os-specific\linux\net-tools\config.h,53,40,0

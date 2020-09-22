@@ -1,0 +1,4 @@
+1593-ungit,98-rust
+main.js,main.js,\public\main.js,\src\librustdoc\html\static\main.js,131,2266,29
+main.js,main.js,\public\source\main.js,\src\librustdoc\html\static\main.js,180,2266,39
+storage.js,storage.js,\public\source\storage.js,\src\librustdoc\html\static\storage.js,15,98,2

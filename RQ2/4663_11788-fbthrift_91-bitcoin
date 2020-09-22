@@ -1,0 +1,13 @@
+11788-fbthrift,91-bitcoin
+common.h,common.h,\thrift\compiler\common.h,\src\crypto\common.h,39,83,4
+util.h,util.h,\thrift\compiler\util.h,\src\rpc\util.h,91,173,17
+util.h,util.h,\thrift\compiler\util.h,\src\secp256k1\src\util.h,91,99,7
+server.h,server.h,\thrift\lib\py3\server.h,\src\rpc\server.h,37,78,7
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\rpc\util.h,25,173,6
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\src\secp256k1\src\util.h,25,99,4
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\rpc\util.h,17,173,5
+util.h,util.h,\thrift\compiler\lib\java\util.h,\src\secp256k1\src\util.h,17,99,4
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\rpc\util.h,29,173,9
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\src\secp256k1\src\util.h,29,99,5
+handler.h,handler.h,\thrift\lib\py3\test\client_event_handlers\handler.h,\src\interfaces\handler.h,19,18,5
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\src\rpc\server.h,58,78,5

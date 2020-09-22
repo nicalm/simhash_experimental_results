@@ -1,0 +1,14 @@
+2283-capnproto,6444-yara
+common.h,common.h,\c++\src\benchmark\common.h,\common.h,229,91,15
+arena.h,arena.h,\c++\src\capnp\arena.h,\libyara\include\yara\arena.h,271,88,1
+blob.h,blob.h,\c++\src\capnp\blob.h,\tests\blob.h,137,2709,6
+common.h,common.h,\c++\src\capnp\common.h,\common.h,508,91,15
+endian.h,endian.h,\c++\src\capnp\endian.h,\libyara\include\yara\endian.h,212,55,9
+arena.h,arena.h,\c++\src\kj\arena.h,\libyara\include\yara\arena.h,123,88,0
+common.h,common.h,\c++\src\kj\common.h,\common.h,1054,91,19
+exception.h,exception.h,\c++\src\kj\exception.h,\libyara\exception.h,155,115,6
+hash.h,hash.h,\c++\src\kj\hash.h,\libyara\include\yara\hash.h,95,62,0
+compiler.h,compiler.h,\c++\src\capnp\compiler\compiler.h,\libyara\include\yara\compiler.h,56,192,0
+lexer.h,lexer.h,\c++\src\capnp\compiler\lexer.h,\libyara\include\yara\lexer.h,48,63,0
+parser.h,parser.h,\c++\src\capnp\compiler\parser.h,\libyara\include\yara\parser.h,69,79,0
+common.h,common.h,\c++\src\kj\parse\common.h,\common.h,564,91,18

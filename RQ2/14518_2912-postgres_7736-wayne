@@ -1,0 +1,8 @@
+2912-postgres,7736-wayne
+ddl.sql,ddl.sql,\contrib\sepgsql\sql\ddl.sql,\src\backend\database\migrations\v1.1\ddl.sql,78,32,0
+ddl.sql,ddl.sql,\contrib\sepgsql\sql\ddl.sql,\src\backend\database\migrations\v1.3\ddl.sql,78,26,0
+dml.sql,dml.sql,\contrib\sepgsql\sql\dml.sql,\src\backend\database\migrations\v1.1\dml.sql,211,28,0
+dml.sql,dml.sql,\contrib\sepgsql\sql\dml.sql,\src\backend\database\migrations\v1.3\dml.sql,211,15,0
+dml.sql,dml.sql,\contrib\sepgsql\sql\dml.sql,\src\backend\database\migrations\v1.6\dml.sql,211,178,0
+ddl.sql,ddl.sql,\contrib\test_decoding\sql\ddl.sql,\src\backend\database\migrations\v1.1\ddl.sql,256,32,0
+ddl.sql,ddl.sql,\contrib\test_decoding\sql\ddl.sql,\src\backend\database\migrations\v1.3\ddl.sql,256,26,0

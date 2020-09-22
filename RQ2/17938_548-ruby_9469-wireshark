@@ -1,0 +1,15 @@
+548-ruby,9469-wireshark
+file.c,file.c,\file.c,\file.c,4432,3028,554
+range.c,range.c,\range.c,\epan\range.c,1113,275,68
+util.c,util.c,\util.c,\ui\util.c,517,182,36
+file.h,file.h,\internal\file.h,\file.h,25,168,3
+range.h,range.h,\internal\range.h,\epan\range.h,22,42,2
+util.h,util.h,\internal\util.h,\ui\util.h,15,15,2
+erf.c,erf.c,\missing\erf.c,\wiretap\erf.c,71,2292,16
+file.h,file.h,\missing\file.h,\file.h,16,168,3
+file.c,file.c,\win32\file.c,\file.c,558,3028,126
+file.h,file.h,\win32\file.h,\file.h,40,168,2
+socket.c,socket.c,\ext\socket\socket.c,\wsutil\socket.c,1103,123,34
+defines.h,defines.h,\include\ruby\defines.h,\plugins\epan\unistim\defines.h,449,191,1
+util.h,util.h,\include\ruby\util.h,\ui\util.h,62,15,6
+console.c,console.c,\ext\io\console\console.c,\ui\console.c,1331,98,22

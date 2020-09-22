@@ -1,0 +1,6 @@
+4701-sonarqube,6347-librealsense
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\wrappers\nodejs\index.js,79,2989,17
+index.js,index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,79,379,17
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\wrappers\nodejs\index.js,28,2989,4
+index.js,index.js,\server\sonar-web\config\documentation-loader\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,28,379,4
+Filter.java,Filter.java,\sonar-duplications\src\main\java\org\sonar\duplications\detector\original\Filter.java,\wrappers\android\librealsense\src\main\java\com\intel\realsense\librealsense\Filter.java,36,16,3

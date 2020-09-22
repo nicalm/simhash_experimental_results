@@ -1,0 +1,8 @@
+10205-firejail,9469-wireshark
+util.c,util.c,\src\firecfg\util.c,\ui\util.c,50,182,9
+profile.c,profile.c,\src\firejail\profile.c,\ui\profile.c,1281,332,62
+util.c,util.c,\src\firejail\util.c,\ui\util.c,968,182,31
+interface.c,interface.c,\src\firemon\interface.c,\wsutil\interface.c,122,119,21
+interface.c,interface.c,\src\fnet\interface.c,\wsutil\interface.c,263,119,24
+print.c,print.c,\src\fsec-print\print.c,\epan\print.c,257,1978,47
+errno.c,errno.c,\src\fseccomp\errno.c,\epan\dissectors\errno.c,171,140,1

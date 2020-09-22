@@ -1,0 +1,14 @@
+464-gentelella,9023-zoneminder
+moment.js,moment.js,\vendors\moment\moment.js,\web\skins\classic\js\moment.js,3064,2361,2172
+event.js,event.js,\vendors\jquery\src\event.js,\web\skins\classic\views\js\event.js,488,951,98
+base.js,base.js,\vendors\jquery-sparkline\src\base.js,\web\skins\classic\js\base.js,347,49,1
+moment.js,moment.js,\vendors\moment\src\moment.js,\web\skins\classic\js\moment.js,60,2361,0
+bootstrap.js,bootstrap.js,\vendors\bootstrap\dist\js\bootstrap.js,\web\skins\classic\js\bootstrap.js,3262,1588,248
+plugin.js,plugin.js,\vendors\cropper\src\js\plugin.js,\web\skins\classic\views\js\plugin.js,28,17,3
+base.js,base.js,\vendors\bootstrap-datetimepicker\docs\theme\js\base.js,\web\skins\classic\js\base.js,35,49,1
+moment.js,moment.js,\vendors\moment\src\lib\moment\moment.js,\web\skins\classic\js\moment.js,25,2361,3
+event.js,event.js,\vendors\parsleyjs\bower_components\jquery\src\event.js,\web\skins\classic\views\js\event.js,618,951,132
+console.js,console.js,\vendors\echarts\test\ut\lib\jasmine-2.3.4\console.js,\web\skins\classic\views\js\console.js,137,131,24
+bootstrap.js,bootstrap.js,\vendors\parsleyjs\bower_components\bootstrap\dist\js\bootstrap.js,\web\skins\classic\js\bootstrap.js,1191,1588,872
+base.js,base.js,\vendors\select2\src\js\select2\data\base.js,\web\skins\classic\js\base.js,29,49,1
+base.js,base.js,\vendors\select2\src\js\select2\selection\base.js,\web\skins\classic\js\base.js,113,49,1

@@ -1,0 +1,3 @@
+2389-Pillow,3761-lepton
+decode.c,decode.c,\src\decode.c,\dependencies\brotli\c\dec\decode.c,591,1997,59
+encode.c,encode.c,\src\encode.c,\dependencies\brotli\c\enc\encode.c,918,1443,116

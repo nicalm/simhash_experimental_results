@@ -1,0 +1,15 @@
+18309-tor,211-cpython
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\ctypes\util.py,40,276,6
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\distutils\util.py,40,285,4
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\importlib\util.py,40,178,3
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\multiprocessing\util.py,40,274,5
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\unittest\util.py,40,134,3
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\wsgiref\util.py,40,107,1
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\test\test_importlib\util.py,40,420,4
+util.py,util.py,\scripts\maint\practracker\util.py,\Lib\test\test_tools\test_c_analyzer\util.py,40,37,2
+util.py,util.py,\scripts\maint\practracker\util.py,\Tools\c-analyzer\c_analyzer\common\util.py,40,159,2
+config.c,config.c,\src\app\config\config.c,\PC\config.c,5508,142,5
+main.c,main.c,\src\app\main\main.c,\Modules\main.c,1029,529,156
+connection.c,connection.c,\src\core\mainloop\connection.c,\Modules\_sqlite\connection.c,3921,1514,391
+connection.h,connection.h,\src\core\mainloop\connection.h,\Modules\_sqlite\connection.h,229,58,3
+binascii.c,binascii.c,\src\lib\encoding\binascii.c,\Modules\binascii.c,347,1041,59

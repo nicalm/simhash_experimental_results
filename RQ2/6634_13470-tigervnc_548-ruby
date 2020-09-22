@@ -1,0 +1,6 @@
+13470-tigervnc,548-ruby
+win32.c,win32.c,\vncviewer\win32.c,\win32\win32.c,242,6643,52
+util.h,util.h,\common\rfb\util.h,\internal\util.h,75,15,2
+util.h,util.h,\common\rfb\util.h,\include\ruby\util.h,75,62,9
+util.h,util.h,\tests\perf\util.h,\internal\util.h,15,15,1
+util.h,util.h,\tests\perf\util.h,\include\ruby\util.h,15,62,1

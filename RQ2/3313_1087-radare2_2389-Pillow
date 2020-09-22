@@ -1,0 +1,4 @@
+1087-radare2,2389-Pillow
+map.c,map.c,\libr\debug\map.c,\src\map.c,319,284,31
+map.c,map.c,\libr\io\map.c,\src\map.c,531,284,35
+path.c,path.c,\shlr\sdb\src\json\path.c,\src\path.c,199,472,41

@@ -1,0 +1,5 @@
+1615-rufus,6444-yara
+parser.c,parser.c,\src\parser.c,\libyara\parser.c,1126,939,111
+types.h,types.h,\src\libcdio\cdio\types.h,\libyara\include\yara\types.h,181,527,5
+util.h,util.h,\src\libcdio\cdio\util.h,\tests\util.h,79,199,2
+util.c,util.c,\src\libcdio\driver\util.c,\tests\util.c,124,285,27

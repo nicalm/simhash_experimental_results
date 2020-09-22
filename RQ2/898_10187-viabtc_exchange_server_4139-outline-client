@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,4139-outline-client
+read.c,read.c,\depends\hiredis\read.c,\third_party\shadowsocks-libev\libipset\src\libipset\bdd\read.c,384,191,29
+test.c,test.c,\depends\hiredis\test.c,\third_party\shadowsocks-libev\libbloom\misc\test\test.c,570,184,43
+macosx.h,macosx.h,\depends\hiredis\adapters\macosx.h,\third_party\shadowsocks-libev\libcork\include\libcork\config\macosx.h,81,15,1

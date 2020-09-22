@@ -1,0 +1,12 @@
+2578-calibre,2909-mongoose
+main.c,main.c,\bypy\windows\main.c,\examples\CC3200\main.c,107,249,19
+main.c,main.c,\bypy\windows\main.c,\examples\NXP_K64\main.c,107,131,15
+main.c,main.c,\bypy\windows\main.c,\examples\STM32F4_CC3100\main.c,107,124,14
+main.c,main.c,\bypy\windows\main.c,\examples\ESP32_IDF\main\main.c,107,75,10
+main.c,main.c,\bypy\windows\main.c,\examples\nRF51\http\main.c,107,64,10
+main.c,main.c,\bypy\windows\main.c,\examples\nRF52\http\main.c,107,66,10
+main.c,main.c,\bypy\windows\main.c,\examples\CC3200\ccs\MG_hello\main.c,107,192,19
+main.c,main.c,\bypy\windows\main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,107,142,16
+main.c,main.c,\bypy\windows\main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,107,129,14
+main.c,main.c,\bypy\windows\main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,107,147,17
+main.cpp,main.cpp,\src\calibre\headless\main.cpp,\examples\mbed\main.cpp,18,73,1

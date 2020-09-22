@@ -1,0 +1,3 @@
+15439-ettercap,1615-rufus
+getopt.h,getopt.h,\include\missing\getopt.h,\src\getopt\getopt.h,60,60,58
+getopt.c,getopt.c,\src\missing\getopt.c,\src\getopt\getopt.c,775,653,633

@@ -1,0 +1,11 @@
+1193-mpv,5868-libvips
+format.c,format.c,\audio\format.c,\libvips\deprecated\format.c,192,266,44
+format.h,format.h,\audio\format.h,\libvips\include\vips\format.h,44,84,1
+cache.c,cache.c,\demux\cache.c,\libvips\conversion\cache.c,213,86,9
+cache.c,cache.c,\demux\cache.c,\libvips\iofuncs\cache.c,213,638,31
+dispatch.h,dispatch.h,\misc\dispatch.h,\libvips\include\vips\dispatch.h,25,157,1
+semaphore.h,semaphore.h,\osdep\semaphore.h,\libvips\include\vips\semaphore.h,40,23,3
+stream.c,stream.c,\stream\stream.c,\libvips\iofuncs\stream.c,655,82,17
+stream.h,stream.h,\stream\stream.h,\libvips\include\vips\stream.h,161,184,2
+internal.h,internal.h,\audio\out\internal.h,\libvips\include\vips\internal.h,95,153,1
+semaphore.h,semaphore.h,\osdep\win32\include\semaphore.h,\libvips\include\vips\semaphore.h,22,23,2

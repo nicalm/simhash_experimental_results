@@ -1,0 +1,4 @@
+9205-rubygems,9873-apipie-rails
+errors.rb,errors.rb,\lib\rubygems\errors.rb,\lib\apipie\errors.rb,83,70,20
+validator.rb,validator.rb,\lib\rubygems\validator.rb,\lib\apipie\validator.rb,89,407,24
+errors.rb,errors.rb,\lib\rubygems\resolver\molinillo\lib\molinillo\errors.rb,\lib\apipie\errors.rb,41,70,11

@@ -1,0 +1,4 @@
+702-swoole-src,98-rust
+test.c,test.c,\thirdparty\hiredis\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,686,30,6
+test.c,test.c,\thirdparty\hiredis\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,686,196,20
+test.c,test.c,\thirdparty\hiredis\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,686,22,5

@@ -1,0 +1,10 @@
+4287-cockpit,471-minio
+webpack.config.js,webpack.config.js,\webpack.config.js,\browser\webpack.config.js,333,104,21
+index.js,index.js,\eslint-plugin-cockpit\index.js,\browser\app\index.js,15,22,0
+index.js,index.js,\pkg\machines\index.js,\browser\app\index.js,50,22,1
+utils.js,utils.js,\pkg\networkmanager\utils.js,\browser\app\js\utils.js,193,95,16
+index.js,index.js,\pkg\playground\index.js,\browser\app\index.js,28,22,0
+index.js,index.js,\pkg\shell\index.js,\browser\app\index.js,32,22,0
+index.js,index.js,\pkg\sosreport\index.js,\browser\app\index.js,136,22,0
+utils.js,utils.js,\pkg\storaged\utils.js,\browser\app\js\utils.js,577,95,15
+utils.js,utils.js,\pkg\machines\components\networks\utils.js,\browser\app\js\utils.js,110,95,14

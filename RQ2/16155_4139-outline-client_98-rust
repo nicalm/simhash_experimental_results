@@ -1,0 +1,5 @@
+4139-outline-client,98-rust
+test.py,test.py,\third_party\shadowsocks-libev\tests\test.py,\src\test\run-make-fulldeps\sysroot-crates-are-unstable\test.py,109,43,3
+test.c,test.c,\third_party\shadowsocks-libev\libbloom\misc\test\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,184,30,7
+test.c,test.c,\third_party\shadowsocks-libev\libbloom\misc\test\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,184,196,18
+test.c,test.c,\third_party\shadowsocks-libev\libbloom\misc\test\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,184,22,3

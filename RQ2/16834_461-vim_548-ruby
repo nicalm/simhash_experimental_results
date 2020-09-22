@@ -1,0 +1,13 @@
+461-vim,548-ruby
+crypt.c,crypt.c,\src\crypt.c,\missing\crypt.c,398,729,83
+eval.c,eval.c,\src\eval.c,\eval.c,4916,1528,390
+main.c,main.c,\src\main.c,\main.c,3234,31,11
+option.c,option.c,\src\option.c,\ext\socket\option.c,5384,1123,358
+pty.c,pty.c,\src\pty.c,\ext\pty\pty.c,343,507,87
+version.c,version.c,\src\version.c,\version.c,1339,89,24
+version.h,version.h,\src\version.h,\version.h,23,69,1
+version.h,version.h,\src\version.h,\include\ruby\version.h,23,35,1
+encoding.c,encoding.c,\src\libvterm\src\encoding.c,\encoding.c,186,1312,40
+parser.c,parser.c,\src\libvterm\src\parser.c,\ext\json\parser\parser.c,294,1941,71
+parser.c,parser.c,\src\libvterm\src\parser.c,\ext\psych\yaml\parser.c,294,963,62
+unicode.c,unicode.c,\src\libvterm\src\unicode.c,\enc\unicode.c,456,680,43

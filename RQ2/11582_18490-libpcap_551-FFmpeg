@@ -1,0 +1,4 @@
+18490-libpcap,551-FFmpeg
+getopt.c,getopt.c,\missing\getopt.c,\compat\getopt.c,85,48,12
+log.c,log.c,\rpcapd\log.c,\libavutil\log.c,150,360,36
+log.c,log.c,\rpcapd\log.c,\libavutil\tests\log.c,150,47,11

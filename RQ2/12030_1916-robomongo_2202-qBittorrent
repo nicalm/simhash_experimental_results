@@ -1,0 +1,9 @@
+1916-robomongo,2202-qBittorrent
+main.cpp,main.cpp,\src\robomongo\app\main.cpp,\src\app\main.cpp,79,324,7
+misc.h,misc.h,\src\third-party\libssh2\sources\src\misc.h,\src\base\utils\misc.h,40,55,4
+session.h,session.h,\src\third-party\libssh2\sources\src\session.h,\src\base\bittorrent\session.h,29,612,1
+application.cpp,application.cpp,\src\third-party\qscintilla\sources\example-Qt3\application.cpp,\src\app\application.cpp,200,573,33
+application.h,application.h,\src\third-party\qscintilla\sources\example-Qt3\application.h,\src\app\application.h,28,93,8
+mainwindow.cpp,mainwindow.cpp,\src\third-party\qscintilla\sources\example-Qt4Qt5\mainwindow.cpp,\src\gui\mainwindow.cpp,244,1634,61
+mainwindow.h,mainwindow.h,\src\third-party\qscintilla\sources\example-Qt4Qt5\mainwindow.h,\src\gui\mainwindow.h,51,204,13
+utils.cpp,utils.cpp,\trash\src\robomongo\shell\scripting\utils.cpp,\src\gui\utils.cpp,34,156,5

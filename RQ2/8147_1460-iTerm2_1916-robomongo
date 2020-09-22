@@ -1,0 +1,3 @@
+1460-iTerm2,1916-robomongo
+libssh2.h,libssh2.h,\ThirdParty\NMSSH.framework\Versions\A\Headers\libssh2.h,\src\third-party\libssh2\sources\include\libssh2.h,767,731,714
+libssh2_sftp.h,libssh2_sftp.h,\ThirdParty\NMSSH.framework\Versions\A\Headers\libssh2_sftp.h,\src\third-party\libssh2\sources\include\libssh2_sftp.h,238,235,233

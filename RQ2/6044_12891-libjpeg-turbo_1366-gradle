@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,1366-gradle
+script.js,script.js,\java\doc\script.js,\subprojects\docs\src\docs\js\javadoc\script.js,29,136,17
+script.js,script.js,\java\doc\script.js,\subprojects\docs\src\docs\release\content\script.js,29,64,6
+script.js,script.js,\java\doc\script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,29,164,8
+search.js,search.js,\doc\html\search\search.js,\subprojects\docs\src\docs\js\javadoc\search.js,698,299,37

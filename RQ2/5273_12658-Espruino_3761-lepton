@@ -1,0 +1,8 @@
+12658-Espruino,3761-lepton
+config.h,config.h,\libs\crypto\mbedtls\config.h,\dependencies\config.h,60,33,1
+md5.c,md5.c,\libs\crypto\mbedtls\library\md5.c,\dependencies\md5\md5.c,293,211,17
+types.h,types.h,\targetlibs\nrf5x_12\external\micro-ecc\types.h,\dependencies\brotli\c\include\brotli\types.h,87,31,5
+types.h,types.h,\targetlibs\nrf5x_15\external\micro-ecc\types.h,\dependencies\brotli\c\include\brotli\types.h,87,31,5
+md5.h,md5.h,\libs\crypto\mbedtls\include\mbedtls\md5.h,\dependencies\md5\md5.h,43,21,9
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\dependencies\zlib\crc32.c,19,285,8
+types.h,types.h,\libs\tensorflow\tensorflow\lite\kernels\internal\types.h,\dependencies\brotli\c\include\brotli\types.h,784,31,5

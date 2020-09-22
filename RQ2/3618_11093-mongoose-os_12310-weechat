@@ -1,0 +1,7 @@
+11093-mongoose-os,12310-weechat
+main.c,main.c,\platforms\posix\main.c,\src\gui\curses\headless\main.c,78,64,12
+main.c,main.c,\platforms\posix\main.c,\src\gui\curses\normal\main.c,78,16,3
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\src\gui\curses\headless\main.c,128,64,7
+main.c,main.c,\fw\examples\c_mqtt\src\main.c,\src\gui\curses\normal\main.c,128,16,1
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\src\gui\curses\headless\main.c,136,64,10
+main.c,main.c,\platforms\cc3200\boot\src\main.c,\src\gui\curses\normal\main.c,136,16,4

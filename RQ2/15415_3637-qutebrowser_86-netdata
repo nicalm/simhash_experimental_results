@@ -1,0 +1,6 @@
+3637-qutebrowser,86-netdata
+loader.py,loader.py,\qutebrowser\extensions\loader.py,\collectors\python.d.plugin\python_modules\pyyaml2\loader.py,93,31,0
+loader.py,loader.py,\qutebrowser\extensions\loader.py,\collectors\python.d.plugin\python_modules\pyyaml3\loader.py,93,31,0
+error.py,error.py,\qutebrowser\utils\error.py,\collectors\python.d.plugin\python_modules\pyyaml2\error.py,35,65,1
+error.py,error.py,\qutebrowser\utils\error.py,\collectors\python.d.plugin\python_modules\pyyaml3\error.py,35,65,1
+url.py,url.py,\qutebrowser\mainwindow\statusbar\url.py,\collectors\python.d.plugin\python_modules\urllib3\util\url.py,76,110,1

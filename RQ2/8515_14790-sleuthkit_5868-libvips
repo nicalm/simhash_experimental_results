@@ -1,0 +1,3 @@
+14790-sleuthkit,5868-libvips
+raw.c,raw.c,\tsk\img\raw.c,\libvips\deprecated\raw.c,577,27,6
+thumbnail.c,thumbnail.c,\framework\modules\c_LibExifModule\libexif-0.6.20\contrib\examples\thumbnail.c,\libvips\resample\thumbnail.c,43,927,8

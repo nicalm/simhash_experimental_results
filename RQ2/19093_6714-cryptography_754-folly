@@ -1,0 +1,10 @@
+6714-cryptography,754-folly
+setup.py,setup.py,\setup.py,\folly\python\setup.py,181,25,4
+utils.py,utils.py,\tests\utils.py,\build\fbcode_builder\utils.py,692,59,6
+setup.py,setup.py,\vectors\setup.py,\folly\python\setup.py,19,25,3
+utils.py,utils.py,\src\cryptography\utils.py,\build\fbcode_builder\utils.py,119,59,4
+utils.py,utils.py,\src\_cffi_src\utils.py,\build\fbcode_builder\utils.py,64,59,4
+utils.py,utils.py,\tests\hazmat\primitives\utils.py,\build\fbcode_builder\utils.py,368,59,5
+utils.py,utils.py,\src\cryptography\hazmat\backends\openssl\utils.py,\build\fbcode_builder\utils.py,52,59,2
+utils.py,utils.py,\src\cryptography\hazmat\primitives\asymmetric\utils.py,\build\fbcode_builder\utils.py,24,59,2
+utils.py,utils.py,\src\cryptography\hazmat\primitives\twofactor\utils.py,\build\fbcode_builder\utils.py,19,59,0

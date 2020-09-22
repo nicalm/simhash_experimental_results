@@ -1,0 +1,15 @@
+491-hub,6974-openapi-generator
+main.go,main.go,\main.go,\samples\server\petstore\go-api-server\main.go,36,17,5
+main.go,main.go,\main.go,\samples\openapi3\server\petstore\go-api-server\main.go,36,25,5
+api.go,api.go,\commands\api.go,\samples\server\petstore\go-api-server\go\api.go,303,57,9
+utils.go,utils.go,\commands\utils.go,\samples\client\petstore\go-experimental\go-petstore\utils.go,104,237,24
+utils.go,utils.go,\commands\utils.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\utils.go,104,237,24
+client.go,client.go,\github\client.go,\samples\client\petstore\go\go-petstore\client.go,1068,405,147
+client.go,client.go,\github\client.go,\samples\client\petstore\go\go-petstore-withXml\client.go,1068,405,147
+client.go,client.go,\github\client.go,\samples\client\petstore\go-experimental\go-petstore\client.go,1068,402,146
+client.go,client.go,\github\client.go,\samples\openapi3\client\petstore\go\go-petstore\client.go,1068,407,147
+client.go,client.go,\github\client.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\client.go,1068,412,150
+utils.go,utils.go,\utils\utils.go,\samples\client\petstore\go-experimental\go-petstore\utils.go,101,237,20
+utils.go,utils.go,\utils\utils.go,\samples\openapi3\client\petstore\go-experimental\go-petstore\utils.go,101,237,20
+main.go,main.go,\vendor\github.com\shurcooL\sanitized_anchor_name\main.go,\samples\server\petstore\go-api-server\main.go,19,17,1
+main.go,main.go,\vendor\github.com\shurcooL\sanitized_anchor_name\main.go,\samples\openapi3\server\petstore\go-api-server\main.go,19,25,1

@@ -1,0 +1,14 @@
+10549-luci,242-php-src
+config.h,config.h,\libs\luci-lib-nixio\axtls-config\config.h,\ext\pcre\pcre2lib\config.h,89,46,0
+file.c,file.c,\libs\luci-lib-nixio\src\file.c,\ext\standard\file.c,355,1874,77
+poll.c,poll.c,\libs\luci-lib-nixio\src\poll.c,\sapi\fpm\fpm\events\poll.c,154,155,26
+syslog.c,syslog.c,\libs\luci-lib-nixio\src\syslog.c,\ext\standard\syslog.c,87,133,17
+config.h,config.h,\libs\luci-lib-nixio\axTLS\config\config.h,\ext\pcre\pcre2lib\config.h,89,46,0
+md5.c,md5.c,\libs\luci-lib-nixio\axTLS\crypto\md5.c,\ext\standard\md5.c,184,267,22
+sha1.c,sha1.c,\libs\luci-lib-nixio\axTLS\crypto\sha1.c,\ext\standard\sha1.c,148,264,29
+openssl.c,openssl.c,\libs\luci-lib-nixio\axTLS\ssl\openssl.c,\ext\openssl\openssl.c,221,5334,96
+sha1.c,sha1.c,\libs\luci-lib-px5g\src\library\sha1.c,\ext\standard\sha1.c,445,264,30
+config.h,config.h,\libs\luci-lib-px5g\src\polarssl\config.h,\ext\pcre\pcre2lib\config.h,35,46,2
+sha1.h,sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,\ext\standard\sha1.h,30,15,2
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\util.c,\ext\phar\util.c,81,1635,20
+util.c,util.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\util.c,\ext\phar\util.c,261,1635,39

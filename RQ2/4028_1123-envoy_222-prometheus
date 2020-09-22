@@ -1,0 +1,7 @@
+1123-envoy,222-prometheus
+service.go,service.go,\examples\grpc-bridge\server\service.go,\discovery\kubernetes\service.go,48,151,13
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\golang.org\x\sys\windows\service.go,48,176,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\aws\ec2metadata\service.go,48,154,12
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\ec2\service.go,48,56,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\github.com\aws\aws-sdk-go\service\sts\service.go,48,56,9
+service.go,service.go,\examples\grpc-bridge\server\service.go,\vendor\k8s.io\client-go\kubernetes\typed\core\v1\service.go,48,127,11

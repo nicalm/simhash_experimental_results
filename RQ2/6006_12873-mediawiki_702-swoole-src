@@ -1,0 +1,5 @@
+12873-mediawiki,702-swoole-src
+config.php,config.php,\.phan\config.php,\tests\include\config.php,82,80,1
+mysql.php,mysql.php,\maintenance\mysql.php,\examples\php\mysql.php,125,25,5
+bootstrap.php,bootstrap.php,\tests\phpunit\bootstrap.php,\tools\bootstrap.php,44,135,9
+bootstrap.php,bootstrap.php,\tests\phpunit\bootstrap.php,\tests\include\bootstrap.php,44,30,3

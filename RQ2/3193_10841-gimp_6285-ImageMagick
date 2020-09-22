@@ -1,0 +1,16 @@
+10841-gimp,6285-ImageMagick
+xcf.c,xcf.c,\app\xcf\xcf.c,\coders\xcf.c,376,1161,47
+tile.c,tile.c,\plug-ins\common\tile.c,\coders\tile.c,402,87,8
+bmp.c,bmp.c,\plug-ins\file-bmp\bmp.c,\coders\bmp.c,167,1988,23
+bmp.h,bmp.h,\plug-ins\file-bmp\bmp.h,\coders\bmp.h,41,18,1
+color.c,color.c,\plug-ins\file-dds\color.c,\MagickCore\color.c,30,1929,7
+color.h,color.h,\plug-ins\file-dds\color.h,\MagickCore\color.h,60,61,5
+dds.c,dds.c,\plug-ins\file-dds\dds.c,\coders\dds.c,424,2695,59
+fits.c,fits.c,\plug-ins\file-fits\fits.c,\coders\fits.c,970,623,119
+jpeg.c,jpeg.c,\plug-ins\file-jpeg\jpeg.c,\coders\jpeg.c,531,2590,95
+jpeg.h,jpeg.h,\plug-ins\file-jpeg\jpeg.h,\coders\jpeg.h,39,15,2
+psd.c,psd.c,\plug-ins\file-psd\psd.c,\coders\psd.c,311,3133,43
+sgi.c,sgi.c,\plug-ins\file-sgi\sgi.c,\coders\sgi.c,474,907,81
+color.c,color.c,\plug-ins\gimpressionist\color.c,\MagickCore\color.c,68,1929,7
+plasma.c,plasma.c,\plug-ins\gimpressionist\plasma.c,\coders\plasma.c,90,157,12
+screenshot.c,screenshot.c,\plug-ins\screenshot\screenshot.c,\coders\screenshot.c,682,182,30

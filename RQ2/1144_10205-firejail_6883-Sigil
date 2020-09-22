@@ -1,0 +1,3 @@
+10205-firejail,6883-Sigil
+util.c,util.c,\src\firecfg\util.c,\internal\gumbo\util.c,50,49,6
+util.c,util.c,\src\firejail\util.c,\internal\gumbo\util.c,968,49,9

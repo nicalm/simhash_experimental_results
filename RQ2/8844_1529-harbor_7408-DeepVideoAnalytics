@@ -1,0 +1,15 @@
+1529-harbor,7408-DeepVideoAnalytics
+utils.py,utils.py,\tools\migration\cfg\utils.py,\repos\crnn\utils.py,61,91,1
+utils.py,utils.py,\tools\migration\cfg\utils.py,\repos\lopq\python\lopq\utils.py,61,90,3
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\deploy\compose\__init__.py,17,161,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\deploy\kube\__init__.py,17,256,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\deploy\compose\__init__.py,42,161,2
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\deploy\kube\__init__.py,42,256,4
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\deploy\compose\__init__.py,53,161,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\deploy\kube\__init__.py,53,256,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\deploy\compose\__init__.py,44,161,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\deploy\kube\__init__.py,44,256,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\deploy\compose\__init__.py,60,161,4
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\deploy\kube\__init__.py,60,256,4
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\deploy\compose\__init__.py,17,161,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\deploy\kube\__init__.py,17,256,1

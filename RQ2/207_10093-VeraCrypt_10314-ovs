@@ -1,0 +1,6 @@
+10093-VeraCrypt,10314-ovs
+resource.h,resource.h,\src\ExpandVolume\resource.h,\datapath-windows\ovsext\resource.h,141,1569,5
+resource.h,resource.h,\src\ExpandVolume\resource.h,\include\windows\sys\resource.h,141,31,2
+Event.h,Event.h,\src\Platform\Event.h,\datapath-windows\ovsext\Event.h,61,44,2
+User.h,User.h,\src\Platform\User.h,\datapath-windows\ovsext\User.h,19,80,1
+compat.h,compat.h,\src\Common\libzip\compat.h,\datapath\compat.h,143,59,6

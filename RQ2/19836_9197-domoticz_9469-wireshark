@@ -1,0 +1,8 @@
+9197-domoticz,9469-wireshark
+main.cpp,main.cpp,\tinyxpath\main.cpp,\ui\qt\main.cpp,296,650,36
+adler32.c,adler32.c,\zlib\adler32.c,\wsutil\adler32.c,137,23,8
+crc32.c,crc32.c,\zlib\crc32.c,\wsutil\crc32.c,285,366,25
+crc32.h,crc32.h,\zlib\crc32.h,\wsutil\crc32.h,437,32,2
+stream.h,stream.h,\cereal\external\rapidjson\stream.h,\epan\stream.h,67,28,1
+ast.h,ast.h,\hardware\plugins\Include\ast.h,\tools\npl\ast.h,20,287,0
+codecs.h,codecs.h,\hardware\plugins\Include\codecs.h,\wsutil\codecs.h,90,45,9

@@ -1,0 +1,5 @@
+2389-Pillow,86-netdata
+__init__.py,__init__.py,\src\PIL\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml2\__init__.py,52,171,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\collectors\python.d.plugin\python_modules\pyyaml3\__init__.py,52,168,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\__init__.py,52,58,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\collectors\python.d.plugin\python_modules\urllib3\util\__init__.py,52,51,0

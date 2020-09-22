@@ -1,0 +1,12 @@
+60419-iv,6285-ImageMagick
+token.h,token.h,\iv\token.h,\MagickCore\token.h,310,23,2
+utility.h,utility.h,\iv\aero\utility.h,\MagickCore\utility.h,21,38,2
+main.cc,main.cc,\iv\lv5\main.cc,\Magick++\fuzz\main.cc,275,84,7
+property.h,property.h,\iv\lv5\property.h,\MagickCore\property.h,215,27,2
+utility.h,utility.h,\iv\lv5\utility.h,\MagickCore\utility.h,17,38,2
+exception.h,exception.h,\iv\lv5\breaker\exception.h,\MagickCore\exception.h,77,136,2
+type.h,type.h,\iv\lv5\breaker\type.h,\MagickCore\type.h,466,67,2
+utility.h,utility.h,\iv\lv5\i18n\utility.h,\MagickCore\utility.h,417,38,3
+color.h,color.h,\iv\lv5\radio\color.h,\MagickCore\color.h,16,61,1
+exception.h,exception.h,\iv\lv5\railgun\exception.h,\MagickCore\exception.h,55,136,3
+utils.cc,utils.cc,\iv\lv5\third_party\v8_dtoa\utils.cc,\Magick++\fuzz\utils.cc,44,27,1

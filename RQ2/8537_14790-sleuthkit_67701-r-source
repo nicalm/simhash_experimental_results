@@ -1,0 +1,11 @@
+14790-sleuthkit,67701-r-source
+md5.c,md5.c,\tools\hashtools\md5.c,\src\library\tools\src\md5.c,48,238,10
+raw.c,raw.c,\tsk\img\raw.c,\src\main\raw.c,577,326,42
+utils.c,utils.c,\tools\fiwalk\src\utils.c,\src\library\utils\src\utils.c,91,68,18
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\src\library\utils\src\utils.h,33,64,3
+regcomp.c,regcomp.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regcomp.c,\src\extra\tre\regcomp.c,3008,136,47
+regexec.c,regexec.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regexec.c,\src\extra\tre\regexec.c,3460,292,97
+getline.c,getline.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\getline.c,\src\gnuwin32\getline\getline.c,61,1051,17
+print.c,print.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\print.c,\src\main\print.c,188,880,33
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\src\nmath\standalone\test.c,79,24,6
+config.h,config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,\src\gnuwin32\fixed\h\config.h,41,267,14

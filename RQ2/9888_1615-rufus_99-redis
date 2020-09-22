@@ -1,0 +1,13 @@
+1615-rufus,99-redis
+net.c,net.c,\src\net.c,\deps\hiredis\net.c,928,392,84
+bitops.c,bitops.c,\src\ext2fs\bitops.c,\src\bitops.c,110,767,20
+config.h,config.h,\src\ext2fs\config.h,\src\config.h,182,149,18
+crc16.c,crc16.c,\src\ext2fs\crc16.c,\src\crc16.c,48,42,3
+extent.c,extent.c,\src\ext2fs\extent.c,\deps\jemalloc\src\extent.c,1423,1652,136
+extent.c,extent.c,\src\ext2fs\extent.c,\deps\jemalloc\test\integration\extent.c,1423,213,17
+config.h,config.h,\src\libcdio\config.h,\src\config.h,53,149,4
+read.h,read.h,\src\libcdio\cdio\read.h,\deps\hiredis\read.h,49,69,7
+util.h,util.h,\src\libcdio\cdio\util.h,\src\util.h,79,24,2
+util.h,util.h,\src\libcdio\cdio\util.h,\deps\jemalloc\include\jemalloc\internal\util.h,79,42,9
+read.c,read.c,\src\libcdio\driver\read.c,\deps\hiredis\read.c,181,496,19
+util.c,util.c,\src\libcdio\driver\util.c,\src\util.c,124,590,24

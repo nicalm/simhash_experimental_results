@@ -1,0 +1,13 @@
+2944-supervisor,981-numpy
+setup.py,setup.py,\setup.py,\setup.py,72,245,10
+setup.py,setup.py,\setup.py,\numpy\setup.py,72,23,0
+setup.py,setup.py,\setup.py,\numpy\core\setup.py,72,692,7
+setup.py,setup.py,\setup.py,\numpy\f2py\setup.py,72,41,3
+setup.py,setup.py,\setup.py,\numpy\linalg\setup.py,72,51,4
+setup.py,setup.py,\setup.py,\numpy\random\setup.py,72,107,4
+setup.py,setup.py,\setup.py,\numpy\testing\setup.py,72,16,1
+setup.py,setup.py,\setup.py,\tools\swig\test\setup.py,72,50,1
+setup.py,setup.py,\setup.py,\numpy\random\_examples\cython\setup.py,72,24,2
+conf.py,conf.py,\docs\conf.py,\doc\neps\conf.py,34,65,6
+conf.py,conf.py,\docs\conf.py,\doc\source\conf.py,34,193,6
+util.py,util.py,\supervisor\medusa\util.py,\numpy\f2py\tests\util.py,39,218,0

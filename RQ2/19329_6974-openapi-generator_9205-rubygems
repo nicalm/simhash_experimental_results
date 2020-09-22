@@ -1,0 +1,9 @@
+6974-openapi-generator,9205-rubygems
+list.rb,list.rb,\samples\client\petstore\ruby\lib\petstore\models\list.rb,\lib\rubygems\util\list.rb,134,30,10
+tag.rb,tag.rb,\samples\client\petstore\ruby\lib\petstore\models\tag.rb,\lib\rubygems\resolver\molinillo\lib\molinillo\dependency_graph\tag.rb,141,18,7
+list.rb,list.rb,\samples\client\petstore\ruby-faraday\lib\petstore\models\list.rb,\lib\rubygems\util\list.rb,134,30,10
+tag.rb,tag.rb,\samples\client\petstore\ruby-faraday\lib\petstore\models\tag.rb,\lib\rubygems\resolver\molinillo\lib\molinillo\dependency_graph\tag.rb,141,18,7
+list.rb,list.rb,\samples\openapi3\client\petstore\ruby\lib\petstore\models\list.rb,\lib\rubygems\util\list.rb,134,30,10
+tag.rb,tag.rb,\samples\openapi3\client\petstore\ruby\lib\petstore\models\tag.rb,\lib\rubygems\resolver\molinillo\lib\molinillo\dependency_graph\tag.rb,141,18,7
+list.rb,list.rb,\samples\openapi3\client\petstore\ruby-faraday\lib\petstore\models\list.rb,\lib\rubygems\util\list.rb,134,30,10
+tag.rb,tag.rb,\samples\openapi3\client\petstore\ruby-faraday\lib\petstore\models\tag.rb,\lib\rubygems\resolver\molinillo\lib\molinillo\dependency_graph\tag.rb,141,18,7

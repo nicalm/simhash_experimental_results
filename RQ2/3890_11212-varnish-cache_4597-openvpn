@@ -1,0 +1,4 @@
+11212-varnish-cache,4597-openvpn
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\src\openvpn\base64.c,269,150,34
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\sample\sample-plugins\simple\base64.c,269,85,21
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\src\openvpn\misc.c,15,564,4

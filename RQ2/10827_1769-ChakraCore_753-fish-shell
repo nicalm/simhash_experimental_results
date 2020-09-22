@@ -1,0 +1,8 @@
+1769-ChakraCore,753-fish-shell
+color.h,color.h,\lib\wabt\src\color.h,\src\color.h,41,90,4
+common.h,common.h,\lib\wabt\src\common.h,\src\common.h,324,572,53
+path.cpp,path.cpp,\pal\src\cruntime\path.cpp,\src\path.cpp,419,331,61
+signal.cpp,signal.cpp,\pal\src\exception\signal.cpp,\src\signal.cpp,286,322,39
+utf8.cpp,utf8.cpp,\pal\src\locale\utf8.cpp,\src\utf8.cpp,360,253,47
+common.cpp,common.cpp,\pal\src\map\common.cpp,\src\common.cpp,35,2016,12
+event.cpp,event.cpp,\pal\src\synchobj\event.cpp,\src\event.cpp,366,362,30

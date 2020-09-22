@@ -1,0 +1,12 @@
+1193-mpv,8874-collectd
+common.c,common.c,\common\common.c,\src\utils\common\common.c,255,1217,68
+common.h,common.h,\common\common.h,\src\utils\common\common.h,78,131,4
+cmd.c,cmd.c,\input\cmd.c,\src\daemon\cmd.c,514,180,28
+ipc.c,ipc.c,\input\ipc.c,\src\ipc.c,353,219,36
+client.h,client.h,\libmpv\client.h,\src\libcollectdclient\collectd\client.h,226,38,3
+client.c,client.c,\player\client.c,\src\libcollectdclient\client.c,1716,785,142
+client.h,client.h,\player\client.h,\src\libcollectdclient\collectd\client.h,43,38,2
+lua.c,lua.c,\player\lua.c,\src\lua.c,1109,424,97
+common.c,common.c,\video\out\opengl\common.c,\src\utils\common\common.c,567,1217,44
+common.h,common.h,\video\out\opengl\common.h,\src\utils\common\common.h,197,131,5
+common.h,common.h,\video\out\vulkan\common.h,\src\utils\common\common.h,27,131,4

@@ -1,0 +1,5 @@
+12310-weechat,18309-tor
+relay.c,relay.c,\src\plugins\relay\relay.c,\src\core\or\relay.c,155,2262,33
+relay.h,relay.h,\src\plugins\relay\relay.h,\src\core\or\relay.h,19,105,1
+main.c,main.c,\src\gui\curses\headless\main.c,\src\app\main\main.c,64,1029,19
+main.c,main.c,\src\gui\curses\normal\main.c,\src\app\main\main.c,16,1029,4

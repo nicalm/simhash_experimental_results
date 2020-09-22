@@ -1,0 +1,3 @@
+4420-zcash,86-netdata
+main.h,main.h,\src\main.h,\daemon\main.h,252,27,3
+common.h,common.h,\src\crypto\common.h,\daemon\common.h,94,48,1

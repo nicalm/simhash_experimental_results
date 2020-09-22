@@ -1,0 +1,15 @@
+551-FFmpeg,8874-collectd
+network.c,network.c,\libavformat\network.c,\src\network.c,485,2472,127
+network.c,network.c,\libavformat\network.c,\src\libcollectdclient\network.c,485,312,63
+network.h,network.h,\libavformat\network.h,\src\network.h,189,20,1
+network.h,network.h,\libavformat\network.h,\src\libcollectdclient\collectd\network.h,189,32,4
+nut.c,nut.c,\libavformat\nut.c,\src\nut.c,291,308,13
+protocols.c,protocols.c,\libavformat\protocols.c,\src\protocols.c,96,149,10
+common.h,common.h,\libavutil\common.h,\src\utils\common\common.h,288,131,9
+cpu.c,cpu.c,\libavutil\cpu.c,\src\cpu.c,278,644,34
+cpu.c,cpu.c,\libavutil\aarch64\cpu.c,\src\cpu.c,16,644,4
+cpu.c,cpu.c,\libavutil\arm\cpu.c,\src\cpu.c,116,644,20
+cpu.c,cpu.c,\libavutil\ppc\cpu.c,\src\cpu.c,122,644,21
+cpu.c,cpu.c,\libavutil\tests\cpu.c,\src\cpu.c,114,644,18
+cpu.c,cpu.c,\libavutil\x86\cpu.c,\src\cpu.c,177,644,25
+types.h,types.h,\compat\avisynth\avs\types.h,\src\libcollectdclient\collectd\types.h,16,48,1

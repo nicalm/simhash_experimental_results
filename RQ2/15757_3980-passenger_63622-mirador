@@ -1,0 +1,6 @@
+3980-passenger,63622-mirador
+webpack.config.js,webpack.config.js,\resources\templates\error_renderer\without_details\webpack.config.js,\webpack.config.js,40,62,15
+webpack.config.js,webpack.config.js,\resources\templates\error_renderer\with_details\webpack.config.js,\webpack.config.js,45,62,16
+config.js,config.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\config.js,\src\state\actions\config.js,40,21,5
+config.js,config.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\config.js,\src\state\reducers\config.js,40,15,2
+config.js,config.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\config.js,\src\state\selectors\config.js,40,44,1

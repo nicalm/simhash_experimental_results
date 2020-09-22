@@ -1,0 +1,13 @@
+12658-Espruino,99-redis
+log.c,log.c,\targets\esp8266\log.c,\deps\jemalloc\src\log.c,162,57,11
+log.c,log.c,\targets\esp8266\log.c,\deps\jemalloc\test\unit\log.c,162,150,16
+config.h,config.h,\libs\crypto\mbedtls\config.h,\src\config.h,60,149,4
+debug.c,debug.c,\libs\crypto\mbedtls\library\debug.c,\src\debug.c,264,1230,59
+net.c,net.c,\libs\crypto\mbedtls\library\net.c,\deps\hiredis\net.c,396,392,61
+sha1.c,sha1.c,\libs\crypto\mbedtls\library\sha1.c,\src\sha1.c,328,156,26
+sha256.c,sha256.c,\libs\crypto\mbedtls\library\sha256.c,\src\sha256.c,320,120,16
+sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\src\sha1.h,43,15,4
+sha256.h,sha256.h,\libs\crypto\mbedtls\include\mbedtls\sha256.h,\src\sha256.h,46,17,3
+crc16.c,crc16.c,\targetlibs\nrf5x_12\components\libraries\crc16\crc16.c,\src\crc16.c,18,42,2
+sha256.c,sha256.c,\targetlibs\nrf5x_12\components\libraries\sha256\sha256.c,\src\sha256.c,148,120,110
+sha256.h,sha256.h,\targetlibs\nrf5x_12\components\libraries\sha256\sha256.h,\src\sha256.h,20,17,5

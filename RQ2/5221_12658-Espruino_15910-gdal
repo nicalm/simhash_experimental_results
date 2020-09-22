@@ -1,0 +1,9 @@
+12658-Espruino,15910-gdal
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\gdal\swig\python\osgeo\__init__.py,781,40,6
+config.h,config.h,\libs\crypto\mbedtls\config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,60,54,4
+debug.c,debug.c,\libs\crypto\mbedtls\library\debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,264,74,22
+debug.h,debug.h,\libs\crypto\mbedtls\include\mbedtls\debug.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.h,72,56,13
+crc32.c,crc32.c,\targetlibs\nrf5x_12\components\libraries\crc32\crc32.c,\gdal\frmts\zlib\crc32.c,19,287,8
+base.h,base.h,\libs\tensorflow\third_party\flatbuffers\include\flatbuffers\base.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\base.h,270,280,261
+flatbuffers.h,flatbuffers.h,\libs\tensorflow\third_party\flatbuffers\include\flatbuffers\flatbuffers.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\flatbuffers.h,1609,1696,1592
+stl_emulation.h,stl_emulation.h,\libs\tensorflow\third_party\flatbuffers\include\flatbuffers\stl_emulation.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\stl_emulation.h,202,214,202

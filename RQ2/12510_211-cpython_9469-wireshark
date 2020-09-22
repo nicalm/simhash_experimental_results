@@ -1,0 +1,8 @@
+211-cpython,9469-wireshark
+ast.h,ast.h,\Include\ast.h,\tools\npl\ast.h,26,287,0
+codecs.h,codecs.h,\Include\codecs.h,\wsutil\codecs.h,94,45,9
+codecs.c,codecs.c,\Python\codecs.c,\wsutil\codecs.c,1276,108,30
+util.c,util.c,\Modules\_sqlite\util.c,\ui\util.c,93,182,15
+util.h,util.h,\Modules\_sqlite\util.h,\ui\util.h,16,15,2
+codecs.h,codecs.h,\Objects\stringlib\codecs.h,\wsutil\codecs.h,683,45,6
+fixtures.py,fixtures.py,\Lib\test\test_importlib\fixtures.py,\test\fixtures.py,106,254,9

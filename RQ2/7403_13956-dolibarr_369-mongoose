@@ -1,0 +1,15 @@
+13956-dolibarr,369-mongoose
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\benchmarks\index.js,40,135,6
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\lib\index.js,40,333,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\source\index.js,40,34,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\lib\error\index.js,40,15,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\lib\schema\index.js,40,17,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\examples\schema\storing-schemas-as-json\index.js,40,16,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\3.0.x\docs\source\index.js,40,18,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\3.1.x\docs\source\index.js,40,18,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\3.2.x\docs\source\index.js,40,19,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\3.3.x\docs\source\index.js,40,20,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\3.4.x\docs\source\index.js,40,20,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\docs\3.5.x\docs\source\index.js,40,20,0
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\test\common.js,48,144,8
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\lib\helpers\common.js,48,73,8

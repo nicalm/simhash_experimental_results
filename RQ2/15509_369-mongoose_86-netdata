@@ -1,0 +1,6 @@
+369-mongoose,86-netdata
+utils.js,utils.js,\lib\utils.js,\web\gui\src\dashboard.js\utils.js,686,324,95
+colors.js,colors.js,\test\colors.js,\web\gui\src\dashboard.js\colors.js,86,26,4
+common.js,common.js,\test\common.js,\web\gui\src\dashboard.js\common.js,144,169,17
+timeout.js,timeout.js,\lib\error\timeout.js,\web\gui\src\dashboard.js\timeout.js,21,42,4
+common.js,common.js,\lib\helpers\common.js,\web\gui\src\dashboard.js\common.js,73,169,16

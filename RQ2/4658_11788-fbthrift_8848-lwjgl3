@@ -1,0 +1,6 @@
+11788-fbthrift,8848-lwjgl3
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\modules\lwjgl\zstd\src\main\c\common\debug.h,58,39,2
+Struct.java,Struct.java,\thrift\compiler\test\fixtures\qualified\gen-swift\test\fixtures\module0\Struct.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Struct.java,83,201,14
+Struct.java,Struct.java,\thrift\compiler\test\fixtures\qualified\gen-swift\test\fixtures\module1\Struct.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Struct.java,83,201,14
+Struct.java,Struct.java,\thrift\compiler\test\fixtures\qualified\gen-swift\test\fixtures\module2\Struct.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Struct.java,83,201,14
+StructTest.java,StructTest.java,\thrift\lib\java\src\test\java\com\facebook\thrift\StructTest.java,\modules\lwjgl\core\src\test\java\org\lwjgl\system\StructTest.java,32,211,5

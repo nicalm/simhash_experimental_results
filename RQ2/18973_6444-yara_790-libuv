@@ -1,0 +1,8 @@
+6444-yara,790-libuv
+conf.py,conf.py,\docs\conf.py,\docs\src\conf.py,35,59,15
+stream.c,stream.c,\libyara\stream.c,\src\unix\stream.c,22,1128,5
+stream.c,stream.c,\libyara\stream.c,\src\win\stream.c,22,171,4
+util.c,util.c,\tests\util.c,\samples\socks5-proxy\util.c,285,43,7
+util.c,util.c,\tests\util.c,\src\win\util.c,285,1211,36
+freebsd.c,freebsd.c,\libyara\proc\freebsd.c,\src\unix\freebsd.c,104,203,17
+openbsd.c,openbsd.c,\libyara\proc\openbsd.c,\src\unix\openbsd.c,109,174,14

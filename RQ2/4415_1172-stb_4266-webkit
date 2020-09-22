@@ -1,0 +1,8 @@
+1172-stb,4266-webkit
+unicode.c,unicode.c,\tools\unicode.c,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\crypto\bytestring\unicode.c,606,120,32
+glext.h,glext.h,\tests\caveview\glext.h,\Source\ThirdParty\ANGLE\include\GLES\glext.h,10581,850,185
+main.c,main.c,\tests\oversample\main.c,\ManualTests\NPN_Invoke\main.c,276,187,28
+main.c,main.c,\tests\oversample\main.c,\Tools\MiniBrowser\gtk\main.c,276,521,38
+main.c,main.c,\tests\oversample\main.c,\Source\ThirdParty\libwebrtc\Source\third_party\yasm\tools\re2c\main.c,276,174,29
+main.c,main.c,\tests\oversample\main.c,\LayoutTests\imported\w3c\web-platform-tests\resources\webidl2\test\widlproc\src\main.c,276,35,10
+main.c,main.c,\tests\oversample\main.c,\Source\ThirdParty\libwebrtc\Source\webrtc\modules\audio_processing\test\android\apmtest\jni\main.c,276,185,26

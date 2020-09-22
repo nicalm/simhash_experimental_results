@@ -1,0 +1,13 @@
+2509-Twig,6974-openapi-generator
+ArrayTest.php,ArrayTest.php,\tests\Loader\ArrayTest.php,\samples\server\petstore\php-slim4\lib\Model\ArrayTest.php,60,45,13
+ArrayTest.php,ArrayTest.php,\tests\Loader\ArrayTest.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\ArrayTest.php,60,132,19
+ArrayTest.php,ArrayTest.php,\tests\Loader\ArrayTest.php,\samples\openapi3\client\petstore\php\OpenAPIClient-php\lib\Model\ArrayTest.php,60,132,19
+ArrayTest.php,ArrayTest.php,\tests\Node\Expression\ArrayTest.php,\samples\server\petstore\php-slim4\lib\Model\ArrayTest.php,27,45,7
+ArrayTest.php,ArrayTest.php,\tests\Node\Expression\ArrayTest.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\ArrayTest.php,27,132,9
+ArrayTest.php,ArrayTest.php,\tests\Node\Expression\ArrayTest.php,\samples\openapi3\client\petstore\php\OpenAPIClient-php\lib\Model\ArrayTest.php,27,132,9
+NameTest.php,NameTest.php,\tests\Node\Expression\NameTest.php,\samples\server\petstore\php-slim\test\Model\NameTest.php,29,35,7
+NameTest.php,NameTest.php,\tests\Node\Expression\NameTest.php,\samples\server\petstore\php-slim4\test\Model\NameTest.php,29,35,7
+NameTest.php,NameTest.php,\tests\Node\Expression\NameTest.php,\samples\client\petstore\php\OpenAPIClient-php\test\Model\NameTest.php,29,33,7
+NameTest.php,NameTest.php,\tests\Node\Expression\NameTest.php,\samples\openapi3\client\petstore\php\OpenAPIClient-php\test\Model\NameTest.php,29,33,7
+Configuration.php,Configuration.php,\extra\twig-extra-bundle\src\DependencyInjection\Configuration.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Configuration.php,23,180,6
+Configuration.php,Configuration.php,\extra\twig-extra-bundle\src\DependencyInjection\Configuration.php,\samples\openapi3\client\petstore\php\OpenAPIClient-php\lib\Configuration.php,23,213,6

@@ -1,0 +1,7 @@
+14790-sleuthkit,60419-iv
+json.h,json.h,\tools\logicalimager\json.h,\iv\lv5\json.h,11001,42,9
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\iv\utils.h,33,109,4
+utils.h,utils.h,\tools\fiwalk\src\utils.h,\iv\lv5\third_party\v8_dtoa\utils.h,33,63,1
+test.c,test.c,\framework\modules\c_FileTypeSigModule\file-5.08\tests\test.c,\iv\lv5\third_party\gc\tests\test.c,79,1639,22
+i18n.h,i18n.h,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\i18n.h,\iv\i18n.h,29,161,1
+i18n.h,i18n.h,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\i18n.h,\iv\lv5\runtime\i18n.h,29,27,3

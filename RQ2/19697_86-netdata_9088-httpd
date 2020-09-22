@@ -1,0 +1,6 @@
+86-netdata,9088-httpd
+main.c,main.c,\daemon\main.c,\server\main.c,995,643,105
+os.c,os.c,\libnetdata\os.c,\os\bs2000\os.c,157,72,15
+os.h,os.h,\libnetdata\os.h,\os\win32\os.h,30,49,3
+locks.c,locks.c,\libnetdata\locks\locks.c,\modules\dav\lock\locks.c,246,782,46
+log.c,log.c,\libnetdata\log\log.c,\server\log.c,565,1428,155

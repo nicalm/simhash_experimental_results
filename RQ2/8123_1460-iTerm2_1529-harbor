@@ -1,0 +1,7 @@
+1460-iTerm2,1529-harbor
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,52,17,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,52,42,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,52,53,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,52,44,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,52,60,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,52,17,0

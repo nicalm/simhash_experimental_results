@@ -1,0 +1,12 @@
+140-neovim,86-netdata
+buffer.c,buffer.c,\src\nvim\buffer.c,\libnetdata\buffer\buffer.c,3997,280,56
+buffer.h,buffer.h,\src\nvim\buffer.h,\libnetdata\buffer\buffer.h,90,64,2
+eval.c,eval.c,\src\nvim\eval.c,\libnetdata\eval\eval.c,18208,887,207
+eval.h,eval.h,\src\nvim\eval.h,\libnetdata\eval\eval.h,130,53,1
+log.c,log.c,\src\nvim\log.c,\libnetdata\log\log.c,244,565,68
+log.h,log.h,\src\nvim\log.h,\libnetdata\log\log.h,62,76,2
+main.c,main.c,\src\nvim\main.c,\daemon\main.c,1480,995,166
+buffer.c,buffer.c,\src\nvim\api\buffer.c,\libnetdata\buffer\buffer.c,704,280,46
+socket.c,socket.c,\src\nvim\event\socket.c,\libnetdata\socket\socket.c,222,1305,39
+socket.h,socket.h,\src\nvim\event\socket.h,\libnetdata\socket\socket.h,31,156,4
+os.h,os.h,\src\nvim\os\os.h,\libnetdata\os.h,15,30,2

@@ -1,0 +1,3 @@
+12658-Espruino,63225-sedutil
+sha1.c,sha1.c,\libs\crypto\mbedtls\library\sha1.c,\Common\pbkdf2\sha1.c,328,103,18
+sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\Common\pbkdf2\sha1.h,43,20,5

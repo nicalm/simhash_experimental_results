@@ -1,0 +1,4 @@
+1769-ChakraCore,2475-fmt
+color.h,color.h,\lib\wabt\src\color.h,\include\fmt\color.h,41,479,5
+build.py,build.py,\test\WasmSpec\testsuite\build.py,\doc\build.py,177,79,2
+locale.h,locale.h,\pal\src\include\pal\locale.h,\include\fmt\locale.h,46,60,2

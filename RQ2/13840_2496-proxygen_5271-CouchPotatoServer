@@ -1,0 +1,9 @@
+2496-proxygen,5271-CouchPotatoServer
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\git\utils.py,59,19,0
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\html5lib\utils.py,59,45,1
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\requests\utils.py,59,363,3
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\subliminal\utils.py,59,22,1
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\ndg\httpsclient\utils.py,59,252,4
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\oauthlib\oauth1\rfc5849\utils.py,59,55,1
+utils.py,utils.py,\build\fbcode_builder\utils.py,\libs\oauthlib\oauth2\draft25\utils.py,59,41,0
+builder.py,builder.py,\build\fbcode_builder\getdeps\builder.py,\libs\suds\builder.py,553,81,6

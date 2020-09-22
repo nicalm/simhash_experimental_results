@@ -1,0 +1,3 @@
+6773-server,9205-rubygems
+command.rb,command.rb,\storage\mroonga\vendor\groonga\lib\mrb\scripts\command.rb,\lib\rubygems\command.rb,57,353,20
+parser.rb,parser.rb,\storage\mroonga\vendor\groonga\vendor\plugins\groonga-normalizer-mysql\tool\parser.rb,\lib\rubygems\request_set\lockfile\parser.rb,151,239,42

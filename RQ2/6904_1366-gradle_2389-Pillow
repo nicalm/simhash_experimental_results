@@ -1,0 +1,4 @@
+1366-gradle,2389-Pillow
+script.js,script.js,\subprojects\docs\src\docs\js\javadoc\script.js,\docs\resources\js\script.js,136,58,11
+script.js,script.js,\subprojects\docs\src\docs\release\content\script.js,\docs\resources\js\script.js,64,58,11
+script.js,script.js,\subprojects\diagnostics\src\main\resources\org\gradle\api\tasks\diagnostics\htmldependencyreport\script.js,\docs\resources\js\script.js,164,58,12

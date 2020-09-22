@@ -1,0 +1,4 @@
+2389-Pillow,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,714,64,8
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,714,21,1
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,714,73,7

@@ -1,0 +1,7 @@
+1615-rufus,5902-nmap
+crc32.c,crc32.c,\src\bled\crc32.c,\libz\crc32.c,82,289,20
+getopt.c,getopt.c,\src\getopt\getopt.c,\nbase\getopt.c,653,246,60
+getopt.c,getopt.c,\src\getopt\getopt.c,\libpcap\missing\getopt.c,653,76,21
+getopt.h,getopt.h,\src\getopt\getopt.h,\nbase\getopt.h,60,41,20
+util.h,util.h,\src\libcdio\cdio\util.h,\ncat\util.h,79,72,6
+util.c,util.c,\src\libcdio\driver\util.c,\ncat\util.c,124,502,37

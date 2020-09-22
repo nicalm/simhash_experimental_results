@@ -1,0 +1,8 @@
+1366-gradle,14790-sleuthkit
+CollectionUtils.java,CollectionUtils.java,\subprojects\base-services\src\main\java\org\gradle\util\CollectionUtils.java,\bindings\java\src\org\sleuthkit\datamodel\CollectionUtils.java,461,15,7
+VersionNumber.java,VersionNumber.java,\subprojects\core\src\main\java\org\gradle\util\VersionNumber.java,\bindings\java\src\org\sleuthkit\datamodel\VersionNumber.java,206,62,33
+Directory.java,Directory.java,\subprojects\core-api\src\main\java\org\gradle\api\file\Directory.java,\bindings\java\src\org\sleuthkit\datamodel\Directory.java,15,68,2
+Sample.java,Sample.java,\subprojects\internal-integ-testing\src\main\groovy\org\gradle\integtests\fixtures\Sample.java,\bindings\java\src\org\sleuthkit\datamodel\Examples\Sample.java,85,56,10
+Report.java,Report.java,\subprojects\reporting\src\main\java\org\gradle\api\reporting\Report.java,\bindings\java\src\org\sleuthkit\datamodel\Report.java,39,218,4
+Tag.java,Tag.java,\subprojects\internal-performance-testing\src\main\groovy\org\gradle\performance\results\report\Tag.java,\bindings\java\src\org\sleuthkit\datamodel\Tag.java,80,26,8
+FileSystem.java,FileSystem.java,\subprojects\native\src\main\java\org\gradle\internal\nativeintegration\filesystem\FileSystem.java,\bindings\java\src\org\sleuthkit\datamodel\FileSystem.java,15,101,1

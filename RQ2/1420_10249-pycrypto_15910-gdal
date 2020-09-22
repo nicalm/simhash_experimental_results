@@ -1,0 +1,8 @@
+10249-pycrypto,15910-gdal
+setup.py,setup.py,\setup.py,\gdal\swig\python\setup.py,369,329,30
+__init__.py,__init__.py,\lib\Crypto\Hash\__init__.py,\gdal\swig\python\osgeo\__init__.py,90,40,5
+__init__.py,__init__.py,\lib\Crypto\SelfTest\__init__.py,\gdal\swig\python\osgeo\__init__.py,47,40,2
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Cipher\__init__.py,\gdal\swig\python\osgeo\__init__.py,18,40,0
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Hash\__init__.py,\gdal\swig\python\osgeo\__init__.py,23,40,3
+__init__.py,__init__.py,\lib\Crypto\SelfTest\PublicKey\__init__.py,\gdal\swig\python\osgeo\__init__.py,16,40,1
+__init__.py,__init__.py,\lib\Crypto\SelfTest\Random\OSRNG\__init__.py,\gdal\swig\python\osgeo\__init__.py,17,40,1

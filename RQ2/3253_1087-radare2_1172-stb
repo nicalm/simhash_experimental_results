@@ -1,0 +1,9 @@
+1087-radare2,1172-stb
+main.c,main.c,\libr\main\main.c,\tests\oversample\main.c,40,276,6
+main.c,main.c,\shlr\grub\main.c,\tests\oversample\main.c,113,276,24
+main.c,main.c,\shlr\spp\main.c,\tests\oversample\main.c,127,276,20
+main.c,main.c,\libr\bin\pdb\main.c,\tests\oversample\main.c,52,276,14
+main.c,main.c,\shlr\sdb\src\main.c,\tests\oversample\main.c,472,276,41
+main.c,main.c,\libr\asm\arch\dcpu16\main.c,\tests\oversample\main.c,31,276,4
+main.c,main.c,\shlr\sdb\src\json\main.c,\tests\oversample\main.c,76,276,15
+main.c,main.c,\test\unit\legacy_unit\debug\main.c,\tests\oversample\main.c,54,276,8

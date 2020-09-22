@@ -1,0 +1,10 @@
+10827-keepalived,18692-spdk
+sock.c,sock.c,\genhash\sock.c,\lib\sock\sock.c,30,441,10
+memory.c,memory.c,\lib\memory.c,\lib\env_dpdk\memory.c,545,991,106
+memory.h,memory.h,\lib\memory.h,\include\spdk_internal\memory.h,64,20,3
+notify.c,notify.c,\lib\notify.c,\lib\notify\notify.c,885,92,25
+notify.h,notify.h,\lib\notify.h,\include\spdk\notify.h,74,28,3
+utils.c,utils.c,\lib\utils.c,\module\bdev\ocf\utils.c,948,82,32
+utils.c,utils.c,\lib\utils.c,\test\unit\lib\ftl\common\utils.c,948,102,14
+sock.h,sock.h,\genhash\include\sock.h,\include\spdk\sock.h,23,50,1
+sock.h,sock.h,\genhash\include\sock.h,\include\spdk_internal\sock.h,23,135,1

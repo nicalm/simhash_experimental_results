@@ -1,0 +1,8 @@
+6773-server,753-fish-shell
+common.h,common.h,\extra\mariabackup\common.h,\src\common.h,136,572,28
+history.h,history.h,\extra\readline\history.h,\src\history.h,82,133,3
+parser.h,parser.h,\plugin\file_key_management\parser.h,\src\parser.h,28,170,3
+common.h,common.h,\plugin\win_auth_client\common.h,\src\common.h,175,572,37
+output.h,output.h,\storage\mroonga\vendor\groonga\include\groonga\output.h,\src\output.h,91,64,3
+tokenizer.h,tokenizer.h,\storage\mroonga\vendor\groonga\include\groonga\tokenizer.h,\src\tokenizer.h,72,113,4
+common.h,common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,\src\common.h,117,572,19

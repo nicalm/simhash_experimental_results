@@ -1,0 +1,9 @@
+13956-dolibarr,4001-hello.js
+css.js,css.js,\htdocs\includes\ace\snippets\css.js,\assets\knockout\src\binding\defaultBindings\css.js,972,17,1
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,\assets\expect\support\jquery.js,6800,6390,2912
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\assets\index.js,40,1114,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\assets\expect\index.js,40,806,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\tests\specs\index.js,40,39,2
+Gruntfile.js,Gruntfile.js,\htdocs\includes\jquery\plugins\select2\Gruntfile.js,\Gruntfile.js,324,103,35
+Gruntfile.js,Gruntfile.js,\htdocs\includes\jquery\plugins\select2\Gruntfile.js,\assets\knockout\Gruntfile.js,324,154,28
+options.js,options.js,\htdocs\includes\ckeditor\ckeditor\plugins\scayt\dialogs\options.js,\assets\knockout\src\binding\defaultBindings\options.js,32,118,0

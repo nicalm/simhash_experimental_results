@@ -1,0 +1,7 @@
+10093-VeraCrypt,6285-ImageMagick
+Exception.h,Exception.h,\src\Common\Exception.h,\Magick++\lib\Magick++\Exception.h,88,327,24
+Exception.cpp,Exception.cpp,\src\Platform\Exception.cpp,\Magick++\lib\Exception.cpp,38,820,10
+Exception.h,Exception.h,\src\Platform\Exception.h,\Magick++\lib\Magick++\Exception.h,87,327,9
+Thread.h,Thread.h,\src\Platform\Thread.h,\Magick++\lib\Magick++\Thread.h,54,30,10
+compress.c,compress.c,\src\Common\zlib\compress.c,\MagickCore\compress.c,53,939,9
+Thread.cpp,Thread.cpp,\src\Platform\Unix\Thread.cpp,\Magick++\lib\Thread.cpp,39,82,10

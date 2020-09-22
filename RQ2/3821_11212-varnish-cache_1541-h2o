@@ -1,0 +1,9 @@
+11212-varnish-cache,1541-h2o
+hpack.h,hpack.h,\bin\varnishtest\hpack.h,\include\h2o\hpack.h,41,32,2
+version.c,version.c,\lib\libvarnish\version.c,\deps\mruby\src\version.c,45,15,3
+url.c,url.c,\lib\libvmod_blob\url.c,\lib\common\url.c,137,356,26
+url.c,url.c,\lib\libvmod_blob\url.c,\t\00unit\lib\common\url.c,137,566,12
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\deps\mruby\src\hash.c,75,977,13
+random.c,random.c,\lib\libvmod_directors\random.c,\deps\picotls\lib\cifra\random.c,103,83,14
+random.c,random.c,\lib\libvmod_directors\random.c,\deps\mruby\mrbgems\mruby-random\src\random.c,103,255,19
+cache.h,cache.h,\bin\varnishd\cache\cache.h,\include\h2o\cache.h,527,36,3

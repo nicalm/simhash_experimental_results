@@ -1,0 +1,4 @@
+1366-gradle,9197-domoticz
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\tinyxpath\main.cpp,17,296,4
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\tinyxpath\main.cpp,17,296,4
+Basic.h,Basic.h,\subprojects\docs\src\snippets\native-binaries\cunit\libs\cunit\2.1-2\include\CUnit\Basic.h,\hardware\openzwave\command_classes\Basic.h,22,35,2

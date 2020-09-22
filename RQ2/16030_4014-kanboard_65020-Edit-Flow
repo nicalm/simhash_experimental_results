@@ -1,0 +1,10 @@
+4014-kanboard,65020-Edit-Flow
+notifications.php,notifications.php,\app\Template\project_view\notifications.php,\modules\notifications\notifications.php,17,727,3
+notifications.php,notifications.php,\app\Template\user_view\notifications.php,\modules\notifications\notifications.php,17,727,2
+index.js,index.js,\assets\vendor\text-caret\index.js,\tests\e2e\utils\index.js,94,32,2
+index.js,index.js,\assets\vendor\text-caret\index.js,\modules\calendar\lib\react\calendar-date-change-buttons\index.js,94,78,2
+index.js,index.js,\assets\vendor\text-caret\index.js,\modules\calendar\lib\react\calendar-filters\index.js,94,152,9
+index.js,index.js,\assets\vendor\text-caret\index.js,\modules\calendar\lib\react\calendar-header\index.js,94,35,2
+index.js,index.js,\assets\vendor\text-caret\index.js,\modules\calendar\lib\react\combobox\index.js,94,166,7
+bootstrap.php,bootstrap.php,\vendor\symfony\polyfill-mbstring\bootstrap.php,\tests\bootstrap.php,49,21,4
+bootstrap.php,bootstrap.php,\vendor\swiftmailer\swiftmailer\tests\bootstrap.php,\tests\bootstrap.php,15,21,3

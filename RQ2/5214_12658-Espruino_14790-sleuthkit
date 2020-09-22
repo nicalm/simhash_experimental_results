@@ -1,0 +1,6 @@
+12658-Espruino,14790-sleuthkit
+utils.c,utils.c,\targets\stm32_boot\utils.c,\tools\fiwalk\src\utils.c,188,91,18
+config.h,config.h,\libs\crypto\mbedtls\config.h,\framework\modules\c_LibExifModule\libexif-0.6.20\win32\lib_exif\config.h,60,41,2
+md5.c,md5.c,\libs\crypto\mbedtls\library\md5.c,\tools\hashtools\md5.c,293,48,13
+sha1.c,sha1.c,\libs\crypto\mbedtls\library\sha1.c,\tools\hashtools\sha1.c,328,50,11
+base64.h,base64.h,\libs\crypto\mbedtls\include\mbedtls\base64.h,\tools\fiwalk\src\base64.h,17,18,7

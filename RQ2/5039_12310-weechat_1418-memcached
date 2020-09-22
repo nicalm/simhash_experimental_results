@@ -1,0 +1,3 @@
+12310-weechat,1418-memcached
+logger.c,logger.c,\src\plugins\logger\logger.c,\logger.c,875,631,89
+logger.h,logger.h,\src\plugins\logger\logger.h,\logger.h,24,159,1

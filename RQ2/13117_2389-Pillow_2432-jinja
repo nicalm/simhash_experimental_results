@@ -1,0 +1,5 @@
+2389-Pillow,2432-jinja
+setup.py,setup.py,\setup.py,\setup.py,714,50,14
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,45,40,6
+test_features.py,test_features.py,\Tests\test_features.py,\tests\test_features.py,71,30,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\jinja2\__init__.py,52,31,1

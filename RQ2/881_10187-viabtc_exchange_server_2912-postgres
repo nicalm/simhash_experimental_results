@@ -1,0 +1,8 @@
+10187-viabtc_exchange_server,2912-postgres
+async.c,async.c,\depends\hiredis\async.c,\src\backend\commands\async.c,450,1140,74
+async.h,async.h,\depends\hiredis\async.h,\src\include\commands\async.h,60,25,1
+dict.c,dict.c,\depends\hiredis\dict.c,\src\backend\tsearch\dict.c,202,62,4
+read.c,read.c,\depends\hiredis\read.c,\src\backend\nodes\read.c,384,257,44
+test.c,test.c,\depends\hiredis\test.c,\src\test\modules\test_shm_mq\test.c,570,152,12
+win32.h,win32.h,\depends\hiredis\win32.h,\src\include\port\win32.h,32,29,6
+win32.h,win32.h,\depends\hiredis\win32.h,\src\interfaces\libpq\win32.h,32,19,4

@@ -1,0 +1,4 @@
+1418-memcached,6285-ImageMagick
+cache.c,cache.c,\cache.c,\MagickCore\cache.c,132,3512,29
+cache.h,cache.h,\cache.h,\MagickCore\cache.h,38,51,3
+thread.c,thread.c,\thread.c,\MagickCore\thread.c,650,106,16

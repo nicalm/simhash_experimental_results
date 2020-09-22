@@ -1,0 +1,13 @@
+5868-libvips,6347-librealsense
+buffer.cpp,buffer.cpp,\cplusplus\examples\buffer.cpp,\third-party\realsense-file\rosbag\rosbag_storage\src\buffer.cpp,23,28,1
+profile.cpp,profile.cpp,\cplusplus\examples\profile.cpp,\src\pipeline\profile.cpp,16,39,2
+gamma.c,gamma.c,\libvips\conversion\gamma.c,\third-party\glfw\tests\gamma.c,102,120,10
+init.c,init.c,\libvips\iofuncs\init.c,\third-party\glfw\src\init.c,636,212,57
+window.c,window.c,\libvips\iofuncs\window.c,\third-party\glfw\src\window.c,270,860,40
+debug.h,debug.h,\libvips\include\vips\debug.h,\src\core\debug.h,37,22,1
+debug.h,debug.h,\libvips\include\vips\debug.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\debug.h,37,21,2
+header.h,header.h,\libvips\include\vips\header.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\header.h,91,22,2
+image.h,image.h,\libvips\include\vips\image.h,\src\image.h,301,22,2
+internal.h,internal.h,\libvips\include\vips\internal.h,\third-party\glfw\src\internal.h,153,570,6
+stream.h,stream.h,\libvips\include\vips\stream.h,\src\stream.h,184,185,1
+stream.h,stream.h,\libvips\include\vips\stream.h,\third-party\realsense-file\rosbag\rosbag_storage\include\rosbag\stream.h,184,87,2

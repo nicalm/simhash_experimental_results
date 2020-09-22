@@ -1,0 +1,8 @@
+10572-Openfire,2004-skaffold
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\examples\jib\.mvn\wrapper\MavenWrapperDownloader.java,76,65,62
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\examples\jib-multimodule\.mvn\wrapper\MavenWrapperDownloader.java,76,65,62
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\integration\examples\jib\.mvn\wrapper\MavenWrapperDownloader.java,76,65,62
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\integration\examples\jib-multimodule\.mvn\wrapper\MavenWrapperDownloader.java,76,65,62
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\integration\testdata\jib\.mvn\wrapper\MavenWrapperDownloader.java,76,65,62
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\integration\testdata\jib-sync\.mvn\wrapper\MavenWrapperDownloader.java,76,65,61
+MavenWrapperDownloader.java,MavenWrapperDownloader.java,\.mvn\wrapper\MavenWrapperDownloader.java,\integration\testdata\debug\jib\.mvn\wrapper\MavenWrapperDownloader.java,76,65,62

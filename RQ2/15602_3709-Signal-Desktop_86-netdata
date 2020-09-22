@@ -1,0 +1,4 @@
+3709-Signal-Desktop,86-netdata
+main.js,main.js,\main.js,\web\gui\main.js,881,4130,209
+main.js,main.js,\main.js,\web\gui\src\dashboard.js\main.js,881,3119,184
+data.js,data.js,\js\modules\data.js,\tests\k6\data.js,931,47,8

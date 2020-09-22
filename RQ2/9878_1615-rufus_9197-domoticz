@@ -1,0 +1,4 @@
+1615-rufus,9197-domoticz
+crc32.c,crc32.c,\src\bled\crc32.c,\zlib\crc32.c,82,285,20
+config.h,config.h,\src\ext2fs\config.h,\json\config.h,182,123,16
+config.h,config.h,\src\libcdio\config.h,\json\config.h,53,123,5

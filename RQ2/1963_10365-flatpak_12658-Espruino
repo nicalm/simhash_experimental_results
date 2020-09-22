@@ -1,0 +1,9 @@
+10365-flatpak,12658-Espruino
+main.c,main.c,\revokefs\main.c,\targets\emscripten\main.c,455,50,8
+main.c,main.c,\revokefs\main.c,\targets\esp32\main.c,455,92,10
+main.c,main.c,\revokefs\main.c,\targets\linux\main.c,455,335,47
+main.c,main.c,\revokefs\main.c,\targets\nrf5x\main.c,455,16,3
+main.c,main.c,\revokefs\main.c,\targets\nrf5x_dfu\main.c,455,191,24
+main.c,main.c,\revokefs\main.c,\targets\stm32\main.c,455,38,3
+main.c,main.c,\revokefs\main.c,\targets\stm32_boot\main.c,455,236,21
+main.c,main.c,\revokefs\main.c,\targets\stm32_ll\main.c,455,23,2

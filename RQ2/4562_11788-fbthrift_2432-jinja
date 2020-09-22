@@ -1,0 +1,7 @@
+11788-fbthrift,2432-jinja
+utils.py,utils.py,\build\fbcode_builder\utils.py,\jinja2\utils.py,59,349,5
+setup.py,setup.py,\thrift\lib\py\setup.py,\setup.py,54,50,2
+setup.py,setup.py,\thrift\lib\py3\setup.py,\setup.py,29,50,2
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\jinja2\__init__.py,44,31,0
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\jinja2\__init__.py,108,31,1
+exceptions.py,exceptions.py,\thrift\lib\py3\test\exceptions.py,\jinja2\exceptions.py,69,83,0

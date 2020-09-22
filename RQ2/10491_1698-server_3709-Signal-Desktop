@@ -1,0 +1,15 @@
+1698-server,3709-Signal-Desktop
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\.eslintrc.js,17,40,3
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\test\.eslintrc.js,17,32,4
+.eslintrc.js,.eslintrc.js,\.eslintrc.js,\test\modules\.eslintrc.js,17,22,4
+main.js,main.js,\core\src\main.js,\main.js,17,881,2
+main.js,main.js,\apps\accessibility\src\main.js,\main.js,15,881,1
+settings.js,settings.js,\apps\files_external\js\settings.js,\js\modules\settings.js,939,76,12
+settings.js,settings.js,\apps\settings\js\settings.js,\js\modules\settings.js,70,76,11
+main.js,main.js,\core\js\dist\main.js,\main.js,65,881,0
+index.js,index.js,\core\src\jquery\index.js,\js\modules\migrations\18\index.js,22,15,0
+index.js,index.js,\core\src\OC\index.js,\js\modules\migrations\18\index.js,162,15,0
+menu.js,menu.js,\core\src\OC\menu.js,\app\menu.js,65,313,8
+index.js,index.js,\core\src\OCP\index.js,\js\modules\migrations\18\index.js,18,15,0
+index.js,index.js,\apps\settings\src\store\index.js,\js\modules\migrations\18\index.js,29,15,0
+settings.js,settings.js,\apps\settings\src\store\settings.js,\js\modules\settings.js,15,76,3

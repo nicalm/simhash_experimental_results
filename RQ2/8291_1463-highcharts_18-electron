@@ -1,0 +1,12 @@
+1463-highcharts,18-electron
+index.js,index.js,\studies\highcharts-jsdom\index.js,\npm\index.js,93,15,3
+index.js,index.js,\studies\highcharts-jsdom\index.js,\spec-main\index.js,93,75,6
+index.js,index.js,\studies\highcharts-jsdom\index.js,\script\release\notes\index.js,93,149,9
+index.js,index.js,\studies\highcharts-jsdom\index.js,\spec\fixtures\auto-update\check\index.js,93,17,0
+index.js,index.js,\studies\highcharts-jsdom\index.js,\spec\fixtures\auto-update\update\index.js,93,33,1
+utils.js,utils.js,\tools\jsdoc\storage\utils.js,\script\lib\utils.js,53,74,9
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\npm\index.js,40,15,4
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\spec-main\index.js,40,75,4
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\script\release\notes\index.js,40,149,4
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\spec\fixtures\auto-update\check\index.js,40,17,0
+index.js,index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,\spec\fixtures\auto-update\update\index.js,40,33,2

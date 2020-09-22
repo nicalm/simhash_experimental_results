@@ -1,0 +1,2 @@
+11212-varnish-cache,6664-ModSecurity
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\others\mbedtls\base64.c,269,199,32

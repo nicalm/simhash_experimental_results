@@ -1,0 +1,5 @@
+4701-sonarqube,516-mongo
+utils.js,utils.js,\server\sonar-web\config\utils.js,\jstests\aggregation\extras\utils.js,58,227,5
+utils.js,utils.js,\server\sonar-web\config\utils.js,\src\mongo\shell\utils.js,58,1454,11
+Logger.java,Logger.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\log\Logger.java,\src\mongo\embedded\mongo_embedded\java\src\com\mongodb\embedded\capi\internal\logging\Logger.java,41,19,9
+Loggers.java,Loggers.java,\sonar-plugin-api\src\main\java\org\sonar\api\utils\log\Loggers.java,\src\mongo\embedded\mongo_embedded\java\src\com\mongodb\embedded\capi\internal\logging\Loggers.java,24,22,7

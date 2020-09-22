@@ -1,0 +1,5 @@
+461-vim,5868-libvips
+buffer.c,buffer.c,\src\buffer.c,\libvips\iofuncs\buffer.c,4239,447,103
+sign.c,sign.c,\src\sign.c,\libvips\arithmetic\sign.c,2042,111,18
+window.c,window.c,\src\window.c,\libvips\iofuncs\window.c,4969,270,61
+rect.h,rect.h,\src\libvterm\src\rect.h,\libvips\include\vips\rect.h,41,31,1

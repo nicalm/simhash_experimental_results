@@ -1,0 +1,7 @@
+18692-spdk,6883-Sigil
+crc32.h,crc32.h,\include\spdk\crc32.h,\3rdparty\zlib\crc32.h,23,437,3
+util.h,util.h,\include\spdk\util.h,\internal\gumbo\util.h,52,48,16
+log.c,log.c,\lib\log\log.c,\3rdparty\hunspell\intl\log.c,153,82,23
+crc32.c,crc32.c,\lib\util\crc32.c,\3rdparty\zlib\crc32.c,49,285,14
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,116,362,4
+__init__.py,__init__.py,\scripts\rpc\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,116,187,1

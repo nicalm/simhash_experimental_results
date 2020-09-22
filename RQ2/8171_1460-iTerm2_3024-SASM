@@ -1,0 +1,5 @@
+1460-iTerm2,3024-SASM
+prompt.py,prompt.py,\api\library\python\iterm2\iterm2\prompt.py,\Windows\MinGW64\share\gdb\python\gdb\prompt.py,96,100,1
+prompt.py,prompt.py,\api\library\python\iterm2\iterm2\prompt.py,\Windows\MinGW64\share\gdb\python\gdb\command\prompt.py,96,29,1
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,52,79,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,52,63,0

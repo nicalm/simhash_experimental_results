@@ -1,0 +1,4 @@
+1769-ChakraCore,3761-lepton
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\dependencies\config.h,247,33,1
+context.h,context.h,\pal\src\include\pal\context.h,\dependencies\brotli\c\dec\context.h,383,130,1
+context.h,context.h,\pal\src\include\pal\context.h,\dependencies\brotli\c\enc\context.h,383,84,6

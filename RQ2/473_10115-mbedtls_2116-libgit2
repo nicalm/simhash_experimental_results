@@ -1,0 +1,15 @@
+10115-mbedtls,2116-libgit2
+error.c,error.c,\library\error.c,\src\win32\error.c,771,33,5
+oid.c,oid.c,\library\oid.c,\src\oid.c,627,305,41
+oid.c,oid.c,\library\oid.c,\tests\core\oid.c,627,58,8
+sha1.c,sha1.c,\library\sha1.c,\tests\core\sha1.c,414,48,12
+sha1.c,sha1.c,\library\sha1.c,\src\hash\sha1\sha1dc\sha1.c,414,1597,75
+version.c,version.c,\library\version.c,\tests\index\version.c,23,88,6
+config.h,config.h,\include\mbedtls\config.h,\src\config.h,143,47,1
+config.h,config.h,\include\mbedtls\config.h,\include\git2\config.h,143,112,1
+config.h,config.h,\include\mbedtls\config.h,\include\git2\sys\config.h,143,41,1
+oid.h,oid.h,\include\mbedtls\oid.h,\src\oid.h,230,21,3
+oid.h,oid.h,\include\mbedtls\oid.h,\include\git2\oid.h,230,33,1
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\src\hash\sha1.h,74,24,3
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\src\hash\sha1\sha1dc\sha1.h,74,42,9
+version.h,version.h,\include\mbedtls\version.h,\src\win32\version.h,26,23,2

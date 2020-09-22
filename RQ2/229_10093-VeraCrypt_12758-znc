@@ -1,0 +1,4 @@
+10093-VeraCrypt,12758-znc
+Buffer.cpp,Buffer.cpp,\src\Platform\Buffer.cpp,\src\Buffer.cpp,121,121,22
+Buffer.h,Buffer.h,\src\Platform\Buffer.h,\include\znc\Buffer.h,88,69,10
+User.h,User.h,\src\Platform\User.h,\include\znc\User.h,19,218,3

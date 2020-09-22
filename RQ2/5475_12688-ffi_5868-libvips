@@ -1,0 +1,2 @@
+12688-ffi,5868-libvips
+embed.c,embed.c,\spec\ffi\embed-test\ext\embed.c,\libvips\conversion\embed.c,24,511,8

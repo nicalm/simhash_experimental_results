@@ -1,0 +1,4 @@
+1769-ChakraCore,2909-mongoose
+stdafx.h,stdafx.h,\bin\ch\stdafx.h,\examples\WinCE\http_server\stdafx.h,295,36,12
+stdafx.h,stdafx.h,\bin\GCStress\stdafx.h,\examples\WinCE\http_server\stdafx.h,23,36,4
+stdafx.h,stdafx.h,\bin\NativeTests\stdafx.h,\examples\WinCE\http_server\stdafx.h,35,36,5

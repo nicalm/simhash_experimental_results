@@ -1,0 +1,6 @@
+4266-webkit,9873-apipie-rails
+bootstrap.js,bootstrap.js,\PerformanceTests\Speedometer\resources\flightjs-example-app\components\bootstrap\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,1311,1073,891
+bootstrap.js,bootstrap.js,\PerformanceTests\Speedometer\resources\todomvc\vanilla-examples\es2015-babel-webpack\src\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,18,1073,6
+bootstrap.js,bootstrap.js,\Websites\browserbench.org\Speedometer\resources\flightjs-example-app\components\bootstrap\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,1311,1073,891
+bootstrap.js,bootstrap.js,\Websites\browserbench.org\Speedometer2.0\resources\flightjs-example-app\components\bootstrap\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,1311,1073,891
+bootstrap.js,bootstrap.js,\Websites\browserbench.org\Speedometer2.0\resources\todomvc\vanilla-examples\es2015-babel-webpack\src\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,18,1073,6

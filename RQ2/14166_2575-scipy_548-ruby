@@ -1,0 +1,6 @@
+2575-scipy,548-ruby
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\internal\util.h,38,15,1
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\include\ruby\util.h,38,62,3
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\util.c,345,517,65
+debug.h,debug.h,\scipy\sparse\linalg\eigen\arpack\ARPACK\SRC\debug.h,\internal\debug.h,16,16,0
+debug.h,debug.h,\scipy\sparse\linalg\eigen\arpack\ARPACK\SRC\debug.h,\include\ruby\debug.h,16,70,0

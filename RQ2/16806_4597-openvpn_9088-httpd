@@ -1,0 +1,7 @@
+4597-openvpn,9088-httpd
+base64.c,base64.c,\src\openvpn\base64.c,\test\unit\base64.c,150,117,17
+event.c,event.c,\src\openvpn\event.c,\server\mpm\event\event.c,976,2951,297
+service.c,service.c,\src\openvpnserv\service.c,\server\mpm\winnt\service.c,243,933,89
+main.c,main.c,\src\tapctl\main.c,\server\main.c,349,643,62
+log.c,log.c,\sample\sample-plugins\log\log.c,\server\log.c,130,1428,44
+base64.c,base64.c,\sample\sample-plugins\simple\base64.c,\test\unit\base64.c,85,117,17

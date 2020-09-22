@@ -1,0 +1,13 @@
+14239-neomutt,4984-jerryscript
+handler.h,handler.h,\handler.h,\jerry-ext\include\jerryscript-ext\handler.h,19,60,1
+main.c,main.c,\main.c,\targets\curie_bsp\jerry_app\quark\main.c,1056,130,37
+opcodes.h,opcodes.h,\opcodes.h,\jerry-core\vm\opcodes.h,294,67,3
+main.c,main.c,\test\main.c,\targets\curie_bsp\jerry_app\quark\main.c,389,130,0
+common.h,common.h,\test\address\common.h,\jerry-core\parser\js\common.h,17,78,5
+common.c,common.c,\test\config\common.c,\jerry-core\parser\js\common.c,141,76,31
+common.h,common.h,\test\config\common.h,\jerry-core\parser\js\common.h,20,78,1
+common.c,common.c,\test\file\common.c,\jerry-core\parser\js\common.c,44,76,8
+common.c,common.c,\test\list\common.c,\jerry-core\parser\js\common.c,17,76,5
+common.c,common.c,\test\md5\common.c,\jerry-core\parser\js\common.c,16,76,4
+common.c,common.c,\test\rfc2047\common.c,\jerry-core\parser\js\common.c,43,76,8
+common.h,common.h,\test\rfc2047\common.h,\jerry-core\parser\js\common.h,15,78,2

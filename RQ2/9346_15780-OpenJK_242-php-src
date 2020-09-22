@@ -1,0 +1,7 @@
+15780-OpenJK,242-php-src
+config.h,config.h,\code\mp3code\config.h,\ext\pcre\pcre2lib\config.h,74,46,16
+config.h,config.h,\codemp\mp3code\config.h,\ext\pcre\pcre2lib\config.h,74,46,16
+md5.h,md5.h,\codemp\qcommon\md5.h,\ext\standard\md5.h,21,17,1
+compress.c,compress.c,\lib\zlib\compress.c,\ext\fileinfo\libmagic\compress.c,47,662,8
+crc32.c,crc32.c,\lib\zlib\crc32.c,\ext\standard\crc32.c,285,70,16
+crc32.h,crc32.h,\lib\zlib\crc32.h,\ext\standard\crc32.h,437,67,1

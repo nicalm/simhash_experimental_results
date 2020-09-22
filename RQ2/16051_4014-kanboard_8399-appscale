@@ -1,0 +1,5 @@
+4014-kanboard,8399-appscale
+User.php,User.php,\app\Core\Ldap\User.php,\AppServer\php\sdk\google\appengine\api\users\User.php,154,65,16
+Message.php,Message.php,\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Message.php,\AppServer\php\sdk\google\appengine\api\mail\Message.php,152,83,20
+MessageTest.php,MessageTest.php,\vendor\swiftmailer\swiftmailer\tests\unit\Swift\MessageTest.php,\AppServer\php\sdk\google\appengine\api\mail\MessageTest.php,108,355,16
+Message.php,Message.php,\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Mime\Message.php,\AppServer\php\sdk\google\appengine\api\mail\Message.php,23,83,2

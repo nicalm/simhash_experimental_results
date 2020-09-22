@@ -1,0 +1,10 @@
+1769-ChakraCore,551-FFmpeg
+rl.h,rl.h,\bin\rl\rl.h,\libavcodec\rl.h,734,43,4
+common.h,common.h,\lib\wabt\src\common.h,\libavutil\common.h,324,288,29
+error.h,error.h,\lib\wabt\src\error.h,\libavutil\error.h,32,49,2
+internal.h,internal.h,\pal\src\safecrt\internal.h,\libavcodec\internal.h,712,148,11
+internal.h,internal.h,\pal\src\safecrt\internal.h,\libavfilter\internal.h,712,107,11
+internal.h,internal.h,\pal\src\safecrt\internal.h,\libavformat\internal.h,712,193,12
+internal.h,internal.h,\pal\src\safecrt\internal.h,\libavresample\internal.h,712,78,3
+internal.h,internal.h,\pal\src\safecrt\internal.h,\libavutil\internal.h,712,209,55
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\compat\avisynth\avs\config.h,247,25,6

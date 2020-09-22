@@ -1,0 +1,7 @@
+1769-ChakraCore,4597-openvpn
+common.h,common.h,\lib\wabt\src\common.h,\src\openvpn\common.h,324,33,3
+error.h,error.h,\lib\wabt\src\error.h,\src\openvpn\error.h,32,214,4
+error.h,error.h,\lib\wabt\src\error.h,\src\tapctl\error.h,32,48,3
+init.h,init.h,\pal\src\include\pal\init.h,\src\openvpn\init.h,25,68,3
+list.h,list.h,\pal\src\include\pal\list.h,\src\openvpn\list.h,55,129,8
+misc.h,misc.h,\pal\src\include\pal\misc.h,\src\openvpn\misc.h,21,89,5

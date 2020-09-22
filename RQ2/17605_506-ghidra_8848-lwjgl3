@@ -1,0 +1,5 @@
+506-ghidra,8848-lwjgl3
+Platform.java,Platform.java,\Ghidra\Framework\Generic\src\main\java\ghidra\framework\Platform.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Platform.java,86,130,21
+Callback.java,Callback.java,\Ghidra\Framework\Utility\src\main\java\utility\function\Callback.java,\modules\lwjgl\core\src\main\java\org\lwjgl\system\Callback.java,15,145,5
+Version.java,Version.java,\Ghidra\Framework\FileSystem\src\main\java\ghidra\framework\store\Version.java,\modules\lwjgl\core\src\main\java\org\lwjgl\Version.java,45,31,7
+StackTest.java,StackTest.java,\Ghidra\Framework\Generic\src\test\java\ghidra\util\datastruct\StackTest.java,\modules\lwjgl\core\src\test\java\org\lwjgl\system\StackTest.java,67,82,11

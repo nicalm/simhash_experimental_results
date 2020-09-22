@@ -1,0 +1,5 @@
+6883-Sigil,7408-DeepVideoAnalytics
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,\deploy\compose\__init__.py,362,161,13
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,\deploy\kube\__init__.py,362,256,6
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,\deploy\compose\__init__.py,187,161,7
+__init__.py,__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,\deploy\kube\__init__.py,187,256,5

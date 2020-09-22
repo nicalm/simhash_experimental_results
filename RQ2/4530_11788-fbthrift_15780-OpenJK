@@ -1,0 +1,7 @@
+11788-fbthrift,15780-OpenJK
+client.h,client.h,\thrift\lib\py3\client.h,\code\client\client.h,116,221,1
+client.h,client.h,\thrift\lib\py3\client.h,\codemp\client\client.h,116,345,1
+server.h,server.h,\thrift\lib\py3\server.h,\code\server\server.h,37,188,4
+server.h,server.h,\thrift\lib\py3\server.h,\codemp\server\server.h,37,278,2
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\code\server\server.h,58,188,2
+server.h,server.h,\thrift\lib\py3\test\stream\server.h,\codemp\server\server.h,58,278,2

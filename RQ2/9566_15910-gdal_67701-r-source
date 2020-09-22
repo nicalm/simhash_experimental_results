@@ -1,0 +1,7 @@
+15910-gdal,67701-r-source
+io.c,io.c,\gdal\alg\internal_libqhull\io.c,\src\library\utils\src\io.c,2883,970,168
+random.c,random.c,\gdal\alg\internal_libqhull\random.c,\src\main\random.c,133,447,22
+random.c,random.c,\gdal\alg\internal_libqhull\random.c,\src\library\stats\src\random.c,133,332,20
+scan.c,scan.c,\gdal\frmts\grib\degrib\degrib\scan.c,\src\main\scan.c,127,878,40
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\src\gnuwin32\fixed\h\config.h,54,267,24
+debug.c,debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,\src\main\debug.c,74,202,15

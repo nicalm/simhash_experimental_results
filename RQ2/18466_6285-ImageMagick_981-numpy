@@ -1,0 +1,3 @@
+6285-ImageMagick,981-numpy
+methods.h,methods.h,\MagickCore\methods.h,\numpy\core\src\multiarray\methods.h,1215,26,2
+convert.c,convert.c,\MagickWand\convert.c,\numpy\core\src\multiarray\convert.c,3147,455,91

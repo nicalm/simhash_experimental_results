@@ -1,0 +1,11 @@
+10081-irssi,2912-postgres
+common.h,common.h,\src\common.h,\src\bin\psql\common.h,81,23,1
+common.h,common.h,\src\common.h,\src\bin\scripts\common.h,81,37,1
+misc.c,misc.c,\src\core\misc.c,\src\backend\utils\adt\misc.c,805,541,110
+misc.c,misc.c,\src\core\misc.c,\src\interfaces\ecpg\ecpglib\misc.c,805,491,105
+network.c,network.c,\src\core\network.c,\src\backend\utils\adt\network.c,414,1362,96
+session.c,session.c,\src\core\session.c,\src\backend\access\common\session.c,273,99,10
+settings.h,settings.h,\src\core\settings.h,\src\bin\psql\settings.h,107,113,2
+server.c,server.c,\src\fe-fuzz\server.c,\src\bin\pg_upgrade\server.c,124,223,11
+fe-exec.c,fe-exec.c,\src\fe-common\core\fe-exec.c,\src\interfaces\libpq\fe-exec.c,498,2379,94
+dump.c,dump.c,\src\irc\proxy\dump.c,\src\bin\pg_upgrade\dump.c,223,45,4

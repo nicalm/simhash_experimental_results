@@ -1,0 +1,7 @@
+1811-otp,2283-capnproto
+hash.h,hash.h,\erts\emulator\beam\hash.h,\c++\src\kj\hash.h,88,95,4
+common.h,common.h,\lib\crypto\c_src\common.h,\c++\src\benchmark\common.h,24,229,5
+common.h,common.h,\lib\crypto\c_src\common.h,\c++\src\capnp\common.h,24,508,2
+common.h,common.h,\lib\crypto\c_src\common.h,\c++\src\kj\common.h,24,1054,2
+common.h,common.h,\lib\crypto\c_src\common.h,\c++\src\kj\parse\common.h,24,564,2
+hash.h,hash.h,\lib\erl_interface\src\registry\hash.h,\c++\src\kj\hash.h,21,95,0

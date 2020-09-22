@@ -1,0 +1,3 @@
+10314-ovs,12688-ffi
+compat.h,compat.h,\datapath\compat.h,\ext\ffi_c\compat.h,59,38,5
+Types.h,Types.h,\datapath-windows\ovsext\Types.h,\ext\ffi_c\Types.h,27,42,1

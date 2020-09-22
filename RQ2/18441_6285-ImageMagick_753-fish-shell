@@ -1,0 +1,4 @@
+6285-ImageMagick,753-fish-shell
+color.h,color.h,\MagickCore\color.h,\src\color.h,61,90,2
+timer.h,timer.h,\MagickCore\timer.h,\src\timer.h,46,20,1
+color.cpp,color.cpp,\Magick++\tests\color.cpp,\src\color.cpp,121,295,18

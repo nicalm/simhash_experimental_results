@@ -1,0 +1,8 @@
+1916-robomongo,86-netdata
+log.c,log.c,\src\robomongo\ssh\log.c,\libnetdata\log\log.c,88,565,27
+json.h,json.h,\src\robomongo\shell\bson\json.h,\backends\json\json.h,90,27,0
+json.h,json.h,\src\robomongo\shell\bson\json.h,\libnetdata\json\json.h,90,48,0
+common.py,common.py,\src\third-party\googletest-1.8.1\googletest\scripts\common.py,\.travis\package_management\common.py,27,140,1
+json.h,json.h,\trash\src\robomongo\shell\db\json.h,\backends\json\json.h,64,27,1
+json.h,json.h,\trash\src\robomongo\shell\db\json.h,\libnetdata\json\json.h,64,48,1
+socket.h,socket.h,\src\third-party\libssh2\sources\os400\include\sys\socket.h,\libnetdata\socket\socket.h,24,156,6

@@ -1,0 +1,13 @@
+4014-kanboard,63613-KunstmaanBundlesCMS
+ConfigController.php,ConfigController.php,\app\Controller\ConfigController.php,\src\Kunstmaan\ConfigBundle\Controller\ConfigController.php,130,91,20
+DashboardController.php,DashboardController.php,\app\Controller\DashboardController.php,\src\Kunstmaan\DashboardBundle\Controller\DashboardController.php,43,17,5
+Translator.php,Translator.php,\app\Core\Translator.php,\src\Kunstmaan\TranslatorBundle\Service\Translator\Translator.php,86,106,29
+FileHelper.php,FileHelper.php,\app\Helper\FileHelper.php,\src\Kunstmaan\MediaBundle\Helper\File\FileHelper.php,79,105,15
+FormHelper.php,FormHelper.php,\app\Helper\FormHelper.php,\src\Kunstmaan\AdminBundle\Helper\FormHelper.php,186,52,19
+Group.php,Group.php,\app\Core\Ldap\Group.php,\src\Kunstmaan\AdminBundle\Entity\Group.php,54,15,6
+Loader.php,Loader.php,\app\Core\Plugin\Loader.php,\src\Kunstmaan\TranslatorBundle\Service\Translator\Loader.php,71,27,10
+Role.php,Role.php,\app\Core\Security\Role.php,\src\Kunstmaan\AdminBundle\Entity\Role.php,37,32,11
+Range.php,Range.php,\libs\SimpleValidator\Validators\Range.php,\src\Kunstmaan\FixturesBundle\Parser\Spec\Range.php,25,36,10
+FileHelperTest.php,FileHelperTest.php,\tests\units\Helper\FileHelperTest.php,\src\Kunstmaan\MediaBundle\Tests\unit\Helper\File\FileHelperTest.php,36,57,11
+RoleTest.php,RoleTest.php,\tests\units\Core\Security\RoleTest.php,\src\Kunstmaan\AdminBundle\Tests\unit\Entity\RoleTest.php,32,29,9
+Property.php,Property.php,\vendor\eluceo\ical\src\Eluceo\iCal\Property.php,\src\Kunstmaan\FixturesBundle\Populator\Methods\Property.php,62,15,7

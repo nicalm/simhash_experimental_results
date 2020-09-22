@@ -1,0 +1,5 @@
+10549-luci,63225-sedutil
+hmac.c,hmac.c,\libs\luci-lib-nixio\axTLS\crypto\hmac.c,\Common\pbkdf2\hmac.c,52,63,9
+sha1.c,sha1.c,\libs\luci-lib-nixio\axTLS\crypto\sha1.c,\Common\pbkdf2\sha1.c,148,103,18
+sha1.c,sha1.c,\libs\luci-lib-px5g\src\library\sha1.c,\Common\pbkdf2\sha1.c,445,103,18
+sha1.h,sha1.h,\libs\luci-lib-px5g\src\polarssl\sha1.h,\Common\pbkdf2\sha1.h,30,20,3

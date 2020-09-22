@@ -1,0 +1,13 @@
+6347-librealsense,9516-goldfish
+index.js,index.js,\wrappers\nodejs\index.js,\frontend\config\index.js,2989,31,7
+index.js,index.js,\wrappers\nodejs\index.js,\frontend\client\router\index.js,2989,33,6
+index.js,index.js,\wrappers\nodejs\index.js,\frontend\client\store\index.js,2989,24,2
+index.js,index.js,\wrappers\nodejs\index.js,\frontend\client\store\modules\menu\index.js,2989,49,12
+index.js,index.js,\wrappers\nodejs\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,2989,58,11
+index.js,index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,\frontend\config\index.js,379,31,6
+index.js,index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,\frontend\client\router\index.js,379,33,6
+index.js,index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,\frontend\client\store\index.js,379,24,2
+index.js,index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,\frontend\client\store\modules\menu\index.js,379,49,15
+index.js,index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,\frontend\client\views\vue_bulma_modules\vue-bulma-tooltip\src\index.js,379,58,11
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\frontend\client\app.js,480,124,13
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\frontend\client\store\modules\app.js,480,36,12

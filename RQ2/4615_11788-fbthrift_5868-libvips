@@ -1,0 +1,7 @@
+11788-fbthrift,5868-libvips
+util.h,util.h,\thrift\compiler\util.h,\libvips\include\vips\util.h,91,230,3
+stream.h,stream.h,\thrift\lib\py3\stream.h,\libvips\include\vips\stream.h,24,184,1
+util.h,util.h,\thrift\compiler\lib\cpp2\util.h,\libvips\include\vips\util.h,25,230,1
+util.h,util.h,\thrift\compiler\lib\java\util.h,\libvips\include\vips\util.h,17,230,1
+util.h,util.h,\thrift\compiler\lib\py3\util.h,\libvips\include\vips\util.h,29,230,1
+debug.h,debug.h,\thrift\lib\cpp2\reflection\debug.h,\libvips\include\vips\debug.h,58,37,2

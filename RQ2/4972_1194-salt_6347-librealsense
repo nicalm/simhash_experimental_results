@@ -1,0 +1,7 @@
+1194-salt,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,861,64,7
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,861,21,1
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,861,73,8
+setup.py,setup.py,\salt\log\setup.py,\wrappers\python\setup.py,535,64,3
+setup.py,setup.py,\salt\log\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,535,21,1
+setup.py,setup.py,\salt\log\setup.py,\wrappers\python\third_party\pybind11\setup.py,535,73,4

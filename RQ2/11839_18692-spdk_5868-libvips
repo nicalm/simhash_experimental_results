@@ -1,0 +1,11 @@
+18692-spdk,5868-libvips
+thread.h,thread.h,\include\spdk\thread.h,\libvips\include\vips\thread.h,87,16,7
+util.h,util.h,\include\spdk\util.h,\libvips\include\vips\util.h,52,230,8
+memory.h,memory.h,\include\spdk_internal\memory.h,\libvips\include\vips\memory.h,20,43,7
+init.c,init.c,\lib\env_dpdk\init.c,\libvips\iofuncs\init.c,396,636,83
+memory.c,memory.c,\lib\env_dpdk\memory.c,\libvips\iofuncs\memory.c,991,199,49
+reduce.c,reduce.c,\lib\reduce\reduce.c,\libvips\resample\reduce.c,1210,107,11
+base64.c,base64.c,\lib\util\base64.c,\libvips\iofuncs\base64.c,180,162,33
+math.c,math.c,\lib\util\math.c,\libvips\arithmetic\math.c,26,240,7
+stats.c,stats.c,\module\bdev\ocf\stats.c,\libvips\arithmetic\stats.c,66,311,6
+copy.c,copy.c,\module\event\subsystems\copy\copy.c,\libvips\conversion\copy.c,28,229,9

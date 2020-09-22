@@ -1,0 +1,7 @@
+2944-supervisor,6714-cryptography
+setup.py,setup.py,\setup.py,\setup.py,72,181,18
+setup.py,setup.py,\setup.py,\vectors\setup.py,72,19,4
+conf.py,conf.py,\docs\conf.py,\docs\conf.py,34,66,5
+base.py,base.py,\supervisor\tests\base.py,\src\cryptography\x509\base.py,1010,422,6
+base.py,base.py,\supervisor\tests\base.py,\src\cryptography\hazmat\primitives\ciphers\base.py,1010,157,2
+base.py,base.py,\supervisor\tests\base.py,\src\cryptography\hazmat\primitives\serialization\base.py,1010,48,2

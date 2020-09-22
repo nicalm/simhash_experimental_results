@@ -1,0 +1,7 @@
+12873-mediawiki,6347-librealsense
+index.js,index.js,\resources\src\mediawiki.api\index.js,\wrappers\nodejs\index.js,237,2989,52
+index.js,index.js,\resources\src\mediawiki.api\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,237,379,49
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\wrappers\nodejs\index.js,51,2989,14
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,51,379,13
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\wrappers\nodejs\index.js,15,2989,5
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\wrappers\nodejs\examples\realsense_viewer\index.js,15,379,3

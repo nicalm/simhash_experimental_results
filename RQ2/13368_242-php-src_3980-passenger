@@ -1,0 +1,7 @@
+242-php-src,3980-passenger
+signal.c,signal.c,\win32\signal.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\signal.c,109,264,24
+stream.c,stream.c,\ext\phar\stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,779,1065,148
+dl.c,dl.c,\ext\standard\dl.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\dl.c,207,42,9
+queue.h,queue.h,\ext\xmlrpc\libxmlrpc\queue.h,\src\cxx_supportlib\vendor-copy\libuv\src\queue.h,59,73,1
+kqueue.c,kqueue.c,\sapi\fpm\fpm\events\kqueue.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\kqueue.c,120,295,32
+poll.c,poll.c,\sapi\fpm\fpm\events\poll.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\poll.c,155,65,13

@@ -1,0 +1,12 @@
+2909-mongoose,67701-r-source
+main.c,main.c,\examples\CC3200\main.c,\src\main\main.c,249,1257,50
+main.c,main.c,\examples\NXP_K64\main.c,\src\main\main.c,131,1257,23
+main.c,main.c,\examples\STM32F4_CC3100\main.c,\src\main\main.c,124,1257,34
+main.c,main.c,\examples\ESP32_IDF\main\main.c,\src\main\main.c,75,1257,15
+main.c,main.c,\examples\nRF51\http\main.c,\src\main\main.c,64,1257,16
+main.c,main.c,\examples\nRF52\http\main.c,\src\main\main.c,66,1257,17
+test.c,test.c,\test\ccgi-1.2\t\test.c,\src\nmath\standalone\test.c,125,24,5
+main.c,main.c,\examples\CC3200\ccs\MG_hello\main.c,\src\main\main.c,192,1257,41
+main.c,main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,\src\main\main.c,142,1257,29
+main.c,main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,\src\main\main.c,129,1257,25
+main.c,main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,\src\main\main.c,147,1257,31

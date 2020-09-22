@@ -1,0 +1,12 @@
+1769-ChakraCore,9197-domoticz
+stdafx.h,stdafx.h,\bin\ch\stdafx.h,\main\stdafx.h,295,38,9
+stdafx.h,stdafx.h,\bin\GCStress\stdafx.h,\main\stdafx.h,23,38,2
+stdafx.h,stdafx.h,\bin\NativeTests\stdafx.h,\main\stdafx.h,35,38,5
+Security.h,Security.h,\lib\Backend\Security.h,\hardware\openzwave\command_classes\Security.h,44,52,9
+Event.h,Event.h,\lib\Common\Common\Event.h,\hardware\openzwave\platform\Event.h,35,25,6
+Thread.h,Thread.h,\lib\Common\PlatformAgnostic\Thread.h,\hardware\openzwave\platform\Thread.h,20,26,5
+error.h,error.h,\lib\wabt\src\error.h,\cereal\external\rapidjson\error\error.h,32,57,4
+opcode.h,opcode.h,\lib\wabt\src\opcode.h,\hardware\plugins\Include\opcode.h,96,129,2
+stream.h,stream.h,\lib\wabt\src\stream.h,\cereal\external\rapidjson\stream.h,150,67,9
+token.h,token.h,\lib\wabt\src\token.h,\hardware\plugins\Include\token.h,91,78,2
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\json\config.h,247,123,26

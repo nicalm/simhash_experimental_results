@@ -1,0 +1,7 @@
+2116-libgit2,753-fish-shell
+common.h,common.h,\examples\common.h,\src\common.h,74,572,7
+common.h,common.h,\src\common.h,\src\common.h,114,572,14
+path.h,path.h,\src\path.h,\src\path.h,231,22,2
+reader.h,reader.h,\src\reader.h,\src\reader.h,27,84,3
+common.h,common.h,\include\git2\common.h,\src\common.h,103,572,16
+path.h,path.h,\include\git2\sys\path.h,\src\path.h,17,22,1

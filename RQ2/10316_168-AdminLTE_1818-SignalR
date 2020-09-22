@@ -1,0 +1,5 @@
+168-AdminLTE,1818-SignalR
+dashboard.js,dashboard.js,\dist\js\pages\dashboard.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\dashboard.js,217,127,18
+bootstrap.js,bootstrap.js,\plugins\bootstrap\js\bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,3347,1251,183
+dashboard.js,dashboard.js,\docs\assets\js\pages\dashboard.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\dashboard.js,217,127,18
+bootstrap.js,bootstrap.js,\docs\assets\plugins\bootstrap\js\bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,3347,1251,183

@@ -1,0 +1,6 @@
+12873-mediawiki,63622-mirador
+config.js,config.js,\mw-config\config.js,\src\state\actions\config.js,114,21,4
+config.js,config.js,\mw-config\config.js,\src\state\reducers\config.js,114,15,1
+config.js,config.js,\mw-config\config.js,\src\state\selectors\config.js,114,44,1
+search.js,search.js,\resources\src\mediawiki.special.search\search.js,\src\state\actions\search.js,35,87,7
+search.js,search.js,\resources\src\mediawiki.special.search\search.js,\src\state\reducers\search.js,35,129,3

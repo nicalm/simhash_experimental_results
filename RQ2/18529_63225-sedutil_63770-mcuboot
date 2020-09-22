@@ -1,0 +1,3 @@
+63225-sedutil,63770-mcuboot
+hmac.c,hmac.c,\Common\pbkdf2\hmac.c,\ext\tinycrypt\lib\source\hmac.c,63,81,10
+hmac.h,hmac.h,\Common\pbkdf2\hmac.h,\ext\tinycrypt\lib\include\tinycrypt\hmac.h,22,21,1

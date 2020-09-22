@@ -1,0 +1,11 @@
+1366-gradle,4139-outline-client
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-authcrypt\main.cpp,17,105,5
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-benchmark\main.cpp,17,788,5
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-hashing\main.cpp,17,90,5
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\target-platforms\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-selftest\main.cpp,17,200,4
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-authcrypt\main.cpp,17,105,5
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-benchmark\main.cpp,17,788,5
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-hashing\main.cpp,17,90,5
+main.cpp,main.cpp,\subprojects\docs\src\snippets\native-binaries\tool-chains\src\main\cpp\main.cpp,\third_party\mbedtls\yotta\data\example-selftest\main.cpp,17,200,4
+gtest.h,gtest.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\gtest.h,\third_party\c-ares\test\gmock-1.8.0\gtest\gtest.h,886,14015,777
+gtest.h,gtest.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\gtest.h,\third_party\c-ares\test\gmock-1.8.0\gtest\gtest.h,886,14015,777

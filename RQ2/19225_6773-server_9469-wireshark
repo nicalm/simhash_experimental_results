@@ -1,0 +1,15 @@
+6773-server,9469-wireshark
+key.h,key.h,\sql\key.h,\plugins\epan\unistim\key.h,26,126,1
+adler32.c,adler32.c,\zlib\adler32.c,\wsutil\adler32.c,143,23,7
+crc32.c,crc32.c,\zlib\crc32.c,\wsutil\crc32.c,289,366,25
+crc32.h,crc32.h,\zlib\crc32.h,\wsutil\crc32.h,437,32,2
+util.c,util.c,\extra\readline\util.c,\ui\util.c,246,182,33
+tap.c,tap.c,\unittest\mytap\tap.c,\epan\tap.c,264,458,70
+tap.h,tap.h,\unittest\mytap\tap.h,\epan\tap.h,38,59,7
+column.c,column.c,\storage\mroonga\vendor\groonga\lib\column.c,\epan\column.c,26,734,9
+util.c,util.c,\storage\mroonga\vendor\groonga\lib\util.c,\ui\util.c,1420,182,36
+util.h,util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,\ui\util.h,22,15,6
+util.c,util.c,\storage\mroonga\vendor\groonga\src\suggest\util.c,\ui\util.c,184,182,29
+util.h,util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,\ui\util.h,20,15,1
+crc32.c,crc32.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\debug\crc32.c,\wsutil\crc32.c,18,366,2
+util.c,util.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\util.c,\ui\util.c,127,182,19

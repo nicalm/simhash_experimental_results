@@ -1,0 +1,7 @@
+15760-bfgminer,6773-server
+util.c,util.c,\util.c,\extra\readline\util.c,3540,246,71
+util.c,util.c,\util.c,\storage\mroonga\vendor\groonga\lib\util.c,3540,1420,275
+util.c,util.c,\util.c,\storage\mroonga\vendor\groonga\src\suggest\util.c,3540,184,68
+util.c,util.c,\util.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\xz\util.c,3540,127,32
+util.h,util.h,\util.h,\storage\mroonga\vendor\groonga\include\groonga\util.h,687,22,3
+util.h,util.h,\util.h,\storage\mroonga\vendor\groonga\src\suggest\util.h,687,20,2

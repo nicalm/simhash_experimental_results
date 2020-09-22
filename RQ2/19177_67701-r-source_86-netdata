@@ -1,0 +1,5 @@
+67701-r-source,86-netdata
+eval.c,eval.c,\src\main\eval.c,\libnetdata\eval\eval.c,5195,887,188
+main.c,main.c,\src\main\main.c,\daemon\main.c,1257,995,168
+signals.c,signals.c,\src\library\tools\src\signals.c,\daemon\signals.c,157,209,17
+registry.c,registry.c,\src\library\utils\src\windows\registry.c,\registry\registry.c,223,286,20

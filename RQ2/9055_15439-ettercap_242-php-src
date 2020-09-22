@@ -1,0 +1,4 @@
+15439-ettercap,242-php-src
+getopt.c,getopt.c,\src\missing\getopt.c,\main\getopt.c,775,150,42
+strlcat.c,strlcat.c,\src\missing\strlcat.c,\main\strlcat.c,29,33,12
+strlcpy.c,strlcpy.c,\src\missing\strlcpy.c,\main\strlcpy.c,23,29,9

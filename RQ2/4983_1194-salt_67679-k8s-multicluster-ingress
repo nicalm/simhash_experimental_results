@@ -1,0 +1,7 @@
+1194-salt,67679-k8s-multicluster-ingress
+setup.py,setup.py,\setup.py,\vendor\github.com\prometheus\client_model\setup.py,861,20,4
+setup.py,setup.py,\salt\log\setup.py,\vendor\github.com\prometheus\client_model\setup.py,535,20,0
+client.py,client.py,\salt\transport\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,121,21,0
+server.py,server.py,\salt\transport\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,49,15,0
+client.py,client.py,\salt\client\ssh\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,123,21,0
+common.py,common.py,\salt\config\schemas\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,31,21,0

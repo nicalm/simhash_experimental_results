@@ -1,0 +1,9 @@
+15910-gdal,9469-wireshark
+conftest.py,conftest.py,\autotest\conftest.py,\test\conftest.py,39,26,1
+merge.c,merge.c,\gdal\alg\internal_libqhull\merge.c,\wiretap\merge.c,2129,739,130
+merge.h,merge.h,\gdal\alg\internal_libqhull\merge.h,\wiretap\merge.h,89,83,2
+adler32.c,adler32.c,\gdal\frmts\zlib\adler32.c,\wsutil\adler32.c,117,23,6
+crc32.c,crc32.c,\gdal\frmts\zlib\crc32.c,\wsutil\crc32.c,287,366,23
+crc32.h,crc32.h,\gdal\frmts\zlib\crc32.h,\wsutil\crc32.h,437,32,2
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\file.c,22,3028,10
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\ui\util.h,411,15,4

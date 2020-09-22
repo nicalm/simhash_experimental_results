@@ -1,0 +1,7 @@
+5868-libvips,6883-Sigil
+error.c,error.c,\libvips\iofuncs\error.c,\internal\gumbo\error.c,530,221,30
+util.c,util.c,\libvips\iofuncs\util.c,\internal\gumbo\util.c,1294,49,17
+vector.c,vector.c,\libvips\iofuncs\vector.c,\internal\gumbo\vector.c,400,86,16
+error.h,error.h,\libvips\include\vips\error.h,\internal\gumbo\error.h,58,114,7
+util.h,util.h,\libvips\include\vips\util.h,\internal\gumbo\util.h,230,48,8
+vector.h,vector.h,\libvips\include\vips\vector.h,\internal\gumbo\vector.h,73,20,7

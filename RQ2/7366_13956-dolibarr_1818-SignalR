@@ -1,0 +1,3 @@
+13956-dolibarr,1818-SignalR
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,48,65,4
+jquery.cookie.js,jquery.cookie.js,\htdocs\includes\jquery\plugins\jquerytreeview\lib\jquery.cookie.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\jquery.cookie.js,37,37,35

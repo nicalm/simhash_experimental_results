@@ -1,0 +1,10 @@
+12658-Espruino,1460-iTerm2
+__init__.py,__init__.py,\scripts\intelhex\__init__.py,\api\library\python\iterm2\iterm2\__init__.py,781,52,0
+main.c,main.c,\targets\emscripten\main.c,\SignedArchive\resign\main.c,50,60,8
+main.c,main.c,\targets\esp32\main.c,\SignedArchive\resign\main.c,92,60,8
+main.c,main.c,\targets\linux\main.c,\SignedArchive\resign\main.c,335,60,14
+main.c,main.c,\targets\nrf5x\main.c,\SignedArchive\resign\main.c,16,60,2
+main.c,main.c,\targets\nrf5x_dfu\main.c,\SignedArchive\resign\main.c,191,60,13
+main.c,main.c,\targets\stm32\main.c,\SignedArchive\resign\main.c,38,60,3
+main.c,main.c,\targets\stm32_boot\main.c,\SignedArchive\resign\main.c,236,60,13
+main.c,main.c,\targets\stm32_ll\main.c,\SignedArchive\resign\main.c,23,60,2

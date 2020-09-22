@@ -1,0 +1,10 @@
+4000-mruby,5868-libvips
+error.c,error.c,\src\error.c,\libvips\iofuncs\error.c,426,530,103
+init.c,init.c,\src\init.c,\libvips\iofuncs\init.c,41,636,3
+object.c,object.c,\src\object.c,\libvips\iofuncs\object.c,394,2001,105
+debug.h,debug.h,\include\mruby\debug.h,\libvips\include\vips\debug.h,38,37,1
+error.h,error.h,\include\mruby\error.h,\libvips\include\vips\error.h,60,58,3
+object.h,object.h,\include\mruby\object.h,\libvips\include\vips\object.h,29,365,3
+complex.c,complex.c,\mrbgems\mruby-complex\src\complex.c,\libvips\arithmetic\complex.c,195,660,50
+math.c,math.c,\mrbgems\mruby-math\src\math.c,\libvips\arithmetic\math.c,399,240,38
+object.c,object.c,\mrbgems\mruby-object-ext\src\object.c,\libvips\iofuncs\object.c,72,2001,23

@@ -1,0 +1,16 @@
+63613-KunstmaanBundlesCMS,7408-DeepVideoAnalytics
+app.js,app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,\server\dvaapp\static\app\app.js,77,180,8
+app.js,app.js,\src\Kunstmaan\AdminBundle\Resources\ui\js\app.js,\server\dvaapp\static\dist\js\app.js,77,470,12
+app.js,app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,\server\dvaapp\static\app\app.js,15,180,3
+app.js,app.js,\src\Kunstmaan\MediaBundle\Resources\ui\js\app.js,\server\dvaapp\static\dist\js\app.js,15,470,4
+build-config.js,build-config.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\build-config.js,\server\dvaapp\static\plugins\ckeditor\build-config.js,156,134,132
+styles.js,styles.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\styles.js,\server\dvaapp\static\plugins\ckeditor\styles.js,53,53,53
+image.js,image.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\image\dialogs\image.js,\server\dvaapp\static\plugins\ckeditor\plugins\image\dialogs\image.js,40,41,2
+link.js,link.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\link\dialogs\link.js,\server\dvaapp\static\plugins\ckeditor\plugins\link\dialogs\link.js,23,23,4
+default.js,default.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\pastefromword\filter\default.js,\server\dva\static\rest_framework\js\default.js,29,49,0
+default.js,default.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\pastefromword\filter\default.js,\server\dvaapp\static\plugins\ckeditor\plugins\pastefromword\filter\default.js,29,29,1
+options.js,options.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\scayt\dialogs\options.js,\server\dvaapp\static\plugins\ckeditor\plugins\scayt\dialogs\options.js,17,19,0
+table.js,table.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\table\dialogs\table.js,\server\dvaapp\static\plugins\ckeditor\plugins\table\dialogs\table.js,18,18,2
+wsc.js,wsc.js,\src\Kunstmaan\AdminBundle\Resources\public\default-theme\ckeditor\plugins\wsc\dialogs\wsc.js,\server\dvaapp\static\plugins\ckeditor\plugins\wsc\dialogs\wsc.js,89,89,4
+app.js,app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,\server\dvaapp\static\app\app.js,27,180,2
+app.js,app.js,\src\Kunstmaan\GeneratorBundle\Resources\SensioGeneratorBundle\skeleton\layout\Resources\ui\js\app.js,\server\dvaapp\static\dist\js\app.js,27,470,2

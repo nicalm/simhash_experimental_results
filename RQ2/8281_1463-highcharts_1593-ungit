@@ -1,0 +1,5 @@
+1463-highcharts,1593-ungit
+navigation.js,navigation.js,\js\mixins\navigation.js,\public\source\navigation.js,25,18,3
+app.js,app.js,\samples\highcharts\common-js\browserify\app.js,\components\app\app.js,325,123,10
+server.js,server.js,\tools\gulptasks\lib\api\server.js,\source\server.js,94,325,16
+server.js,server.js,\tools\gulptasks\lib\api\server.js,\public\source\server.js,94,186,15

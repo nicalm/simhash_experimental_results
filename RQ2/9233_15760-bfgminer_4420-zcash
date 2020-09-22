@@ -1,0 +1,6 @@
+15760-bfgminer,4420-zcash
+compat.h,compat.h,\compat.h,\src\compat.h,164,86,20
+logging.h,logging.h,\logging.h,\src\leveldb\util\logging.h,133,16,2
+miner.h,miner.h,\miner.h,\src\miner.h,1425,26,5
+util.h,util.h,\util.h,\src\util.h,687,150,32
+util.h,util.h,\util.h,\src\secp256k1\src\util.h,687,92,20

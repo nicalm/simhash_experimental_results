@@ -1,0 +1,4 @@
+753-fish-shell,8063-CMake
+common.h,common.h,\src\common.h,\Utilities\cmliblzma\liblzma\common\common.h,572,136,19
+reader.h,reader.h,\src\reader.h,\Utilities\cmjsoncpp\include\json\reader.h,84,163,5
+wildcard.h,wildcard.h,\src\wildcard.h,\Utilities\cmcurl\lib\wildcard.h,22,32,2

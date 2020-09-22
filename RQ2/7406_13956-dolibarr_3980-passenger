@@ -1,0 +1,9 @@
+13956-dolibarr,3980-passenger
+styles.js,styles.js,\htdocs\includes\ckeditor\ckeditor\styles.js,\src\nodejs_supportlib\vendor-copy\winston\node_modules\colors\lib\styles.js,67,44,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\src\nodejs_supportlib\vendor-copy\network-byte-order\lib\index.js,40,31,0
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\index.js,40,286,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\async-listener\node_modules\shimmer\index.js,40,71,7
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\src\nodejs_supportlib\vendor-copy\continuation-local-storage\node_modules\emitter-listener\node_modules\shimmer\index.js,40,71,7
+config.js,config.js,\htdocs\theme\eldy\ckeditor\config.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\config.js,72,40,1
+config.js,config.js,\htdocs\theme\md\ckeditor\config.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\config.js,72,40,1
+common.js,common.js,\htdocs\core\filemanagerdol\browser\default\js\common.js,\src\nodejs_supportlib\vendor-copy\winston\lib\winston\common.js,48,316,9

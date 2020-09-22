@@ -1,0 +1,10 @@
+18309-tor,6974-openapi-generator
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\server\petstore\python-aiohttp\openapi_server\util.py,40,59,1
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\server\petstore\python-flask\openapi_server\util.py,40,61,1
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\server\petstore\python-flask-python2\openapi_server\util.py,40,61,1
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\openapi3\server\petstore\python-flask\openapi_server\util.py,40,61,1
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\openapi3\server\petstore\python-flask-python2\openapi_server\util.py,40,61,1
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\server\petstore\python-aiohttp-srclayout\src\openapi_server\util.py,40,59,1
+util.py,util.py,\scripts\maint\practracker\util.py,\samples\server\petstore\python-blueplanet\app\openapi_server\util.py,40,61,1
+order.c,order.c,\src\lib\container\order.c,\samples\client\petstore\c\model\order.c,29,144,2
+order.h,order.h,\src\lib\container\order.h,\samples\client\petstore\c\model\order.h,41,31,1

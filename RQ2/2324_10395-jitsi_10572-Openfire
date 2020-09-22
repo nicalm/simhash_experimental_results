@@ -1,0 +1,6 @@
+10395-jitsi,10572-Openfire
+Base64.java,Base64.java,\src\net\java\sip\communicator\util\Base64.java,\xmppserver\src\main\java\org\jivesoftware\util\Base64.java,282,871,100
+ByteFormat.java,ByteFormat.java,\src\net\java\sip\communicator\util\ByteFormat.java,\xmppserver\src\main\java\org\jivesoftware\util\ByteFormat.java,21,32,5
+GraphicUtils.java,GraphicUtils.java,\src\net\java\sip\communicator\util\GraphicUtils.java,\starter\src\main\java\org\jivesoftware\openfire\launcher\GraphicUtils.java,67,230,8
+FileTransfer.java,FileTransfer.java,\src\net\java\sip\communicator\service\protocol\FileTransfer.java,\xmppserver\src\main\java\org\jivesoftware\openfire\filetransfer\FileTransfer.java,19,78,2
+PresenceManager.java,PresenceManager.java,\src\net\java\sip\communicator\impl\protocol\irc\PresenceManager.java,\xmppserver\src\main\java\org\jivesoftware\openfire\PresenceManager.java,406,22,1

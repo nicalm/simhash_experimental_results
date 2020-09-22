@@ -1,0 +1,8 @@
+2202-qBittorrent,5271-CouchPotatoServer
+helpers.py,helpers.py,\src\searchengine\nova\helpers.py,\libs\caper\helpers.py,66,45,0
+socks.py,socks.py,\src\searchengine\nova\socks.py,\libs\httplib2\socks.py,238,264,163
+helpers.py,helpers.py,\src\searchengine\nova3\helpers.py,\libs\caper\helpers.py,68,45,0
+socks.py,socks.py,\src\searchengine\nova3\socks.py,\libs\httplib2\socks.py,238,264,164
+Gruntfile.js,Gruntfile.js,\src\icons\qbt-theme\build-icons\Gruntfile.js,\Gruntfile.js,18,211,11
+Gruntfile.js,Gruntfile.js,\src\icons\skin\build-icons\Gruntfile.js,\Gruntfile.js,18,211,11
+login.js,login.js,\src\webui\www\public\scripts\login.js,\couchpotato\static\scripts\page\login.js,32,26,5

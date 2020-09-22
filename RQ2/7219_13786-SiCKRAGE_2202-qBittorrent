@@ -1,0 +1,7 @@
+13786-SiCKRAGE,2202-qBittorrent
+helpers.py,helpers.py,\sickrage\indexers\helpers.py,\src\searchengine\nova\helpers.py,42,66,3
+helpers.py,helpers.py,\sickrage\indexers\helpers.py,\src\searchengine\nova3\helpers.py,42,68,3
+helpers.py,helpers.py,\sickrage\libs\trakt\helpers.py,\src\searchengine\nova\helpers.py,23,66,1
+helpers.py,helpers.py,\sickrage\libs\trakt\helpers.py,\src\searchengine\nova3\helpers.py,23,68,1
+helpers.py,helpers.py,\sickrage\libs\trakt\core\helpers.py,\src\searchengine\nova\helpers.py,88,66,2
+helpers.py,helpers.py,\sickrage\libs\trakt\core\helpers.py,\src\searchengine\nova3\helpers.py,88,68,2

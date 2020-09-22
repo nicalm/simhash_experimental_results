@@ -1,0 +1,5 @@
+10572-Openfire,13536-activemq
+behaviour.js,behaviour.js,\xmppserver\src\main\webapp\js\behaviour.js,\activemq-web\src\main\resources\org\apache\activemq\web\behaviour.js,171,173,169
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\activemq-web-demo\src\main\webapp\js\prototype.js,5993,4042,2630
+prototype.js,prototype.js,\xmppserver\src\main\webapp\js\prototype.js,\activemq-web\src\main\resources\org\apache\activemq\web\prototype.js,5993,1446,758
+Connection.java,Connection.java,\xmppserver\src\main\java\org\jivesoftware\openfire\Connection.java,\activemq-broker\src\main\java\org\apache\activemq\broker\Connection.java,61,29,1

@@ -1,0 +1,5 @@
+211-cpython,753-fish-shell
+conf.py,conf.py,\Doc\conf.py,\sphinx_doc_src\conf.py,104,79,6
+parser.h,parser.h,\Parser\parser.h,\src\parser.h,37,170,2
+tokenizer.h,tokenizer.h,\Parser\tokenizer.h,\src\tokenizer.h,64,113,4
+io.h,io.h,\Modules\_decimal\libmpdec\io.h,\src\io.h,23,260,4

@@ -1,0 +1,4 @@
+60419-iv,6974-openapi-generator
+fwd.h,fwd.h,\iv\lv5\breaker\fwd.h,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\PromiseKit\Sources\fwd.h,119,39,4
+fwd.h,fwd.h,\iv\lv5\railgun\fwd.h,\samples\client\petstore\swift3\promisekit\SwaggerClientTests\Pods\PromiseKit\Sources\fwd.h,30,39,1
+object.h,object.h,\iv\lv5\runtime\object.h,\samples\client\petstore\c\model\object.h,31,15,1

@@ -1,0 +1,9 @@
+1769-ChakraCore,4701-sonarqube
+index.js,index.js,\test\WasmSpec\convert-test-suite\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,195,79,16
+index.js,index.js,\test\WasmSpec\convert-test-suite\index.js,\server\sonar-web\config\documentation-loader\index.js,195,28,4
+index.js,index.js,\test\benchmarks\ARES-6\Babylon\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,5263,79,17
+index.js,index.js,\test\benchmarks\ARES-6\Babylon\index.js,\server\sonar-web\config\documentation-loader\index.js,5263,28,3
+index.js,index.js,\test\benchmarks\ARES-6\ml\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,4664,79,16
+index.js,index.js,\test\benchmarks\ARES-6\ml\index.js,\server\sonar-web\config\documentation-loader\index.js,4664,28,3
+index.js,index.js,\test\WasmSpec\convert-test-suite\generateTests\index.js,\server\sonar-docs\plugins\sonarsource-source-filesystem\index.js,17,79,0
+index.js,index.js,\test\WasmSpec\convert-test-suite\generateTests\index.js,\server\sonar-web\config\documentation-loader\index.js,17,28,0

@@ -1,0 +1,5 @@
+10093-VeraCrypt,67701-r-source
+Random.h,Random.h,\src\Common\Random.h,\src\include\R_ext\Random.h,40,39,7
+config.h,config.h,\src\Crypto\config.h,\src\gnuwin32\fixed\h\config.h,152,267,19
+Memory.h,Memory.h,\src\Platform\Memory.h,\src\include\R_ext\Memory.h,144,25,7
+config.h,config.h,\src\Common\libzip\config.h,\src\gnuwin32\fixed\h\config.h,60,267,8

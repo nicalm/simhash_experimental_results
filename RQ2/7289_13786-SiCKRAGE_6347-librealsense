@@ -1,0 +1,4 @@
+13786-SiCKRAGE,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,74,64,7
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,74,21,1
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,74,73,5

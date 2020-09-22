@@ -1,0 +1,6 @@
+11072-cryptopp,1541-h2o
+drbg.h,drbg.h,\drbg.h,\deps\picotls\deps\cifra\src\drbg.h,358,46,4
+hmac.h,hmac.h,\hmac.h,\deps\picotls\deps\cifra\src\hmac.h,45,22,2
+modes.h,modes.h,\modes.h,\deps\picotls\deps\cifra\src\modes.h,354,138,8
+poly1305.h,poly1305.h,\poly1305.h,\deps\picotls\deps\cifra\src\poly1305.h,72,21,2
+sha3.h,sha3.h,\sha3.h,\deps\picotls\deps\cifra\src\sha3.h,43,45,3

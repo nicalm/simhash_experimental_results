@@ -1,0 +1,5 @@
+10187-viabtc_exchange_server,516-mongo
+async.h,async.h,\depends\hiredis\async.h,\src\third_party\wiredtiger\src\include\async.h,60,66,0
+net.h,net.h,\depends\hiredis\net.h,\src\third_party\boost-1.70.0\boost\predef\os\bsd\net.h,15,51,2
+test.c,test.c,\depends\hiredis\test.c,\src\third_party\zstandard-1.4.3\zstd\tests\regression\test.c,570,286,44
+example.c,example.c,\depends\hiredis\examples\example.c,\src\third_party\zstandard-1.4.3\zstd\zlibWrapper\examples\example.c,57,445,12

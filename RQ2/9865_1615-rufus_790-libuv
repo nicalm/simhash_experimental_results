@@ -1,0 +1,8 @@
+1615-rufus,790-libuv
+process.c,process.c,\src\process.c,\src\unix\process.c,518,441,62
+process.c,process.c,\src\process.c,\src\win\process.c,518,879,62
+getopt.c,getopt.c,\src\getopt\getopt.c,\samples\socks5-proxy\getopt.c,653,78,17
+util.c,util.c,\src\libcdio\driver\util.c,\samples\socks5-proxy\util.c,124,43,8
+util.c,util.c,\src\libcdio\driver\util.c,\src\win\util.c,124,1211,15
+fs.c,fs.c,\src\syslinux\libinstaller\fs.c,\src\unix\fs.c,119,1451,18
+fs.c,fs.c,\src\syslinux\libinstaller\fs.c,\src\win\fs.c,119,1992,13

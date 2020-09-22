@@ -1,0 +1,7 @@
+6347-librealsense,9975-hexchat
+Program.cs,Program.cs,\wrappers\csharp\cs-tutorial-1-depth\Program.cs,\src\htm\Program.cs,71,18,8
+AssemblyInfo.cs,AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-1-depth\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,15,18,8
+AssemblyInfo.cs,AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-2-capture\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,15,18,8
+AssemblyInfo.cs,AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-3-processing\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,15,18,8
+AssemblyInfo.cs,AssemblyInfo.cs,\wrappers\csharp\cs-tutorial-4-software-dev\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,15,18,8
+AssemblyInfo.cs,AssemblyInfo.cs,\wrappers\csharp\Intel.RealSense\Properties\AssemblyInfo.cs,\src\htm\Properties\AssemblyInfo.cs,15,18,8

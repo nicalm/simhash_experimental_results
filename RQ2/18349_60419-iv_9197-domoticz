@@ -1,0 +1,16 @@
+60419-iv,9197-domoticz
+ast.h,ast.h,\iv\ast.h,\hardware\plugins\Include\ast.h,1440,20,2
+dtoa.h,dtoa.h,\iv\dtoa.h,\hardware\plugins\Include\dtoa.h,15,16,2
+dtoa.h,dtoa.h,\iv\dtoa.h,\cereal\external\rapidjson\internal\dtoa.h,15,193,2
+token.h,token.h,\iv\token.h,\hardware\plugins\Include\token.h,310,78,2
+ast.h,ast.h,\iv\aero\ast.h,\hardware\plugins\Include\ast.h,185,20,2
+code.h,code.h,\iv\aero\code.h,\hardware\plugins\Include\code.h,56,74,3
+error.h,error.h,\iv\lv5\error.h,\cereal\external\rapidjson\error\error.h,131,57,5
+stack.h,stack.h,\iv\lv5\stack.h,\cereal\external\rapidjson\internal\stack.h,102,168,23
+fwd.h,fwd.h,\iv\lv5\breaker\fwd.h,\cereal\external\rapidjson\fwd.h,119,71,1
+code.h,code.h,\iv\lv5\railgun\code.h,\hardware\plugins\Include\code.h,220,74,2
+fwd.h,fwd.h,\iv\lv5\railgun\fwd.h,\cereal\external\rapidjson\fwd.h,30,71,1
+stack.h,stack.h,\iv\lv5\railgun\stack.h,\cereal\external\rapidjson\internal\stack.h,182,168,27
+error.h,error.h,\iv\lv5\runtime\error.h,\cereal\external\rapidjson\error\error.h,18,57,1
+object.h,object.h,\iv\lv5\runtime\object.h,\hardware\plugins\Include\object.h,31,531,1
+v8stdint.h,v8stdint.h,\iv\lv5\v8\v8stdint.h,\hardware\serial\v8stdint.h,17,17,17

@@ -1,0 +1,4 @@
+12726-json-c,548-ruby
+debug.c,debug.c,\debug.c,\debug.c,61,211,18
+debug.h,debug.h,\debug.h,\internal\debug.h,51,16,2
+debug.h,debug.h,\debug.h,\include\ruby\debug.h,51,70,7

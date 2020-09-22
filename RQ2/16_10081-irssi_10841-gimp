@@ -1,0 +1,6 @@
+10081-irssi,10841-gimp
+misc.c,misc.c,\src\core\misc.c,\plug-ins\file-dds\misc.c,805,169,20
+session.c,session.c,\src\core\session.c,\app\gui\session.c,273,334,46
+signals.c,signals.c,\src\core\signals.c,\app\signals.c,310,101,13
+themes.c,themes.c,\src\fe-common\core\themes.c,\app\gui\themes.c,1154,346,65
+window-commands.c,window-commands.c,\src\fe-common\core\window-commands.c,\app\actions\window-commands.c,724,102,15

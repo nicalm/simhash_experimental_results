@@ -1,0 +1,4 @@
+10093-VeraCrypt,11072-cryptopp
+cpu.h,cpu.h,\src\Crypto\cpu.h,\cpu.h,420,669,234
+misc.h,misc.h,\src\Crypto\misc.h,\misc.h,153,1443,70
+zlib.h,zlib.h,\src\Common\zlib\zlib.h,\zlib.h,307,42,2

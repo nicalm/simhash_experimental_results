@@ -1,0 +1,8 @@
+1193-mpv,4960-capstone
+main.c,main.c,\player\main.c,\suite\cstest\src\main.c,377,300,45
+utils.c,utils.c,\video\out\gpu\utils.c,\utils.c,257,92,33
+utils.h,utils.h,\video\out\gpu\utils.h,\utils.h,68,39,0
+utils.c,utils.c,\video\out\opengl\utils.c,\utils.c,217,92,33
+utils.h,utils.h,\video\out\opengl\utils.h,\utils.h,28,39,1
+utils.c,utils.c,\video\out\placebo\utils.c,\utils.c,52,92,10
+utils.c,utils.c,\video\out\vulkan\utils.c,\utils.c,37,92,8

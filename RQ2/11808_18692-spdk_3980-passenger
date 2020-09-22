@@ -1,0 +1,11 @@
+18692-spdk,3980-passenger
+endian.h,endian.h,\include\spdk\endian.h,\src\cxx_supportlib\vendor-modified\boost\predef\other\endian.h,124,141,3
+event.h,event.h,\include\spdk\event.h,\src\cxx_supportlib\vendor-modified\libev\event.h,75,104,8
+json.h,json.h,\include\spdk\json.h,\src\cxx_supportlib\vendor-modified\jsoncpp\json.h,110,953,7
+net.h,net.h,\include\spdk\net.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\bsd\net.h,32,51,3
+queue.h,queue.h,\include\spdk\queue.h,\src\cxx_supportlib\vendor-copy\libuv\src\queue.h,30,73,2
+event.h,event.h,\include\spdk_internal\event.h,\src\cxx_supportlib\vendor-modified\libev\event.h,68,104,8
+tree.h,tree.h,\lib\blobfs\tree.h,\src\cxx_supportlib\vendor-copy\libuv\include\tree.h,36,666,1
+tcp.c,tcp.c,\lib\nvmf\tcp.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\tcp.c,2178,232,43
+thread.c,thread.c,\lib\thread\thread.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\thread.c,1021,352,66
+pipe.c,pipe.c,\lib\util\pipe.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\pipe.c,188,186,24

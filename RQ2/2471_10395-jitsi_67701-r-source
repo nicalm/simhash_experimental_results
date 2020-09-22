@@ -1,0 +1,4 @@
+10395-jitsi,67701-r-source
+registry.c,registry.c,\src\native\windows\run\registry.c,\src\library\utils\src\windows\registry.c,44,223,13
+run.c,run.c,\src\native\windows\run\run.c,\src\gnuwin32\run.c,1415,625,119
+nls.c,nls.c,\src\native\windows\setup\nls.c,\src\library\stats\src\nls.c,63,263,14

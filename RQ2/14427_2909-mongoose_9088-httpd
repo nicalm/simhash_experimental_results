@@ -1,0 +1,12 @@
+2909-mongoose,9088-httpd
+main.c,main.c,\examples\CC3200\main.c,\server\main.c,249,643,45
+main.c,main.c,\examples\NXP_K64\main.c,\server\main.c,131,643,19
+main.c,main.c,\examples\STM32F4_CC3100\main.c,\server\main.c,124,643,28
+prefork.c,prefork.c,\test\ccgi-1.2\prefork.c,\server\mpm\prefork\prefork.c,304,1023,82
+main.c,main.c,\examples\ESP32_IDF\main\main.c,\server\main.c,75,643,12
+main.c,main.c,\examples\nRF51\http\main.c,\server\main.c,64,643,14
+main.c,main.c,\examples\nRF52\http\main.c,\server\main.c,66,643,14
+main.c,main.c,\examples\CC3200\ccs\MG_hello\main.c,\server\main.c,192,643,36
+main.c,main.c,\examples\MSP432\ccs\MSP432_MG_hello\main.c,\server\main.c,142,643,25
+main.c,main.c,\examples\TM4C129\ccs\Mongoose_TM4C129_BM\main.c,\server\main.c,129,643,23
+main.c,main.c,\examples\NXP_LPC4088\LPCXpresso\Mongoose_LPC4088_QSB_BM\example\src\main.c,\server\main.c,147,643,24

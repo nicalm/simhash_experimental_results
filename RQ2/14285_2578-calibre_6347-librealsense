@@ -1,0 +1,9 @@
+2578-calibre,6347-librealsense
+setup.py,setup.py,\setup.py,\wrappers\python\setup.py,92,64,1
+setup.py,setup.py,\setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,92,21,0
+setup.py,setup.py,\setup.py,\wrappers\python\third_party\pybind11\setup.py,92,73,1
+__main__.py,__main__.py,\bypy\linux\__main__.py,\wrappers\python\third_party\pybind11\pybind11\__main__.py,249,26,4
+__main__.py,__main__.py,\bypy\macos\__main__.py,\wrappers\python\third_party\pybind11\pybind11\__main__.py,671,26,2
+__main__.py,__main__.py,\bypy\windows\__main__.py,\wrappers\python\third_party\pybind11\pybind11\__main__.py,610,26,4
+device.cpp,device.cpp,\src\calibre\devices\mtp\windows\device.cpp,\src\device.cpp,183,285,15
+device.cpp,device.cpp,\src\calibre\devices\mtp\windows\device.cpp,\src\android\jni\device.cpp,183,129,12

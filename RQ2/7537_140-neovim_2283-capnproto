@@ -1,0 +1,6 @@
+140-neovim,2283-capnproto
+map.h,map.h,\src\nvim\map.h,\c++\src\kj\map.h,59,376,0
+memory.h,memory.h,\src\nvim\memory.h,\c++\src\kj\memory.h,32,346,0
+message.h,message.h,\src\nvim\message.h,\c++\src\capnp\message.h,52,231,1
+time.h,time.h,\src\nvim\event\time.h,\c++\src\kj\time.h,17,36,1
+parser.h,parser.h,\src\nvim\viml\parser\parser.h,\c++\src\capnp\compiler\parser.h,171,69,4

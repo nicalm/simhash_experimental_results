@@ -1,0 +1,3 @@
+2202-qBittorrent,2912-postgres
+session.h,session.h,\src\base\bittorrent\session.h,\src\include\access\session.h,612,18,2
+statistics.h,statistics.h,\src\base\bittorrent\private\statistics.h,\src\include\statistics\statistics.h,32,81,5

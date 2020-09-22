@@ -1,0 +1,4 @@
+506-ghidra,5902-nmap
+getopt.c,getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,\nbase\getopt.c,637,246,60
+getopt.c,getopt.c,\GPL\DemanglerGnu\src\demangler_gnu\c\getopt.c,\libpcap\missing\getopt.c,637,76,21
+getopt.h,getopt.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\getopt.h,\nbase\getopt.h,52,41,24

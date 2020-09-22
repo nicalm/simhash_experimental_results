@@ -1,0 +1,4 @@
+2575-scipy,6444-yara
+conf.py,conf.py,\doc\source\conf.py,\docs\conf.py,237,35,12
+util.h,util.h,\scipy\sparse\sparsetools\util.h,\tests\util.h,38,199,2
+util.c,util.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\util.c,\tests\util.c,345,285,61

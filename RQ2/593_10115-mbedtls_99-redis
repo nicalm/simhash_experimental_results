@@ -1,0 +1,7 @@
+10115-mbedtls,99-redis
+debug.c,debug.c,\library\debug.c,\src\debug.c,345,1230,74
+sha1.c,sha1.c,\library\sha1.c,\src\sha1.c,414,156,26
+sha256.c,sha256.c,\library\sha256.c,\src\sha256.c,419,120,17
+config.h,config.h,\include\mbedtls\config.h,\src\config.h,143,149,3
+sha1.h,sha1.h,\include\mbedtls\sha1.h,\src\sha1.h,74,15,4
+sha256.h,sha256.h,\include\mbedtls\sha256.h,\src\sha256.h,78,17,3

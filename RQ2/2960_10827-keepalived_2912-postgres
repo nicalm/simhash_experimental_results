@@ -1,0 +1,14 @@
+10827-keepalived,2912-postgres
+main.c,main.c,\genhash\main.c,\src\backend\main\main.c,263,203,35
+assert.c,assert.c,\lib\assert.c,\src\backend\utils\error\assert.c,21,35,7
+list.c,list.c,\lib\list.c,\src\backend\nodes\list.c,225,856,68
+memory.c,memory.c,\lib\memory.c,\src\interfaces\ecpg\ecpglib\memory.c,545,138,51
+parser.c,parser.c,\lib\parser.c,\src\backend\parser\parser.c,1624,97,27
+parser.c,parser.c,\lib\parser.c,\src\interfaces\ecpg\preproc\parser.c,1624,95,25
+parser.h,parser.h,\lib\parser.h,\src\include\parser\parser.h,87,16,2
+rbtree.c,rbtree.c,\lib\rbtree.c,\src\backend\lib\rbtree.c,369,418,76
+rbtree.h,rbtree.h,\lib\rbtree.h,\src\include\lib\rbtree.h,230,41,3
+timer.c,timer.c,\lib\timer.c,\src\backend\port\win32\timer.c,121,74,16
+hash.h,hash.h,\genhash\include\hash.h,\src\include\access\hash.h,34,269,1
+main.c,main.c,\keepalived\core\main.c,\src\backend\main\main.c,1950,203,52
+pidfile.h,pidfile.h,\keepalived\include\pidfile.h,\src\include\utils\pidfile.h,30,15,1

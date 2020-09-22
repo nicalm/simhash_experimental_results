@@ -1,0 +1,10 @@
+18692-spdk,6664-ModSecurity
+base64.h,base64.h,\include\spdk\base64.h,\others\mbedtls\base64.h,22,17,7
+base64.h,base64.h,\include\spdk\base64.h,\src\utils\base64.h,22,19,3
+env.h,env.h,\include\spdk\env.h,\src\variables\env.h,212,21,3
+json.h,json.h,\include\spdk\json.h,\src\request_body_processor\json.h,110,80,6
+log.h,log.h,\include\spdk\log.h,\src\actions\log.h,41,19,3
+string.h,string.h,\include\spdk\string.h,\src\utils\string.h,27,54,2
+log.h,log.h,\include\spdk_internal\log.h,\src\actions\log.h,57,19,3
+md5.c,md5.c,\lib\iscsi\md5.c,\others\mbedtls\md5.c,33,293,10
+base64.c,base64.c,\lib\util\base64.c,\others\mbedtls\base64.c,180,199,32

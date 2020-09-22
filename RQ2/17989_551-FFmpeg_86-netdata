@@ -1,0 +1,14 @@
+551-FFmpeg,86-netdata
+url.c,url.c,\libavformat\url.c,\libnetdata\url\url.c,113,226,20
+buffer.c,buffer.c,\libavutil\buffer.c,\libnetdata\buffer\buffer.c,258,280,44
+buffer.h,buffer.h,\libavutil\buffer.h,\libnetdata\buffer\buffer.h,32,64,1
+common.h,common.h,\libavutil\common.h,\daemon\common.h,288,48,1
+des.c,des.c,\libavutil\des.c,\web\api\queries\des\des.c,275,85,20
+eval.c,eval.c,\libavutil\eval.c,\libnetdata\eval\eval.c,705,887,104
+eval.h,eval.h,\libavutil\eval.h,\libnetdata\eval\eval.h,20,53,1
+log.c,log.c,\libavutil\log.c,\libnetdata\log\log.c,360,565,63
+log.h,log.h,\libavutil\log.h,\libnetdata\log\log.h,77,76,1
+url.c,url.c,\libavformat\tests\url.c,\libnetdata\url\url.c,32,226,7
+des.c,des.c,\libavutil\tests\des.c,\web\api\queries\des\des.c,107,85,12
+eval.c,eval.c,\libavutil\tests\eval.c,\libnetdata\eval\eval.c,155,887,10
+log.c,log.c,\libavutil\tests\log.c,\libnetdata\log\log.c,47,565,16

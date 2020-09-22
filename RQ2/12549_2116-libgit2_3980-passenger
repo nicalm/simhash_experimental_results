@@ -1,0 +1,10 @@
+2116-libgit2,3980-passenger
+net.h,net.h,\src\net.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\bsd\net.h,18,51,1
+tree.h,tree.h,\src\tree.h,\src\cxx_supportlib\vendor-copy\libuv\include\tree.h,35,666,2
+http_parser.h,http_parser.h,\deps\http-parser\http_parser.h,\src\cxx_supportlib\ServerKit\http_parser.h,186,192,166
+net.h,net.h,\include\git2\net.h,\src\cxx_supportlib\vendor-modified\boost\predef\os\bsd\net.h,20,51,1
+tree.h,tree.h,\include\git2\tree.h,\src\cxx_supportlib\vendor-copy\libuv\include\tree.h,90,666,1
+thread.c,thread.c,\src\win32\thread.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\thread.c,183,352,35
+stream.c,stream.c,\tests\filter\stream.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\stream.c,160,1065,25
+version.c,version.c,\tests\index\version.c,\src\cxx_supportlib\vendor-copy\libuv\src\version.c,88,17,2
+core.c,core.c,\tests\path\core.c,\src\cxx_supportlib\vendor-copy\libuv\src\unix\core.c,306,791,22

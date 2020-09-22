@@ -1,0 +1,3 @@
+1818-SignalR,7408-DeepVideoAnalytics
+dashboard.js,dashboard.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\dashboard.js,\server\dvaapp\static\dist\js\pages\dashboard.js,127,174,16
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,1251,1597,525

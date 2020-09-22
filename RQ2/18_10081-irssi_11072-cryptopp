@@ -1,0 +1,4 @@
+10081-irssi,11072-cryptopp
+channels.h,channels.h,\src\core\channels.h,\channels.h,24,104,2
+misc.h,misc.h,\src\core\misc.h,\misc.h,55,1443,1
+modes.h,modes.h,\src\irc\core\modes.h,\modes.h,45,354,2

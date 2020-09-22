@@ -1,0 +1,10 @@
+1811-otp,18692-spdk
+copy.c,copy.c,\erts\emulator\beam\copy.c,\module\event\subsystems\copy\copy.c,1821,28,7
+utils.c,utils.c,\erts\emulator\beam\utils.c,\module\bdev\ocf\utils.c,4338,82,31
+utils.c,utils.c,\erts\emulator\beam\utils.c,\test\unit\lib\ftl\common\utils.c,4338,102,14
+crc32.c,crc32.c,\erts\emulator\zlib\crc32.c,\lib\util\crc32.c,289,49,14
+crc32.h,crc32.h,\erts\emulator\zlib\crc32.h,\include\spdk\crc32.h,437,23,3
+common.h,common.h,\lib\crypto\c_src\common.h,\module\bdev\nvme\common.h,24,84,1
+math.c,math.c,\lib\crypto\c_src\math.c,\lib\util\math.c,25,26,3
+port.c,port.c,\system\doc\tutorial\port.c,\lib\scsi\port.c,16,76,3
+threads.c,threads.c,\erts\emulator\test\alloc_SUITE_data\threads.c,\lib\env_dpdk\threads.c,349,59,20

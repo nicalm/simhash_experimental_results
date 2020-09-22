@@ -1,0 +1,8 @@
+1811-otp,67701-r-source
+io.c,io.c,\erts\emulator\beam\io.c,\src\library\utils\src\io.c,6019,970,190
+register.c,register.c,\erts\emulator\beam\register.c,\src\library\grid\src\register.c,438,73,5
+utils.c,utils.c,\erts\emulator\beam\utils.c,\src\library\utils\src\utils.c,4338,68,20
+engine.c,engine.c,\lib\crypto\c_src\engine.c,\src\main\engine.c,668,2365,100
+port.c,port.c,\system\doc\tutorial\port.c,\src\library\stats\src\port.c,16,451,3
+test.c,test.c,\erts\lib_src\yielding_c_fun\lib\simple_c_gc\test.c,\src\nmath\standalone\test.c,47,24,3
+test.c,test.c,\erts\lib_src\yielding_c_fun\test\examples\sha256_erlang_nif\c_src\sha-2\test.c,\src\nmath\standalone\test.c,214,24,4

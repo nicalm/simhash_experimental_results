@@ -1,0 +1,5 @@
+8063-CMake,98-rust
+foo.cpp,foo.cpp,\Tests\QtAutogen\Complex\foo.cpp,\src\test\run-make-fulldeps\foreign-exceptions\foo.cpp,23,49,5
+test.c,test.c,\Utilities\KWIML\test\test.c,\src\test\run-make-fulldeps\c-link-to-rust-va-list-fn\test.c,27,30,2
+test.c,test.c,\Utilities\KWIML\test\test.c,\src\test\run-make-fulldeps\extern-fn-struct-passing-abi\test.c,27,196,2
+test.c,test.c,\Utilities\KWIML\test\test.c,\src\test\run-make-fulldeps\extern-fn-with-packed-struct\test.c,27,22,2

@@ -1,0 +1,7 @@
+2389-Pillow,7408-DeepVideoAnalytics
+setup.py,setup.py,\setup.py,\client\setup.py,714,15,3
+setup.py,setup.py,\setup.py,\repos\lopq\python\setup.py,714,90,6
+config.py,config.py,\winbuild\config.py,\repos\tf_ctpn_cpu\lib\fast_rcnn\config.py,173,153,1
+test.py,test.py,\winbuild\test.py,\repos\tf_ctpn_cpu\lib\fast_rcnn\test.py,34,42,0
+__init__.py,__init__.py,\src\PIL\__init__.py,\deploy\compose\__init__.py,52,161,1
+__init__.py,__init__.py,\src\PIL\__init__.py,\deploy\kube\__init__.py,52,256,0

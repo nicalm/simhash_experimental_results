@@ -1,0 +1,8 @@
+13470-tigervnc,9197-domoticz
+Mutex.h,Mutex.h,\common\os\Mutex.h,\hardware\openzwave\platform\Mutex.h,34,22,7
+Thread.h,Thread.h,\common\os\Thread.h,\hardware\openzwave\platform\Thread.h,29,26,7
+Configuration.h,Configuration.h,\common\rfb\Configuration.h,\hardware\openzwave\command_classes\Configuration.h,169,26,5
+encodings.h,encodings.h,\common\rfb\encodings.h,\cereal\external\rapidjson\encodings.h,41,513,2
+Logger.h,Logger.h,\common\rfb\Logger.h,\main\Logger.h,28,91,7
+Security.h,Security.h,\common\rfb\Security.h,\hardware\openzwave\command_classes\Security.h,50,52,5
+Security.h,Security.h,\win\rfb_win32\Security.h,\hardware\openzwave\command_classes\Security.h,71,52,6

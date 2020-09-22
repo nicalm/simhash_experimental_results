@@ -1,0 +1,6 @@
+11788-fbthrift,1916-robomongo
+utils.cpp,utils.cpp,\thrift\compiler\mustache\utils.cpp,\trash\src\robomongo\shell\scripting\utils.cpp,63,34,5
+serializer.h,serializer.h,\thrift\lib\cpp2\reflection\serializer.h,\src\third-party\qjson\sources\src\serializer.h,991,36,5
+macros.h,macros.h,\thrift\lib\rb\ext\macros.h,\src\third-party\libssh2\sources\os400\macros.h,18,120,1
+main.cpp,main.cpp,\thrift\test\loadshedding\client\main.cpp,\src\robomongo\app\main.cpp,47,79,2
+serializer.cpp,serializer.cpp,\thrift\lib\cpp2\reflection\demo\serializer.cpp,\src\third-party\qjson\sources\src\serializer.cpp,299,389,46

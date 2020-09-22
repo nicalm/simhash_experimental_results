@@ -1,0 +1,5 @@
+2283-capnproto,682-curl
+hash.h,hash.h,\c++\src\kj\hash.h,\lib\hash.h,95,57,1
+test.h,test.h,\c++\src\kj\test.h,\tests\libtest\test.h,107,311,5
+http.h,http.h,\c++\src\kj\compat\http.h,\lib\http.h,398,158,4
+url.h,url.h,\c++\src\kj\compat\url.h,\lib\url.h,44,42,0

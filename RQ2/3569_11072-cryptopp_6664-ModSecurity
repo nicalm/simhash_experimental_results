@@ -1,0 +1,7 @@
+11072-cryptopp,6664-ModSecurity
+base64.h,base64.h,\base64.h,\others\mbedtls\base64.h,46,17,2
+base64.h,base64.h,\base64.h,\src\utils\base64.h,46,19,5
+files.h,files.h,\files.h,\src\variables\files.h,89,15,2
+md5.h,md5.h,\md5.h,\others\mbedtls\md5.h,25,43,7
+md5.h,md5.h,\md5.h,\src\utils\md5.h,25,18,4
+md5.h,md5.h,\md5.h,\src\actions\transformations\md5.h,25,21,5

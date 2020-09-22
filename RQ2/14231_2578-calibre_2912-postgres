@@ -1,0 +1,8 @@
+2578-calibre,2912-postgres
+launcher.c,launcher.c,\bypy\linux\launcher.c,\src\backend\replication\logical\launcher.c,33,714,3
+util.c,util.c,\bypy\linux\util.c,\src\bin\pg_upgrade\util.c,196,163,18
+launcher.c,launcher.c,\bypy\macos\launcher.c,\src\backend\replication\logical\launcher.c,32,714,3
+placeholder.c,placeholder.c,\bypy\macos\placeholder.c,\src\backend\optimizer\util\placeholder.c,31,222,4
+util.c,util.c,\bypy\macos\util.c,\src\bin\pg_upgrade\util.c,169,163,18
+main.c,main.c,\bypy\windows\main.c,\src\backend\main\main.c,107,203,20
+util.c,util.c,\bypy\windows\util.c,\src\bin\pg_upgrade\util.c,328,163,23

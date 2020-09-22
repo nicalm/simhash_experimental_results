@@ -1,0 +1,7 @@
+13324-librenms,5372-twisted
+service.py,service.py,\LibreNMS\service.py,\src\twisted\application\service.py,365,159,6
+service.py,service.py,\LibreNMS\service.py,\src\twisted\words\service.py,365,797,21
+service.py,service.py,\LibreNMS\service.py,\src\twisted\conch\ssh\service.py,365,21,1
+__init__.py,__init__.py,\LibreNMS\__init__.py,\src\twisted\logger\__init__.py,252,45,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\src\twisted\python\__init__.py,252,15,0
+__init__.py,__init__.py,\LibreNMS\__init__.py,\src\twisted\_threads\__init__.py,252,15,0

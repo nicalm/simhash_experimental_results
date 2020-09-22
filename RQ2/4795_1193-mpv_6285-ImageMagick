@@ -1,0 +1,13 @@
+1193-mpv,6285-ImageMagick
+cache.c,cache.c,\demux\cache.c,\MagickCore\cache.c,213,3512,30
+json.c,json.c,\misc\json.c,\coders\json.c,268,1500,49
+semaphore.h,semaphore.h,\osdep\semaphore.h,\MagickCore\semaphore.h,40,18,2
+timer.c,timer.c,\osdep\timer.c,\MagickCore\timer.c,110,216,25
+timer.h,timer.h,\osdep\timer.h,\MagickCore\timer.h,15,46,1
+client.c,client.c,\player\client.c,\MagickCore\client.c,1716,39,12
+screenshot.c,screenshot.c,\player\screenshot.c,\coders\screenshot.c,451,182,26
+stream.c,stream.c,\stream\stream.c,\MagickCore\stream.c,655,2062,130
+stream.c,stream.c,\stream\stream.c,\MagickWand\stream.c,655,635,99
+stream.h,stream.h,\stream\stream.h,\MagickCore\stream.h,161,26,2
+json.c,json.c,\test\json.c,\coders\json.c,83,1500,5
+semaphore.h,semaphore.h,\osdep\win32\include\semaphore.h,\MagickCore\semaphore.h,22,18,1

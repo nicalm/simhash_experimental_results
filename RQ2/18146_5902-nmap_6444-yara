@@ -1,0 +1,12 @@
+5902-nmap,6444-yara
+utils.h,utils.h,\utils.h,\libyara\include\yara\utils.h,45,87,8
+grammar.c,grammar.c,\libpcap\grammar.c,\libyara\grammar.c,2887,3301,1225
+grammar.h,grammar.h,\libpcap\grammar.h,\libyara\grammar.h,278,139,20
+scanner.c,scanner.c,\libpcap\scanner.c,\libyara\scanner.c,4300,471,115
+scanner.h,scanner.h,\libpcap\scanner.h,\libyara\include\yara\scanner.h,216,57,1
+util.c,util.c,\ncat\util.c,\tests\util.c,502,285,71
+util.h,util.h,\ncat\util.h,\tests\util.h,72,199,3
+utils.h,utils.h,\nping\utils.h,\libyara\include\yara\utils.h,26,87,3
+crypto.h,crypto.h,\libssh2\src\crypto.h,\libyara\crypto.h,179,89,2
+error.h,error.h,\nsock\src\error.h,\libyara\include\yara\error.h,27,97,5
+blob.h,blob.h,\libdnet-stripped\include\dnet\blob.h,\tests\blob.h,33,2709,0

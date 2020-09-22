@@ -1,0 +1,6 @@
+3024-SASM,6883-Sigil
+main.cpp,main.cpp,\main.cpp,\src\main.cpp,90,466,13
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,79,362,11
+__init__.py,__init__.py,\Windows\MinGW64\opt\lib\python2.7\encodings\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,79,187,10
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,63,362,7
+__init__.py,__init__.py,\Windows\MinGW64\share\gdb\python\gdb\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,63,187,9

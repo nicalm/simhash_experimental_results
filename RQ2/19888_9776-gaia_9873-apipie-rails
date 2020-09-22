@@ -1,0 +1,9 @@
+9776-gaia,9873-apipie-rails
+bootstrap.js,bootstrap.js,\apps\system\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,22,1073,3
+bootstrap.js,bootstrap.js,\shared\js\sync\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,107,1073,8
+bootstrap.js,bootstrap.js,\tools\extensions\browser-helper@gaiamobile.org\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,210,1073,22
+bootstrap.js,bootstrap.js,\tools\extensions\desktop-helper\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,63,1073,11
+bootstrap.js,bootstrap.js,\tools\extensions\gaia-build@gaiamobile.org\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,55,1073,7
+bootstrap.js,bootstrap.js,\tools\extensions\httpd\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,420,1073,38
+bootstrap.js,bootstrap.js,\tv_apps\smart-system\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,126,1073,14
+bootstrap.js,bootstrap.js,\disabled_apps\communications\contacts\js\bootstrap.js,\app\public\apipie\javascripts\bundled\bootstrap.js,46,1073,3

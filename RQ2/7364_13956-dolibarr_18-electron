@@ -1,0 +1,17 @@
+13956-dolibarr,18-electron
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\static\main.js,75,223,12
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\snapshot-items-available\main.js,75,22,3
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\cookie-app\main.js,75,42,3
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\default-menu\main.js,75,27,4
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\exit-closes-all-windows-app\main.js,75,15,2
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\mixed-sandbox-app\main.js,75,67,11
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\relaunch\main.js,75,19,1
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\site-instance-overrides\main.js,75,28,3
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\api\window-all-closed\main.js,75,16,1
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec\fixtures\extensions\chrome-api\main.js,75,24,3
+main.js,main.js,\htdocs\includes\jsgantt\main.js,\spec-main\fixtures\api\net-log\main.js,75,24,4
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\npm\index.js,40,15,3
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\spec-main\index.js,40,75,8
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\script\release\notes\index.js,40,149,9
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\spec\fixtures\auto-update\check\index.js,40,17,2
+index.js,index.js,\htdocs\theme\common\octicons\index.js,\spec\fixtures\auto-update\update\index.js,40,33,3

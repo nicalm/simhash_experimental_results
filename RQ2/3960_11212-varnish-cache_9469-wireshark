@@ -1,0 +1,4 @@
+11212-varnish-cache,9469-wireshark
+adler32.c,adler32.c,\lib\libvgz\adler32.c,\wsutil\adler32.c,156,23,7
+crc32.c,crc32.c,\lib\libvgz\crc32.c,\wsutil\crc32.c,289,366,25
+crc32.h,crc32.h,\lib\libvgz\crc32.h,\wsutil\crc32.h,437,32,2

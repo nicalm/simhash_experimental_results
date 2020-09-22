@@ -1,0 +1,4 @@
+305-symfony,4266-webkit
+exception.js,exception.js,\src\Symfony\Component\ErrorHandler\Resources\assets\js\exception.js,\LayoutTests\inspector\debugger\resources\exception.js,228,50,13
+index.php,index.php,\src\Symfony\Contracts\HttpClient\Test\Fixtures\web\index.php,\Websites\webkit.org\perf\slickspeed\system\index.php,149,90,6
+index.php,index.php,\src\Symfony\Contracts\HttpClient\Test\Fixtures\web\index.php,\Websites\webkit.org\wp-content\themes\webkit\index.php,149,27,2

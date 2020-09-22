@@ -1,0 +1,4 @@
+6347-librealsense,790-libuv
+getopt.c,getopt.c,\third-party\glfw\deps\getopt.c,\samples\socks5-proxy\getopt.c,109,78,14
+internal.h,internal.h,\third-party\glfw\src\internal.h,\src\unix\internal.h,570,209,15
+internal.h,internal.h,\third-party\glfw\src\internal.h,\src\win\internal.h,570,166,3

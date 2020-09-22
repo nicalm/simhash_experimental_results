@@ -1,0 +1,5 @@
+4420-zcash,4679-ArduinoJson
+misc.cpp,misc.cpp,\src\rpc\misc.cpp,\extras\tests\JsonDeserializer\misc.cpp,981,100,25
+misc.cpp,misc.cpp,\src\rpc\misc.cpp,\extras\tests\JsonSerializer\misc.cpp,981,36,4
+misc.cpp,misc.cpp,\src\rpc\misc.cpp,\extras\tests\JsonVariant\misc.cpp,981,38,6
+misc.cpp,misc.cpp,\src\rpc\misc.cpp,\extras\tests\MsgPackSerializer\misc.cpp,981,36,4

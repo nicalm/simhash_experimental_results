@@ -1,0 +1,5 @@
+2909-mongoose,9975-hexchat
+server.c,server.c,\examples\connected_device_1\server.c,\src\common\server.c,31,1542,8
+server.c,server.c,\examples\connected_device_2\server.c,\src\common\server.c,62,1542,17
+server.c,server.c,\examples\connected_device_3\server.c,\src\common\server.c,70,1542,18
+server.c,server.c,\examples\connected_device_4\server.c,\src\common\server.c,85,1542,22

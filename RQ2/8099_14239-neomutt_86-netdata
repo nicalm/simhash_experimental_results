@@ -1,0 +1,14 @@
+14239-neomutt,86-netdata
+commands.c,commands.c,\commands.c,\daemon\commands.c,1013,482,96
+commands.h,commands.h,\commands.h,\daemon\commands.h,33,45,1
+main.c,main.c,\main.c,\daemon\main.c,1056,995,153
+query.c,query.c,\query.c,\web\api\queries\query.c,526,1115,76
+socket.c,socket.c,\conn\socket.c,\libnetdata\socket\socket.c,163,1305,40
+socket.h,socket.h,\conn\socket.h,\libnetdata\socket\socket.h,26,156,2
+url.c,url.c,\email\url.c,\libnetdata\url\url.c,268,226,55
+buffer.c,buffer.c,\mutt\buffer.c,\libnetdata\buffer\buffer.c,215,280,43
+buffer.h,buffer.h,\mutt\buffer.h,\libnetdata\buffer\buffer.h,33,64,1
+main.c,main.c,\test\main.c,\daemon\main.c,389,995,1
+common.h,common.h,\test\address\common.h,\daemon\common.h,17,48,1
+common.h,common.h,\test\config\common.h,\daemon\common.h,20,48,1
+common.h,common.h,\test\rfc2047\common.h,\daemon\common.h,15,48,1

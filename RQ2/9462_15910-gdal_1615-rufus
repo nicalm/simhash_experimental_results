@@ -1,0 +1,8 @@
+15910-gdal,1615-rufus
+link.c,link.c,\gdal\frmts\ceos2\link.c,\src\ext2fs\link.c,31,138,7
+crc32.c,crc32.c,\gdal\frmts\zlib\crc32.c,\src\bled\crc32.c,287,82,20
+file.c,file.c,\gdal\frmts\pcraster\libcsf\file.c,\src\ms-sys\file.c,22,158,4
+registry.h,registry.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\registry.h,\src\registry.h,71,187,12
+util.h,util.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\util.h,\src\libcdio\cdio\util.h,411,79,12
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\src\ext2fs\config.h,54,182,22
+config.h,config.h,\gdal\ogr\ogrsf_frmts\geojson\libjson\config.h,\src\libcdio\config.h,54,53,16

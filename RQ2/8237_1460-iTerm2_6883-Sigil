@@ -1,0 +1,4 @@
+1460-iTerm2,6883-Sigil
+preferences.py,preferences.py,\api\library\python\iterm2\iterm2\preferences.py,\src\Resource_Files\plugin_launchers\python\preferences.py,101,63,1
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,52,362,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,52,187,0

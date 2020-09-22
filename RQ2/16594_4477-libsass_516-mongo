@@ -1,0 +1,12 @@
+4477-libsass,516-mongo
+emitter.cpp,emitter.cpp,\src\emitter.cpp,\src\third_party\yaml-cpp-0.6.2\src\emitter.cpp,233,741,41
+environment.cpp,environment.cpp,\src\environment.cpp,\src\mongo\util\options_parser\environment.cpp,194,260,34
+file.cpp,file.cpp,\src\file.cpp,\src\mongo\util\file.cpp,380,233,47
+json.cpp,json.cpp,\src\json.cpp,\src\mongo\bson\json.cpp,1069,1284,179
+json.cpp,json.cpp,\src\json.cpp,\src\third_party\variant-1.3.0\test\json.cpp,1069,34,4
+parser.cpp,parser.cpp,\src\parser.cpp,\src\third_party\yaml-cpp-0.6.2\src\parser.cpp,2318,99,28
+util.cpp,util.cpp,\src\util.cpp,\src\mongo\db\ftdc\util.cpp,522,350,68
+util.cpp,util.cpp,\src\util.cpp,\src\third_party\icu4c-57.1\source\common\util.cpp,522,204,48
+base.h,base.h,\include\sass\base.h,\src\mongo\scripting\mozjs\base.h,63,52,2
+allocator.cpp,allocator.cpp,\src\memory\allocator.cpp,\src\mongo\util\allocator.cpp,30,19,5
+core.h,core.h,\src\utf8\core.h,\src\third_party\fmt\dist\include\fmt\core.h,226,1052,38

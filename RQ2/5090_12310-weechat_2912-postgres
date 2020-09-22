@@ -1,0 +1,9 @@
+12310-weechat,2912-postgres
+exec.c,exec.c,\src\plugins\exec\exec.c,\src\common\exec.c,590,532,131
+exec.c,exec.c,\src\plugins\exec\exec.c,\src\bin\pg_upgrade\exec.c,590,253,39
+spell.c,spell.c,\src\plugins\spell\spell.c,\src\backend\tsearch\spell.c,863,1868,205
+spell.h,spell.h,\src\plugins\spell\spell.h,\src\include\tsearch\dicts\spell.h,25,133,2
+trigger.c,trigger.c,\src\plugins\trigger\trigger.c,\src\backend\commands\trigger.c,1007,3912,278
+trigger.h,trigger.h,\src\plugins\trigger\trigger.h,\src\include\commands\trigger.h,130,168,3
+main.c,main.c,\src\gui\curses\headless\main.c,\src\backend\main\main.c,64,203,18
+main.c,main.c,\src\gui\curses\normal\main.c,\src\backend\main\main.c,16,203,5

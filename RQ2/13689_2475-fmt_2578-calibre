@@ -1,0 +1,5 @@
+2475-fmt,2578-calibre
+build.py,build.py,\doc\build.py,\manual\build.py,79,106,2
+build.py,build.py,\doc\build.py,\setup\build.py,79,408,6
+conf.py,conf.py,\doc\conf.py,\manual\conf.py,37,113,8
+main.cpp,main.cpp,\test\fuzzing\main.cpp,\src\calibre\headless\main.cpp,20,18,1

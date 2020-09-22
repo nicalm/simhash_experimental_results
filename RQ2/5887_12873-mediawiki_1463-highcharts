@@ -1,0 +1,10 @@
+12873-mediawiki,1463-highcharts
+index.js,index.js,\resources\src\mediawiki.api\index.js,\studies\highcharts-jsdom\index.js,237,93,18
+index.js,index.js,\resources\src\mediawiki.api\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,237,40,10
+options.js,options.js,\resources\src\mediawiki.api\options.js,\js\modules\accessibility\options\options.js,77,61,7
+upload.js,upload.js,\resources\src\mediawiki.api\upload.js,\tools\upload.js,336,124,15
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\studies\highcharts-jsdom\index.js,51,93,9
+index.js,index.js,\resources\src\mediawiki.cookie\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,51,40,5
+upload.js,upload.js,\resources\src\mediawiki.special.upload\upload.js,\tools\upload.js,408,124,21
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\studies\highcharts-jsdom\index.js,15,93,2
+index.js,index.js,\tests\selenium\wdio-mediawiki\index.js,\tools\eslint-plugin-highcharts\node_modules\requireindex\index.js,15,40,3

@@ -1,0 +1,4 @@
+5868-libvips,6974-openapi-generator
+binary.c,binary.c,\libvips\arithmetic\binary.c,\samples\client\petstore\c\src\binary.c,52,55,5
+object.c,object.c,\libvips\iofuncs\object.c,\samples\client\petstore\c\model\object.c,2001,24,7
+object.h,object.h,\libvips\include\vips\object.h,\samples\client\petstore\c\model\object.h,365,15,1

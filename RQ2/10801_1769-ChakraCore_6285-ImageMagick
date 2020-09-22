@@ -1,0 +1,11 @@
+1769-ChakraCore,6285-ImageMagick
+Thread.h,Thread.h,\lib\Common\PlatformAgnostic\Thread.h,\Magick++\lib\Magick++\Thread.h,20,30,5
+Exception.cpp,Exception.cpp,\lib\Runtime\Base\Exception.cpp,\Magick++\lib\Exception.cpp,48,820,22
+color.h,color.h,\lib\wabt\src\color.h,\MagickCore\color.h,41,61,2
+feature.h,feature.h,\lib\wabt\src\feature.h,\MagickCore\feature.h,28,36,2
+stream.h,stream.h,\lib\wabt\src\stream.h,\MagickCore\stream.h,150,26,2
+token.h,token.h,\lib\wabt\src\token.h,\MagickCore\token.h,91,23,2
+list.h,list.h,\pal\src\include\pal\list.h,\MagickCore\list.h,55,41,4
+module.h,module.h,\pal\src\include\pal\module.h,\MagickCore\module.h,37,50,6
+Thread.cpp,Thread.cpp,\lib\Runtime\PlatformAgnostic\Platform\Common\Thread.cpp,\Magick++\lib\Thread.cpp,29,82,6
+Thread.cpp,Thread.cpp,\lib\Runtime\PlatformAgnostic\Platform\Windows\Thread.cpp,\Magick++\lib\Thread.cpp,38,82,10

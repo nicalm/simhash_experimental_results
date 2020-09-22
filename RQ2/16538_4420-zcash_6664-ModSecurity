@@ -1,0 +1,14 @@
+4420-zcash,6664-ModSecurity
+chain.h,chain.h,\src\chain.h,\src\actions\chain.h,367,20,5
+sha1.h,sha1.h,\src\crypto\sha1.h,\others\mbedtls\sha1.h,18,43,3
+sha1.h,sha1.h,\src\crypto\sha1.h,\src\utils\sha1.h,18,16,3
+sha1.h,sha1.h,\src\crypto\sha1.h,\src\actions\transformations\sha1.h,18,21,3
+block.h,block.h,\src\primitives\block.h,\src\actions\block.h,147,21,5
+transaction.h,transaction.h,\src\primitives\transaction.h,\headers\modsecurity\transaction.h,561,399,14
+block.cc,block.cc,\src\leveldb\table\block.cc,\src\actions\block.cc,207,24,6
+block.h,block.h,\src\leveldb\table\block.h,\src\actions\block.h,26,21,4
+env.cc,env.cc,\src\leveldb\util\env.cc,\src\variables\env.cc,78,39,8
+status.cc,status.cc,\src\leveldb\util\status.cc,\src\actions\data\status.cc,66,25,6
+env.h,env.h,\src\leveldb\include\leveldb\env.h,\src\variables\env.h,160,21,7
+status.h,status.h,\src\leveldb\include\leveldb\status.h,\src\variables\status.h,59,15,4
+status.h,status.h,\src\leveldb\include\leveldb\status.h,\src\actions\data\status.h,59,26,7

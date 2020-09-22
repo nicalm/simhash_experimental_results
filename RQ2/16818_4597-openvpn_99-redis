@@ -1,0 +1,7 @@
+4597-openvpn,99-redis
+multi.c,multi.c,\src\openvpn\multi.c,\src\multi.c,2592,227,36
+win32.h,win32.h,\src\openvpn\win32.h,\deps\hiredis\win32.h,172,32,7
+log.c,log.c,\sample\sample-plugins\log\log.c,\deps\jemalloc\src\log.c,130,57,11
+log.c,log.c,\sample\sample-plugins\log\log.c,\deps\jemalloc\test\unit\log.c,130,150,16
+test.c,test.c,\tests\unit_tests\example_test\test.c,\deps\hiredis\test.c,40,687,12
+test.c,test.c,\tests\unit_tests\example_test\test.c,\deps\jemalloc\test\src\test.c,40,168,9

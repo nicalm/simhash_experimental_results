@@ -1,0 +1,15 @@
+1087-radare2,2283-capnproto
+list.h,list.h,\shlr\grub\include\grub\list.h,\c++\src\capnp\list.h,84,398,6
+memory.h,memory.h,\shlr\grub\include\grub\memory.h,\c++\src\kj\memory.h,24,346,1
+parser.h,parser.h,\shlr\grub\include\grub\parser.h,\c++\src\capnp\compiler\parser.h,69,69,4
+test.h,test.h,\shlr\grub\include\grub\test.h,\c++\src\kj\test.h,47,107,7
+time.h,time.h,\shlr\grub\include\grub\time.h,\c++\src\kj\time.h,23,36,1
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\c++\src\benchmark\common.h,480,229,1
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\c++\src\capnp\common.h,480,508,1
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\c++\src\kj\common.h,480,1054,1
+common.h,common.h,\libr\asm\arch\include\elf\common.h,\c++\src\kj\parse\common.h,480,564,1
+table.h,table.h,\libr\asm\arch\tms320\c55x\table.h,\c++\src\kj\table.h,3548,1113,0
+arena.h,arena.h,\shlr\heap\include\r_jemalloc\internal\arena.h,\c++\src\capnp\arena.h,975,271,43
+arena.h,arena.h,\shlr\heap\include\r_jemalloc\internal\arena.h,\c++\src\kj\arena.h,975,123,22
+hash.h,hash.h,\shlr\heap\include\r_jemalloc\internal\hash.h,\c++\src\kj\hash.h,253,95,16
+mutex.h,mutex.h,\shlr\heap\include\r_jemalloc\internal\mutex.h,\c++\src\kj\mutex.h,122,333,26

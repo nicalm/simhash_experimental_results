@@ -1,0 +1,15 @@
+6773-server,8874-collectd
+client.c,client.c,\sql-common\client.c,\src\libcollectdclient\client.c,3148,785,161
+crc32.c,crc32.c,\zlib\crc32.c,\src\utils\crc32\crc32.c,289,63,1
+common.h,common.h,\extra\mariabackup\common.h,\src\utils\common\common.h,136,131,8
+bind.c,bind.c,\extra\readline\bind.c,\src\bind.c,1716,1098,206
+plugin.h,plugin.h,\include\mysql\plugin.h,\src\daemon\plugin.h,395,248,17
+common.h,common.h,\plugin\win_auth_client\common.h,\src\utils\common\common.h,175,131,13
+load.c,load.c,\storage\mroonga\vendor\groonga\lib\load.c,\src\load.c,1128,132,15
+plugin.c,plugin.c,\storage\mroonga\vendor\groonga\lib\plugin.c,\src\daemon\plugin.c,1183,2059,274
+table.c,table.c,\storage\mroonga\vendor\groonga\lib\table.c,\src\table.c,90,365,16
+plugin.h,plugin.h,\storage\mroonga\vendor\groonga\include\groonga\plugin.h,\src\daemon\plugin.h,137,248,5
+crc32.c,crc32.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\debug\crc32.c,\src\utils\crc32\crc32.c,18,63,1
+mysql.c,mysql.c,\storage\mroonga\vendor\groonga\vendor\plugins\groonga-normalizer-mysql\normalizers\mysql.c,\src\mysql.c,698,728,67
+common.c,common.c,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.c,\src\utils\common\common.c,232,1217,59
+common.h,common.h,\storage\tokudb\PerconaFT\third_party\xz-4.999.9beta\src\liblzma\common\common.h,\src\utils\common\common.h,117,131,13

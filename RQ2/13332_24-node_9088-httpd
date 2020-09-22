@@ -1,0 +1,15 @@
+24-node,9088-httpd
+ebcdic.c,ebcdic.c,\deps\openssl\openssl\crypto\ebcdic.c,\os\bs2000\ebcdic.c,232,127,96
+main.c,main.c,\deps\uv\samples\socks5-proxy\main.c,\server\main.c,64,643,13
+util.c,util.c,\deps\uv\samples\socks5-proxy\util.c,\server\util.c,43,2737,7
+util.c,util.c,\deps\uv\samples\socks5-proxy\util.c,\test\unit\util.c,43,44,5
+util.c,util.c,\deps\uv\samples\socks5-proxy\util.c,\modules\dav\main\util.c,43,1250,6
+core.c,core.c,\deps\uv\src\unix\core.c,\server\core.c,1094,4522,190
+core.c,core.c,\deps\uv\src\win\core.c,\server\core.c,412,4522,68
+handle.c,handle.c,\deps\uv\src\win\handle.c,\modules\apreq\handle.c,104,316,12
+util.c,util.c,\deps\uv\src\win\util.c,\server\util.c,1289,2737,204
+util.c,util.c,\deps\uv\src\win\util.c,\test\unit\util.c,1289,44,4
+util.c,util.c,\deps\uv\src\win\util.c,\modules\dav\main\util.c,1289,1250,173
+macros.h,macros.h,\deps\v8\src\base\macros.h,\docs\log-message-tags\macros.h,236,29,0
+regexp.h,regexp.h,\deps\v8\src\regexp\regexp.h,\modules\filters\regexp.h,91,72,2
+main.c,main.c,\deps\openssl\openssl\test\testutil\main.c,\server\main.c,78,643,18

@@ -1,0 +1,10 @@
+1769-ChakraCore,9529-ltp
+Constants.h,Constants.h,\lib\Runtime\Base\Constants.h,\thirdparty\eigen\Eigen\src\Core\util\Constants.h,127,202,11
+debug.cpp,debug.cpp,\pal\src\debug\debug.cpp,\src\srl\include\base\debug.cpp,1303,18,4
+build.py,build.py,\test\WasmSpec\testsuite\build.py,\tools\build-document\build.py,177,29,4
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\src\srl\include\base\config.h,247,58,6
+config.h,config.h,\lib\wabt\chakra\windows\config.h,\thirdparty\jsoncpp\include\json\config.h,247,123,26
+debug.h,debug.h,\pal\src\include\pal\debug.h,\src\parser\debug.h,18,57,2
+debug.h,debug.h,\pal\src\include\pal\debug.h,\src\srl\include\base\debug.h,18,75,2
+init.h,init.h,\pal\src\include\pal\init.h,\thirdparty\dynet\dynet\init.h,25,24,2
+process.h,process.h,\pal\src\include\pal\process.h,\src\srl\include\base\process.h,27,17,2

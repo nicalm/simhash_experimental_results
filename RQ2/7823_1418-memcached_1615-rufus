@@ -1,0 +1,5 @@
+1418-memcached,1615-rufus
+cache.c,cache.c,\cache.c,\src\syslinux\libfat\cache.c,132,37,8
+crc32c.c,crc32c.c,\crc32c.c,\src\ext2fs\crc32c.c,277,865,40
+util.c,util.c,\util.c,\src\libcdio\driver\util.c,193,124,19
+util.h,util.h,\util.h,\src\libcdio\cdio\util.h,20,79,3

@@ -1,0 +1,6 @@
+10314-ovs,754-folly
+setup.py,setup.py,\python\setup.py,\folly\python\setup.py,71,25,1
+Event.h,Event.h,\datapath-windows\ovsext\Event.h,\folly\portability\Event.h,44,17,1
+Util.h,Util.h,\datapath-windows\ovsext\Util.h,\folly\container\detail\Util.h,114,162,6
+Util.h,Util.h,\datapath-windows\ovsext\Util.h,\folly\io\async\test\Util.h,114,28,2
+json.h,json.h,\include\openvswitch\json.h,\folly\json.h,95,76,6

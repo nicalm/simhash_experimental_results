@@ -1,0 +1,4 @@
+5271-CouchPotatoServer,548-ruby
+navigation.js,navigation.js,\couchpotato\static\scripts\block\navigation.js,\lib\rdoc\generator\template\json_index\js\navigation.js,20,76,2
+search.js,search.js,\couchpotato\core\media\movie\_base\static\search.js,\lib\rdoc\generator\template\darkfish\js\search.js,194,92,12
+search.js,search.js,\couchpotato\core\media\_base\search\static\search.js,\lib\rdoc\generator\template\darkfish\js\search.js,162,92,17

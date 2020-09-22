@@ -1,0 +1,5 @@
+1916-robomongo,6285-ImageMagick
+log.c,log.c,\src\robomongo\ssh\log.c,\MagickCore\log.c,88,1233,13
+channel.c,channel.c,\src\third-party\libssh2\sources\src\channel.c,\MagickCore\channel.c,1732,993,164
+channel.h,channel.h,\src\third-party\libssh2\sources\src\channel.h,\MagickCore\channel.h,33,18,1
+mac.c,mac.c,\src\third-party\libssh2\sources\src\mac.c,\coders\mac.c,281,182,24

@@ -1,0 +1,3 @@
+15760-bfgminer,6444-yara
+util.c,util.c,\util.c,\tests\util.c,3540,285,78
+util.h,util.h,\util.h,\tests\util.h,687,199,4

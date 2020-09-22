@@ -1,0 +1,5 @@
+11093-mongoose-os,5868-libvips
+init.c,init.c,\tools\docker\esp8266\cs_lwip\src\core\init.c,\libvips\iofuncs\init.c,288,636,34
+raw.c,raw.c,\tools\docker\esp8266\cs_lwip\src\core\raw.c,\libvips\deprecated\raw.c,156,27,5
+stats.c,stats.c,\tools\docker\esp8266\cs_lwip\src\core\stats.c,\libvips\arithmetic\stats.c,111,311,13
+debug.h,debug.h,\tools\docker\esp8266\cs_lwip\src\include\lwip\debug.h,\libvips\include\vips\debug.h,48,37,6

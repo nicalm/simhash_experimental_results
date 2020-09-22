@@ -1,0 +1,4 @@
+1916-robomongo,8848-lwjgl3
+Logger.cpp,Logger.cpp,\src\robomongo\core\utils\Logger.cpp,\modules\lwjgl\driftfx\src\main\c\lib\utils\src\Logger.cpp,47,87,12
+Logger.h,Logger.h,\src\robomongo\core\utils\Logger.h,\modules\lwjgl\driftfx\src\main\c\lib\utils\include\utils\Logger.h,28,27,1
+Platform.h,Platform.h,\src\third-party\qscintilla\sources\include\Platform.h,\modules\lwjgl\llvm\src\main\c\clang-c\Platform.h,393,27,12

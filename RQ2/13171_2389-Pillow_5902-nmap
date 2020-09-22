@@ -1,0 +1,4 @@
+2389-Pillow,5902-nmap
+setup.py,setup.py,\setup.py,\ndiff\setup.py,714,159,20
+setup.py,setup.py,\setup.py,\zenmap\setup.py,714,333,24
+Image.py,Image.py,\src\PIL\Image.py,\zenmap\radialnet\gui\Image.py,1639,50,5

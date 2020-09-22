@@ -1,0 +1,7 @@
+1529-harbor,2389-Pillow
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\src\PIL\__init__.py,17,52,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\src\PIL\__init__.py,42,52,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\src\PIL\__init__.py,53,52,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\src\PIL\__init__.py,44,52,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\src\PIL\__init__.py,60,52,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\src\PIL\__init__.py,17,52,0

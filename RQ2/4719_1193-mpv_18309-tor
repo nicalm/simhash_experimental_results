@@ -1,0 +1,6 @@
+1193-mpv,18309-tor
+dispatch.h,dispatch.h,\misc\dispatch.h,\src\lib\dispatch\dispatch.h,25,31,1
+path.c,path.c,\options\path.c,\src\lib\fs\path.c,302,213,52
+path.h,path.h,\options\path.h,\src\lib\fs\path.h,29,15,1
+command.c,command.c,\player\command.c,\src\core\or\command.c,5269,479,98
+main.c,main.c,\player\main.c,\src\app\main\main.c,377,1029,64

@@ -1,0 +1,5 @@
+18692-spdk,4984-jerryscript
+log.c,log.c,\lib\log\log.c,\jerry-libm\log.c,153,117,23
+common.c,common.c,\module\bdev\nvme\common.c,\jerry-core\parser\js\common.c,117,76,28
+common.h,common.h,\module\bdev\nvme\common.h,\jerry-core\parser\js\common.h,84,78,1
+common.c,common.c,\test\unit\lib\iscsi\common.c,\jerry-core\parser\js\common.c,161,76,25

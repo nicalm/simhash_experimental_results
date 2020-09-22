@@ -1,0 +1,4 @@
+11788-fbthrift,4597-openvpn
+common.h,common.h,\thrift\compiler\common.h,\src\openvpn\common.h,39,33,1
+ssl.h,ssl.h,\thrift\lib\py3\ssl.h,\src\openvpn\ssl.h,77,185,8
+service.h,service.h,\thrift\compiler\test\fixtures\includes\gen-cocoa\service.h,\src\openvpnserv\service.h,32,57,0

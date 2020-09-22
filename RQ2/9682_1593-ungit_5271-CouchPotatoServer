@@ -1,0 +1,7 @@
+1593-ungit,5271-CouchPotatoServer
+Gruntfile.js,Gruntfile.js,\Gruntfile.js,\Gruntfile.js,404,211,71
+header.js,header.js,\components\header\header.js,\couchpotato\static\scripts\block\header.js,36,42,3
+home.js,home.js,\components\home\home.js,\couchpotato\static\scripts\page\home.js,55,147,9
+login.js,login.js,\components\login\login.js,\couchpotato\static\scripts\page\login.js,38,26,2
+navigation.js,navigation.js,\public\source\navigation.js,\couchpotato\static\scripts\block\navigation.js,18,20,1
+scrollspy.js,scrollspy.js,\public\vendor\js\bootstrap\scrollspy.js,\couchpotato\static\scripts\library\scrollspy.js,99,51,4

@@ -1,0 +1,15 @@
+1729-fine-uploader,1769-ChakraCore
+promise.js,promise.js,\client\js\promise.js,\test\TTBasic\promise.js,70,21,2
+util.js,util.js,\client\js\util.js,\test\typedarray\util.js,624,153,29
+util.js,util.js,\client\js\util.js,\test\benchmarks\ARES-6\Air\util.js,624,126,26
+basic.js,basic.js,\test\unit\basic.js,\test\wasm\basic.js,97,19,3
+basic.js,basic.js,\test\unit\basic.js,\test\benchmarks\ARES-6\Basic\basic.js,97,26,8
+promise.js,promise.js,\test\unit\promise.js,\test\TTBasic\promise.js,50,21,0
+util.js,util.js,\test\unit\util.js,\test\typedarray\util.js,648,153,7
+util.js,util.js,\test\unit\util.js,\test\benchmarks\ARES-6\Air\util.js,648,126,8
+util.js,util.js,\client\js\azure\util.js,\test\typedarray\util.js,74,153,13
+util.js,util.js,\client\js\azure\util.js,\test\benchmarks\ARES-6\Air\util.js,74,126,15
+util.js,util.js,\client\js\s3\util.js,\test\typedarray\util.js,349,153,26
+util.js,util.js,\client\js\s3\util.js,\test\benchmarks\ARES-6\Air\util.js,349,126,20
+util.js,util.js,\test\unit\s3\util.js,\test\typedarray\util.js,145,153,5
+util.js,util.js,\test\unit\s3\util.js,\test\benchmarks\ARES-6\Air\util.js,145,126,5

@@ -1,0 +1,5 @@
+461-vim,6883-Sigil
+tag.c,tag.c,\src\tag.c,\internal\gumbo\tag.c,3207,71,16
+Resource.h,Resource.h,\src\VisVim\Resource.h,\src\ResourceObjects\Resource.h,23,79,1
+parser.c,parser.c,\src\libvterm\src\parser.c,\internal\gumbo\parser.c,294,3936,84
+utf8.h,utf8.h,\src\libvterm\src\utf8.h,\internal\gumbo\utf8.h,34,41,3

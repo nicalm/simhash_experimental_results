@@ -1,0 +1,3 @@
+3405-libevent,6883-Sigil
+log.c,log.c,\log.c,\3rdparty\hunspell\intl\log.c,172,82,29
+util.h,util.h,\include\event2\util.h,\internal\gumbo\util.h,462,48,10

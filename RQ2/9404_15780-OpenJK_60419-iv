@@ -1,0 +1,4 @@
+15780-OpenJK,60419-iv
+memory.h,memory.h,\code\qcommon\safe\memory.h,\iv\detail\memory.h,82,16,5
+memory.h,memory.h,\codeJK2\qcommon\safe\memory.h,\iv\detail\memory.h,82,16,5
+string.h,string.h,\shared\qcommon\safe\string.h,\iv\lv5\runtime\string.h,45,41,0

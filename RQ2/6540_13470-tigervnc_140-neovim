@@ -1,0 +1,4 @@
+13470-tigervnc,140-neovim
+gettext.h,gettext.h,\vncviewer\gettext.h,\src\nvim\gettext.h,217,23,8
+types.h,types.h,\common\rdr\types.h,\src\nvim\types.h,48,15,1
+keymap.h,keymap.h,\win\rfb_win32\keymap.h,\src\nvim\keymap.h,98,307,1

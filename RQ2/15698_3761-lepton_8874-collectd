@@ -1,0 +1,4 @@
+3761-lepton,8874-collectd
+crc32.c,crc32.c,\dependencies\zlib\crc32.c,\src\utils\crc32\crc32.c,285,63,1
+memory.c,memory.c,\dependencies\brotli\c\enc\memory.c,\src\memory.c,147,314,27
+types.h,types.h,\dependencies\brotli\c\include\brotli\types.h,\src\libcollectdclient\collectd\types.h,31,48,2

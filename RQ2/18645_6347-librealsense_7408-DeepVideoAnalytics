@@ -1,0 +1,9 @@
+6347-librealsense,7408-DeepVideoAnalytics
+setup.py,setup.py,\wrappers\python\setup.py,\client\setup.py,64,15,3
+setup.py,setup.py,\wrappers\python\setup.py,\repos\lopq\python\setup.py,64,90,11
+setup.py,setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,\client\setup.py,21,15,0
+setup.py,setup.py,\wrappers\python\examples\ethernet_client_server\setup.py,\repos\lopq\python\setup.py,21,90,0
+setup.py,setup.py,\wrappers\python\third_party\pybind11\setup.py,\client\setup.py,73,15,2
+setup.py,setup.py,\wrappers\python\third_party\pybind11\setup.py,\repos\lopq\python\setup.py,73,90,8
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\server\dvaapp\static\app\app.js,480,180,32
+app.js,app.js,\wrappers\nodejs\examples\realsense_viewer\public\app.js,\server\dvaapp\static\dist\js\app.js,480,470,88

@@ -1,0 +1,3 @@
+1463-highcharts,5271-CouchPotatoServer
+navigation.js,navigation.js,\js\mixins\navigation.js,\couchpotato\static\scripts\block\navigation.js,25,20,3
+log.js,log.js,\tools\gulptasks\lib\log.js,\couchpotato\core\plugins\log\static\log.js,64,255,14

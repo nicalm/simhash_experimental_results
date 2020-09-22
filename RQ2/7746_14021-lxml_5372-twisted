@@ -1,0 +1,8 @@
+14021-lxml,5372-twisted
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\twisted\logger\__init__.py,1099,45,2
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\twisted\python\__init__.py,1099,15,0
+__init__.py,__init__.py,\src\lxml\html\__init__.py,\src\twisted\_threads\__init__.py,1099,15,2
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\twisted\logger\__init__.py,154,45,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\twisted\python\__init__.py,154,15,0
+__init__.py,__init__.py,\src\lxml\isoschematron\__init__.py,\src\twisted\_threads\__init__.py,154,15,0
+test_io.py,test_io.py,\src\lxml\tests\test_io.py,\src\twisted\logger\test\test_io.py,294,134,5

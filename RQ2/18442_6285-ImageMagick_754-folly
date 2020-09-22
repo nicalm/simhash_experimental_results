@@ -1,0 +1,4 @@
+6285-ImageMagick,754-folly
+transform.h,transform.h,\MagickCore\transform.h,\folly\experimental\pushmi\o\transform.h,25,79,1
+Exception.h,Exception.h,\Magick++\lib\Magick++\Exception.h,\folly\Exception.h,327,79,1
+Exception.h,Exception.h,\Magick++\lib\Magick++\Exception.h,\folly\lang\Exception.h,327,98,3

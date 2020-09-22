@@ -1,0 +1,4 @@
+18490-libpcap,242-php-src
+getopt.c,getopt.c,\missing\getopt.c,\main\getopt.c,85,150,14
+strlcat.c,strlcat.c,\missing\strlcat.c,\main\strlcat.c,29,33,17
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\main\strlcpy.c,25,29,11

@@ -1,0 +1,8 @@
+5372-twisted,6883-Sigil
+__init__.py,__init__.py,\src\twisted\logger\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,45,362,1
+__init__.py,__init__.py,\src\twisted\logger\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,45,187,3
+__init__.py,__init__.py,\src\twisted\python\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,15,362,0
+__init__.py,__init__.py,\src\twisted\python\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,15,187,0
+__init__.py,__init__.py,\src\twisted\_threads\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,15,362,0
+__init__.py,__init__.py,\src\twisted\_threads\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,15,187,2
+wrapper.py,wrapper.py,\src\twisted\web\_auth\wrapper.py,\src\Resource_Files\plugin_launchers\python\wrapper.py,95,796,2

@@ -1,0 +1,5 @@
+6883-Sigil,8678-GitHawk
+parser.h,parser.h,\internal\gumbo\parser.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\parser.h,19,37,7
+utf8.c,utf8.c,\internal\gumbo\utf8.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\utf8.c,164,268,31
+utf8.h,utf8.h,\internal\gumbo\utf8.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\utf8.h,41,25,7
+config.h,config.h,\3rdparty\hunspell\src\win_api\config.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\config.h,68,53,0

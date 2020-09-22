@@ -1,0 +1,6 @@
+4420-zcash,4597-openvpn
+compat.h,compat.h,\src\compat.h,\src\compat\compat.h,86,33,14
+init.h,init.h,\src\init.h,\src\openvpn\init.h,23,68,1
+common.h,common.h,\src\crypto\common.h,\src\openvpn\common.h,94,33,3
+options.h,options.h,\src\leveldb\include\leveldb\options.h,\src\openvpn\options.h,48,606,5
+status.h,status.h,\src\leveldb\include\leveldb\status.h,\src\openvpn\status.h,59,59,7

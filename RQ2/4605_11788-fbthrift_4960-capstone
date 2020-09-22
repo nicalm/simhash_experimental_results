@@ -1,0 +1,6 @@
+11788-fbthrift,4960-capstone
+utils.h,utils.h,\thrift\compiler\mustache\utils.h,\utils.h,19,39,0
+setup.py,setup.py,\thrift\lib\py\setup.py,\bindings\python\setup.py,54,173,4
+setup.py,setup.py,\thrift\lib\py3\setup.py,\bindings\python\setup.py,29,173,2
+__init__.py,__init__.py,\thrift\lib\py3\__init__.py,\bindings\python\capstone\__init__.py,44,801,12
+__init__.py,__init__.py,\thrift\lib\py\util\__init__.py,\bindings\python\capstone\__init__.py,108,801,7

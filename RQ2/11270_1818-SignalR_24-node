@@ -1,0 +1,16 @@
+1818-SignalR,24-node
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\deps\npm\node_modules\debug\karma.conf.js,96,23,13
+karma.conf.js,karma.conf.js,\test\Microsoft.AspNet.SignalR.Client.JS.Tests\karma.conf.js,\deps\npm\node_modules\psl\karma.conf.js,96,25,8
+json2.js,json2.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\json2.js,\deps\v8\test\mjsunit\json2.js,175,127,5
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\benchmark\common.js,65,273,7
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\tools\doc\common.js,65,30,3
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\deps\npm\node_modules\glob\common.js,65,190,4
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\deps\npm\node_modules\node-fetch-npm\src\common.js,65,48,3
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\deps\npm\node_modules\util-promisify\test\common.js,65,43,4
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\deps\v8\test\js-perf-test\Collections\common.js,65,35,3
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\tools\node_modules\eslint\node_modules\glob\common.js,65,190,4
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\tools\node_modules\babel-eslint\node_modules\debug\src\common.js,65,149,5
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\tools\node_modules\eslint\node_modules\debug\src\common.js,65,149,5
+common.js,common.js,\samples\Microsoft.AspNet.SignalR.Samples\Hubs\Test\common.js,\tools\node_modules\eslint\node_modules\js-yaml\lib\js-yaml\common.js,65,39,3
+example.js,example.js,\tools\docu\templates\js\example.js,\deps\npm\node_modules\duplexify\example.js,20,18,1
+example.js,example.js,\tools\docu\templates\js\example.js,\deps\npm\node_modules\flush-write-stream\example.js,20,15,1

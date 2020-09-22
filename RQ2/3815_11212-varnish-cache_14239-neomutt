@@ -1,0 +1,5 @@
+11212-varnish-cache,14239-neomutt
+version.c,version.c,\lib\libvarnish\version.c,\version.c,45,397,8
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\mutt\base64.c,269,116,19
+url.c,url.c,\lib\libvmod_blob\url.c,\email\url.c,137,268,32
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\mutt\hash.c,75,290,13

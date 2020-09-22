@@ -1,0 +1,11 @@
+1460-iTerm2,24-node
+main.c,main.c,\SignedArchive\resign\main.c,\deps\uv\samples\socks5-proxy\main.c,60,64,9
+main.c,main.c,\SignedArchive\resign\main.c,\deps\openssl\openssl\test\testutil\main.c,60,78,13
+conf.py,conf.py,\api\library\python\iterm2\docs\conf.py,\deps\uv\docs\src\conf.py,39,59,14
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\test\testpy\__init__.py,52,107,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\inspector_protocol\jinja2\__init__.py,52,38,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\inspector_protocol\markupsafe\__init__.py,52,125,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\deps\v8\third_party\jinja2\__init__.py,52,38,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\deps\v8\third_party\markupsafe\__init__.py,52,125,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\tools\gyp\pylib\gyp\__init__.py,52,369,0
+__init__.py,__init__.py,\api\library\python\iterm2\iterm2\__init__.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\__init__.py,52,369,0

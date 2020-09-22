@@ -1,0 +1,13 @@
+1529-harbor,6883-Sigil
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,17,362,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_10_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,17,187,0
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,42,362,2
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_5_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,42,187,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,53,362,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_6_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,53,187,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,44,362,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_7_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,44,187,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,60,362,5
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_8_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,60,187,5
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\__init__.py,17,362,1
+__init__.py,__init__.py,\tools\migration\cfg\migrator_1_9_0\__init__.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\__init__.py,17,187,0

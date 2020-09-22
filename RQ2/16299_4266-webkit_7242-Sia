@@ -1,0 +1,13 @@
+4266-webkit,7242-Sia
+conn.go,conn.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\conn.go,\modules\gateway\conn.go,1554,25,11
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\gateway\consts.go,205,141,4
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\host\consts.go,205,98,7
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\renter\consts.go,205,92,6
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\transactionpool\consts.go,205,38,5
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\wallet\consts.go,205,29,8
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\host\contractmanager\consts.go,205,60,6
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\renter\contractor\consts.go,205,35,3
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\renter\hostdb\consts.go,205,43,4
+consts.go,consts.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\ssl\test\runner\sike\consts.go,\modules\renter\proto\consts.go,205,31,5
+block.go,block.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\util\fipstools\acvp\acvptool\subprocess\block.go,\types\block.go,214,103,23
+hash.go,hash.go,\Source\ThirdParty\libwebrtc\Source\third_party\boringssl\src\util\fipstools\acvp\acvptool\subprocess\hash.go,\crypto\hash.go,94,73,19

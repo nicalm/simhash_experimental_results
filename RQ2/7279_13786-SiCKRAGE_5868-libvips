@@ -1,0 +1,4 @@
+13786-SiCKRAGE,5868-libvips
+helpers.py,helpers.py,\sickrage\indexers\helpers.py,\test\test-suite\helpers\helpers.py,42,170,1
+helpers.py,helpers.py,\sickrage\libs\trakt\helpers.py,\test\test-suite\helpers\helpers.py,23,170,0
+helpers.py,helpers.py,\sickrage\libs\trakt\core\helpers.py,\test\test-suite\helpers\helpers.py,88,170,0

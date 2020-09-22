@@ -1,0 +1,6 @@
+18309-tor,4287-cockpit
+test-process.c,test-process.c,\src\test\test-process.c,\src\bridge\test-process.c,58,107,7
+main.c,main.c,\src\app\main\main.c,\src\tls\main.c,1029,89,20
+main.c,main.c,\src\app\main\main.c,\src\ws\main.c,1029,242,47
+connection.c,connection.c,\src\core\mainloop\connection.c,\src\tls\connection.c,3921,624,177
+connection.h,connection.h,\src\core\mainloop\connection.h,\src\tls\connection.h,229,15,0

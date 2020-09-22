@@ -1,0 +1,9 @@
+18962-tcpdump,2912-postgres
+ip.h,ip.h,\ip.h,\src\include\common\ip.h,83,18,1
+print.c,print.c,\print.c,\src\fe_utils\print.c,418,2588,56
+print.c,print.c,\print.c,\src\backend\nodes\print.c,418,393,39
+getopt_long.c,getopt_long.c,\missing\getopt_long.c,\src\port\getopt_long.c,408,136,53
+getopt_long.h,getopt_long.h,\missing\getopt_long.h,\src\include\getopt_long.h,18,21,9
+snprintf.c,snprintf.c,\missing\snprintf.c,\src\port\snprintf.c,403,1102,81
+strlcat.c,strlcat.c,\missing\strlcat.c,\src\port\strlcat.c,29,26,20
+strlcpy.c,strlcpy.c,\missing\strlcpy.c,\src\port\strlcpy.c,26,24,15

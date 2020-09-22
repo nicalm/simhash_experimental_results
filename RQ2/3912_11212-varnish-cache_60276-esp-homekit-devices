@@ -1,0 +1,11 @@
+11212-varnish-cache,60276-esp-homekit-devices
+base64.c,base64.c,\lib\libvmod_blob\base64.c,\external_libs\homekit\src\base64.c,269,71,9
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\tests\hash.c,75,839,13
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\tests\hash.c,75,839,13
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\hash.c,75,500,13
+hash.c,hash.c,\lib\libvmod_directors\hash.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\hash.c,75,500,13
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\misc.c,15,190,3
+misc.c,misc.c,\lib\libvmod_directors\misc.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\misc.c,15,190,3
+random.c,random.c,\lib\libvmod_directors\random.c,\external_libs\wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\random.c,103,1254,20
+random.c,random.c,\lib\libvmod_directors\random.c,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wolfcrypt\src\random.c,103,1254,20
+storage.h,storage.h,\bin\varnishd\storage\storage.h,\external_libs\homekit\src\storage.h,77,20,0

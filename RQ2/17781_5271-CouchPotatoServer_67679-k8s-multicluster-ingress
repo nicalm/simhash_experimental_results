@@ -1,0 +1,12 @@
+5271-CouchPotatoServer,67679-k8s-multicluster-ingress
+client.py,client.py,\libs\deluge_client\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,207,21,1
+common.py,common.py,\libs\oauthlib\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,77,21,1
+client.py,client.py,\libs\qbittorrent\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,248,21,1
+common.py,common.py,\libs\rsa\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,61,21,0
+common.py,common.py,\libs\rtorrent\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,62,21,0
+client.py,client.py,\libs\suds\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,384,21,1
+client.py,client.py,\libs\synchronousdeluge\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,101,21,0
+client.py,client.py,\libs\xmpp\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,223,21,1
+common.py,common.py,\libs\tornado\platform\common.py,\vendor\k8s.io\kubernetes\cluster\juju\layers\kubernetes-master\lib\charms\kubernetes\common.py,52,21,1
+client.py,client.py,\couchpotato\core\notifications\plex\client.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\frontend\client.py,64,21,1
+server.py,server.py,\couchpotato\core\notifications\plex\server.py,\vendor\k8s.io\kubernetes\examples\cluster-dns\images\backend\server.py,110,15,1

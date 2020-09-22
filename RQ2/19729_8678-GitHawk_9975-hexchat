@@ -1,0 +1,3 @@
+8678-GitHawk,9975-hexchat
+plugin.c,plugin.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plugin.c,\src\common\plugin.c,27,1633,8
+plugin.h,plugin.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\plugin.h,\src\common\plugin.h,20,163,4

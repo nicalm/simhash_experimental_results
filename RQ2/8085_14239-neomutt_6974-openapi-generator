@@ -1,0 +1,3 @@
+14239-neomutt,6974-openapi-generator
+list.c,list.c,\mutt\list.c,\samples\client\petstore\c\src\list.c,136,132,25
+list.h,list.h,\mutt\list.h,\samples\client\petstore\c\include\list.h,22,28,2
