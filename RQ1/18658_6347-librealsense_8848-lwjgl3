@@ -1,7 +1,0 @@
-6347-librealsense,8848-lwjgl3
-stb_image_write.h,stb_image_write.h,\third-party\stb_image_write.h,\modules\lwjgl\stb\src\main\c\stb_image_write.h,f1b103e8aa610030f4c19feb73ea5757,b1c66d99987b960cb5e10c3251566acd,-2138830299282094509,-2138830299282094509,0,N,1158,1158,1157
-tinyfiledialogs.c,tinyfiledialogs.c,\third-party\tinyfiledialogs\tinyfiledialogs.c,\modules\lwjgl\tinyfd\src\main\c\tinyfiledialogs.c,16c8db1c2ff16a3761ced0b6b8fe7c86,fdb03d3766b9683d21b275047360c279,-6896108406042417649,-6896108406042417649,0,N,6524,6550,6493
-tinyfiledialogs.h,tinyfiledialogs.h,\third-party\tinyfiledialogs\tinyfiledialogs.h,\modules\lwjgl\tinyfd\src\main\c\tinyfiledialogs.h,41dbe43d25ca65fe4de50fb181804034,41dbe43d25ca65fe4de50fb181804034,-3138739368408419330,-3138739368408419330,0,Y,100,100,100
-nuklear.h,nuklear.h,\third-party\glfw\deps\nuklear.h,\modules\lwjgl\nuklear\src\main\c\nuklear.h,2b767810fdc8e7ed085dd1c1f744cd00,9079be39542fb9307280d1f7ee1eaaf5,-6517331708968333717,-6517340502913872277,2,N,18863,19012,18821
-vk_platform.h,vk_platform.h,\third-party\glfw\deps\vulkan\vk_platform.h,\modules\lwjgl\vulkan\src\main\c\vulkan\vk_platform.h,f061160ca4c993daa77653751c43471c,f061160ca4c993daa77653751c43471c,1527870380088832672,1527870380088832672,0,Y,40,40,40
-vulkan.h,vulkan.h,\third-party\glfw\deps\vulkan\vulkan.h,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,368be8e566768753806bdc8cc0052fc3,a7ae20d678df3f06a86ce72d995f40ae,2739987980011481329,7361103410200623353,8,N,38,49,38

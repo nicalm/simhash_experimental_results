@@ -1,3 +1,0 @@
-10093-VeraCrypt,1529-harbor
-pkcs11.h,pkcs11.h,\src\PKCS11\pkcs11.h,\src\vendor\github.com\miekg\pkcs11\pkcs11.h,10c601037ea268d688e92e0abeccf5a5,10c601037ea268d688e92e0abeccf5a5,3932732388131253099,3932732388131253099,0,Y,31,31,31
-pkcs11f.h,pkcs11f.h,\src\PKCS11\pkcs11f.h,\src\vendor\github.com\miekg\pkcs11\pkcs11f.h,d03805f457c4bfacff5bdb7c78c42172,d03805f457c4bfacff5bdb7c78c42172,7878708519431572493,7878708519431572493,0,Y,576,576,576

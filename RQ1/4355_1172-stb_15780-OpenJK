@@ -1,4 +1,0 @@
-1172-stb,15780-OpenJK
-glext.h,glext.h,\tests\caveview\glext.h,\code\rd-vanilla\glext.h,0aa24209e6e9c1ceb2e18188dfcd425b,6924e5d0acffc40d54fccbeba366664f,5177951675534629146,5761167827279108250,5,N,10581,11182,10569
-glext.h,glext.h,\tests\caveview\glext.h,\codemp\rd-vanilla\glext.h,0aa24209e6e9c1ceb2e18188dfcd425b,6924e5d0acffc40d54fccbeba366664f,5177951675534629146,5761167827279108250,5,N,10581,11182,10569
-glext.h,SDL_opengl_glext.h,\tests\caveview\glext.h,\lib\SDL2\include\SDL_opengl_glext.h,0aa24209e6e9c1ceb2e18188dfcd425b,ecad68bb11abab47a1123737b9ffc004,5177951675534629146,5033845283551795226,3,N,10581,10626,10580

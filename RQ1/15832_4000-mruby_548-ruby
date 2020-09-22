@@ -1,3 +1,0 @@
-4000-mruby,548-ruby
-bm_app_lc_fizzbuzz.rb,app_lc_fizzbuzz.rb,\benchmark\bm_app_lc_fizzbuzz.rb,\benchmark\app_lc_fizzbuzz.rb,17b96a17c3569e9e0089dab7317ce4ef,9cf10707703296dcda3fbaadcfd7d571,2782846238450804064,2782283288497382752,1,N,30,31,30
-bm_so_lists.rb,so_lists.rb,\benchmark\bm_so_lists.rb,\benchmark\so_lists.rb,d43ab7edacb34103f3028bd164bcfea9,2443163dbebff3ea63f2ef7a0b95ac0a,6075432871285801067,6084440068912104035,7,N,30,30,27

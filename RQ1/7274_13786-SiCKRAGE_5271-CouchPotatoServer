@@ -1,7 +1,0 @@
-13786-SiCKRAGE,5271-CouchPotatoServer
-file.py,file.py,\sickrage\libs\rtorrentlib\file.py,\libs\rtorrent\file.py,e91320d381f8db8705828b2e45e72c78,9c7c53dafabe2a2bcf558223662116a3,2618158328585618185,2618158946591146760,7,N,49,49,45
-peer.py,peer.py,\sickrage\libs\rtorrentlib\peer.py,\libs\rtorrent\peer.py,1975d50ca72cc2f46774bc79f1155b0d,448cc91356c1ddf16b803463bb0903f8,2611121453574130441,35097651090361160,7,N,57,58,52
-tracker.py,tracker.py,\sickrage\libs\rtorrentlib\tracker.py,\libs\rtorrent\tracker.py,1a77c9d2b4bcd65bdef099d54486cc8e,a36b469d5168209ec80cc0962b97b27d,2073609813560719667,2073609813627892019,4,N,92,92,88
-bencode.py,bencode.py,\sickrage\libs\rtorrentlib\lib\bencode.py,\libs\rtorrent\lib\bencode.py,22f884b9c26d5d3bb1febb17b4ab85ab,8677ddb5b369f7576d3a551ec08fb9ee,-1973198202775781753,-1829083010134429805,8,N,125,134,122
-torrentparser.py,torrentparser.py,\sickrage\libs\rtorrentlib\lib\torrentparser.py,\libs\rtorrent\lib\torrentparser.py,684b2928aefc76e758361b89fe7667da,ac89991782b41d67d98d9fe1724ff91c,3147840286545856080,3147840288156731216,4,N,90,94,89
-__init__.py,__init__.py,\sickrage\libs\rtorrentlib\rpc\__init__.py,\libs\rtorrent\rpc\__init__.py,f32dba096d39924c57733185ad23bd9b,419a61c27b89c274f6ec1217571f71a5,-3088256891408393482,6135115146529037302,5,N,180,182,161

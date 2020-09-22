@@ -1,4 +1,0 @@
-242-php-src,702-swoole-src
-multicast.c,multicast.cc,\ext\sockets\multicast.c,\thirdparty\php\sockets\multicast.cc,1e0bb4e3e5419ad61a63042b93a541d2,49330444bd45a142527fa4ef78ca6bd6,-6565865103234747947,-6597267155331632171,8,N,728,702,633
-php_streams_int.h,php_streams_int.h,\main\streams\php_streams_int.h,\thirdparty\php\streams\php_streams_int.h,384e96a2c542f62d0a518c5a1a038edc,8112780cfcdc100622ffd65ec119b163,-6916080580679168028,-6330612629120282650,6,N,35,32,32
-php_http_parser.c,swoole_http_parser.c,\sapi\cli\php_http_parser.c,\thirdparty\swoole_http_parser.c,1cb8682c3e456c12782ef52aaf04c34e,d155f3ba8a7cdb53f79f34af305581eb,-2369816066044798135,-2658046440049026231,2,N,1221,1234,1204

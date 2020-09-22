@@ -1,4 +1,0 @@
-242-php-src,9197-domoticz
-php_inttypes.h,inttypes.h,\win32\php_inttypes.h,\cereal\external\rapidjson\msinttypes\inttypes.h,be0f547c340828cc9d80ebec760a38cd,0a24e1a2a5929adff7e6f037eb86c815,4469601381392754170,4469601450112230906,1,N,221,221,220
-brg_endian.h,brg_endian.h,\ext\hash\sha3\generic32lc\brg_endian.h,\hardware\openzwave\aes\brg_endian.h,f10a4384cd6d835493d5cfa1f6e4e528,1d90d71a7c054adc84c2b91e47b5e714,7666365361902475888,7670868961546623088,3,N,95,87,85
-brg_endian.h,brg_endian.h,\ext\hash\sha3\generic64lc\brg_endian.h,\hardware\openzwave\aes\brg_endian.h,f10a4384cd6d835493d5cfa1f6e4e528,1d90d71a7c054adc84c2b91e47b5e714,7666365361902475888,7670868961546623088,3,N,95,87,85

@@ -1,5 +1,0 @@
-7408-DeepVideoAnalytics,8399-appscale
-bootstrap.js,bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,\AppDashboard\static\js\bootstrap\bootstrap.js,e1ae63cac9b9e031a6ad0f52eafa3578,e1ae63cac9b9e031a6ad0f52eafa3578,-7615616572204099985,-7615616572204099985,0,Y,1597,1597,1597
-jquery.flot.js,jquery.flot.js,\server\dvaapp\static\plugins\flot\jquery.flot.js,\AppDashboard\static\js\jquery.flot.js,8760a0d28cdbc81e22a14ac82e605542,25fe0ff9c41bfa44634b35b373c657f3,1661519519385196700,1661517316067039388,4,N,2213,2148,2095
-jquery.flot.pie.js,jquery.flot.pie.js,\server\dvaapp\static\plugins\flot\jquery.flot.pie.js,\AppDashboard\static\js\jquery.flot.pie.js,808682bd6f347758dacd78fe47af5d65,c37c191543a09d95a46d733e96c61601,-777034029020195879,-777035128531823655,1,N,524,523,522
-jquery.flot.time.js,jquery.flot.time.js,\server\dvaapp\static\plugins\flot\jquery.flot.time.js,\AppDashboard\static\js\jquery.flot.time.js,89c2e84aafa971be3af5cffee358c43e,90e6e1b8ffc80f37b2e7589083a3e629,-7425823717669830900,-7425823717669830900,0,N,307,307,305

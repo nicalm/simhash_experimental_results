@@ -1,3 +1,0 @@
-4266-webkit,9197-domoticz
-autolink.h,autolink.h,\Source\ThirdParty\libwebrtc\Source\third_party\jsoncpp\source\include\json\autolink.h,\json\autolink.h,bc6545e9c221ee0487c3901abc9cb12c,bc6545e9c221ee0487c3901abc9cb12c,-1720772682181551734,-1720772682181551734,0,Y,16,16,16
-json_reader.cpp,json_reader.cpp,\Source\ThirdParty\libwebrtc\Source\third_party\jsoncpp\source\src\lib_json\json_reader.cpp,\json\json_reader.cpp,fa38f794c8ae11ada424674810773c1f,d6f8951ecd27c4129576f8f55fb919a9,-89631526495791024,-2390969837237381040,6,N,1768,1815,1518

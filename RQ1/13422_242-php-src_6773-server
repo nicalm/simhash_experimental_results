@@ -1,7 +1,0 @@
-242-php-src,6773-server
-pcre2_ucp.h,ucp.h,\ext\pcre\pcre2lib\pcre2_ucp.h,\pcre\ucp.h,ca96bc153845000339c5676d1954b6ce,455fb1e6750645bcf6cede0c32d4d67e,-8131718147807547651,-8131674098656514324,6,N,212,186,182
-pcre2_xclass.c,pcre_xclass.c,\ext\pcre\pcre2lib\pcre2_xclass.c,\pcre\pcre_xclass.c,ae5ca2ec3b16781dad79a0dc26200b6e,5cd296455e37cc3b808da351c1060a59,9219308467432516276,9183279705847036656,6,N,150,149,138
-sjis_mac2uni.h,ctype-cp932.c,\ext\mbstring\libmbfl\filters\sjis_mac2uni.h,\strings\ctype-cp932.c,ad4b4db9a7860e332994316d47913eb5,72ee4b6fb1713f8eeb90f31f465affda,9122763495937978232,9122763495937978232,0,N,326,34699,83
-sjis_mac2uni.h,ctype-eucjpms.c,\ext\mbstring\libmbfl\filters\sjis_mac2uni.h,\strings\ctype-eucjpms.c,ad4b4db9a7860e332994316d47913eb5,6a5bd835a768c60b68f7880c31317075,9122763495937978232,9122763495937978232,0,N,326,67557,83
-sjis_mac2uni.h,ctype-sjis.c,\ext\mbstring\libmbfl\filters\sjis_mac2uni.h,\strings\ctype-sjis.c,ad4b4db9a7860e332994316d47913eb5,5d3f5c248ca029ac9bc1baa8174dbe37,9122763495937978232,9122763495937978232,0,N,326,34096,83
-sjis_mac2uni.h,ctype-ujis.c,\ext\mbstring\libmbfl\filters\sjis_mac2uni.h,\strings\ctype-ujis.c,ad4b4db9a7860e332994316d47913eb5,4d2ffca38e43d0b7f5794ef6fd8e30aa,9122763495937978232,9122763495937978232,0,N,326,67268,83

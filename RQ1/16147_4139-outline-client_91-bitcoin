@@ -1,3 +1,0 @@
-4139-outline-client,91-bitcoin
-shorthash_siphash24_ref.c,siphash.cpp,\third_party\sodium\src\libsodium\crypto_shorthash\siphash24\ref\shorthash_siphash24_ref.c,\src\crypto\siphash.cpp,53648f4f9e8f271501f866d5f8ed73e2,ad8b6a66250f09bc4c95ff88dc915a15,-5577344158967835536,-6720695518728579472,8,N,61,146,12
-shorthash_siphashx24_ref.c,siphash.cpp,\third_party\sodium\src\libsodium\crypto_shorthash\siphash24\ref\shorthash_siphashx24_ref.c,\src\crypto\siphash.cpp,10d04f127bdb13b2626e211fbe9a4c94,ad8b6a66250f09bc4c95ff88dc915a15,-6729702717983320464,-6720695518728579472,1,N,68,146,16

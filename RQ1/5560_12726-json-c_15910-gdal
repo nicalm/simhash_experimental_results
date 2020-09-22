@@ -1,4 +1,0 @@
-12726-json-c,15910-gdal
-debug.c,debug.c,\debug.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\debug.c,2f71e4061005e726707c3c33c044e837,6c9cbe1a3a917377c10188b36eb94ff5,-6719396870555135550,-9027491130363571774,4,N,61,74,61
-json_object_iterator.c,json_object_iterator.c,\json_object_iterator.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\json_object_iterator.c,586cfc7da37bf22ec57e0dfc1cc61dc6,7ba34cbc953cc035098fb032eb43137d,8851140286616089718,8850868157756667518,7,N,60,61,56
-json_tokener.c,json_tokener.c,\json_tokener.c,\gdal\ogr\ogrsf_frmts\geojson\libjson\json_tokener.c,6f3c20a9c80864c403200bdacddbe188,95b7ff34f9be93abe03652dc68a365ec,3302067852525826245,3302067852525826245,0,N,816,816,806

@@ -1,7 +1,0 @@
-5271-CouchPotatoServer,86-netdata
-six.py,six.py,\libs\six.py,\collectors\python.d.plugin\python_modules\urllib3\packages\six.py,9a672d6af627964283b12950a1b3b3ab,9a672d6af627964283b12950a1b3b3ab,-8684779456813250916,-8684779456813250916,0,Y,612,612,612
-fields.py,fields.py,\libs\requests\packages\urllib3\fields.py,\collectors\python.d.plugin\python_modules\urllib3\fields.py,f9b07b60b0d5f75e0aa8af024f31a475,4c389ce5b4db995466e4880634a1eabc,5058914420499187389,447228402071504573,3,N,77,78,74
-filepost.py,filepost.py,\libs\requests\packages\urllib3\filepost.py,\collectors\python.d.plugin\python_modules\urllib3\filepost.py,988c482b7b9fdcaa8ae00016c7129723,fb3246e861a263557a2ee7342b84e388,-8017318461586165160,-8017318461586165160,0,N,41,42,41
-response.py,response.py,\libs\requests\packages\urllib3\response.py,\collectors\python.d.plugin\python_modules\urllib3\response.py,f649535592f8fdb93034149cb2845477,7eda1dd7966ee918149e48f49ecb75fd,8749075497116911547,8208925016507434939,6,N,270,348,252
-ordered_dict.py,ordered_dict.py,\libs\requests\packages\urllib3\packages\ordered_dict.py,\collectors\python.d.plugin\python_modules\urllib3\packages\ordered_dict.py,165265148eb0438730807933491e4029,165265148eb0438730807933491e4029,2859796259424879796,2859796259424879796,0,Y,178,178,178
-url.py,url.py,\libs\requests\packages\urllib3\util\url.py,\collectors\python.d.plugin\python_modules\urllib3\util\url.py,8f8cb0a09fe5c5ae80351364fec886de,6cce8de62d94477a6f873941e5363988,8208897787446459993,9073573658030276187,7,N,101,110,100

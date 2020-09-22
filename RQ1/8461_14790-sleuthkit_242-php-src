@@ -1,4 +1,0 @@
-14790-sleuthkit,242-php-src
-apptype.c,apptype.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\apptype.c,\ext\fileinfo\libmagic\apptype.c,055b46abfff83ef17bfa27798f0c19c6,e9eade0519186ef6e73f3fcc41ca6359,3070260728255748552,2926075171435780552,3,N,118,119,117
-cdf.h,cdf.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\cdf.h,\ext\fileinfo\libmagic\cdf.h,b6faaf6ebc82ebd0674ff400b54e4d1d,24e051534f22e9fe4eca65519e94b8ec,1328961301406247714,1900918179339692838,7,N,259,288,250
-tar.h,tar.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\tar.h,\ext\fileinfo\libmagic\tar.h,d2ea7051f5cac3c2fd4daa7ef61e94ce,d2ea7051f5cac3c2fd4daa7ef61e94ce,-4844885415878841955,-4844885415878841955,0,Y,25,25,25

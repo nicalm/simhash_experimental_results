@@ -1,8 +1,0 @@
-1087-radare2,506-ghidra
-ansidecl.h,ansidecl.h,\libr\asm\arch\include\ansidecl.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,acec67e7e8989b94453afd4bf94ed388,4e4a2dda74fbf81b9297e96b5756c8ac,-6940790901875638486,-6940799699043320022,4,N,183,213,180
-safe-ctype.h,safe-ctype.h,\libr\asm\arch\include\safe-ctype.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\safe-ctype.h,554b38190e813d013aa0fa60fa1bc716,554b38190e813d013aa0fa60fa1bc716,-1670606157317466114,-1670606157317466114,0,Y,88,88,88
-ansidecl.h,ansidecl.h,\libr\bin\mangling\cxx\ansidecl.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,2ca78b0f8e0b1ea0f63e5c666ee6e41a,4e4a2dda74fbf81b9297e96b5756c8ac,-6940799697968431318,-6940799699043320022,4,N,202,213,201
-cp-demangle.c,cp-demangle.c,\libr\bin\mangling\cxx\cp-demangle.c,\GPL\DemanglerGnu\src\demangler_gnu\c\cp-demangle.c,26b96a4743556997a717860410125474,5b9637f206fecc16bb1cc3c32195fa10,-7864814466039025204,-7864946579283381796,7,N,4977,4359,4207
-cp-demangle.h,cp-demangle.h,\libr\bin\mangling\cxx\cp-demangle.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\cp-demangle.h,48a09346c30aa2f7c461a71f462ded3e,3d245cf7b229285c8bed153ef6755efd,-8102803226305282966,-8093761118630073234,7,N,95,71,69
-libiberty.h,libiberty.h,\libr\bin\mangling\cxx\libiberty.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\libiberty.h,77f59484fb2f222363b2be58e9106c49,7f4b925d254aa287e1e2867d2ae90602,-7956122132584085704,-7953852603145529544,5,N,212,202,198
-safe-ctype.c,safe-ctype.c,\libr\asm\arch\hexagon\gnu\safe-ctype.c,\GPL\DemanglerGnu\src\demangler_gnu\c\safe-ctype.c,ad22a5aac0cee5c2e663356b92e00cff,ad22a5aac0cee5c2e663356b92e00cff,4085018112146397489,4085018112146397489,0,Y,110,110,110

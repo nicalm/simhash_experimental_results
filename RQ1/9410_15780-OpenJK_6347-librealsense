@@ -1,3 +1,0 @@
-15780-OpenJK,6347-librealsense
-SDL_opengles2_khrplatform.h,khrplatform.h,\lib\SDL2\include\SDL_opengles2_khrplatform.h,\third-party\glad\KHR\khrplatform.h,f9d94eb8c343c81806ebf5395d8a9663,f8cec5b37d55940c39489b0d5d4d53b2,-1379790317313894107,-1380353267267315419,1,N,99,101,99
-SDL_opengles2_khrplatform.h,khrplatform.h,\lib\SDL2\include\SDL_opengles2_khrplatform.h,\third-party\glfw\deps\KHR\khrplatform.h,f9d94eb8c343c81806ebf5395d8a9663,f9d94eb8c343c81806ebf5395d8a9663,-1379790317313894107,-1379790317313894107,0,Y,99,99,99

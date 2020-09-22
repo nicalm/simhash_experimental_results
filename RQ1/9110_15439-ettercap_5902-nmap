@@ -1,3 +1,0 @@
-15439-ettercap,5902-nmap
-memcmp.c,memcmp.c,\src\missing\memcmp.c,\libdnet-stripped\src\memcmp.c,6dd664efdb4ddca2ef5a16f5705013c8,6dd664efdb4ddca2ef5a16f5705013c8,-7849641624624079704,-7849641624624079704,0,Y,18,18,18
-strlcat.c,strlcat.c,\src\missing\strlcat.c,\libdnet-stripped\src\strlcat.c,c611d0e69943e2427fd50319ab37d361,9421965e67dc818039be660c0edb2034,-1064991964253415570,-1063866065399376082,6,N,29,31,27

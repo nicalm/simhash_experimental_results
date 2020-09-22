@@ -1,4 +1,0 @@
-24-node,60419-iv
-gay-fixed.cc,dtoa_fixed.cc,\deps\v8\test\cctest\gay-fixed.cc,\iv\test\dtoa_fixed.cc,5ec3d762e035c5e16c7227395fa7e77b,f07d5526290e81cee8dca2f25632e3c7,3228171689577379010,3228171689577379010,0,N,100012,100006,100001
-gay-precision.cc,dtoa_precision.cc,\deps\v8\test\cctest\gay-precision.cc,\iv\test\dtoa_precision.cc,e573fc197c7a3d2289a21583c75d9711,79375bf2bf885ac8ae29e60559079f84,-4448080161074352715,-4448080161074352715,0,N,100014,100006,100001
-gay-shortest.cc,dtoa_shortest.cc,\deps\v8\test\cctest\gay-shortest.cc,\iv\test\dtoa_shortest.cc,5487d12b2ddfbddb9b890278601714ab,784aab4b044c4b5645c453c69b91db28,-5105810464885297928,-5105810464885297928,0,N,100014,100006,100001

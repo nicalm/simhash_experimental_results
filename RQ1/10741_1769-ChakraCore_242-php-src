@@ -1,5 +1,0 @@
-1769-ChakraCore,242-php-src
-ittnotify_config.h,ittnotify_config.h,\lib\Runtime\Base\ittnotify_config.h,\ext\opcache\jit\vtune\ittnotify_config.h,370bf7f9aeaa67b0ab86b1976a5be3eb,ebaa1b2ff2b93142c3955b37a789f193,-8220936846549657942,-8220936842254690646,1,N,473,472,469
-ittnotify_types.h,ittnotify_types.h,\lib\Runtime\Base\ittnotify_types.h,\ext\opcache\jit\vtune\ittnotify_types.h,5c0788e9d65cba26e4de0d6412c08bbc,5c0788e9d65cba26e4de0d6412c08bbc,2539934818858228025,2539934818858228025,0,Y,51,51,51
-jitprofiling.cpp,jitprofiling.c,\lib\Runtime\Base\jitprofiling.cpp,\ext\opcache\jit\vtune\jitprofiling.c,975904647588daaf93e15b599f303949,057f7b6a945ab310239cf9ddb8325014,8037014391682523568,8037014941438337440,2,N,204,193,191
-jitprofiling.h,jitprofiling.h,\lib\Runtime\Base\jitprofiling.h,\ext\opcache\jit\vtune\jitprofiling.h,2b15db563983f4630bcda2c68eb3d5bb,2b15db563983f4630bcda2c68eb3d5bb,-8569353641129697703,-8569353641129697703,0,Y,117,117,117

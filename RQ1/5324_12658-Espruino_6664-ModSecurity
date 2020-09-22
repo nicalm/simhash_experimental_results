@@ -1,8 +1,0 @@
-12658-Espruino,6664-ModSecurity
-md5.c,md5.c,\libs\crypto\mbedtls\library\md5.c,\others\mbedtls\md5.c,9b932f4a1b5fb30819b9e991022cd52f,9b932f4a1b5fb30819b9e991022cd52f,-4736338222336059470,-4736338222336059470,0,Y,293,293,293
-sha1.c,sha1.c,\libs\crypto\mbedtls\library\sha1.c,\others\mbedtls\sha1.c,2f66e018b6be984ee80c9964d4b80b84,2f66e018b6be984ee80c9964d4b80b84,-4658677025777315678,-4658677025777315678,0,Y,328,328,328
-base64.h,base64.h,\libs\crypto\mbedtls\include\mbedtls\base64.h,\others\mbedtls\base64.h,6630a6b5c81069e699f8f3c96b9cd49e,6630a6b5c81069e699f8f3c96b9cd49e,3223774190043730204,3223774190043730204,0,Y,17,17,17
-check_config.h,check_config.h,\libs\crypto\mbedtls\include\mbedtls\check_config.h,\others\mbedtls\check_config.h,e57b0e13715c854c88dfa7a0a964d979,306e92b56ac8d1b085c9f72fb65f46a7,-6073508710830499000,-4920587206223651000,2,N,393,402,393
-md5.h,md5.h,\libs\crypto\mbedtls\include\mbedtls\md5.h,\others\mbedtls\md5.h,fbd3123ce3068aa4be4f9163563fd74e,fbd3123ce3068aa4be4f9163563fd74e,-2143076438427049363,-2143076438427049363,0,Y,43,43,43
-platform.h,platform.h,\libs\crypto\mbedtls\include\mbedtls\platform.h,\others\mbedtls\platform.h,d00d535ad1c35ca86d366afc8578c1ab,d00d535ad1c35ca86d366afc8578c1ab,4475508031361058025,4475508031361058025,0,Y,106,106,106
-sha1.h,sha1.h,\libs\crypto\mbedtls\include\mbedtls\sha1.h,\others\mbedtls\sha1.h,a1f73a38b0d18638a0673beee5270ee2,a1f73a38b0d18638a0673beee5270ee2,5206877406984185356,5206877406984185356,0,Y,43,43,43
