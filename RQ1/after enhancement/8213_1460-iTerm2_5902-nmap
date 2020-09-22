@@ -1,0 +1,3 @@
+1460-iTerm2,5902-nmap
+libssh2.h,libssh2.h,\ThirdParty\NMSSH.framework\Versions\A\Headers\libssh2.h,\libssh2\include\libssh2.h,de65bea6341ac0288d5a8effc82eab73,d67a5d17db6073c0863afacc4e779946,-3851219030599925776,-4427679782903351312,2,N,767,767,765
+libssh2_sftp.h,libssh2_sftp.h,\ThirdParty\NMSSH.framework\Versions\A\Headers\libssh2_sftp.h,\libssh2\include\libssh2_sftp.h,1f90b43c643ba9f0634c247a4f209246,1f90b43c643ba9f0634c247a4f209246,-3578375364528869651,-3578375364528869651,0,Y,238,238,238

@@ -1,0 +1,4 @@
+1916-robomongo,2475-fmt
+gtest.h,gtest.h,\trash\tests\gtest-1.7.0\fused-src\gtest\gtest.h,\test\gtest\gtest.h,b05cb4a9beb5eada0cfa18678fdf1a5d,cbc8b0656fdffb6fc97bedbfb9762598,-1421108939565453284,-1421108939565453288,1,N,13408,13412,13408
+gtest-spi.h,gtest-spi.h,\trash\tests\gtest-1.7.0\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,c1b2df0336821610c380ccaf057a8867,c1b2df0336821610c380ccaf057a8867,6991092299972516575,6991092299972516575,0,Y,97,97,97
+gtest-spi.h,gtest-spi.h,\src\third-party\googletest-1.8.1\googletest\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,4467aedb9606bf281403b09ea5869b6a,c1b2df0336821610c380ccaf057a8867,6990740456251628253,6991092299972516575,3,N,99,97,94

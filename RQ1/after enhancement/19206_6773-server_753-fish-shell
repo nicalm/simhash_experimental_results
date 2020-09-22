@@ -1,0 +1,3 @@
+6773-server,753-fish-shell
+pcre_xclass.c,pcre2_xclass.c,\pcre\pcre_xclass.c,\pcre2-10.32\src\pcre2_xclass.c,5cd296455e37cc3b808da351c1060a59,69af9433c557d4db84f8252f9bab9f98,9183279705847036656,9175398371065653940,7,N,149,150,138
+ucp.h,pcre2_ucp.h,\pcre\ucp.h,\pcre2-10.32\src\pcre2_ucp.h,455fb1e6750645bcf6cede0c32d4d67e,fd43cdc4421bdde2fabedae67e4eca89,-8131674098656514324,-8131718147807548163,7,N,186,211,182

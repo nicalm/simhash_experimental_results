@@ -1,0 +1,3 @@
+67679-k8s-multicluster-ingress,7736-wayne
+bitmap.go,bitmap.go,\vendor\k8s.io\kubernetes\pkg\registry\core\service\allocator\bitmap.go,\src\backend\util\allocator\bitmap.go,7ce9c09ae9a4348e613c8696f6bf54dd,2178594ef2fcd19c71eb5f98203f8df0,-3987496237942143151,-3987494038918867088,5,N,150,148,148
+utils.go,utils.go,\vendor\k8s.io\kubernetes\pkg\registry\core\service\allocator\utils.go,\src\backend\util\allocator\utils.go,a8e9686612308eeb35e0b97c6fb73b90,a8e9686612308eeb35e0b97c6fb73b90,-6756531697188159210,-6756531697188159210,0,Y,43,43,43

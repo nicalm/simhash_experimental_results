@@ -1,0 +1,10 @@
+1541-h2o,63225-sedutil
+bitops.h,bitops.h,\deps\picotls\deps\cifra\src\bitops.h,\Common\pbkdf2\bitops.h,133e4950503901cb04914beef73636af,8da52cb0d4da4423271cdb78aa9efbc3,5409296888090626847,5340616993773754647,7,N,220,189,181
+blockwise.c,blockwise.c,\deps\picotls\deps\cifra\src\blockwise.c,\Common\pbkdf2\blockwise.c,81aa0802366acdb59b84e26214ba9f08,81aa0802366acdb59b84e26214ba9f08,-2593841932418451024,-2593841932418451024,0,Y,141,141,141
+blockwise.h,blockwise.h,\deps\picotls\deps\cifra\src\blockwise.h,\Common\pbkdf2\blockwise.h,ed2bf3234eecf92f6f84e283d74f12a1,ed2bf3234eecf92f6f84e283d74f12a1,2477823056678821090,2477823056678821090,0,Y,34,34,34
+chash.h,chash.h,\deps\picotls\deps\cifra\src\chash.h,\Common\pbkdf2\chash.h,e8830a257bf7cf1e179d4779d2815b93,e8830a257bf7cf1e179d4779d2815b93,-8681567339077025450,-8681567339077025450,0,Y,27,27,27
+hmac.c,hmac.c,\deps\picotls\deps\cifra\src\hmac.c,\Common\pbkdf2\hmac.c,827d04e7f18195513baae21dd9d20f61,827d04e7f18195513baae21dd9d20f61,1613626775392057533,1613626775392057533,0,Y,63,63,63
+hmac.h,hmac.h,\deps\picotls\deps\cifra\src\hmac.h,\Common\pbkdf2\hmac.h,39427597ab135a4cb7f4dc441fe43d4a,39427597ab135a4cb7f4dc441fe43d4a,-3859402083120864292,-3859402083120864292,0,Y,22,22,22
+pbkdf2.c,pbkdf2.c,\deps\picotls\deps\cifra\src\pbkdf2.c,\Common\pbkdf2\pbkdf2.c,a2d97648b8839d716529efe755f5535b,a2d97648b8839d716529efe755f5535b,-2962285117011957451,-2962285117011957451,0,Y,52,52,52
+sha1.c,sha1.c,\deps\picotls\deps\cifra\src\sha1.c,\Common\pbkdf2\sha1.c,fe6a3dd6f9052c25f9df98adbd1e98d5,fe6a3dd6f9052c25f9df98adbd1e98d5,4706153034487667498,4706153034487667498,0,Y,103,103,103
+sha1.h,sha1.h,\deps\picotls\deps\cifra\src\sha1.h,\Common\pbkdf2\sha1.h,4b188d6fad10d2f0ee04140c794c46e7,4b188d6fad10d2f0ee04140c794c46e7,-4914485722840789677,-4914485722840789677,0,Y,20,20,20

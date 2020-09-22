@@ -1,0 +1,4 @@
+4001-hello.js,464-gentelella
+index.js,index.js,\assets\expect\index.js,\vendors\parsleyjs\bower_components\expect.js\index.js,649f3db182fea577b792030cd2a17c2a,649f3db182fea577b792030cd2a17c2a,-5639580481911560651,-5639580481911560651,0,Y,806,806,806
+require.js,require.js,\assets\requirejs\require.js,\vendors\requirejs\require.js,c8f9ffe4b3fde3371eac3f3bea01bff6,282f35834595d79746b148b1aef0a56d,-349194451787226921,8874177585067548895,2,N,1564,1619,1550
+jquery.js,jquery.js,\assets\expect\support\jquery.js,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,2d87ba23383f782ee174b1e96d92f56a,2d87ba23383f782ee174b1e96d92f56a,476469936339728655,476469936339728655,0,Y,6390,6390,6390

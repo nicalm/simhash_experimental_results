@@ -1,0 +1,10 @@
+10115-mbedtls,63770-mcuboot
+asn1parse.c,asn1parse.c,\library\asn1parse.c,\ext\mbedtls-asn1\src\asn1parse.c,0e62f4f13a6cb60ca4798c91b0b6776f,0e62f4f13a6cb60ca4798c91b0b6776f,-1481955042457062472,-1481955042457062472,0,Y,264,264,264
+platform_util.c,platform_util.c,\library\platform_util.c,\ext\mbedtls-asn1\src\platform_util.c,53f937917b5069fcbb682d8a908c279b,1a96fe113f6869ebb4da6ffc51af89b9,-7276566839850526208,-7276564640827269591,5,N,60,59,59
+asn1.h,asn1.h,\include\mbedtls\asn1.h,\ext\mbedtls-asn1\include\mbedtls\asn1.h,8b7635d1759ea88640226e47ec714f22,8b7635d1759ea88640226e47ec714f22,-1141797257702645014,-1141797257702645014,0,Y,114,114,114
+check_config.h,check_config.h,\include\mbedtls\check_config.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,243215dc851cdbee61a27ed21a61db4e,c07b8c175b56fe517779021d20b47123,-4925107813921514680,-4925105614898259128,1,N,529,525,525
+ecp.h,ecp.h,\include\mbedtls\ecp.h,\ext\mbedtls-asn1\include\mbedtls\ecp.h,9126ef000371d7343fcec4b1379fda22,92102d7e01b6cee2c6a1d74607d013c4,-3305176561971370692,-3305176566268959452,5,N,215,196,185
+md.h,md.h,\include\mbedtls\md.h,\ext\mbedtls-asn1\include\mbedtls\md.h,ffff9c3568a514a0a89b36ca203c3c01,ffff9c3568a514a0a89b36ca203c3c01,-8867268461829153910,-8867268461829153910,0,Y,83,83,83
+pk.h,pk.h,\include\mbedtls\pk.h,\ext\mbedtls-asn1\include\mbedtls\pk.h,f5806369c5dff9e3ba7f61c76a8cf1c2,f5806369c5dff9e3ba7f61c76a8cf1c2,-9086255319487264223,-9086255319487264223,0,Y,192,192,192
+platform.h,platform.h,\include\mbedtls\platform.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,34692dfb5da8e14debc74cc2e5c30a29,34692dfb5da8e14debc74cc2e5c30a29,-5820836720035264533,-5820836720035264533,0,Y,176,176,176
+threading.h,threading.h,\include\mbedtls\threading.h,\ext\mbedtls-asn1\include\mbedtls\threading.h,efae7c5649d75a27090e86a143934959,efae7c5649d75a27090e86a143934959,-1497021325838564558,-1497021325838564558,0,Y,46,46,46

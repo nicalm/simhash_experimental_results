@@ -1,0 +1,3 @@
+1818-SignalR,6974-openapi-generator
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\samples\documentation\dynamic-html\docs\assets\js\bootstrap.js,cad29b027e5bb0cb5111055988d9ab9f,ac780cd367f1ece192ca41dc11fc34a9,1568543342103368361,1568545006537429609,8,N,1251,1311,1194
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\bootstrap.js,cad29b027e5bb0cb5111055988d9ab9f,ac780cd367f1ece192ca41dc11fc34a9,1568543342103368361,1568545006537429609,8,N,1251,1311,1194

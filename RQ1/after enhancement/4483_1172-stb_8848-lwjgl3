@@ -1,0 +1,10 @@
+1172-stb,8848-lwjgl3
+stb_dxt.h,stb_dxt.h,\stb_dxt.h,\modules\lwjgl\stb\src\main\c\stb_dxt.h,75a9e19cc1810184e0355b2e7fd6dfaf,75a9e19cc1810184e0355b2e7fd6dfaf,-3189346941333576342,-3189346941333576342,0,Y,484,484,484
+stb_easy_font.h,stb_easy_font.h,\stb_easy_font.h,\modules\lwjgl\stb\src\main\c\stb_easy_font.h,96debe3ce7bcd21e98ca5b2a908126b6,96debe3ce7bcd21e98ca5b2a908126b6,-2387744592190867821,-2387744592190867821,0,Y,159,159,159
+stb_image.h,stb_image.h,\stb_image.h,\modules\lwjgl\stb\src\main\c\stb_image.h,d689e651b5267a1d7f12c3441e69027f,d689e651b5267a1d7f12c3441e69027f,6688196529461531862,6688196529461531862,0,Y,5537,5537,5537
+stb_image_resize.h,stb_image_resize.h,\stb_image_resize.h,\modules\lwjgl\stb\src\main\c\stb_image_resize.h,33381b61a04c502f421ee6e7ef0ba146,33381b61a04c502f421ee6e7ef0ba146,4504857147068813255,4504857147068813255,0,Y,1870,1870,1870
+stb_image_write.h,stb_image_write.h,\stb_image_write.h,\modules\lwjgl\stb\src\main\c\stb_image_write.h,b1c66d99987b960cb5e10c3251566acd,b1c66d99987b960cb5e10c3251566acd,-2138830299282094509,-2138830299282094509,0,Y,1158,1158,1158
+stb_perlin.h,stb_perlin.h,\stb_perlin.h,\modules\lwjgl\stb\src\main\c\stb_perlin.h,60ed3ab5f94f033b56f994f31b3a4f8f,60ed3ab5f94f033b56f994f31b3a4f8f,-2982331409073916716,-2982331409073916716,0,Y,258,258,258
+stb_rect_pack.h,stb_rect_pack.h,\stb_rect_pack.h,\modules\lwjgl\stb\src\main\c\stb_rect_pack.h,797716a898c3a8770ac73e5cc5128361,797716a898c3a8770ac73e5cc5128361,4250291298554909033,4250291298554909033,0,Y,338,338,338
+stb_truetype.h,stb_truetype.h,\stb_truetype.h,\modules\lwjgl\stb\src\main\c\stb_truetype.h,85befad8766a49ce40a23e97e89c88d9,85befad8766a49ce40a23e97e89c88d9,-8369307643118020043,-8369307643118020043,0,Y,3376,3376,3376
+stb_vorbis.c,stb_vorbis.c,\stb_vorbis.c,\modules\lwjgl\stb\src\main\c\stb_vorbis.c,94891d1c180eb974cb755e500ca66bd7,94891d1c180eb974cb755e500ca66bd7,-2568317598236320102,-2568317598236320102,0,Y,4007,4007,4007
