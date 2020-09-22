@@ -1,0 +1,4 @@
+13956-dolibarr,d26b2a694de30f95e46ea54ea72cc54f0d38e548,https://github.com/Leon2012/goconfd,refs/heads/master,14-16
+jquery.flot.js,jquery.flot.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.js,dashboard/template/asset/js/jquery.flot.js,74ed638dcdb0e5e2eeaf73ac5d0f95a5,74ed638dcdb0e5e2eeaf73ac5d0f95a5,1370964771625934484,1370964771625934484,0,Y
+jquery.flot.pie.js,jquery.flot.pie.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.pie.js,dashboard/template/asset/js/jquery.flot.pie.js,b832ca19c8f9c23005244bac6510ee4d,b832ca19c8f9c23005244bac6510ee4d,-5532908320834432319,-5532908320834432319,0,Y
+jquery.flot.resize.js,jquery.flot.resize.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.resize.js,dashboard/template/asset/js/jquery.flot.resize.js,b657b82c78492f82e664b5dbc0595cde,b657b82c78492f82e664b5dbc0595cde,-6302764399840912381,-6302764399840912381,0,Y

@@ -1,0 +1,3 @@
+19540-libarchive,22531545514043e04633e1c015c7540b9de9dbe4,https://github.com/joel16/NX-Shell,master,205-205
+archive.h,archive.h,\libarchive\archive.h,libs/include/archive.h,85570eab0f17add080cc4d54337e4188,d51fc39d8018f0c4f439959ccbe2b1d9,4450591872964244218,4450591872964244218,0,N
+archive_entry.h,archive_entry.h,\libarchive\archive_entry.h,libs/include/archive_entry.h,c0baef7ffc7044193b6df2cdfc84fa6d,c0baef7ffc7044193b6df2cdfc84fa6d,4523133499368556357,4523133499368556357,0,Y

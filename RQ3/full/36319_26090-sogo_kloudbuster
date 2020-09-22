@@ -1,0 +1,3 @@
+26090-sogo,875a4aca3218340fd4d3141950c82c2ff45b343d,https://github.com/openstack/kloudbuster,master,248-311
+angular-animate.min.js,angular-animate.min.js,\UI\WebServerResources\js\vendor\angular-animate.min.js,kb_server/public/ui/components/angular-animate-1.4.10/angular-animate.min.js,cf4e299452ecb7e6414035fa5d436458,cf4e299452ecb7e6414035fa5d436458,-2619918522892795657,-2619918522892795657,0,Y
+angular.min.js,angular.min.js,\UI\WebServerResources\js\vendor\angular.min.js,kb_server/public/ui/components/angular-1.4.10/angular.min.js,7730f7f9d22d0297567c1489de818a54,7730f7f9d22d0297567c1489de818a54,2840017799340147375,2840017799340147375,0,Y

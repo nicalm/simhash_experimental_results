@@ -1,0 +1,2 @@
+13956-dolibarr,4a5988accbb770b74105baacd5a034689272128c,https://github.com/LLNL/MacPatch,master,876-876
+ui.multiselect.js,ui.multiselect.js,\htdocs\includes\jquery\plugins\multiselect\js\ui.multiselect.js,Server/conf/app/site/admin/js/multiselect/ui.multiselect.js,733edfc22e9827fcfd4093aec3a948ad,df5911a8d0a801b7759d979706139ac9,4138263952303396144,4138272748396418352,1,N

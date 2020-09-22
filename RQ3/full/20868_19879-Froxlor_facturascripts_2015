@@ -1,0 +1,6 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/NeoRazorX/facturascripts_2015,refs/heads/master,360-476
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,extras/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,5f1183cb02cb35a056e1649f225dc8b8,7289638721001993635,7289638721001993603,1,N
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,extras/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,971c3e36a56a6b02a25c5cc65558e6ef,7289638721001993635,7289638721001993635,0,Y
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,extras/phpmailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,3e6bfb3b36b12e4b62fabb199e0a6711,300106740523704336,4911797122637864976,3,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,extras/phpmailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,f54e86ff4fdbddb2c6885e6ba9a0ebaa,300106740523704336,300106740523704336,0,Y
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,extras/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

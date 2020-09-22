@@ -1,0 +1,3 @@
+1460-iTerm2,33ccaf61e34ef32ffc9d6b2be5dd218f6bb55f51,https://github.com/nodegit/nodegit,master,2846-3210
+libssh2.h,libssh2.h,\ThirdParty\NMSSH.framework\Versions\A\Headers\libssh2.h,vendor/libssh2/include/libssh2.h,dbf7ab870042f214c0342002a12ec646,dbf7ab870042f214c0342002a12ec646,-3995281476477257744,-3995281476477257744,0,Y
+libssh2_sftp.h,libssh2_sftp.h,\ThirdParty\NMSSH.framework\Versions\A\Headers\libssh2_sftp.h,vendor/libssh2/include/libssh2_sftp.h,a6cb31a973ec94a8c95a14fe9929cfa8,a6cb31a973ec94a8c95a14fe9929cfa8,-3582808664198648087,-3582808664198648087,0,Y

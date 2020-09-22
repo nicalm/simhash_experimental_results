@@ -1,0 +1,5 @@
+1193-mpv,e6e6b0dcc7e9b0dbf35154a179b3dc1fcfcaff43,https://github.com/Protostars/KikoPlay,refs/heads/master,36-168
+client.h,client.h,\libmpv\client.h,Play/Video/mpv/client.h,c16f5d36cf2920b2d6d547d89f24a52a,d645db6dbad70c202b8ad47272c0d24f,7651882917637060337,7093436560622419185,7,N
+client.h,client.h,\libmpv\client.h,Play/Video/mpv/client.h,c16f5d36cf2920b2d6d547d89f24a52a,e174fe65d9380cb3a1798f5df299c36c,7651882917637060337,7093436578876030193,7,N
+opengl_cb.h,opengl_cb.h,\libmpv\opengl_cb.h,Play/Video/mpv/opengl_cb.h,15b92178fc8382ff73e819200446e8a8,3a97f642c34c5b515936a88805d7e3f3,3057430527660142578,3057427230198999030,5,N
+stream_cb.h,stream_cb.h,\libmpv\stream_cb.h,Play/Video/mpv/stream_cb.h,0cce71c5bbc0d1e8495a22cadaa5cf72,0cce71c5bbc0d1e8495a22cadaa5cf72,4454120269194612374,4454120269194612374,0,Y

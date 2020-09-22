@@ -1,0 +1,8 @@
+1485-gvisor,0e277a39c8b6f905e289b75e8ad0594e6b3562ca,https://github.com/CrunchyData/crunchy-postgresql-manager,master,71-80
+workspace_status.sh,startpgpool.sh,\tools\workspace_status.sh,sbin/startpgpool.sh,1da5d14f84945fca7be9ec85a66f00ef,36d4cbb59e5c7934aca3989d4e2e235a,-3399477403659213225,5835013032243947095,7,N
+workspace_status.sh,startpgonstandby.sh,\tools\workspace_status.sh,sbin/startpgonstandby.sh,1da5d14f84945fca7be9ec85a66f00ef,07471bf774a3ea55bcf027ee30a46e50,-3399477403659213225,-3099697619901028777,8,N
+workspace_status.sh,systemd-stop-cpm.sh,\tools\workspace_status.sh,sbin/systemd-stop-cpm.sh,1da5d14f84945fca7be9ec85a66f00ef,6d25b1b693abe869589f03d964d762ed,-3399477403659213225,5835153769732302422,7,N
+workspace_status.sh,systemd-start-cpm.sh,\tools\workspace_status.sh,sbin/systemd-start-cpm.sh,1da5d14f84945fca7be9ec85a66f00ef,a89091cf27c26660f5779d4a0d19f0c6,-3399477403659213225,5835162428384273495,8,N
+ruby.sh,startpgonstandby.sh,\runsc\test\image\ruby.sh,sbin/startpgonstandby.sh,b9fb8684d56b5817595ee8d23e03f604,07471bf774a3ea55bcf027ee30a46e50,-3408475806820932521,-3099697619901028777,8,N
+ruby.sh,startpg.sh,\runsc\test\image\ruby.sh,sbin/startpg.sh,b9fb8684d56b5817595ee8d23e03f604,21e99636d67bb5952e56b8c5889d49cf,-3408475806820932521,8141005575039018070,8,N
+ruby.sh,systemd-start-cpm.sh,\runsc\test\image\ruby.sh,sbin/systemd-start-cpm.sh,b9fb8684d56b5817595ee8d23e03f604,a89091cf27c26660f5779d4a0d19f0c6,-3408475806820932521,5835162428384273495,6,N

@@ -1,0 +1,3 @@
+11093-mongoose-os,042eb437973a202d00589b13d628181c6de5cf5b,https://github.com/espressif/ESP8266_NONOS_SDK,master,3-3*74-182
+uart_register.h,uart_register.h,\common\platforms\esp8266\uart_register.h,driver_lib/include/driver/uart_register.h,fce027fce5d712574ec0d5a84cf6e203,bcb28ca25f845dc9eed65f1acde28c6d,-4534641388859240269,-4534562224026238798,5,N
+uart_register.h,uart_register.h,\common\platforms\esp8266\uart_register.h,examples/esp_mqtt_proj/include/driver/uart_register.h,fce027fce5d712574ec0d5a84cf6e203,74cebec60ade2f7374f9cdf22d9ec98d,-4534641388859240269,-9146327407250976590,4,N

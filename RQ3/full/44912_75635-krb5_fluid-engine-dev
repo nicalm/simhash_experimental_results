@@ -1,0 +1,4 @@
+75635-krb5,f18ddf5d82de0ab7591a36e465bc24225776940f,https://github.com/doyubkim/fluid-engine-dev,master,39-207
+getopt.c,getopt.c,\src\util\windows\getopt.c,src/winix/getopt.c,05fab39a8c58a594a5560f18c424852f,05fab39a8c58a594a5560f18c424852f,5822587814746111882,5822587814746111882,0,Y
+getopt.h,getopt.h,\src\util\windows\getopt.h,src/winix/getopt.h,1623f704a986f325f059d7b2983d3861,1623f704a986f325f059d7b2983d3861,2791697280284300310,2791697280284300310,0,Y
+getopt_long.c,getopt_long.c,\src\util\windows\getopt_long.c,src/winix/getopt_long.c,a0a6761833b71f9c09db6483600bb274,a0a6761833b71f9c09db6483600bb274,4633448603274051462,4633448603274051462,0,Y

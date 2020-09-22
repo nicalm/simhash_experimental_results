@@ -1,0 +1,13 @@
+14021-lxml,6be1d081b49c97cfd7b3fbd934a193b668629109,https://github.com/theotherp/nzbhydra,master,601-601
+diff.py,rrule.py,\src\lxml\html\diff.py,libs/dateutil/rrule.py,c709ca9e00511eeb4c292c0441cd07d9,ae14d13c1254723cddb30fd1ca6bae71,8505646553393660238,8582212138746904942,8,N
+diff.py,request.py,\src\lxml\html\diff.py,libs/future/backports/urllib/request.py,c709ca9e00511eeb4c292c0441cd07d9,6ef1d8b3664f3cc5e6dc93b99339d5f8,8505646553393660238,7361733341177872750,8,N
+diff.py,cparser.py,\src\lxml\html\diff.py,libs/cffi/cparser.py,c709ca9e00511eeb4c292c0441cd07d9,d41c5b1f204522f855375ea603e672b6,8505646553393660238,6199825532348924270,7,N
+formfill.py,tvmaze.py,\src\lxml\html\formfill.py,libs/pytvmaze/tvmaze.py,596ffba006721f26934e4363c7e81967,a2571632b62b1e8cee366d409998f479,8582211966931435630,8582212138747953534,6,N
+formfill.py,univ.py,\src\lxml\html\formfill.py,libs/pyasn1/type/univ.py,596ffba006721f26934e4363c7e81967,3dfc16b5d8219fb303bc4a0a2890e66b,8582211966931435630,-645663635174194818,6,N
+formfill.py,yacc.py,\src\lxml\html\formfill.py,libs/pycparser/ply/yacc.py,596ffba006721f26934e4363c7e81967,7a46b3a1b41a6627739d5fcc50aebee6,8582211966931435630,7429290633603055726,6,N
+formfill.py,tz.py,\src\lxml\html\formfill.py,libs/dateutil/tz.py,596ffba006721f26934e4363c7e81967,8102a84918e32d079ef761d8c5e58ef1,8582211966931435630,8582493613706838399,6,N
+formfill.py,rrule.py,\src\lxml\html\formfill.py,libs/dateutil/rrule.py,596ffba006721f26934e4363c7e81967,ae14d13c1254723cddb30fd1ca6bae71,8582211966931435630,8582212138746904942,4,N
+formfill.py,__init__.py,\src\lxml\html\formfill.py,libs/passlib/utils/__init__.py,596ffba006721f26934e4363c7e81967,1106ee2fb7ec50b7705fea0b4390f998,8582211966931435630,9156491459980820842,8,N
+formfill.py,urllib.py,\src\lxml\html\formfill.py,libs/urllib.py,596ffba006721f26934e4363c7e81967,885a68168f4159126035484329c787c8,8582211966931435630,8592411208606155118,8,N
+formfill.py,recompiler.py,\src\lxml\html\formfill.py,libs/cffi/recompiler.py,596ffba006721f26934e4363c7e81967,6b7efb6faf2c2c36cad85a8b9b9f04b9,8582211966931435630,8600245091548660847,8,N
+formfill.py,doctest.py,\src\lxml\html\formfill.py,libs/doctest.py,596ffba006721f26934e4363c7e81967,c1e9e9483616ad553e8d5f51a89d4e30,8582211966931435630,8583347255653564783,8,N

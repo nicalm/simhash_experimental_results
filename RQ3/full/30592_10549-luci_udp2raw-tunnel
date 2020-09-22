@@ -1,0 +1,6 @@
+10549-luci,9e4b8a91384562e3baee724a52b72e30b1aa006d,https://github.com/wangyu-/udp2raw-tunnel,master,555-560
+po2lmo.c,po2lmo.c,\modules\luci-base\src\po2lmo.c,third-party/luci-app-udp2raw/tools/po2lmo/src/po2lmo.c,9d976ddf5ef4a0baa0983e8b42c94b3b,9d976ddf5ef4a0baa0983e8b42c94b3b,6841613042704477020,6841613042704477020,0,Y
+template_lmo.c,template_lmo.c,\modules\luci-base\src\template_lmo.c,third-party/luci-app-udp2raw/tools/po2lmo/src/template_lmo.c,06ce8cd9556d85739455e48dcb5dc296,06ce8cd9556d85739455e48dcb5dc296,-354013713785168694,-354013713785168694,0,Y
+template_lmo.h,template_lmo.h,\modules\luci-base\src\template_lmo.h,third-party/luci-app-udp2raw/tools/po2lmo/src/template_lmo.h,c0588b2853950e154a98c335598bc17c,c0588b2853950e154a98c335598bc17c,-1690166113606273374,-1690166113606273374,0,Y
+ddns.lua,udp2raw.lua,\applications\luci-app-ddns\luasrc\controller\ddns.lua,third-party/luci-app-udp2raw/files/luci/controller/udp2raw.lua,f2f9c357e5a3e231b40d57634dfa53ea,85602b553985b0623fc12f7fb2f5a0fe,-181738192947562966,-183990001365869526,8,N
+radicale.lua,servers.lua,\applications\luci-app-radicale\luasrc\model\cbi\radicale.lua,third-party/luci-app-udp2raw/files/luci/model/cbi/udp2raw/servers.lua,6d2fcaa07a1059135e44827ca107558f,0827cc82eb1360804df4069d5a409e34,-256052053565032918,-261153735980370390,8,N

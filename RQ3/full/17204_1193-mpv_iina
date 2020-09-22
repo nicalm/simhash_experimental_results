@@ -1,0 +1,3 @@
+1193-mpv,e6e6b0dcc7e9b0dbf35154a179b3dc1fcfcaff43,https://github.com/iina/iina,refs/heads/develop,2019-2138*2268-2268
+client.h,client.h,\libmpv\client.h,deps/include/mpv/client.h,c16f5d36cf2920b2d6d547d89f24a52a,c16f5d36cf2920b2d6d547d89f24a52a,7651882917637060337,7651882917637060337,0,Y
+opengl_cb.h,opengl_cb.h,\libmpv\opengl_cb.h,deps/include/mpv/opengl_cb.h,15b92178fc8382ff73e819200446e8a8,15b92178fc8382ff73e819200446e8a8,3057430527660142578,3057430527660142578,0,Y

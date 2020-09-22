@@ -1,0 +1,5 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/metashell/metashell,master,1047-1911
+ltmain.sh,test-release.sh,\ext\libeio\ltmain.sh,3rd/templight/llvm/utils/release/test-release.sh,8ab3567c6eebf703dcd9430e8e4f182b,499cba185f8df8a1f513a82c9ca43ee8,-1014810404834015316,-1014467631547183171,8,N
+mocksetup-first.sh,test-release.sh,\rpm\release\mocksetup-first.sh,3rd/templight/llvm/utils/release/test-release.sh,806ba71db928e5b63fa0830c93e1a43b,499cba185f8df8a1f513a82c9ca43ee8,-1050672350426624579,-1014467631547183171,5,N
+mocksetup-first.sh,test-release.sh,\rpm\release\mocksetup-first.sh,3rd/templight/llvm/utils/release/test-release.sh,806ba71db928e5b63fa0830c93e1a43b,5c3e080de5e489c7f5b92491a448d57e,-1050672350426624579,-1014467631547174979,6,N
+future.cpp,future.cpp,\ext\boost\libs\thread\src\future.cpp,3rd/boost/libs/thread/future.cpp,0c5798dfef110e95842a92cf85a8efc7,0a111f7919165b26a767b0b606330cb2,2883595042145051713,5189437639041884233,6,N

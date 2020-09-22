@@ -1,0 +1,6 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/XOOPS/XoopsCore25,master,1300-1712
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,htdocs/class/mail/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,5e57f998e9e1e2ae69bb29f2f2fd54c0,7289638721001993635,7289637617195398547,4,N
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,htdocs/class/mail/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,971c3e36a56a6b02a25c5cc65558e6ef,7289638721001993635,7289638721001993635,0,Y
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,htdocs/class/mail/phpmailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,4f994f1dfea0eda44108db257e12ecda,300106740523704336,4902789940697344016,8,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,htdocs/class/mail/phpmailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,f54e86ff4fdbddb2c6885e6ba9a0ebaa,300106740523704336,300106740523704336,0,Y
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,htdocs/class/mail/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

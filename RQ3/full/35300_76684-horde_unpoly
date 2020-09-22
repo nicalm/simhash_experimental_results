@@ -1,0 +1,3 @@
+76684-horde,4d8176d1e9ef5cbd2b3fcacd9b9a4c8e482fb424,https://github.com/unpoly/unpoly,master,347-715
+json2.js,json2.js,\horde\js\json2.js,spec_app/vendor/assets/bower_components/jasmine/lib/jasmine-core/json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,7ee4904708a2e7b6bffc7d8ca1f6ede3,1370407647809398239,1370407647809398239,0,Y
+jquery.js,jquery-1.11.0.js,\framework\Core\js\jquery.mobile\jquery.js,spec_app/vendor/assets/bower_components/jasmine-fixture/vendor/js/jquery-1.11.0.js,bc6fe6d377bd192be22b5e0c93a2162b,6a89c87c622a2c4c544724f90c4b6afc,6249806652937350376,6321864246975276264,2,N

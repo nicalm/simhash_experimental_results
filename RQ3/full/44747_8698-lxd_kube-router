@@ -1,0 +1,8 @@
+8698-lxd,19c6961cc1012c8a529f20807328a9357f5034f4,https://github.com/cloudnativelabs/kube-router,master,22-319
+main.sh,init.sh,\test\main.sh,vendor/github.com/influxdata/influxdb/scripts/init.sh,8220b6835c8be72d0b60b2c0d8084e56,e96f264468674b32084c947c1f1a1541,-1014467219197423700,-2167388929996120147,7,N
+main.sh,mkimage-debootstrap.sh,\test\main.sh,vendor/github.com/docker/docker/contrib/mkimage-debootstrap.sh,8220b6835c8be72d0b60b2c0d8084e56,faf67052c2436055a24ea3198fe1d68a,-1014467219197423700,-1014463027308687475,7,N
+main.sh,make.sh,\test\main.sh,vendor/github.com/docker/docker/hack/make.sh,8220b6835c8be72d0b60b2c0d8084e56,1c28cc88f385f35e9992af5cbbc3b358,-1014467219197423700,-1014502541041889395,6,N
+main.sh,setup.sh,\test\main.sh,vendor/github.com/docker/docker/hack/Jenkins/W2L/setup.sh,8220b6835c8be72d0b60b2c0d8084e56,d77754210321f1b3675b803844ce8d93,-1014467219197423700,-1014740036082102355,7,N
+main.sh,check-config.sh,\test\main.sh,vendor/github.com/docker/docker/contrib/check-config.sh,8220b6835c8be72d0b60b2c0d8084e56,d21f3614cf5383c55351f5ac963694e1,-1014467219197423700,-870417999704649811,8,N
+main.sh,init.sh,\test\main.sh,vendor/github.com/influxdata/influxdb/scripts/init.sh,8220b6835c8be72d0b60b2c0d8084e56,59512c4a4e8e346f5e6a38fec483c142,-1014467219197423700,-2167388929996120147,7,N
+main.sh,init-influxdb.sh,\test\main.sh,vendor/github.com/influxdata/influxdb/docker/init-influxdb.sh,8220b6835c8be72d0b60b2c0d8084e56,be2b6e0090eba31030bc67c7d0a70f49,-1014467219197423700,-1014467356669276243,5,N

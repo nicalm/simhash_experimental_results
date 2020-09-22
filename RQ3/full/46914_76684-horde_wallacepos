@@ -1,0 +1,7 @@
+76684-horde,4d8176d1e9ef5cbd2b3fcacd9b9a4c8e482fb424,https://github.com/micwallace/wallacepos,master,101-119
+ClassLoader.php,ClassLoader.php,\components\bundle\vendor\composer\ClassLoader.php,library/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Css_Parser\bundle\vendor\composer\ClassLoader.php,library/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Mongo\bundle\vendor\composer\ClassLoader.php,library/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Pgp\bundle\vendor\composer\ClassLoader.php,library/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Stringprep\bundle\vendor\composer\ClassLoader.php,library/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,library/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y

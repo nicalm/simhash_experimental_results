@@ -1,0 +1,15 @@
+10153-jansson,8f80c2d83808150724d31793e6ade92749b1faa4,https://github.com/djm34/ccminer-lyra,master,12-17
+dump.c,dump.c,\src\dump.c,compat/jansson/dump.c,68b844bf0886498087bf0045f67bbe78,68b844bf0886498087bf0045f67bbe78,-7467232469825466169,-7467232469825466169,0,Y
+error.c,error.c,\src\error.c,compat/jansson/error.c,2e73ae658e8e8ae7c84e79ef30eb33fa,2e73ae658e8e8ae7c84e79ef30eb33fa,-2306876315354899793,-2306876315354899793,0,Y
+hashtable.c,hashtable.c,\src\hashtable.c,compat/jansson/hashtable.c,97aaa4b140126183edc02b6e3001f7e6,89865ffce90864450bde7e11bf53d3dd,3367102704627335102,3142063469337100222,5,N
+hashtable.h,hashtable.h,\src\hashtable.h,compat/jansson/hashtable.h,b96d79ea9b920493c135e05a43bfc8b1,aca06a8cbfae3ad659e90042b53c7707,-6179249633243030470,-8629770780621267918,6,N
+jansson.h,jansson.h,\src\jansson.h,compat/jansson/jansson.h,e5e3bbfca0d88792e4da8b954bca4d47,1c23305fa360eb556b805ab2bf973286,-8530072205202754082,-8530072205202754082,0,N
+jansson_private.h,jansson_private.h,\src\jansson_private.h,compat/jansson/jansson_private.h,06591de414de2b3829ea99d6d6279ea7,06591de414de2b3829ea99d6d6279ea7,3914182679599466228,3914182679599466228,0,Y
+load.c,load.c,\src\load.c,compat/jansson/load.c,6ebc2ba8c97ca2bad0972fbed7e3f792,6ebc2ba8c97ca2bad0972fbed7e3f792,34257889861713406,34257889861713406,0,Y
+memory.c,memory.c,\src\memory.c,compat/jansson/memory.c,153c21237dba351a4f16b4a0462ba21c,153c21237dba351a4f16b4a0462ba21c,-7595182191037259392,-7595182191037259392,0,Y
+pack_unpack.c,pack_unpack.c,\src\pack_unpack.c,compat/jansson/pack_unpack.c,1ae0f8f58e2383af980e8c78380656b3,1ae0f8f58e2383af980e8c78380656b3,5195217783671181886,5195217783671181886,0,Y
+strbuffer.c,strbuffer.c,\src\strbuffer.c,compat/jansson/strbuffer.c,909169ecc704da657adf96932c672804,909169ecc704da657adf96932c672804,-7693720605460299085,-7693720605460299085,0,Y
+strbuffer.h,strbuffer.h,\src\strbuffer.h,compat/jansson/strbuffer.h,7c033a48f088dbbc9bccf98210a2aeb9,7c033a48f088dbbc9bccf98210a2aeb9,2320440546770939400,2320440546770939400,0,Y
+strconv.c,strconv.c,\src\strconv.c,compat/jansson/strconv.c,eb7685f49dc1bf0d3f787e336c5be2f6,ae699e83ffb065a85e155db0c2d8fb73,-4623985321262576190,-4696042984565371710,6,N
+utf.c,utf.c,\src\utf.c,compat/jansson/utf.c,346e928e67e1157abf63078541d6933e,346e928e67e1157abf63078541d6933e,6992162650265750982,6992162650265750982,0,Y
+value.c,value.c,\src\value.c,compat/jansson/value.c,08cf283e243f79ea1d92995c9f55b282,ec1fbecdaedf505e8398f65aa3ca8ef0,-4820678325064966446,-208992306637582638,2,N

@@ -1,0 +1,3 @@
+151921-b2evolution,b899d654d931f3bf3cfbbdd71e0d1a0f3a16d04c,https://github.com/trombastic/PyScada,master,228-363
+bootstrap.js,bootstrap.js,\rsc\js\bootstrap\bootstrap.js,pyscada/hmi/static/pyscada/js/bootstrap.js,3e3524c5a3e06df81ad356af5ba31125,7eb3269482def1e86d1a430aa38e2a42,-8931116503682747802,1449680627876786790,6,N
+jquery.ui.all.js,jquery-ui.js,\rsc\js\jquery\jquery.ui.all.js,pyscada/hmi/static/pyscada/js/jquery-ui/jquery-ui.js,ffee8022a592b0d0071d2633a6d55c2e,ffee8022a592b0d0071d2633a6d55c2e,-1117851216293556933,-1117851216293556933,0,Y

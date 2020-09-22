@@ -1,0 +1,4 @@
+76684-horde,eb3afd14c22c77ae0d29e2848f5ac726ef6e7c5b,https://github.com/superdesk/Live-Blog,master,12684-13036
+json2.js,json.js,\horde\js\json2.js,plugins/embed/gui-resources/scripts/js/bower_components/json2/json.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,0d3fb4b4be79cb7a117758d6eb356f04,1370407647809398239,1681160420144473503,5,N
+json2.js,json2.js,\horde\js\json2.js,plugins/embed/gui-resources/scripts/js/bower_components/json2/json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,7ee4904708a2e7b6bffc7d8ca1f6ede3,1370407647809398239,1370407647809398239,0,Y
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,plugins/embed/gui-resources/scripts/js/bower_components/jquery/dist/jquery.js,bc6fe6d377bd192be22b5e0c93a2162b,6a89c87c622a2c4c544724f90c4b6afc,6249806652937350376,6321864246975276264,2,N

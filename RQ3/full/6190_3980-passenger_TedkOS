@@ -1,0 +1,5 @@
+3980-passenger,4043718264095cde6623c2cbe8c644541036d7bf,https://github.com/TakefiveInteractive/TedkOS,master,423-828
+provision.sh,ltmain.sh,\dev\vagrant\provision.sh,mp3/userland/newlib-2.2.0-1/ltmain.sh,e3c8c2e3bac5fda8201cdc9d573b4f49,db99a57516e7570dbaf187c654c1426c,-1014467356669276243,-5626496423261395028,8,N
+provision.sh,detect-gcc.sh,\dev\vagrant\provision.sh,mp3/student-distrib/detect-gcc.sh,e3c8c2e3bac5fda8201cdc9d573b4f49,95acc494cad34436789917576c31dac5,-1014467356669276243,-2167388859130736659,4,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-copy\libuv\ltmain.sh,mp3/userland/newlib-2.2.0-1/ltmain.sh,ae3ac699fead0dd23884c041d6fffb34,db99a57516e7570dbaf187c654c1426c,-1014819200893483092,-5626496423261395028,4,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-modified\libev\ltmain.sh,mp3/userland/newlib-2.2.0-1/ltmain.sh,40d33ec162a9fc5f2c9418042d04305d,db99a57516e7570dbaf187c654c1426c,-1014810404834015316,-5626496423261395028,2,N

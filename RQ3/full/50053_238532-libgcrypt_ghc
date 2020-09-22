@@ -1,0 +1,6 @@
+238532-libgcrypt,a4c561aab1014c3630bc88faf6f5246fee16b020,https://github.com/ghc/ghc,master,16792-19336
+autogen.sh,ltmain.sh,\autogen.sh,rts/gmp/ltmain.sh,9843f2ceda28b9a971d15ac62664913f,0799ab3a37b500b4b4d2dc3e086b29b6,-1014608092010143828,-2167388861276123220,4,N
+ltmain.sh,ltmain.sh,\build-aux\ltmain.sh,rts/gmp/ltmain.sh,3d76eb3b5e86a4fe4e93bd7addac5698,0799ab3a37b500b4b4d2dc3e086b29b6,-1014810404834015316,-2167388861276123220,6,N
+poly1305.c,fdiv_r_ui.c,\cipher\poly1305.c,rts/gmp/mpz/fdiv_r_ui.c,ab99952bea5b51ff222760aabf64d06b,d9c3b01957f8331d09a87f85cdb7193b,-2269981292760668345,-1136199536868853945,8,N
+udiv-w-sdiv.c,udiv_w_sdiv.c,\mpi\generic\udiv-w-sdiv.c,rts/gmp/mpn/generic/udiv_w_sdiv.c,da867e4d40b81ae6b62a320a625bb5a5,c8829e96f1145a00920b4d1e8b8184e4,5760921354912530786,5760921904672538986,3,N
+syntax.h,syntax.h,\mpi\m68k\syntax.h,rts/gmp/mpn/m68k/syntax.h,ec2a72538ed775f91276afcde330ecc0,ec2a72538ed775f91276afcde330ecc0,4463354219393970484,4463354219393970484,0,Y

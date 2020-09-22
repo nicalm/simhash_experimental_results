@@ -1,0 +1,14 @@
+1485-gvisor,0e277a39c8b6f905e289b75e8ad0594e6b3562ca,https://github.com/vmware/vic,master,2754-4320
+workspace_status.sh,provision-drone.sh,\tools\workspace_status.sh,infra/machines/devbox/provision-drone.sh,1da5d14f84945fca7be9ec85a66f00ef,0f14fa45843fbc2116b1c6f2564f5734,-3399477403659213225,-3315879335542987169,8,N
+workspace_status.sh,upgrade.sh,\tools\workspace_status.sh,ui/installer/VCSA/upgrade.sh,1da5d14f84945fca7be9ec85a66f00ef,8f2e3b6512262f571a68347458af796a,-3399477403659213225,-3318404913789213609,7,N
+workspace_status.sh,chrootpwd.sh,\tools\workspace_status.sh,installer/packer/scripts/systemd/appliance/chrootpwd.sh,1da5d14f84945fca7be9ec85a66f00ef,9379dc3f5612ed0b0bb7236eafa647fa,-3399477403659213225,-3426640838427613610,6,N
+workspace_status.sh,ova-firewall.sh,\tools\workspace_status.sh,installer/packer/scripts/systemd/appliance/ova-firewall.sh,1da5d14f84945fca7be9ec85a66f00ef,110471da94a5897efe253d041397f03f,-3399477403659213225,-3390399835630803849,7,N
+workspace_status.sh,provision-drone.sh,\tools\workspace_status.sh,infra/machines/devbox/provision-drone.sh,1da5d14f84945fca7be9ec85a66f00ef,86f47e3fa7c9f68a5eb58092c88c1411,-3399477403659213225,-3316152014426675626,8,N
+workspace_status.sh,base.sh,\tools\workspace_status.sh,isos/base/repos/photon-2.0/base.sh,1da5d14f84945fca7be9ec85a66f00ef,4fc4ff86fe0733543424cc6e08aaa32c,-3399477403659213225,5790116536457684567,8,N
+workspace_status.sh,git-clone.sh,\tools\workspace_status.sh,infra/integration-image/git-clone.sh,1da5d14f84945fca7be9ec85a66f00ef,159a3e2ede0414c56431633d65499592,-3399477403659213225,5826154129619986007,7,N
+mysql.sql,unit-test-check.sh,\runsc\test\image\mysql.sql,tests/unit-test-check.sh,98c84bd085c627c3b31b25acce5ae9f1,931bf6bb51f850899666e6ed706498d7,-3432893758584199561,-3424168036726299049,7,N
+ruby.sh,upgrade.sh,\runsc\test\image\ruby.sh,ui/installer/VCSA/upgrade.sh,b9fb8684d56b5817595ee8d23e03f604,8f2e3b6512262f571a68347458af796a,-3408475806820932521,-3318404913789213609,5,N
+ruby.sh,chrootpwd.sh,\runsc\test\image\ruby.sh,installer/packer/scripts/systemd/appliance/chrootpwd.sh,b9fb8684d56b5817595ee8d23e03f604,9379dc3f5612ed0b0bb7236eafa647fa,-3408475806820932521,-3426640838427613610,8,N
+ruby.sh,ova-firewall.sh,\runsc\test\image\ruby.sh,installer/packer/scripts/systemd/appliance/ova-firewall.sh,b9fb8684d56b5817595ee8d23e03f604,110471da94a5897efe253d041397f03f,-3408475806820932521,-3390399835630803849,7,N
+ruby.sh,provision-drone.sh,\runsc\test\image\ruby.sh,infra/machines/devbox/provision-drone.sh,b9fb8684d56b5817595ee8d23e03f604,86f47e3fa7c9f68a5eb58092c88c1411,-3408475806820932521,-3316152014426675626,8,N
+ruby.sh,ci-env.sh,\runsc\test\image\ruby.sh,tests/ci-env.sh,b9fb8684d56b5817595ee8d23e03f604,2594b635e6bf6cbc78c29883e9a7e9db,-3408475806820932521,-4469074618544642985,8,N

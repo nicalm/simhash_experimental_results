@@ -1,0 +1,10 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/TGAC/KAT,master,658-716
+ltmain.sh,build.sh,\ext\libeio\ltmain.sh,deps/boost/tools/build/src/engine/build.sh,8ab3567c6eebf703dcd9430e8e4f182b,a010155369571207a80d84efe1ea81e6,-1014810404834015316,-5626223743773765715,8,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,deps/boost/tools/build/src/engine/boehm_gc/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,47d53aebe58a49be35c09c095b4eca5a,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,build.sh,\ext\libev\ltmain.sh,deps/boost/tools/build/src/engine/build.sh,736ed665fa909390d959c34bc3ee8c32,a010155369571207a80d84efe1ea81e6,-5626496423261403220,-5626223743773765715,7,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,deps/boost/tools/build/src/engine/boehm_gc/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,47d53aebe58a49be35c09c095b4eca5a,-5626496423261403220,-1014810404297142356,3,N
+mocksetup-first.sh,bootstrap.sh,\rpm\release\mocksetup-first.sh,deps/boost/bootstrap.sh,806ba71db928e5b63fa0830c93e1a43b,34e387f148259a767d6ac3c1743ff504,-1050672350426624579,-5661091729311289427,8,N
+json.h,json.h,\ext\common\Utils\json.h,deps/jellyfish-2.2.0/include/jellyfish/json.h,29b87036af241870fcac04f93eb10a50,9adc3cb358b92f34642d493202226b02,-7657460375491439342,-7657319706722560750,2,N
+jsoncpp.cpp,jsoncpp.cpp,\ext\common\Utils\jsoncpp.cpp,deps/jellyfish-2.2.0/lib/jsoncpp.cpp,153c504484b1e92a15bd32b885f48d5f,08f4e95d185177ce03c0495264747d2c,-6534621634909502950,-6534621634909502950,0,N
+MD5.cpp,md5.c,\ext\common\Utils\MD5.cpp,deps/boost/tools/build/src/engine/md5.c,39df74706c510cbf1d02da153516ffa1,b2bd61629935ae0c991830adef8b6d96,-1202240236387221744,-1202240236387221744,0,N
+future.cpp,future.cpp,\ext\boost\libs\thread\src\future.cpp,deps/boost/libs/thread/src/future.cpp,0c5798dfef110e95842a92cf85a8efc7,0a111f7919165b26a767b0b606330cb2,2883595042145051713,5189437639041884233,6,N

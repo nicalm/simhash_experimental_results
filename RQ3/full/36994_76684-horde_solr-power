@@ -1,0 +1,3 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/pantheon-systems/solr-power,master,91-103
+autoload_real.php,autoload_real.php,\framework\Test\bundle\vendor\composer\autoload_real.php,vendor/composer/autoload_real.php,bb340181842c161242240728f97e6131,7491ca8f2c530dd11d09991d5d9845e2,6184223047140380225,6184197206486419011,8,N
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,c1c2ff5764dad2e2d41b2f636d550899,a2ba59278fb243827d8d33813e17c180,1600337665765922096,2177363635765499184,5,N

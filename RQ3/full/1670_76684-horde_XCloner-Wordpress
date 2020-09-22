@@ -1,0 +1,4 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/ovidiul/XCloner-Wordpress,refs/heads/master,269-401
+StringUtil.php,StringUtil.php,\framework\Dav\bundle\vendor\sabre\dav\lib\Sabre\DAV\StringUtil.php,vendor/sabre/dav/lib/DAV/StringUtil.php,40bbe8691458cb54c121033eb77683d6,c2a28c9d8c7e7a9e82d2b898de5c58aa,-5957008131288743803,-5957043590524125052,7,N
+UUIDUtil.php,UUIDUtil.php,\framework\Dav\bundle\vendor\sabre\dav\lib\Sabre\DAV\UUIDUtil.php,vendor/sabre/dav/lib/DAV/UUIDUtil.php,8e7828c4034d88e179bc362a190b38a2,76ebfc78546d76d4d3bfed6b35ca5483,4870659879915258379,4871785797001003531,5,N
+NeedPrivileges.php,NeedPrivileges.php,\framework\Dav\bundle\vendor\sabre\dav\lib\Sabre\DAVACL\Exception\NeedPrivileges.php,vendor/sabre/dav/lib/DAVACL/Exception/NeedPrivileges.php,aabbaaa882ec63d5bdd9780cc79a18cd,703210bc2645a457b7fcd94cb569f432,4813928834632097011,1355023617684258035,7,N

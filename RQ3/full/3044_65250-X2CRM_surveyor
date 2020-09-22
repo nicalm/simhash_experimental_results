@@ -1,0 +1,4 @@
+65250-X2CRM,10b72bfe7a1b9694f19a0adef72d85a754d4d3f8,https://github.com/NUBIC/surveyor,master,1042-1084
+jquery.js,jquery-1.9.0.js,\x2engine\js\jqplot\jquery.js,lib/assets/javascripts/surveyor/jquery-1.9.0.js,f7a92132165aa6a0cfd4d24bf43f2936,029bf5a734d1a4c394035efe73ab2db9,-2327297599394695959,-2327860550438636343,4,N
+jquery.maskedinput.js,jquery.maskedinput.js,\x2engine\framework\web\js\source\jquery.maskedinput.js,lib/assets/javascripts/surveyor/jquery.maskedinput.js,f7509321b4dd6f90def0a8c8f730c965,f7509321b4dd6f90def0a8c8f730c965,-1862219495439500714,-1862219495439500714,0,Y
+jquery-ui-timepicker-addon.js,jquery-ui-timepicker-addon.js,\x2engine\protected\extensions\CJuiDateTimePicker\assets\jquery-ui-timepicker-addon.js,lib/assets/javascripts/surveyor/jquery-ui-timepicker-addon.js,db3def025671d4caceb9f20f844b50e1,db3def025671d4caceb9f20f844b50e1,-8917009653645908255,-8917009653645908255,0,Y

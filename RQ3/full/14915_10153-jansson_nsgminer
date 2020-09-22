@@ -1,0 +1,15 @@
+10153-jansson,8f80c2d83808150724d31793e6ade92749b1faa4,https://github.com/ghostlander/nsgminer,master,5902-5930
+dump.c,dump.c,\src\dump.c,libjansson/dump.c,68b844bf0886498087bf0045f67bbe78,95fa8bbdac52fab148e2a78794bc736b,-7467232469825466169,-8008796922087063337,8,N
+error.c,error.c,\src\error.c,libjansson/error.c,2e73ae658e8e8ae7c84e79ef30eb33fa,2e73ae658e8e8ae7c84e79ef30eb33fa,-2306876315354899793,-2306876315354899793,0,Y
+hashtable.c,hashtable.c,\src\hashtable.c,libjansson/hashtable.c,97aaa4b140126183edc02b6e3001f7e6,6177dcf2f622a6f5f262166051a842f7,3367102704627335102,3367102704627335102,0,N
+hashtable.h,hashtable.h,\src\hashtable.h,libjansson/hashtable.h,b96d79ea9b920493c135e05a43bfc8b1,b96d79ea9b920493c135e05a43bfc8b1,-6179249633243030470,-6179249633243030470,0,Y
+hashtable_seed.c,hashtable_seed.c,\src\hashtable_seed.c,libjansson/hashtable_seed.c,8a7fdb11bfce982d55432d3f7c88722f,007f1d6517212d74ec0641b62695df93,2592511410904039000,2592510379575017049,4,N
+jansson.h,jansson.h,\src\jansson.h,libjansson/jansson.h,e5e3bbfca0d88792e4da8b954bca4d47,0fe59c3d6df52e8e1591478b11014ced,-8530072205202754082,-8531206909792553634,4,N
+jansson_private.h,jansson_private.h,\src\jansson_private.h,libjansson/jansson_private.h,06591de414de2b3829ea99d6d6279ea7,d71ed72b248d5be75a5e93c81a508e58,3914182679599466228,3914182748386051828,2,N
+load.c,load.c,\src\load.c,libjansson/load.c,6ebc2ba8c97ca2bad0972fbed7e3f792,3db9f0f8756457c26c1b3a5b897441a4,34257889861713406,70286684791927294,7,N
+lookup3.h,lookup3.h,\src\lookup3.h,libjansson/lookup3.h,4e8cf6adce341dccdae20a8f9aaa3a69,bb1e456a76e98d049a453081c098e2c3,1306134338126579917,9132830888659149,5,N
+pack_unpack.c,pack_unpack.c,\src\pack_unpack.c,libjansson/pack_unpack.c,1ae0f8f58e2383af980e8c78380656b3,5eb34fabda68cc97fa7fa8e189f5ea61,5195217783671181886,-4028154115752766914,4,N
+strbuffer.c,strbuffer.c,\src\strbuffer.c,libjansson/strbuffer.c,909169ecc704da657adf96932c672804,909169ecc704da657adf96932c672804,-7693720605460299085,-7693720605460299085,0,Y
+strbuffer.h,strbuffer.h,\src\strbuffer.h,libjansson/strbuffer.h,7c033a48f088dbbc9bccf98210a2aeb9,7c033a48f088dbbc9bccf98210a2aeb9,2320440546770939400,2320440546770939400,0,Y
+strconv.c,strconv.c,\src\strconv.c,libjansson/strconv.c,eb7685f49dc1bf0d3f787e336c5be2f6,a007ffca5222bcb7da92ad9310f5c4e2,-4623985321262576190,-4623985922969170493,8,N
+value.c,value.c,\src\value.c,libjansson/value.c,08cf283e243f79ea1d92995c9f55b282,4bed8f20abab041bbaef6ad723e8e88c,-4820678325064966446,-5973598730160238894,5,N

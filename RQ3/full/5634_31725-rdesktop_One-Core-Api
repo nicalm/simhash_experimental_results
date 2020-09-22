@@ -1,0 +1,7 @@
+31725-rdesktop,4dca546d04321a610c1835010b5dad85163b65e1,https://github.com/Skulltrail192/One-Core-Api,master,86-96
+bitmap.c,bitmap.c,\bitmap.c,base/applications/mstsc/bitmap.c,3d05a485cd524accd02929dcb64595c4,70d090caf76309559d27e6320ae478fa,-7187206478932439853,-7475719434437882669,6,N
+cache.c,cache.c,\cache.c,base/applications/mstsc/cache.c,9b92135ec92c6bcd0305114c7c693403,50c39c306c7a85633eaad8916772aa0a,-3528381204499551579,-1168426830036489595,6,N
+mppc.c,mppc.c,\mppc.c,base/applications/mstsc/mppc.c,4bbd97d124b3ee382c0bf334a9d5fc5c,f4fcef1cab049681616c7e2456bc53de,5173845440718684442,5174408390672105746,2,N
+orders.h,orders.h,\orders.h,base/applications/mstsc/orders.h,deb4ae2b06482cd73def0ac7c3f1513c,deb4ae2b06482cd73def0ac7c3f1513c,5119574751168277850,5119574751168277850,0,Y
+proto.h,proto.h,\proto.h,base/applications/mstsc/proto.h,b6c068f7883c6e6213584f6155b92e22,bf0bc33a725075eb04c8bdead4651bef,2644334273833137420,2645495358112068620,3,N
+types.h,types.h,\types.h,base/applications/mstsc/types.h,6c3bd0a6753450d071f687095f007325,08c8e0c6d094becae936a7ab72d8820e,834514785149515282,5320381488987747858,6,N

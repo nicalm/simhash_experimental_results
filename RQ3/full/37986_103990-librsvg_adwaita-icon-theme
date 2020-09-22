@@ -1,0 +1,4 @@
+103990-librsvg,ecf9267a24b2c3c0cd211dbdfa9ef2232511972a,https://github.com/GNOME/adwaita-icon-theme,master,3120-3350
+autogen.sh,autogen.sh,\autogen.sh,autogen.sh,0e34e152189397cf79d6dadc5c0afbd3,ea669605f3f7d6a9775c43cdba63b9e3,-510904053350818641,-222744106077053777,7,N
+pc_base.py,pc_base.py,\win32\pc_base.py,win32/pc_base.py,6f51543f599beeb5f41c1798853c2d60,6f51543f599beeb5f41c1798853c2d60,7427038836474905934,7427038836474905934,0,Y
+replace.py,replace.py,\win32\replace.py,win32/replace.py,35a25ca6205f51f9b9c8b8d7b975ba2b,8dd5a54d8e7e533bb8bf777c3e513e2f,-376443338759428521,-106227361654331819,5,N

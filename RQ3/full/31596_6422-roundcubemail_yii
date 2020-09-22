@@ -1,0 +1,4 @@
+6422-roundcubemail,c086978f6a91eacb339fd2976202fca9dad2ef32,https://github.com/yiisoft/yii,master,5616-6593
+mssql.initial.sql,mssql.sql,\SQL\mssql.initial.sql,tests/framework/db/data/mssql.sql,f0eef6a47cfd3ccf91751374fe89795f,bb21ab354df7a20277edfa746dae4736,-6285860647273504619,-1674174628846116715,1,N
+mssql.upgrade.sql,mssql.sql,\SQL\mssql.upgrade.sql,tests/framework/db/data/mssql.sql,5166c4f4928c708b17b9c5a7695c1adb,bb21ab354df7a20277edfa746dae4736,-6285860647273504619,-1674174628846116715,1,N
+IDNA2.php,IDNA2.php,\program\lib\Net\IDNA2.php,framework/vendors/Net_IDNA2/Net/IDNA2.php,08a2ccf67fad8d7cd2cb1a294f4f2501,ad4921f1394fb722d283eae931574727,-6667599673408577694,-6667599673408479390,2,N

@@ -1,0 +1,3 @@
+19879-Froxlor,da4ec3e1b591de96675817a009e26e05e848a6ba,https://github.com/slackero/phpwcms,master,1088-1658
+class.idna_convert.php,idna_convert.class.php,\lib\classes\idna\class.idna_convert.php,include/inc_ext/idna_convert/idna_convert.class.php,0ff7601e28467a619020d7555dc067d0,bdd43ee68e45e03c10d54c784361675f,-6081882331889895844,-6081882331822786980,1,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,include/inc_ext/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

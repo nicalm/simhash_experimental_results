@@ -1,0 +1,8 @@
+36453-sgminer,bac5831b355f916e0696b7bbcccfc51c057b729a,https://github.com/weolar/miniblink49,master,1180-1725
+curlbuild.h,curlbuild.h,\winbuild\dist\include\curl\curlbuild.h,third_party/curl/curlbuild.h,e067833dab9f39f7ab564a13518cb77f,46460bc53963c23d2ad0ad82e8260b47,-80511587933003691,-80511587933003691,0,N
+curlrules.h,curlrules.h,\winbuild\dist\include\curl\curlrules.h,third_party/curl/curlrules.h,cde8f1bdc7f1bdd7e9d977f109dd1ad1,77d1834cc75b5ce9b84c13cf9baecc96,966349264358977910,4423424893959774582,7,N
+easy.h,easy.h,\winbuild\dist\include\curl\easy.h,third_party/libcurl/include/curl/easy.h,54b43329e6a89e6f8fecc6379e542ccb,54b43329e6a89e6f8fecc6379e542ccb,-4333034448610741311,-4333034448610741311,0,Y
+easy.h,easy.h,\winbuild\dist\include\curl\easy.h,third_party/curl/easy.h,54b43329e6a89e6f8fecc6379e542ccb,54b43329e6a89e6f8fecc6379e542ccb,-4333034448610741311,-4333034448610741311,0,Y
+mprintf.h,mprintf.h,\winbuild\dist\include\curl\mprintf.h,third_party/curl/mprintf.h,fa2bf6410e6087550228a21bdd0461a3,fa2bf6410e6087550228a21bdd0461a3,-584728654166364892,-584728654166364892,0,Y
+multi.h,multi.h,\winbuild\dist\include\curl\multi.h,third_party/curl/multi.h,5f6417106e3499d25a38e82fc9d4cdd9,928c5fd3dcd19ba98734b2a34a51453f,-2374128556051851908,-2374480400368329860,8,N
+multi.h,multi.h,\winbuild\dist\include\curl\multi.h,third_party/libcurl/include/curl/multi.h,5f6417106e3499d25a38e82fc9d4cdd9,c77ebe3623272afe6d8a7cd05225f9cf,-2374128556051851908,-2374118368408299652,7,N

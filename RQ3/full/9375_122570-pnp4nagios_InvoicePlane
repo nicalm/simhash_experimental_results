@@ -1,0 +1,5 @@
+122570-pnp4nagios,e4a19768a5c5e5b1276caf3dd5bb721a540ec014,https://github.com/InvoicePlane/InvoicePlane,master,139-727
+FilterASCII85.php,FilterASCII85.php,\share\pnp\application\vendor\fpdf\filters\FilterASCII85.php,application/helpers/mpdf/mpdfi/filters/FilterASCII85.php,309a914e32386271c629f03a00fae2cf,309a914e32386271c629f03a00fae2cf,-8427428751112281745,-8427428751112281745,0,Y
+FilterLZW.php,FilterLZW.php,\share\pnp\application\vendor\fpdf\filters\FilterLZW.php,application/helpers/mpdf/mpdfi/filters/FilterLZW.php,80aa01278c999acbf120ef0f933b6c07,80aa01278c999acbf120ef0f933b6c07,1105982872998923632,1105982872998923632,0,Y
+helveticabi.php,chelveticab.php,\share\pnp\application\vendor\fpdf\font\helveticabi.php,application/helpers/mpdf/font/chelveticab.php,44898b375831237165806ddecf6a37bd,f14bdcc11e9e9c7336c97cb5612ba972,-6582434857237331658,-6579835681005616842,7,N
+helveticabi.php,chelveticabi.php,\share\pnp\application\vendor\fpdf\font\helveticabi.php,application/helpers/mpdf/font/chelveticabi.php,44898b375831237165806ddecf6a37bd,96db9d9843beeb517a977a0e3ad182b3,-6582434857237331658,-6562594719535447754,8,N

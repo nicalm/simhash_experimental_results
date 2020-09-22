@@ -1,0 +1,10 @@
+38122-mapserver,3a10f6b829297dae63492a8c63385044bc6953ed,201694-LK8000,c75d26bb47cef134c16cd5c3bf8e4f5be4bb51dd
+mapbits.c,mapbits.c,\mapbits.c,\Common\Source\Topology\shapelib\mapbits.c,2e7585b4258c7902e23d3548f98ed9ff,f6ab187f96f496eed75da6bed0f6123d,1856296411120408378,6476989628802537272,3,N,53,55,51
+mapprimitive.c,mapprimitive.c,\mapprimitive.c,\Common\Source\Topology\shapelib\mapprimitive.c,734fd87229131d4d9cb253fc763da5dd,dcca3daed0f3f415afd1d4b4441a53be,-5340759939527195916,-5372284587163514124,6,N,1628,1623,1353
+mapprimitive.h,mapprimitive.h,\mapprimitive.h,\Common\Source\Topology\shapelib\mapprimitive.h,e43ba8d44b1e00cb0b939bd7b0d05c3d,e43ba8d44b1e00cb0b939bd7b0d05c3d,-2278250644354485739,-2278250644354485739,0,Y,74,74,74
+mapsearch.c,mapsearch.c,\mapsearch.c,\Common\Source\Topology\shapelib\mapsearch.c,dcfc0675d9ba7056d904bb6d29beab54,607b37ab131dedd1aed8b052937125db,-6057537069217634950,-6057396331729279622,1,N,439,443,435
+mapserver.h,mapserver.h,\mapserver.h,\Common\Source\Topology\shapelib\mapserver.h,0a8065be6b3810fe75f7496599e46fdc,bfae5950650729b0f7738aa3c40e5cab,-1048437988967080875,-1120530355068625891,7,N,2010,2278,1789
+mapshape.c,mapshape.c,\mapshape.c,\Common\Source\Topology\shapelib\mapshape.c,5905bcc7fa44d2ae94692500d9be8842,58c7c15a602bcefba9ed3b2d9c7ce14d,2845332389494638457,-6450097383131856007,6,N,1814,1957,1759
+mapshape.h,mapshape.h,\mapshape.h,\Common\Source\Topology\shapelib\mapshape.h,bc3a8baa0aaf41e31e41910a9b11b5f7,8bf349e01e7631cd95ab8b0ce148804a,8087169382352363217,8084846664038424275,5,N,153,162,149
+mapstring.c,mapstring.c,\mapstring.c,\Common\Source\Topology\shapelib\mapstring.c,f32495b5c7c1f357e544ca325ea49e3b,8fe81c28339f3d389642e21a0829cf88,4053322286680447663,8665571289420868271,6,N,1313,1467,1284
+maptree.c,maptree.c,\maptree.c,\Common\Source\Topology\shapelib\maptree.c,6ea6d5f95d7a44ad86e22636ca6a6467,0f4736076ddd6d83ad469dbd67ab2454,7191182691934510200,7191191556747271273,5,N,481,493,468

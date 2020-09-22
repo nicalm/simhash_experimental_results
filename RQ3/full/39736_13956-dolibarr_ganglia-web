@@ -1,0 +1,6 @@
+13956-dolibarr,1dc466e1fb687cfe647de4af891720419823ed56,https://github.com/ganglia/ganglia-web,master,1145-1359
+jquery.flot.crosshair.js,jquery.flot.crosshair.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.crosshair.js,js/jquery.flot.crosshair.js,956e3070ae541fd79d473c6bf20d584a,9a83ece996838eca169e5d1225d4a7e4,-5535851851952475977,-5535992598030774105,4,N
+jquery.flot.selection.js,jquery.flot.selection.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.selection.js,js/jquery.flot.selection.js,f7ad5d968481c6d9d413802d514bff24,f7ad5d968481c6d9d413802d514bff24,-5391912454455542428,-5391912454455542428,0,Y
+jquery.flot.stack.js,jquery.flot.stack.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.stack.js,js/jquery.flot.stack.js,0f3b1bcf18aa7c960a35dfd1911cd534,0f3b1bcf18aa7c960a35dfd1911cd534,-64530867233329355,-64530867233329355,0,Y
+jquery.flot.time.js,jquery.flot.time.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.time.js,js/jquery.flot.time.js,74e3bac09587091d33a37e2f8fe86449,90e6e1b8ffc80f37b2e7589083a3e629,-8002266877783539956,-8002302096519561460,3,N
+jquery.cookie.js,jquery.cookie.js,\htdocs\includes\jquery\plugins\jquerytreeview\lib\jquery.cookie.js,js/jquery.cookie.js,3afd2635a3215b776218c4902c698949,02fbaab811ff0ad4955572875be36e12,1625489322755305611,1625350793400234114,7,N

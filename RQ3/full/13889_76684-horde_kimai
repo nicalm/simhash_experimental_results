@@ -1,0 +1,8 @@
+76684-horde,30d5506c20d26efbb9942fbdc6f981a0bd333b97,https://github.com/kimai/kimai,master,1633-1687
+ClassLoader.php,ClassLoader.php,\components\bundle\vendor\composer\ClassLoader.php,libraries/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+form.js,jquery.form.js,\framework\Core\js\jquery.mobile\plugins\form.js,libraries/jQuery/jquery.form.js,0d070268ce748b714cd7cbcfab599f98,60f900ac46854abb12d3da82f0287dd5,-3092173818883110632,-3092173818883110632,0,N
+ClassLoader.php,ClassLoader.php,\framework\Css_Parser\bundle\vendor\composer\ClassLoader.php,libraries/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Mongo\bundle\vendor\composer\ClassLoader.php,libraries/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Pgp\bundle\vendor\composer\ClassLoader.php,libraries/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Stringprep\bundle\vendor\composer\ClassLoader.php,libraries/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,libraries/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y

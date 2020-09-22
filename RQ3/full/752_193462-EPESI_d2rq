@@ -1,0 +1,8 @@
+193462-EPESI,3cd666558c89d9c4b27eb74bf6b8e81b4f6e7118,https://github.com/d2rq/d2rq,master,628-947
+prototype.js,prototype.js,\libs\prototype.js,webapp/snorql/prototype.js,716305c77a0afa7f3793342f7bb68287,d8ea4aa68638c9549a65b470041e6d2b,6384032221750095655,6384032221750095655,0,N
+builder.js,builder.js,\modules\Libs\ScriptAculoUs\1.8.0\builder.js,webapp/snorql/scriptaculous/builder.js,80c72310294ecb74e184b93be9f3878d,80c72310294ecb74e184b93be9f3878d,2292904455764082806,2292904455764082806,0,Y
+controls.js,controls.js,\modules\Libs\ScriptAculoUs\1.8.0\controls.js,webapp/snorql/scriptaculous/controls.js,235fbdc91bf6241cb4faf3a43e740587,bcfde14fa7c068d423aced79dfa8731e,7076001149544930219,7076001424422853547,2,N
+dragdrop.js,dragdrop.js,\modules\Libs\ScriptAculoUs\1.8.0\dragdrop.js,webapp/snorql/scriptaculous/dragdrop.js,c55f5f2b4d2de4d9d288de8ff9568f92,c8175d3ea6e9fdd50914d2b371cd2d04,6462446090366009818,6462516459143743834,4,N
+effects.js,effects.js,\modules\Libs\ScriptAculoUs\1.8.0\effects.js,webapp/snorql/scriptaculous/effects.js,b8553813a459cedd54498d9d5f94a21f,20b28217e8b37491144264b930dc3778,1781880889474206063,1781880889457428847,1,N
+slider.js,slider.js,\modules\Libs\ScriptAculoUs\1.8.0\slider.js,webapp/snorql/scriptaculous/slider.js,f50e85c7c70235b43a8a40a02915ec5b,f50e85c7c70235b43a8a40a02915ec5b,-6181403061485017173,-6181403061485017173,0,Y
+sound.js,sound.js,\modules\Libs\ScriptAculoUs\1.8.0\sound.js,webapp/snorql/scriptaculous/sound.js,7357bde4f601fe4c3887a99e93925fca,7357bde4f601fe4c3887a99e93925fca,-5529840216636612418,-5529840216636612418,0,Y

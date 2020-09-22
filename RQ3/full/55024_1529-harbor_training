@@ -1,0 +1,3 @@
+1529-harbor,b6db8a8a106259ec9a2c48be8a380cb3b37cf517,https://github.com/x3rus/training,master,733-756
+cli.py,harbor_cli.py,\contrib\registryapi\cli.py,jenkins-pipeline-et-dockers/depot-dockers-pour-gitlab/scripts-projects/harbor/harbor_cli.py,b7b9f0e2734e77ea93a1b51e110fa702,b7b9f0e2734e77ea93a1b51e110fa702,6990247487412276408,6990247487412276408,0,Y
+registry.py,registry.py,\contrib\registryapi\registry.py,jenkins-pipeline-et-dockers/depot-dockers-pour-gitlab/scripts-projects/harbor/registry.py,0a19d5ac9c8403b64d48949f521465d3,0a19d5ac9c8403b64d48949f521465d3,-3948424544553205461,-3948424544553205461,0,Y

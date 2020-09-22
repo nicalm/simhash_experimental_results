@@ -1,0 +1,7 @@
+13956-dolibarr,fc3fcc5455d9a610b85723e89e8be43a41ad1378,https://github.com/cybermonde/odtphp,refs/heads/master,4-30
+SegmentIterator.php,SegmentIterator.php,\htdocs\includes\odtphp\SegmentIterator.php,library/SegmentIterator.php,14959003f4f9da3e2f98c2af74c8d0ab,2f2ad80be305c90b54d29e7a8740ee90,-3964820573783601385,-3964820573783601385,0,N
+PhpZipProxy.php,PhpZipProxy.php,\htdocs\includes\odtphp\zip\PhpZipProxy.php,library/zip/PhpZipProxy.php,4080989d3da1ad94012b9000120d7044,4080989d3da1ad94012b9000120d7044,-334258619754305092,-334258619754305092,0,Y
+pclzip.lib.php,pclzip.lib.php,\htdocs\includes\odtphp\zip\pclzip\pclzip.lib.php,library/zip/pclzip/pclzip.lib.php,a55ccd1ba342110a151701d3e3a9183f,b709a3951a334b3fc0784db5d915d5a0,3258390844160915369,3258390878520653737,1,N
+pclzip.lib.php,pclzip.lib.php,\htdocs\includes\odtphp\zip\pclzip\pclzip.lib.php,library/zip/pclzip/pclzip.lib.php,a55ccd1ba342110a151701d3e3a9183f,e947540725a95b901b25102c0631bd6d,3258390844160915369,3258390844160915369,0,N
+pclzip.lib.php,pclzip.lib.php,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Shared\PCLZip\pclzip.lib.php,library/zip/pclzip/pclzip.lib.php,e30c8da848b3f43fef80ce3dfd67cd60,b709a3951a334b3fc0784db5d915d5a0,3258390844160915369,3258390878520653737,1,N
+pclzip.lib.php,pclzip.lib.php,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Shared\PCLZip\pclzip.lib.php,library/zip/pclzip/pclzip.lib.php,e30c8da848b3f43fef80ce3dfd67cd60,e947540725a95b901b25102c0631bd6d,3258390844160915369,3258390844160915369,0,N

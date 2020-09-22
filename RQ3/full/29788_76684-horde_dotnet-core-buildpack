@@ -1,0 +1,5 @@
+76684-horde,4d8176d1e9ef5cbd2b3fcacd9b9a4c8e482fb424,https://github.com/cloudfoundry/dotnet-core-buildpack,refs/heads/master,865-1098
+json2.js,json2.js,\horde\js\json2.js,fixtures/angular_msbuild_dotnet_2.1/ClientApp/node_modules/jasmine-core/lib/jasmine-core/json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,7ee4904708a2e7b6bffc7d8ca1f6ede3,1370407647809398239,1370407647809398239,0,Y
+json2.js,json2.js,\horde\js\json2.js,fixtures/angular_msbuild_dotnet_2.1/ClientApp/node_modules/jasmine/node_modules/jasmine-core/lib/jasmine-core/json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,7ee4904708a2e7b6bffc7d8ca1f6ede3,1370407647809398239,1370407647809398239,0,Y
+json2.js,json2.js,\horde\js\json2.js,fixtures/angular_msbuild_dotnet_2.1/ClientApp/node_modules/loglevel/test/vendor/json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,4cc6c32726f5f481bcca6fabd526c65b,1370407647809398239,3678506786168006111,5,N
+base64.js,base64.js,\imp\js\external\base64.js,fixtures/angular_msbuild_dotnet_2.1/ClientApp/node_modules/js-base64/base64.js,ed1904d058067642524b80bdd4a2ee04,4af3d53b20f97e2009a79b0b649b1bf2,-581319720545324868,-583570411724771140,6,N

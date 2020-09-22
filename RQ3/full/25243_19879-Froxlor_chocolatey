@@ -1,0 +1,3 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/ovflowd/chocolatey,master,4-10
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,Vendor/phpmailer/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,b8faa82d0283e293acadd15707781d0b,7289638721001993635,7289638716707026323,3,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,Vendor/phpmailer/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

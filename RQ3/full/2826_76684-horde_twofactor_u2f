@@ -1,0 +1,8 @@
+76684-horde,30d5506c20d26efbb9942fbdc6f981a0bd333b97,https://github.com/nextcloud/twofactor_u2f,master,41-257
+ClassLoader.php,ClassLoader.php,\components\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Css_Parser\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Mongo\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Pgp\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+autoload_real.php,autoload_real.php,\framework\Stringprep\bundle\vendor\composer\autoload_real.php,vendor/composer/autoload_real.php,16db1ec9572e95882b5b1575865ccf62,d1a0d6d760a290d66edda9f4ecccd755,9061504926803734275,8489473007352721159,7,N
+ClassLoader.php,ClassLoader.php,\framework\Stringprep\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,a5549d5e11bcd45267c94eac22fd1dbd,2177365834788754704,2177365834788754704,0,Y

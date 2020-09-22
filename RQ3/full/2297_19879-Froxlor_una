@@ -1,0 +1,3 @@
+19879-Froxlor,8558533a9148a2a0302c9c177abff8e4e4075b92,https://github.com/unaio/una,master,797-5080
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,plugins/phpmailer/class.phpmailer.php,88711429b426e230eb29c661c7da7644,1c48f270022670b3b4b229872931edc9,7109353998414617907,2344668740106427699,6,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,plugins/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

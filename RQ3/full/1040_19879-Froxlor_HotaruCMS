@@ -1,0 +1,3 @@
+19879-Froxlor,da4ec3e1b591de96675817a009e26e05e848a6ba,https://github.com/HotaruCMS/HotaruCMS,master,1229-1270
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,libs/extensions/phpMailer/class.phpmailer.php,88711429b426e230eb29c661c7da7644,e32dd7a63fadd7de3cc302557069e6cd,7109353998414617907,7109353998414617907,0,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,libs/extensions/phpMailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

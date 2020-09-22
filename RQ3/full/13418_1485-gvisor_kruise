@@ -1,0 +1,6 @@
+1485-gvisor,0e277a39c8b6f905e289b75e8ad0594e6b3562ca,https://github.com/openkruise/kruise,master,27-132
+workspace_status.sh,test-plugin.sh,\tools\workspace_status.sh,vendor/k8s.io/client-go/plugin/pkg/client/auth/exec/testdata/test-plugin.sh,1da5d14f84945fca7be9ec85a66f00ef,dea15381e57dd0ae0ae5fab970967dfa,-3399477403659213225,-3426490203186993577,6,N
+workspace_status.sh,util.sh,\tools\workspace_status.sh,vendor/k8s.io/kubernetes/cluster/kubemark/util.sh,1da5d14f84945fca7be9ec85a66f00ef,90596d0be8d70c9ebfca4dedc989b2c4,-3399477403659213225,-3354370901168691369,8,N
+workspace_status.sh,test-plugin.sh,\tools\workspace_status.sh,vendor/k8s.io/kubernetes/staging/src/k8s.io/client-go/plugin/pkg/client/auth/exec/testdata/test-plugin.sh,1da5d14f84945fca7be9ec85a66f00ef,dea15381e57dd0ae0ae5fab970967dfa,-3399477403659213225,-3426490203186993577,6,N
+ruby.sh,test-plugin.sh,\runsc\test\image\ruby.sh,vendor/k8s.io/client-go/plugin/pkg/client/auth/exec/testdata/test-plugin.sh,b9fb8684d56b5817595ee8d23e03f604,dea15381e57dd0ae0ae5fab970967dfa,-3408475806820932521,-3426490203186993577,6,N
+ruby.sh,test-plugin.sh,\runsc\test\image\ruby.sh,vendor/k8s.io/kubernetes/staging/src/k8s.io/client-go/plugin/pkg/client/auth/exec/testdata/test-plugin.sh,b9fb8684d56b5817595ee8d23e03f604,dea15381e57dd0ae0ae5fab970967dfa,-3408475806820932521,-3426490203186993577,6,N

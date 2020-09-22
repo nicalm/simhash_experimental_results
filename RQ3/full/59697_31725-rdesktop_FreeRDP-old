@@ -1,0 +1,15 @@
+31725-rdesktop,4dca546d04321a610c1835010b5dad85163b65e1,https://github.com/FreeRDP/FreeRDP-old,refs/heads/master,429-780
+bitmap.c,bitmap.c,\bitmap.c,libfreerdp/bitmap.c,3d05a485cd524accd02929dcb64595c4,abc6d373f7ab214f8d0e3cf995117396,-7187206478932439853,-7061105689936490797,5,N
+bitmap.c,bitmap.c,\bitmap.c,libfreerdp/bitmap.c,3d05a485cd524accd02929dcb64595c4,1c56f2f52a14761a632b4bf4fa63da73,-7187206478932439853,-7331599843483673389,7,N
+mppc.c,mppc.c,\mppc.c,libfreerdp/mppc.c,4bbd97d124b3ee382c0bf334a9d5fc5c,13fa3d3810375f0d543edc1e0d53a432,5173845440718684442,5173847641889390870,5,N
+orders.h,orderstypes.h,\orders.h,libfreerdp/orderstypes.h,deb4ae2b06482cd73def0ac7c3f1513c,bfd5130214dd8fc38d60ade538617d59,5119574751168277850,7424221497099659610,6,N
+parallel.c,parallel.c,\parallel.c,channels/rdpdr/parallel/parallel.c,ec6560565fdb1565424cc112e7a78cfc,6b1e940c9191f945466167321cba91e1,-8898663672608352616,-8898663670443034980,5,N
+parallel.c,parallel.c,\parallel.c,channels/rdpdr/parallel/parallel.c,ec6560565fdb1565424cc112e7a78cfc,3c8943996d77d24ff1c9abca8f3ca991,-8898663672608352616,-8898663670443039076,6,N
+rdpsnd_dsp.c,rdpsnd_dsp.c,\rdpsnd_dsp.c,channels/rdpsnd/rdpsnd_dsp.c,0b43c866fa74d99b755178bf06df23bb,30040ce9822f9968793d6bc61946ec23,-6962979688512192370,-7251210081844817698,6,N
+rdpsnd_dsp.c,rdpsnd_dsp.c,\rdpsnd_dsp.c,channels/rdpsnd/rdpsnd_dsp.c,0b43c866fa74d99b755178bf06df23bb,be97e03fb04d22a101fe719997710c92,-6962979688512192370,-7251210081843769138,4,N
+rdpsnd_libao.c,rdpsnd_libao.c,\rdpsnd_libao.c,channels/rdpsnd/rdpsnd_libao.c,a6ab10f6f558a994befe1d4e51265c54,9d642f47b5d8d40648870644122dd152,5337038880506316518,5337030084412969710,6,N
+rdpsnd_oss.c,rdpsnd_oss.c,\rdpsnd_oss.c,channels/rdpsnd/rdpsnd_oss.c,d7869b6d4e2912f71aa4dfffeef73b15,50476ea2c88d53903ea8f2a49eec551c,-4710391402081936031,-4692377553597751831,6,N
+rdpsnd_sun.c,rdpsnd_sun.c,\rdpsnd_sun.c,channels/rdpsnd/rdpsnd_sun.c,4734ae254f74b39b21d2bb1f0f3a4efa,b9993d1479f823a64ac741c9bd44a00b,7260781976474225581,7260781426718149549,2,N
+scard.h,scard.h,\scard.h,channels/rdpdr/smartcard/scard.h,4a02d9c96ab136bbc6ccd548498fb6fc,0e68da1a7ed53e8cf289ed25c4b525fd,-7218675379588656254,-7236689812456832126,4,N
+serial.c,serial.c,\serial.c,channels/rdpdr/serial/serial.c,67bfe30175b89c2de7fecaec8eda39ea,e8338158b37d4072bda1efa51b96424d,-3419009429378889890,-806851311102781604,8,N
+brushtest.c,brushtest.c,\tests\brushtest.c,tests/brushtest.c,f209d30f620cc2496b29de8b5a3731ad,f209d30f620cc2496b29de8b5a3731ad,3989207154535464614,3989207154535464614,0,Y

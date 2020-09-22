@@ -1,0 +1,4 @@
+75635-krb5,cf1a0c411b2668c57c41e9c4efd15ba17b6b322c,https://github.com/ntpsec/ntpsec,master,8085-8458
+send-pr.sh,update-leap.sh,\src\util\send-pr\send-pr.sh,scripts/update-leap/update-leap.sh,532932c0059e7aac202897a68faed029,8426f4e71458f6dde6f67228ae90ec1b,-1014608059764338772,-1014467354521792595,5,N
+getopt.c,getopt.c,\src\util\windows\getopt.c,sntp/libevent/WIN32-Code/getopt.c,05fab39a8c58a594a5560f18c424852f,05fab39a8c58a594a5560f18c424852f,5822587814746111882,5822587814746111882,0,Y
+getopt_long.c,getopt_long.c,\src\util\windows\getopt_long.c,sntp/libevent/WIN32-Code/getopt_long.c,a0a6761833b71f9c09db6483600bb274,d6001210b95a1dd967a327f103dd55fb,4633448603274051462,4673980944085809094,7,N

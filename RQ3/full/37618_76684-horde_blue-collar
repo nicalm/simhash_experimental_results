@@ -1,0 +1,4 @@
+76684-horde,1550c6ecd7204f9579fcbb09ec7089e01b0771e2,https://github.com/ChadBurggraf/blue-collar,master,150-176
+json2.js,json2.js,\horde\js\json2.js,Source/BlueCollar.Dashboard/Static/Src/Js/Vendor/json2.js,4c9712aebf68614d6525e2327932fed8,4c9712aebf68614d6525e2327932fed8,1660889755059512671,1660889755059512671,0,Y
+en-US.js,en-US.js,\framework\Core\js\date\en-US.js,Source/BlueCollar.Dashboard/Static/Src/Js/Vendor/DateJs/en-US.js,5933668077d59f70f3d42842f341f03a,5933668077d59f70f3d42842f341f03a,-3106356598695806721,-3106356598695806721,0,Y
+time.js,time.js,\framework\Core\js\date\time.js,Source/BlueCollar.Dashboard/Static/Src/Js/Vendor/DateJs/time.js,bd939bd4da8baab104e0e6686483908c,bd939bd4da8baab104e0e6686483908c,-51911019132356302,-51911019132356302,0,Y

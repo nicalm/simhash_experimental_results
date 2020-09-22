@@ -1,0 +1,2 @@
+3405-libevent,96f64a022014a208105ead6c8a7066018449d86d,https://github.com/cloudflare/certmgr,master,12-71
+hostcheck.c,hostcheck.c,\sample\hostcheck.c,vendor/github.com/google/certificate-transparency/cpp/third_party/curl/hostcheck.c,677cfc060918e9822bb48aa69e291f30,677cfc060918e9822bb48aa69e291f30,2616782861309979669,2913897358119185453,14,E

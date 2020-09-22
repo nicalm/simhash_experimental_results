@@ -1,0 +1,3 @@
+21616-gddo,daffe1f90ec57f8ed69464f9094753fc6452e983,https://github.com/googleapis/google-cloud-go,master,1071-1071
+pubsub.go,pubsub.go,\vendor\cloud.google.com\go\pubsub\pubsub.go,pubsub/pubsub.go,b81559765d37f1d57adea3358ce1df6d,bd0d75fa6a31983a962f235372231645,-8547463603740064652,-3933525787579364300,6,N
+sampling.go,sampling.go,\vendor\cloud.google.com\go\trace\sampling.go,trace/sampling.go,6cd36b4d45390b7fa22c9e6df73432e4,6cd36b4d45390b7fa22c9e6df73432e4,-7655666622850944920,-7655666622850944920,0,Y

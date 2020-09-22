@@ -1,0 +1,4 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/WizTeam/WizQTClient,master,228-1729
+ltmain.sh,dist-test.sh,\ext\libeio\ltmain.sh,lib/clucene/dist-test.sh,8ab3567c6eebf703dcd9430e8e4f182b,a6bc2e034bf1395087296341638a2f9f,-1014810404834015316,-1014467356669276243,6,N
+ltmain.sh,dist-test.sh,\ext\libev\ltmain.sh,lib/clucene/dist-test.sh,736ed665fa909390d959c34bc3ee8c32,a6bc2e034bf1395087296341638a2f9f,-5626496423261403220,-1014467356669276243,7,N
+mocksetup-first.sh,dist-test.sh,\rpm\release\mocksetup-first.sh,lib/clucene/dist-test.sh,806ba71db928e5b63fa0830c93e1a43b,a6bc2e034bf1395087296341638a2f9f,-1050672350426624579,-1014467356669276243,7,N

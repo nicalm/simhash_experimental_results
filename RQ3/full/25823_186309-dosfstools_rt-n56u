@@ -1,0 +1,7 @@
+186309-dosfstools,07908124838afcc99c577d1d3e84cef2dbd39cb7,https://github.com/hanwckf/rt-n56u,master,1515-3638
+common.c,common.c,\src\common.c,trunk/user/dosfstools/dosfstools-3.0.12/src/common.c,0372f0f03163f32ffc142d53031f2a9f,889f32106e887c6c2ef0f32e934d2ad3,8146806608546568222,8146665871058159646,5,N
+file.c,file.c,\src\file.c,trunk/user/dosfstools/dosfstools-3.0.12/src/file.c,1cd04d51d9535acd315f81bfc56d1959,0f69fcb9101c017953020a3eb6aec95b,-6086879206150569814,-6086879274903600982,2,N
+file.h,file.h,\src\file.h,trunk/user/dosfstools/dosfstools-3.0.12/src/file.h,dfad04db4b75b057fdf0bca04d81fab7,3fbdab2a04c8a5573f50d0c48a9544fb,-2574240183352473072,-268247606197630448,5,N
+fsck.fat.c,dosfsck.c,\src\fsck.fat.c,trunk/user/dosfstools/dosfstools-3.0.12/src/dosfsck.c,b6ca9d147a832011f50c0da1d5d5f12d,99f3d832182977948266cbe12aaa3f21,-8144952958272736587,-8144917773808307531,5,N
+io.c,io.c,\src\io.c,trunk/user/dosfstools/dosfstools-3.0.12/src/io.c,4b3ebaabd969ccfd7303b6c52b3601e7,6acb37ac3482bd2329d902e0d5ddf2a9,-8618753063246406106,-7348737968327669210,7,N
+lfn.c,lfn.c,\src\lfn.c,trunk/user/dosfstools/dosfstools-3.0.12/src/lfn.c,c13fb697060ccc98d0a7afcd49d6c82b,481e482620b4324282af38961ff352e0,460350490168990445,172260851522411183,5,N

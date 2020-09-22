@@ -1,0 +1,3 @@
+193462-EPESI,dda3e5f3843e80fe9ed36115f4fe72c06a3a41bc,https://github.com/rande/swCombinePlugin,master,11-23
+JSMinPlus.php,jsminplus.php,\libs\minify\JSMinPlus.php,lib/vendor/jsminplus/jsminplus.php,fa4f0a7c780b516c975392e7605468de,d13deef8e2ad759b837a12442b4186f8,-2065879614484494372,-2056800964120786979,8,N
+Compressor.php,Minify_CSS_Compressor.class.php,\libs\minify\Minify\CSS\Compressor.php,lib/vendor/minify/Minify_CSS_Compressor.class.php,b45c9053a1ca06eacb765e2b6564fb48,b45c9053a1ca06eacb765e2b6564fb48,-452523155337441189,-452523155337441189,0,Y

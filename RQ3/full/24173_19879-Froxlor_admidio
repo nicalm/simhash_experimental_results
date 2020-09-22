@@ -1,0 +1,4 @@
+19879-Froxlor,da4ec3e1b591de96675817a009e26e05e848a6ba,https://github.com/Admidio/admidio,master,3840-4210*4550-7772
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,adm_program/libs/phpmailer/class.phpmailer.php,88711429b426e230eb29c661c7da7644,96178150c62ae7e0a1fb14fc300befe3,7109353998414617907,7397584374566329651,1,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,adm_program/libs/phpmailer/class.smtp.php,ac2ed950cb1cb89d40c96b7174cad080,ac2ed950cb1cb89d40c96b7174cad080,-8824115752155750095,-8824115752155750095,0,Y
+PHPMailerAutoload.php,phpmailerautoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,adm_program/libs/phpmailer/phpmailerautoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

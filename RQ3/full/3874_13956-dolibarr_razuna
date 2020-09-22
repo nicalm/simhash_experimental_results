@@ -1,0 +1,5 @@
+13956-dolibarr,4b8be6ed64763327018ac1c076f81ddffa87855e,https://github.com/razuna/razuna,master,4473-4888
+jquery-ui.js,jquery-ui.js,\htdocs\includes\jquery\js\jquery-ui.js,global/js/jquery-ui-1.12.1.custom/jquery-ui.js,ffee8022a592b0d0071d2633a6d55c2e,ffee8022a592b0d0071d2633a6d55c2e,-1117851216293556933,-1117851216293556933,0,Y
+jquery.jeditable.js,jquery.jeditable.js,\htdocs\includes\jquery\plugins\jeditable\jquery.jeditable.js,admin/errors/js/datatables/js/jquery.jeditable.js,b0dc9ba03a8e3ad3d4703aae192cb2b7,40bef22f1f1fc27b793bef09271eb8e1,-1721744817943761223,-1721744810425631557,8,N
+sample.js,sample.js,\htdocs\includes\ckeditor\ckeditor\samples\old\sample.js,global/js/ckeditor/samples/sample.js,6f2c5c76b53523ed0967840b2ed4ba3f,6f2c5c76b53523ed0967840b2ed4ba3f,-1770447324300706850,-1770447324300706850,0,Y
+sample.js,sample.js,\htdocs\includes\ckeditor\ckeditor\samples\old\sample.js,global/js/ckeditor_Old/samples/sample.js,6f2c5c76b53523ed0967840b2ed4ba3f,6f2c5c76b53523ed0967840b2ed4ba3f,-1770447324300706850,-1770447324300706850,0,Y

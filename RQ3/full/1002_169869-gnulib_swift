@@ -1,0 +1,8 @@
+169869-gnulib,278b4175c9d7dd47c1a3071554aac02add3b3c35,https://github.com/swift/swift,master,3383-3513
+c-strcasecmp.c,c-strcasecmp.c,\lib\c-strcasecmp.c,3rdParty/LibIDN/src/gl/c-strcasecmp.c,46c357aef90334eb983f9a3d1750e21f,46c357aef90334eb983f9a3d1750e21f,-8119417656376980353,-8119417656376980353,0,Y
+c-strncasecmp.c,c-strncasecmp.c,\lib\c-strncasecmp.c,3rdParty/LibIDN/src/gl/c-strncasecmp.c,6c0dcf49086c90da5d90bea467173589,6c0dcf49086c90da5d90bea467173589,-5817735233520464865,-5817735233520464865,0,Y
+unistr.in.h,unistr.h,\lib\unistr.in.h,3rdParty/LibIDN/src/gl/unistr.h,367f996cdbafcc28a9f91b2344c15541,a277c89f056a7d94e1e2a550f956ba7a,-3886304664153294466,-3886304664153293442,1,N
+unitypes.in.h,unitypes.h,\lib\unitypes.in.h,3rdParty/LibIDN/src/gl/unitypes.h,cd9d0884e48f6e7122ffaa60baab8086,cd9d0884e48f6e7122ffaa60baab8086,-730352926554825417,-730352926554825417,0,Y
+uniwidth.in.h,unistr.h,\lib\uniwidth.in.h,3rdParty/LibIDN/src/gl/unistr.h,d0624088efc387deb944c5d44192f324,a277c89f056a7d94e1e2a550f956ba7a,-3814211885744325313,-3886304664153293442,5,N
+constants.py,Environment.py,\pygnulib\constants.py,3rdParty/SCons/scons-2.4.0/engine/SCons/Environment.py,16c8bc3b7e832521166f0b8e618df6cb,3e4ccf1a231bbd93086447d2aeaad083,8005751386443481454,9015679067128463722,8,N
+GLConfig.py,Debug.py,\pygnulib\GLConfig.py,3rdParty/SCons/scons-2.4.0/engine/SCons/Debug.py,2f6e22e3d248c0e4283c0beb7cea2716,73ebb97d814c9f2d4ea6e6c0f2b35dc8,8577708539123729774,8452733649447423270,7,N

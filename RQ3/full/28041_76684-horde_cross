@@ -1,0 +1,3 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/babyliynfg/cross,master,185-612
+xxhash.c,xxhash.c,\framework\xxhash\xxhash.c,CrossApp/support/xxhash/xxhash.c,e820adb394a250db1c974e151d59726e,e820adb394a250db1c974e151d59726e,3910219834434174838,3910219834434174838,0,Y
+xxhash.h,xxhash.h,\framework\xxhash\xxhash.h,CrossApp/support/xxhash/xxhash.h,a82d0da132d600525bdd05bac30e4783,d8aac134a2635b07961ce9944618f9c9,-8580506989011316642,642742039978004599,8,N

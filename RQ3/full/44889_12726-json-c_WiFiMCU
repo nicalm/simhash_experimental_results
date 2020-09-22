@@ -1,0 +1,3 @@
+12726-json-c,64e36901a0614bf64a19bc3396469c66dcd0b015,https://github.com/SmartArduino/WiFiMCU,refs/heads/master,16-109
+json.h,json.h,\json.h,External/JSON-C/json.h,f501b58374adca6fcfc9e098f6a23f52,1951cf1e73ca412b186898c790eefc4f,2316262806688407610,2315154567150280746,6,N
+json_tokener.h,json_tokener.h,\json_tokener.h,External/JSON-C/json_tokener.h,088a493b0a7e917dcbbfe7b335526e7e,f0de8635527bc65d3f4ea17b16084be6,2466312536863077953,6931772270528485185,8,N

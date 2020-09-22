@@ -1,0 +1,4 @@
+13956-dolibarr,d26b2a694de30f95e46ea54ea72cc54f0d38e548,https://github.com/razuna/razuna,master,4473-4888
+jquery-ui.js,jquery-ui.js,\htdocs\includes\jquery\js\jquery-ui.js,global/js/jquery-ui-1.12.1.custom/jquery-ui.js,ffee8022a592b0d0071d2633a6d55c2e,ffee8022a592b0d0071d2633a6d55c2e,-1117851216293556933,-1117851216293556933,0,Y
+sample.js,sample.js,\htdocs\includes\ckeditor\ckeditor\samples\old\sample.js,global/js/ckeditor/samples/sample.js,6f2c5c76b53523ed0967840b2ed4ba3f,6f2c5c76b53523ed0967840b2ed4ba3f,-1770447324300706850,-1770447324300706850,0,Y
+sample.js,sample.js,\htdocs\includes\ckeditor\ckeditor\samples\old\sample.js,global/js/ckeditor_Old/samples/sample.js,6f2c5c76b53523ed0967840b2ed4ba3f,6f2c5c76b53523ed0967840b2ed4ba3f,-1770447324300706850,-1770447324300706850,0,Y

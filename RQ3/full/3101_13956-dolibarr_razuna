@@ -1,0 +1,6 @@
+13956-dolibarr,70636cc59ffa1ffbc0ce3dba315d7d9b837aad04,https://github.com/razuna/razuna,master,4473-4888
+styles.js,styles.js,\htdocs\includes\ckeditor\ckeditor\styles.js,global/js/ckeditor_Old/styles.js,d174a31d1d2ff7caccc6bc47ba33b5c3,ee4718cd8a7ae1c392636a4c0e9c247d,7232979223743407808,7232979223743407808,0,N
+styles.js,styles.js,\htdocs\includes\ckeditor\ckeditor\styles.js,global/js/ckeditor/styles.js,d174a31d1d2ff7caccc6bc47ba33b5c3,ee4718cd8a7ae1c392636a4c0e9c247d,7232979223743407808,7232979223743407808,0,N
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,global/js/jquery-ui-1.12.1.custom/external/jquery/jquery.js,ed0016acf848db02c57ce7eb3cc49676,ae1e5b8c6eef12741e6ec92c4832348b,6826268101025539816,6826268092418828008,2,N
+sample.js,sample.js,\htdocs\includes\ckeditor\ckeditor\samples\old\sample.js,global/js/ckeditor/samples/sample.js,905badfccd24e617176fa81cb1c9a621,6f2c5c76b53523ed0967840b2ed4ba3f,-1770447324300706850,-1770447324300706850,0,N
+sample.js,sample.js,\htdocs\includes\ckeditor\ckeditor\samples\old\sample.js,global/js/ckeditor_Old/samples/sample.js,905badfccd24e617176fa81cb1c9a621,6f2c5c76b53523ed0967840b2ed4ba3f,-1770447324300706850,-1770447324300706850,0,N

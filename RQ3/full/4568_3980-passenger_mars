@@ -1,0 +1,4 @@
+3980-passenger,ddb8ecc4ebf260e4967f57f271d4f5761abeac3e,https://github.com/Tencent/mars,master,148-864
+android-ifaddrs.h,ifaddrs.h,\src\cxx_supportlib\vendor-copy\libuv\include\android-ifaddrs.h,mars/comm/jni/ifaddrs.h,17f9489a3a7016caa1dfa9041d97c185,17f9489a3a7016caa1dfa9041d97c185,2389799711922490413,2389799711922490413,0,Y
+future.cpp,future.cpp,\src\cxx_supportlib\vendor-modified\boost\libs\thread\src\future.cpp,mars/boost/libs/thread/src/future.cpp,0d8b055a234baa54eaddba0eca3256ea,4ec50c565cc3d7bad3a1b02a13d2cfef,577749558761758793,5189438188529263689,5,N
+once_atomic.cpp,once_atomic.cpp,\src\cxx_supportlib\vendor-modified\boost\libs\thread\src\pthread\once_atomic.cpp,mars/boost/libs/thread/src/pthread/once_atomic.cpp,a318a55b3152fbd23a2ce7dafe9d42cf,a423d90db2843a48e3f3df3dc9cb389a,2940960365235820873,2940925180725320009,3,N

@@ -1,0 +1,3 @@
+4960-capstone,87a25bb543c8e4c09b48d4b4a6c7db31ce58df06,https://github.com/keystone-engine/keystone,master,404-558
+patch_major_os_version.py,patch_major_os_version.py,\suite\patch_major_os_version.py,suite/patch_major_os_version.py,8a720dbe5441eb29f312bd88f809db3e,8a720dbe5441eb29f312bd88f809db3e,6831429035936956181,6831429035936956181,0,Y
+setup.py,setup.py,\bindings\python\setup.py,bindings/python/setup.py,ef78c70b25a870494ab773a784c955d3,20a976ba9b3d94c7017a1c8ffd296db0,4303859430465639884,4303861766121238988,8,N

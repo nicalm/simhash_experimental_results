@@ -1,0 +1,3 @@
+76684-horde,eb3afd14c22c77ae0d29e2848f5ac726ef6e7c5b,https://github.com/magnussolution/magnusbilling6,master,422-698
+Alpha3.php,Country.php,\framework\Nls\lib\Horde\Nls\Alpha3.php,lib/PlacetoPay/vendor/dnetix/redirection/src/Validators/Country.php,ccd19126222282fd995f18ec1ed8a796,7195c45582a57025252641db34d98753,-9108027625538180065,-9106347576065840097,5,N
+autoload_real.php,autoload_real.php,\framework\Stringprep\bundle\vendor\composer\autoload_real.php,lib/stripe/composer/autoload_real.php,16db1ec9572e95882b5b1575865ccf62,aa255d193bd0a15a4224023473679496,9061504926803734275,6143137063636545291,8,N

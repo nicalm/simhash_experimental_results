@@ -1,0 +1,4 @@
+3980-passenger,94428057c602da3d6d34ef75c78091066ecac5c0,https://github.com/TakefiveInteractive/TedkOS,master,423-828
+run_travis.sh,detect-gcc.sh,\dev\run_travis.sh,mp3/student-distrib/detect-gcc.sh,46fa372a41dd41a271dada869f4084f6,95acc494cad34436789917576c31dac5,-438006604232683859,-2167388859130736659,8,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,mp3/userland/newlib-2.2.0-1/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,db99a57516e7570dbaf187c654c1426c,-1014810404834015316,-5626496423261395028,2,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,mp3/userland/newlib-2.2.0-1/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,db99a57516e7570dbaf187c654c1426c,-1014810404834015316,-5626496423261395028,2,N

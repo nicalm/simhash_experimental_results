@@ -1,0 +1,5 @@
+76684-horde,1550c6ecd7204f9579fcbb09ec7089e01b0771e2,https://github.com/st-js/st-js,master,216-468
+json2.js,json2.js,\horde\js\json2.js,examples/src/test/resources/json2.js,4c9712aebf68614d6525e2327932fed8,4c9712aebf68614d6525e2327932fed8,1660889755059512671,1660889755059512671,0,Y
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,examples/src/test/resources/jquery.js,2d87ba23383f782ee174b1e96d92f56a,0ba17591c4932420e221e67378c20b22,1133429783207067051,1133435349417573675,5,N
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,examples/src/main/webapp/stock/jquery.js,2d87ba23383f782ee174b1e96d92f56a,0ba17591c4932420e221e67378c20b22,1133429783207067051,1133435349417573675,5,N
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,jquery/src/main/js/jquery/jquery.js,2d87ba23383f782ee174b1e96d92f56a,0ba17591c4932420e221e67378c20b22,1133429783207067051,1133435349417573675,5,N

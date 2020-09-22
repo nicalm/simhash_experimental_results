@@ -1,0 +1,5 @@
+26090-sogo,875a4aca3218340fd4d3141950c82c2ff45b343d,https://github.com/azat-co/meanworks,master,21-54
+angular-cookies.js,angular-cookies.js,\UI\WebServerResources\js\vendor\angular-cookies.js,app/client/bower_components/angular-cookies/angular-cookies.js,b1df35c0f73bc79ed215e18368ce110b,b1df35c0f73bc79ed215e18368ce110b,2253172870091454219,2253172870091454219,0,Y
+angular-sanitize.js,angular-sanitize.js,\UI\WebServerResources\js\vendor\angular-sanitize.js,app/client/bower_components/angular-sanitize/angular-sanitize.js,325279850fe9a881f2a48bd5c2a94523,325279850fe9a881f2a48bd5c2a94523,951256781462310131,951256781462310131,0,Y
+angular-ui-router.js,angular-ui-router.js,\UI\WebServerResources\js\vendor\angular-ui-router.js,app/client/bower_components/angular-ui-router/release/angular-ui-router.js,5e8ee5a378393096a23d8ec06350d80f,44da9ffd8caffe56d0c0ee863ae4f5d0,-5784453218231513634,-5773198617215885858,7,N
+angular.js,angular.js,\UI\WebServerResources\js\vendor\angular.js,app/client/bower_components/angular/angular.js,739b82e374b1163fbfcb8e8990797be7,1eadb7a9fab8f1d3cce01dfc7d371142,-236407639073280333,-236407596123574599,5,N

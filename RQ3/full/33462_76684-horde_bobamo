@@ -1,0 +1,7 @@
+76684-horde,1550c6ecd7204f9579fcbb09ec7089e01b0771e2,https://github.com/jspears/bobamo,master,136-326
+json2.js,json2.js,\horde\js\json2.js,plugins/static/public/js/json2.js,4c9712aebf68614d6525e2327932fed8,4c9712aebf68614d6525e2327932fed8,1660889755059512671,1660889755059512671,0,Y
+jquery.js,require-jquery.js,\framework\Core\js\jquery.mobile\jquery.js,plugins/static/public/js/libs/backbone-forms/test/lib/require-jquery.js,2d87ba23383f782ee174b1e96d92f56a,5f54d7f2996b0b8206e292c14b4c2b6e,1133429783207067051,557251330514599243,8,N
+jquery.js,require-jquery.js,\framework\Core\js\jquery.mobile\jquery.js,plugins/static/public/js/libs/require/require-jquery.js,2d87ba23383f782ee174b1e96d92f56a,5f54d7f2996b0b8206e292c14b4c2b6e,1133429783207067051,557251330514599243,8,N
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,plugins/static/public/js/libs/bootstrap/docs/assets/js/jquery.js,2d87ba23383f782ee174b1e96d92f56a,91b95a0505bfd0b81f5dee3aad8cb587,1133429783207067051,1133429783207067051,0,N
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,plugins/static/public/js/libs/bootstrap/js/tests/vendor/jquery.js,2d87ba23383f782ee174b1e96d92f56a,91b95a0505bfd0b81f5dee3aad8cb587,1133429783207067051,1133429783207067051,0,N
+Base.php,EpicEditor.js,\framework\Text_Diff\lib\Horde\Text\Diff\Op\Base.php,plugins/jsonschema/public/js/EpicEditor.js,49bb6e5a09134e97840c29ae669a4be0,2b659b2ccdd4872a4b6e5e73c80d42a4,-9207607159676729084,2314887671331162372,6,N

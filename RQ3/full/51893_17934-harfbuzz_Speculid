@@ -1,0 +1,4 @@
+17934-harfbuzz,c917965b9e6fe2b21ed6c51559673288fa3af4b7,https://github.com/brightdigit/Speculid,master,711-886
+hb.h,hb.h,\src\hb.h,frameworks/cairosvg/dependencies/harfbuzz/1.7.4/include/harfbuzz/hb.h,8bd8d77796ec960b01bd8fbcd4fd5dbb,bd0f746029383df3aa61ee93616b0a5b,6898293186085134610,-2325058784682155248,8,N
+hb.h,hb.h,\src\hb.h,frameworks/cairosvg/dependencies/harfbuzz/1.7.5/include/harfbuzz/hb.h,8bd8d77796ec960b01bd8fbcd4fd5dbb,bd0f746029383df3aa61ee93616b0a5b,6898293186085134610,-2325058784682155248,8,N
+hb.h,hb.h,\src\hb.h,frameworks/cairosvg/dependencies/harfbuzz/1.7.6_2/include/harfbuzz/hb.h,8bd8d77796ec960b01bd8fbcd4fd5dbb,bd0f746029383df3aa61ee93616b0a5b,6898293186085134610,-2325058784682155248,8,N

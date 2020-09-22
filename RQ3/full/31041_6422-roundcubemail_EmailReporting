@@ -1,0 +1,11 @@
+6422-roundcubemail,5ef8e4ad9d3ee8689d2b83750aa65395b7cd59ee,https://github.com/mantisbt-plugins/EmailReporting,refs/heads/master,327-545
+SASL.php,SASL.php,\program\lib\Auth\SASL.php,core_pear/Auth/SASL.php,84decd2869c577abaaff7e281784818c,84decd2869c577abaaff7e281784818c,8799444545684593300,8799444545684593300,0,Y
+mimeDecode.php,mimeDecode.php,\program\lib\Mail\mimeDecode.php,core_pear/Mail/mimeDecode.php,2cdeb312da8b28d164ba1c7baa055c97,2cdeb312da8b28d164ba1c7baa055c97,8726531883794738741,8726531883794738741,0,Y
+mimeDecode.php,mimeDecode.php,\program\lib\Mail\mimeDecode.php,core_pear/Mail/mimeDecode.php,2cdeb312da8b28d164ba1c7baa055c97,614cc0b9f86933c7c47116f62c57354d,8726531883794738741,8726531883786350133,1,N
+Socket.php,Socket.php,\program\lib\Net\Socket.php,core_pear/Net/Socket.php,a4b2209a81fa1d3c6dc3cf67a271833b,1382730228e37bc928ea91eb724a277b,-788162300637842140,8471247466776261924,5,N
+Socket.php,Socket.php,\program\lib\Net\Socket.php,core_pear/Net/Socket.php,a4b2209a81fa1d3c6dc3cf67a271833b,91ee5eb6bcb1d314a3ed82325adaffef,-788162300637842140,8435113666396845348,8,N
+Common.php,Common.php,\program\lib\Auth\SASL\Common.php,core_pear/Auth/SASL/Common.php,8858ae37d9c8cb72dd374bdd9a9ac06a,8858ae37d9c8cb72dd374bdd9a9ac06a,1419078641043311629,1419078641043311629,0,Y
+DigestMD5.php,DigestMD5.php,\program\lib\Auth\SASL\DigestMD5.php,core_pear/Auth/SASL/DigestMD5.php,73706f21d4f4af11bfc497b8b6f46162,73706f21d4f4af11bfc497b8b6f46162,3570038083886813851,3570038083886813851,0,Y
+DigestMD5.php,DigestMD5.php,\program\lib\Auth\SASL\DigestMD5.php,core_pear/Auth/SASL/DigestMD5.php,73706f21d4f4af11bfc497b8b6f46162,6044e1c33ffb3e1ef7a321937ee24009,3570038083886813851,3570038083970699931,2,N
+SCRAM.php,SCRAM.php,\program\lib\Auth\SASL\SCRAM.php,core_pear/Auth/SASL/SCRAM.php,c20606a54ef725257f8bec75fbbbf729,c20606a54ef725257f8bec75fbbbf729,-6793511772955391208,-6793511772955391208,0,Y
+SCRAM.php,SCRAM.php,\program\lib\Auth\SASL\SCRAM.php,core_pear/Auth/SASL/SCRAM.php,c20606a54ef725257f8bec75fbbbf729,6d56c47e0f606f6fde0991880ebc51c9,-6793511772955391208,-9099495511067636968,4,N

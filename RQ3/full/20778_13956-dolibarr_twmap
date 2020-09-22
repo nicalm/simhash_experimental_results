@@ -1,0 +1,6 @@
+13956-dolibarr,2b088a73c121a52e006c0d76ea4da7ffeb7b4f4a,https://github.com/happyman/twmap,refs/heads/master,50-293
+adodb-time.inc.php,adodb-time.inc.php,\htdocs\includes\adodbtime\adodb-time.inc.php,twmap_gen/lib/adodb5/adodb-time.inc.php,3229dac35e756e9e511a2381deddb624,3229dac35e756e9e511a2381deddb624,9151554790831494045,9151554790831494045,0,Y
+mime_types.php,Mimetypes.php,\htdocs\includes\swiftmailer\lib\mime_types.php,twmap_gen/lib/Hybrid/Hybrid/thirdparty/Facebook/FileUpload/Mimetypes.php,9f3b2d87e7a926e568bb255d3e00a3af,630db573059725862eebf064f160c11e,-6311394848866597654,-6275412196977310488,7,N
+jquery.blockUI.js,jquery.blockUI.js,\htdocs\includes\jquery\plugins\blockUI\jquery.blockUI.js,twmap_gen/js/jquery.blockUI.js,5262b3ba60c9b563807f25ece4a232e9,5262b3ba60c9b563807f25ece4a232e9,1081831738743204189,1081831738743204189,0,Y
+jquery.blockUI.js,jquery.blockUI.js,\htdocs\includes\jquery\plugins\blockUI\jquery.blockUI.js,twmap3/js/jquery.blockUI.js,5262b3ba60c9b563807f25ece4a232e9,fb564549f129e11a075b590a1481abcb,1081831738743204189,1081831743038171485,1,N
+jquery.jeditable.js,jquery.jeditable.js,\htdocs\includes\jquery\plugins\jeditable\jquery.jeditable.js,twmap_gen/js/jquery.jeditable.js,b0dc9ba03a8e3ad3d4703aae192cb2b7,6e2b503542ae8f5000e74ead81ee53f2,-1721744817943761223,-6333430836379538247,3,N

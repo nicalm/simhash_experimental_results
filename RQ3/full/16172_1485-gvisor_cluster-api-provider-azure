@@ -1,0 +1,8 @@
+1485-gvisor,0e277a39c8b6f905e289b75e8ad0594e6b3562ca,https://github.com/kubernetes-sigs/cluster-api-provider-azure,refs/heads/master,127-214
+workspace_status.sh,ci-bazel-e2e.sh,\tools\workspace_status.sh,scripts/ci-bazel-e2e.sh,1da5d14f84945fca7be9ec85a66f00ef,ba4ee3250934be70fe488915a44736a8,-3399477403659213225,-3387022133792168361,7,N
+workspace_status.sh,ci-make.sh,\tools\workspace_status.sh,vendor/sigs.k8s.io/cluster-api/scripts/ci-make.sh,1da5d14f84945fca7be9ec85a66f00ef,e29a8561b46651a5466c6d27eb065a41,-3399477403659213225,4682232127657256534,7,N
+workspace_status.sh,ci-bazel-e2e.sh,\tools\workspace_status.sh,scripts/ci-bazel-e2e.sh,1da5d14f84945fca7be9ec85a66f00ef,16a0e8b4c48ffbfe5dad496f1148f0bd,-3399477403659213225,-3388359139935721898,7,N
+workspace_status.sh,ci-build.sh,\tools\workspace_status.sh,vendor/sigs.k8s.io/cluster-api/scripts/ci-build.sh,1da5d14f84945fca7be9ec85a66f00ef,71df33184fad471d3fcd269d1327a5bd,-3399477403659213225,-3397226703363333034,8,N
+workspace_status.sh,ci-test.sh,\tools\workspace_status.sh,vendor/sigs.k8s.io/cluster-api/scripts/ci-test.sh,1da5d14f84945fca7be9ec85a66f00ef,4e96855e7c72420857f77e592871dd7f,-3399477403659213225,-8049444016738097577,8,N
+workspace_status.sh,ci-is-vendor-in-sync.sh,\tools\workspace_status.sh,vendor/sigs.k8s.io/cluster-api/scripts/ci-is-vendor-in-sync.sh,1da5d14f84945fca7be9ec85a66f00ef,b0c73d9e8d5d5b3f8742b023772a368d,-3399477403659213225,-3424387939097992106,8,N
+ruby.sh,ci-is-vendor-in-sync.sh,\runsc\test\image\ruby.sh,vendor/sigs.k8s.io/cluster-api/scripts/ci-is-vendor-in-sync.sh,b9fb8684d56b5817595ee8d23e03f604,b0c73d9e8d5d5b3f8742b023772a368d,-3408475806820932521,-3424387939097992106,8,N

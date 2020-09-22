@@ -1,0 +1,9 @@
+167871-ZRTPCPP,4654f330317c9948bb61d138eb24d49690ca4637,https://github.com/SmartArduino/WiFiMCU,refs/heads/master,16-109
+aes.h,aes.h,\cryptcommon\aes.h,External/GladmanAES/aes.h,89baaee7d99a2e0ebc32fac3b3ccad2c,89baaee7d99a2e0ebc32fac3b3ccad2c,-2965050298901969119,-2965050298901969119,0,Y
+aescrypt.c,aescrypt.c,\cryptcommon\aescrypt.c,External/GladmanAES/aescrypt.c,fb557a51d1a59a96efe7c81c3705c03c,fb557a51d1a59a96efe7c81c3705c03c,2210287924400765825,2210287924400765825,0,Y
+aesopt.h,aesopt.h,\cryptcommon\aesopt.h,External/GladmanAES/aesopt.h,7f5442c305dfd28af16dd76e3908f7be,c077f7f7116288726c0d130b65ad1146,4654940052384886161,4654940069564755345,1,N
+aestab.c,aestab.c,\cryptcommon\aestab.c,External/GladmanAES/aestab.c,ba5fa7d607df4df3fe0cab0fb5903a3f,ba5fa7d607df4df3fe0cab0fb5903a3f,-2769134260532911967,-2769134260532911967,0,Y
+aestab.h,aestab.h,\cryptcommon\aestab.h,External/GladmanAES/aestab.h,62e9f365e7cc33fd3b098b696e0f77f7,62e9f365e7cc33fd3b098b696e0f77f7,-8898619162443417073,-8898619162443417073,0,Y
+aes_modes.c,aes_modes.c,\cryptcommon\aes_modes.c,External/GladmanAES/aes_modes.c,4bcc4076775cc2f9f1c444a49e59d757,f6c5902446b5b0baecf2aaf33f3deb79,419634144638126694,2725477703607567974,5,N
+brg_endian.h,brg_endian.h,\cryptcommon\brg_endian.h,External/GladmanAES/brg_endian.h,1d90d71a7c054adc84c2b91e47b5e714,3502945fc4c58321a9870beec202b03a,7670868961546623088,7668617161732938352,3,N
+brg_types.h,brg_types.h,\cryptcommon\brg_types.h,External/GladmanAES/brg_types.h,85d9ebafc7cdefd474445f927718fa17,85d9ebafc7cdefd474445f927718fa17,-7811142910722195737,-7811142910722195737,0,Y

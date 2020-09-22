@@ -1,0 +1,5 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/sdhash/sdhash,master,13-19
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,external/tools/build/v2/engine/boehm_gc/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,47d53aebe58a49be35c09c095b4eca5a,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,external/tools/build/v2/engine/boehm_gc/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,47d53aebe58a49be35c09c095b4eca5a,-5626496423261403220,-1014810404297142356,3,N
+MD5.cpp,md5.c,\ext\common\Utils\MD5.cpp,external/tools/build/v2/engine/md5.c,39df74706c510cbf1d02da153516ffa1,b2bd61629935ae0c991830adef8b6d96,-1202240236387221744,-1202240236387221744,0,N
+error_code.cpp,error_code.cpp,\ext\boost\libs\system\src\error_code.cpp,external/libs/system/src/error_code.cpp,843e247d4b60726591ccd48ea820515f,51dbc348ee5c2271be875450af0ce82a,742716325130759942,1895637830274477830,2,N

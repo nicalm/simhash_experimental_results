@@ -1,0 +1,4 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/w3develops/w3develops,master,567-567
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,dev/classes/mail/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,5e57f998e9e1e2ae69bb29f2f2fd54c0,7289638721001993635,7289637617195398547,4,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,dev/classes/mail/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,4f994f1dfea0eda44108db257e12ecda,300106740523704336,4902789940697344016,8,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,dev/classes/mail/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

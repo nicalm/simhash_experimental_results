@@ -1,0 +1,7 @@
+151921-b2evolution,ce5b36e44b714b18b0bcd34c6db0187b8d13bab8,https://github.com/hylian-modding/OotModLoader,master,88-91
+jquery.js,jquery.js,\rsc\js\jquery.js,src/gui/jquery-ui-1.12.1.custom/external/jquery/jquery.js,ae1e5b8c6eef12741e6ec92c4832348b,ae1e5b8c6eef12741e6ec92c4832348b,6826268092418828008,6826268092418828008,0,Y
+jquery.js,jquery.js,\rsc\js\jquery.js,OotM_Updater/src/jquery-ui-1.12.1.custom/external/jquery/jquery.js,ae1e5b8c6eef12741e6ec92c4832348b,ae1e5b8c6eef12741e6ec92c4832348b,6826268092418828008,6826268092418828008,0,Y
+jquery.js,jquery.js,\rsc\js\jquery.js,dev_portal/jquery-ui-1.12.1.custom/external/jquery/jquery.js,ae1e5b8c6eef12741e6ec92c4832348b,ae1e5b8c6eef12741e6ec92c4832348b,6826268092418828008,6826268092418828008,0,Y
+jquery.ui.all.js,jquery-ui.js,\rsc\js\jquery\jquery.ui.all.js,src/gui/jquery-ui-1.12.1.custom/jquery-ui.js,ffee8022a592b0d0071d2633a6d55c2e,ffee8022a592b0d0071d2633a6d55c2e,-1117851216293556933,-1117851216293556933,0,Y
+jquery.ui.all.js,jquery-ui.js,\rsc\js\jquery\jquery.ui.all.js,OotM_Updater/src/jquery-ui-1.12.1.custom/jquery-ui.js,ffee8022a592b0d0071d2633a6d55c2e,ffee8022a592b0d0071d2633a6d55c2e,-1117851216293556933,-1117851216293556933,0,Y
+jquery.ui.all.js,jquery-ui.js,\rsc\js\jquery\jquery.ui.all.js,dev_portal/jquery-ui-1.12.1.custom/jquery-ui.js,ffee8022a592b0d0071d2633a6d55c2e,ffee8022a592b0d0071d2633a6d55c2e,-1117851216293556933,-1117851216293556933,0,Y

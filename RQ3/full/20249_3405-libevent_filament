@@ -1,0 +1,4 @@
+3405-libevent,96f64a022014a208105ead6c8a7066018449d86d,https://github.com/google/filament,master,18-1742
+getopt.c,getopt.c,\WIN32-Code\getopt.c,third_party/getopt/src/getopt.c,05fab39a8c58a594a5560f18c424852f,fcefe12c331036beedbce26a1ba5076e,5822587814746111882,5821026508234669696,8,N
+getopt.h,getopt.h,\WIN32-Code\getopt.h,third_party/getopt/include/getopt/getopt.h,61047a927c8f4d29c6c2303f5cc68679,61047a927c8f4d29c6c2303f5cc68679,7258696227152466006,2791125465520411668,6,E
+getopt_long.c,getopt_long.c,\WIN32-Code\getopt_long.c,third_party/getopt/src/getopt_long.c,d6001210b95a1dd967a327f103dd55fb,af4f53b9dad8bf2fbe7ddcf796a6bb86,4673980944085809094,4890259279584278466,8,N

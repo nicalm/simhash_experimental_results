@@ -1,0 +1,7 @@
+168133-wildmidi,814f31d8eceda8401eb812fc2e94ed143fdad0ab,https://github.com/SuperIlu/DOjS,master,11-13
+dosdma.c,dosdma.c,\djgpp\dosdma.c,libmikmod-3.3.11.1/drivers/dos/dosdma.c,e9f3f57a94d8b8829d4a2ceab9ee30f2,1a44e5aa02eefeb30ad852b656a05b23,7206554364645568952,-1959396776961281640,7,N
+dosdma.h,dosdma.h,\djgpp\dosdma.h,libmikmod-3.3.11.1/drivers/dos/dosdma.h,c3872b485cff5c1a1e403733476a1242,c3872b485cff5c1a1e403733476a1242,5030189397546501065,5030189397546501065,0,Y
+dosirq.c,dosirq.c,\djgpp\dosirq.c,libmikmod-3.3.11.1/drivers/dos/dosirq.c,0ea282b779848bf6fef036fb8926eaa8,3b6a5c649d8127bfc21983deff7b978e,-2994881820496050090,-689023418050394026,6,N
+dosirq.h,dosirq.h,\djgpp\dosirq.h,libmikmod-3.3.11.1/drivers/dos/dosirq.h,4c699bef7f76f3fe89120f12b1911507,4c699bef7f76f3fe89120f12b1911507,-1813414576213341171,-1813414576213341171,0,Y
+dossb.c,dossb.c,\djgpp\dossb.c,libmikmod-3.3.11.1/drivers/dos/dossb.c,dfe6bef45e04aa731020ee4f5d132785,8e255b2b34a646e6a1dc415c1fef22ee,-6595377217251493061,-6594814267298055373,3,N
+dossb.h,dossb.h,\djgpp\dossb.h,libmikmod-3.3.11.1/drivers/dos/dossb.h,431c912a34c229e2363cd0e56562edab,2657774232e6841a6d32e8eaa44c5c4e,6460309864803263970,6460028389826553314,1,N

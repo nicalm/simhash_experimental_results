@@ -1,0 +1,9 @@
+10115-mbedtls,31458a18788b0cf0b722acda9bb2f2fe13a3fb32,https://github.com/HiddenRamblings/TagMo,master,73-171
+aes.c,aes.c,\library\aes.c,ndk/jni/mbedtls/aes.c,374902fbf1b30072a18107a2aef71ebb,17f1cf5f72f01bcc5ddcd7182e19bfc2,-3562135027472157765,-3562126231379168325,2,N
+md.c,md.c,\library\md.c,ndk/jni/mbedtls/md.c,6949e03ee09909a1b09443a8bbeb8d1e,6949e03ee09909a1b09443a8bbeb8d1e,9149489730667017123,9149489730667017123,0,Y
+md_wrap.c,md_wrap.c,\library\md_wrap.c,ndk/jni/mbedtls/md_wrap.c,bc53c8b5a59ca9049e4d0e8ffa82a07a,bc53c8b5a59ca9049e4d0e8ffa82a07a,-2260082176064070173,-2260082176064070173,0,Y
+sha256.c,sha256.c,\library\sha256.c,ndk/jni/mbedtls/sha256.c,65587c5cd0631b7a2297024fd9e151b6,2b8f9548f623fc5002a72f67df975017,-8483319461213965055,-8483319736087677695,2,N
+check_config.h,check_config.h,\include\mbedtls\check_config.h,ndk/jni/include/mbedtls/check_config.h,5b31d324090ac8de01fecafae7015431,306e92b56ac8d1b085c9f72fb65f46a7,-4920604214302532792,-4920587206223651000,5,N
+md.h,md.h,\include\mbedtls\md.h,ndk/jni/include/mbedtls/md.h,aa4e60428a1cd1e31defe9760f9b53c9,aa4e60428a1cd1e31defe9760f9b53c9,-8867268427452638262,-8867268427452638262,0,Y
+md_internal.h,md_internal.h,\include\mbedtls\md_internal.h,ndk/jni/include/mbedtls/md_internal.h,1c60132e485bbd12c532b27c7c624420,1c60132e485bbd12c532b27c7c624420,-2579703991424480267,-2579703991424480267,0,Y
+sha256.h,sha256.h,\include\mbedtls\sha256.h,ndk/jni/include/mbedtls/sha256.h,d563b474ec3df0688f7ab3905c888cc7,d563b474ec3df0688f7ab3905c888cc7,-9011256299348127855,-9011256299348127855,0,Y

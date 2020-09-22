@@ -1,0 +1,5 @@
+13956-dolibarr,4a5988accbb770b74105baacd5a034689272128c,https://github.com/apache/cloudstack,master,31822-31822
+optimize_images.sh,deploy-db-simulator.sh,\dev\tools\optimize_images.sh,setup/db/deploy-db-simulator.sh,6f63272259dd7c3af32753e85c4cc422,4fc5bc8d77455ee264bb464ad91b4e90,-1014467631530537172,-1014467356671373395,7,N
+optimize_images.sh,deploy-db-dev.sh,\dev\tools\optimize_images.sh,setup/db/deploy-db-dev.sh,6f63272259dd7c3af32753e85c4cc422,dde9ff21b64bcfec6afdd2cf03da5692,-1014467631530537172,-1014467356671373395,7,N
+jquery.flot.navigate.js,jquery.flot.navigate.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.navigate.js,systemvm/agent/js/jquery.flot.navigate.js,7c78d98cef6f74d881ff03a05ea037d2,93442fb3b5038e1fa7a6f11204c461f9,4120838755676916233,4120843222476458507,4,N
+jquery.cookie.js,jquery.cookies.js,\htdocs\includes\jquery\plugins\jquerytreeview\lib\jquery.cookie.js,ui/lib/jquery.cookies.js,3afd2635a3215b776218c4902c698949,02fbaab811ff0ad4955572875be36e12,1625489322755305611,1625350793400234114,7,N

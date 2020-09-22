@@ -1,0 +1,3 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/netease-im/NIM_PC_Demo,master,71-75
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,third_party/curl/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,31edd39f497a0720327e7c592eab2d9b,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,third_party/curl/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,31edd39f497a0720327e7c592eab2d9b,-5626496423261403220,-1014810404834015316,1,N

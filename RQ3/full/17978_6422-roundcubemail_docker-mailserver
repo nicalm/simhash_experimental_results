@@ -1,0 +1,2 @@
+6422-roundcubemail,40d7342dd9c9bd2a1d613edc848ed95a4d71aa18,https://github.com/jeboehm/docker-mailserver,refs/heads/master,87-159
+mysql.initial.sql,002_webmail.sql,\SQL\mysql.initial.sql,db/rootfs/docker-entrypoint-initdb.d/002_webmail.sql,ad4c484719d45fe1592193fd8e4b45b4,ad4c484719d45fe1592193fd8e4b45b4,446290507402366026,446290507402366026,0,Y

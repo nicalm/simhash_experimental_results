@@ -1,0 +1,4 @@
+6422-roundcubemail,74cd0a9b62f11bc07c5a1d3ba0098b54883eb0ba,https://github.com/eventum/eventum,master,3258-3574
+PEAR.php,PEAR.php,\program\lib\PEAR.php,lib/pear/PEAR.php,f69c7b2a057b048c3c3943b5d035661c,15f3333ec9e310306eefbadbd9347764,-4202661689731601826,5020710347123177692,5,N
+Socket.php,Socket.php,\program\lib\Net\Socket.php,lib/pear/Net/Socket.php,a4b2209a81fa1d3c6dc3cf67a271833b,8869ef4059c519ddfaed5e8380c9ddc2,-788162300637842140,-788365160533166804,5,N
+DigestMD5.php,DigestMD5.php,\program\lib\Auth\SASL\DigestMD5.php,lib/pear/Auth/SASL/DigestMD5.php,73706f21d4f4af11bfc497b8b6f46162,9664703cb883185a61d7e82ef5526bc6,3570038083886813851,2417046213757080251,6,N

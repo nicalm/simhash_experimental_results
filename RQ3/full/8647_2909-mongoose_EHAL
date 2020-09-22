@@ -1,0 +1,4 @@
+2909-mongoose,b8402ed0733e3f244588b61ad5fedd093e3cf9cc,https://github.com/I-SYST/EHAL,master,344-1128
+nrf_drv_config.h,nrf_drv_config.h,\examples\nRF51\http\config\nrf_drv_config.h,ARM/Nordic/nRF51/dfu_nrf51/src/nrf_drv_config.h,642b54e185e4e90aadb5726f33f48690,681caeea436c050b80a63208a8338a02,1941576684422668864,1942139630349574848,5,N
+nrf_drv_config.h,nrf_drv_config.h,\examples\nRF51\http\config\nrf_drv_config.h,ARM/Nordic/nRF51/exemples/Beacon/src/nrf_drv_config.h,642b54e185e4e90aadb5726f33f48690,642b54e185e4e90aadb5726f33f48690,1941576684422668864,1941576684422668864,0,Y
+pstorage_platform.h,pstorage_platform.h,\examples\nRF52\http\config\pstorage_platform.h,ARM/Nordic/nRF51/exemples/Beacon/src/pstorage_platform.h,28045ecd1197effee127a2eda8d20f5f,8f10fe7388eeae1f89d4ba5bf04e4338,6781629545072185127,5628712352614604579,8,N

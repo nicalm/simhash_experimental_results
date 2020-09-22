@@ -1,0 +1,5 @@
+9776-gaia,0f72a8c31df9f3d8f609a7c58ca91139051d44eb,https://github.com/blocktrail/blocktrail-wallet,master,2-715
+png_recompress.sh,run-test.sh,\tools\png_recompress.sh,src/lib/pouchdb/bin/run-test.sh,0cc3d03220c4b62ddd5e21c77e8c5151,a749a4f30d2990abfc183b24e308cd70,8208834483240013741,8208834328084062125,6,N
+l10n.js,l10n.js,\shared\js\l10n.js,plugins/cordova-plugin-globalization/www/firefoxos/l10n.js,038599b268f9b8a2e1e52327c8bb1797,7a0a328950ff4a7dcd7b0016912bb552,8033961750193585021,5728118819358849901,7,N
+l10n_date.js,l10n_date.js,\shared\js\l10n_date.js,plugins/cordova-plugin-globalization/www/firefoxos/l10n_date.js,e7ad5b6306244cda934739d8096ca1ca,e7ad5b6306244cda934739d8096ca1ca,748074537710699543,748074537710699543,0,Y
+generateMusicFiles.sh,test.sh,\test_media\reference-workload\generateMusicFiles.sh,plugins/cordova-sqlite-storage/bin/test.sh,a3e12166c8c7ae9ccf3eda84fe554a51,7a9653e281bc85f746e78ccc670991da,-2162938313086951507,-4329187298120917059,8,N

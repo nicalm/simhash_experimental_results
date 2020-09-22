@@ -1,0 +1,7 @@
+10137-zlib,e54e1299404101a5a9d0cf5e45512b543967f958,https://github.com/Illumina/Nirvana,master,20-451
+gzwrite.c,gzwrite.c,\gzwrite.c,Sandbox/BlockCompression/zlib-ng/gzwrite.c,58181e89ffbd6e516ea1c68d2244fdeb,8fe4e0347feca7607ec4fb75409bb3a6,8685994825195173807,8685986024799844135,6,N
+inffixed.h,inffixed.h,\inffixed.h,Sandbox/BlockCompression/zlib-ng/inffixed.h,30e8b7772a1fd4abb33f2f7073cf6f86,30e8b7772a1fd4abb33f2f7073cf6f86,-2796548591990404036,-2796548591990404036,0,Y
+trees.h,trees.h,\trees.h,Sandbox/BlockCompression/zlib-ng/trees.h,c94d71c233fe031476a1b85ee6bf5bef,4f5bddc5a76c9a108d0a05399a940884,-7218055746064657624,-2606440096448556248,3,N
+example.c,example.c,\test\example.c,Sandbox/BlockCompression/zstd/zlibWrapper/examples/example.c,941224d3bbc495f5f9f0586c72256af8,53c527c3f57b690a475a043ff6143816,-4340990307067623310,-4340990307067614606,2,N
+example.c,example_original.c,\test\example.c,Sandbox/BlockCompression/zstd/zlibWrapper/examples/example_original.c,941224d3bbc495f5f9f0586c72256af8,7a49f7373de19f2d054d2f390057d71c,-4340990307067623310,-4340990307067623310,0,N
+infcover.c,infcover.c,\test\infcover.c,Sandbox/BlockCompression/zlib-ng/test/infcover.c,f264a88c53e54672d5707efc0b240341,c53c82def78e94f48402eb593748f6d9,3411620142994118960,3420636018082732338,6,N

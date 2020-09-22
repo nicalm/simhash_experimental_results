@@ -1,0 +1,4 @@
+3980-passenger,4e97fdb86d0a0141ec9a052c6e691fcd07bb45c8,https://github.com/MADPToolbox/MADP,master,28-76
+provision.sh,ltmain.sh,\dev\vagrant\provision.sh,ltmain.sh,94f7663c84fff3fc9291c31fca01d701,40d33ec162a9fc5f2c9418042d04305d,-1014467356669276243,-1014810404834015316,6,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-copy\libuv\ltmain.sh,ltmain.sh,ae3ac699fead0dd23884c041d6fffb34,40d33ec162a9fc5f2c9418042d04305d,-1014819200893483092,-1014810404834015316,2,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-modified\libev\ltmain.sh,ltmain.sh,40d33ec162a9fc5f2c9418042d04305d,40d33ec162a9fc5f2c9418042d04305d,-1014810404834015316,-1014810404834015316,0,Y

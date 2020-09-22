@@ -1,0 +1,5 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/abantecart/abantecart-src,master,5132-5225
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,public_html/admin/view/default/javascript/jquery/star-rating/jquery.js,f7a92132165aa6a0cfd4d24bf43f2936,f7a92132165aa6a0cfd4d24bf43f2936,-2327297599394695959,-2327297599394695959,0,Y
+form.js,jquery.form.js,\framework\Core\js\jquery.mobile\plugins\form.js,public_html/admin/view/default/javascript/jquery/jquery.form.js,0d070268ce748b714cd7cbcfab599f98,eba035c4a95162d0257e0b3690e63ee5,-3092173818883110632,-3092173818883110632,0,N
+autoload_real.php,autoload_real.php,\framework\Test\bundle\vendor\composer\autoload_real.php,public_html/extensions/avatax_integration/core/vendor/composer/autoload_real.php,bb340181842c161242240728f97e6131,b74c258a3c649fc97c2aa4a3045b3819,6184223047140380225,6148133227226072641,5,N
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,public_html/extensions/avatax_integration/core/vendor/composer/ClassLoader.php,c1c2ff5764dad2e2d41b2f636d550899,a5549d5e11bcd45267c94eac22fd1dbd,1600337665765922096,2177365834788754704,5,N

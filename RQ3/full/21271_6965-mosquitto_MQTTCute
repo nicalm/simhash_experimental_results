@@ -1,0 +1,5 @@
+6965-mosquitto,9097577b49b7fdcf45d30975976dd93808ccc0c4,https://github.com/MayaPosch/MQTTCute,master,2-10
+logging_mosq.c,logging_mosq.c,\lib\logging_mosq.c,mosquitto/lib/logging_mosq.c,8e901fb34823fc3009e186d6891cf8b0,6b5f7aef9487928fbb64555e64b387c9,-1276543229177340085,-1275970383620314293,8,N
+srv_mosq.c,srv_mosq.c,\lib\srv_mosq.c,mosquitto/lib/srv_mosq.c,a824ba80efe30b06615f61f416b742a9,04c8bac78ee602135d6db627b6a9fb6c,-5088213797451772835,-4799983421567973313,7,N
+util_mosq.c,util_mosq.c,\lib\util_mosq.c,mosquitto/lib/util_mosq.c,6f2118f0082792ae75f8d11a2d0748ab,1afe9dc25926f469b9329372f2830810,-1855131318495614347,-1846128465747776905,5,N
+mosquitto_plugin_v2.h,mosquitto_plugin.h,\test\broker\c\mosquitto_plugin_v2.h,mosquitto/mosquitto_plugin.h,ba324c18a33c098b12b26031615cccd0,ba324c18a33c098b12b26031615cccd0,-3952803655858459809,-3952803655858459809,0,Y

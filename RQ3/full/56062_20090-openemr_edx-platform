@@ -1,0 +1,6 @@
+20090-openemr,b8963a5ca483211ed8de71f18227a0e66a2582ad,https://github.com/edx/edx-platform,master,3537-4147
+jquery-ui-1.8.21.custom.min.js,jquery-ui.min.js,\library\js\jquery-ui-1.8.21.custom.min.js,lms/static/js/jquery-ui.min.js,a2f09d9724e84bfedd87b03889cb6825,a2f09d9724e84bfedd87b03889cb6825,5901187605355306345,5901187605355306345,0,Y
+jquery-ui-1.8.21.custom.min.js,jquery-ui.min.js,\library\js\jquery-ui-1.8.21.custom.min.js,lms/static/js/vendor/jquery-ui.min.js,a2f09d9724e84bfedd87b03889cb6825,a2f09d9724e84bfedd87b03889cb6825,5901187605355306345,5901187605355306345,0,Y
+jquery.js,jquery-1.4.3.js,\library\js\jquery.treeview-1.4.1\lib\jquery.js,lms/askbot/skins/common/media/js/jquery-1.4.3.js,2cd7a7362c601db3ff62ae518adbc003,2cd7a7362c601db3ff62ae518adbc003,4592201923798875199,4592201923798875199,0,Y
+jquery.js,jquery-1.4.3.js,\interface\modules\zend_modules\public\js\carecoordination\jquery.js,lms/askbot/skins/common/media/js/jquery-1.4.3.js,2cd7a7362c601db3ff62ae518adbc003,2cd7a7362c601db3ff62ae518adbc003,4592201923798875199,4592201923798875199,0,Y
+jquery.js,jquery-1.4.3.js,\interface\modules\zend_modules\public\js\lib\jquery.treeview-1.4.1\lib\jquery.js,lms/askbot/skins/common/media/js/jquery-1.4.3.js,2cd7a7362c601db3ff62ae518adbc003,2cd7a7362c601db3ff62ae518adbc003,4592201923798875199,4592201923798875199,0,Y

@@ -1,0 +1,4 @@
+151921-b2evolution,9a4ab85439d1b838ee7b8eeebbf59174bb787811,https://github.com/sagemath/sagenb,master,1326-1704
+jquery.farbtastic.js,farbtastic.js,\rsc\js\jquery\jquery.farbtastic.js,sagenb/data/jquery/plugins/farbtastic/farbtastic.js,f1caf63618d4a13f0afc10930aa4b11b,e8dc0cdce8dc3219be368a7eedc765a8,8006872615082062398,8007153952619819582,2,N
+jquery.jeditable.js,jquery.jeditable.js,\rsc\js\jquery\jquery.jeditable.js,sagenb/data/jquery/plugins/jeditable/jquery.jeditable.js,6c78a43d40c45a010608cdf842cf633f,1c791ca140836bcaa7c9b87fd93bba7d,-1721744534484439367,-6333430836371149127,5,N
+jquery.ui.all.js,jquery-ui-1.10.4.custom.js,\rsc\js\jquery\jquery.ui.all.js,sagenb/data/jqueryui/js/jquery-ui-1.10.4.custom.js,56540f2e02b9097df22f83e81fb3051d,56540f2e02b9097df22f83e81fb3051d,-5089744674398893768,-5089744674398893768,0,Y

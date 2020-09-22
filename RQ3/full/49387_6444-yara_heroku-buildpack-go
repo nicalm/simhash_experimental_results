@@ -1,0 +1,12 @@
+6444-yara,890c3f850293176c0e996a602ffa88b315f4e98f,https://github.com/heroku/heroku-buildpack-go,master,240-711
+arena.h,arena.h,\libyara\include\yara\arena.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/arena.h,6869dd1796fca7087e6b68e713802724,cdc900b6d0ac0df3dbe64ec557cc3a4b,1128464215174724690,984349027098868818,1,N
+atoms.h,atoms.h,\libyara\include\yara\atoms.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/atoms.h,871ba7578d161550a8763eb3edcb5e65,871ba7578d161550a8763eb3edcb5e65,-6582535848890983593,-6582535848890983593,0,Y
+compiler.h,compiler.h,\libyara\include\yara\compiler.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/compiler.h,61280cbaf88af804ab619c3e290e7bdc,db144fc9f10380f5eaaf16414c5fd7cb,-3807821218531683252,-3771792352793246644,3,N
+error.h,error.h,\libyara\include\yara\error.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/error.h,5f039b89c06a388ce1c0aa3b88fda130,f2e94822598e58d4a654e67a860ccca6,-2331744789522377891,-2331747014567358115,8,N
+filemap.h,filemap.h,\libyara\include\yara\filemap.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/filemap.h,d041dec756664dabdb424de8dd153c5e,e8806bfd68a02690f01a5eba39d7dce1,-7638802858490864023,-7638791865509503383,6,N
+limits.h,limits.h,\libyara\include\yara\limits.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/limits.h,e8ea5cf8d19573fb737ddd335f0cac5b,e16679bea6a83d1f0dea68bb16b7cd3b,-7599907450349123864,1623182871010772704,5,N
+modules.h,modules.h,\libyara\include\yara\modules.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/modules.h,220b0537716ac290dc01b556b00c349a,94e3d38a78cd75a589946cfda9b1aa6b,-544164022429155162,-544164023502880094,4,N
+object.h,object.h,\libyara\include\yara\object.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/object.h,facee88624978e28de7238da2ae5c45b,036f8fa1087b0bcbccc1b2d7d7fbac7c,-7225842302338671805,2015539734979074883,3,N
+re.h,re.h,\libyara\include\yara\re.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/re.h,982cfc8cbacee3fa51a779a17d3ac751,2fe68d742ddb1f7f1d7e0d07bfb3d64f,-8142476530087112965,-8142476530089242949,3,N
+rules.h,rules.h,\libyara\include\yara\rules.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/rules.h,bb82980c02d1bfe5d47aea9768ca4ce1,e35f22370b8558716295edb875dfaada,723576460780231175,723576461870750215,2,N
+stream.h,stream.h,\libyara\include\yara\stream.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/stream.h,b81a29580d6c68531193d843da9c2cc3,b81a29580d6c68531193d843da9c2cc3,8128926271149336467,8128926271149336467,0,Y

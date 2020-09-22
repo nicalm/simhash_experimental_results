@@ -1,0 +1,4 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/OpenChemistry/avogadrolibs,master,481-1661
+json-forwards.h,json-forwards.h,\ext\common\Utils\json-forwards.h,thirdparty/jsoncpp/json/json-forwards.h,eac6084acac740b06b2ba0a3715e0605,51f9d70f2b10c23690a93f4bd0f4e0c4,6062428726540375296,6661407477047956736,6,N
+json.h,json.h,\ext\common\Utils\json.h,thirdparty/jsoncpp/json/json.h,29b87036af241870fcac04f93eb10a50,29b87036af241870fcac04f93eb10a50,-7657460375491439342,-7657460375491439342,0,Y
+jsoncpp.cpp,jsoncpp.cpp,\ext\common\Utils\jsoncpp.cpp,thirdparty/jsoncpp/jsoncpp.cpp,153c504484b1e92a15bd32b885f48d5f,534391b3b7cea0c72c569f98b3602bc1,-6534621634909502950,-6534058684956081638,1,N

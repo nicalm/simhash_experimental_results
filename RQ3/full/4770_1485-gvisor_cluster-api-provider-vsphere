@@ -1,0 +1,7 @@
+1485-gvisor,0e277a39c8b6f905e289b75e8ad0594e6b3562ca,https://github.com/kubernetes-sigs/cluster-api-provider-vsphere,refs/heads/master,130-502
+workspace_status.sh,ci-make.sh,\tools\workspace_status.sh,vendor/sigs.k8s.io/cluster-api/scripts/ci-make.sh,1da5d14f84945fca7be9ec85a66f00ef,e29a8561b46651a5466c6d27eb065a41,-3399477403659213225,4682232127657256534,7,N
+workspace_status.sh,ova-firewall.sh,\tools\workspace_status.sh,installer/build/bootable/root/etc/vmware/ova-firewall.sh,1da5d14f84945fca7be9ec85a66f00ef,a26c5737e64870de6c5391f0bb891b02,-3399477403659213225,5832901832714658902,8,N
+workspace_status.sh,package_provisioning.sh,\tools\workspace_status.sh,installer/build/scripts/provisioners/package_provisioning.sh,1da5d14f84945fca7be9ec85a66f00ef,1cf0f015f984fe1e17982093fbccd64e,-3399477403659213225,-3388218399763143594,7,N
+ruby.sh,ova-firewall.sh,\runsc\test\image\ruby.sh,installer/build/bootable/root/etc/vmware/ova-firewall.sh,b9fb8684d56b5817595ee8d23e03f604,a26c5737e64870de6c5391f0bb891b02,-3408475806820932521,5832901832714658902,8,N
+ruby.sh,get_logs.sh,\runsc\test\image\ruby.sh,installer/build/scripts/get_logs.sh,b9fb8684d56b5817595ee8d23e03f604,0504ca4d0d3589dad3a9992db3d021da,-3408475806820932521,-3424380242470575017,8,N
+ruby.sh,package_provisioning.sh,\runsc\test\image\ruby.sh,installer/build/scripts/provisioners/package_provisioning.sh,b9fb8684d56b5817595ee8d23e03f604,1cf0f015f984fe1e17982093fbccd64e,-3408475806820932521,-3388218399763143594,7,N

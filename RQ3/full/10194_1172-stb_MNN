@@ -1,0 +1,4 @@
+1172-stb,98fdfc6df88b1e34a736d5e126e6c8139c8de1a6,https://github.com/alibaba/MNN,master,53-118
+stb_image.h,stb_image.h,\stb_image.h,3rd_party/imageHelper/stb_image.h,59aba2099c6a681d8e641f0bfcfeb620,59aba2099c6a681d8e641f0bfcfeb620,6688196529461531862,6688196529461531862,0,Y
+stb_image_resize.h,stb_image_resize.h,\stb_image_resize.h,3rd_party/imageHelper/stb_image_resize.h,33381b61a04c502f421ee6e7ef0ba146,33381b61a04c502f421ee6e7ef0ba146,4504857147068813255,4504857147068813255,0,Y
+stb_image_write.h,stb_image_write.h,\stb_image_write.h,3rd_party/imageHelper/stb_image_write.h,f1b103e8aa610030f4c19feb73ea5757,f1b103e8aa610030f4c19feb73ea5757,-2138830299282094509,-2138830299282094509,0,Y

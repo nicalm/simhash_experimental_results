@@ -1,0 +1,3 @@
+8874-collectd,b589096f907052b3a4da2b9ccc9b0e2e888dfc18,https://github.com/sysdb/sysdb,refs/heads/master,2-683
+aux_types.h,aux_types.h,\src\liboconfig\aux_types.h,src/liboconfig/aux_types.h,988cf2588c217034b2fe04fad00aa6b8,988cf2588c217034b2fe04fad00aa6b8,514369900952043399,514369900952043399,0,Y
+oconfig.h,oconfig.h,\src\liboconfig\oconfig.h,src/liboconfig/oconfig.h,7a5d93ee506e5845852ef033aa4496ab,7a5d93ee506e5845852ef033aa4496ab,5277174503508214025,5277174503508214025,0,Y

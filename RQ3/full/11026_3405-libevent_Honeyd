@@ -1,0 +1,3 @@
+3405-libevent,ec65c42052d95d2c23d1d837136d1cf1d9ecef9e,https://github.com/DataSoft/Honeyd,master,324-336
+tree.h,tree.h,\WIN32-Code\tree.h,compat/sys/tree.h,e3e8e793f9ff0a835f1e5f81a1adb27c,e3e8e793f9ff0a835f1e5f81a1adb27c,5494327674775225400,5494327674775225400,0,Y
+queue.h,queue.h,\compat\sys\queue.h,compat/sys/queue.h,e6664a5653bc6d171fc0f824acf03b78,08474da39901b1be7216b0b4e1c62eb0,-4351591112708363289,-4351591181427840009,2,N

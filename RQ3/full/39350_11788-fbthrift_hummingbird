@@ -1,0 +1,5 @@
+11788-fbthrift,c5d6e07588cd03061bc54d451a7fa6e84883d62b,https://github.com/troubling/hummingbird,refs/heads/master,1729-1860
+iostream_transport_test.go,iostream_transport_test.go,\thrift\lib\go\thrift\iostream_transport_test.go,vendor/github.com/apache/thrift/lib/go/thrift/iostream_transport_test.go,ac7e591c4383815d89feed4b14781fc9,ac7e591c4383815d89feed4b14781fc9,7032306805642013678,7032306805642013678,0,Y
+json_protocol.go,json_protocol.go,\thrift\lib\go\thrift\json_protocol.go,vendor/github.com/apache/thrift/lib/go/thrift/json_protocol.go,c35676208f5f49c7d3ebb7c39bfc3e98,db57132c50005035118665988292fe48,8463678377907002898,8392218920350456368,8,N
+numeric.go,numeric.go,\thrift\lib\go\thrift\numeric.go,vendor/github.com/apache/thrift/lib/go/thrift/numeric.go,cf14d069cdc1eaef1524a1fc433d4ed4,0216aa7f70e5bb28e17f5bfc4fb9bd12,-4581036496397653993,-4581177199522338809,5,N
+transport.go,transport.go,\thrift\lib\go\thrift\transport.go,vendor/github.com/apache/thrift/lib/go/thrift/transport.go,1d017a3e53c18b903cd7313941fc0a2f,e96d37ae078a93d1dc14e2d991f529ad,3324221777790746682,3324222945484964542,8,N

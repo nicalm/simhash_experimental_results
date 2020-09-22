@@ -1,0 +1,7 @@
+2116-libgit2,9a64e62f0f20c9cf9b2e1609f037060eb2d8eb22,https://github.com/neovim/neovim,master,12290-14253
+xdiffi.h,xdiffi.h,\src\xdiff\xdiffi.h,src/nvim/xdiff/xdiffi.h,50e205213548446fe2f4745ffc948912,50e205213548446fe2f4745ffc948912,607962690110007788,607962690110007788,0,Y
+xmacros.h,xmacros.h,\src\xdiff\xmacros.h,src/nvim/xdiff/xmacros.h,c5a3080a30bb5c394db19da72d9b17cd,c5a3080a30bb5c394db19da72d9b17cd,-8369060790862528030,-8369060790862528030,0,Y
+xprepare.c,xprepare.c,\src\xdiff\xprepare.c,src/nvim/xdiff/xprepare.c,3210420873a84e0ca302ee28452d7ef3,3210420873a84e0ca302ee28452d7ef3,-1273033256009801696,-1273033256009801696,0,Y
+xtypes.h,xtypes.h,\src\xdiff\xtypes.h,src/nvim/xdiff/xtypes.h,d3c393141eb21a70896cc7de90b4a324,d3c393141eb21a70896cc7de90b4a324,-8145466145356443235,-8145466145356443235,0,Y
+xutils.c,xutils.c,\src\xdiff\xutils.c,src/nvim/xdiff/xutils.c,b3be094eb8f3f82a2f7e1d7de1f6ca57,8559529c41ce446d08ce436525ed8444,-7777098393878960715,-7777045617254635531,7,N
+xutils.h,xutils.h,\src\xdiff\xutils.h,src/nvim/xdiff/xutils.h,4bcc31d0e0741db947ca6a1916545639,9f32141b74133e1765fb6f3bbece3e0a,1156492469571899451,1154196689293135915,5,N

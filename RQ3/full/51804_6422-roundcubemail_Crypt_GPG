@@ -1,0 +1,7 @@
+6422-roundcubemail,5ef8e4ad9d3ee8689d2b83750aa65395b7cd59ee,https://github.com/pear/Crypt_GPG,master,301-340
+DecryptStatusHandler.php,DecryptStatusHandler.php,\plugins\enigma\lib\Crypt\GPG\DecryptStatusHandler.php,Crypt/GPG/DecryptStatusHandler.php,5b2cf7b984f0c00ca0638f3396ca6cc8,5b2cf7b984f0c00ca0638f3396ca6cc8,-6404160722906644262,3107344383312408922,12,E
+Key.php,Key.php,\plugins\enigma\lib\Crypt\GPG\Key.php,Crypt/GPG/Key.php,02fd2ddf2689181a39cbc7552e43db3a,02fd2ddf2689181a39cbc7552e43db3a,-7065897657623883672,-7065897657623883672,0,Y
+Signature.php,Signature.php,\plugins\enigma\lib\Crypt\GPG\Signature.php,Crypt/GPG/Signature.php,2b2e8ccc23a5857c75799ffce847b107,4ddb1a593747ff96c0f37d96ff1dcece,4386245989880353216,4386254794563310528,3,N
+SubKey.php,SubKey.php,\plugins\enigma\lib\Crypt\GPG\SubKey.php,Crypt/GPG/SubKey.php,9eece0218bedb1dafb4d6954eb8d9b59,d3ed30aa269de6f7cd769449b9d3daec,-8481620344324439943,-8481616070832013189,6,N
+UserId.php,UserId.php,\plugins\enigma\lib\Crypt\GPG\UserId.php,Crypt/GPG/UserId.php,3ce7c949ed2922c6029e3b81e42179d5,3ce7c949ed2922c6029e3b81e42179d5,-2668710996984671229,-2668710996984671229,0,Y
+VerifyStatusHandler.php,VerifyStatusHandler.php,\plugins\enigma\lib\Crypt\GPG\VerifyStatusHandler.php,Crypt/GPG/VerifyStatusHandler.php,418eef0308d0a8e9c683b77e0b4e0edd,418eef0308d0a8e9c683b77e0b4e0edd,2251792399936742074,2251792399936742074,0,Y

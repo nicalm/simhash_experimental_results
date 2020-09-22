@@ -1,0 +1,5 @@
+13956-dolibarr,850b939ffd2c7a4443649331b923d5e0da2d6446,https://github.com/chrishamm/DuetWebControl,master,65-106
+jquery.js,jquery-3.1.0.js,\htdocs\includes\jquery\js\jquery.js,core/js/3rd-party/jquery-3.1.0.js,9d209a4f77d4d44a46536eb8b3297a3e,074db4f610af14ba5b91972963b77bae,-991979898620445976,-1280210274762741016,7,N
+jquery.flot.js,jquery.flot.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.js,core/js/3rd-party/jquery.flot.js,74ed638dcdb0e5e2eeaf73ac5d0f95a5,0fe72450606cd58ac8545bbeb4fd21d0,1370964771625934484,1370964771625934494,2,N
+jquery.flot.navigate.js,jquery.flot.navigate.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.navigate.js,core/js/3rd-party/jquery.flot.navigate.js,7c78d98cef6f74d881ff03a05ea037d2,7c78d98cef6f74d881ff03a05ea037d2,4120838755676916233,4120838755676916233,0,Y
+jquery.flot.resize.js,jquery.flot.resize.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.resize.js,core/js/3rd-party/jquery.flot.resize.js,b657b82c78492f82e664b5dbc0595cde,b657b82c78492f82e664b5dbc0595cde,-6302764399840912381,-6302764399840912381,0,Y

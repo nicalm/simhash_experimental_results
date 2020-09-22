@@ -1,0 +1,4 @@
+76684-horde,30d5506c20d26efbb9942fbdc6f981a0bd333b97,https://github.com/mldbai/mldb,master,53-2540
+xxhash.c,xxhash.c,\framework\xxhash\xxhash.c,ext/xxhash/xxhash.c,e820adb394a250db1c974e151d59726e,e820adb394a250db1c974e151d59726e,3910219834434174838,3910219834434174838,0,Y
+xxhash.h,xxhash.h,\framework\xxhash\xxhash.h,ext/xxhash/xxhash.h,a82d0da132d600525bdd05bac30e4783,a82d0da132d600525bdd05bac30e4783,-8580506989011316642,-8580506989011316642,0,Y
+lz4hc.c,lz4hc.c,\framework\lz4\lib\lz4hc.c,ext/lz4/lz4hc.c,2c169322003596d86e3eeeb4bdb1a809,7dcb1fbcd21284bb6063617ea772bcef,-7118038038165652488,-2506352122822198392,8,N

@@ -1,0 +1,14 @@
+16203-bdwgc,6a93f8e5bcad22137f41b6c60a1c7384baaec2b3,https://github.com/DigitalMars/dmc,master,2-14
+cordbscs.c,cordbscs.c,\cord\cordbscs.c,src/gc/cord/cordbscs.c,26ead47c2970d1d01ee1ebb205770e6a,b1352188854fdd6ccd91a76319271396,-8079661557477480881,-8367891933629192625,1,N
+cordxtra.c,cordxtra.c,\cord\cordxtra.c,src/gc/cord/cordxtra.c,63d75fc6e3c44f346dd353cb0301bbb5,ba863b22ded921844dae2ee8baac8e5d,-6690914174757916957,-6690931225761305113,7,N
+AmigaOS.c,AmigaOS.c,\extra\AmigaOS.c,src/gc/AmigaOS.c,5638f44e65f6e0d59b08c0ccbbf5ebcf,5c5e6ba32bc4e68bc6b13cb03f794bd2,2786206883385147911,-6437182745655671289,3,N
+MacOS.c,MacOS.c,\extra\MacOS.c,src/gc/MacOS.c,5e7bfa4c4a68287a48fbc8942fbec813,ca68bb4d98e29a3e9952b892bb554307,3352936509332769819,2774223957215661651,5,N
+ec.h,ec.h,\include\ec.h,src/gc/include/ec.h,7bb7de41c7c1bc22aca82d604eb9f3ee,7bb7de41c7c1bc22aca82d604eb9f3ee,-5085395541359262550,-5085395541359262550,0,Y
+weakpointer.h,weakpointer.h,\include\weakpointer.h,src/gc/include/weakpointer.h,fc932349527093aaefbb60f0c4db7691,fc932349527093aaefbb60f0c4db7691,-7475724514754677875,-7475724514754677875,0,Y
+leak_test.c,leak_test.c,\tests\leak_test.c,src/gc/tests/leak_test.c,60d39591508a4e4b99225b8b684849f6,ea1f3b8dcd5c8e1a4f4a778283cfea06,-8249672843136716216,-8285701640151485880,2,N
+leak_test.c,thread_leak_test.c,\tests\leak_test.c,src/gc/tests/thread_leak_test.c,60d39591508a4e4b99225b8b684849f6,2fe27f7a7f6e82ade6d2d0690e8e4ce9,-8249672843136716216,-7096750514462379455,8,N
+test.c,test.c,\tests\test.c,src/gc/tests/test.c,1f6e0a338e81b7a0ea5f23943aeddfde,a2086ab5e1b955cd2ca85a7007477817,6983041974800652364,6983041974733543500,1,N
+de.c,de.c,\cord\tests\de.c,src/gc/cord/de.c,4199e332877555dc8af82782029f6d0d,3654f0e61e75988c2fdab03c5cb5ab64,-1605508601787489635,-1605508601787489635,0,N
+de_cmds.h,de_cmds.h,\cord\tests\de_cmds.h,src/gc/cord/de_cmds.h,8d77118309593710a1028d9b5db0cfe4,8d77118309593710a1028d9b5db0cfe4,2994966329378198631,2994966329378198631,0,Y
+de_win.c,de_win.c,\cord\tests\de_win.c,src/gc/cord/de_win.c,ea08be6dc9c8d3aef8a81d5bc9aec246,b060a963cb4746d05e6dee11c83f5383,6385706592860790224,6385689000670281168,5,N
+de_win.h,de_win.h,\cord\tests\de_win.h,src/gc/cord/de_win.h,7f4108bf4bb34a2e5ba1396777aad28c,7f4108bf4bb34a2e5ba1396777aad28c,7762105966467749464,7762105966467749464,0,Y

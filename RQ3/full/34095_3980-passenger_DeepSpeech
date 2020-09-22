@@ -1,0 +1,3 @@
+3980-passenger,94428057c602da3d6d34ef75c78091066ecac5c0,https://github.com/mozilla/DeepSpeech,master,799-1256
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,native_client/ctcdecode/third_party/openfst-1.6.7/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,865d5af11201770224ffd09aa4483549,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,native_client/ctcdecode/third_party/openfst-1.6.7/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,865d5af11201770224ffd09aa4483549,-1014810404834015316,-1014810404834015316,0,N

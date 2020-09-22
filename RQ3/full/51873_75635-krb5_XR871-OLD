@@ -1,0 +1,4 @@
+75635-krb5,e04f0283516e80d2f93366e0d479d13c9b5c8c2a,https://github.com/XradioTech/XR871-OLD,refs/heads/master,59-105
+getopt.c,getopt.c,\src\util\windows\getopt.c,03_SDK/xr871sdk/src/net/libwebsockets/win32port/win32helpers/getopt.c,05fab39a8c58a594a5560f18c424852f,05fab39a8c58a594a5560f18c424852f,5822587814746111882,5822587814746111882,0,Y
+getopt.h,getopt.h,\src\util\windows\getopt.h,03_SDK/xr871sdk/src/net/libwebsockets/win32port/win32helpers/getopt.h,1623f704a986f325f059d7b2983d3861,1623f704a986f325f059d7b2983d3861,2791697280284300310,2791697280284300310,0,Y
+getopt_long.c,getopt_long.c,\src\util\windows\getopt_long.c,03_SDK/xr871sdk/src/net/libwebsockets/win32port/win32helpers/getopt_long.c,a0a6761833b71f9c09db6483600bb274,aa1fbd40774b45cf8b4306d38250e6a3,4633448603274051462,4631196803460300674,3,N

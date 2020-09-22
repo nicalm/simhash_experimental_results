@@ -1,0 +1,2 @@
+169869-gnulib,278b4175c9d7dd47c1a3071554aac02add3b3c35,https://github.com/libffi/libffi,refs/heads/master,1208-1208
+alignof.h,alignof.h,\lib\alignof.h,testsuite/libffi.bhaible/alignof.h,5dd498fa54635a6d406fc63162dc4476,5dd498fa54635a6d406fc63162dc4476,-3934532488140592065,-3934532488140592065,0,Y

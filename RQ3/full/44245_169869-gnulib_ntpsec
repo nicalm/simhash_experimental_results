@@ -1,0 +1,6 @@
+169869-gnulib,278b4175c9d7dd47c1a3071554aac02add3b3c35,https://github.com/ntpsec/ntpsec,master,7882-8458
+gettext.h,gettext.h,\lib\gettext.h,sntp/libopts/gettext.h,2f3e22e02c3a6bc9d14341b3b1daa41e,de319b56afa067f1ff8fd451ae7449d3,8879011500227995488,8878852071041967984,4,N
+parse-duration.c,parse-duration.c,\lib\parse-duration.c,sntp/libopts/parse-duration.c,8db35c9a22ef86dc6fd926b0a8617948,8db35c9a22ef86dc6fd926b0a8617948,6403357944359138217,6403357944359138217,0,Y
+parse-duration.c,parse-duration.c,\lib\parse-duration.c,sntp/libopts/parse-duration.c,8db35c9a22ef86dc6fd926b0a8617948,7aba2e177691c76febee91ba80590325,6403357944359138217,6403357944359105449,1,N
+test-setlocale1.sh,update-leap.sh,\tests\test-setlocale1.sh,scripts/update-leap/update-leap.sh,10549696a4202f76cdd17ecd6eb8a196,8426f4e71458f6dde6f67228ae90ec1b,-1014748829498503249,-1014467354521792595,2,N
+test-locale-language.sh,update-leap.sh,\tests\unicase\test-locale-language.sh,scripts/update-leap/update-leap.sh,4b770e3ba9f025de2ca8418736bcf054,8426f4e71458f6dde6f67228ae90ec1b,-1032552087415713875,-1014467354521792595,3,N

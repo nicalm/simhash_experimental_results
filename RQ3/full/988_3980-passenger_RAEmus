@@ -1,0 +1,3 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/RetroAchievements/RAEmus,master,35-473
+MD5.cpp,md5.c,\ext\common\Utils\MD5.cpp,RA_Integration/md5.c,39df74706c510cbf1d02da153516ffa1,b2bd61629935ae0c991830adef8b6d96,-1202240236387221744,-1202240236387221744,0,N
+MD5.cpp,md5.c,\ext\common\Utils\MD5.cpp,bizhawk/libmupen64plus/mupen64plus-core/src/main/md5.c,39df74706c510cbf1d02da153516ffa1,b2bd61629935ae0c991830adef8b6d96,-1202240236387221744,-1202240236387221744,0,N

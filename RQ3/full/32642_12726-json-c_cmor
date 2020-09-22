@@ -1,0 +1,12 @@
+12726-json-c,64e36901a0614bf64a19bc3396469c66dcd0b015,https://github.com/PCMDI/cmor,master,252-785
+debug.c,debug.c,\debug.c,Src/json-c/debug.c,2f71e4061005e726707c3c33c044e837,2f71e4061005e726707c3c33c044e837,-6719396870555135550,-6719396870555135550,0,Y
+debug.h,debug.h,\debug.h,include/json-c/debug.h,258e8d587c88ab5c53c2645ce9f90ee2,258e8d587c88ab5c53c2645ce9f90ee2,1822957563856395971,1822957563856395971,0,Y
+json_object_iterator.c,json_object_iterator.c,\json_object_iterator.c,Src/json-c/json_object_iterator.c,fcc22e8f5f098eb565c633ae57d410f7,fcc22e8f5f098eb565c633ae57d410f7,8850868157756388470,8850868157756388470,0,Y
+json_object_iterator.h,json_object_iterator.h,\json_object_iterator.h,include/json-c/json_object_iterator.h,5234b28c82ebb5c1510df734667c657f,5234b28c82ebb5c1510df734667c657f,3936581026238093147,3936581026238093147,0,Y
+json_object_private.h,json_object_private.h,\json_object_private.h,include/json-c/json_object_private.h,9b2d1c6379815865e229a8f4d7c20546,d1c17ed1fe8f240a56de6b33b41bf9dc,-7443108727944515705,-8601800504000779385,7,N
+json_tokener.c,json_tokener.c,\json_tokener.c,Src/json-c/json_tokener.c,40da37d4a9b6677995247310529958fe,bbcfb6f2fe88e8a7741bed3d9276d549,3013837475317141701,3013837475317076165,1,N
+json_tokener.h,json_tokener.h,\json_tokener.h,include/json-c/json_tokener.h,088a493b0a7e917dcbbfe7b335526e7e,088a493b0a7e917dcbbfe7b335526e7e,2466312536863077953,2466312536863077953,0,Y
+json_util.c,json_util.c,\json_util.c,Src/json-c/json_util.c,fc2dc4463cd54435a2369053e62b39f1,76d9d5c6af8d208ebba4014de1207489,-1731022564158127871,-1731020365135396607,2,N
+linkhash.c,linkhash.c,\linkhash.c,Src/json-c/linkhash.c,92176121ad05041d9e4658724d97fa79,d31a69fb6236ac0b76c2731f7f1be232,-3208406377047979811,-3226421050301478763,7,N
+printbuf.c,printbuf.c,\printbuf.c,Src/json-c/printbuf.c,0adc45c4df3020e855ea5c64dbbb0a0e,1c7f317841934fbc6a3bea1919a10a0a,481130790479933863,12756424938434983,4,N
+printbuf.h,printbuf.h,\printbuf.h,include/json-c/printbuf.h,4ccaf8032e8020cb27d5a0704082b60c,4ccaf8032e8020cb27d5a0704082b60c,8908859020707640161,8908859020707640161,0,Y

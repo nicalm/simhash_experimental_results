@@ -1,0 +1,4 @@
+26090-sogo,582baf2960969c73f98643e46cfb49432c30b711,https://github.com/patternfly/angular-patternfly,master,311-321
+angular-animate.js,angular-animate.js,\UI\WebServerResources\js\vendor\angular-animate.js,dist/docs/grunt-scripts/angular-animate.js,c6447384ac427be1b5bf0edede3e2ea4,9dd18ab376f0ea171d54a8c2f7699ae4,-4140799756394264727,-3600086334723029015,5,N
+angular-sanitize.js,angular-sanitize.js,\UI\WebServerResources\js\vendor\angular-sanitize.js,dist/docs/grunt-scripts/angular-sanitize.js,325279850fe9a881f2a48bd5c2a94523,325279850fe9a881f2a48bd5c2a94523,951256781462310131,951256781462310131,0,Y
+angular.js,angular.js,\UI\WebServerResources\js\vendor\angular.js,dist/docs/grunt-scripts/angular.js,739b82e374b1163fbfcb8e8990797be7,743ce26249c96ba8a9920c946e03665e,-236407639073280333,-236407604696731981,3,N

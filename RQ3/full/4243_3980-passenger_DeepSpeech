@@ -1,0 +1,4 @@
+3980-passenger,ddb8ecc4ebf260e4967f57f271d4f5761abeac3e,https://github.com/mozilla/DeepSpeech,master,799-1256
+provision.sh,ltmain.sh,\dev\vagrant\provision.sh,native_client/ctcdecode/third_party/openfst-1.6.7/ltmain.sh,e3c8c2e3bac5fda8201cdc9d573b4f49,865d5af11201770224ffd09aa4483549,-1014467356669276243,-1014810404834015316,6,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-copy\libuv\ltmain.sh,native_client/ctcdecode/third_party/openfst-1.6.7/ltmain.sh,4683b9698c420bfc24e6f0ae3542f0f9,865d5af11201770224ffd09aa4483549,-1014819200893483092,-1014810404834015316,2,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-modified\libev\ltmain.sh,native_client/ctcdecode/third_party/openfst-1.6.7/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,865d5af11201770224ffd09aa4483549,-1014810404834015316,-1014810404834015316,0,N

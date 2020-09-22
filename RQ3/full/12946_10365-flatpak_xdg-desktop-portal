@@ -1,0 +1,16 @@
+10365-flatpak,52346bf187b5a7f1c0fe9075b328b7ad6abe78f6,https://github.com/flatpak/xdg-desktop-portal,refs/heads/master,371-701
+tap-driver.sh,tap-driver.sh,\buildutil\tap-driver.sh,tap-driver.sh,2d608212dac1da09dceab3398c95b594,2d608212dac1da09dceab3398c95b594,-6217107265146399849,-6217107265146399849,0,Y
+xdp-fuse.c,document-portal-fuse.c,\document-portal\xdp-fuse.c,document-portal/document-portal-fuse.c,3c41d8d61b2c47c1257fc3bf52dbb88a,4523c19e2f4f79f7ac334cb2aac34c5b,-1463657492804246215,-887179156904737483,8,N
+xdp-fuse.c,document-portal-fuse.c,\document-portal\xdp-fuse.c,document-portal/document-portal-fuse.c,3c41d8d61b2c47c1257fc3bf52dbb88a,442ad1d08acc1ce28978c1553ee3aa0b,-1463657492804246215,-887179156904729291,7,N
+xdp-fuse.c,document-portal-fuse.c,\document-portal\xdp-fuse.c,document-portal/document-portal-fuse.c,3c41d8d61b2c47c1257fc3bf52dbb88a,2e3fb390eaa3f296da2929588924620d,-1463657492804246215,-886633799137348299,8,N
+xdp-fuse.c,document-portal-fuse.c,\document-portal\xdp-fuse.c,document-portal/document-portal-fuse.c,3c41d8d61b2c47c1257fc3bf52dbb88a,ca649942fe99d6615ed54f88b1b12f74,-1463657492804246215,-887196749090769611,7,N
+xdp-fuse.c,document-portal-fuse.c,\document-portal\xdp-fuse.c,document-portal/document-portal-fuse.c,3c41d8d61b2c47c1257fc3bf52dbb88a,50f95110649fc51a95c9cb36b727a516,-1463657492804246215,-887196749090769611,7,N
+permission-store.c,permission-store.c,\permission-store\permission-store.c,document-portal/permission-store.c,53e18418eca581528d1850145a3a962f,9b2015460afbdba93453db2171a0a595,1852825719093026285,6464509537421319628,6,N
+test-doc-portal.c,test-doc-portal.c,\tests\test-doc-portal.c,tests/test-doc-portal.c,8fdb68084a3a107cee1493413d49ecdf,031c618357f49f4b81e76843b738e286,829616034996885166,631457651392579246,4,N
+gvdb-builder.c,gvdb-builder.c,\common\gvdb\gvdb-builder.c,document-portal/gvdb/gvdb-builder.c,815bf30df6d49be7642f76a6720aefd9,815bf30df6d49be7642f76a6720aefd9,6590417997265749339,6590417997265749339,0,Y
+gvdb-builder.h,gvdb-reader.h,\common\gvdb\gvdb-builder.h,document-portal/gvdb/gvdb-reader.h,44b5a90471bc3d01f8f42edba2173f7f,0ef273609878e10933e028e0df5bcf27,67174217965702351,71642650400361903,8,N
+gvdb-builder.h,gvdb-builder.h,\common\gvdb\gvdb-builder.h,document-portal/gvdb/gvdb-builder.h,44b5a90471bc3d01f8f42edba2173f7f,44b5a90471bc3d01f8f42edba2173f7f,67174217965702351,67174217965702351,0,Y
+gvdb-format.h,gvdb-format.h,\common\gvdb\gvdb-format.h,document-portal/gvdb/gvdb-format.h,555cf8e13aabb28bc9dfc5c9bb642fe9,555cf8e13aabb28bc9dfc5c9bb642fe9,-2419419166366529849,-2419419166366529849,0,Y
+gvdb-reader.c,gvdb-reader.c,\common\gvdb\gvdb-reader.c,document-portal/gvdb/gvdb-reader.c,13a00fff7bc8747b116445cb823d9b6b,13a00fff7bc8747b116445cb823d9b6b,4922463688146245994,4922463688146245994,0,Y
+gvdb-reader.h,gvdb-reader.h,\common\gvdb\gvdb-reader.h,document-portal/gvdb/gvdb-reader.h,0ef273609878e10933e028e0df5bcf27,0ef273609878e10933e028e0df5bcf27,71642650400361903,71642650400361903,0,Y
+gvdb-reader.h,gvdb-builder.h,\common\gvdb\gvdb-reader.h,document-portal/gvdb/gvdb-builder.h,0ef273609878e10933e028e0df5bcf27,44b5a90471bc3d01f8f42edba2173f7f,71642650400361903,67174217965702351,8,N

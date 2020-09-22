@@ -1,0 +1,8 @@
+76684-horde,eb3afd14c22c77ae0d29e2848f5ac726ef6e7c5b,https://github.com/nextalk/webim-for-php5,refs/heads/master,36-85
+ClassLoader.php,ClassLoader.php,\components\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N
+ClassLoader.php,ClassLoader.php,\framework\Css_Parser\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N
+ClassLoader.php,ClassLoader.php,\framework\Mongo\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N
+ClassLoader.php,ClassLoader.php,\framework\Pgp\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N
+ClassLoader.php,ClassLoader.php,\framework\Refactor\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N
+ClassLoader.php,ClassLoader.php,\framework\Stringprep\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,webim/vendor/composer/ClassLoader.php,a5549d5e11bcd45267c94eac22fd1dbd,c1c2ff5764dad2e2d41b2f636d550899,2177365834788754704,1600337665765922096,5,N

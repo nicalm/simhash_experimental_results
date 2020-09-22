@@ -1,0 +1,10 @@
+6444-yara,053e67e3ec81cc9268ce30eaf0d6663d8639ed1e,https://github.com/heroku/heroku-buildpack-go,master,240-711
+arena.h,arena.h,\libyara\include\yara\arena.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/arena.h,8e1940a1453d0c8ebd226168bbc8242c,cdc900b6d0ac0df3dbe64ec557cc3a4b,1128464215174724690,984349027098868818,1,N
+atoms.h,atoms.h,\libyara\include\yara\atoms.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/atoms.h,cc9a34bbd8522dd7a9a88a577e7b39fe,871ba7578d161550a8763eb3edcb5e65,-6582535848890983593,-6582535848890983593,0,N
+compiler.h,compiler.h,\libyara\include\yara\compiler.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/compiler.h,61280cbaf88af804ab619c3e290e7bdc,db144fc9f10380f5eaaf16414c5fd7cb,-3807821218531683252,-3771792352793246644,3,N
+error.h,error.h,\libyara\include\yara\error.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/error.h,1be0bc93dac8b910c1ecf3c308bb057b,f2e94822598e58d4a654e67a860ccca6,-2331746954454330535,-2331747014567358115,8,N
+filemap.h,filemap.h,\libyara\include\yara\filemap.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/filemap.h,d041dec756664dabdb424de8dd153c5e,e8806bfd68a02690f01a5eba39d7dce1,-7638802858490864023,-7638791865509503383,6,N
+modules.h,modules.h,\libyara\include\yara\modules.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/modules.h,48122082a406d7fd961efb9227ead63e,94e3d38a78cd75a589946cfda9b1aa6b,-544164023368662878,-544164023502880094,2,N
+object.h,object.h,\libyara\include\yara\object.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/object.h,6d7f904c39cdddf26494c73b2bdf9e35,036f8fa1087b0bcbccc1b2d7d7fbac7c,1997608899353303875,2015539734979074883,4,N
+rules.h,rules.h,\libyara\include\yara\rules.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/rules.h,bb82980c02d1bfe5d47aea9768ca4ce1,e35f22370b8558716295edb875dfaada,723576460780231175,723576461870750215,2,N
+stream.h,stream.h,\libyara\include\yara\stream.h,test/fixtures/godep-cgo-vendored/vendor/include/yara/stream.h,b81a29580d6c68531193d843da9c2cc3,b81a29580d6c68531193d843da9c2cc3,8128926271149336467,8128926271149336467,0,Y

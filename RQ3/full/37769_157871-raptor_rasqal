@@ -1,0 +1,3 @@
+157871-raptor,a676f235309a59d4aa78eeffd2574ae5d341fcb0,https://github.com/dajobe/rasqal,master,6292-6292
+process-changes.pl,process-changes.pl,\scripts\process-changes.pl,scripts/process-changes.pl,f916f09638a4b484eec45044728bee5f,f916f09638a4b484eec45044728bee5f,574185588578085556,574185588578085556,0,Y
+getopt.c,getopt.c,\utils\getopt.c,utils/getopt.c,d794f009505d59419eff0b242133e401,51f7fbeb575d8473670b2e42bf95e9ca,3553209040931629641,3535185846861810248,7,N

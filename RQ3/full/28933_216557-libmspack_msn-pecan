@@ -1,0 +1,8 @@
+216557-libmspack,4fd9ccaa54e1aebde1e4b95fb0163b699fd7bcc8,https://github.com/felipec/msn-pecan,master,1050-1076
+cab.h,cab.h,\libmspack\mspack\cab.h,ext/libmspack/cab.h,bf981ff19cba3f9a8c7c34fe4975a132,954e7da822512b27d1530828b8568cbe,-468738504932783551,-1045199257236189631,3,N
+mszip.h,mszip.h,\libmspack\mspack\mszip.h,ext/libmspack/mszip.h,38238107d1f2d4c09014604858683feb,b88483499d99292c5b86a89adf639531,-1745982058272628774,7477389428824235994,3,N
+mszipd.c,mszipd.c,\libmspack\mspack\mszipd.c,ext/libmspack/mszipd.c,be01db08ee14e285ffe7166b117ca6a0,a7439e00fb212a4dffce4d282f83139c,4184783451005660233,3608252338549039177,6,N
+qtm.h,qtm.h,\libmspack\mspack\qtm.h,ext/libmspack/qtm.h,7aca4e9860838ff10e9630ec48addb32,52d787e94007bac69d53a978ed7c811f,8966867542727343438,8966867542727343438,0,N
+qtmd.c,qtmd.c,\libmspack\mspack\qtmd.c,ext/libmspack/qtmd.c,bd98814fb501a53f5ca202d025eae0ba,ec40310c248ca5dcae022f8b6a8bdcec,1068644081833700245,1068626489647655829,1,N
+readbits.h,readbits.h,\libmspack\mspack\readbits.h,ext/libmspack/readbits.h,3d8856bf9fd7eaad1108425724d2880e,3d8856bf9fd7eaad1108425724d2880e,1836127437204204503,1836127437204204503,0,Y
+readhuff.h,readhuff.h,\libmspack\mspack\readhuff.h,ext/libmspack/readhuff.h,ea1e0fbc71cab0cfa053b1f5771c55da,cf2395711487fafe95dcdd88b8d1bf35,-1685703008386457020,-1685984483388333372,5,N

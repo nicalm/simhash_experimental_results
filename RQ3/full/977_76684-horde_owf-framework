@@ -1,0 +1,7 @@
+76684-horde,da6afc7e9f4e290f782eca9dbca794f772caccb3,https://github.com/ozoneplatform/owf-framework,refs/heads/master,685-743
+json2.js,json2.js,\horde\js\json2.js,web-app/examples/walkthrough/widgets/contacts/js/vendor/json2.js,4cc6c32726f5f481bcca6fabd526c65b,4cc6c32726f5f481bcca6fabd526c65b,3678506786168006111,3678506786168006111,0,Y
+json2.js,json2.js,\horde\js\json2.js,web-app/js-lib/json2.js,4cc6c32726f5f481bcca6fabd526c65b,4cc6c32726f5f481bcca6fabd526c65b,3678506786168006111,3678506786168006111,0,Y
+date.js,DateRange.js,\framework\Core\js\date\date.js,web-app/js/ux/DateRange.js,f4002351998c834003f940463f7402de,7dc648143e05462dfb5308e680afc72f,-7176731132471284267,-7177892148148180527,7,N
+jquery.js,jquery-1.8.2.js,\framework\Core\js\jquery.mobile\jquery.js,web-app/js-lib/jquery-ui-1.10.3/tests/jquery-1.8.2.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2465a22c4805d09b184a1e6cd4710fc3,557310564539800747,557310704143023275,4,N
+jquery.js,jquery-1.8.1.js,\framework\Core\js\jquery.mobile\jquery.js,web-app/js-lib/jquery-ui-1.10.3/tests/jquery-1.8.1.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,7e79276f66448fb6bc1b8e1e5fccd744,557310564539800747,844960398568765611,8,N
+jquery.js,jquery-1.8.3.js,\framework\Core\js\jquery.mobile\jquery.js,web-app/js-lib/jquery-ui-1.10.3/tests/jquery-1.8.3.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,c6dfc9f4a01de6e0c943f4af4cdb1dd8,557310564539800747,557310564539800747,0,Y

@@ -1,0 +1,6 @@
+76684-horde,1228a6825a8dab3333d0a8c8986fc10d1f3d11b2,https://github.com/seccubus/seccubus,master,423-2226
+dragdrop.js,dragdrop.js,\horde\js\dragdrop.js,jmvc/funcunit/test/protodrag/dragdrop.js,a514220b984e7a243dfe3a5b1b6bebe5,f5a62b7bc3962984f07067167c439e13,6462516462365098330,6462516462365098330,0,N
+effects.js,effects.js,\horde\js\effects.js,jmvc/funcunit/test/protodrag/effects.js,770c132e1fcd391a923a03232de95453,3f1d3c4e402cba10c4c468bc44c50f14,6393566907884816751,6393566907884816751,0,N
+scriptaculous.js,scriptaculous.js,\horde\js\scriptaculous.js,jmvc/funcunit/test/protodrag/scriptaculous.js,4ecc159f1e969f64bddc2df7f65fb2a9,4ecc159f1e969f64bddc2df7f65fb2a9,-636509164047879464,-636509164047879464,0,Y
+effects.js,effects.js,\koward\www\htdocs\horde\js\effects.js,jmvc/funcunit/test/protodrag/effects.js,ead8514603e688f67d48d575969c97ca,3f1d3c4e402cba10c4c468bc44c50f14,6393003957931395439,6393566907884816751,1,N
+prototype.js,prototype.js,\koward\www\htdocs\horde\js\prototype.js,jmvc/funcunit/test/protodrag/prototype.js,e259ad63c3520aa203d1efd522b2b004,6970c896a57e82a796337d503ffcccfe,5808143078114938219,6384621422596017535,5,N

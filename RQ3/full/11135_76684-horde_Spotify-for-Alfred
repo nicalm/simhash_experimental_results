@@ -1,0 +1,4 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/citelao/Spotify-for-Alfred,master,56-194
+autoload_real.php,autoload_real.php,\framework\Test\bundle\vendor\composer\autoload_real.php,vendor/composer/autoload_real.php,bb340181842c161242240728f97e6131,99b7a55713908b57e649858d67d26208,6184223047140380225,6112445276731346497,6,N
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,c1c2ff5764dad2e2d41b2f636d550899,62958a640acac5194e9fa44cea235cef,1600337665765922096,466011100197409808,8,N
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,vendor/composer/ClassLoader.php,c1c2ff5764dad2e2d41b2f636d550899,a2ba59278fb243827d8d33813e17c180,1600337665765922096,2177363635765499184,5,N

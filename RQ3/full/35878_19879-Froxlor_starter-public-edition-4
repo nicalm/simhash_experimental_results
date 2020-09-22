@@ -1,0 +1,4 @@
+19879-Froxlor,da4ec3e1b591de96675817a009e26e05e848a6ba,https://github.com/ivantcholakov/starter-public-edition-4,master,1213-1422*3287-3853
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,platform/common/third_party/phpmailer/class.phpmailer.php,88711429b426e230eb29c661c7da7644,88711429b426e230eb29c661c7da7644,7109353998414617907,7109353998414617907,0,Y
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,platform/common/third_party/phpmailer/class.smtp.php,ac2ed950cb1cb89d40c96b7174cad080,ac2ed950cb1cb89d40c96b7174cad080,-8824115752155750095,-8824115752155750095,0,Y
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,platform/common/third_party/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

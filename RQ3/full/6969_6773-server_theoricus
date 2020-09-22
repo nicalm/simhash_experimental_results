@@ -1,0 +1,4 @@
+6773-server,0b5a5258abbeaf8a0c3a18c7e753699787fdf46e,https://github.com/theoricus/theoricus,refs/heads/master,70-738
+jquery-1.7.2.js,theoricus.js,\storage\mroonga\vendor\groonga\examples\dictionary\html\js\jquery-1.7.2.js,lib/theoricus.js,48ded5591a87f928a060b93215fb53ca,623511d4d38905e86853a2d0f0177903,1133747267189587387,557251605375073711,7,N
+jquery-1.7.2.js,theoricus.debug.js,\storage\mroonga\vendor\groonga\examples\dictionary\html\js\jquery-1.7.2.js,lib/theoricus.debug.js,48ded5591a87f928a060b93215fb53ca,8a7e721f0e425f4ddb500bf254438382,1133747267189587387,1088712369353637311,7,N
+jquery-1.7.2.js,jquery.js,\storage\mroonga\vendor\groonga\examples\dictionary\html\js\jquery-1.7.2.js,www/vendors/jquery.js,48ded5591a87f928a060b93215fb53ca,48ded5591a87f928a060b93215fb53ca,1133747267189587387,1133747267189587387,0,Y

@@ -1,0 +1,17 @@
+3980-passenger,94428057c602da3d6d34ef75c78091066ecac5c0,https://github.com/VirtualMonitor/VirtualMonitor,master,8-46
+run_travis.sh,ltmain.sh,\dev\run_travis.sh,src/libs/libxml2-2.6.31/ltmain.sh,46fa372a41dd41a271dada869f4084f6,e6b2f8306e317096b2017d3638b5505c,-438006604232683859,-1014810404297142356,8,N
+run_travis.sh,vboxconfig.sh,\dev\run_travis.sh,src/VBox/Installer/solaris/vboxconfig.sh,46fa372a41dd41a271dada869f4084f6,6539614dea8f217232a14da994ddf15c,-438006604232683859,-1014467219230322771,5,N
+run_travis.sh,env.sh,\dev\run_travis.sh,kBuild/env.sh,46fa372a41dd41a271dada869f4084f6,ab8fb949672af6378d42285def055740,-438006604232683859,-1014608094157631699,6,N
+run_travis.sh,vboxadd.sh,\dev\run_travis.sh,src/VBox/Additions/linux/installer/vboxadd.sh,46fa372a41dd41a271dada869f4084f6,ec468eb906a4d20fd8b62d717e140165,-438006604232683859,-726307349093970516,8,N
+run_travis.sh,checkinstall.sh,\dev\run_travis.sh,src/VBox/Installer/solaris/checkinstall.sh,46fa372a41dd41a271dada869f4084f6,5998a19df5e52d3677d14a1387dc02d8,-438006604232683859,-1013622931706634835,8,N
+run_travis.sh,ltmain.sh,\dev\run_travis.sh,src/libs/libvnc-0.9.9/ltmain.sh,46fa372a41dd41a271dada869f4084f6,47d53aebe58a49be35c09c095b4eca5a,-438006604232683859,-1014810404297142356,8,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,src/libs/libxml2-2.6.31/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,e6b2f8306e317096b2017d3638b5505c,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,vboxconfig.sh,\ext\libeio\ltmain.sh,src/VBox/Installer/solaris/vboxconfig.sh,8ab3567c6eebf703dcd9430e8e4f182b,6539614dea8f217232a14da994ddf15c,-1014810404834015316,-1014467219230322771,7,N
+ltmain.sh,env.sh,\ext\libeio\ltmain.sh,kBuild/env.sh,8ab3567c6eebf703dcd9430e8e4f182b,ab8fb949672af6378d42285def055740,-1014810404834015316,-1014608094157631699,8,N
+ltmain.sh,vboxadd.sh,\ext\libeio\ltmain.sh,src/VBox/Additions/linux/installer/vboxadd.sh,8ab3567c6eebf703dcd9430e8e4f182b,ec468eb906a4d20fd8b62d717e140165,-1014810404834015316,-726307349093970516,8,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,src/libs/libvnc-0.9.9/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,47d53aebe58a49be35c09c095b4eca5a,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,src/libs/libxml2-2.6.31/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,e6b2f8306e317096b2017d3638b5505c,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,vboxconfig.sh,\ext\libev\ltmain.sh,src/VBox/Installer/solaris/vboxconfig.sh,c00a3a0f4e40b22554711ddb82f3042a,6539614dea8f217232a14da994ddf15c,-1014810404834015316,-1014467219230322771,7,N
+ltmain.sh,env.sh,\ext\libev\ltmain.sh,kBuild/env.sh,c00a3a0f4e40b22554711ddb82f3042a,ab8fb949672af6378d42285def055740,-1014810404834015316,-1014608094157631699,8,N
+ltmain.sh,vboxadd.sh,\ext\libev\ltmain.sh,src/VBox/Additions/linux/installer/vboxadd.sh,c00a3a0f4e40b22554711ddb82f3042a,ec468eb906a4d20fd8b62d717e140165,-1014810404834015316,-726307349093970516,8,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,src/libs/libvnc-0.9.9/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,47d53aebe58a49be35c09c095b4eca5a,-1014810404834015316,-1014810404297142356,2,N

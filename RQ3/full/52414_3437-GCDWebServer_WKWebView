@@ -1,0 +1,3 @@
+3437-GCDWebServer,02738433bf2e1b820ef48f04edd15df304081802,https://github.com/Telerik-Verified-Plugins/WKWebView,master,73-100
+GCDWebServerConnection.h,GCDWebServerConnection.h,\GCDWebServer\Core\GCDWebServerConnection.h,src/ios/GCDWebServer.framework/Headers/GCDWebServerConnection.h,d92d78d76d0bf303de051f63067b4ba3,d854a4fb56bbeebca982da8755591ed7,-8502916676237695507,-8502916130763971348,8,N
+GCDWebServerHTTPStatusCodes.h,GCDWebServerHTTPStatusCodes.h,\GCDWebServer\Core\GCDWebServerHTTPStatusCodes.h,src/ios/GCDWebServer.framework/Headers/GCDWebServerHTTPStatusCodes.h,18b26bc40d8060765a2a02b7dbd45932,18b26bc40d8060765a2a02b7dbd45932,7791745268463069913,7791745268463069913,0,Y

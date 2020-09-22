@@ -1,0 +1,5 @@
+26416-gpac,bceb03fd2be95097a7b409ea59914f332fb6bc86,https://github.com/gerstrong/Commander-Genius,master,586-586
+ogg.h,ogg.h,\extra_lib\include\ogg\ogg.h,build/Xcode/Ogg.framework/Versions/A/Headers/ogg.h,7a1f67996048cf309bf2aaffed747c29,0393b1489c8db5cf79a8271777a31f82,-3910192729453004024,-3910192729453004024,0,N
+os_types.h,os_types.h,\extra_lib\include\ogg\os_types.h,build/Xcode/Ogg.framework/Versions/A/Headers/os_types.h,9ed3dd4ac325146fa34e65f7698a3b22,9ed3dd4ac325146fa34e65f7698a3b22,-1640261197914199257,-1640261197914199257,0,Y
+codec.h,codec.h,\extra_lib\include\vorbis\codec.h,build/Xcode/Vorbis.framework/Versions/A/Headers/codec.h,7aa56a0692cbf3da6dae4fa1302f9380,038a93b68f05e3d287f9dca2d0c0095a,6647811710105734163,6647811710105734163,0,N
+vorbisenc.h,vorbisenc.h,\extra_lib\include\vorbis\vorbisenc.h,build/Xcode/Vorbis.framework/Versions/A/Headers/vorbisenc.h,1b2f4fb323586cbd565db0dfe548e626,1b2f4fb323586cbd565db0dfe548e626,-799620393889408185,-799620393889408185,0,Y

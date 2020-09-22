@@ -1,0 +1,3 @@
+10153-jansson,8f80c2d83808150724d31793e6ade92749b1faa4,https://github.com/nicolasff/webdis,master,366-410
+strbuffer.h,strbuffer.h,\src\strbuffer.h,jansson/src/strbuffer.h,7c033a48f088dbbc9bccf98210a2aeb9,c731cda85e30e5fadd1b34d4acb2f1e4,2320440546770939400,6949859490882776584,5,N
+utf.c,utf.c,\src\utf.c,jansson/src/utf.c,346e928e67e1157abf63078541d6933e,346e928e67e1157abf63078541d6933e,6992162650265750982,6992162650265750982,0,Y

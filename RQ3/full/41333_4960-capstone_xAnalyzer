@@ -1,0 +1,17 @@
+4960-capstone,87a25bb543c8e4c09b48d4b4a6c7db31ce58df06,https://github.com/ThunderCls/xAnalyzer,master,5-65
+arm.h,arm.h,\include\capstone\arm.h,xAnalyzer/pluginsdk/capstone/arm.h,7d9b8e237f8dcb8a4cdb6c4e9142a819,7d9b8e237f8dcb8a4cdb6c4e9142a819,1795086183474536632,2083316559634636856,3,E
+arm64.h,arm64.h,\include\capstone\arm64.h,xAnalyzer/pluginsdk/capstone/arm64.h,f65f2b3da5cb54903a5200577499c85e,f65f2b3da5cb54903a5200577499c85e,4959260333700592004,4959260333700591748,1,E
+arm64.h,arm64.h,\include\capstone\arm64.h,xAnalyzer/pluginsdk/capstone/arm64.h,f65f2b3da5cb54903a5200577499c85e,dc190f682466cf4e6be1fbb7161c1642,4959260333700592004,4959260333700591748,1,N
+capstone.h,capstone.h,\include\capstone\capstone.h,xAnalyzer/pluginsdk/capstone/capstone.h,c7d4b9ddaa6e5e57b7f3f4896bffaa52,c7d4b9ddaa6e5e57b7f3f4896bffaa52,-5404747522305371757,-4828356932587695725,4,E
+capstone.h,capstone.h,\include\capstone\capstone.h,xAnalyzer/pluginsdk/capstone/capstone.h,c7d4b9ddaa6e5e57b7f3f4896bffaa52,31b00b4e7cb759c1a5614d2a8b3c6c47,-5404747522305371757,-5404817891049549421,1,N
+m68k.h,m68k.h,\include\capstone\m68k.h,xAnalyzer/pluginsdk/capstone/m68k.h,de4e0e93777d1503fdbcf89513e26472,de4e0e93777d1503fdbcf89513e26472,-1582895000562354294,-1582894931876431990,2,E
+m68k.h,m68k.h,\include\capstone\m68k.h,xAnalyzer/pluginsdk/capstone/m68k.h,de4e0e93777d1503fdbcf89513e26472,ff10dda5872a68c43ba25600c28b4d45,-1582895000562354294,-1582896031388059766,3,N
+mips.h,mips.h,\include\capstone\mips.h,xAnalyzer/pluginsdk/capstone/mips.h,b3f1a6ce8b6eed6dcab120eab802d5fa,b3f1a6ce8b6eed6dcab120eab802d5fa,-7242035248473566584,-7246538848100935032,2,E
+platform.h,platform.h,\include\capstone\platform.h,xAnalyzer/pluginsdk/capstone/platform.h,e7a80f323b9f22c5bebe1ad9119755c3,e7a80f323b9f22c5bebe1ad9119755c3,-1979552617796196307,-1979552617796196307,0,Y
+platform.h,platform.h,\include\capstone\platform.h,xAnalyzer/pluginsdk/capstone/platform.h,e7a80f323b9f22c5bebe1ad9119755c3,3f852e4720b7074c2690e0ea64b9a11b,-1979552617796196307,-1979552617796196315,1,N
+ppc.h,ppc.h,\include\capstone\ppc.h,xAnalyzer/pluginsdk/capstone/ppc.h,2c0e21dbb7f7b14aea0bdb8e5fae3d5b,2c0e21dbb7f7b14aea0bdb8e5fae3d5b,-8725236559027150047,498135477827617665,4,E
+sparc.h,sparc.h,\include\capstone\sparc.h,xAnalyzer/pluginsdk/capstone/sparc.h,23885d87329809b83daf174ca6a4bb61,23885d87329809b83daf174ca6a4bb61,-3036185718474385096,-3036183519451129416,2,E
+systemz.h,systemz.h,\include\capstone\systemz.h,xAnalyzer/pluginsdk/capstone/systemz.h,100f7d9b73bea8945afe704cd336fa1e,100f7d9b73bea8945afe704cd336fa1e,5144834657936727348,5004642510168906928,8,E
+x86.h,x86.h,\include\capstone\x86.h,xAnalyzer/pluginsdk/capstone/x86.h,73bd4d23210fa5ed7f3eeb00dad81968,f80a376595e7e5cd16b22266a260343a,-7622917036820151877,-7622917036820151885,1,N
+x86.h,x86.h,\include\capstone\x86.h,xAnalyzer/pluginsdk/capstone/x86.h,73bd4d23210fa5ed7f3eeb00dad81968,752a7bd300cbc71e6bb2d408180eee12,-7622917036820151877,-7622917054000021069,2,N
+xcore.h,xcore.h,\include\capstone\xcore.h,xAnalyzer/pluginsdk/capstone/xcore.h,fd81db116b77ab47582792dc64d4dab2,fd81db116b77ab47582792dc64d4dab2,7387488717442532794,5161584567253075386,9,E

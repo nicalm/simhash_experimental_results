@@ -1,0 +1,15 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/ufora/ufora,master,85-254
+ltmain.sh,_config.sh,\ext\libeio\ltmain.sh,ufora/scripts/init/_config.sh,8ab3567c6eebf703dcd9430e8e4f182b,caaeb2d33f4f7e8e14dd31a3a19d0b01,-1014810404834015316,-1014467356669276243,6,N
+ltmain.sh,_config.sh,\ext\libeio\ltmain.sh,ufora/scripts/init/_config.sh,8ab3567c6eebf703dcd9430e8e4f182b,815ebd4c4b78154424b3114e910eb574,-1014810404834015316,-1014467356669276243,6,N
+ltmain.sh,install.sh,\ext\libeio\ltmain.sh,ufora/scripts/package/fora-sync/install.sh,8ab3567c6eebf703dcd9430e8e4f182b,03b4246294a6905c442860ba554a23dc,-1014810404834015316,-1009963757041938515,8,N
+ltmain.sh,_util.sh,\ext\libeio\ltmain.sh,ufora/scripts/package/bootstrap/_util.sh,8ab3567c6eebf703dcd9430e8e4f182b,c7149ac811d851834ebbe75a475196dc,-1014810404834015316,8208834311449710505,8,N
+ltmain.sh,_config.sh,\ext\libev\ltmain.sh,ufora/scripts/init/_config.sh,736ed665fa909390d959c34bc3ee8c32,caaeb2d33f4f7e8e14dd31a3a19d0b01,-5626496423261403220,-1014467356669276243,7,N
+ltmain.sh,_config.sh,\ext\libev\ltmain.sh,ufora/scripts/init/_config.sh,736ed665fa909390d959c34bc3ee8c32,815ebd4c4b78154424b3114e910eb574,-5626496423261403220,-1014467356669276243,7,N
+mocksetup-first.sh,make.sh,\rpm\release\mocksetup-first.sh,make.sh,806ba71db928e5b63fa0830c93e1a43b,2489f36b2a8daa35acffa84198964294,-1050672350426624579,-1014678600307896897,8,N
+mocksetup-first.sh,_config.sh,\rpm\release\mocksetup-first.sh,ufora/scripts/init/_config.sh,806ba71db928e5b63fa0830c93e1a43b,caaeb2d33f4f7e8e14dd31a3a19d0b01,-1050672350426624579,-1014467356669276243,7,N
+mocksetup-first.sh,make.sh,\rpm\release\mocksetup-first.sh,make.sh,806ba71db928e5b63fa0830c93e1a43b,8845182e4091bfbd7398c5084b9e31be,-1050672350426624579,-1014678600307864131,8,N
+mocksetup-first.sh,_config.sh,\rpm\release\mocksetup-first.sh,ufora/scripts/init/_config.sh,806ba71db928e5b63fa0830c93e1a43b,815ebd4c4b78154424b3114e910eb574,-1050672350426624579,-1014467356669276243,7,N
+mocksetup-first.sh,install.sh,\rpm\release\mocksetup-first.sh,ufora/scripts/package/fora-sync/install.sh,806ba71db928e5b63fa0830c93e1a43b,03b4246294a6905c442860ba554a23dc,-1050672350426624579,-1009963757041938515,7,N
+error_code.cpp,error_code.cpp,\ext\boost\libs\system\src\error_code.cpp,third_party/boost_1_53_0/libs/system/src/error_code.cpp,843e247d4b60726591ccd48ea820515f,843e247d4b60726591ccd48ea820515f,742716325130759942,742716325130759942,0,Y
+future.cpp,future.cpp,\ext\boost\libs\thread\src\future.cpp,third_party/boost_1_53_0/libs/thread/src/future.cpp,0c5798dfef110e95842a92cf85a8efc7,a924730ac33e3f8de0010a330176f9e3,2883595042145051713,577732241453621313,5,N
+once.cpp,once.cpp,\ext\boost\libs\thread\src\pthread\once.cpp,third_party/boost_1_53_0/libs/thread/src/pthread/once.cpp,594b19ec2ba3e23391bcfc87e1ec1915,3b3afb9d10d3bfe9c4e8d2278e28887c,780832630751967453,780867815126284765,4,N

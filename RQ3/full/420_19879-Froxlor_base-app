@@ -1,0 +1,2 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/mruz/base-app,refs/heads/master,198-252
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,app/common/library/Email/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

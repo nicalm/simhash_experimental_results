@@ -1,0 +1,8 @@
+75635-krb5,cf1a0c411b2668c57c41e9c4efd15ba17b6b322c,https://github.com/kayac/Lobi,master,564-584
+send-pr.sh,ltmain.sh,\src\util\send-pr\send-pr.sh,iOS/cocos2d-x/external/emscripten/tests/enet/ltmain.sh,532932c0059e7aac202897a68faed029,54cc464caecc3495d2a937bfd47bd280,-1014608059764338772,-1014810404834015316,8,N
+send-pr.sh,ltmain.sh,\src\util\send-pr\send-pr.sh,iOS/cocos2d-x/external/emscripten/tests/freealut/admin/autotools/ltmain.sh,532932c0059e7aac202897a68faed029,eff3079f00ff0877867dcbc1e8837a09,-1014608059764338772,-1014537725413453908,4,N
+send-pr.sh,ltmain.sh,\src\util\send-pr\send-pr.sh,iOS/cocos2d-x/external/emscripten/tests/poppler/ltmain.sh,532932c0059e7aac202897a68faed029,8ab3567c6eebf703dcd9430e8e4f182b,-1014608059764338772,-1014810404834015316,8,N
+send-pr.sh,publishPlugin.sh,\src\util\send-pr\send-pr.sh,iOS/cocos2d-x/plugin/tools/toolsForPublish/publishPlugin.sh,532932c0059e7aac202897a68faed029,c22431304098badaf3bd7a3eac24b433,-1014608059764338772,-1050777628632445011,6,N
+getopt.c,getopt.c,\src\util\windows\getopt.c,iOS/cocos2d-x/external/libwebsockets/wp8/include/win32helpers/getopt.c,05fab39a8c58a594a5560f18c424852f,05fab39a8c58a594a5560f18c424852f,5822587814746111882,5822587814746111882,0,Y
+getopt.h,getopt.h,\src\util\windows\getopt.h,iOS/cocos2d-x/external/libwebsockets/wp8/include/win32helpers/getopt.h,1623f704a986f325f059d7b2983d3861,1623f704a986f325f059d7b2983d3861,2791697280284300310,2791697280284300310,0,Y
+getopt_long.c,getopt_long.c,\src\util\windows\getopt_long.c,iOS/cocos2d-x/external/libwebsockets/wp8/include/win32helpers/getopt_long.c,a0a6761833b71f9c09db6483600bb274,a0a6761833b71f9c09db6483600bb274,4633448603274051462,4633448603274051462,0,Y

@@ -1,0 +1,6 @@
+169869-gnulib,278b4175c9d7dd47c1a3071554aac02add3b3c35,https://github.com/appneta/tcpreplay,master,2694-3071
+gettext.h,gettext.h,\lib\gettext.h,libopts/gettext.h,2f3e22e02c3a6bc9d14341b3b1daa41e,de319b56afa067f1ff8fd451ae7449d3,8879011500227995488,8878852071041967984,4,N
+gettext.h,gettext.h,\lib\gettext.h,libopts/gettext.h,2f3e22e02c3a6bc9d14341b3b1daa41e,c60362342619adb7fc45c50836808f50,8879011500227995488,8879011500225898336,1,N
+intprops.h,intprops.h,\lib\intprops.h,libopts/intprops.h,938faacd818163a40c06bb78efd4c822,c5af8e7985cf353157ce01f42ebd7b15,2216807242604650454,1045590972609040342,8,N
+parse-duration.c,parse-duration.c,\lib\parse-duration.c,libopts/parse-duration.c,8db35c9a22ef86dc6fd926b0a8617948,8db35c9a22ef86dc6fd926b0a8617948,6403357944359138217,6403357944359138217,0,Y
+parse-duration.c,parse-duration.c,\lib\parse-duration.c,libopts/parse-duration.c,8db35c9a22ef86dc6fd926b0a8617948,932e87d7700bff7ba6859a5dbd80573e,6403357944359138217,6403357944359105449,1,N

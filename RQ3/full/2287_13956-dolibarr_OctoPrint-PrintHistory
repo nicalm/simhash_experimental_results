@@ -1,0 +1,4 @@
+13956-dolibarr,0f06e39d23636bd1e4039ac61a743c79725c798b,https://github.com/imrahil/OctoPrint-PrintHistory,master,30-74
+jquery.flot.pie.js,jquery.flot.pie.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.pie.js,octoprint_printhistory/static/js/jquery.flot.pie.js,b832ca19c8f9c23005244bac6510ee4d,b832ca19c8f9c23005244bac6510ee4d,-5532908320834432319,-5532908320834432319,0,Y
+jquery.flot.stack.js,jquery.flot.stack.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.stack.js,octoprint_printhistory/static/js/jquery.flot.stack.js,0f3b1bcf18aa7c960a35dfd1911cd534,0f3b1bcf18aa7c960a35dfd1911cd534,-64530867233329355,-64530867233329355,0,Y
+jquery.flot.time.js,jquery.flot.time.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.time.js,octoprint_printhistory/static/js/jquery.flot.time.js,74e3bac09587091d33a37e2f8fe86449,74e3bac09587091d33a37e2f8fe86449,-8002266877783539956,-8002266877783539956,0,Y

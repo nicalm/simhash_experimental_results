@@ -1,0 +1,3 @@
+19879-Froxlor,8558533a9148a2a0302c9c177abff8e4e4075b92,https://github.com/jelix/jelix,refs/heads/master,3807-3871
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,lib/phpMailer/class.phpmailer.php,88711429b426e230eb29c661c7da7644,88711429b426e230eb29c661c7da7644,7109353998414617907,7109353998414617907,0,Y
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,lib/phpMailer/class.smtp.php,ac2ed950cb1cb89d40c96b7174cad080,ac2ed950cb1cb89d40c96b7174cad080,-8824115752155750095,-8824115752155750095,0,Y

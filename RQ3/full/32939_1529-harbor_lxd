@@ -1,0 +1,4 @@
+1529-harbor,b6db8a8a106259ec9a2c48be8a380cb3b37cf517,https://github.com/lxc/lxd,master,4579-10367
+integration.sh,main.sh,\tests\integration.sh,test/main.sh,ba55b0bed8107eb63619794f310021eb,aa38a444c0e5173b9df6e0304dae0ff0,-1009963722581504595,-1014467357206141011,8,N
+integration.sh,static_analysis.sh,\tests\integration.sh,test/suites/static_analysis.sh,ba55b0bed8107eb63619794f310021eb,372b46e5f6f30f8ca352e4cdd8dbc83b,-1009963722581504595,-4473231733050863699,8,N
+integration.sh,lxd.sh,\tests\integration.sh,test/includes/lxd.sh,ba55b0bed8107eb63619794f310021eb,3c1f5a443bc03ce2f97f89e906510a46,-1009963722581504595,-1014467357222924868,8,N

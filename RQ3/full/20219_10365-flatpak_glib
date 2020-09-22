@@ -1,0 +1,10 @@
+10365-flatpak,52346bf187b5a7f1c0fe9075b328b7ad6abe78f6,https://github.com/GNOME/glib,master,18880-19798
+tap-driver.sh,tap-driver.sh,\buildutil\tap-driver.sh,tap-driver.sh,2d608212dac1da09dceab3398c95b594,29aabe5289b44f0dee63c03503eb011a,-6217107265146399849,-1605421246719003753,2,N
+libtest.sh,run-assert-msg-test.sh,\tests\libtest.sh,tests/run-assert-msg-test.sh,403a1aa11846e99b07fae58af8c0ed2f,d7a798b6ba7ae554c553b1f814b7e165,-870347761957498963,-1014467356660888147,6,N
+gvdb-builder.c,gvdb-builder.c,\common\gvdb\gvdb-builder.c,gio/gvdb/gvdb-builder.c,815bf30df6d49be7642f76a6720aefd9,a5ba223a341fb33f1fe88a3b789b765c,6590417997265749339,6590417997265748443,2,N
+gvdb-builder.h,gvdb-reader.h,\common\gvdb\gvdb-builder.h,gio/gvdb/gvdb-reader.h,44b5a90471bc3d01f8f42edba2173f7f,0ef273609878e10933e028e0df5bcf27,67174217965702351,71642650400361903,8,N
+gvdb-builder.h,gvdb-builder.h,\common\gvdb\gvdb-builder.h,gio/gvdb/gvdb-builder.h,44b5a90471bc3d01f8f42edba2173f7f,7f7f85325906368d4c6dc488af02955b,67174217965702351,139231279427718351,4,N
+gvdb-format.h,gvdb-format.h,\common\gvdb\gvdb-format.h,gio/gvdb/gvdb-format.h,555cf8e13aabb28bc9dfc5c9bb642fe9,555cf8e13aabb28bc9dfc5c9bb642fe9,-2419419166366529849,-2419419166366529849,0,Y
+gvdb-reader.c,gvdb-reader.c,\common\gvdb\gvdb-reader.c,gio/gvdb/gvdb-reader.c,13a00fff7bc8747b116445cb823d9b6b,13a00fff7bc8747b116445cb823d9b6b,4922463688146245994,4922463688146245994,0,Y
+gvdb-reader.h,gvdb-reader.h,\common\gvdb\gvdb-reader.h,gio/gvdb/gvdb-reader.h,0ef273609878e10933e028e0df5bcf27,0ef273609878e10933e028e0df5bcf27,71642650400361903,71642650400361903,0,Y
+gvdb-reader.h,gvdb-builder.h,\common\gvdb\gvdb-reader.h,gio/gvdb/gvdb-builder.h,0ef273609878e10933e028e0df5bcf27,7f7f85325906368d4c6dc488af02955b,71642650400361903,139231279427718351,8,N

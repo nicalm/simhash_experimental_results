@@ -1,0 +1,11 @@
+38122-mapserver,e52a436c0e1c5e9f7ef13428dba83194a800f4df,https://github.com/OpenNI/OpenNI,master,3-17
+glext.h,glext.h,\opengl\glext.h,Samples/NiUserTracker/GL/glext.h,3d7f0cec2f211ba7a355bd8d08aaafee,3d7f0cec2f211ba7a355bd8d08aaafee,7980509781423156375,7980509781423156375,0,Y
+glext.h,glext.h,\opengl\glext.h,Samples/NiHandTracker/GL/glext.h,3d7f0cec2f211ba7a355bd8d08aaafee,3d7f0cec2f211ba7a355bd8d08aaafee,7980509781423156375,7980509781423156375,0,Y
+glext.h,glext.h,\opengl\glext.h,Samples/NiSimpleViewer/GL/glext.h,3d7f0cec2f211ba7a355bd8d08aaafee,3d7f0cec2f211ba7a355bd8d08aaafee,7980509781423156375,7980509781423156375,0,Y
+glext.h,glext.h,\opengl\glext.h,Samples/NiViewer/GL/glext.h,3d7f0cec2f211ba7a355bd8d08aaafee,3d7f0cec2f211ba7a355bd8d08aaafee,7980509781423156375,7980509781423156375,0,Y
+glext.h,glext.h,\opengl\glext.h,Samples/NiUserSelection/GL/glext.h,3d7f0cec2f211ba7a355bd8d08aaafee,3d7f0cec2f211ba7a355bd8d08aaafee,7980509781423156375,7980509781423156375,0,Y
+wglext.h,wglext.h,\opengl\wglext.h,Samples/NiHandTracker/GL/wglext.h,9faaaf5eb912552e050ec8c9aa6efada,9faaaf5eb912552e050ec8c9aa6efada,-3698661452479457371,-3698661452479457371,0,Y
+wglext.h,wglext.h,\opengl\wglext.h,Samples/NiUserSelection/GL/wglext.h,9faaaf5eb912552e050ec8c9aa6efada,9faaaf5eb912552e050ec8c9aa6efada,-3698661452479457371,-3698661452479457371,0,Y
+wglext.h,wglext.h,\opengl\wglext.h,Samples/NiUserTracker/GL/wglext.h,9faaaf5eb912552e050ec8c9aa6efada,9faaaf5eb912552e050ec8c9aa6efada,-3698661452479457371,-3698661452479457371,0,Y
+wglext.h,wglext.h,\opengl\wglext.h,Samples/NiSimpleViewer/GL/wglext.h,9faaaf5eb912552e050ec8c9aa6efada,9faaaf5eb912552e050ec8c9aa6efada,-3698661452479457371,-3698661452479457371,0,Y
+wglext.h,wglext.h,\opengl\wglext.h,Samples/NiViewer/GL/wglext.h,9faaaf5eb912552e050ec8c9aa6efada,9faaaf5eb912552e050ec8c9aa6efada,-3698661452479457371,-3698661452479457371,0,Y

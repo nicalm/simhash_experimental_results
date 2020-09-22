@@ -1,0 +1,14 @@
+3980-passenger,5483b3292cc2af1c83033eaaadec20dba4dcfd9b,https://github.com/kbengine/kbengine,master,2475-2865
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,kbe/src/lib/python/Modules/_ctypes/libffi/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,df80ccdf5d2dc03cc3191db457c13ad0,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,kbe/src/lib/dependencies/apr/build/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,df80ccdf5d2dc03cc3191db457c13ad0,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,kbe/src/lib/dependencies/jwsmtp/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,2119b320ce18410781cd7a807915ac53,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,kbe/src/lib/dependencies/log4cxx/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,25f882475a2a69f95ddf607de1884932,-1014810404834015316,-1014810404297142356,2,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,kbe/src/lib/python/Modules/_ctypes/libffi/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,df80ccdf5d2dc03cc3191db457c13ad0,-5626496423261403220,-1014810404834015316,1,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,kbe/src/lib/dependencies/apr/build/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,df80ccdf5d2dc03cc3191db457c13ad0,-5626496423261403220,-1014810404834015316,1,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,kbe/src/lib/dependencies/jwsmtp/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,2119b320ce18410781cd7a807915ac53,-5626496423261403220,-1014810404297142356,3,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,kbe/src/lib/dependencies/log4cxx/ltmain.sh,736ed665fa909390d959c34bc3ee8c32,25f882475a2a69f95ddf607de1884932,-5626496423261403220,-1014810404297142356,3,N
+Base64.cpp,base64.cpp,\ext\common\Utils\Base64.cpp,kbe/src/lib/cstdkbe/base64.cpp,096efc3c5fc6acda793d5f771ac3fbc7,c1a4fca1ced18288df94ded5736f179e,4999262067044287000,5003730413588480120,7,N
+Base64.cpp,base64.cpp,\ext\common\Utils\Base64.cpp,kbe/src/lib/dependencies/tmxparser/base64.cpp,096efc3c5fc6acda793d5f771ac3fbc7,d270608432bbd072b843232213c5ef60,4999262067044287000,5003730413571702904,8,N
+checked.h,checked.h,\ext\common\Utils\utf8\checked.h,kbe/src/lib/dependencies/utf8cpp/utf8/checked.h,d45360a23cff6118b3bccc72f6260545,b9518a233a422419c6908bb1a2008166,8804820398114646697,8804538923405847081,4,N
+core.h,core.h,\ext\common\Utils\utf8\core.h,kbe/src/lib/dependencies/utf8cpp/utf8/core.h,8dac55049f5a5462eb6a6914eeedb615,cc6c08c1a1c28f96c2d72b9124d74ebb,-932296827594231713,-932437839956299681,3,N
+unchecked.h,unchecked.h,\ext\common\Utils\utf8\unchecked.h,kbe/src/lib/dependencies/utf8cpp/utf8/unchecked.h,e1defae6c0a2eedf102f5f213f702d93,05cd57928666b4aa39569820bff4d0e8,-7786054067240534355,-7786054065629921619,2,N

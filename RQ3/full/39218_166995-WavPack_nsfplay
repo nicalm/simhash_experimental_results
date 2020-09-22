@@ -1,0 +1,7 @@
+166995-WavPack,8e3fe45a7bac31d9a3b558ae0079e2d92a04799e,https://github.com/bbbradsmith/nsfplay,master,150-248
+in2.h,IN2.H,\winamp\in2.h,xgm/player/plugin/winamp2/sdk/IN2.H,4e7d6669b2201c2a55869c9a0b6fa7ed,4e7d6669b2201c2a55869c9a0b6fa7ed,591819027138624214,591819027138624214,0,Y
+out.h,OUT.H,\winamp\out.h,xgm/player/plugin/winamp2/sdk/OUT.H,52458c52759ccfc2297ffc46875e6ef8,52458c52759ccfc2297ffc46875e6ef8,65761006679960111,65761006679960111,0,Y
+ipc_pe.h,ipc_pe.h,\winamp\wasabi\Winamp\ipc_pe.h,libemuwa2/winamp2/ipc_pe.h,0c9556f8f7835f2e02a8337efca7aa81,0c9556f8f7835f2e02a8337efca7aa81,1375393149096949275,1375393149096949275,0,Y
+wa_dlg.h,wa_dlg.h,\winamp\wasabi\Winamp\wa_dlg.h,libemuwa2/winamp2/wa_dlg.h,208da7ef2130a9b338204d9df6acdf61,208da7ef2130a9b338204d9df6acdf61,-4729767880780809017,-4729767880780809017,0,Y
+wa_hotkeys.h,wa_hotkeys.h,\winamp\wasabi\Winamp\wa_hotkeys.h,libemuwa2/winamp2/wa_hotkeys.h,3cbc9c1e74874b51e5815db8cbc9019d,3cbc9c1e74874b51e5815db8cbc9019d,206041463893043845,206041463893043845,0,Y
+wa_ipc.h,wa_ipc.h,\winamp\wasabi\Winamp\wa_ipc.h,libemuwa2/winamp2/wa_ipc.h,62c79737005ce93f9bcde9379b945eac,62c79737005ce93f9bcde9379b945eac,-7696060289669470484,-7696060289669470484,0,Y

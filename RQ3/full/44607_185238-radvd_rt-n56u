@@ -1,0 +1,5 @@
+185238-radvd,92e22ca23e52066da2258df8c76a2dca8a428bcc,https://github.com/andy-padavan/rt-n56u,master,3064-3064
+interface.c,interface.c,\interface.c,trunk/user/radvd/radvd-1.x.x/interface.c,4592781dde547934e8f24f6a0c15d67f,4592781dde547934e8f24f6a0c15d67f,-6759567250150561787,-2156675064524748537,16,E
+pathnames.h,pathnames.h,\pathnames.h,trunk/user/radvd/radvd-1.x.x/pathnames.h,df2ada0d30d1af3bb6bc7b9657b26385,df2ada0d30d1af3bb6bc7b9657b26385,7683174232172421316,7683174232172421316,0,Y
+privsep-linux.c,privsep-linux.c,\privsep-linux.c,trunk/user/radvd/radvd-1.x.x/privsep-linux.c,526c6620f70842eb9bce986b119ac8a2,30575c31d0784c39ddd6280e25b1e16a,6419134672050478012,6437130927677397916,8,N
+socket.c,socket.c,\socket.c,trunk/user/radvd/radvd-1.x.x/socket.c,8392cc2bee642e22fb233eef391d1f00,2a621192f9a6a3327dce5d40e596438d,-552583639426696222,-5056183275488052382,8,N

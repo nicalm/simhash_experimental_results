@@ -1,0 +1,2 @@
+9776-gaia,0f72a8c31df9f3d8f609a7c58ca91139051d44eb,https://github.com/taskcluster/docker-worker,master,1388-1625
+png_recompress.sh,deploy.sh,\tools\png_recompress.sh,deploy.sh,0cc3d03220c4b62ddd5e21c77e8c5151,d5dfa7f6fdd87195038547f87511db92,8208834483240013741,-2167459193513109588,8,N

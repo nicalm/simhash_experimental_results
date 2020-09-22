@@ -1,0 +1,4 @@
+2389-Pillow,205e056f8f9b06ed7b925cf8aa0874bc4aaf8a7d,https://github.com/skylander86/lambda-text-extractor,master,71-71
+ImageFilter.py,ImageFilter.py,\PIL\ImageFilter.py,lib-linux_x64/PIL/ImageFilter.py,61ff7c7101e8c7f03b3be3005c201f80,71ccbd51bcf6855c509dfd25b9a1fb5a,6043899134698725842,8349742143916614098,2,N
+ImageStat.py,ImageStat.py,\PIL\ImageStat.py,lib-linux_x64/PIL/ImageStat.py,154f40371f689e0299f3a62b1409d1f0,6fa3e9a25209bb5dd501ef04e93aa6b6,-8270316001368013072,-8272568900693424400,4,N
+_util.py,_util.py,\PIL\_util.py,lib-linux_x64/PIL/_util.py,e09093ee14696bc824cfd82d30f5c8b6,e09093ee14696bc824cfd82d30f5c8b6,4835305220191509036,4835305220191509036,0,Y

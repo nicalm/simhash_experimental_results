@@ -1,0 +1,4 @@
+3980-passenger,94428057c602da3d6d34ef75c78091066ecac5c0,https://github.com/RetroAchievements/RAEmus,master,35-473
+regex.h,regex.h,\ext\boost\regex.h,bizhawk/libmupen64plus/mupen64plus-win32-deps/boost-1.53.0/boost/regex.h,86b565a37f4e6a9af1b794e657d25636,86b565a37f4e6a9af1b794e657d25636,-6487893010288307890,-6487893010288307890,0,Y
+MD5.cpp,md5.c,\ext\common\Utils\MD5.cpp,RA_Integration/md5.c,39df74706c510cbf1d02da153516ffa1,b2bd61629935ae0c991830adef8b6d96,-1202240236387221744,-1202240236387221744,0,N
+MD5.cpp,md5.c,\ext\common\Utils\MD5.cpp,bizhawk/libmupen64plus/mupen64plus-core/src/main/md5.c,39df74706c510cbf1d02da153516ffa1,b2bd61629935ae0c991830adef8b6d96,-1202240236387221744,-1202240236387221744,0,N

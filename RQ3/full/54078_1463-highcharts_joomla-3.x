@@ -1,0 +1,7 @@
+1463-highcharts,7c547e1e0f5e4379f94396efd559a566668c0dfa,https://github.com/joomlagovbr/joomla-3.x,refs/heads/master,74-93
+jquery-1.11.0.js,jquery.js,\vendor\jquery-1.11.0.js,media/jui/js/jquery.js,6a89c87c622a2c4c544724f90c4b6afc,671fc8452a11cf859affb1ca61bdb82c,6321864246975276264,6249802392329790696,3,N
+jquery-1.11.0.js,jquery.js,\vendor\jquery-1.11.0.js,media/jui/js/jquery.js,6a89c87c622a2c4c544724f90c4b6afc,bebabfa615d630b0b51ffad927f67941,6321864246975276264,6249806790376303848,3,N
+mootools-core-1.3.2-full-compat.js,mootools-core-uncompressed.js,\vendor\mootools-core-1.3.2-full-compat.js,media/system/js/mootools-core-uncompressed.js,97f4957e27b3143223754aec7e2a2a4b,bec3a6fc686a460887999000875447ba,-4928134990579293698,4296354137212985854,8,N
+mootools-core-1.4.5-full-nocompat.js,mootools-core-uncompressed.js,\vendor\mootools-core-1.4.5-full-nocompat.js,media/system/js/mootools-core-uncompressed.js,bec3a6fc686a460887999000875447ba,bec3a6fc686a460887999000875447ba,4296354137212985854,4296354137212985854,0,Y
+highslide-full.min.js,highslide-full.js,\samples\static\highslide-full.min.js,components/com_phocagallery/assets/highslide/highslide-full.js,5370938122954f8eeeac1e0d6b6b6064,401f343522ca479ef9be50670aabeff9,-2039679286474561484,8913075007290484788,3,N
+demo.js,autoload.php,\samples\issues\highcharts-4.2.6\5622-point-click-shared-tooltip\demo.js,libraries/vendor/autoload.php,5b4faa97b26f57cea3e6ecdbff48bf42,dd975f6cae2f76510fce92c7b6c91cef,4630281543207175256,4612343011016180824,8,N

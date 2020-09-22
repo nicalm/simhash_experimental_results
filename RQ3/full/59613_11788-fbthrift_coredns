@@ -1,0 +1,5 @@
+11788-fbthrift,01686e15ec77ccb4d49a77d5bce3a01601e54d64,https://github.com/coredns/coredns,master,599-1390
+iostream_transport_test.go,iostream_transport_test.go,\thrift\lib\go\thrift\iostream_transport_test.go,vendor/github.com/apache/thrift/lib/go/thrift/iostream_transport_test.go,ac7e591c4383815d89feed4b14781fc9,ac7e591c4383815d89feed4b14781fc9,7032306805642013678,7032306805642013678,0,Y
+json_protocol.go,json_protocol.go,\thrift\lib\go\thrift\json_protocol.go,vendor/github.com/apache/thrift/lib/go/thrift/json_protocol.go,c35676208f5f49c7d3ebb7c39bfc3e98,db57132c50005035118665988292fe48,8463678377907002898,8392218920350456368,8,N
+json_protocol_test.go,json_protocol_test.go,\thrift\lib\go\thrift\json_protocol_test.go,vendor/github.com/apache/thrift/lib/go/thrift/json_protocol_test.go,048ca2c596d8352eae896961b9c5e405,a7b14441af3c6714b42a00afb0a4c205,2072139237960371549,2072116706695892253,7,N
+numeric.go,numeric.go,\thrift\lib\go\thrift\numeric.go,vendor/github.com/apache/thrift/lib/go/thrift/numeric.go,cf14d069cdc1eaef1524a1fc433d4ed4,0216aa7f70e5bb28e17f5bfc4fb9bd12,-4581036496397653993,-4581177199522338809,5,N

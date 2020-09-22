@@ -1,0 +1,5 @@
+26090-sogo,64ce3c9c22fd9a28caabf11e76216cd53d0245aa,https://github.com/SeriaWei/ASP.NET-MVC-CMS,master,277-855
+angular-animate.js,angular-animate.js,\UI\WebServerResources\js\vendor\angular-animate.js,Easy.CMS.Web/Scripts/angular/angular-animate.js,6fc91589b4f5b77df981766fbd79311d,497d921778edf809fc4628d0929b0fa4,-4140518290007488663,-4140523272169552151,5,N
+angular-aria.js,angular-aria.js,\UI\WebServerResources\js\vendor\angular-aria.js,Easy.CMS.Web/Scripts/angular/angular-aria.js,a31fcc71acf2a6c3634a21b7db5c56e1,ba64956a5ff0dbde44bce0d75d093076,6652605165375447176,6652605148330450953,6,N
+angular-cookies.js,angular-cookies.js,\UI\WebServerResources\js\vendor\angular-cookies.js,Easy.CMS.Web/Scripts/angular/angular-cookies.js,b1df35c0f73bc79ed215e18368ce110b,fc7c93f8bf08a4a15d865c9694c2f02c,2253172870091454219,6864858888517793547,2,N
+angular-sanitize.js,angular-sanitize.js,\UI\WebServerResources\js\vendor\angular-sanitize.js,Easy.CMS.Web/Scripts/angular/angular-sanitize.js,325279850fe9a881f2a48bd5c2a94523,325279850fe9a881f2a48bd5c2a94523,951256781462310131,951256781462310131,0,Y

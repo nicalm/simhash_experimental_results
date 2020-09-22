@@ -1,0 +1,8 @@
+4960-capstone,6fe86eef621b9849f51a5e1e5d73258a93440403,https://github.com/stonedreamforest/NaiHeQiao,refs/heads/master,8-45
+arm64.h,arm64.h,\include\arm64.h,NaiHeQiao/pluginsdk/capstone/arm64.h,6c3d8084ff5f95ca0e66c51ec4446290,f65f2b3da5cb54903a5200577499c85e,4959242741514563716,4959260333700591748,2,N
+capstone.h,capstone.h,\include\capstone.h,NaiHeQiao/pluginsdk/capstone/capstone.h,369f2463921a07d76541dfd6e2861c5c,31b00b4e7cb759c1a5614d2a8b3c6c47,-4828357121565666925,-5404817891049549421,4,N
+mips.h,mips.h,\include\mips.h,NaiHeQiao/pluginsdk/capstone/mips.h,905017de6bb944af073031dbc30d81b4,b3f1a6ce8b6eed6dcab120eab802d5fa,-7241964879729353208,-7246538848100935032,5,N
+platform.h,platform.h,\include\platform.h,NaiHeQiao/pluginsdk/capstone/platform.h,da0787b0ccfce29aaaa0d5043afeab72,6b2055a9cac87df72c61693e6710cfd9,-1979552617926195163,-1979552617796196315,4,N
+ppc.h,ppc.h,\include\ppc.h,NaiHeQiao/pluginsdk/capstone/ppc.h,89755d64c78e711fc9cf82b31d3264d8,2c0e21dbb7f7b14aea0bdb8e5fae3d5b,-7581463059882881279,498135477827617665,8,N
+sparc.h,sparc.h,\include\sparc.h,NaiHeQiao/pluginsdk/capstone/sparc.h,d24d00948ced0124ef25dd3c8d844720,23885d87329809b83daf174ca6a4bb61,-3035631564613985992,-3036183519451129416,4,N
+systemz.h,systemz.h,\include\systemz.h,NaiHeQiao/pluginsdk/capstone/systemz.h,6e0fd967171ae26a4c697dfbaec7e362,100f7d9b73bea8945afe704cd336fa1e,5005223069488241972,5004642510168906928,6,N

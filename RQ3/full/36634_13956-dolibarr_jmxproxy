@@ -1,0 +1,10 @@
+13956-dolibarr,70636cc59ffa1ffbc0ce3dba315d7d9b837aad04,https://github.com/mk23/jmxproxy,master,301-532
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,src/main/resources/assets/js/jquery.js,ed0016acf848db02c57ce7eb3cc49676,671fc8452a11cf859affb1ca61bdb82c,6826268101025539816,6249802392329790696,6,N
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,src/main/resources/assets/js/jquery.js,ed0016acf848db02c57ce7eb3cc49676,bebabfa615d630b0b51ffad927f67941,6826268101025539816,6249806790376303848,6,N
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,src/main/resources/assets/js/jquery.js,ed0016acf848db02c57ce7eb3cc49676,ab5e8ac04d56465eacb6ce06cbe220c2,6826268101025539816,6826268101008762600,1,N
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,src/main/resources/assets/js/jquery.js,ed0016acf848db02c57ce7eb3cc49676,01d6dd1583d20b65a5c2f4c0a8225b79,6826268101025539816,6826268092418830056,3,N
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,src/main/resources/assets/js/jquery.js,ed0016acf848db02c57ce7eb3cc49676,ae1e5b8c6eef12741e6ec92c4832348b,6826268101025539816,6826268092418828008,2,N
+jquery.flot.js,jquery.flot.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.js,src/main/resources/assets/js/jquery.flot.js,74ed638dcdb0e5e2eeaf73ac5d0f95a5,74ed638dcdb0e5e2eeaf73ac5d0f95a5,1370964771625934484,1370964771625934484,0,Y
+jquery.flot.navigate.js,jquery.flot.navigate.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.navigate.js,src/main/resources/assets/js/jquery.flot.navigate.js,7c78d98cef6f74d881ff03a05ea037d2,7c78d98cef6f74d881ff03a05ea037d2,4120838755676916233,4120838755676916233,0,Y
+jquery.flot.resize.js,jquery.flot.resize.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.resize.js,src/main/resources/assets/js/jquery.flot.resize.js,b657b82c78492f82e664b5dbc0595cde,b657b82c78492f82e664b5dbc0595cde,-6302764399840912381,-6302764399840912381,0,Y
+jquery.flot.time.js,jquery.flot.time.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.time.js,src/main/resources/assets/js/jquery.flot.time.js,74e3bac09587091d33a37e2f8fe86449,74e3bac09587091d33a37e2f8fe86449,-8002266877783539956,-8002266877783539956,0,Y

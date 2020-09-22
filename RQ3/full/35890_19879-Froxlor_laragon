@@ -1,0 +1,3 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/leokhoa/laragon,master,22-111
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,etc/php/pear/PHPMailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,6115a0cf32db6f4c89a421d944d90acf,7289638721001993635,7433753904782882195,4,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,etc/php/pear/PHPMailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

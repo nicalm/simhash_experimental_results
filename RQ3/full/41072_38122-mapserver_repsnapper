@@ -1,0 +1,6 @@
+38122-mapserver,3a10f6b829297dae63492a8c63385044bc6953ed,https://github.com/timschmidt/repsnapper,master,1003-1476
+agg_conv_clipper.h,agg_conv_clipper.h,\renderers\agg\include\agg_conv_clipper.h,libraries/clipper/clipper/polyclipping/trunk/cpp/cpp_agg/agg_conv_clipper.h,bb19c9eb3c6b83dfca7866d4fe197209,7610650fb0e8773520e6dc5d8e7f3c22,2079289397164303894,2080415297070888470,3,N
+agg_conv_clipper.h,agg_conv_clipper.h,\renderers\agg\include\agg_conv_clipper.h,libraries/clipper/clipper/cpp/cpp_agg/agg_conv_clipper.h,bb19c9eb3c6b83dfca7866d4fe197209,7610650fb0e8773520e6dc5d8e7f3c22,2079289397164303894,2080415297070888470,3,N
+clipper.cpp,clipper.cpp,\renderers\agg\src\clipper.cpp,libraries/clipper/clipper/polyclipping/trunk/cpp/clipper.cpp,a40f7bca66762619f976933c7b33e068,a177a79b28d5211848b1e357dd70c81c,4051843658034478772,4048465700636884644,8,N
+clipper.cpp,clipper.cpp,\renderers\agg\src\clipper.cpp,libraries/clipper/clipper/polyclipping/trunk/cpp/clipper.cpp,a40f7bca66762619f976933c7b33e068,c51de133473744456af384eef2768488,4051843658034478772,4052969317444124324,6,N
+clipper.cpp,clipper.cpp,\renderers\agg\src\clipper.cpp,libraries/clipper/clipper/cpp/clipper.cpp,a40f7bca66762619f976933c7b33e068,a40f7bca66762619f976933c7b33e068,4051843658034478772,4051843658034478772,0,Y

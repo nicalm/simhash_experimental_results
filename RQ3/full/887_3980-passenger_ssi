@@ -1,0 +1,9 @@
+3980-passenger,94428057c602da3d6d34ef75c78091066ecac5c0,https://github.com/hcmlab/ssi,master,15-65
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,libs/build/Python-3.6.4/Modules/_ctypes/libffi/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,4d0dc254f85faa4e74cc47f4b99a3e55,-1014810404834015316,-2167740705500330068,3,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,plugins/libsox/build/libs/sox/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,7de953ff2e116a8268ae243ace311076,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,plugins/xmpp/build/libs/gloox/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,40d33ec162a9fc5f2c9418042d04305d,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libeio\ltmain.sh,libs/build/libzip/ltmain.sh,8ab3567c6eebf703dcd9430e8e4f182b,07790663b50e066a45e9aca943e2e207,-1014810404834015316,-5626496423261403220,1,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,libs/build/Python-3.6.4/Modules/_ctypes/libffi/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,4d0dc254f85faa4e74cc47f4b99a3e55,-1014810404834015316,-2167740705500330068,3,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,plugins/libsox/build/libs/sox/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,7de953ff2e116a8268ae243ace311076,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,plugins/xmpp/build/libs/gloox/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,40d33ec162a9fc5f2c9418042d04305d,-1014810404834015316,-1014810404834015316,0,N
+ltmain.sh,ltmain.sh,\ext\libev\ltmain.sh,libs/build/libzip/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,07790663b50e066a45e9aca943e2e207,-1014810404834015316,-5626496423261403220,1,N

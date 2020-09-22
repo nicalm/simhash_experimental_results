@@ -1,0 +1,8 @@
+1087-radare2,0b973e28166636e0ff1fad80baa0385c9c09c53a,https://github.com/EmmyLua/IntelliJ-EmmyLua,master,850-2617
+decode.c,decode.c,\shlr\udis86\decode.c,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/decode.c,d904bbe898a4cc79921939c9bb4bb502,a5c87830369d93df31d0bcfb65bd4ea7,-746134339339683515,-3051977348538830523,5,N
+decode.h,decode.h,\shlr\udis86\decode.h,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/decode.h,653a4eca678b13c79a7dc62f38969d91,483e4b6e4e89c47f0433c489170bfee1,7594075701406884452,7594638629885452900,5,N
+itab.c,itab.c,\shlr\udis86\itab.c,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/itab.c,c3afadfbbcc5a0d553d28a4dee31b972,f7084ecb67dd4a68736194346172551d,-3548856346168670863,-3548856346168670863,0,N
+itab.h,itab.h,\shlr\udis86\itab.h,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/itab.h,a9ec721b4b33340206c1c3dcf8225f76,13b66aa8f7c1202807c0eebcc3206645,7286780545907305957,2422892947810299365,4,N
+syn-att.c,syn-att.c,\shlr\udis86\syn-att.c,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/syn-att.c,21f59c82c8fd63ad55e0f0d2959a92cb,e0290a0cf1ba5c2434ee68338556355b,-2662176539730996508,-3815098027194672924,7,N
+syn-intel.c,syn-intel.c,\shlr\udis86\syn-intel.c,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/syn-intel.c,9e35cb960a2de31894d94c98a59a4419,9e35cb960a2de31894d94c98a59a4419,-8273629822267928250,-8273629822267928250,0,Y
+syn.h,syn.h,\shlr\udis86\syn.h,debugger/attach/windows/src/DriverShared/Disassembler/libudis86/syn.h,406a449ffcd73ea36e9c9998bd1ef9e8,406a449ffcd73ea36e9c9998bd1ef9e8,-2149326564339517716,-2149326564339517716,0,Y

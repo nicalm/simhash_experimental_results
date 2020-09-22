@@ -1,0 +1,12 @@
+1418-memcached,d35334f368817a77a6bd1f33c6a5676b2c402c02,https://github.com/alibaba/AliSQL,master,98228-98265
+cache.c,cache.c,\cache.c,plugin/innodb_memcached/daemon_memcached/daemon/cache.c,a482d36a7ae08973a13a41138cea0f05,3ac226ce7df623051e252ee69b609b4e,-8473111106107029675,-9022550131830765803,7,N
+cache.h,cache.h,\cache.h,plugin/innodb_memcached/daemon_memcached/daemon/cache.h,ae8c90e721c904fabd8c993fce5cf1f5,90c48f28e1b9c3b0b457e1bd00152e69,-5977411112898819988,-6553871865202048964,6,N
+daemon.c,daemon.c,\daemon.c,plugin/innodb_memcached/daemon_memcached/daemon/daemon.c,757c188148ecb0fca4b695cd0c4b0b63,de3437df1ae58fb3f51ea6ff19ab9ba8,-6408700564520807902,-6408700564520807902,0,N
+jenkins_hash.c,hash.c,\jenkins_hash.c,plugin/innodb_memcached/daemon_memcached/daemon/hash.c,f156093d1c00e35f4e11d4d682e4a676,aac5b4c90b2b73014275246ca4c30f04,4764899950853980301,-3305550581393948531,2,N
+protocol_binary.h,protocol_binary.h,\protocol_binary.h,plugin/innodb_memcached/daemon_memcached/include/memcached/protocol_binary.h,3c6efb570de818e66765919adf00c9ca,87efbd30ce5580606b720bc424d4f9b9,-2962227398235263163,-660896767526506683,8,N
+solaris_priv.c,solaris_priv.c,\solaris_priv.c,plugin/innodb_memcached/daemon_memcached/daemon/solaris_priv.c,0d45b2b9f5e5a606f985281cab593209,5e1ce442f38e0e23431182e74b274319,-4885151773178775134,-4885151773178775134,0,N
+stats.c,stats.c,\stats.c,plugin/innodb_memcached/daemon_memcached/daemon/stats.c,165547c0b169293f90e79e0459e8b733,6ba30551572abbfcd570a603be7c8882,8328565630820389885,8256508036782461933,2,N
+trace.h,trace.h,\trace.h,plugin/innodb_memcached/daemon_memcached/trace.h,56b4fe92b3112d46957f4f416c0a5048,bb4473cac89d24d11d92443c8992db26,-582007027878133655,-5626038610528690055,8,N
+trace.h,trace.h,\trace.h,plugin/innodb_memcached/innodb_memcache/cache-src/trace.h,56b4fe92b3112d46957f4f416c0a5048,bb4473cac89d24d11d92443c8992db26,-582007027878133655,-5626038610528690055,8,N
+bench_noreply.pl,bench_noreply.pl,\devtools\bench_noreply.pl,plugin/innodb_memcached/daemon_memcached/devtools/bench_noreply.pl,2e0be28f70b0d3f6432dbec85194c151,2e0be28f70b0d3f6432dbec85194c151,-2688858293148357067,-2688858293148357067,0,Y
+stress-memcached.pl,stress-memcached.pl,\t\stress-memcached.pl,plugin/innodb_memcached/daemon_memcached/t/stress-memcached.pl,e99e6eceefcc51c306b2e1770b80a11e,e99e6eceefcc51c306b2e1770b80a11e,1184800287805819445,1184800287805819445,0,Y

@@ -1,0 +1,7 @@
+3405-libevent,96f64a022014a208105ead6c8a7066018449d86d,https://github.com/Qihoo360/evpp,master,1027-1072
+bench.c,libevent_ioevent_bench.c,\test\bench.c,benchmark/ioevent/libevent/libevent_ioevent_bench.c,c04efa2d2a7e104c8c0796938a8bfa65,b2001d703bbbd4bfd1b5d04b2db01d99,-1541382797595890062,7067239094029790834,5,N
+bench_http.c,libevent_http_bench.c,\test\bench_http.c,benchmark/http/libevent/libevent_http_bench.c,3c5ceb64fecf1b612b1150b901ddf55d,6abf280ff978dee4d0a2b5b5d78cd718,-6675762711462131400,-2064085489121470148,6,N
+getopt.c,getopt.c,\WIN32-Code\getopt.c,3rdparty/win32code/getopt/getopt.c,05fab39a8c58a594a5560f18c424852f,05fab39a8c58a594a5560f18c424852f,5822587814746111882,5822587814746111882,0,Y
+getopt.h,getopt.h,\WIN32-Code\getopt.h,3rdparty/wininclude/getopt.h,61047a927c8f4d29c6c2303f5cc68679,61047a927c8f4d29c6c2303f5cc68679,7258696227152466006,7258696227152466006,0,Y
+getopt.h,getopt.h,\WIN32-Code\getopt.h,3rdparty/win32code/getopt/getopt.h,61047a927c8f4d29c6c2303f5cc68679,61047a927c8f4d29c6c2303f5cc68679,7258696227152466006,7258696227152466006,0,Y
+getopt_long.c,getopt_long.c,\WIN32-Code\getopt_long.c,3rdparty/win32code/getopt/getopt_long.c,d6001210b95a1dd967a327f103dd55fb,d6001210b95a1dd967a327f103dd55fb,4673980944085809094,4673980944085809094,0,Y

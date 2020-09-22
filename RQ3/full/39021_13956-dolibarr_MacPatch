@@ -1,0 +1,3 @@
+13956-dolibarr,70636cc59ffa1ffbc0ce3dba315d7d9b837aad04,https://github.com/LLNL/MacPatch,master,876-876
+jquery.layout.js,jquery.layout-latest.js,\htdocs\includes\jquery\plugins\layout\jquery.layout.js,Server/conf/app/site/admin/js/layout/jquery.layout-latest.js,cb6318fcf58078d4de482f65e96f1d03,179c8b77edf37a8eb2dcfe50a60efd81,-6435351676942449684,-1820850909284563988,5,N
+ui.multiselect.js,ui.multiselect.js,\htdocs\includes\jquery\plugins\multiselect\js\ui.multiselect.js,Server/conf/app/site/admin/js/multiselect/ui.multiselect.js,733edfc22e9827fcfd4093aec3a948ad,df5911a8d0a801b7759d979706139ac9,4138263952303396144,4138272748396418352,1,N

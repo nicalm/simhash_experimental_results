@@ -1,0 +1,3 @@
+76684-horde,da6afc7e9f4e290f782eca9dbca794f772caccb3,https://github.com/LimeSurvey/LimeSurvey,master,28649-29628
+json2.js,json2.js,\horde\js\json2.js,assets/scripts/admin/json-js/json2.js,4cc6c32726f5f481bcca6fabd526c65b,78a914b1a9d1836d8165b4cba5a8e5dc,3678506786168006111,3676250588303615455,3,N
+Native.php,native.php,\framework\Text_Diff\lib\Horde\Text\Diff\Engine\Native.php,framework/gii/components/Pear/Text/Diff/Engine/native.php,084b8bde1f721d362f50a930715f1231,221018846581d47633b655f4dca30e78,-7042967183951091489,-7042685637570549538,5,N

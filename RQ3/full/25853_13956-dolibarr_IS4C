@@ -1,0 +1,5 @@
+13956-dolibarr,70636cc59ffa1ffbc0ce3dba315d7d9b837aad04,https://github.com/CORE-POS/IS4C,master,9891-12233
+prettify.js,prettify.js,\build\aps\Limitations of APS Support in the Panel_fichiers\prettify.js,fannie/src/javascript/syntax-highlighter/prettify/prettify.js,e09cfd7c860b3dedfd87ffe9c0b6f30d,49d9162be3d55197c00c4430ea6cb1cc,6543028654852746961,6543028654851698385,1,N
+adodb-time.inc.php,adodb-time.inc.php,\htdocs\includes\adodbtime\adodb-time.inc.php,common/adodb5/adodb-time.inc.php,3229dac35e756e9e511a2381deddb624,3229dac35e756e9e511a2381deddb624,9151554790831494045,9151554790831494045,0,Y
+Parser.php,Parser.php,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Writer\Excel5\Parser.php,fannie/src/Excel/xls_write/Spreadsheet_Excel_Writer/Writer/Parser.php,c645bf43a1e1a5b6a2375bb7ca8be32e,95d88b54a0bd44c694058c743807379f,-8994735752441448131,228786367716981053,6,N
+Parser.php,Parser.php,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Writer\Excel5\Parser.php,fannie/src/Excel/xls_write/Spreadsheet_Excel_Writer/Writer/Parser.php,c645bf43a1e1a5b6a2375bb7ca8be32e,6d60ccab89e8ae534af6d05b5fa3ba12,-8994735752441448131,228786367750011197,6,N

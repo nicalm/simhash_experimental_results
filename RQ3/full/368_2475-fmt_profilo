@@ -1,0 +1,13 @@
+2475-fmt,8cf30aa2be256eba07bb1cefb998c52326e846e7,https://github.com/facebookincubator/profilo,master,290-464
+docopt.py,docopt.py,\support\docopt.py,deps/fmt/fmt-5.2.0/support/docopt.py,51bf77615811cbeae19c805da4d1e25f,51bf77615811cbeae19c805da4d1e25f,3737466388467156330,3737466388467156330,0,Y
+manage.py,manage.py,\support\manage.py,deps/fmt/fmt-5.2.0/support/manage.py,5a8b62423894ea443b55bf7b20580d0f,1f210c6f320b507124cdbd0c7ba93eb8,508259189573158150,508256990549902598,1,N
+rst2md.py,rst2md.py,\support\rst2md.py,deps/fmt/fmt-5.2.0/support/rst2md.py,f4c470dd7f6b70480c7c7b1fddef860f,f4c470dd7f6b70480c7c7b1fddef860f,9217329231631123841,9217329231631123841,0,Y
+update-converity-branch.py,update-coverity-branch.py,\support\update-converity-branch.py,deps/fmt/fmt-5.2.0/support/update-coverity-branch.py,aded2f7df380cf937a3333545a8ae14f,aded2f7df380cf937a3333545a8ae14f,2021492840821014573,2021492840821014573,0,Y
+gmock-gtest-all.cc,gmock-gtest-all.cc,\test\gmock-gtest-all.cc,deps/fmt/fmt-5.2.0/test/gmock-gtest-all.cc,f102d87184137fdce6a8e3b0e1477510,50e7ffb9bd7e1879375daf06040fa689,6415039695189974734,6415039695189974734,0,N
+gtest-extra-test.cc,gtest-extra-test.cc,\test\gtest-extra-test.cc,deps/fmt/fmt-5.2.0/test/gtest-extra-test.cc,0e04e65e421426b13d580b18d9665a17,67ead0c36961ea0a35b5b1e08e7edfce,2527850922543966097,7355782299442505105,8,N
+gtest-extra.h,gtest-extra.h,\test\gtest-extra.h,deps/fmt/fmt-5.2.0/test/gtest-extra.h,5625de4c5c924389116b17b1260c9b1c,a3736a83e2464eb246c8232474ed9b10,4239544784965820600,3085496832306929688,7,N
+posix-mock.h,posix-mock.h,\test\posix-mock.h,deps/fmt/fmt-5.2.0/test/posix-mock.h,c107c9b36836931b5b17ebe161f7a12b,6f09d0b5f397636214ad79eeaac42622,4926105343606649900,4926105343606649900,0,N
+util.h,util.h,\test\util.h,deps/fmt/fmt-5.2.0/test/util.h,eefa1ca30a77d75adaab573ae7066437,d1697de80fefda9f847370965a6dcae3,-8457880559775989679,-8169650149264531343,4,N
+gmock.h,gmock.h,\test\gmock\gmock.h,deps/fmt/fmt-5.2.0/test/gmock/gmock.h,4e1d9f8560c152a5b7dce645b04cfaef,2b458a05371cab3b007e12dbfcd357c7,-1390611070815865538,-1390611070815865538,0,N
+gtest-spi.h,gtest-spi.h,\test\gtest\gtest-spi.h,deps/fmt/fmt-5.2.0/test/gtest/gtest-spi.h,c1b2df0336821610c380ccaf057a8867,c1b2df0336821610c380ccaf057a8867,6991092299972516575,6991092299972516575,0,Y
+gtest.h,gtest.h,\test\gtest\gtest.h,deps/fmt/fmt-5.2.0/test/gtest/gtest.h,cbc8b0656fdffb6fc97bedbfb9762598,cbc8b0656fdffb6fc97bedbfb9762598,-1421108939565453288,-1421108939565453288,0,Y

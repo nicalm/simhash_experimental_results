@@ -1,0 +1,14 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/rukzuk/rukzuk,master,3-436
+de.js,de.js,\horde\js\plupload\i18n\de.js,app/js/plupload/js/i18n/de.js,01c11334f676c35df0a7e3a959719b64,01c11334f676c35df0a7e3a959719b64,8314907169474263987,8314907169474263987,0,Y
+es.js,es.js,\horde\js\plupload\i18n\es.js,app/js/plupload/js/i18n/es.js,c650f4cc16ec88b0d6ffa375faea5b3f,c650f4cc16ec88b0d6ffa375faea5b3f,7381655188079120037,7381655188079120037,0,Y
+fi.js,fi.js,\horde\js\plupload\i18n\fi.js,app/js/plupload/js/i18n/fi.js,9d4c0f7180150c08d257f3478479926c,9d4c0f7180150c08d257f3478479926c,3668471394912128923,3668471394912128923,0,Y
+fr.js,fr.js,\horde\js\plupload\i18n\fr.js,app/js/plupload/js/i18n/fr.js,2b97d5c090bc5393c1b5d35e5a407f64,2b97d5c090bc5393c1b5d35e5a407f64,566529168525801563,566529168525801563,0,Y
+it.js,it.js,\horde\js\plupload\i18n\it.js,app/js/plupload/js/i18n/it.js,0fc0d3ae36342ba90a1001280287e2bd,0fc0d3ae36342ba90a1001280287e2bd,-487260002033157792,-487260002033157792,0,Y
+ja.js,ja.js,\horde\js\plupload\i18n\ja.js,app/js/plupload/js/i18n/ja.js,15cc867d0ba7ecd5da38c202cd9c0ab5,15cc867d0ba7ecd5da38c202cd9c0ab5,2916614870765844787,2916614870765844787,0,Y
+lv.js,lv.js,\horde\js\plupload\i18n\lv.js,app/js/plupload/js/i18n/lv.js,865b8a09d0541638d850f1daf389e188,865b8a09d0541638d850f1daf389e188,-3206599980721616413,-3206599980721616413,0,Y
+nl.js,nl.js,\horde\js\plupload\i18n\nl.js,app/js/plupload/js/i18n/nl.js,33952ba5275eaf36861170c106b2c0a8,33952ba5275eaf36861170c106b2c0a8,5977413415617199996,5977413415617199996,0,Y
+pt-br.js,pt-br.js,\horde\js\plupload\i18n\pt-br.js,app/js/plupload/js/i18n/pt-br.js,ab117ed4c322dbeaccbecf22dd7744cf,ab117ed4c322dbeaccbecf22dd7744cf,3922082707306459795,3922082707306459795,0,Y
+ru.js,ru.js,\horde\js\plupload\i18n\ru.js,app/js/plupload/js/i18n/ru.js,75f9e2eecafe80a69a4bbb06de373eb4,75f9e2eecafe80a69a4bbb06de373eb4,-7483420974914334550,-7483420974914334550,0,Y
+autoload_real.php,autoload_real.php,\framework\Test\bundle\vendor\composer\autoload_real.php,app/sets/rukzuk/rz_core/modules/rz_root/module/vendor/composer/autoload_real.php,bb340181842c161242240728f97e6131,fcbde6cb839a73aa81459f6b5b6ba973,6184223047140380225,6107591637202243395,8,N
+autoload_real.php,autoload_real.php,\framework\Test\bundle\vendor\composer\autoload_real.php,app/sets/rukzuk/rz_shop/modules/rz_shop_cart/module/vendor/composer/autoload_real.php,bb340181842c161242240728f97e6131,ba9757e0a90974295a537bd6af4ff84e,6184223047140380225,6107659654518967619,8,N
+ClassLoader.php,ClassLoader.php,\framework\Test\bundle\vendor\composer\ClassLoader.php,app/sets/rukzuk/rz_core/modules/rz_root/module/vendor/composer/ClassLoader.php,c1c2ff5764dad2e2d41b2f636d550899,a5549d5e11bcd45267c94eac22fd1dbd,1600337665765922096,2177365834788754704,5,N

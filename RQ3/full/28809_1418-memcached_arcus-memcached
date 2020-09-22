@@ -1,0 +1,11 @@
+1418-memcached,554b56687a19300a75ec24184746b5512580c819,https://github.com/naver/arcus-memcached,refs/heads/master,11-899
+cache.h,cache.h,\cache.h,cache.h,ae8c90e721c904fabd8c993fce5cf1f5,90c48f28e1b9c3b0b457e1bd00152e69,-5977411112898819988,-6553871865202048964,6,N
+daemon.c,daemon.c,\daemon.c,daemon.c,757c188148ecb0fca4b695cd0c4b0b63,de3437df1ae58fb3f51ea6ff19ab9ba8,-6408700564520807902,-6408700564520807902,0,N
+jenkins_hash.c,hash.c,\jenkins_hash.c,hash.c,f156093d1c00e35f4e11d4d682e4a676,ce64246bd1ecc7ce01a1fb94e32536cd,4764899950853980301,5917821455460827277,1,N
+sasl_defs.c,sasl_defs.c,\sasl_defs.c,sasl_defs.c,de6043693c5986b89597b2d9c471a1cc,f432d48e7eaaa88a9797deb4635c1e1c,-1831521626026908546,-2110745076728044418,6,N
+solaris_priv.c,solaris_priv.c,\solaris_priv.c,solaris_priv.c,9dd3474684d32afcb046ceb2f573c6a9,5e1ce442f38e0e23431182e74b274319,-6614538429209300702,-4885151773178775134,6,N
+testapp.c,testapp.c,\testapp.c,testapp.c,29324ba2287d7ec40862e2be4e7f6548,6ab073e378c900e184bbc8ecff2d9c2f,-6833326104461922635,-5684899403456565315,8,N
+trace.h,trace.h,\trace.h,trace.h,56b4fe92b3112d46957f4f416c0a5048,bb4473cac89d24d11d92443c8992db26,-582007027878133655,-5626038610528690055,8,N
+bench_noreply.pl,bench_noreply.pl,\devtools\bench_noreply.pl,devtools/bench_noreply.pl,2e0be28f70b0d3f6432dbec85194c151,2e0be28f70b0d3f6432dbec85194c151,-2688858293148357067,-2688858293148357067,0,Y
+stress-memcached.pl,stress-memcached.pl,\t\stress-memcached.pl,t/stress-memcached.pl,e99e6eceefcc51c306b2e1770b80a11e,e99e6eceefcc51c306b2e1770b80a11e,1184800287805819445,1184800287805819445,0,Y
+stress-memcached.pl,stress-memcached.pl,\t\stress-memcached.pl,t/etc/stress-memcached.pl,e99e6eceefcc51c306b2e1770b80a11e,e99e6eceefcc51c306b2e1770b80a11e,1184800287805819445,1184800287805819445,0,Y

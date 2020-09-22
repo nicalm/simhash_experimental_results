@@ -1,0 +1,9 @@
+1460-iTerm2,33ccaf61e34ef32ffc9d6b2be5dd218f6bb55f51,https://github.com/macvim-dev/macvim,master,12948-19537
+CGSConnection.h,CGSConnection.h,\ThirdParty\CGSInternal\CGSConnection.h,src/MacVim/CGSInternal/CGSConnection.h,d20750dcda47c66aa29301cc42026b06,d20750dcda47c66aa29301cc42026b06,8956466036486898810,8956466036486898810,0,Y
+CGSRegion.h,CGSRegion.h,\ThirdParty\CGSInternal\CGSRegion.h,src/MacVim/CGSInternal/CGSRegion.h,a977a9db7b2fc47574b7a01ea8354261,a977a9db7b2fc47574b7a01ea8354261,-8284125738157538669,-8284125738157538669,0,Y
+CGSWindow.h,CGSWindow.h,\ThirdParty\CGSInternal\CGSWindow.h,src/MacVim/CGSInternal/CGSWindow.h,d12641b81f9e80e2fdb5463bb22b9f9c,d12641b81f9e80e2fdb5463bb22b9f9c,1158729717854571218,1158729717854571218,0,Y
+RegexKitLite.h,RegexKitLite.h,\ThirdParty\RegexKitLite\RegexKitLite.h,src/MacVim/qlstephen/RegexKitLite.h,e8f56eec562b0a0d77a576c66b851eb8,e8f56eec562b0a0d77a576c66b851eb8,-407603692648995400,-407603692648995400,0,Y
+RegexKitLite.m,RegexKitLite.m,\ThirdParty\RegexKitLite\RegexKitLite.m,src/MacVim/qlstephen/RegexKitLite.m,9b5bb7a30423c1a329f82004e24356dc,1a066e6bfc3b35a52479f0ce314eaaae,6971065612658131432,6971065612658131432,0,N
+RegexKitLite.m,RegexKitLite.m,\ThirdParty\RegexKitLite\RegexKitLite.m,src/MacVim/qlstephen/RegexKitLite.m,9b5bb7a30423c1a329f82004e24356dc,c1c531515e26b9182b324c0a2fbb544c,6971065612658131432,6971065612658131432,0,N
+PSMRolloverButton.m,PSMRolloverButton.m,\ThirdParty\PSMTabBarControl\source\PSMRolloverButton.m,src/MacVim/PSMTabBarControl/source/PSMRolloverButton.m,090eba95e60e89e9a91bd4faaca6ded4,e0dbaaf70140eb563634abd37b99da08,-5436964768754044738,3786407268100698302,2,N
+SUErrors.h,SUErrors.h,\ThirdParty\Sparkle.framework\Versions\A\Headers\SUErrors.h,src/MacVim/Sparkle.framework/Versions/A/Headers/SUErrors.h,fd60253e1f42164613bdabc577853440,dc959fa08d0d8e4f03225137d50c11bf,-8047121604013172714,-8047183176647552748,6,N

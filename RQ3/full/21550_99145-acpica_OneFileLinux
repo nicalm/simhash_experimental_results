@@ -1,0 +1,9 @@
+99145-acpica,a23325b2e583556eae88ed3f764e457786bf4df6,https://github.com/zhovner/OneFileLinux,master,17-25
+acopcode.h,acopcode.h,\source\include\acopcode.h,linux-4.14.22/drivers/acpi/acpica/acopcode.h,581345aad30ae40f83ee363b2f59bec7,82bfd43bfa8c512b6e0947e172bff95d,2521165267029663436,2521165267029659336,2,N
+acpredef.h,acpredef.h,\source\include\acpredef.h,linux-4.14.22/drivers/acpi/acpica/acpredef.h,0a7dd8d90a0324ac4971b8a297a6f6bd,18e34b27d8a2bce25edd43e8d1e66ca6,-5543686297253855544,3679967214577630920,2,N
+acuuid.h,acuuid.h,\source\include\acuuid.h,linux-4.14.22/include/acpi/acuuid.h,8625c25b31ab9325faa32213cd482068,05e0589c0cc32c7021dd843f502444de,459115678848226158,1035574232063128174,7,N
+psopinfo.c,psopinfo.c,\source\components\parser\psopinfo.c,linux-4.14.22/drivers/acpi/acpica/psopinfo.c,c3ea45a66a919e35282aad61743c6945,e528acd42b2237a942a87d0132577621,4874310256750002780,5162540632901714520,2,N
+utdecode.c,utdecode.c,\source\components\utilities\utdecode.c,linux-4.14.22/drivers/acpi/acpica/utdecode.c,b8e64063ea6c47569997ac1e7a7718d7,1f67d00a0773288cc5b03d819994296f,-9107623698102169698,-4495937405333745889,5,N
+acenv.h,acenv.h,\source\include\platform\acenv.h,linux-4.14.22/include/acpi/platform/acenv.h,a6696a94453e80631eb7e0a8fdaaa9d3,cdd58888403fe655ddfb9f3153ef2b6d,-1751566153307122520,-6363186198889360211,6,N
+acenvex.h,acenvex.h,\source\include\platform\acenvex.h,linux-4.14.22/include/acpi/platform/acenvex.h,8b92c080de531ba4d62df966c28cfdf5,f3e38ad7442c6683ec4cd7639edf0479,4619056960083154405,4619056958476343269,7,N
+acintel.h,acintel.h,\source\include\platform\acintel.h,linux-4.14.22/include/acpi/platform/acintel.h,dccd0f95cebd90f48fbce8c8286e7b60,366bd8898e195dbf808573fbc549d12a,2235392278849108324,2255739841050294628,8,N

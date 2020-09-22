@@ -1,0 +1,7 @@
+6422-roundcubemail,5ef8e4ad9d3ee8689d2b83750aa65395b7cd59ee,https://github.com/fengoffice/fengoffice,master,4-10
+PEAR.php,PEAR.php,\program\lib\PEAR.php,library/PEAR/PEAR.php,f69c7b2a057b048c3c3943b5d035661c,282214550082c052f50f9931cdcd23b5,-4202661689731601826,-4202661655371859234,3,N
+IDNA2.php,php5.php,\program\lib\Net\IDNA2.php,library/PEAR/Net/IDNA/php5.php,08a2ccf67fad8d7cd2cb1a294f4f2501,d0c01c5e9e1955fbd920028e5ff02263,-6667599673408577694,-6667599681998512278,3,N
+Socket.php,Socket.php,\program\lib\Net\Socket.php,library/PEAR/Net/Socket.php,a4b2209a81fa1d3c6dc3cf67a271833b,751279958f86b36618559bf0081877b5,-788162300637842140,-788681270117767892,8,N
+Socket.php,Socket.php,\program\lib\Net\Socket.php,library/PEAR/Net/Socket.php,a4b2209a81fa1d3c6dc3cf67a271833b,135892e8c10c6269624a75ad99b629b2,-788162300637842140,-788329426396879572,6,N
+Socket.php,Socket.php,\program\lib\Net\Socket.php,library/PEAR/Net/Socket.php,a4b2209a81fa1d3c6dc3cf67a271833b,9e24d2a067466d8ce761b396dee5b47f,-788162300637842140,-788329426396879572,6,N
+DigestMD5.php,DigestMD5.php,\program\lib\Auth\SASL\DigestMD5.php,library/PEAR/Auth/SASL/DigestMD5.php,73706f21d4f4af11bfc497b8b6f46162,9664703cb883185a61d7e82ef5526bc6,3570038083886813851,2417046213757080251,6,N

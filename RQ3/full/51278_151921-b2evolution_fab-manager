@@ -1,0 +1,4 @@
+151921-b2evolution,9a4ab85439d1b838ee7b8eeebbf59174bb787811,https://github.com/sleede/fab-manager,master,171-1379
+bootstrap.js,bootstrap.js,\rsc\js\bootstrap\bootstrap.js,vendor/assets/components/bootstrap/dist/js/bootstrap.js,3e3524c5a3e06df81ad356af5ba31125,05702126f5747bb14d6c314c087ad5c5,-8931116503682747802,-8913102106247007642,2,N
+jquery.ui.all.js,jquery-ui.js,\rsc\js\jquery\jquery.ui.all.js,vendor/assets/components/jquery-ui/ui/jquery-ui.js,56540f2e02b9097df22f83e81fb3051d,aa019b843c4c1bcb5aaa2dd270b10645,-5089744674398893768,-5089742137952270023,7,N
+jquery.ui.all.js,jquery-ui.custom.js,\rsc\js\jquery\jquery.ui.all.js,vendor/assets/components/jquery-ui/ui/jquery-ui.custom.js,56540f2e02b9097df22f83e81fb3051d,56540f2e02b9097df22f83e81fb3051d,-5089744674398893768,-5089744674398893768,0,Y

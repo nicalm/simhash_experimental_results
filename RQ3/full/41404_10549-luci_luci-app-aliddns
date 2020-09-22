@@ -1,0 +1,4 @@
+10549-luci,f8c6eb67cd9da09ee20248fec6ab742069635e47,https://github.com/honwen/luci-app-aliddns,master,3-8
+po2lmo.c,po2lmo.c,\modules\luci-base\src\po2lmo.c,tools/po2lmo/src/po2lmo.c,9d976ddf5ef4a0baa0983e8b42c94b3b,9d976ddf5ef4a0baa0983e8b42c94b3b,6841613042704477020,6841613042704477020,0,Y
+template_lmo.c,template_lmo.c,\modules\luci-base\src\template_lmo.c,tools/po2lmo/src/template_lmo.c,4e151f8702444ab5ec4926a511a65ce4,06ce8cd9556d85739455e48dcb5dc296,-354013713785234230,-354013713785168694,1,N
+template_lmo.h,template_lmo.h,\modules\luci-base\src\template_lmo.h,tools/po2lmo/src/template_lmo.h,66b3399d6e66c4276b1b22854d1fa74d,c0588b2853950e154a98c335598bc17c,-6301851032522033502,-1690166113606273374,2,N

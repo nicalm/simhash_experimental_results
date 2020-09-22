@@ -1,0 +1,2 @@
+90572-libzip,9b46957ec98d85a572e9ef98301247f39338a3b5,https://github.com/julienr/libzip-android,master,1-1
+mkstemp.c,mkstemp.c,\lib\mkstemp.c,jni/mkstemp.c,b739ccbd30c811fff44243aa82276f92,df107de1acd237776e5ffa697e18efe8,-6223218940184618418,-6079103614669129106,7,N

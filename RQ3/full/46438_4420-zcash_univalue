@@ -1,0 +1,10 @@
+4420-zcash,c1fbf8ab5d73cff5e1f45236995857c75ba4128d,https://github.com/jgarzik/univalue,master,76-104
+gen.cpp,gen.cpp,\src\univalue\gen\gen.cpp,gen/gen.cpp,161699e60c1069dc0fcb1a2fd34801cb,161699e60c1069dc0fcb1a2fd34801cb,6147787146219798882,6147787146219798882,0,Y
+univalue.h,univalue.h,\src\univalue\include\univalue.h,include/univalue.h,a0414f388049807d781e9ea779761da0,3193e4580b1415f0f2ab1434b48608dd,5824240846910923845,5783704054365563973,5,N
+univalue.cpp,univalue.cpp,\src\univalue\lib\univalue.cpp,lib/univalue.cpp,ea615a574634863b8eb23bf762e4ac31,55e9c30920b05ad7722cfc72abae0c39,3336426600303302974,3047912275273456446,6,N
+univalue_escapes.h,univalue_escapes.h,\src\univalue\lib\univalue_escapes.h,lib/univalue_escapes.h,64fb239740dea1d1eb69383d70c69b2c,64fb239740dea1d1eb69383d70c69b2c,58045521162451873,58045521162451873,0,Y
+univalue_read.cpp,univalue_read.cpp,\src\univalue\lib\univalue_read.cpp,lib/univalue_read.cpp,773fdec0b4b24e7fed97ce1bc855d317,773fdec0b4b24e7fed97ce1bc855d317,-6901842890000754220,-6901842890000754220,0,Y
+univalue_utffilter.h,univalue_utffilter.h,\src\univalue\lib\univalue_utffilter.h,lib/univalue_utffilter.h,4889c9de0bc844716eee08eb1b0b4be7,4889c9de0bc844716eee08eb1b0b4be7,630862062275057021,630862062275057021,0,Y
+univalue_write.cpp,univalue_write.cpp,\src\univalue\lib\univalue_write.cpp,lib/univalue_write.cpp,846909e9d7bbdc7272c9936160d18c6f,846909e9d7bbdc7272c9936160d18c6f,3135187679747973607,3135187679747973607,0,Y
+test_json.cpp,test_json.cpp,\src\univalue\test\test_json.cpp,test/test_json.cpp,3817a18691f76b682616967cceac11b7,3817a18691f76b682616967cceac11b7,-2160568199056029647,-2160568199056029647,0,Y
+unitester.cpp,unitester.cpp,\src\univalue\test\unitester.cpp,test/unitester.cpp,b1843459e48d16f2fa2e70e078640c76,b1843459e48d16f2fa2e70e078640c76,7524438082141060183,7524438082141060183,0,Y

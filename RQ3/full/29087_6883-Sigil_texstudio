@@ -1,0 +1,17 @@
+6883-Sigil,04e2f280cc4a0766bedcc7b9eb56449ceecc2ad4,https://github.com/texstudio-org/texstudio,master,6901-7587
+unzip.c,unzip.c,\3rdparty\minizip\unzip.c,src/quazip/quazip/unzip.c,0e2c0f1f8a195f358570eacd68b68d21,d7cf03b4fb07d3bbcbe67b8d4c8bfadd,3875895030913492058,4416326986281051736,8,N
+unzip.h,unzip.h,\3rdparty\minizip\unzip.h,src/quazip/quazip/unzip.h,a37b7ce59570427f6ea27165b8462536,1990c22fecc012b89c46ffe973a5585d,4661490050327696478,4661490050327696486,3,N
+zip.c,zip.c,\3rdparty\minizip\zip.c,src/quazip/quazip/zip.c,c55ba7e516e34892ab735759b48e3a94,e0519775f2d75c61ce08c4688be48bd7,6104876191687283216,6086862892689431056,4,N
+zip.c,zip.c,\3rdparty\minizip\zip.c,src/quazip/quazip/zip.c,c55ba7e516e34892ab735759b48e3a94,5683a35331705a2b6c3ded09c3ffea4b,6104876191687283216,6122891689716849168,5,N
+zip.h,zip.h,\3rdparty\minizip\zip.h,src/quazip/quazip/zip.h,b6a737776eb02c440f4eaf867ed940a7,05ef59a7d4fb28024b265f76794024bc,4793752367803337783,5369025647582317623,5,N
+zconf.h,zconf.h,\3rdparty\zlib\zconf.h,src/pdfviewer/include_win32_qt5/zconf.h,c89ff94ee23d020c7c9976f48a098fa0,22d8645939928b2e8b2eece8bda9f902,-872077755263393274,8342286805244277254,7,N
+zconf.h,zconf.h,\3rdparty\zlib\zconf.h,src/pdfviewer/include_win32_qt5/zconf.h,c89ff94ee23d020c7c9976f48a098fa0,1ea42b21a9d5b42e7d097f00bd048964,-872077755263393274,8342286805244277254,7,N
+zconf.h,zconf.h,\3rdparty\zlib\zconf.h,src/pdfviewer/include_win32/zconf.h,c89ff94ee23d020c7c9976f48a098fa0,22d8645939928b2e8b2eece8bda9f902,-872077755263393274,8342286805244277254,7,N
+dictmgr.cxx,dictmgr.cxx,\3rdparty\hunspell\src\hunspell\dictmgr.cxx,src/hunspell/dictmgr.cxx,44887ac18200c6d8c62691fe542fe0b9,462a25e6717fcc73a35ccac49cc0fb31,-6964665054384504569,-6964383578870938361,4,N
+utf_info.cxx,utf_info.cxx,\3rdparty\hunspell\src\hunspell\utf_info.cxx,src/hunspell/utf_info.cxx,899472e2047ad6f598d1b71f347fc507,899472e2047ad6f598d1b71f347fc507,-3679717609735682981,-8844293215828725328,34,E
+unzip.c,unzip.c,\3rdparty\zlib\contrib\minizip\unzip.c,src/quazip/quazip/unzip.c,9c3bb3a5530315f363096e2ecc66ddb6,d7cf03b4fb07d3bbcbe67b8d4c8bfadd,3875895030912967770,4416326986281051736,7,N
+unzip.c,unzip.c,\3rdparty\zlib\contrib\minizip\unzip.c,src/quazip/quazip/unzip.c,9c3bb3a5530315f363096e2ecc66ddb6,8c71749ac3c66aca2ba84efdc14a1a62,3875895030912967770,4416326986809534040,8,N
+unzip.h,unzip.h,\3rdparty\zlib\contrib\minizip\unzip.h,src/quazip/quazip/unzip.h,a37b7ce59570427f6ea27165b8462536,1990c22fecc012b89c46ffe973a5585d,4661490050327696478,4661490050327696486,3,N
+zip.c,zip.c,\3rdparty\zlib\contrib\minizip\zip.c,src/quazip/quazip/zip.c,a561e4857fe3c5d22114cae8db51e353,e0519775f2d75c61ce08c4688be48bd7,6086861793161026064,6086862892689431056,2,N
+zip.c,zip.c,\3rdparty\zlib\contrib\minizip\zip.c,src/quazip/quazip/zip.c,a561e4857fe3c5d22114cae8db51e353,5683a35331705a2b6c3ded09c3ffea4b,6086861793161026064,6122891689716849168,5,N
+zip.h,zip.h,\3rdparty\zlib\contrib\minizip\zip.h,src/quazip/quazip/zip.h,b6a737776eb02c440f4eaf867ed940a7,05ef59a7d4fb28024b265f76794024bc,4793752367803337783,5369025647582317623,5,N

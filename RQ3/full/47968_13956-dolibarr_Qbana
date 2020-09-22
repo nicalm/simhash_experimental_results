@@ -1,0 +1,7 @@
+13956-dolibarr,6a62e139604dbbd5729e57df2433b37a5950c35c,https://github.com/QXIP/Qbana,master,712-1137
+jquery.flot.js,jquery.flot.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.js,src/vendor/jquery/jquery.flot.js,74ed638dcdb0e5e2eeaf73ac5d0f95a5,8760a0d28cdbc81e22a14ac82e605542,1370964771625934484,1517331760320749214,8,N
+jquery.flot.pie.js,jquery.flot.pie.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.pie.js,src/vendor/jquery/jquery.flot.pie.js,b832ca19c8f9c23005244bac6510ee4d,c37c191543a09d95a46d733e96c61601,-5532908320834432319,-5677020210383793455,5,N
+jquery.flot.pie.js,jquery.flot.pie.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.pie.js,src/vendor/jquery/jquery.flot.pie.js,b832ca19c8f9c23005244bac6510ee4d,95ceb16b7ab2482457f488d41cfd40f4,-5532908320834432319,-5677024608430304559,4,N
+jquery.flot.selection.js,jquery.flot.selection.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.selection.js,src/vendor/jquery/jquery.flot.selection.js,f7ad5d968481c6d9d413802d514bff24,f7ad5d968481c6d9d413802d514bff24,-5391912454455542428,-5391912454455542428,0,Y
+jquery.flot.stack.js,jquery.flot.stack.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.stack.js,src/vendor/jquery/jquery.flot.stack.js,0f3b1bcf18aa7c960a35dfd1911cd534,0f3b1bcf18aa7c960a35dfd1911cd534,-64530867233329355,-64530867233329355,0,Y
+jquery.flot.time.js,jquery.flot.time.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.time.js,src/vendor/jquery/jquery.flot.time.js,74e3bac09587091d33a37e2f8fe86449,90e6e1b8ffc80f37b2e7589083a3e629,-8002266877783539956,-8002302096519561460,3,N

@@ -1,0 +1,3 @@
+76684-horde,da6afc7e9f4e290f782eca9dbca794f772caccb3,https://github.com/magnussolution/magnusbilling6,master,422-698
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,yii/framework/web/js/source/jquery.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,c6dfc9f4a01de6e0c943f4af4cdb1dd8,557310564539800747,557310564539800747,0,Y
+Native.php,native.php,\framework\Text_Diff\lib\Horde\Text\Diff\Engine\Native.php,yii/framework/gii/components/Pear/Text/Diff/Engine/native.php,084b8bde1f721d362f50a930715f1231,221018846581d47633b655f4dca30e78,-7042967183951091489,-7042685637570549538,5,N

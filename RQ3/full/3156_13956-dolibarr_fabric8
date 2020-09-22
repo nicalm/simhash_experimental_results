@@ -1,0 +1,3 @@
+13956-dolibarr,70636cc59ffa1ffbc0ce3dba315d7d9b837aad04,https://github.com/fabric8io/fabric8,master,9589-11085
+optimize_images.sh,install_open_jdk.sh,\dev\tools\optimize_images.sh,sandbox/fabric/fabric-core/src/main/resources/io/fabric8/internal/install_open_jdk.sh,6f63272259dd7c3af32753e85c4cc422,b4e9b6df98175d1e0bcbbb513748e432,-1014467631530537172,-438076973110163667,7,N
+jquery.flot.selection.js,jquery.flot.selection.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.selection.js,sandbox/insight/insight-kibana3/src/main/webapp/common/lib/panels/jquery.flot.selection.js,f7ad5d968481c6d9d413802d514bff24,f7ad5d968481c6d9d413802d514bff24,-5391912454455542428,-5391912454455542428,0,Y

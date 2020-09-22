@@ -1,0 +1,4 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/xtlsoft/XPHP,refs/heads/master,7-42
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,vendor/phpmailer/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,f68fad6f35e1e41d044e6ef3adf70531,7289638721001993635,7289638721001993475,2,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,vendor/phpmailer/phpmailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,fddc445edb76ba0f03bf388d7207ef54,300106740523704336,-4311574913948473328,6,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,vendor/phpmailer/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

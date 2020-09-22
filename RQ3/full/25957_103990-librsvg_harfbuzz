@@ -1,0 +1,3 @@
+103990-librsvg,ecf9267a24b2c3c0cd211dbdfa9ef2232511972a,https://github.com/harfbuzz/harfbuzz,master,4670-4731
+pc_base.py,pc_base.py,\win32\pc_base.py,win32/pc_base.py,6f51543f599beeb5f41c1798853c2d60,6f51543f599beeb5f41c1798853c2d60,7427038836474905934,7427038836474905934,0,Y
+replace.py,replace.py,\win32\replace.py,win32/replace.py,35a25ca6205f51f9b9c8b8d7b975ba2b,35a25ca6205f51f9b9c8b8d7b975ba2b,-376443338759428521,-376443338759428521,0,Y

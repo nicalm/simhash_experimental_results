@@ -1,0 +1,4 @@
+76684-horde,eb3afd14c22c77ae0d29e2848f5ac726ef6e7c5b,1729-fine-uploader,413b63abe027a12a8a07e7c5d325fdd3362344e9
+json2.js,json.js,\horde\js\json2.js,\test\static\third-party\json2\json.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,0d3fb4b4be79cb7a117758d6eb356f04,1390678244179076575,1683412219958158751,3,N,184,191,179
+json2.js,json2.js,\horde\js\json2.js,\test\static\third-party\json2\json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,7ee4904708a2e7b6bffc7d8ca1f6ede3,1390678244179076575,1390678244179076575,0,Y,184,184,184
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,\test\static\third-party\jquery\jquery.js,bc6fe6d377bd192be22b5e0c93a2162b,9aa8fef8d9dca6d7a2ff0d87bd5244b2,1709580098516893948,2286041400576131838,4,N,6867,6645,6060

@@ -1,0 +1,5 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,63622-mirador,3c84050a9f1c32d41abdcf1776213ec4d7b234c4
+json2.js,json2.js,\horde\js\json2.js,\bower_components\jasmine\lib\jasmine-core\json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,7ee4904708a2e7b6bffc7d8ca1f6ede3,1390678244179076575,1390678244179076575,0,Y,184,184,184
+Driver.php,handlebars.js,\turba\lib\Driver.php,\js\lib\handlebars.js,ef6ffb4770b7a61ade8be5f7b6ba9a7c,9b55d78e3f1abc89d88605e594dcdcfd,5749398589058627807,6904571893915433215,8,N,2228,2063,360
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,\bower_components\jquery\dist\jquery.js,f7a92132165aa6a0cfd4d24bf43f2936,c6f61f2db290e7cbb8bab2fd2f20f95b,2283790837713010942,2286112319076122876,6,N,6587,6188,5011
+jquery.js,jquery.js,\framework\Core\js\jquery.mobile\jquery.js,\bower_components\qTip2\libs\jquery\jquery.js,f7a92132165aa6a0cfd4d24bf43f2936,48ded5591a87f928a060b93215fb53ca,2283790837713010942,2287168623332919551,7,N,6587,6491,3932

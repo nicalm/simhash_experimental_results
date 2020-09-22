@@ -1,0 +1,3 @@
+13956-dolibarr,5d121b2d3ae2a95abebc9dc31e4782cbc61a1f39,https://github.com/LLNL/MacPatch,master,876-876
+jquery.tablednd.js,jquery.tablednd.js,\htdocs\includes\jquery\plugins\tablednd\jquery.tablednd.js,Server/conf/app/site/admin/js/tablednd/jquery.tablednd.js,2d2837830756b705a4697c60ae81cd7c,68b7d53cfb79980ec5c194363f43744d,-4202535254870896389,5018567389994635383,8,N
+ui.multiselect.js,ui.multiselect.js,\htdocs\includes\jquery\plugins\multiselect\js\ui.multiselect.js,Server/conf/app/site/admin/js/multiselect/ui.multiselect.js,733edfc22e9827fcfd4093aec3a948ad,df5911a8d0a801b7759d979706139ac9,4138263952303396144,4138272748396418352,1,N

@@ -1,0 +1,4 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/tingyuu/tplay,master,64-66
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,vendor/phpmailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,aa373b5ce8409b3b76d5c56742bb8b5a,7289638721001993635,7289638721001993619,2,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,vendor/phpmailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,062b263556966b1cd533a2d66a71258b,300106740523704336,4911797122772215824,7,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,vendor/phpmailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y

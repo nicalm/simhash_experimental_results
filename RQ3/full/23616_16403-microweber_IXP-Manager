@@ -1,0 +1,3 @@
+16403-microweber,982ea9d5efb7d2306a05644ebc3469dadb33767e,https://github.com/inex/IXP-Manager,master,2617-2617
+bootstrap.js,800-bootstrap-2.3.2.js,\userfiles\templates\default\js\bootstrap.js,public/js/800-bootstrap-2.3.2.js,a7fae0fa91f484d5a8dc98e230dd07e0,f15582b0862cb41ed5b9adf485601860,1555041985640556285,1555041985640556285,0,N
+jquery-ui-built.js,210-jquery-ui-1.10.3.custom.js,\userfiles\modules\microweber\components\jquery-ui\jquery-ui-built.js,public/js/210-jquery-ui-1.10.3.custom.js,ea6349a23b291b986b4db7d9aba038a5,fba1b96cedde6e7e771ace9192a434cb,-5089744674398893768,-5089742137952270023,7,N

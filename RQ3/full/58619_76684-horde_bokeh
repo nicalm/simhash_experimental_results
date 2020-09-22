@@ -1,0 +1,3 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/bokeh/bokeh,master,3918-3929
+jquery.js,jquery-1.9.0.js,\framework\Core\js\jquery.mobile\jquery.js,bokehjs/src/vendor/jquery-ui-amd/jquery-ui-1.10.0/jquery-1.9.0.js,f7a92132165aa6a0cfd4d24bf43f2936,029bf5a734d1a4c394035efe73ab2db9,-2327297599394695959,-2327860550438636343,4,N
+holder.js,holder.js,\framework\Test\bundle\vendor\phpunit\php-code-coverage\src\CodeCoverage\Report\HTML\Renderer\Template\js\holder.js,bokehjs/src/vendor/bootstrap-3.1.1/docs/assets/js/vendor/holder.js,d5a6ef598c373b76fdc183cedf056913,d5a6ef598c373b76fdc183cedf056913,6234379408928471624,6234379408928471624,0,Y

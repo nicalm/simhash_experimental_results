@@ -1,0 +1,16 @@
+169869-gnulib,278b4175c9d7dd47c1a3071554aac02add3b3c35,https://github.com/agraef/purr-data,master,3321-4110
+test-setlocale1.sh,tar_em_up.sh,\tests\test-setlocale1.sh,l2ork_addons/tar_em_up.sh,10549696a4202f76cdd17ecd6eb8a196,d54d4535cf7d55387a82a25f19d4054b,-1014748829498503249,-1014537716823519347,6,N
+test-setlocale1.sh,tar_em_up.sh,\tests\test-setlocale1.sh,l2ork_addons/tar_em_up.sh,10549696a4202f76cdd17ecd6eb8a196,73b83252d170fe940eb643ce20fc5068,-1014748829498503249,-1014537716823650419,7,N
+test-setlocale1.sh,tar_em_up.sh,\tests\test-setlocale1.sh,l2ork_addons/tar_em_up.sh,10549696a4202f76cdd17ecd6eb8a196,9538990e46e8bb6264138ffa1a5433d9,-1014748829498503249,-1014537716823650419,7,N
+test-setlocale1.sh,tar_em_up.sh,\tests\test-setlocale1.sh,l2ork_addons/tar_em_up.sh,10549696a4202f76cdd17ecd6eb8a196,2bb4863f965afad31c21210ef7c19fb7,-1014748829498503249,-1015382141753651315,6,N
+test-setlocale1.sh,runtests.sh,\tests\test-setlocale1.sh,externals/zexy/tests/runtests.sh,10549696a4202f76cdd17ecd6eb8a196,e540e7bef5644c4159ccbd44f056cb7f,-1014748829498503249,-1047399928944947283,7,N
+test-setlocale1.sh,tar_em_up.sh,\tests\test-setlocale1.sh,l2ork_addons/tar_em_up.sh,10549696a4202f76cdd17ecd6eb8a196,4e62e0ea5d7d11a74f3e709c1ace2f33,-1014748829498503249,-1050566513842483315,7,N
+test-setlocale1.sh,ltmain.sh,\tests\test-setlocale1.sh,externals/moocow/gfsm/gfsm/config/ltmain.sh,10549696a4202f76cdd17ecd6eb8a196,2119b320ce18410781cd7a807915ac53,-1014748829498503249,-1014810404297142356,5,N
+test-setlocale1.sh,ltmain.sh,\tests\test-setlocale1.sh,externals/moocow/gfsm/config/ltmain.sh,10549696a4202f76cdd17ecd6eb8a196,2119b320ce18410781cd7a807915ac53,-1014748829498503249,-1014810404297142356,5,N
+test-locale-language.sh,tar_em_up.sh,\tests\unicase\test-locale-language.sh,l2ork_addons/tar_em_up.sh,4b770e3ba9f025de2ca8418736bcf054,d54d4535cf7d55387a82a25f19d4054b,-1032552087415713875,-1014537716823519347,5,N
+test-locale-language.sh,tar_em_up.sh,\tests\unicase\test-locale-language.sh,l2ork_addons/tar_em_up.sh,4b770e3ba9f025de2ca8418736bcf054,73b83252d170fe940eb643ce20fc5068,-1032552087415713875,-1014537716823650419,6,N
+test-locale-language.sh,tar_em_up.sh,\tests\unicase\test-locale-language.sh,l2ork_addons/tar_em_up.sh,4b770e3ba9f025de2ca8418736bcf054,9538990e46e8bb6264138ffa1a5433d9,-1032552087415713875,-1014537716823650419,6,N
+test-locale-language.sh,tar_em_up.sh,\tests\unicase\test-locale-language.sh,l2ork_addons/tar_em_up.sh,4b770e3ba9f025de2ca8418736bcf054,2bb4863f965afad31c21210ef7c19fb7,-1032552087415713875,-1015382141753651315,7,N
+test-locale-language.sh,tar_em_up.sh,\tests\unicase\test-locale-language.sh,l2ork_addons/tar_em_up.sh,4b770e3ba9f025de2ca8418736bcf054,4e62e0ea5d7d11a74f3e709c1ace2f33,-1032552087415713875,-1050566513842483315,6,N
+test-locale-language.sh,ltmain.sh,\tests\unicase\test-locale-language.sh,externals/moocow/gfsm/gfsm/config/ltmain.sh,4b770e3ba9f025de2ca8418736bcf054,2119b320ce18410781cd7a807915ac53,-1032552087415713875,-1014810404297142356,6,N
+test-locale-language.sh,ltmain.sh,\tests\unicase\test-locale-language.sh,externals/moocow/gfsm/config/ltmain.sh,4b770e3ba9f025de2ca8418736bcf054,2119b320ce18410781cd7a807915ac53,-1032552087415713875,-1014810404297142356,6,N

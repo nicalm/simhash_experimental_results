@@ -1,0 +1,12 @@
+97895-openbsd,0654414afcce51a16d35d05060190a3ec4618d42,https://github.com/LN-Zap/zap-iOS,master,425-743
+asn1t.h,asn1t.h,\src\lib\libcrypto\asn1\asn1t.h,Pods/BoringSSL/include/openssl/asn1t.h,0e9e2f42c757c40f88353896f18b2137,5fa1d3eff75da5ad332f8f9881af86d8,8658346674779515460,8800227723943012932,5,N
+a_strex.c,a_strex.c,\src\lib\libcrypto\asn1\a_strex.c,Pods/BoringSSL/crypto/x509/a_strex.c,70bcecb083721838075e8207dd879f64,75b3e3a701dc07573ca526db9a56114d,6759800572783905113,6759804975109693785,7,N
+a_type.c,a_type.c,\src\lib\libcrypto\asn1\a_type.c,Pods/BoringSSL/crypto/asn1/a_type.c,aff3a0c298b138fc931d3030344aca82,300792ff52f4ae44d2a2dea2746fd1b0,-7529686389947782721,-7529722755435877953,6,N
+tasn_new.c,tasn_new.c,\src\lib\libcrypto\asn1\tasn_new.c,Pods/BoringSSL/crypto/asn1/tasn_new.c,6867121cbcbdcf7289758b2e6b43e8d9,5706bd51cccbf155d224585bf02fc055,3364050804695992173,3363352614812370765,6,N
+conf_def.h,conf_def.h,\src\lib\libcrypto\conf\conf_def.h,Pods/BoringSSL/crypto/conf/conf_def.h,f369de40b82caf8238b17c7353ec14d8,435d2233b77e5000251b375677a6c96a,4126220540151893052,4126220540151893052,0,N
+ecp_nistz256_table.h,p256-x86_64-table.h,\src\lib\libcrypto\ec\ecp_nistz256_table.h,Pods/BoringSSL/crypto/fipsmodule/ec/p256-x86_64-table.h,9a1f71a4bca4124064809d13a3dfa06a,84f742cea409c4952c7d2e3844249a86,-278203533992678614,-278203533992678614,0,N
+ecp_nistz256_table.h,p256-x86_64-table.h,\src\lib\libcrypto\ec\ecp_nistz256_table.h,Pods/BoringSSL/crypto/fipsmodule/ec/p256-x86_64-table.h,9a1f71a4bca4124064809d13a3dfa06a,0bf7eb173b7a63d9cf255bba171c72b5,-278203533992678614,-278203533992805590,2,N
+x509_txt.c,x509_txt.c,\src\lib\libcrypto\x509\x509_txt.c,Pods/BoringSSL/crypto/x509/x509_txt.c,3c4f2302c6fefd356cd3e4bb76ed4696,5eb0a57ada5bb07352c255f8f814a078,5906793551385599180,5907937043478494540,5,N
+pcy_int.h,pcy_int.h,\src\lib\libcrypto\x509v3\pcy_int.h,Pods/BoringSSL/crypto/x509v3/pcy_int.h,d71d2d64fbfbadccc73b79d0484a73a8,4ad245204a472b15bfd7d22efde58e35,-8707759233455869641,-8968968011844406985,4,N
+pcy_lib.c,pcy_lib.c,\src\lib\libcrypto\x509v3\pcy_lib.c,Pods/BoringSSL/crypto/x509v3/pcy_lib.c,0f5f39f6bd575507028d5f325108d2ff,0f5f39f6bd575507028d5f325108d2ff,2486140960037801952,-7741673432101843063,21,E
+pcy_map.c,pcy_map.c,\src\lib\libcrypto\x509v3\pcy_map.c,Pods/BoringSSL/crypto/x509v3/pcy_map.c,4dae14192bdc52e6e1ccf1d57b7b0b05,b14861978b659c7f480737e993cd7b34,4049833654390533371,-5029423160028648198,4,N

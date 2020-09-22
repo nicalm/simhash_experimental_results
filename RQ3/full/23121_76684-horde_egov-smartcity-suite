@@ -1,0 +1,6 @@
+76684-horde,da6afc7e9f4e290f782eca9dbca794f772caccb3,https://github.com/egovernments/egov-smartcity-suite,refs/heads/master,1315-11291
+json2.js,json2.js,\horde\js\json2.js,egov/egov-ptisweb/src/main/webapp/resources/javascript/json2.js,4cc6c32726f5f481bcca6fabd526c65b,4cc6c32726f5f481bcca6fabd526c65b,3678506786168006111,3678506786168006111,0,Y
+effects.js,effects.js,\framework\Core\js\scriptaculous\effects.js,egov/egov-collectionweb/src/main/webapp/resources/js/effects.js,770c132e1fcd391a923a03232de95453,b8553813a459cedd54498d9d5f94a21f,6393566907884816751,1781880889474206063,2,N
+effects.js,effects.js,\koward\www\htdocs\horde\js\effects.js,egov/egov-collectionweb/src/main/webapp/resources/js/effects.js,ead8514603e688f67d48d575969c97ca,b8553813a459cedd54498d9d5f94a21f,6393003957931395439,1781880889474206063,3,N
+prototype.js,prototype.js,\koward\www\htdocs\horde\js\prototype.js,egov/egov-worksweb/src/main/webapp/resources/js/prototype.js,e259ad63c3520aa203d1efd522b2b004,6970c896a57e82a796337d503ffcccfe,5808143078114938219,6384621422596017535,5,N
+prototype.js,prototype.js,\koward\www\htdocs\horde\js\prototype.js,egov/egov-assetsweb/src/main/webapp/resources/javascript/prototype.js,e259ad63c3520aa203d1efd522b2b004,6970c896a57e82a796337d503ffcccfe,5808143078114938219,6384621422596017535,5,N

@@ -1,0 +1,8 @@
+186309-dosfstools,e8eff147e9da1185f9afd5b25948153a3b97cf52,https://github.com/Skulltrail192/One-Core-Api,master,86-96
+check.c,check.c,\src\check.c,sdk/lib/fslib/vfatlib/check/check.c,463c09727b9b2d22bf31b225410ee65a,3c7edd0efe3c6e2089a0438289fe4aef,323026303272677041,467140941596913329,3,N
+fat.c,fat.c,\src\fat.c,sdk/lib/fslib/vfatlib/check/fat.c,45293d2fa805994c5fc832660b738675,e8f6382cbb141e6aee8771da0e3888e0,1983891119495094145,1983891119495092097,1,N
+fat.h,fat.h,\src\fat.h,sdk/lib/fslib/vfatlib/check/fat.h,0b8529620b55416e3b90e433ad4cf6d2,0b8529620b55416e3b90e433ad4cf6d2,-8986263154620884958,-8986263154620884958,0,Y
+file.c,file.c,\src\file.c,sdk/lib/fslib/vfatlib/check/file.c,1cd04d51d9535acd315f81bfc56d1959,6059542d62ae2466f7d8a12eaadba5b4,-6086879206150569814,-6064361278947786582,5,N
+file.h,file.h,\src\file.h,sdk/lib/fslib/vfatlib/check/file.h,dfad04db4b75b057fdf0bca04d81fab7,dfad04db4b75b057fdf0bca04d81fab7,-2574240183352473072,-2574240183352473072,0,Y
+lfn.c,lfn.c,\src\lfn.c,sdk/lib/fslib/vfatlib/check/lfn.c,bb2b1fce27467ae9d0165ba3cb0c67ee,0aed1db024b2d98fc2f1a60bfb0c7622,460350490168985839,464854087665653989,6,N
+msdos_fs.h,msdos_fs.h,\src\msdos_fs.h,sdk/lib/fslib/vfatlib/check/msdos_fs.h,82603a13ad4dd0de382e0480de482c08,408cfe71fe1c8da7310b8114d9baa7ea,-7549131876827059337,-5530956293828433291,6,N

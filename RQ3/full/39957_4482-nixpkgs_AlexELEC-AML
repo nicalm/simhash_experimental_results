@@ -1,0 +1,3 @@
+4482-nixpkgs,fa4fe7110566d8370983fa81f2b04a833339236d,https://github.com/AlexELEC/AlexELEC-AML,master,199-1357
+builder.sh,update.sh,\pkgs\desktops\gnustep\make\builder.sh,packages/tools/u-boot/scripts/update.sh,2d56e2d36347223d6cecc78dfbcc9bf6,d90e551513a3b7f52d67dada113c179a,-1014467356669276243,-1014959934138249427,8,N
+intel-microcode2ucode.c,intel-microcode2ucode.c,\pkgs\os-specific\linux\microcode\intel-microcode2ucode.c,packages/linux-firmware/intel-ucode/sources/intel-microcode2ucode.c,c35e7664ca2204ed2478d720f738f5c0,c35e7664ca2204ed2478d720f738f5c0,5910197688470732185,5910197688470732185,0,Y

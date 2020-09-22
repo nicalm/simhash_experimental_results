@@ -1,0 +1,6 @@
+82340-libusbmuxd,4397b3376dc4e4cb1c991d0aed61ce6482614196,https://github.com/wtsnz/obs-ios-camera-source,refs/heads/master,18-108
+collection.c,collection.c,\common\collection.c,deps/libusbmuxd/common/collection.c,db5e176a78caadacb73b1d02f548b77e,db5e176a78caadacb73b1d02f548b77e,4893820857378018249,4893820857378018249,0,Y
+collection.h,collection.h,\common\collection.h,deps/libusbmuxd/common/collection.h,506b40ca86bd9d44649f41ffb424bff9,506b40ca86bd9d44649f41ffb424bff9,-8583032507010569629,-8583032507010569629,0,Y
+socket.c,socket.c,\common\socket.c,deps/libusbmuxd/common/socket.c,362b5e23784886fc4a04c8df2bf7331d,ec9e3d4b0d9f6f73e00d1ed22b6b9128,2436757615084784849,2436757615084784849,0,N
+socket.h,socket.h,\common\socket.h,deps/libusbmuxd/common/socket.h,0fa93dd4e946db66d2b3a8352a85c203,0fa93dd4e946db66d2b3a8352a85c203,-8925142322829531130,-8925142322829531130,0,Y
+iproxy.c,iproxy.c,\tools\iproxy.c,deps/libusbmuxd/tools/iproxy.c,cac31dfeffbf21b27fb1c613d9ca4a3c,88478167a1d109c1d3645268cecdf0d4,7174857917095990800,7102800323024510480,3,N

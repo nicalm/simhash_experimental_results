@@ -1,0 +1,6 @@
+1529-harbor,b6db8a8a106259ec9a2c48be8a380cb3b37cf517,https://github.com/mattbostock/webdriver_exporter,master,1-1
+hooks.go,hooks.go,\src\vendor\github.com\sirupsen\logrus\hooks.go,vendor/github.com/Sirupsen/logrus/hooks.go,166dfa813108ebc30c7b7a272989927f,166dfa813108ebc30c7b7a272989927f,1156973775414583576,1156973775414583576,0,Y
+equal.go,equal.go,\src\vendor\github.com\gogo\protobuf\proto\equal.go,vendor/github.com/golang/protobuf/proto/equal.go,f8113dcdab6863625600a44d528ddbf3,f4c38f41d3258f0ed0ef3f1090491576,7187942869935216796,7169927921670183052,4,N
+lib.go,lib.go,\src\vendor\github.com\gogo\protobuf\proto\lib.go,vendor/github.com/golang/protobuf/proto/lib.go,91616db75e4d229e35f3c46c209c754c,9e52b74375910585d96692a5f845d6f5,-4357466019793401122,-4355214357420241186,5,N
+equal.go,equal.go,\src\vendor\github.com\golang\protobuf\proto\equal.go,vendor/github.com/golang/protobuf/proto/equal.go,5c9593504e0e2c7856c1b023dca058c3,f4c38f41d3258f0ed0ef3f1090491576,7169927921669920924,7169927921670183052,2,N
+text.go,text.go,\src\vendor\github.com\golang\protobuf\proto\text.go,vendor/github.com/golang/protobuf/proto/text.go,7289a471a95c377b84a79e049b8855a8,50a15bba8cfd8658fb95f218ea480819,4115339188510229985,4160375184448389600,6,N

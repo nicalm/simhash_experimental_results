@@ -1,0 +1,3 @@
+24485-cordova-plugin-inappbrowser,26702cb0720c5c394b407c23570136c53171fa55,https://github.com/WizardFactory/TodayWeather,master,1123-1481
+InAppChromeClient.java,InAppChromeClient.java,\src\android\InAppChromeClient.java,android/src/org/apache/cordova/inappbrowser/InAppChromeClient.java,c29a31675ae6d142f949b8672d22d091,c29a31675ae6d142f949b8672d22d091,7810490323315159729,7810490323315159729,0,Y
+CDVInAppBrowser.m,CDVInAppBrowser.m,\src\ios\CDVInAppBrowser.m,applewatch/TodayWeather/Plugins/cordova-plugin-inappbrowser/CDVInAppBrowser.m,22809c4b201aebd524bb7251b5150be5,d0424a655eef9f8aab1a590d4dec0cc2,1111451940948607546,1111732856778458682,7,N

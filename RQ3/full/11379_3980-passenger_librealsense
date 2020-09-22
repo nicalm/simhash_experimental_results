@@ -1,0 +1,5 @@
+3980-passenger,ddb8ecc4ebf260e4967f57f271d4f5761abeac3e,https://github.com/IntelRealSense/librealsense,master,3933-7916
+run_travis.sh,pr_check.sh,\dev\ci\run_travis.sh,scripts/pr_check.sh,4f03264c91775cf70876e420b0ebf6d4,fc4cbee1226b7b79f2838920191f9e78,-582121861162233939,-5626153375096795219,6,N
+provision.sh,pr_check.sh,\dev\vagrant\provision.sh,scripts/pr_check.sh,e3c8c2e3bac5fda8201cdc9d573b4f49,fc4cbee1226b7b79f2838920191f9e78,-1014467356669276243,-5626153375096795219,2,N
+ltmain.sh,pr_check.sh,\src\cxx_supportlib\vendor-copy\libuv\ltmain.sh,scripts/pr_check.sh,4683b9698c420bfc24e6f0ae3542f0f9,fc4cbee1226b7b79f2838920191f9e78,-1014819200893483092,-5626153375096795219,8,N
+ltmain.sh,pr_check.sh,\src\cxx_supportlib\vendor-modified\libev\ltmain.sh,scripts/pr_check.sh,c00a3a0f4e40b22554711ddb82f3042a,fc4cbee1226b7b79f2838920191f9e78,-1014810404834015316,-5626153375096795219,8,N

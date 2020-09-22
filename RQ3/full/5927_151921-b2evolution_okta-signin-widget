@@ -1,0 +1,4 @@
+151921-b2evolution,26841d9c81f27ad23b2f6e4bd5eaec7f2f58dfe0,https://github.com/okta/okta-signin-widget,master,362-394
+jquery.js,jquery-1.11.3.js,\rsc\js\jquery.js,packages/@okta/courage/src/vendor/lib/jquery-1.11.3.js,671fc8452a11cf859affb1ca61bdb82c,ec1871809e64cba30e99fdff11a256de,6249802392329790696,6249806790376303848,2,N
+jquery.js,jquery-1.12.4.js,\rsc\js\jquery.js,packages/@okta/courage/src/vendor/lib/jquery-1.12.4.js,671fc8452a11cf859affb1ca61bdb82c,015ec72269a99194d72ea92e984f458e,6249802392329790696,6826268092418828008,6,N
+typeahead.bundle.js,typeahead.js,\rsc\js\bootstrap\typeahead.bundle.js,packages/@okta/courage/src/vendor/plugins/typeahead.js,d7acdb8ba2f27da6308c8108a00a45c3,92f3de253533979b71eaf6a4e938fceb,-607082991380533436,-605886722192507066,6,N

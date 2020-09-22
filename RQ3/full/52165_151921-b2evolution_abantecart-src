@@ -1,0 +1,5 @@
+151921-b2evolution,999b5ad1d59760d7e450ceb541f55432fc74cd27,https://github.com/abantecart/abantecart-src,master,3931-5225
+jquery.ui.all.js,jquery-ui-1.10.4.custom.js,\rsc\js\jquery\jquery.ui.all.js,public_html/admin/view/default/javascript/jquery/jquery-ui/jquery-ui-1.10.4.custom.js,56540f2e02b9097df22f83e81fb3051d,56540f2e02b9097df22f83e81fb3051d,-5089744674398893768,-5089744674398893768,0,Y
+jquery.ui.all.js,jquery-ui-1.10.4.custom.js,\rsc\js\jquery\jquery.ui.all.js,public_html/storefront/view/default/javascript/jquery-ui/js/jquery-ui-1.10.4.custom.js,56540f2e02b9097df22f83e81fb3051d,56540f2e02b9097df22f83e81fb3051d,-5089744674398893768,-5089744674398893768,0,Y
+de.js,de.js,\rsc\js\tiny_mce\langs\de.js,public_html/admin/view/default/javascript/tinymce/langs/de.js,63e389ea30bf47118c69e34e39022e91,56e611a20cf564de8fee528380fc9b83,1227660060761285325,1732942763971601101,8,N
+en.js,en_GB.js,\rsc\js\tiny_mce\langs\en.js,public_html/admin/view/default/javascript/tinymce/langs/en_GB.js,5243b0f34a08535020b5bcd2c8d15a42,d98be76df9aa50aa1ba8578d27899247,7163708088850586781,7163690496664542365,1,N

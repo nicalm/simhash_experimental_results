@@ -1,0 +1,10 @@
+1463-highcharts,7c547e1e0f5e4379f94396efd559a566668c0dfa,https://github.com/Yadoms/yadoms,master,5043-6712
+canvg.js,canvg.js,\vendor\canvg.js,sources/www/libs/highstock/js/lib/canvg.js,60fe1d399cfbba176ff4a1502d2a8960,60fe1d399cfbba176ff4a1502d2a8960,-4982059367232054004,-4982059367232054004,0,Y
+canvg.src.js,canvg.src.js,\vendor\canvg.src.js,sources/www/libs/highstock/js/lib/canvg.src.js,2279bdbd22f1a6dfc285a277aab0f53e,2279bdbd22f1a6dfc285a277aab0f53e,-124525095390625908,-124525095390625908,0,Y
+rgbcolor.src.js,rgbcolor.src.js,\vendor\rgbcolor.src.js,sources/www/libs/highstock/js/lib/rgbcolor.src.js,c966f9de1616e2c0ce006c6743b9b4bf,c966f9de1616e2c0ce006c6743b9b4bf,-7558226951457002202,-7558226951457002202,0,Y
+svg2pdf.src.js,svg2pdf.src.js,\vendor\svg2pdf.src.js,sources/www/libs/highstock/js/lib/svg2pdf.src.js,f8fa0ad0191f11e562126103cf61ec5d,d61542db462d1c37f90eac0275a5766b,2102795241594494367,1812326259500228095,8,N
+dark-unica.js,dark-unica.js,\js\themes\dark-unica.js,sources/www/libs/highstock/js/themes/dark-unica.js,3768e85145dfc338ff30c7b534732e2e,0c71beb7eca7a49ad55636e4fe432be0,474158391862910550,492207974740303447,6,N
+grid.js,grid.js,\js\themes\grid.js,sources/www/libs/highstock/js/themes/grid.js,9bc3fcd5063ed9244dbd40e09987350f,c603c4e6378826465a51648ce26bf6d0,-9034073502608372208,-7863137326761611760,5,N
+canvg.js,canvas-tools.src.js,\vendor\canvg-1.1\canvg.js,sources/www/libs/highstock/js/modules/canvas-tools.src.js,908ee2b88ab882a7ae455ab0df3b8220,24e5c857655f2825b8e96f16bf821952,-2353808001860708403,-2353807864438552756,6,N
+rgbcolor.js,rgbcolor.src.js,\vendor\canvg-1.1\rgbcolor.js,sources/www/libs/highstock/js/lib/rgbcolor.src.js,1d454c3da2f02456f24b30343d09ec6b,c966f9de1616e2c0ce006c6743b9b4bf,-5542866667964520154,-7558226951457002202,5,N
+demo.js,grid.js,\samples\highcharts\members\setoptions\demo.js,sources/www/libs/highstock/js/themes/grid.js,9fe44445af390a1227e26d7bef52fa75,c603c4e6378826465a51648ce26bf6d0,-8434533726360015280,-7863137326761611760,7,N

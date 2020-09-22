@@ -1,0 +1,6 @@
+13956-dolibarr,d26b2a694de30f95e46ea54ea72cc54f0d38e548,https://github.com/mk23/jmxproxy,master,301-532
+jquery.js,jquery.js,\htdocs\includes\jquery\js\jquery.js,src/main/resources/assets/js/jquery.js,9d209a4f77d4d44a46536eb8b3297a3e,9d209a4f77d4d44a46536eb8b3297a3e,-991979898620445976,-991979898620445976,0,Y
+jquery.flot.js,jquery.flot.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.js,src/main/resources/assets/js/jquery.flot.js,74ed638dcdb0e5e2eeaf73ac5d0f95a5,74ed638dcdb0e5e2eeaf73ac5d0f95a5,1370964771625934484,1370964771625934484,0,Y
+jquery.flot.navigate.js,jquery.flot.navigate.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.navigate.js,src/main/resources/assets/js/jquery.flot.navigate.js,7c78d98cef6f74d881ff03a05ea037d2,7c78d98cef6f74d881ff03a05ea037d2,4120838755676916233,4120838755676916233,0,Y
+jquery.flot.resize.js,jquery.flot.resize.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.resize.js,src/main/resources/assets/js/jquery.flot.resize.js,b657b82c78492f82e664b5dbc0595cde,b657b82c78492f82e664b5dbc0595cde,-6302764399840912381,-6302764399840912381,0,Y
+jquery.flot.time.js,jquery.flot.time.js,\htdocs\includes\jquery\plugins\flot\jquery.flot.time.js,src/main/resources/assets/js/jquery.flot.time.js,74e3bac09587091d33a37e2f8fe86449,74e3bac09587091d33a37e2f8fe86449,-8002266877783539956,-8002266877783539956,0,Y

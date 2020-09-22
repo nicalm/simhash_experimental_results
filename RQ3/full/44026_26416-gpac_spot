@@ -1,0 +1,17 @@
+26416-gpac,90dc7f853d31b0a4e9441cba97feccf36d8b69a4,https://github.com/nevyn/spot,master,44-131
+make_tests.sh,ltmain.sh,\tests\make_tests.sh,Vendor/libvorbis/ltmain.sh,768af8e42203cab40f8cd00bb8227f35,2119b320ce18410781cd7a807915ac53,-1014467356669276243,-1014810404297142356,4,N
+make_tests.sh,ltmain.sh,\tests\make_tests.sh,Vendor/libogg/ltmain.sh,768af8e42203cab40f8cd00bb8227f35,f819fb65a5ef05b86746f53c9756baa7,-1014467356669276243,-1014819200390164564,3,N
+ogg.h,ogg.h,\extra_lib\include\ogg\ogg.h,Vendor/libogg/include/ogg/ogg.h,7a1f67996048cf309bf2aaffed747c29,7a1f67996048cf309bf2aaffed747c29,-3910192729453004024,-3910192729453004024,0,Y
+os_types.h,os_types.h,\extra_lib\include\ogg\os_types.h,Vendor/libogg/include/ogg/os_types.h,9ed3dd4ac325146fa34e65f7698a3b22,9ed3dd4ac325146fa34e65f7698a3b22,-1640261197914199257,-1640261197914199257,0,Y
+e_os2.h,e_os2.h,\extra_lib\include\openssl\e_os2.h,Vendor/openssl/e_os2.h,a284e745495f0a95a3b6f712a86c6596,596f0dfbd50cdbe20732e63c3a6fe1cc,4217020069475353928,4217020069475321192,2,N
+kssl.h,kssl.h,\extra_lib\include\openssl\kssl.h,Vendor/openssl/kssl.h,3df392a1e15fb1e4edc2bca4856d4b25,3df392a1e15fb1e4edc2bca4856d4b25,1414972972253115329,1414972972253115329,0,Y
+objects.h,objects.h,\extra_lib\include\openssl\objects.h,Vendor/openssl/objects.h,15ca9ec85a365566a993448e80011673,bb33fa7be325e28e466b449e809a2480,-5236571568971694767,-5236571500285772463,2,N
+obj_mac.h,obj_mac.h,\extra_lib\include\openssl\obj_mac.h,Vendor/openssl/obj_mac.h,f6426da75fc17e66b0890fb9f56a650a,3f0c3f4572138e24727d0fbeb497e42c,-5619938286256113151,-5619377537474692591,8,N
+rand.h,rand.h,\extra_lib\include\openssl\rand.h,Vendor/openssl/rand.h,42a7939547ebb79bbcd23f39d1095bb9,66ab9174c32b71c37f33f0a849ce521c,1952403585967154305,1953573466875978881,4,N
+rsa.h,rsa.h,\extra_lib\include\openssl\rsa.h,Vendor/openssl/rsa.h,23fca84d21130be1a710fcb3627a02a4,ed83f9c9d63990bc837dcbaf826a35ec,8898055895369093378,6590031730366452006,8,N
+ssl2.h,ssl2.h,\extra_lib\include\openssl\ssl2.h,Vendor/openssl/ssl2.h,404cea2da5b5bba3260db9dbf301bf82,404cea2da5b5bba3260db9dbf301bf82,5773368174226237257,5773368174226237257,0,Y
+ssl23.h,ssl23.h,\extra_lib\include\openssl\ssl23.h,Vendor/openssl/ssl23.h,d57f2cfa51bf46dc08e88bba6fbbc1c6,d57f2cfa51bf46dc08e88bba6fbbc1c6,1953168611068347425,1953168611068347425,0,Y
+ssl3.h,ssl3.h,\extra_lib\include\openssl\ssl3.h,Vendor/openssl/ssl3.h,178255fc5cd88ede9458ffe68cf87e25,842c75a4c0ce74c1c2c4960f93d34313,4493823506192625745,7959378603826307153,6,N
+codec.h,codec.h,\extra_lib\include\vorbis\codec.h,Vendor/libvorbis/include/vorbis/codec.h,7aa56a0692cbf3da6dae4fa1302f9380,7aa56a0692cbf3da6dae4fa1302f9380,6647811710105734163,6647811710105734163,0,Y
+vorbisenc.h,vorbisenc.h,\extra_lib\include\vorbis\vorbisenc.h,Vendor/libvorbis/include/vorbis/vorbisenc.h,1b2f4fb323586cbd565db0dfe548e626,1b2f4fb323586cbd565db0dfe548e626,-799620393889408185,-799620393889408185,0,Y
+vorbisfile.h,vorbisfile.h,\extra_lib\include\vorbis\vorbisfile.h,Vendor/libvorbis/include/vorbis/vorbisfile.h,5c95e1734a192884599277405c3714d5,5c95e1734a192884599277405c3714d5,-548633074655362183,-548633074655362183,0,Y

@@ -1,0 +1,12 @@
+4960-capstone,87a25bb543c8e4c09b48d4b4a6c7db31ce58df06,https://github.com/Nukem9/SwissArmyKnife,refs/heads/master,43-43
+arm.h,arm.h,\include\capstone\arm.h,src/pluginsdk/capstone/arm.h,7d9b8e237f8dcb8a4cdb6c4e9142a819,7d9b8e237f8dcb8a4cdb6c4e9142a819,1795086183474536632,2083316559634636856,3,E
+arm64.h,arm64.h,\include\capstone\arm64.h,src/pluginsdk/capstone/arm64.h,f65f2b3da5cb54903a5200577499c85e,a6db30dc83235f7937bb190a6e5a104d,4959260333700592004,4959260333700591748,1,N
+capstone.h,capstone.h,\include\capstone\capstone.h,src/pluginsdk/capstone/capstone.h,c7d4b9ddaa6e5e57b7f3f4896bffaa52,1dfa8e2853e454fc56ca0c374906f164,-5404747522305371757,-4828357070026649197,3,N
+m68k.h,m68k.h,\include\capstone\m68k.h,src/pluginsdk/capstone/m68k.h,de4e0e93777d1503fdbcf89513e26472,de4e0e93777d1503fdbcf89513e26472,-1582895000562354294,-1582894931876431990,2,E
+mips.h,mips.h,\include\capstone\mips.h,src/pluginsdk/capstone/mips.h,b3f1a6ce8b6eed6dcab120eab802d5fa,b3f1a6ce8b6eed6dcab120eab802d5fa,-7242035248473566584,-7246538848100935032,2,E
+platform.h,platform.h,\include\capstone\platform.h,src/pluginsdk/capstone/platform.h,e7a80f323b9f22c5bebe1ad9119755c3,e7a80f323b9f22c5bebe1ad9119755c3,-1979552617796196307,-1979552617796196307,0,Y
+ppc.h,ppc.h,\include\capstone\ppc.h,src/pluginsdk/capstone/ppc.h,2c0e21dbb7f7b14aea0bdb8e5fae3d5b,2c0e21dbb7f7b14aea0bdb8e5fae3d5b,-8725236559027150047,498135477827617665,4,E
+sparc.h,sparc.h,\include\capstone\sparc.h,src/pluginsdk/capstone/sparc.h,23885d87329809b83daf174ca6a4bb61,23885d87329809b83daf174ca6a4bb61,-3036185718474385096,-3036183519451129416,2,E
+systemz.h,systemz.h,\include\capstone\systemz.h,src/pluginsdk/capstone/systemz.h,100f7d9b73bea8945afe704cd336fa1e,100f7d9b73bea8945afe704cd336fa1e,5144834657936727348,5004642510168906928,8,E
+x86.h,x86.h,\include\capstone\x86.h,src/pluginsdk/capstone/x86.h,73bd4d23210fa5ed7f3eeb00dad81968,1669403fe67a16e8b77598f7a047ffff,-7622917036820151877,-2434770265519504973,7,N
+xcore.h,xcore.h,\include\capstone\xcore.h,src/pluginsdk/capstone/xcore.h,fd81db116b77ab47582792dc64d4dab2,fd81db116b77ab47582792dc64d4dab2,7387488717442532794,5161584567253075386,9,E

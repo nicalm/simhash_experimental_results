@@ -1,0 +1,6 @@
+76684-horde,1550c6ecd7204f9579fcbb09ec7089e01b0771e2,https://github.com/smart-classic/smart_sample_apps,refs/heads/master,882-1101
+json2.js,json2.js,\horde\js\json2.js,static/framework/smart/scripts/json2.js,4c9712aebf68614d6525e2327932fed8,4cc6c32726f5f481bcca6fabd526c65b,1660889755059512671,3678506786168006111,4,N
+json2.js,json2.js,\horde\js\json2.js,static/framework/dm_monograph/js/json2.js,4c9712aebf68614d6525e2327932fed8,4c9712aebf68614d6525e2327932fed8,1660889755059512671,1660889755059512671,0,Y
+json2.js,json2.js,\horde\js\json2.js,static/framework/dm_monograph_clone/js/json2.js,4c9712aebf68614d6525e2327932fed8,4c9712aebf68614d6525e2327932fed8,1660889755059512671,1660889755059512671,0,Y
+jquery.js,jquery-1.6.2.js,\framework\Core\js\jquery.mobile\jquery.js,direct_apps/static/lib/jquery-1.6.2.js,2d87ba23383f782ee174b1e96d92f56a,70d7e0eada8409ec903d65fac266ea66,1133429783207067051,1133430951354285359,6,N
+jquery.js,jquery-1.6.2.js,\framework\Core\js\jquery.mobile\jquery.js,api_verify/static/lib/jquery-1.6.2.js,2d87ba23383f782ee174b1e96d92f56a,70d7e0eada8409ec903d65fac266ea66,1133429783207067051,1133430951354285359,6,N

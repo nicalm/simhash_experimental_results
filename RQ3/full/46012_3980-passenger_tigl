@@ -1,0 +1,4 @@
+3980-passenger,ddb8ecc4ebf260e4967f57f271d4f5761abeac3e,https://github.com/DLR-SC/tigl,refs/remotes/origin/android,947-951
+provision.sh,ltmain.sh,\dev\vagrant\provision.sh,thirdparty/gtest-1.6.0/build-aux/ltmain.sh,e3c8c2e3bac5fda8201cdc9d573b4f49,b16dbd236ba93a318d97460d6211030c,-1014467356669276243,-5626496423261403220,7,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-copy\libuv\ltmain.sh,thirdparty/gtest-1.6.0/build-aux/ltmain.sh,4683b9698c420bfc24e6f0ae3542f0f9,b16dbd236ba93a318d97460d6211030c,-1014819200893483092,-5626496423261403220,3,N
+ltmain.sh,ltmain.sh,\src\cxx_supportlib\vendor-modified\libev\ltmain.sh,thirdparty/gtest-1.6.0/build-aux/ltmain.sh,c00a3a0f4e40b22554711ddb82f3042a,b16dbd236ba93a318d97460d6211030c,-1014810404834015316,-5626496423261403220,1,N

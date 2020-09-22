@@ -1,0 +1,5 @@
+151921-b2evolution,9a4ab85439d1b838ee7b8eeebbf59174bb787811,https://github.com/invoiceninja/invoiceninja,master,517-556
+jquery.js,jquery.js,\rsc\js\jquery.js,public/vendor/jquery/dist/jquery.js,671fc8452a11cf859affb1ca61bdb82c,6a89c87c622a2c4c544724f90c4b6afc,6249802392329790696,6321864246975276264,3,N
+jquery.jeditable.js,jquery.jeditable.js,\rsc\js\jquery\jquery.jeditable.js,public/vendor/datatables/examples/examples_support/jquery.jeditable.js,6c78a43d40c45a010608cdf842cf633f,1c791ca140836bcaa7c9b87fd93bba7d,-1721744534484439367,-6333430836371149127,5,N
+jquery.ui.all.js,jquery-ui.custom.js,\rsc\js\jquery\jquery.ui.all.js,public/vendor/jquery-ui/ui/jquery-ui.custom.js,56540f2e02b9097df22f83e81fb3051d,56540f2e02b9097df22f83e81fb3051d,-5089744674398893768,-5089744674398893768,0,Y
+jquery.ui.all.js,jquery-ui.js,\rsc\js\jquery\jquery.ui.all.js,public/vendor/jquery-ui/ui/jquery-ui.js,56540f2e02b9097df22f83e81fb3051d,aa019b843c4c1bcb5aaa2dd270b10645,-5089744674398893768,-5089742137952270023,7,N

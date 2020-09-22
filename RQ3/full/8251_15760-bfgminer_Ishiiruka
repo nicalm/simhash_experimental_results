@@ -1,0 +1,3 @@
+15760-bfgminer,ff7f30129f15f7a2213f8ced0cd65c9a331493d9,https://github.com/FasterMelee/Ishiiruka,master,11849-11901
+cl.h,cl.h,\CL\cl.h,Externals/CLRun/include/CL/cl.h,d407931c6e9992ccde8c846f6c58f8dc,8d73cf802475cece98292ae410105629,-996221580596311660,-996221580596311660,0,N
+cl_platform.h,cl_platform.h,\CL\cl_platform.h,Externals/CLRun/include/CL/cl_platform.h,feef1035ebaaf25ac3fd19eb36576e27,feef1035ebaaf25ac3fd19eb36576e27,-4924088467239471540,-4924088467239471540,0,Y

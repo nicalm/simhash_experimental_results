@@ -1,0 +1,13 @@
+99145-acpica,a23325b2e583556eae88ed3f764e457786bf4df6,https://github.com/150balbes/Amlogic_s905-kernel,refs/heads/master,13-36*93-112
+acconfig.h,acconfig.h,\source\include\acconfig.h,include/acpi/acconfig.h,45d3823d9498d6cfa5844b5d7753d9e0,04bbd8669d26e45c52098e25459c686c,6617855575802315592,6599842277344477706,8,N
+acnames.h,acnames.h,\source\include\acnames.h,include/acpi/acnames.h,989908f236fb84593ef16b614076330e,622b638000a3cb3596e9f46080aaf89f,-2429625464982739256,-87757996667149624,8,N
+acopcode.h,acopcode.h,\source\include\acopcode.h,drivers/acpi/acpica/acopcode.h,581345aad30ae40f83ee363b2f59bec7,581345aad30ae40f83ee363b2f59bec7,2521165267029663436,2521165267029663436,0,Y
+acopcode.h,acopcode.h,\source\include\acopcode.h,drivers/acpi/acpica/acopcode.h,581345aad30ae40f83ee363b2f59bec7,63617fbbc2ee138cea0c6718c34568b1,2521165267029663436,2521165267029659352,3,N
+acpredef.h,acpredef.h,\source\include\acpredef.h,drivers/acpi/acpica/acpredef.h,0a7dd8d90a0324ac4971b8a297a6f6bd,9f0def5e518e68f6722821148b41d70a,-5543686297253855544,-5543404822277144888,1,N
+acuuid.h,acuuid.h,\source\include\acuuid.h,include/acpi/acuuid.h,8625c25b31ab9325faa32213cd482068,8625c25b31ab9325faa32213cd482068,459115678848226158,459115678848226158,0,Y
+psopinfo.c,psopinfo.c,\source\components\parser\psopinfo.c,drivers/acpi/acpica/psopinfo.c,c3ea45a66a919e35282aad61743c6945,6078598a8c8a07aa42c501208c0107cb,4874310256750002780,5162540632901714520,2,N
+psopinfo.c,psopinfo.c,\source\components\parser\psopinfo.c,drivers/acpi/acpica/psopinfo.c,c3ea45a66a919e35282aad61743c6945,e528acd42b2237a942a87d0132577621,4874310256750002780,5162540632901714520,2,N
+utdecode.c,utdecode.c,\source\components\utilities\utdecode.c,drivers/acpi/acpica/utdecode.c,b8e64063ea6c47569997ac1e7a7718d7,fd7636711277854340ce4f1967633de1,-9107623698102169698,-9107623423761133793,4,N
+acenv.h,acenv.h,\source\include\platform\acenv.h,include/acpi/platform/acenv.h,a6696a94453e80631eb7e0a8fdaaa9d3,5e3a9de60dcb420bb2be50786560c1ac,-1751566153307122520,-6363181800842849111,4,N
+acenvex.h,acenvex.h,\source\include\platform\acenvex.h,include/acpi/platform/acenvex.h,8b92c080de531ba4d62df966c28cfdf5,f3e38ad7442c6683ec4cd7639edf0479,4619056960083154405,4619056958476343269,7,N
+acintel.h,acintel.h,\source\include\platform\acintel.h,include/acpi/platform/acintel.h,dccd0f95cebd90f48fbce8c8286e7b60,dccd0f95cebd90f48fbce8c8286e7b60,2235392278849108324,2235392278849108324,0,Y

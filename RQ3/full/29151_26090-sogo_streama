@@ -1,0 +1,5 @@
+26090-sogo,64ce3c9c22fd9a28caabf11e76216cd53d0245aa,https://github.com/streamaserver/streama,master,980-1492
+angular-sanitize.js,angular-sanitize.js,\UI\WebServerResources\js\vendor\angular-sanitize.js,grails-app/assets/bower/angular-sanitize/angular-sanitize.js,325279850fe9a881f2a48bd5c2a94523,325279850fe9a881f2a48bd5c2a94523,951256781462310131,951256781462310131,0,Y
+angular-ui-router.js,angular-ui-router.js,\UI\WebServerResources\js\vendor\angular-ui-router.js,grails-app/assets/bower/angular-ui-router/angular-ui-router.js,2dbd86962555a11226ee04b029878b8c,46806f0f0bed411baec269c1e7f91ac2,-5784453218233610786,-5768690619535716898,3,N
+angular.js,angular.js,\UI\WebServerResources\js\vendor\angular.js,grails-app/assets/bower/angular/angular.js,93a4a02c88f1c6501e16da2399c3fb03,0c028dfafa20cdb6d3ba290e8feeae86,-236407639073280325,-236407639073280325,0,N
+lodash.js,lodash.js,\UI\WebServerResources\js\vendor\lodash.js,grails-app/assets/bower/lodash/lodash.js,40a57ef31e0f6dfd9de336024756077e,e55001a7314420ed37661198276e96e0,-8985477374566618730,-7832556144837662410,5,N

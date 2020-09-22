@@ -1,0 +1,3 @@
+76684-horde,eb3afd14c22c77ae0d29e2848f5ac726ef6e7c5b,https://github.com/artifex404/local-bedrock,master,12-19
+json2.js,json2.js,\horde\js\json2.js,app/public/web/wp/wp-includes/js/json2.js,7ee4904708a2e7b6bffc7d8ca1f6ede3,c13239ba9bb1465c8936b071ccae24c0,1370407647809398239,3694124867800090015,7,N
+Native.php,native.php,\framework\Text_Diff\lib\Horde\Text\Diff\Engine\Native.php,app/public/web/wp/wp-includes/Text/Diff/Engine/native.php,ec24a694a78bd9b7fa1637daa7cb16c7,9235854924a8d31cf9b5b5294e8a4a33,-2426785246242084641,-2430866648973121314,8,N

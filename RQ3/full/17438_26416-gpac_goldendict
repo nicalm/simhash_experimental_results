@@ -1,0 +1,8 @@
+26416-gpac,bceb03fd2be95097a7b409ea59914f332fb6bc86,https://github.com/goldendict/goldendict,master,532-536
+ogg.h,ogg.h,\extra_lib\include\ogg\ogg.h,winlibs/include/ogg/ogg.h,7a1f67996048cf309bf2aaffed747c29,7a1f67996048cf309bf2aaffed747c29,-3910192729453004024,-3910192729453004024,0,Y
+os_types.h,os_types.h,\extra_lib\include\ogg\os_types.h,winlibs/include/ogg/os_types.h,9ed3dd4ac325146fa34e65f7698a3b22,9ed3dd4ac325146fa34e65f7698a3b22,-1640261197914199257,-1640261197914199257,0,Y
+codec.h,codec.h,\extra_lib\include\vorbis\codec.h,winlibs/include/vorbis/codec.h,7aa56a0692cbf3da6dae4fa1302f9380,7aa56a0692cbf3da6dae4fa1302f9380,6647811710105734163,6647811710105734163,0,Y
+vorbisenc.h,vorbisenc.h,\extra_lib\include\vorbis\vorbisenc.h,winlibs/include/vorbis/vorbisenc.h,1b2f4fb323586cbd565db0dfe548e626,1b2f4fb323586cbd565db0dfe548e626,-799620393889408185,-799620393889408185,0,Y
+vorbisfile.h,vorbisfile.h,\extra_lib\include\vorbis\vorbisfile.h,winlibs/include/vorbis/vorbisfile.h,5c95e1734a192884599277405c3714d5,5c95e1734a192884599277405c3714d5,-548633074655362183,-548633074655362183,0,Y
+zconf.h,zconf.h,\extra_lib\include\zlib\zconf.h,winlibs/include/zconf.h,8b4fbb01ef14b92d8596e48d051b0691,d255b511e15561797f4a6c42ecb2cd3d,-7870671785769733626,-7870671785769733626,0,N
+zlib.h,zlib.h,\extra_lib\include\zlib\zlib.h,winlibs/include/zlib.h,c173dc27b1fada2cbda0e11f2c6de4fa,c173dc27b1fada2cbda0e11f2c6de4fa,-6570516593210201516,-6570516593210201516,0,Y

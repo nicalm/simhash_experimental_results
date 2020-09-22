@@ -1,0 +1,13 @@
+1463-highcharts,7c547e1e0f5e4379f94396efd559a566668c0dfa,https://github.com/gravitee-io/gravitee-management-webui,master,711-758
+canvg.js,canvg.js,\vendor\canvg.js,bower_components/highcharts/lib/canvg.js,60fe1d399cfbba176ff4a1502d2a8960,60fe1d399cfbba176ff4a1502d2a8960,-4982059367232054004,-4982059367232054004,0,Y
+canvg.src.js,canvg.src.js,\vendor\canvg.src.js,bower_components/highcharts/lib/canvg.src.js,2279bdbd22f1a6dfc285a277aab0f53e,2279bdbd22f1a6dfc285a277aab0f53e,-124525095390625908,-124525095390625908,0,Y
+jquery-1.5.2.js,jquery.1.5.0.js,\vendor\jquery-1.5.2.js,bower_components/vkbeautify/jquery.1.5.0.js,9bdb2b63b5c8555b851c6c0722834be5,3326ee90a07e2ab4c339e55045129251,3430273218796431671,3430273214518376759,4,N
+rgbcolor.src.js,rgbcolor.src.js,\vendor\rgbcolor.src.js,bower_components/highcharts/lib/rgbcolor.src.js,c966f9de1616e2c0ce006c6743b9b4bf,c966f9de1616e2c0ce006c6743b9b4bf,-7558226951457002202,-7558226951457002202,0,Y
+dark-unica.js,dark-unica.js,\js\themes\dark-unica.js,bower_components/highcharts/js/themes/dark-unica.js,3768e85145dfc338ff30c7b534732e2e,b5fc3bdb7369270c9952eeafc6b21ca8,474158391862910550,492207974740303447,6,N
+dark-unica.js,dark-unica.js,\js\themes\dark-unica.js,bower_components/highcharts/themes/dark-unica.js,3768e85145dfc338ff30c7b534732e2e,b5fc3bdb7369270c9952eeafc6b21ca8,474158391862910550,492207974740303447,6,N
+grid.js,grid.js,\js\themes\grid.js,bower_components/highcharts/js/themes/grid.js,9bc3fcd5063ed9244dbd40e09987350f,fa55136b2a52e9cf42cc24638730f664,-9034073502608372208,-7863137326761611760,5,N
+grid.js,grid.js,\js\themes\grid.js,bower_components/highcharts/themes/grid.js,9bc3fcd5063ed9244dbd40e09987350f,fa55136b2a52e9cf42cc24638730f664,-9034073502608372208,-7863137326761611760,5,N
+canvg.js,canvas-tools.src.js,\vendor\canvg-1.1\canvg.js,bower_components/highcharts/modules/canvas-tools.src.js,908ee2b88ab882a7ae455ab0df3b8220,3f00fe0626231dd613ef0b06c3baffdb,-2353808001860708403,-2353807864438552756,6,N
+rgbcolor.js,rgbcolor.src.js,\vendor\canvg-1.1\rgbcolor.js,bower_components/highcharts/lib/rgbcolor.src.js,1d454c3da2f02456f24b30343d09ec6b,c966f9de1616e2c0ce006c6743b9b4bf,-5542866667964520154,-7558226951457002202,5,N
+demo.js,grid.js,\samples\highcharts\members\setoptions\demo.js,bower_components/highcharts/js/themes/grid.js,9fe44445af390a1227e26d7bef52fa75,fa55136b2a52e9cf42cc24638730f664,-8434533726360015280,-7863137326761611760,7,N
+demo.js,grid.js,\samples\highcharts\members\setoptions\demo.js,bower_components/highcharts/themes/grid.js,9fe44445af390a1227e26d7bef52fa75,fa55136b2a52e9cf42cc24638730f664,-8434533726360015280,-7863137326761611760,7,N

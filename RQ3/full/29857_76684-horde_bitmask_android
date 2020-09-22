@@ -1,0 +1,5 @@
+76684-horde,4c3e18f1724ab39bfef10c189a5b52036a744d55,https://github.com/leapcode/bitmask_android,refs/heads/master,1041-1390
+lz4.c,compat-lz4.c,\framework\lz4\lz4.c,ics-openvpn-stripped/main/openvpn/src/compat/compat-lz4.c,baf1d99e09f216f5f42afd0fcd728474,cd249a18b449f855aad8f518a232384f,-3075406461417375263,-3075406461417375263,0,N
+lz4.c,compat-lz4.c,\framework\lz4\lz4.c,app/openvpn/src/compat/compat-lz4.c,baf1d99e09f216f5f42afd0fcd728474,cd249a18b449f855aad8f518a232384f,-3075406461417375263,-3075406461417375263,0,N
+lz4.h,compat-lz4.h,\framework\lz4\lz4.h,ics-openvpn-stripped/main/openvpn/src/compat/compat-lz4.h,6c8b817be3b844d219d3671a092fa7c9,6c8b817be3b844d219d3671a092fa7c9,7917403137882870614,7917403137882870614,0,Y
+lz4.h,compat-lz4.h,\framework\lz4\lz4.h,app/openvpn/src/compat/compat-lz4.h,6c8b817be3b844d219d3671a092fa7c9,6c8b817be3b844d219d3671a092fa7c9,7917403137882870614,7917403137882870614,0,Y

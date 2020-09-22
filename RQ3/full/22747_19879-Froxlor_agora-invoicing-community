@@ -1,0 +1,4 @@
+19879-Froxlor,aa881560cc996c38cbf8c20ee62854e27f72c73c,https://github.com/ladybirdweb/agora-invoicing-community,refs/heads/master,639-1876
+class.PHPMailer.php,class.phpmailer.php,\lib\classes\phpmailer\class.PHPMailer.php,public/php/php-mailer/class.phpmailer.php,971c3e36a56a6b02a25c5cc65558e6ef,a2e7a817f5d6bd94f7cde78fb2c3be09,7289638721001993635,7001408344919487923,4,N
+class.SMTP.php,class.smtp.php,\lib\classes\phpmailer\class.SMTP.php,public/php/php-mailer/class.smtp.php,f54e86ff4fdbddb2c6885e6ba9a0ebaa,18cc39b9eac93508716c55dd292e5c76,300106740523704336,4902785558756827217,8,N
+PHPMailerAutoload.php,PHPMailerAutoload.php,\lib\classes\phpmailer\PHPMailerAutoload.php,public/php/php-mailer/PHPMailerAutoload.php,bb8e3e756189afaeacdeaa73d3b4e3c4,bb8e3e756189afaeacdeaa73d3b4e3c4,-8890996090839621493,-8890996090839621493,0,Y
