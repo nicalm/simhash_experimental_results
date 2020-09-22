@@ -1,0 +1,15 @@
+12310-weechat,1541-h2o
+wee-upgrade-file.c,packet.cc,\src\core\wee-upgrade-file.c,\deps\quicly\fuzz\packet.cc,d391f06233f7cab3700e28a1f60c925e,7c717ef9ac4ce2361eee410620032e2b,1712001581301361399,1696278565023902427,8,N,585,110,26
+wee-url.c,fmacros.h,\src\core\wee-url.c,\deps\hiredis\fmacros.h,2182536a79bada4949d9bc0483b5da6d,9d6fd32f84c9d0377076a4587579ec51,-8023445049755510628,-8023515419036559204,2,N,1111,20,7
+wee-url.c,win32.h,\src\core\wee-url.c,\deps\hiredis\win32.h,2182536a79bada4949d9bc0483b5da6d,0ec99e391511695a9d7ef00f6d95b969,-8023445049755510628,-7880077529720759656,8,N,1111,32,9
+wee-url.c,mrbconf.h,\src\core\wee-url.c,\deps\mruby\include\mrbconf.h,2182536a79bada4949d9bc0483b5da6d,b30b9460d209b1cc68a61c5604bdd5a1,-8023445049755510628,-8023445049755510628,0,N,1111,43,15
+wee-url.c,mruby.h,\src\core\wee-url.c,\deps\mruby\include\mruby.h,2182536a79bada4949d9bc0483b5da6d,919df8d515b52adcdfa92f19037768c8,-8023445049755510628,-9176366554362357572,2,N,1111,440,45
+wee-url.c,port.h,\src\core\wee-url.c,\deps\brotli\c\dec\port.h,2182536a79bada4949d9bc0483b5da6d,40b2fd74ac0fb05b9b3137ca6adfdec5,-8023445049755510628,-8023163576927266084,6,N,1111,121,25
+wee-url.c,memory.h,\src\core\wee-url.c,\deps\brotli\c\enc\memory.h,2182536a79bada4949d9bc0483b5da6d,7b7c326cb6f93d50dd06a9d313779e53,-8023445049755510628,-8023473654774578788,8,N,1111,44,9
+wee-url.c,numeric.h,\src\core\wee-url.c,\deps\mruby\include\mruby\numeric.h,2182536a79bada4949d9bc0483b5da6d,3fcc5440f35b4f8dd767de5d1f6669d5,-8023445049755510628,-8032170909660030820,8,N,1111,120,30
+wee-url.c,types.h,\src\core\wee-url.c,\deps\picotls\deps\micro-ecc\types.h,2182536a79bada4949d9bc0483b5da6d,d0ccddb6a5d5d18dbed2dc07299a4b3d,-8023445049755510628,-8023445049757607011,4,N,1111,87,14
+wee-url.c,uECC.h,\src\core\wee-url.c,\deps\picotls\deps\micro-ecc\uECC.h,2182536a79bada4949d9bc0483b5da6d,e777f21ea5ae63708919f7e3ba1592f7,-8023445049755510628,1199926987099265180,1,N,1111,105,20
+wee-url.c,wincompat.h,\src\core\wee-url.c,\deps\picotls\picotlsvs\picotls\wincompat.h,2182536a79bada4949d9bc0483b5da6d,7c4e1724c3a0beeaea1e4c416d606c60,-8023445049755510628,-8041318848215590756,5,N,1111,28,8
+wee-url.c,port.h,\src\core\wee-url.c,\deps\brotli\c\include\brotli\port.h,2182536a79bada4949d9bc0483b5da6d,350994917b4cef7e95001ccfdd8a21d9,-8023445049755510628,-9031978687939553124,6,N,1111,102,21
+gui-curses-term.c,mrbconf.h,\src\gui\curses\gui-curses-term.c,\deps\mruby\include\mrbconf.h,12c6b2e5780349c1e6b15f2a0f08c5ca,b30b9460d209b1cc68a61c5604bdd5a1,-7447028277908808228,-8023445049755510628,7,N,23,43,7
+gui-curses-term.c,uECC.h,\src\gui\curses\gui-curses-term.c,\deps\picotls\deps\micro-ecc\uECC.h,12c6b2e5780349c1e6b15f2a0f08c5ca,e777f21ea5ae63708919f7e3ba1592f7,-7447028277908808228,1199926987099265180,8,N,23,105,7

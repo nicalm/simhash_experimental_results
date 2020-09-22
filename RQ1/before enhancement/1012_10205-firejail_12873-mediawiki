@@ -1,0 +1,6 @@
+10205-firejail,12873-mediawiki
+print.c,LogFormatter.php,\src\fsec-print\print.c,\includes\logging\LogFormatter.php,a532e1235b05a01261ed4f8b4b722622,1a5b87b8ddd192cf448a8d7e785d9d75,-8096923412020553513,5729127442933127383,4,N,257,551,41
+print.c,FormatMetadata.php,\src\fsec-print\print.c,\includes\media\FormatMetadata.php,a532e1235b05a01261ed4f8b4b722622,d4c424b998a37738addfaa8660b2d286,-8096923412020553513,5729109850747091159,6,N,257,1326,42
+print.c,IPTC.php,\src\fsec-print\print.c,\includes\media\IPTC.php,a532e1235b05a01261ed4f8b4b722622,5acd3160fef09ca8547c657db582b971,-8096923412020553513,5729127442933135575,5,N,257,377,41
+print.c,ExtensionDependencyError.php,\src\fsec-print\print.c,\includes\registration\ExtensionDependencyError.php,a532e1235b05a01261ed4f8b4b722622,f7bb90c1ca9716b4c4e940b5871755aa,-8096923412020553513,5729126334831573079,8,N,257,44,12
+print.c,bench_if_switch.php,\src\fsec-print\print.c,\maintenance\benchmarks\bench_if_switch.php,a532e1235b05a01261ed4f8b4b722622,ebc9d6c5664eaffdc591b48a194dced3,-8096923412020553513,5729127442933135575,5,N,257,73,23

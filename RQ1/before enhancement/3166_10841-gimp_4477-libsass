@@ -1,0 +1,4 @@
+10841-gimp,4477-libsass
+gimpwin32-io.h,base.h,\libgimpbase\gimpwin32-io.h,\include\sass\base.h,56ef6d63cf2566b506fd29ef2a5dcc22,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,58,63,12
+imap_csim_parse.c,base.h,\plug-ins\imagemap\imap_csim_parse.c,\include\sass\base.h,6c0fd8dae4d7bb8f472f756f2edb786f,26dfd0d8cb029fd73ca71c0971ecc070,-8888144974840538916,-8023163575290504548,8,N,1468,63,18
+imap_ncsa_parse.c,base.h,\plug-ins\imagemap\imap_ncsa_parse.c,\include\sass\base.h,77d25a2cd7957fe736c5a4a3beae98fb,26dfd0d8cb029fd73ca71c0971ecc070,-9176377550015506276,-8023163575290504548,7,N,1212,63,18

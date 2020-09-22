@@ -1,0 +1,4 @@
+8678-GitHawk,981-numpy
+SDWebImageCompat.h,npy_common.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,\numpy\core\include\numpy\npy_common.h,b0a5f204f5c6671d77ea59f8ffd5921c,a173a9479ba36f92005f6b19e1c98ca6,-7735249858110105444,-8023445066935379812,4,N,80,951,24
+cmarkextensions_export.h,npy_common.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,\numpy\core\include\numpy\npy_common.h,252c50482fb9cc0b421251bbc1a8e0e6,a173a9479ba36f92005f6b19e1c98ca6,-8023480234127599460,-8023445066935379812,2,N,32,951,13
+cmark_export.h,npy_common.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,\numpy\core\include\numpy\npy_common.h,7d9a85e6bffd97dbcc67d0e392b8ead8,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510632,-8023445066935379812,2,N,32,951,13

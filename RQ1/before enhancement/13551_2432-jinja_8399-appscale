@@ -1,0 +1,15 @@
+2432-jinja,8399-appscale
+cache_extension.py,cache_extension.py,\docs\cache_extension.py,\AppServer\lib\jinja2-2.6\docs\cache_extension.py,05146d3bb6ccddfc264376c9044cf195,c8fefb32742af4df9d0dd05a47d1dcaf,8504550993619604447,8507928745416612701,8,N,28,28,26
+bench.py,bench.py,\examples\bench.py,\AppServer\lib\jinja2-2.6\examples\bench.py,4c6300af490360bd7275e82c9c8deef1,4c6300af490360bd7275e82c9c8deef1,7149571920273866858,7149571920273866858,0,Y,127,127,127
+djangojinja2.py,djangojinja2.py,\ext\djangojinja2.py,\AppServer\lib\jinja2-2.6\ext\djangojinja2.py,7f9b55e69d81cb375b3986121d1f3171,f287248827205fadbf95ce3320c725a7,-2400020732044892357,6824617942205138747,5,N,45,45,43
+inlinegettext.py,inlinegettext.py,\ext\inlinegettext.py,\AppServer\lib\jinja2-2.6\ext\inlinegettext.py,3c33bcbc95b1128f77dad898d90720c2,493730b16c5c04a5c299064770245792,7030741035030890860,2421588291259681644,5,N,50,50,49
+lexer.py,lexer.py,\jinja2\lexer.py,\AppServer\lib\jinja2-2.6\jinja2\lexer.py,571ee0b75d647d3e0f9b422849d7294f,81d57313900644aba13a087775570713,7645044503385891667,7644901703772152659,8,N,525,480,416
+loaders.py,loaders.py,\jinja2\loaders.py,\AppServer\lib\jinja2-2.6\jinja2\loaders.py,c37bab493e958d526ac9b55c0e40a8a2,3b1ea1624ff1dcd58b4a2f5ecded1f85,-3504739696402398753,5718632305553146367,7,N,270,219,173
+meta.py,meta.py,\jinja2\meta.py,\AppServer\lib\jinja2-2.6\jinja2\meta.py,ce69b788faf5ba8ecd7e52f25742e31c,e30b0539dce8ec63d6bec8cb1f144000,1588680368164009215,1445127923883065599,8,N,41,37,32
+nodes.py,nodes.py,\jinja2\nodes.py,\AppServer\lib\jinja2-2.6\jinja2\nodes.py,3cbce9c00747956b6b2bbe0710b2adb2,2264262f6f44f27d96b5b13c03423b05,7613254366900264780,7541268241110933327,8,N,505,468,429
+parser.py,parser.py,\jinja2\parser.py,\AppServer\lib\jinja2-2.6\jinja2\parser.py,cdf498162f0d98d31f3b7cb53f051630,b1199e1dbce82473541a7c2a91d12a60,9050178589164986695,4438492570603381071,3,N,733,723,654
+sandbox.py,sandbox.py,\jinja2\sandbox.py,\AppServer\lib\jinja2-2.6\jinja2\sandbox.py,a450426e970990266110b591d69016c4,bdecd8f37b96fafc741633c6614ff2e9,8894091222501033447,7745919608126199265,8,N,246,162,147
+visitor.py,visitor.py,\jinja2\visitor.py,\AppServer\lib\jinja2-2.6\jinja2\visitor.py,187939d901c5706dbe1dba1127b8790f,187939d901c5706dbe1dba1127b8790f,5485114208572075878,5485114208572075878,0,Y,40,40,40
+djangoext.py,djangoext.py,\examples\rwbench\djangoext.py,\AppServer\lib\jinja2-2.6\examples\rwbench\djangoext.py,0d61952af954f40bbfcad5a1021ea9e7,0d61952af954f40bbfcad5a1021ea9e7,8777413228825993505,8777413228825993505,0,Y,107,107,107
+rwbench.py,rwbench.py,\examples\rwbench\rwbench.py,\AppServer\lib\jinja2-2.6\examples\rwbench\rwbench.py,aaa42518c57e472704b204de6f4fb376,44e5ff07440bd22c171ebb4774d1867f,-4510529817064502407,-9122215837085189255,8,N,74,73,72
+django2jinja.py,django2jinja.py,\ext\django2jinja\django2jinja.py,\AppServer\lib\jinja2-2.6\ext\django2jinja\django2jinja.py,95a1f3e5af62c30b2e87f5dfcfa832f1,9ff2ff695322b561ac6ebedb72148ee9,6705908674924776556,6706471624878214252,2,N,558,557,554

@@ -1,0 +1,6 @@
+18-electron,5868-libvips
+atom_browser_main_parts.cc,vector.c,\shell\browser\atom_browser_main_parts.cc,\libvips\iofuncs\vector.c,4312360427f5f392ec4f692be2a7319a,055954f4e165b83818f7e8bd6db904ec,-8023445187194455912,-8023484632710850404,7,N,375,400,63
+atom_paths.h,vector.c,\shell\browser\atom_paths.h,\libvips\iofuncs\vector.c,f62403bf230108c707f5e1273fdb321d,055954f4e165b83818f7e8bd6db904ec,-8023471436960835427,-8023484632710850404,8,N,33,400,8
+linux_syscall_support.h,buffer.c,\vendor\third_party\lss\linux_syscall_support.h,\libvips\iofuncs\buffer.c,d7c4a715ebced0be3633fcfd349a02ff,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,3833,447,74
+linux_syscall_support.h,init.c,\vendor\third_party\lss\linux_syscall_support.h,\libvips\iofuncs\init.c,d7c4a715ebced0be3633fcfd349a02ff,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,3833,636,101
+linux_syscall_support.h,vector.c,\vendor\third_party\lss\linux_syscall_support.h,\libvips\iofuncs\vector.c,d7c4a715ebced0be3633fcfd349a02ff,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,3833,400,79

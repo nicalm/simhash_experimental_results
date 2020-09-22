@@ -1,0 +1,3 @@
+1698-server,2389-Pillow
+LDAPGroupPluginDummy.php,_imaging.c,\apps\user_ldap\tests\LDAPGroupPluginDummy.php,\src\_imaging.c,26a5afd9c3536463fb319ba9abfaff9b,15d9dc3757f7c0f30b18121d0dd3e8a2,-4295717163425538324,-4222533811214689540,6,N,26,3087,8
+LDAPUserPluginDummy.php,_imaging.c,\apps\user_ldap\tests\LDAPUserPluginDummy.php,\src\_imaging.c,8b6e431f683efb521c30bcd6c476cd18,15d9dc3757f7c0f30b18121d0dd3e8a2,-4294591813274509588,-4222533811214689540,6,N,29,3087,9

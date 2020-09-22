@@ -1,0 +1,15 @@
+10249-pycrypto,12688-ffi
+winrand.c,DynamicLibrary.h,\src\winrand.c,\ext\ffi_c\DynamicLibrary.h,3a3497b5838dcab36e2527d2673e0de6,85bcc5d631466c02273f9899152b054b,-3429825656639923748,-5753630837560780644,8,N,292,49,16
+winrand.c,rbffi_endian.h,\src\winrand.c,\ext\ffi_c\rbffi_endian.h,3a3497b5838dcab36e2527d2673e0de6,f869d8d0ddc657c2a3138058f91acb6c,-3429825656639923748,-8023445049822619428,8,N,292,50,14
+tomcrypt_cfg.h,compat.h,\src\libtom\tomcrypt_cfg.h,\ext\ffi_c\compat.h,5d86f6872e15c2873979e3c177860d1d,89860486007fe9b6739772aa0b042837,-8023445049755510052,-8023447251463120740,5,N,79,38,12
+tomcrypt_cfg.h,DynamicLibrary.h,\src\libtom\tomcrypt_cfg.h,\ext\ffi_c\DynamicLibrary.h,5d86f6872e15c2873979e3c177860d1d,85bcc5d631466c02273f9899152b054b,-8023445049755510052,-5753630837560780644,4,N,79,49,15
+tomcrypt_cfg.h,rbffi_endian.h,\src\libtom\tomcrypt_cfg.h,\ext\ffi_c\rbffi_endian.h,5d86f6872e15c2873979e3c177860d1d,f869d8d0ddc657c2a3138058f91acb6c,-8023445049755510052,-8023445049822619428,2,N,79,50,14
+tomcrypt_cipher.h,compat.h,\src\libtom\tomcrypt_cipher.h,\ext\ffi_c\compat.h,e7e3cfbb6946c3245a4035941fbfd0d9,89860486007fe9b6739772aa0b042837,-8023445049755512676,-8023447251463120740,4,N,592,38,12
+tomcrypt_cipher.h,DynamicLibrary.h,\src\libtom\tomcrypt_cipher.h,\ext\ffi_c\DynamicLibrary.h,e7e3cfbb6946c3245a4035941fbfd0d9,85bcc5d631466c02273f9899152b054b,-8023445049755512676,-5753630837560780644,3,N,592,49,15
+tomcrypt_cipher.h,rbffi_endian.h,\src\libtom\tomcrypt_cipher.h,\ext\ffi_c\rbffi_endian.h,e7e3cfbb6946c3245a4035941fbfd0d9,f869d8d0ddc657c2a3138058f91acb6c,-8023445049755512676,-8023445049822619428,3,N,592,50,13
+tomcrypt_custom.h,compat.h,\src\libtom\tomcrypt_custom.h,\ext\ffi_c\compat.h,9ae4ff77d7091871a62aaa3fd1f90225,89860486007fe9b6739772aa0b042837,-8023445049755510628,-8023447251463120740,3,N,245,38,12
+tomcrypt_custom.h,DynamicLibrary.h,\src\libtom\tomcrypt_custom.h,\ext\ffi_c\DynamicLibrary.h,9ae4ff77d7091871a62aaa3fd1f90225,85bcc5d631466c02273f9899152b054b,-8023445049755510628,-5753630837560780644,2,N,245,49,15
+tomcrypt_custom.h,rbffi_endian.h,\src\libtom\tomcrypt_custom.h,\ext\ffi_c\rbffi_endian.h,9ae4ff77d7091871a62aaa3fd1f90225,f869d8d0ddc657c2a3138058f91acb6c,-8023445049755510628,-8023445049822619428,2,N,245,50,14
+tomcrypt_hash.h,compat.h,\src\libtom\tomcrypt_hash.h,\ext\ffi_c\compat.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,89860486007fe9b6739772aa0b042837,-8023480251307468644,-8023447251463120740,5,N,310,38,11
+tomcrypt_hash.h,DynamicLibrary.h,\src\libtom\tomcrypt_hash.h,\ext\ffi_c\DynamicLibrary.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,85bcc5d631466c02273f9899152b054b,-8023480251307468644,-5753630837560780644,4,N,310,49,16
+tomcrypt_hash.h,rbffi_endian.h,\src\libtom\tomcrypt_hash.h,\ext\ffi_c\rbffi_endian.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,f869d8d0ddc657c2a3138058f91acb6c,-8023480251307468644,-8023445049822619428,4,N,310,50,12

@@ -1,0 +1,4 @@
+63411-CMS,9776-gaia
+Config.php,equal.js,\iu-system\core\Config.php,\disabled_apps\email\js\ext\ext\equal.js,b7543ad40a0e7bf84eb7e0433269125b,bf122b7f0b71d5f3d84d078a06f4e2d9,1719297390733452206,1719314918427870012,8,N,176,52,9
+JSMinPlus.php,orientation.js,\iu-resources\min\lib\JSMinPlus.php,\dev_apps\uitest\js\API\orientation.js,ada381ab05cfa7307d75a5e154803be9,7f674abe2d64a83f3c5f7fc6b2372c43,5735588175405398231,5729127442933135575,7,N,1637,55,18
+plugin.js,list.js,\iu-application\views\administration\ckeditor\plugins\simpleuploads\plugin.js,\disabled_apps\communications\contacts\js\views\list.js,3cd1d954b6725f5e641f09179716a31f,50cc036de8a84d7a28bd4a131ca04afe,2688693279832411515,3769557757320235379,8,N,1941,1751,354

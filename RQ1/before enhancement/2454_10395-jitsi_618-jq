@@ -1,0 +1,9 @@
+10395-jitsi,618-jq
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,parser.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,\src\parser.c,b777786e5dc2dbfda20f2e6ab1b6e3d1,a9e23cec6f740c2c216ed7e38fa76eaa,5729127442933135575,5729127442933135575,0,N,851,3339,292
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,parser.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,\src\parser.c,463ade7b00f34e712a6606ace511d963,a9e23cec6f740c2c216ed7e38fa76eaa,5729127442933135575,5729127442933135575,0,N,949,3339,321
+MsOutlookMAPIHResultException.cxx,parser.c,\src\native\addrbook\msoutlook\MsOutlookMAPIHResultException.cxx,\src\parser.c,f64c2586d29efbc2659a751a8b4617a9,a9e23cec6f740c2c216ed7e38fa76eaa,4864999265505163479,5729127442933135575,4,N,95,3339,34
+lzma.h,jv_dtoa.c,\src\native\windows\setup\include\lzma.h,\src\jv_dtoa.c,4ce48c8f939c04739c2c0b8409ca662f,e22c5b05bfd24415a3e8d8da3f8791ac,-8023445049755510628,-8023445049755510756,1,N,121,3652,43
+lzma.h,lexer.h,\src\native\windows\setup\include\lzma.h,\src\lexer.h,4ce48c8f939c04739c2c0b8409ca662f,da2a1a7176c85a8ba5c6ad487a6476ec,-8023445049755510628,-8023445049755510628,0,N,121,554,44
+lzma.h,libm.h,\src\native\windows\setup\include\lzma.h,\src\libm.h,4ce48c8f939c04739c2c0b8409ca662f,2cd1e495bcbe77e741569181c2fbb01b,-8023445049755510628,-8032452266248775464,7,N,121,291,39
+lzma.h,decimal128.h,\src\native\windows\setup\include\lzma.h,\src\decNumber\decimal128.h,4ce48c8f939c04739c2c0b8409ca662f,d64413929172219be1c2a13c8751b279,-8023445049755510628,-9180870188349695848,8,N,121,41,6
+MacOSXAddrBookContactQuery.java,parser.c,\src\net\java\sip\communicator\plugin\addrbook\macosx\MacOSXAddrBookContactQuery.java,\src\parser.c,582a0b80437e072513f59c5de50c9a32,a9e23cec6f740c2c216ed7e38fa76eaa,6846017951522994391,5729127442933135575,6,N,760,3339,157

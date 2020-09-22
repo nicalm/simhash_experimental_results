@@ -1,0 +1,7 @@
+10827-keepalived,18692-spdk
+check_daemon.c,assert.h,\keepalived\check\check_daemon.c,\include\spdk_internal\assert.h,aaec0049f5aeda6e722cd1822badd73b,340c3c292f11b3661cb114f5fb4a2722,-8023445049755445028,-7384004271941560100,7,N,468,16,6
+global_data.c,assert.h,\keepalived\core\global_data.c,\include\spdk_internal\assert.h,94f8fa69fbfdea221a3ae57a538776e0,340c3c292f11b3661cb114f5fb4a2722,-8018941467844880228,-7384004271941560100,8,N,581,16,5
+main.c,queue.h,\keepalived\core\main.c,\include\spdk\queue.h,4a989f0c3700d01d4c2f706b6e6fd73e,ec100905d717ef23a63f758030236499,-8023445049755510628,-9212465172521363396,8,N,1950,30,6
+main.c,assert.h,\keepalived\core\main.c,\include\spdk_internal\assert.h,4a989f0c3700d01d4c2f706b6e6fd73e,340c3c292f11b3661cb114f5fb4a2722,-8023445049755510628,-7384004271941560100,7,N,1950,16,6
+global_data.h,assert.h,\keepalived\include\global_data.h,\include\spdk_internal\assert.h,9114fe42745bf28b60785d29f3f9b027,340c3c292f11b3661cb114f5fb4a2722,-7735214673603798884,-7384004271941560100,8,N,238,16,4
+vrrp_iprule.h,assert.h,\keepalived\include\vrrp_iprule.h,\include\spdk_internal\assert.h,13163cfce3f6cc4dde48386fdf5a034e,340c3c292f11b3661cb114f5fb4a2722,-8023163575449888612,-7384004271941560100,8,N,93,16,4

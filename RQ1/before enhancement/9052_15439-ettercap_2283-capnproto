@@ -1,0 +1,4 @@
+15439-ettercap,2283-capnproto
+ec_os_mingw.h,miniposix.h,\include\ec_os_mingw.h,\c++\src\kj\miniposix.h,a35507e5684e934f2f3961ea9d733813,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,184,84,13
+ec_stdint.h,miniposix.h,\include\ec_stdint.h,\c++\src\kj\miniposix.h,6aec3e3181000888a59234edbdd91364,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,70,84,16
+ec_strings.h,miniposix.h,\include\ec_strings.h,\c++\src\kj\miniposix.h,de354113240928e149f745107db6f7bb,43597d9a9103c02dbbe46d2c58ecc748,-7879329861738243684,-7455991496707810916,8,N,54,84,15

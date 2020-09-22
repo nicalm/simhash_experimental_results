@@ -1,0 +1,8 @@
+2475-fmt,790-libuv
+gmock-gtest-all.cc,test-list.h,\test\gmock-gtest-all.cc,\test\test-list.h,176a284cd66ba91697e35520bb8dadd6,34c37e38fd3367fbe3d6e9280bf86a06,1992841858525747416,-7374645228437448676,8,N,6485,951,59
+chrono_duration.cpp,s5.c,\test\fuzzing\chrono_duration.cpp,\samples\socks5-proxy\s5.c,72440fd90a0d01848031589bb2a841a9,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127447228102871,6846020141864235479,8,N,129,221,41
+chrono_duration.cpp,handle-inl.h,\test\fuzzing\chrono_duration.cpp,\src\win\handle-inl.h,72440fd90a0d01848031589bb2a841a9,34080acd31e6a3b5bf545c24c6e85c3f,5729127447228102871,5729127442933135571,2,N,129,110,19
+one_arg.cpp,s5.c,\test\fuzzing\one_arg.cpp,\samples\socks5-proxy\s5.c,883cdbba8da3fa541c4927e1ea02ff22,cc133e56e5a931d4f7019c3ac0e6fcc9,2270360721499404501,6846020141864235479,8,N,117,221,30
+one_arg.cpp,handle-inl.h,\test\fuzzing\one_arg.cpp,\src\win\handle-inl.h,883cdbba8da3fa541c4927e1ea02ff22,34080acd31e6a3b5bf545c24c6e85c3f,2270360721499404501,5729127442933135571,6,N,117,110,19
+sprintf.cpp,handle-inl.h,\test\fuzzing\sprintf.cpp,\src\win\handle-inl.h,c2ddd179a4100129a6f72f09df658863,34080acd31e6a3b5bf545c24c6e85c3f,1117439216892295391,5729127442933135571,7,N,101,110,18
+two_args.cpp,handle-inl.h,\test\fuzzing\two_args.cpp,\src\win\handle-inl.h,c159700c6123fdba738f71e168dab048,34080acd31e6a3b5bf545c24c6e85c3f,1117439216892295391,5729127442933135571,7,N,97,110,18

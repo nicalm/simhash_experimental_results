@@ -1,0 +1,4 @@
+1818-SignalR,7747-Attendize
+jquery-1.8.2.js,jquery.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\jquery-1.8.2.js,\public\vendor\jquery-backstretch\libs\jquery\jquery.js,2465a22c4805d09b184a1e6cd4710fc3,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2304056349881632954,2304056349881632954,0,N,6537,6563,6481
+jquery-1.8.2.js,jquery.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\jquery-1.8.2.js,\public\vendor\jquery-backstretch\libs\jquery\jquery.js,2465a22c4805d09b184a1e6cd4710fc3,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2304056349881632954,2304056349881632954,0,N,6537,6563,6481
+jquery-1.6.4.js,jquery-1.7b2.js,\src\Microsoft.AspNet.SignalR.JS\Scripts\jquery-1.6.4.js,\public\vendor\modernizr\test\js\lib\jquery-1.7b2.js,96bf730f7e739634b385243912cee575,e06dfda2ee58d3143b712a96e78d9607,2305248442515816703,2287238991808682239,6,N,6208,6401,5582

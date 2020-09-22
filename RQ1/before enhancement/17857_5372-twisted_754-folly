@@ -1,0 +1,6 @@
+5372-twisted,754-folly
+raiser.c,CPortability.h,\src\twisted\test\raiser.c,\folly\CPortability.h,03329048f02326320ae3e07a7faee64c,2071cc58e111b1fb40fa47a9161f5356,-8023445050292381540,-8023445049756493156,4,N,3117,137,49
+raiser.c,Portability.h,\src\twisted\test\raiser.c,\folly\Portability.h,03329048f02326320ae3e07a7faee64c,4a7decd5a24ba7fccd761801e3ef4412,-8023445050292381540,-7447019619264177960,7,N,3117,392,126
+raiser.c,Stdlib.h,\src\twisted\test\raiser.c,\folly\portability\Stdlib.h,03329048f02326320ae3e07a7faee64c,9adbc370aa00b92c0cbb5c0cf514b964,-8023445050292381540,-8028512836321486692,8,N,3117,31,8
+raiser.c,SysUio.h,\src\twisted\test\raiser.c,\folly\portability\SysUio.h,03329048f02326320ae3e07a7faee64c,fd0233f243af7c24827c966c225b6eda,-8023445050292381540,-7744256783963336548,7,N,3117,21,6
+raiser.c,Windows.h,\src\twisted\test\raiser.c,\folly\portability\Windows.h,03329048f02326320ae3e07a7faee64c,8d255d6eb746df0dd20db480cd3643e5,-8023445050292381540,-8023516518011316068,3,N,3117,48,13

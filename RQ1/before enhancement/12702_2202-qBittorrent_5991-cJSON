@@ -1,0 +1,4 @@
+2202-qBittorrent,5991-cJSON
+application.cpp,unity_internals.h,\src\app\application.cpp,\tests\unity\src\unity_internals.h,1769f1c34b2b51e4c126498e3a0b5a58,c48f2ef9d57759a1fe49b445259832f1,-7445858400229599076,-8023445049755510628,5,N,573,652,44
+main.cpp,unity_internals.h,\src\app\main.cpp,\tests\unity\src\unity_internals.h,0ab876c235d091cc9321f5b26945d353,c48f2ef9d57759a1fe49b445259832f1,-8023445118508476260,-8023445049755510628,3,N,324,652,49
+mainwindow.cpp,unity_internals.h,\src\gui\mainwindow.cpp,\tests\unity\src\unity_internals.h,5cd96cef67869a501be59f5996fcb554,c48f2ef9d57759a1fe49b445259832f1,-9032396158224000868,-8023445049755510628,8,N,1634,652,70

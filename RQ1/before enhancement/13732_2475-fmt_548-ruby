@@ -1,0 +1,11 @@
+2475-fmt,548-ruby
+gmock-gtest-all.cc,mjit_worker.c,\test\gmock-gtest-all.cc,\mjit_worker.c,176a284cd66ba91697e35520bb8dadd6,d5a2c8dee573b4852d4495585fb6a546,1992841858525747416,-7915079520184117028,8,N,6485,885,187
+gmock-gtest-all.cc,util.h,\test\gmock-gtest-all.cc,\include\ruby\util.h,176a284cd66ba91697e35520bb8dadd6,a4fb3d83359d7f236cdd2a6ef813276d,1992841858525747416,-8023445204911204132,8,N,6485,62,19
+chrono_duration.cpp,addr2line.c,\test\fuzzing\chrono_duration.cpp,\addr2line.c,72440fd90a0d01848031589bb2a841a9,fc7560fdad1a6d0ec4929d7c254a229e,5729127447228102871,540949885910300886,7,N,129,2262,42
+chrono_duration.cpp,compile.c,\test\fuzzing\chrono_duration.cpp,\compile.c,72440fd90a0d01848031589bb2a841a9,bc7bdbb7e816d6c883e5f3f3cac151ca,5729127447228102871,5735320446496782549,8,N,129,9607,45
+chrono_duration.cpp,mktable.c,\test\fuzzing\chrono_duration.cpp,\enc\mktable.c,72440fd90a0d01848031589bb2a841a9,6e80fd9ac3332b04543cc42590b0f38e,5729127447228102871,5728846242565896439,5,N,129,984,39
+chrono_duration.cpp,closure.c,\test\fuzzing\chrono_duration.cpp,\ext\fiddle\closure.c,72440fd90a0d01848031589bb2a841a9,3d04248ca021f7b04c57c8fc682a56a1,5729127447228102871,5729127442932611285,3,N,129,259,36
+named_arg.cpp,closure.c,\test\fuzzing\named_arg.cpp,\ext\fiddle\closure.c,00aa34b86ac78c67b4d7e85b5321fbaf,3d04248ca021f7b04c57c8fc682a56a1,2270327736013994197,5729127442932611285,7,N,108,259,29
+one_arg.cpp,closure.c,\test\fuzzing\one_arg.cpp,\ext\fiddle\closure.c,883cdbba8da3fa541c4927e1ea02ff22,3d04248ca021f7b04c57c8fc682a56a1,2270360721499404501,5729127442932611285,5,N,117,259,34
+sprintf.cpp,closure.c,\test\fuzzing\sprintf.cpp,\ext\fiddle\closure.c,c2ddd179a4100129a6f72f09df658863,3d04248ca021f7b04c57c8fc682a56a1,1117439216892295391,5729127442932611285,6,N,101,259,26
+two_args.cpp,closure.c,\test\fuzzing\two_args.cpp,\ext\fiddle\closure.c,c159700c6123fdba738f71e168dab048,3d04248ca021f7b04c57c8fc682a56a1,1117439216892295391,5729127442932611285,6,N,97,259,25

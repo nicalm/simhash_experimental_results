@@ -1,0 +1,4 @@
+4482-nixpkgs,8874-collectd
+varlistentry-fixer.rb,collectd_unix_sock.rb,\nixos\doc\varlistentry-fixer.rb,\contrib\collectd_unix_sock.rb,7c9b04b507e300df4cd4363a9ae7a82b,f81cad324fa453619602e340c522f65a,-256049853468035414,-256049854541781462,3,N,52,49,12
+gem-post-build.rb,collectd_unix_sock.rb,\pkgs\development\ruby-modules\gem\gem-post-build.rb,\contrib\collectd_unix_sock.rb,fb5f7884dcf4a068ffadaae94ee4b0a1,f81cad324fa453619602e340c522f65a,-1048681018271254998,-256049854541781462,8,N,59,49,10
+nix-bundle-install.rb,collectd_unix_sock.rb,\pkgs\development\ruby-modules\gem\nix-bundle-install.rb,\contrib\collectd_unix_sock.rb,e1554dc806ee50397a1035d8c80a97c3,f81cad324fa453619602e340c522f65a,-256047655518521814,-256049854541781462,2,N,131,49,12

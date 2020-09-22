@@ -1,0 +1,4 @@
+2475-fmt,9023-zoneminder
+chrono_duration.cpp,control_functions.php,\test\fuzzing\chrono_duration.cpp,\web\includes\control_functions.php,72440fd90a0d01848031589bb2a841a9,c1201120aa45568b6a8a04c25886293a,5729127447228102871,-3494240195874867113,5,N,129,715,35
+sprintf.cpp,control_functions.php,\test\fuzzing\sprintf.cpp,\web\includes\control_functions.php,c2ddd179a4100129a6f72f09df658863,c1201120aa45568b6a8a04c25886293a,1117439216892295391,-3494240195874867113,8,N,101,715,21
+two_args.cpp,control_functions.php,\test\fuzzing\two_args.cpp,\web\includes\control_functions.php,c159700c6123fdba738f71e168dab048,c1201120aa45568b6a8a04c25886293a,1117439216892295391,-3494240195874867113,8,N,97,715,20

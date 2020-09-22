@@ -1,0 +1,6 @@
+13324-librenms,62850-ADOdb
+rewrites.php,adodb-pdo_firebird.inc.php,\includes\rewrites.php,\drivers\adodb-pdo_firebird.inc.php,5389d55c6eafa211ede2994f342bca9b,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,1602,333,98
+libvirt-vminfo.inc.php,adodb-pdo_firebird.inc.php,\includes\discovery\libvirt-vminfo.inc.php,\drivers\adodb-pdo_firebird.inc.php,bb4b3773cf786ace10a58f9ec481435e,9495b386496271e4936472af040fd5ea,5730182974087411863,5738134642182631639,8,N,112,333,32
+ports.csv.inc.php,adodb-pdo_firebird.inc.php,\includes\html\reports\ports.csv.inc.php,\drivers\adodb-pdo_firebird.inc.php,363f50b93f6f3f7b86ed810c407bde48,9495b386496271e4936472af040fd5ea,5729127512726350071,5738134642182631639,8,N,140,333,36
+viptela.inc.php,adodb-pdo_firebird.inc.php,\includes\polling\os\viptela.inc.php,\drivers\adodb-pdo_firebird.inc.php,c64de710870736d919a9de98ce834a46,9495b386496271e4936472af040fd5ea,5729127442928941271,5738134642182631639,3,N,48,333,24
+sensors.inc.php,adodb-pdo_firebird.inc.php,\includes\html\pages\health\sensors.inc.php,\drivers\adodb-pdo_firebird.inc.php,9bd00fc9a64f40b2fc247e4ec5f2b56a,9495b386496271e4936472af040fd5ea,5440897599356385494,5738134642182631639,8,N,98,333,19

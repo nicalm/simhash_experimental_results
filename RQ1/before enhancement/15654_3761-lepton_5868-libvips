@@ -1,0 +1,15 @@
+3761-lepton,5868-libvips
+test_harness.cc,init.c,\test_suite\test_harness.cc,\libvips\iofuncs\init.c,e289d2ef5a4a7ed63cb361e61d2bb017,e400d93356240e897bbc32ba27bdcd3b,-8023445050292381540,-9176930621544019780,7,N,121,636,30
+test_harness.cc,vector.c,\test_suite\test_harness.cc,\libvips\iofuncs\vector.c,e289d2ef5a4a7ed63cb361e61d2bb017,055954f4e165b83818f7e8bd6db904ec,-8023445050292381540,-8023484632710850404,3,N,121,400,31
+gzguts.h,buffer.c,\dependencies\zlib\gzguts.h,\libvips\iofuncs\buffer.c,481fcd67c1a74813d1e18ea86b0fb735,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,151,447,24
+gzguts.h,init.c,\dependencies\zlib\gzguts.h,\libvips\iofuncs\init.c,481fcd67c1a74813d1e18ea86b0fb735,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,151,636,38
+gzguts.h,vector.c,\dependencies\zlib\gzguts.h,\libvips\iofuncs\vector.c,481fcd67c1a74813d1e18ea86b0fb735,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,151,400,39
+zconf.h,buffer.c,\dependencies\zlib\zconf.h,\libvips\iofuncs\buffer.c,c89ff94ee23d020c7c9976f48a098fa0,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,403,447,22
+zconf.h,init.c,\dependencies\zlib\zconf.h,\libvips\iofuncs\init.c,c89ff94ee23d020c7c9976f48a098fa0,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,403,636,37
+zconf.h,vector.c,\dependencies\zlib\zconf.h,\libvips\iofuncs\vector.c,c89ff94ee23d020c7c9976f48a098fa0,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,403,400,41
+zutil.c,vector.c,\dependencies\zlib\zutil.c,\libvips\iofuncs\vector.c,d62c1317e7969756f542daacf0d4ba54,055954f4e165b83818f7e8bd6db904ec,-8023445084115248996,-8023484632710850404,5,N,245,400,70
+zutil.h,buffer.c,\dependencies\zlib\zutil.h,\libvips\iofuncs\buffer.c,278c42fe50334e51a072b9e9539f1a94,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,183,447,25
+zutil.h,init.c,\dependencies\zlib\zutil.h,\libvips\iofuncs\init.c,278c42fe50334e51a072b9e9539f1a94,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,183,636,38
+zutil.h,vector.c,\dependencies\zlib\zutil.h,\libvips\iofuncs\vector.c,278c42fe50334e51a072b9e9539f1a94,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,183,400,43
+port.h,init.c,\dependencies\brotli\c\include\brotli\port.h,\libvips\iofuncs\init.c,350994917b4cef7e95001ccfdd8a21d9,e400d93356240e897bbc32ba27bdcd3b,-9031978687939553124,-9176930621544019780,8,N,102,636,22
+port.h,vector.c,\dependencies\brotli\c\include\brotli\port.h,\libvips\iofuncs\vector.c,350994917b4cef7e95001ccfdd8a21d9,055954f4e165b83818f7e8bd6db904ec,-9031978687939553124,-8023484632710850404,6,N,102,400,24

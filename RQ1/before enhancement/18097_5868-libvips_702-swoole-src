@@ -1,0 +1,4 @@
+5868-libvips,702-swoole-src
+composite.cpp,swoole_http_parser.c,\libvips\conversion\composite.cpp,\thirdparty\swoole_http_parser.c,1073a16ac3f3888e7e8384f333542daa,d155f3ba8a7cdb53f79f34af305581eb,-3566301638204286473,5729127442933135575,7,N,1177,1234,188
+vector.c,swoole.cc,\libvips\iofuncs\vector.c,\swoole.cc,055954f4e165b83818f7e8bd6db904ec,51095f5d0c729dc304ea7d3b74a45710,-8023484632710850404,-8023444500268134244,7,N,400,735,98
+vector.c,swoole_socket_coro.cc,\libvips\iofuncs\vector.c,\swoole_socket_coro.cc,055954f4e165b83818f7e8bd6db904ec,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023484632710850404,-5699587642032351076,7,N,400,1368,94

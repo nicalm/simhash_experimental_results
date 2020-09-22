@@ -1,0 +1,7 @@
+12758-znc,3761-lepton
+version.h,test_harness.cc,\include\znc\version.h,\test_suite\test_harness.cc,d05809c29f032c998a444139c4f0d9ce,e289d2ef5a4a7ed63cb361e61d2bb017,-8023445187195380516,-8023445050292381540,6,N,43,121,9
+version.h,gzguts.h,\include\znc\version.h,\dependencies\zlib\gzguts.h,d05809c29f032c998a444139c4f0d9ce,481fcd67c1a74813d1e18ea86b0fb735,-8023445187195380516,-8023445049755510628,5,N,43,151,13
+version.h,zconf.h,\include\znc\version.h,\dependencies\zlib\zconf.h,d05809c29f032c998a444139c4f0d9ce,c89ff94ee23d020c7c9976f48a098fa0,-8023445187195380516,-8023445049755510628,5,N,43,403,13
+version.h,zutil.c,\include\znc\version.h,\dependencies\zlib\zutil.c,d05809c29f032c998a444139c4f0d9ce,d62c1317e7969756f542daacf0d4ba54,-8023445187195380516,-8023445084115248996,6,N,43,245,11
+version.h,zutil.h,\include\znc\version.h,\dependencies\zlib\zutil.h,d05809c29f032c998a444139c4f0d9ce,278c42fe50334e51a072b9e9539f1a94,-8023445187195380516,-8023445049755510628,5,N,43,183,13
+version.h,port.h,\include\znc\version.h,\dependencies\brotli\c\dec\port.h,d05809c29f032c998a444139c4f0d9ce,40b2fd74ac0fb05b9b3137ca6adfdec5,-8023445187195380516,-8023163576927266084,7,N,43,121,13

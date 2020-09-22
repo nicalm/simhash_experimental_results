@@ -1,0 +1,6 @@
+4420-zcash,7025-Stellar
+compat.h,Stellar-Swift.h,\src\compat.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,edca1c84c422d3accf71cf028f56730c,fafe37ab4771e0a9586e17224fcc7041,-8023445189341947748,-7743940123003924324,7,N,86,231,19
+byteswap.h,Stellar-Swift.h,\src\compat\byteswap.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,c8049a65823175e0cb720f771bece0d5,fafe37ab4771e0a9586e17224fcc7041,-8032452249010186084,-7743940123003924324,5,N,36,231,7
+endian.h,Stellar-Swift.h,\src\compat\endian.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,b0a1e77bc71959182a3b0854e64e46ad,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,160,231,30
+port_posix.h,Stellar-Swift.h,\src\leveldb\port\port_posix.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d5a83a65b2dd5184b4c812843c400a16,fafe37ab4771e0a9586e17224fcc7041,-8032804092731401572,-7743940123003924324,7,N,121,231,18
+thread_annotations.h,Stellar-Swift.h,\src\leveldb\port\thread_annotations.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,af9eee1ca47192126580ea56af3a4865,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,39,231,13

@@ -1,0 +1,6 @@
+1541-h2o,6422-roundcubemail
+logconf.c,rcube_tnef_decoder.php,\lib\core\logconf.c,\program\lib\Roundcube\rcube_tnef_decoder.php,938552448ad917655fb38241a71d87b8,8ca46cd084af91332151df25d1c4bd66,5693098645914163415,5729127442933266647,3,N,766,520,110
+logconf.c,rcube_sieve_script.php,\lib\core\logconf.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,938552448ad917655fb38241a71d87b8,3c3c719b9a27e12464461daf90f00d1d,5693098645914163415,5153229640599894231,7,N,766,1009,116
+expires.c,rcube_tnef_decoder.php,\lib\handler\expires.c,\program\lib\Roundcube\rcube_tnef_decoder.php,d35b403dc7aa28628e3b34f30d194ae7,8ca46cd084af91332151df25d1c4bd66,5694222348808923351,5729127442933266647,8,N,58,520,18
+codedump.c,rcube_tnef_decoder.php,\deps\mruby\src\codedump.c,\program\lib\Roundcube\rcube_tnef_decoder.php,7fda31add2a50b1a066d625a7cb020c0,8ca46cd084af91332151df25d1c4bd66,5729127442933135575,5729127442933266647,1,N,525,520,84
+codedump.c,rcube_sieve_script.php,\deps\mruby\src\codedump.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,7fda31add2a50b1a066d625a7cb020c0,3c3c719b9a27e12464461daf90f00d1d,5729127442933135575,5153229640599894231,5,N,525,1009,94

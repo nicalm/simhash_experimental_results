@@ -1,0 +1,11 @@
+14021-lxml,6285-ImageMagick
+etree_defs.h,coders-list.h,\src\lxml\includes\etree_defs.h,\coders\coders-list.h,77e60df86f933a8497d9a006ac09a2c9,da2167028ce6417787bcd9607b33ade8,-8023482433217963876,-7952513354550683492,6,N,319,173,21
+etree_defs.h,coders.h,\src\lxml\includes\etree_defs.h,\coders\coders.h,77e60df86f933a8497d9a006ac09a2c9,e381af91df37f3ca92c725e4d44a0aae,-8023482433217963876,-3411759031362725731,7,N,319,172,20
+etree_defs.h,animate-private.h,\src\lxml\includes\etree_defs.h,\MagickCore\animate-private.h,77e60df86f933a8497d9a006ac09a2c9,d4819217e3565dd01efc90635d9a2319,-8023482433217963876,-7771252266715785060,6,N,319,19,6
+etree_defs.h,magick-config.h,\src\lxml\includes\etree_defs.h,\MagickCore\magick-config.h,77e60df86f933a8497d9a006ac09a2c9,e63d3d83696985be12017660c957883e,-8023482433217963876,-8023445049755510628,3,N,319,185,42
+etree_defs.h,memory-private.h,\src\lxml\includes\etree_defs.h,\MagickCore\memory-private.h,77e60df86f933a8497d9a006ac09a2c9,aab1d1a813def572f4e9bd34d53215c7,-8023482433217963876,-7735252057124978468,7,N,319,29,10
+etree_defs.h,nt-base.h,\src\lxml\includes\etree_defs.h,\MagickCore\nt-base.h,77e60df86f933a8497d9a006ac09a2c9,6845456c26530905ede972637f7495b1,-8023482433217963876,-8023445049755510628,3,N,319,282,42
+etree_defs.h,studio.h,\src\lxml\includes\etree_defs.h,\MagickCore\studio.h,77e60df86f933a8497d9a006ac09a2c9,46305552c943ef349fb6bb741ecb832b,-8023482433217963876,-8023445049755510628,3,N,319,303,45
+etree_defs.h,version.c,\src\lxml\includes\etree_defs.h,\MagickCore\version.c,77e60df86f933a8497d9a006ac09a2c9,8294bca6e82e31c9d2d2bf5ed7898873,-8023482433217963876,-8023445049755510628,3,N,319,351,47
+etree_defs.h,studio.h,\src\lxml\includes\etree_defs.h,\MagickWand\studio.h,77e60df86f933a8497d9a006ac09a2c9,3315059cc1afe634209d06d5c6f78f4e,-8023482433217963876,-8023445049755510628,3,N,319,267,45
+etree_defs.h,Include.h,\src\lxml\includes\etree_defs.h,\Magick++\lib\Magick++\Include.h,77e60df86f933a8497d9a006ac09a2c9,d559a3b26c6dd77eb96cece9b06c01de,-8023482433217963876,-8023445049755510628,3,N,319,1393,48

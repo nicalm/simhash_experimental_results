@@ -1,0 +1,6 @@
+4984-jerryscript,9975-hexchat
+config.h,typedef.h,\jerry-core\config.h,\src\common\typedef.h,1610ce5e32380b97834532a2439ffb00,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,338,20,7
+jerryscript-compiler.h,typedef.h,\jerry-core\include\jerryscript-compiler.h,\src\common\typedef.h,6dc57bc479adf16d2b42cadd27f2edd3,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,73,20,6
+lit-magic-strings.inc.h,typedef.h,\jerry-core\lit\lit-magic-strings.inc.h,\src\common\typedef.h,d156bf64086a4a370f1f54301148fe60,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,920,20,7
+ecma-builtin-helpers-macro-defines.inc.h,typedef.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\src\common\typedef.h,0dde8629af7a79ff0576269e0d239a88,ad3525a10e4064f94c5205693b6e1c78,-8023445084115248996,-8059473984749774204,8,N,32,20,6
+js-parser-limits.h,typedef.h,\jerry-core\parser\js\js-parser-limits.h,\src\common\typedef.h,656369309984980286cea2eff0cb4741,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,51,20,7

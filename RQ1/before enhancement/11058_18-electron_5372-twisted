@@ -1,0 +1,7 @@
+18-electron,5372-twisted
+atom_main_delegate.cc,raiser.c,\shell\app\atom_main_delegate.cc,\src\twisted\test\raiser.c,6beb16be6a739f5598d443a18a5cbaa6,03329048f02326320ae3e07a7faee64c,-4997025687846725476,-8023445050292381540,7,N,249,3117,51
+atom_browser_main_parts.cc,raiser.c,\shell\browser\atom_browser_main_parts.cc,\src\twisted\test\raiser.c,4312360427f5f392ec4f692be2a7319a,03329048f02326320ae3e07a7faee64c,-8023445187194455912,-8023445050292381540,4,N,375,3117,76
+atom_paths.h,raiser.c,\shell\browser\atom_paths.h,\src\twisted\test\raiser.c,f62403bf230108c707f5e1273fdb321d,03329048f02326320ae3e07a7faee64c,-8023471436960835427,-8023445050292381540,5,N,33,3117,9
+atom_constants.h,raiser.c,\shell\common\atom_constants.h,\src\twisted\test\raiser.c,0413d754caa4e4d0755670d11164282c,03329048f02326320ae3e07a7faee64c,-9176368753659307892,-8023445050292381540,8,N,31,3117,5
+renderer_client_base.cc,raiser.c,\shell\renderer\renderer_client_base.cc,\src\twisted\test\raiser.c,d0d5771f27ecde6d75b1cf2555ca2003,03329048f02326320ae3e07a7faee64c,-8023449518660068932,-8023445050292381540,8,N,308,3117,55
+linux_syscall_support.h,raiser.c,\vendor\third_party\lss\linux_syscall_support.h,\src\twisted\test\raiser.c,d7c4a715ebced0be3633fcfd349a02ff,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,3833,3117,511

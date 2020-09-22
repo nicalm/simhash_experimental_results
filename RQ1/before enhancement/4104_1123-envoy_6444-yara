@@ -1,0 +1,9 @@
+1123-envoy,6444-yara
+header_utility.cc,pe_utils.c,\source\common\http\header_utility.cc,\libyara\modules\pe\pe_utils.c,81fefe2f52f9c90a5382f919c12d95a7,85b3b0e9639ebe8f194fd360aa44aa10,5693098645903681749,5729127442933135575,5,N,134,1795,34
+buffer_fuzz.cc,grammar.c,\test\common\buffer\buffer_fuzz.cc,\libyara\grammar.c,7151b07959a8cacb8c82ff437756a1c7,306ae4ed5d0a265782bc5a130c6f342f,1117441974261557335,5730252312047818967,8,N,401,3301,94
+buffer_fuzz.cc,pe_utils.c,\test\common\buffer\buffer_fuzz.cc,\libyara\modules\pe\pe_utils.c,7151b07959a8cacb8c82ff437756a1c7,85b3b0e9639ebe8f194fd360aa44aa10,1117441974261557335,5729127442933135575,4,N,401,1795,54
+header_map_impl_fuzz_test.cc,grammar.c,\test\common\http\header_map_impl_fuzz_test.cc,\libyara\grammar.c,2cd640c272d9bb6db5693ff62858ef92,306ae4ed5d0a265782bc5a130c6f342f,5729127442933135575,5730252312047818967,4,N,173,3301,51
+header_map_impl_fuzz_test.cc,pe_utils.c,\test\common\http\header_map_impl_fuzz_test.cc,\libyara\modules\pe\pe_utils.c,2cd640c272d9bb6db5693ff62858ef92,85b3b0e9639ebe8f194fd360aa44aa10,5729127442933135575,5729127442933135575,0,N,173,1795,49
+tap_config_base.cc,pe_utils.c,\source\extensions\common\tap\tap_config_base.cc,\libyara\modules\pe\pe_utils.c,3e951364e0bf73ec7b131db5be14b0f0,85b3b0e9639ebe8f194fd360aa44aa10,1121945015543183603,5729127442933135575,5,N,174,1795,40
+codec_impl.cc,grammar.c,\source\extensions\filters\network\common\redis\codec_impl.cc,\libyara\grammar.c,47c279138a906bf61f0065115ca3b2c6,306ae4ed5d0a265782bc5a130c6f342f,5747141981029054675,5730252312047818967,8,N,585,3301,182
+codec_impl.cc,pe_utils.c,\source\extensions\filters\network\common\redis\codec_impl.cc,\libyara\modules\pe\pe_utils.c,47c279138a906bf61f0065115ca3b2c6,85b3b0e9639ebe8f194fd360aa44aa10,5747141981029054675,5729127442933135575,4,N,585,1795,80

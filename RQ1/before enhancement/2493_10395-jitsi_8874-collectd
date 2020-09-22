@@ -1,0 +1,4 @@
+10395-jitsi,8874-collectd
+lzma.h,collectd.h,\src\native\windows\setup\include\lzma.h,\src\daemon\collectd.h,4ce48c8f939c04739c2c0b8409ca662f,2b583af2ee5d68797b260dc2234a9a80,-8023445049755510628,-8023445049755510628,0,N,121,198,37
+lzma.h,stdendian.h,\src\native\windows\setup\include\lzma.h,\src\libcollectdclient\collectd\stdendian.h,4ce48c8f939c04739c2c0b8409ca662f,098cf6af06fc9530aaf9936b14d4d802,-8023445049755510628,-8032521930559661924,5,N,121,165,31
+lzma.h,mount.h,\src\native\windows\setup\include\lzma.h,\src\utils\mount\mount.h,4ce48c8f939c04739c2c0b8409ca662f,8535c5ea598e2c2e046efd01984ce929,-8023445049755510628,-8023445049755510628,0,N,121,64,14

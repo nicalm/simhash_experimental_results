@@ -1,0 +1,15 @@
+10187-viabtc_exchange_server,6347-librealsense
+http_parser.c,depth-formats-converter.cpp,\utils\http_parser.c,\src\proc\depth-formats-converter.cpp,d09d117e8f6d43dee97217c802830c00,8d4c27fe684e451ca930c2a29b739ea5,5728845967956424919,5656788365286086743,8,N,1850,121,49
+http_parser.c,iconify.c,\utils\http_parser.c,\third-party\glfw\tests\iconify.c,d09d117e8f6d43dee97217c802830c00,4383e5e5067c1f0471c630b863bae2d6,5728845967956424919,5755937900105083095,7,N,1850,219,71
+fmacros.h,glext.h,\depends\hiredis\fmacros.h,\third-party\glad\glext.h,fa39b5b5c7b057e483d5dce607e953a2,b47c3053eb61af62c08dd7e6f45631ce,-7226589390687643492,-8023445049755510628,6,N,17,12110,5
+fmacros.h,tinycthread.h,\depends\hiredis\fmacros.h,\third-party\glfw\deps\tinycthread.h,fa39b5b5c7b057e483d5dce607e953a2,d64af4e68966d2e35effa48ebd7b3c79,-7226589390687643492,-8023444774877636452,8,N,17,138,5
+fmacros.h,win32_platform.h,\depends\hiredis\fmacros.h,\third-party\glfw\src\win32_platform.h,fa39b5b5c7b057e483d5dce607e953a2,2445649aade285164b3f3df9cb6b0b9c,-7226589390687643492,-8023445049755510628,6,N,17,324,5
+fmacros.h,_mingw_dxhelper.h,\depends\hiredis\fmacros.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,fa39b5b5c7b057e483d5dce607e953a2,5423da3108dd32be383352d8d6c55edb,-7226589390687643492,-9185092003762480996,8,N,17,102,5
+fmacros.h,stdint.h,\depends\hiredis\fmacros.h,\third-party\glfw\deps\vs2008\stdint.h,fa39b5b5c7b057e483d5dce607e953a2,0a9faad66f590c9572581753d453013e,-7226589390687643492,-8018800163019237220,8,N,17,152,5
+fmacros.h,vulkan.h,\depends\hiredis\fmacros.h,\third-party\glfw\deps\vulkan\vulkan.h,fa39b5b5c7b057e483d5dce607e953a2,368be8e566768753806bdc8cc0052fc3,-7226589390687643492,1163898190080301212,8,N,17,38,4
+fmacros.h,glfw3native.h,\depends\hiredis\fmacros.h,\third-party\glfw\include\GLFW\glfw3native.h,fa39b5b5c7b057e483d5dce607e953a2,c5d9fae34608972236a415167b8ed590,-7226589390687643492,-8023445051902996324,8,N,17,83,5
+fmacros.h,platform.h,\depends\hiredis\fmacros.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,fa39b5b5c7b057e483d5dce607e953a2,4f1f8bbdad0dc57a2bc7530ddc22297a,-7226589390687643492,-7879409026516887396,8,N,17,37,5
+win32.h,glext.h,\depends\hiredis\win32.h,\third-party\glad\glext.h,0ec99e391511695a9d7ef00f6d95b969,b47c3053eb61af62c08dd7e6f45631ce,-7880077529720759656,-8023445049755510628,8,N,32,12110,6
+win32.h,easylogging++.h,\depends\hiredis\win32.h,\third-party\easyloggingpp\src\easylogging++.h,0ec99e391511695a9d7ef00f6d95b969,a5e6b54e91368f83f029eaf8a7a4ca68,-7880077529720759656,-8023445049756558632,8,N,32,3696,9
+win32.h,win32_platform.h,\depends\hiredis\win32.h,\third-party\glfw\src\win32_platform.h,0ec99e391511695a9d7ef00f6d95b969,2445649aade285164b3f3df9cb6b0b9c,-7880077529720759656,-8023445049755510628,8,N,32,324,7
+win32.h,platform.h,\depends\hiredis\win32.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,0ec99e391511695a9d7ef00f6d95b969,4f1f8bbdad0dc57a2bc7530ddc22297a,-7880077529720759656,-7879409026516887396,8,N,32,37,8

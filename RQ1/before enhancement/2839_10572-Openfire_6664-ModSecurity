@@ -1,0 +1,5 @@
+10572-Openfire,6664-ModSecurity
+ProfiledConnection.java,seclang-parser.cc,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\parser\seclang-parser.cc,82b3cca56b0b2195d9beda1ef5898c9c,c95834041ac82565ed4d4a4bccd1b864,5747704796764879063,5729127442933135575,5,N,828,6079,247
+ProfiledConnection.java,phase.h,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\utils\phase.h,82b3cca56b0b2195d9beda1ef5898c9c,a09f3ae3e8191f752c4eb96a4ac598b6,5747704796764879063,-1170387186198464297,6,N,828,38,11
+GroupEventDispatcher.java,seclang-parser.cc,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\parser\seclang-parser.cc,68bd878d44b313df2afdd340fe0c0022,c95834041ac82565ed4d4a4bccd1b864,8016956053561850069,5729127442933135575,6,N,73,6079,28
+GroupEventDispatcher.java,phase.h,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\utils\phase.h,68bd878d44b313df2afdd340fe0c0022,a09f3ae3e8191f752c4eb96a4ac598b6,8016956053561850069,-1170387186198464297,5,N,73,38,11

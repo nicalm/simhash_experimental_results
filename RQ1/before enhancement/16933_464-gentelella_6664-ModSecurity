@@ -1,0 +1,4 @@
+464-gentelella,6664-ModSecurity
+fastclick.js,severity.cc,\vendors\fastclick\lib\fastclick.js,\src\actions\severity.cc,10e704e561b407955f273819d083b958,497d4e061fc56cdefb643c5f6d57a643,6644123427968739771,6717025446861306266,8,N,400,62,19
+globalize.js,seclang-parser.cc,\vendors\Flot\lib\globalize.js,\src\parser\seclang-parser.cc,5859e34a6af3806758409c1cf6b6a681,c95834041ac82565ed4d4a4bccd1b864,5728855313755060435,5729127442933135575,7,N,1177,6079,235
+pathSvgToVml.js,seclang-parser.cc,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\src\parser\seclang-parser.cc,33048ad2c45faa5606888ee3add887d1,c95834041ac82565ed4d4a4bccd1b864,5730112596751329503,5729127442933135575,8,N,86,6079,18

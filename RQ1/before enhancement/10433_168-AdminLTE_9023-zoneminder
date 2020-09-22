@@ -1,0 +1,7 @@
+168-AdminLTE,9023-zoneminder
+bootstrap-slider.js,DboSource.php,\plugins\bootstrap-slider\bootstrap-slider.js,\web\api\lib\Cake\Model\Datasource\DboSource.php,af49296e52554876cf4e6ffd0cd03f93,4eff3484b9fe1f110a95fe89c141dba7,1438239474561173695,1728717321203731134,7,N,1598,2293,300
+fastclick.js,TestAppLibSession.php,\plugins\fastclick\fastclick.js,\web\api\lib\Cake\Test\test_app\Model\Datasource\Session\TestAppLibSession.php,10e704e561b407955f273819d083b958,32c509f69603825d44507f7d307bbdb0,6644123427968739771,6644967852822854041,8,N,400,22,12
+jquery.js,jquery-2.2.4.js,\plugins\jquery\jquery.js,\web\skins\classic\js\jquery-2.2.4.js,311eed38e0fec2e67636d359582a60a2,873078bab9178d67c4f433ce6c7b409d,2287237669226627834,2286076584947696382,3,N,6800,6395,5610
+jquery-ui.js,jquery-ui.js,\plugins\jquery-ui\jquery-ui.js,\web\skins\classic\js\jquery-ui-1.12.1\jquery-ui.js,ca6d917d8229472b85ee6aa83ea5643b,ca6d917d8229472b85ee6aa83ea5643b,3998495044258793919,3998495044258793919,0,Y,13645,13645,13645
+jquery.js,jquery-2.2.4.js,\docs\assets\plugins\jquery\jquery.js,\web\skins\classic\js\jquery-2.2.4.js,311eed38e0fec2e67636d359582a60a2,873078bab9178d67c4f433ce6c7b409d,2287237669226627834,2286076584947696382,3,N,6800,6395,5610
+jquery.js,jquery-2.2.4.js,\plugins\jquery-ui\external\jquery\jquery.js,\web\skins\classic\js\jquery-2.2.4.js,ae1e5b8c6eef12741e6ec92c4832348b,873078bab9178d67c4f433ce6c7b409d,2287167437921927934,2286076584947696382,5,N,7095,6395,5939

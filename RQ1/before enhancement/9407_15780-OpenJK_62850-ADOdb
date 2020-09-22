@@ -1,0 +1,7 @@
+15780-OpenJK,62850-ADOdb
+cg_event.cpp,adodb-pdo_firebird.inc.php,\code\cgame\cg_event.cpp,\drivers\adodb-pdo_firebird.inc.php,191fe31a41d45e7efbf90723e529525a,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,838,333,100
+ui_saber.cpp,adodb-pdo_firebird.inc.php,\code\ui\ui_saber.cpp,\drivers\adodb-pdo_firebird.inc.php,9039f84962d47fb0e00d314ab3574b77,9495b386496271e4936472af040fd5ea,5740104967024816375,5738134642182631639,6,N,773,333,99
+cg_event.cpp,adodb-pdo_firebird.inc.php,\codeJK2\cgame\cg_event.cpp,\drivers\adodb-pdo_firebird.inc.php,9838700c0fd7963df66b73449d8cfb38,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,795,333,100
+cg_event.c,adodb-pdo_firebird.inc.php,\codemp\cgame\cg_event.c,\drivers\adodb-pdo_firebird.inc.php,9aeab967431d65151304e0217ee67743,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,2847,333,104
+cg_newDraw.c,adodb-pdo_firebird.inc.php,\codemp\cgame\cg_newDraw.c,\drivers\adodb-pdo_firebird.inc.php,7361f5d64da86f1669d178776bce91ba,9495b386496271e4936472af040fd5ea,5729127442924746967,5738134642182631639,5,N,705,333,99
+ui_saber.c,adodb-pdo_firebird.inc.php,\codemp\ui\ui_saber.c,\drivers\adodb-pdo_firebird.inc.php,3416c596f4ae39e2af5bca012fd29c7f,9495b386496271e4936472af040fd5ea,5737853167211131127,5738134642182631639,5,N,643,333,100

@@ -1,0 +1,11 @@
+13956-dolibarr,60276-esp-homekit-devices
+mode-jsoniq.js,server.c,\htdocs\includes\ace\mode-jsoniq.js,\external_libs\homekit\src\server.c,37f1d23156f57463f77c9617d82b6c79,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,2456,2760,238
+mode-xquery.js,server.c,\htdocs\includes\ace\mode-xquery.js,\external_libs\homekit\src\server.c,766b4d399e9a1542f921d9fbf7d11e34,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,2465,2760,239
+worker-xquery.js,server.c,\htdocs\includes\ace\worker-xquery.js,\external_libs\homekit\src\server.c,e75b1566057234cf35013b5e440360f6,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,55380,2760,500
+timezone.php,server.c,\htdocs\includes\geoip\timezone.php,\external_libs\homekit\src\server.c,e2e2aa858af909359ad7e2a518530710,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,2236,2760,126
+PrintIPP.php,server.c,\htdocs\includes\printipp\PrintIPP.php,\external_libs\homekit\src\server.c,ba96bd5b1d8975d6966e4310acceb4c7,2990568b8a7ba71db910a0248e93548d,5152385215652968663,5157099981642415315,7,N,1760,2760,337
+Gnumeric.php,server.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Gnumeric.php,\external_libs\homekit\src\server.c,c6e1ba54482dcbe391dc296bdd4ced2e,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,667,2760,180
+Xls.php,server.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Xls.php,\external_libs\homekit\src\server.c,38181ae7a7702b3147c1db4505f2cca7,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,4711,2760,491
+Worksheet.php,server.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Writer\Xls\Worksheet.php,\external_libs\homekit\src\server.c,e79ec4c5b71b2dd77d534a5bf5116181,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,2752,2760,414
+Gnumeric.php,server.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\Gnumeric.php,\external_libs\homekit\src\server.c,f2dc63a454a4194615d8215a3f130fac,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,664,2760,189
+SYLK.php,server.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\SYLK.php,\external_libs\homekit\src\server.c,78e73625ab16621f946eb9c153022919,2990568b8a7ba71db910a0248e93548d,5152666690629712087,5157099981642415315,7,N,265,2760,76

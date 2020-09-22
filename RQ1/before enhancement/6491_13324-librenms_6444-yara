@@ -1,0 +1,13 @@
+13324-librenms,6444-yara
+rewrites.php,grammar.c,\includes\rewrites.php,\libyara\grammar.c,5389d55c6eafa211ede2994f342bca9b,306ae4ed5d0a265782bc5a130c6f342f,5729127442933135575,5730252312047818967,4,N,1602,3301,175
+rewrites.php,pe_utils.c,\includes\rewrites.php,\libyara\modules\pe\pe_utils.c,5389d55c6eafa211ede2994f342bca9b,85b3b0e9639ebe8f194fd360aa44aa10,5729127442933135575,5729127442933135575,0,N,1602,1795,126
+libvirt-vminfo.inc.php,grammar.c,\includes\discovery\libvirt-vminfo.inc.php,\libyara\grammar.c,bb4b3773cf786ace10a58f9ec481435e,306ae4ed5d0a265782bc5a130c6f342f,5730182974087411863,5730252312047818967,6,N,112,3301,28
+libvirt-vminfo.inc.php,pe_utils.c,\includes\discovery\libvirt-vminfo.inc.php,\libyara\modules\pe\pe_utils.c,bb4b3773cf786ace10a58f9ec481435e,85b3b0e9639ebe8f194fd360aa44aa10,5730182974087411863,5729127442933135575,4,N,112,1795,28
+ports.csv.inc.php,grammar.c,\includes\html\reports\ports.csv.inc.php,\libyara\grammar.c,363f50b93f6f3f7b86ed810c407bde48,306ae4ed5d0a265782bc5a130c6f342f,5729127512726350071,5730252312047818967,6,N,140,3301,34
+ports.csv.inc.php,pe_utils.c,\includes\html\reports\ports.csv.inc.php,\libyara\modules\pe\pe_utils.c,363f50b93f6f3f7b86ed810c407bde48,85b3b0e9639ebe8f194fd360aa44aa10,5729127512726350071,5729127442933135575,4,N,140,1795,34
+viptela.inc.php,grammar.c,\includes\polling\os\viptela.inc.php,\libyara\grammar.c,c64de710870736d919a9de98ce834a46,306ae4ed5d0a265782bc5a130c6f342f,5729127442928941271,5730252312047818967,5,N,48,3301,22
+viptela.inc.php,pe_utils.c,\includes\polling\os\viptela.inc.php,\libyara\modules\pe\pe_utils.c,c64de710870736d919a9de98ce834a46,85b3b0e9639ebe8f194fd360aa44aa10,5729127442928941271,5729127442933135575,1,N,48,1795,29
+AdvaSysAlmTrap.php,pe_utils.c,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,\libyara\modules\pe\pe_utils.c,56f813b9379330897dbc82d45cf9f46e,85b3b0e9639ebe8f194fd360aa44aa10,1121945025240414455,5729127442933135575,5,N,32,1795,11
+linux.inc.php,pe_utils.c,\includes\discovery\sensors\state\linux.inc.php,\libyara\modules\pe\pe_utils.c,f9f2f629ba22b31deca0a4fa8d6f22cc,85b3b0e9639ebe8f194fd360aa44aa10,5747071472597776631,5729127442933135575,5,N,39,1795,11
+toner.inc.php,pe_utils.c,\includes\html\graphs\device\toner.inc.php,\libyara\modules\pe\pe_utils.c,14df19f7caa79129a9551c99a2471503,85b3b0e9639ebe8f194fd360aa44aa10,5731379235161422023,5729127442933135575,6,N,45,1795,11
+sensors.inc.php,pe_utils.c,\includes\html\pages\health\sensors.inc.php,\libyara\modules\pe\pe_utils.c,9bd00fc9a64f40b2fc247e4ec5f2b56a,85b3b0e9639ebe8f194fd360aa44aa10,5440897599356385494,5729127442933135575,6,N,98,1795,18

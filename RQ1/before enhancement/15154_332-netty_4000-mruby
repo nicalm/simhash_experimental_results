@@ -1,0 +1,5 @@
+332-netty,4000-mruby
+SocksCmdRequest.java,proto_to_ruby.cpp,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\oss-fuzz\proto_to_ruby.cpp,cd6c11dc97231f03956166b9ce5143be,343a45cf3c8497b45182f0170dd23cc0,5693098603517689047,5729127442933135575,8,N,83,431,23
+SocksCmdRequest.java,codedump.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\src\codedump.c,cd6c11dc97231f03956166b9ce5143be,838fd904bb528b1b9ebdfc72d4fd5069,5693098603517689047,5729127442933135575,8,N,83,525,23
+XmlDecoder.java,proto_to_ruby.cpp,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\oss-fuzz\proto_to_ruby.cpp,19ac8fd899723cb5b1efea0f9d7dc639,343a45cf3c8497b45182f0170dd23cc0,5729694790866091155,5729127442933135575,7,N,87,431,19
+XmlDecoder.java,codedump.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\src\codedump.c,19ac8fd899723cb5b1efea0f9d7dc639,838fd904bb528b1b9ebdfc72d4fd5069,5729694790866091155,5729127442933135575,7,N,87,525,19

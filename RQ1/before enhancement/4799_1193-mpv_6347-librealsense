@@ -1,0 +1,9 @@
+1193-mpv,6347-librealsense
+io.h,glext.h,\osdep\io.h,\third-party\glad\glext.h,1e5b614f4ca8f110251d3d969bd9fa84,b47c3053eb61af62c08dd7e6f45631ce,-5573522037410505572,-8023445049755510628,8,N,147,12110,17
+io.h,win32_platform.h,\osdep\io.h,\third-party\glfw\src\win32_platform.h,1e5b614f4ca8f110251d3d969bd9fa84,2445649aade285164b3f3df9cb6b0b9c,-5573522037410505572,-8023445049755510628,8,N,147,324,14
+img_format.c,win-helpers.cpp,\video\img_format.c,\src\win\win-helpers.cpp,b8fb095981c27ffc17dd307c6a5fa95e,8c8bc33100d821f444c03e660052ed39,1647238422842852271,1395177581198528942,8,N,416,799,100
+img_format.c,validate_face.h,\video\img_format.c,\wrappers\dlib\face\validate_face.h,b8fb095981c27ffc17dd307c6a5fa95e,b5d0b4d6660310a322b59b410744d0ed,1647238422842852271,-7792288799644695634,6,N,416,75,23
+context.c,glext.h,\video\out\gpu\context.c,\third-party\glad\glext.h,54249a4a32b8a7f1f708836246c0e394,b47c3053eb61af62c08dd7e6f45631ce,-9176401463991052147,-8023445049755510628,8,N,162,12110,18
+context.c,tinycthread.h,\video\out\gpu\context.c,\third-party\glfw\deps\tinycthread.h,54249a4a32b8a7f1f708836246c0e394,d64af4e68966d2e35effa48ebd7b3c79,-9176401463991052147,-8023444774877636452,6,N,162,138,17
+context.c,win32_platform.h,\video\out\gpu\context.c,\third-party\glfw\src\win32_platform.h,54249a4a32b8a7f1f708836246c0e394,2445649aade285164b3f3df9cb6b0b9c,-9176401463991052147,-8023445049755510628,8,N,162,324,20
+context.c,_mingw_dxhelper.h,\video\out\gpu\context.c,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,54249a4a32b8a7f1f708836246c0e394,5423da3108dd32be383352d8d6c55edb,-9176401463991052147,-9185092003762480996,8,N,162,102,16

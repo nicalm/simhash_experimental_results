@@ -1,0 +1,5 @@
+2475-fmt,305-symfony
+chrono_duration.cpp,IpValidator.php,\test\fuzzing\chrono_duration.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,72440fd90a0d01848031589bb2a841a9,7ca48c5d09328c72e03da3c6a432f9bf,5729127447228102871,5746860357875939543,5,N,129,69,22
+one_arg.cpp,IpValidator.php,\test\fuzzing\one_arg.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,883cdbba8da3fa541c4927e1ea02ff22,7ca48c5d09328c72e03da3c6a432f9bf,2270360721499404501,5746860357875939543,7,N,117,69,22
+sprintf.cpp,IpValidator.php,\test\fuzzing\sprintf.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,c2ddd179a4100129a6f72f09df658863,7ca48c5d09328c72e03da3c6a432f9bf,1117439216892295391,5746860357875939543,8,N,101,69,20
+two_args.cpp,IpValidator.php,\test\fuzzing\two_args.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,c159700c6123fdba738f71e168dab048,7ca48c5d09328c72e03da3c6a432f9bf,1117439216892295391,5746860357875939543,8,N,97,69,20

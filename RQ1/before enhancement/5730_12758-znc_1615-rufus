@@ -1,0 +1,6 @@
+12758-znc,1615-rufus
+version.h,platform.h,\include\znc\version.h,\src\bled\platform.h,d05809c29f032c998a444139c4f0d9ce,4803e652bfbf4addc3c84e9e9999b1da,-8023445187195380516,-8023445049755510628,5,N,43,498,13
+version.h,xz_private.h,\include\znc\version.h,\src\bled\xz_private.h,d05809c29f032c998a444139c4f0d9ce,db6ba9d9b9fa82c4cf6044eeacf20401,-8023445187195380516,-8023515418482911076,7,N,43,89,13
+version.h,ext2_types.h,\include\znc\version.h,\src\ext2fs\ext2_types.h,d05809c29f032c998a444139c4f0d9ce,aa5bcf70705ef8ee9519acce6afc4f5c,-8023445187195380516,-8023462641941489508,7,N,43,67,9
+version.h,filemode.h,\include\znc\version.h,\src\libcdio\driver\filemode.h,d05809c29f032c998a444139c4f0d9ce,06b5d0649b21446c0f1f114dfa58b605,-8023445187195380516,-8023445049755510628,5,N,43,105,13
+version.h,portable.h,\include\znc\version.h,\src\libcdio\driver\portable.h,d05809c29f032c998a444139c4f0d9ce,709f07965666c155709172c5f0830375,-8023445187195380516,-8023449447802021732,6,N,43,26,8

@@ -1,0 +1,4 @@
+12758-znc,1460-iTerm2
+version.h,ini.h,\include\znc\version.h,\ThirdParty\inih\ini.h,d05809c29f032c998a444139c4f0d9ce,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445187195380516,-8023445049755510564,4,N,43,57,9
+version.h,BetterFontPicker-Swift.h,\include\znc\version.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,d05809c29f032c998a444139c4f0d9ce,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445187195380516,-8023479959251789668,8,N,43,335,13
+znc.py,cparse.py,\modules\modpython\znc.py,\tools\ply\ply-3.4\example\ansic\cparse.py,4a5b1d05db940e699bac8d83cbaf501d,3156018cb43687fb173027636b1a41eb,9217320431243133317,9217329227336156549,2,N,722,504,100

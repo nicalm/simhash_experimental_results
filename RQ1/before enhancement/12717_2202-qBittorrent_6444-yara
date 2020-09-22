@@ -1,0 +1,16 @@
+2202-qBittorrent,6444-yara
+application.cpp,hex_grammar.c,\src\app\application.cpp,\libyara\hex_grammar.c,1769f1c34b2b51e4c126498e3a0b5a58,29c757a687084bfae5a2dc6bb31b05e5,-7445858400229599076,-9185373754145580836,8,N,573,1251,142
+application.cpp,endian.h,\src\app\application.cpp,\libyara\include\yara\endian.h,1769f1c34b2b51e4c126498e3a0b5a58,f44500c257dc9e47f34b1473280aea77,-7445858400229599076,-8023445049755510628,5,N,573,55,15
+application.cpp,integers.h,\src\app\application.cpp,\libyara\include\yara\integers.h,1769f1c34b2b51e4c126498e3a0b5a58,f8e220916ba72c943da73bf32049b841,-7445858400229599076,-8023445049755510628,5,N,573,57,18
+application.cpp,limits.h,\src\app\application.cpp,\libyara\include\yara\limits.h,1769f1c34b2b51e4c126498e3a0b5a58,1b76e5cbfb6a87b1b52e9aef743d23ec,-7445858400229599076,-8023445049755510628,5,N,573,77,25
+main.cpp,hex_grammar.c,\src\app\main.cpp,\libyara\hex_grammar.c,0ab876c235d091cc9321f5b26945d353,29c757a687084bfae5a2dc6bb31b05e5,-8023445118508476260,-9185373754145580836,8,N,324,1251,80
+main.cpp,endian.h,\src\app\main.cpp,\libyara\include\yara\endian.h,0ab876c235d091cc9321f5b26945d353,f44500c257dc9e47f34b1473280aea77,-8023445118508476260,-8023445049755510628,3,N,324,55,15
+main.cpp,integers.h,\src\app\main.cpp,\libyara\include\yara\integers.h,0ab876c235d091cc9321f5b26945d353,f8e220916ba72c943da73bf32049b841,-8023445118508476260,-8023445049755510628,3,N,324,57,18
+main.cpp,limits.h,\src\app\main.cpp,\libyara\include\yara\limits.h,0ab876c235d091cc9321f5b26945d353,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445118508476260,-8023445049755510628,3,N,324,77,25
+main.cpp,strutils.h,\src\app\main.cpp,\libyara\include\yara\strutils.h,0ab876c235d091cc9321f5b26945d353,62646260db13811e153f2c59cbdfb33a,-8023445118508476260,-8023518717034571368,8,N,324,59,12
+mainwindow.cpp,endian.h,\src\gui\mainwindow.cpp,\libyara\include\yara\endian.h,5cd96cef67869a501be59f5996fcb554,f44500c257dc9e47f34b1473280aea77,-9032396158224000868,-8023445049755510628,8,N,1634,55,15
+mainwindow.cpp,integers.h,\src\gui\mainwindow.cpp,\libyara\include\yara\integers.h,5cd96cef67869a501be59f5996fcb554,f8e220916ba72c943da73bf32049b841,-9032396158224000868,-8023445049755510628,8,N,1634,57,18
+mainwindow.cpp,limits.h,\src\gui\mainwindow.cpp,\libyara\include\yara\limits.h,5cd96cef67869a501be59f5996fcb554,1b76e5cbfb6a87b1b52e9aef743d23ec,-9032396158224000868,-8023445049755510628,8,N,1634,77,26
+session.cpp,pe_utils.c,\src\base\bittorrent\session.cpp,\libyara\modules\pe\pe_utils.c,ca3fc73b6732798b8724618e8c3fec27,85b3b0e9639ebe8f194fd360aa44aa10,6881978578661030105,5729127442933135575,8,N,3742,1795,135
+proplistdelegate.cpp,grammar.c,\src\gui\properties\proplistdelegate.cpp,\libyara\grammar.c,4de60f6b36141f92c2bc5ba3d77471db,306ae4ed5d0a265782bc5a130c6f342f,-3494526068898088747,5730252312047818967,8,N,172,3301,53
+proplistdelegate.cpp,pe_utils.c,\src\gui\properties\proplistdelegate.cpp,\libyara\modules\pe\pe_utils.c,4de60f6b36141f92c2bc5ba3d77471db,85b3b0e9639ebe8f194fd360aa44aa10,-3494526068898088747,5729127442933135575,4,N,172,1795,54

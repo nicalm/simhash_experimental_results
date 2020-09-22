@@ -1,0 +1,7 @@
+140-neovim,2578-calibre
+func_attr.h,lzxc.c,\src\nvim\func_attr.h,\src\calibre\utils\lzx\lzxc.c,09c1a1629d6fa1c24e2cb5acdc7bfde8,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,159,1033,36
+func_attr.h,msstdint.h,\src\nvim\func_attr.h,\src\calibre\utils\lzx\msstdint.h,09c1a1629d6fa1c24e2cb5acdc7bfde8,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,159,138,14
+vim.h,lzxc.c,\src\nvim\vim.h,\src\calibre\utils\lzx\lzxc.c,063f51630c5bc51971152a00ff86b82c,5148bebfcfad4cb4119b4e362bc0686f,-8059237438889600868,-8059473846773950244,8,N,196,1033,16
+signal.c,lzxc.c,\src\nvim\os\signal.c,\src\calibre\utils\lzx\lzxc.c,fb1b9787087855284d84fda5e08694ba,5148bebfcfad4cb4119b4e362bc0686f,-8023445041727612780,-8059473846773950244,8,N,160,1033,43
+win_defs.h,lzxc.c,\src\nvim\os\win_defs.h,\src\calibre\utils\lzx\lzxc.c,559a6dc04630310a39a09d004fb6797d,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,84,1033,26
+win_defs.h,msstdint.h,\src\nvim\os\win_defs.h,\src\calibre\utils\lzx\msstdint.h,559a6dc04630310a39a09d004fb6797d,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,84,138,16

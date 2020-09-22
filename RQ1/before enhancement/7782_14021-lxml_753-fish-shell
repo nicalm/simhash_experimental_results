@@ -1,0 +1,6 @@
+14021-lxml,753-fish-shell
+etree_defs.h,fallback.cpp,\src\lxml\includes\etree_defs.h,\src\fallback.cpp,77e60df86f933a8497d9a006ac09a2c9,1b6445406eb257908b35a55b17aedfd8,-8023482433217963876,-9176406128190498660,6,N,319,266,37
+etree_defs.h,fallback.h,\src\lxml\includes\etree_defs.h,\src\fallback.h,77e60df86f933a8497d9a006ac09a2c9,7d4055698e8c91d9fd4be969475abb0c,-8023482433217963876,-8023446699022952292,3,N,319,118,31
+etree_defs.h,signal.cpp,\src\lxml\includes\etree_defs.h,\src\signal.cpp,77e60df86f933a8497d9a006ac09a2c9,2e09e582bf373788324ac911fde75809,-8023482433217963876,-8023445049755510632,4,N,319,322,46
+etree_defs.h,sljitConfig.h,\src\lxml\includes\etree_defs.h,\pcre2-10.32\src\sljit\sljitConfig.h,77e60df86f933a8497d9a006ac09a2c9,4670eeabf25cc1becfd2eb7244181998,-8023482433217963876,-8023445049755445096,5,N,319,33,11
+etree_defs.h,sljitConfigInternal.h,\src\lxml\includes\etree_defs.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,77e60df86f933a8497d9a006ac09a2c9,fd5d86ef9f2b9d9589cb00af7963629f,-8023482433217963876,-8023515418499688420,5,N,319,429,51

@@ -1,0 +1,6 @@
+10081-irssi,9776-gaia
+otr-ops.c,orientation.js,\src\otr\otr-ops.c,\dev_apps\uitest\js\API\orientation.js,78f1f6c5943450ae1c92e51ced46839e,7f674abe2d64a83f3c5f7fc6b2372c43,1117440324994119895,5729127442933135575,2,N,248,55,18
+otr-ops.c,lcd.js,\src\otr\otr-ops.c,\dev_apps\uitest\js\HW\lcd.js,78f1f6c5943450ae1c92e51ced46839e,3ab7d944f9f63d991cca7c6b1fe0faa4,1117440324994119895,973255871980679315,7,N,248,62,9
+formats.c,orientation.js,\src\fe-common\core\formats.c,\dev_apps\uitest\js\API\orientation.js,81ad733fd560a7711254766564a4d1b4,7f674abe2d64a83f3c5f7fc6b2372c43,5729127511652612311,5729127442933135575,1,N,1160,55,18
+formats.c,lcd.js,\src\fe-common\core\formats.c,\dev_apps\uitest\js\HW\lcd.js,81ad733fd560a7711254766564a4d1b4,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127511652612311,973255871980679315,8,N,1160,62,8
+formats.c,pdf.worker.js,\src\fe-common\core\formats.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,81ad733fd560a7711254766564a4d1b4,0b5f788a191b12bb182b6955242c5ffb,5729127511652612311,6899975385106659575,8,N,1160,37193,303

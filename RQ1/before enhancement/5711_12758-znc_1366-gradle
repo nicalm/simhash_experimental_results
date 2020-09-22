@@ -1,0 +1,4 @@
+12758-znc,1366-gradle
+znc.cpp,SortedMapDiffUtil.java,\src\znc.cpp,\subprojects\execution\src\main\java\org\gradle\internal\execution\history\changes\SortedMapDiffUtil.java,d5cdf0084974a39502b7410578dff912,880d26e15a3fe18ab61b4e948fc71c52,1395476652689473967,2296055836363473838,8,N,1700,68,33
+version.h,gtest-port.h,\include\znc\version.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,d05809c29f032c998a444139c4f0d9ce,23446e26c2aacb9eb58191ae642bfa7a,-8023445187195380516,-7879329861679654756,6,N,43,906,13
+version.h,gtest-port.h,\include\znc\version.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,d05809c29f032c998a444139c4f0d9ce,23446e26c2aacb9eb58191ae642bfa7a,-8023445187195380516,-7879329861679654756,6,N,43,906,13

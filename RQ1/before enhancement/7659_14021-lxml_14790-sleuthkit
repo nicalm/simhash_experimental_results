@@ -1,0 +1,5 @@
+14021-lxml,14790-sleuthkit
+etree_defs.h,dfxml.cpp,\src\lxml\includes\etree_defs.h,\tools\fiwalk\src\dfxml.cpp,77e60df86f933a8497d9a006ac09a2c9,eb50b8530f9308f16c36524fddd2f5b8,-8023482433217963876,-8023587986267121524,4,N,319,386,50
+etree_defs.h,fiwalk.h,\src\lxml\includes\etree_defs.h,\tools\fiwalk\src\fiwalk.h,77e60df86f933a8497d9a006ac09a2c9,039566552f931dc82d647dc4de6b0327,-8023482433217963876,-8023585796102236012,8,N,319,114,17
+etree_defs.h,regex_internal.h,\src\lxml\includes\etree_defs.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,77e60df86f933a8497d9a006ac09a2c9,478b58ddf6d6e1e730d1b30c2f09b9d2,-8023482433217963876,-8023445051928094564,7,N,319,587,54
+etree_defs.h,file.h,\src\lxml\includes\etree_defs.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,77e60df86f933a8497d9a006ac09a2c9,d22799caeaddf83c099f19cf401487da,-8023482433217963876,-8023445049755510568,5,N,319,402,46

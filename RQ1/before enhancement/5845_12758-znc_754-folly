@@ -1,0 +1,5 @@
+12758-znc,754-folly
+version.h,CPortability.h,\include\znc\version.h,\folly\CPortability.h,d05809c29f032c998a444139c4f0d9ce,2071cc58e111b1fb40fa47a9161f5356,-8023445187195380516,-8023445049756493156,6,N,43,137,13
+version.h,Portability.h,\include\znc\version.h,\folly\Portability.h,d05809c29f032c998a444139c4f0d9ce,4a7decd5a24ba7fccd761801e3ef4412,-8023445187195380516,-7447019619264177960,5,N,43,392,13
+version.h,Stdlib.h,\include\znc\version.h,\folly\portability\Stdlib.h,d05809c29f032c998a444139c4f0d9ce,9adbc370aa00b92c0cbb5c0cf514b964,-8023445187195380516,-8028512836321486692,8,N,43,31,6
+version.h,Windows.h,\include\znc\version.h,\folly\portability\Windows.h,d05809c29f032c998a444139c4f0d9ce,8d255d6eb746df0dd20db480cd3643e5,-8023445187195380516,-8023516518011316068,7,N,43,48,9

@@ -1,0 +1,5 @@
+10572-Openfire,4000-mruby
+ProfiledConnection.java,proto_to_ruby.cpp,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\oss-fuzz\proto_to_ruby.cpp,82b3cca56b0b2195d9beda1ef5898c9c,343a45cf3c8497b45182f0170dd23cc0,5747704796764879063,5729127442933135575,5,N,828,431,123
+ProfiledConnection.java,codedump.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\codedump.c,82b3cca56b0b2195d9beda1ef5898c9c,838fd904bb528b1b9ebdfc72d4fd5069,5747704796764879063,5729127442933135575,5,N,828,525,102
+GroupEventDispatcher.java,proto_to_ruby.cpp,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\oss-fuzz\proto_to_ruby.cpp,68bd878d44b313df2afdd340fe0c0022,343a45cf3c8497b45182f0170dd23cc0,8016956053561850069,5729127442933135575,6,N,73,431,26
+GroupEventDispatcher.java,codedump.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\codedump.c,68bd878d44b313df2afdd340fe0c0022,838fd904bb528b1b9ebdfc72d4fd5069,8016956053561850069,5729127442933135575,6,N,73,525,27

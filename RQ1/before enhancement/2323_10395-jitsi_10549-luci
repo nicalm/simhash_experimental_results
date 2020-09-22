@@ -1,0 +1,4 @@
+10395-jitsi,10549-luci
+lzma.h,axhttp.h,\src\native\windows\setup\include\lzma.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,4ce48c8f939c04739c2c0b8409ca662f,15eb217d5f5922cce10b8494e4915b7f,-8023445049755510628,-7491774003658044260,8,N,121,101,10
+lzma.h,axssl.c,\src\native\windows\setup\include\lzma.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,4ce48c8f939c04739c2c0b8409ca662f,f2b0cb059db544f4352723a1918a2843,-8023445049755510628,-8030199623489105704,8,N,121,686,30
+lzma.h,dialog.h,\src\native\windows\setup\include\lzma.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,4ce48c8f939c04739c2c0b8409ca662f,65291cd84768397473c02d7325db3d87,-8023445049755510628,-7933373057317024612,8,N,121,128,16

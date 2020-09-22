@@ -1,0 +1,8 @@
+13470-tigervnc,4000-mruby
+RandomStream.h,value.h,\common\rdr\RandomStream.h,\include\mruby\value.h,be77b62dfa170b65c76802c399ff8c7e,f71a5a47635a7a4d552564f252a74db2,-6762472338480571236,-7879329861679654756,8,N,32,308,7
+SSLEngineManager.java,proto_to_ruby.cpp,\java\com\tigervnc\network\SSLEngineManager.java,\oss-fuzz\proto_to_ruby.cpp,39e909ecd9ccf04cb9bad885f45ab7de,343a45cf3c8497b45182f0170dd23cc0,3423284433716820183,5729127442933135575,4,N,127,431,28
+SSLEngineManager.java,codedump.c,\java\com\tigervnc\network\SSLEngineManager.java,\src\codedump.c,39e909ecd9ccf04cb9bad885f45ab7de,838fd904bb528b1b9ebdfc72d4fd5069,3423284433716820183,5729127442933135575,4,N,127,525,28
+ServerParams.java,proto_to_ruby.cpp,\java\com\tigervnc\rfb\ServerParams.java,\oss-fuzz\proto_to_ruby.cpp,81f51e625e63390d7951b591bd25df78,343a45cf3c8497b45182f0170dd23cc0,6881714696003043031,5729127442933135575,7,N,184,431,37
+ServerParams.java,codedump.c,\java\com\tigervnc\rfb\ServerParams.java,\src\codedump.c,81f51e625e63390d7951b591bd25df78,838fd904bb528b1b9ebdfc72d4fd5069,6881714696003043031,5729127442933135575,7,N,184,525,37
+xvnc.c,mrbconf.h,\unix\xserver\hw\vnc\xvnc.c,\include\mrbconf.h,64de174f413a46b56c689e3d2f0ca711,0fa5612f8872c2c08d3897c6c4be5559,-7955908787655354212,-8023445049755510628,8,N,1442,81,28
+xvnc.c,mruby.h,\unix\xserver\hw\vnc\xvnc.c,\include\mruby.h,64de174f413a46b56c689e3d2f0ca711,4213b2c560539512862346f6eb8f4225,-7955908787655354212,-9185390796047329124,8,N,1442,460,55

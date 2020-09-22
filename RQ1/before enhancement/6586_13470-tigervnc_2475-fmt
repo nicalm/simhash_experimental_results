@@ -1,0 +1,7 @@
+13470-tigervnc,2475-fmt
+SSLEngineManager.java,chrono_duration.cpp,\java\com\tigervnc\network\SSLEngineManager.java,\test\fuzzing\chrono_duration.cpp,39e909ecd9ccf04cb9bad885f45ab7de,72440fd90a0d01848031589bb2a841a9,3423284433716820183,5729127447228102871,5,N,127,129,22
+SSLEngineManager.java,named_arg.cpp,\java\com\tigervnc\network\SSLEngineManager.java,\test\fuzzing\named_arg.cpp,39e909ecd9ccf04cb9bad885f45ab7de,00aa34b86ac78c67b4d7e85b5321fbaf,3423284433716820183,2270327736013994197,7,N,127,108,22
+SSLEngineManager.java,one_arg.cpp,\java\com\tigervnc\network\SSLEngineManager.java,\test\fuzzing\one_arg.cpp,39e909ecd9ccf04cb9bad885f45ab7de,883cdbba8da3fa541c4927e1ea02ff22,3423284433716820183,2270360721499404501,7,N,127,117,23
+SSLEngineManager.java,sprintf.cpp,\java\com\tigervnc\network\SSLEngineManager.java,\test\fuzzing\sprintf.cpp,39e909ecd9ccf04cb9bad885f45ab7de,c2ddd179a4100129a6f72f09df658863,3423284433716820183,1117439216892295391,6,N,127,101,21
+SSLEngineManager.java,two_args.cpp,\java\com\tigervnc\network\SSLEngineManager.java,\test\fuzzing\two_args.cpp,39e909ecd9ccf04cb9bad885f45ab7de,c159700c6123fdba738f71e168dab048,3423284433716820183,1117439216892295391,6,N,127,97,21
+ServerParams.java,chrono_duration.cpp,\java\com\tigervnc\rfb\ServerParams.java,\test\fuzzing\chrono_duration.cpp,81f51e625e63390d7951b591bd25df78,72440fd90a0d01848031589bb2a841a9,6881714696003043031,5729127447228102871,8,N,184,129,25

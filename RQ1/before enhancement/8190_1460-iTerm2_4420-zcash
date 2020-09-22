@@ -1,0 +1,12 @@
+1460-iTerm2,4420-zcash
+ini.h,compat.h,\ThirdParty\inih\ini.h,\src\compat.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,edca1c84c422d3accf71cf028f56730c,-8023445049755510564,-8023445189341947748,3,N,57,86,17
+ini.h,byteswap.h,\ThirdParty\inih\ini.h,\src\compat\byteswap.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,c8049a65823175e0cb720f771bece0d5,-8023445049755510564,-8032452249010186084,3,N,57,36,7
+ini.h,endian.h,\ThirdParty\inih\ini.h,\src\compat\endian.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,b0a1e77bc71959182a3b0854e64e46ad,-8023445049755510564,-8023445049755510628,1,N,57,160,17
+ini.h,zcashconsensus.h,\ThirdParty\inih\ini.h,\src\script\zcashconsensus.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,9ba7ca783c191e34d1020f0ee0c759f5,-8023445049755510564,-9171898141824989028,8,N,57,48,13
+ini.h,port_posix.h,\ThirdParty\inih\ini.h,\src\leveldb\port\port_posix.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,d5a83a65b2dd5184b4c812843c400a16,-8023445049755510564,-8032804092731401572,7,N,57,121,15
+ini.h,thread_annotations.h,\ThirdParty\inih\ini.h,\src\leveldb\port\thread_annotations.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,af9eee1ca47192126580ea56af3a4865,-8023445049755510564,-8023445049755510628,1,N,57,39,13
+BetterFontPicker-Swift.h,compat.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\compat.h,9cdfc1f6cb7907e29a4e6b2cf0041946,edca1c84c422d3accf71cf028f56730c,-8023479959251789668,-8023445189341947748,5,N,335,86,19
+BetterFontPicker-Swift.h,byteswap.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\compat\byteswap.h,9cdfc1f6cb7907e29a4e6b2cf0041946,c8049a65823175e0cb720f771bece0d5,-8023479959251789668,-8032452249010186084,5,N,335,36,7
+BetterFontPicker-Swift.h,endian.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\compat\endian.h,9cdfc1f6cb7907e29a4e6b2cf0041946,b0a1e77bc71959182a3b0854e64e46ad,-8023479959251789668,-8023445049755510628,3,N,335,160,30
+BetterFontPicker-Swift.h,zcashconsensus.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\script\zcashconsensus.h,9cdfc1f6cb7907e29a4e6b2cf0041946,9ba7ca783c191e34d1020f0ee0c759f5,-8023479959251789668,-9171898141824989028,8,N,335,48,11
+BetterFontPicker-Swift.h,thread_annotations.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\leveldb\port\thread_annotations.h,9cdfc1f6cb7907e29a4e6b2cf0041946,af9eee1ca47192126580ea56af3a4865,-8023479959251789668,-8023445049755510628,3,N,335,39,13

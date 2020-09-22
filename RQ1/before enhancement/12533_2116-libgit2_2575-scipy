@@ -1,0 +1,13 @@
+2116-libgit2,2575-scipy
+posix.h,msc_stdint.h,\src\posix.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,5939a6412855eb77bc24c53a476d1930,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,122,152,23
+settings.c,global_r.c,\src\settings.c,\scipy\spatial\qhull_src\src\global_r.c,718930b70d05c094a268632a2f1ec06a,641bed4871fe8d8a5f4a033a6bf195ca,6882048947539982549,5729109988184996087,6,N,238,1830,66
+http_parser.c,global_r.c,\deps\http-parser\http_parser.c,\scipy\spatial\qhull_src\src\global_r.c,624ed39402aecf1d658c88ffcffaee6d,641bed4871fe8d8a5f4a033a6bf195ca,5728845967956424919,5729109988184996087,5,N,1620,1830,376
+compat.h,msc_stdint.h,\deps\ntlmclient\compat.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,5b06983268d133b177cf5b90fa9da075,0a9faad66f590c9572581753d453013e,-8023445049755510626,-8018800163019237220,7,N,21,152,7
+pcre_dfa_exec.c,global_r.c,\deps\pcre\pcre_dfa_exec.c,\scipy\spatial\qhull_src\src\global_r.c,f03c3b607d6e42dce79c2eef8aca81da,641bed4871fe8d8a5f4a033a6bf195ca,5734765807279847671,5729109988184996087,7,N,2711,1830,357
+pcre_fullinfo.c,global_r.c,\deps\pcre\pcre_fullinfo.c,\scipy\spatial\qhull_src\src\global_r.c,8923cc431580197b3e121f54e41dba57,641bed4871fe8d8a5f4a033a6bf195ca,5729127442933135575,5729109988184996087,4,N,135,1830,35
+gzguts.h,msc_stdint.h,\deps\zlib\gzguts.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,d71e3535b6b87307b4104a15791be071,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,157,152,23
+zconf.h,msc_stdint.h,\deps\zlib\zconf.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,ccd97cbc26c511a318aa46f8e6df51a6,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,427,152,24
+zutil.c,msc_stdint.h,\deps\zlib\zutil.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,4a4179f332d9d5e26199eb2b75c7b632,0a9faad66f590c9572581753d453013e,-8023445049754986340,-8018800163019237220,7,N,245,152,21
+zutil.h,msc_stdint.h,\deps\zlib\zutil.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,e7909d2ab25406cac90461dc9c664a01,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,196,152,23
+stdint.h,msc_stdint.h,\include\git2\stdint.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,0a9faad66f590c9572581753d453013e,0a9faad66f590c9572581753d453013e,-8018800163019237220,-8018800163019237220,0,Y,152,152,152
+sha1.c,msc_stdint.h,\src\hash\sha1\sha1dc\sha1.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,6347de19da23b6072273f8c2426ff3b6,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,1597,152,21

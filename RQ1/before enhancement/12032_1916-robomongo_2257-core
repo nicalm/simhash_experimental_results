@@ -1,0 +1,6 @@
+1916-robomongo,2257-core
+BsonUtils.cpp,appconfig.php,\src\robomongo\core\utils\BsonUtils.cpp,\core\ajax\appconfig.php,debf75f981000bc99bd9efe7cb6eb327,031cdb064a8d37cd4b40af5d608c8543,5091868095651821783,5152665582536538583,7,N,682,37,10
+BsonUtils.cpp,MDB2SchemaReader.php,\src\robomongo\core\utils\BsonUtils.cpp,\lib\private\DB\MDB2SchemaReader.php,debf75f981000bc99bd9efe7cb6eb327,d8397eafd4a2b3b1ab041811b2ffbaec,5091868095651821783,5731379242747078871,6,N,682,238,73
+LexKVIrc.cpp,MDB2SchemaReader.php,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,\lib\private\DB\MDB2SchemaReader.php,6343dba2bf0e94906c7e4f0cda130ffe,d8397eafd4a2b3b1ab041811b2ffbaec,5729131843127130311,5731379242747078871,6,N,248,238,58
+ScintillaQt.cpp,appconfig.php,\src\third-party\qscintilla\sources\Qt3\ScintillaQt.cpp,\core\ajax\appconfig.php,b241763f79971cf66a08a89789e4e8c1,031cdb064a8d37cd4b40af5d608c8543,5152595222365518287,5152665582536538583,5,N,417,37,11
+ScintillaQt.cpp,appconfig.php,\src\third-party\qscintilla\sources\Qt4Qt5\ScintillaQt.cpp,\core\ajax\appconfig.php,3923e72d8e490bfa249b1c3facf7b01e,031cdb064a8d37cd4b40af5d608c8543,5152596321881340367,5152665582536538583,8,N,405,37,11

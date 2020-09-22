@@ -1,0 +1,10 @@
+15910-gdal,2509-Twig
+swq_op_general.cpp,Token.php,\gdal\ogr\swq_op_general.cpp,\src\Token.php,9a46e71d5126a97b05924e4d46123f6b,be39a6f847016874e81d99d0ceda815a,5729127511652612311,5731379380185772127,6,N,1338,142,37
+cpl_virtualmem.cpp,Token.php,\gdal\port\cpl_virtualmem.cpp,\src\Token.php,c1486bac5c48334f402b7cad9321078e,be39a6f847016874e81d99d0ceda815a,5729127649091827926,5731379380185772127,7,N,1826,142,37
+global.c,Token.php,\gdal\alg\internal_libqhull\global.c,\src\Token.php,1da0d3f37e502be64b054f7a42db6ea9,be39a6f847016874e81d99d0ceda815a,5729109850612873430,5731379380185772127,8,N,1668,142,30
+pcrasterutil.cpp,Token.php,\gdal\frmts\pcraster\pcrasterutil.cpp,\src\Token.php,e859d72f54bbc5ffafa4fb95c5478cac,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,552,142,35
+gif_err.c,Token.php,\gdal\frmts\gif\giflib\gif_err.c,\src\Token.php,ae184d827961b2dcfd4874276b74052e,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,96,142,18
+tif_dir.c,Token.php,\gdal\frmts\gtiff\libtiff\tif_dir.c,\src\Token.php,4f501baa598e4ce669a2ec5827ef519c,be39a6f847016874e81d99d0ceda815a,5733631042560506071,5731379380185772127,6,N,1433,142,37
+ogrdxf_leader.cpp,Token.php,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\src\Token.php,4848c0c5b772127cd6203813cdb66178,be39a6f847016874e81d99d0ceda815a,5729127442933135607,5731379380185772127,6,N,967,142,37
+geoconcept_syscoord.c,Token.php,\gdal\ogr\ogrsf_frmts\geoconcept\geoconcept_syscoord.c,\src\Token.php,9af5d9460fe3d4d2b5e65f025d620176,be39a6f847016874e81d99d0ceda815a,5729127442866286807,5731379380185772127,6,N,873,142,38
+ogrxlslayer.cpp,Token.php,\gdal\ogr\ogrsf_frmts\xls\ogrxlslayer.cpp,\src\Token.php,b95e0d353981c0a3fdff29780868ccf9,be39a6f847016874e81d99d0ceda815a,6308965894957349023,5731379380185772127,8,N,253,142,37

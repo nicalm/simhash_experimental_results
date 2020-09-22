@@ -1,0 +1,8 @@
+17934-harfbuzz,4420-zcash
+hb-subset-cff1.cc,policy.cpp,\src\hb-subset-cff1.cc,\src\policy\policy.cpp,1a249f22bc0ae57f865a07cb4f74fb02,b49cba2f0f54de3a01a53927cb03014b,1681033153959191471,1431083237210080174,8,N,904,121,50
+hb-fc-list.c,endian.h,\util\hb-fc-list.c,\src\compat\endian.h,c27d8fd53993dc1d7a624ea1ec1d10a6,b0a1e77bc71959182a3b0854e64e46ad,1199786163039426780,-8023445049755510628,8,N,178,160,35
+hb-fc-list.c,thread_annotations.h,\util\hb-fc-list.c,\src\leveldb\port\thread_annotations.h,c27d8fd53993dc1d7a624ea1ec1d10a6,af9eee1ca47192126580ea56af3a4865,1199786163039426780,-8023445049755510628,8,N,178,39,10
+test-c.c,compat.h,\test\api\test-c.c,\src\compat.h,40a532b71e6242f205df120cc480a67e,edca1c84c422d3accf71cf028f56730c,-8023445049757468516,-8023445189341947748,5,N,26,86,7
+test-c.c,byteswap.h,\test\api\test-c.c,\src\compat\byteswap.h,40a532b71e6242f205df120cc480a67e,c8049a65823175e0cb720f771bece0d5,-8023445049757468516,-8032452249010186084,5,N,26,36,8
+test-c.c,endian.h,\test\api\test-c.c,\src\compat\endian.h,40a532b71e6242f205df120cc480a67e,b0a1e77bc71959182a3b0854e64e46ad,-8023445049757468516,-8023445049755510628,3,N,26,160,8
+test-c.c,thread_annotations.h,\test\api\test-c.c,\src\leveldb\port\thread_annotations.h,40a532b71e6242f205df120cc480a67e,af9eee1ca47192126580ea56af3a4865,-8023445049757468516,-8023445049755510628,3,N,26,39,6

@@ -1,0 +1,4 @@
+10365-flatpak,6883-Sigil
+flatpak-builtins-build-bundle.c,ContentTab.h,\app\flatpak-builtins-build-bundle.c,\src\Tabs\ContentTab.h,d95e4e4e863eac020ecab93a61c5685a,2675c1f564ab450037b4790688d2f44e,1395036985477628846,1431083237210080174,6,N,540,167,36
+flatpak-builtins-build-init.c,ContentTab.h,\app\flatpak-builtins-build-init.c,\src\Tabs\ContentTab.h,e403fd252ea1b2c23f8407626f390409,2675c1f564ab450037b4790688d2f44e,4313386448417723310,1431083237210080174,7,N,454,167,36
+flatpak-builtins-create-usb.c,ContentTab.h,\app\flatpak-builtins-create-usb.c,\src\Tabs\ContentTab.h,80417f1a7bf4fc73ef8c0c77b4dfde80,2675c1f564ab450037b4790688d2f44e,1440090432169608108,1431083237210080174,6,N,594,167,38

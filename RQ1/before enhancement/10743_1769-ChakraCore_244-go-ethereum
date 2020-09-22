@@ -1,0 +1,4 @@
+1769-ChakraCore,244-go-ethereum
+ChakraCoreDllFunc.cpp,field_5x52_impl.h,\bin\ChakraCore\ChakraCoreDllFunc.cpp,\crypto\secp256k1\libsecp256k1\src\field_5x52_impl.h,8e734a6440a799a5d6f62330f3e77bf2,ff73bde72ad71a28c61993e16b26aae3,-8023163574845908836,-3447664786191091555,8,N,137,346,30
+RuntimePlatformAgnosticPch.h,util.h,\lib\Runtime\PlatformAgnostic\RuntimePlatformAgnosticPch.h,\crypto\secp256k1\libsecp256k1\src\util.h,feaa4a5f36edd8b7e9f916ec0279a736,e4488743bea4b1f93a9b070b80768f00,-9176375490780014564,-8744029373978060264,8,N,45,92,12
+palrt.h,util.h,\pal\inc\rt\palrt.h,\crypto\secp256k1\libsecp256k1\src\util.h,de9bc9e8d7e2f07d0205e147a8d01085,e4488743bea4b1f93a9b070b80768f00,-9031978275287279400,-8744029373978060264,6,N,1238,92,27

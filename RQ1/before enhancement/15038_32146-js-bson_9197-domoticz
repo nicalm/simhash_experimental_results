@@ -1,0 +1,5 @@
+32146-js-bson,9197-domoticz
+promote_values_test.js,EventsPythonDevice.h,\test\node\promote_values_test.js,\main\EventsPythonDevice.h,231f8f33b7f05ad974f6dedd429e3f57,bbf7499b400b10223013d6a2d403de54,6293727511001139579,6293727511001139579,0,N,329,91,29
+promote_values_test.js,PythonObjects.h,\test\node\promote_values_test.js,\hardware\plugins\PythonObjects.h,231f8f33b7f05ad974f6dedd429e3f57,62ffb7ad9b29ea24adfa76481d3b98a4,6293727511001139579,6293727511001139579,0,N,329,266,82
+test_full_bson.js,EventsPythonDevice.h,\test\node\test_full_bson.js,\main\EventsPythonDevice.h,26467473781a18f7802a6693da7b2102,bbf7499b400b10223013d6a2d403de54,6293726411422403451,6293727511001139579,3,N,614,91,29
+test_full_bson.js,PythonObjects.h,\test\node\test_full_bson.js,\hardware\plugins\PythonObjects.h,26467473781a18f7802a6693da7b2102,62ffb7ad9b29ea24adfa76481d3b98a4,6293726411422403451,6293727511001139579,3,N,614,266,82

@@ -1,0 +1,16 @@
+3761-lepton,86-netdata
+test_harness.cc,libnetdata.h,\test_suite\test_harness.cc,\libnetdata\libnetdata.h,e289d2ef5a4a7ed63cb361e61d2bb017,b36073eea8dc836d3f37e426aebdabda,-8023445050292381540,-8023445049755510628,1,N,121,248,21
+test_harness.cc,clocks.h,\test_suite\test_harness.cc,\libnetdata\clocks\clocks.h,e289d2ef5a4a7ed63cb361e61d2bb017,817f185c065ee719f0a0f5d506401b1f,-8023445050292381540,-7879330084279756644,8,N,121,66,10
+gzguts.h,libnetdata.h,\dependencies\zlib\gzguts.h,\libnetdata\libnetdata.h,481fcd67c1a74813d1e18ea86b0fb735,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,151,248,46
+gzguts.h,clocks.h,\dependencies\zlib\gzguts.h,\libnetdata\clocks\clocks.h,481fcd67c1a74813d1e18ea86b0fb735,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,151,66,11
+zconf.h,libnetdata.h,\dependencies\zlib\zconf.h,\libnetdata\libnetdata.h,c89ff94ee23d020c7c9976f48a098fa0,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,403,248,50
+zconf.h,clocks.h,\dependencies\zlib\zconf.h,\libnetdata\clocks\clocks.h,c89ff94ee23d020c7c9976f48a098fa0,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,403,66,11
+zutil.c,libnetdata.h,\dependencies\zlib\zutil.c,\libnetdata\libnetdata.h,d62c1317e7969756f542daacf0d4ba54,b36073eea8dc836d3f37e426aebdabda,-8023445084115248996,-8023445049755510628,1,N,245,248,32
+zutil.c,clocks.h,\dependencies\zlib\zutil.c,\libnetdata\clocks\clocks.h,d62c1317e7969756f542daacf0d4ba54,817f185c065ee719f0a0f5d506401b1f,-8023445084115248996,-7879330084279756644,8,N,245,66,11
+zutil.h,libnetdata.h,\dependencies\zlib\zutil.h,\libnetdata\libnetdata.h,278c42fe50334e51a072b9e9539f1a94,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,183,248,49
+zutil.h,clocks.h,\dependencies\zlib\zutil.h,\libnetdata\clocks\clocks.h,278c42fe50334e51a072b9e9539f1a94,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,183,66,11
+MemMgrAllocator.cc,libnetdata.h,\src\io\MemMgrAllocator.cc,\libnetdata\libnetdata.h,4081710108ae4d92c75a204cde67b037,b36073eea8dc836d3f37e426aebdabda,-7771243495318824804,-8023445049755510628,5,N,422,248,26
+model.cc,libnetdata.h,\src\vp8\model\model.cc,\libnetdata\libnetdata.h,51516a58a4d201a162390ca9ecf9ca48,b36073eea8dc836d3f37e426aebdabda,-7446993091381110596,-8023445049755510628,7,N,395,248,27
+port.h,libnetdata.h,\dependencies\brotli\c\dec\port.h,\libnetdata\libnetdata.h,40b2fd74ac0fb05b9b3137ca6adfdec5,b36073eea8dc836d3f37e426aebdabda,-8023163576927266084,-8023445049755510628,6,N,121,248,30
+memory.h,libnetdata.h,\dependencies\brotli\c\enc\memory.h,\libnetdata\libnetdata.h,7b7c326cb6f93d50dd06a9d313779e53,b36073eea8dc836d3f37e426aebdabda,-8023473654774578788,-8023445049755510628,8,N,44,248,7
+port.h,libnetdata.h,\dependencies\brotli\c\include\brotli\port.h,\libnetdata\libnetdata.h,350994917b4cef7e95001ccfdd8a21d9,b36073eea8dc836d3f37e426aebdabda,-9031978687939553124,-8023445049755510628,6,N,102,248,31

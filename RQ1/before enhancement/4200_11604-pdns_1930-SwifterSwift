@@ -1,0 +1,8 @@
+11604-pdns,1930-SwifterSwift
+threadname.cc,CGColorExtensions.swift,\pdns\threadname.cc,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,5b915147d70647a42e05b4e28ce34c57,13a384d167268ac57b0c34b9cb13ed0f,-8023445049889728356,1189793885789145236,8,N,39,21,7
+threadname.cc,NSAttributedStringExtensions.swift,\pdns\threadname.cc,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,5b915147d70647a42e05b4e28ce34c57,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049889728356,-9174114755220842340,5,N,39,87,11
+threadname.cc,StringExtensions.swift,\pdns\threadname.cc,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,5b915147d70647a42e05b4e28ce34c57,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049889728356,-3051550226512422756,8,N,39,650,12
+version.cc,CGColorExtensions.swift,\pdns\version.cc,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,2d47bb8e09166cdc8de706154500a37c,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755379556,1189793885789145236,8,N,141,21,8
+version.cc,NSAttributedStringExtensions.swift,\pdns\version.cc,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,2d47bb8e09166cdc8de706154500a37c,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755379556,-9174114755220842340,7,N,141,87,20
+version.cc,StringExtensions.swift,\pdns\version.cc,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,2d47bb8e09166cdc8de706154500a37c,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755379556,-3051550226512422756,6,N,141,650,35
+murmur3.h,NSAttributedStringExtensions.swift,\ext\probds\murmur3.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,02ac5aff2e57a41f9dc94781ccd8d595,682db1376e5e9e45d24a9e1b1ad3e9f8,-9176375350707038052,-9174114755220842340,8,N,46,87,9

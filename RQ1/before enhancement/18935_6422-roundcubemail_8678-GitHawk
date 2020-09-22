@@ -1,0 +1,4 @@
+6422-roundcubemail,8678-GitHawk
+rcube_tnef_decoder.php,latex.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,8ca46cd084af91332151df25d1c4bd66,3b496090a1e3513cfad47cdb55fd9f13,5729127442933266647,5152666690361272567,5,N,520,414,93
+rcube_tnef_decoder.php,plaintext.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,8ca46cd084af91332151df25d1c4bd66,26e0294ebef318a7dde60887d309717f,5729127442933266647,5729127582519572639,5,N,520,169,43
+rcube_sieve_script.php,latex.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,3c3c719b9a27e12464461daf90f00d1d,3b496090a1e3513cfad47cdb55fd9f13,5153229640599894231,5152666690361272567,7,N,1009,414,96

@@ -1,0 +1,8 @@
+63411-CMS,682-curl
+string_helper.php,tool_writeout.c,\iu-system\helpers\string_helper.php,\src\tool_writeout.c,ea7f48581f47b173d5be56eb6f112d83,011e47262ade800f8262445eff14a511,522966000961327311,1099427028143714759,8,N,123,347,26
+JSMinPlus.php,getinfo.c,\iu-resources\min\lib\JSMinPlus.php,\lib\getinfo.c,ada381ab05cfa7307d75a5e154803be9,e4b1b98ba03c964ba505b6b062b00050,5735588175405398231,5729127442933135575,7,N,1637,405,114
+JSMinPlus.php,setopt.c,\iu-resources\min\lib\JSMinPlus.php,\lib\setopt.c,ada381ab05cfa7307d75a5e154803be9,bf2b060076537e339e4760d60bc6e95d,5735588175405398231,5729127442933135575,7,N,1637,1759,199
+JSMinPlus.php,share.c,\iu-resources\min\lib\JSMinPlus.php,\lib\share.c,ada381ab05cfa7307d75a5e154803be9,f6122bf7928a06510a10af540547e913,5735588175405398231,-3493963116864571177,8,N,1637,186,41
+JSMinPlus.php,telnet.c,\iu-resources\min\lib\JSMinPlus.php,\lib\telnet.c,ada381ab05cfa7307d75a5e154803be9,61f2737780988e684ee1746bbaceed3f,5735588175405398231,5729127442933135575,7,N,1637,1332,276
+JSMinPlus.php,tool_getparam.c,\iu-resources\min\lib\JSMinPlus.php,\src\tool_getparam.c,ada381ab05cfa7307d75a5e154803be9,a22f253f803124394e83cb5791f88233,5735588175405398231,5729127442933135575,7,N,1637,1940,275
+JSMinPlus.php,sectransp.c,\iu-resources\min\lib\JSMinPlus.php,\lib\vtls\sectransp.c,ada381ab05cfa7307d75a5e154803be9,19c48e3eed312fd3d5b47ad6a8263888,5735588175405398231,5729127442933135575,7,N,1637,2690,292

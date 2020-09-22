@@ -1,0 +1,9 @@
+10187-viabtc_exchange_server,13324-librenms
+http_parser.c,rewrites.php,\utils\http_parser.c,\includes\rewrites.php,d09d117e8f6d43dee97217c802830c00,5389d55c6eafa211ede2994f342bca9b,5728845967956424919,5729127442933135575,1,N,1850,1602,176
+http_parser.c,libvirt-vminfo.inc.php,\utils\http_parser.c,\includes\discovery\libvirt-vminfo.inc.php,d09d117e8f6d43dee97217c802830c00,bb4b3773cf786ace10a58f9ec481435e,5728845967956424919,5730182974087411863,5,N,1850,112,31
+http_parser.c,ports.csv.inc.php,\utils\http_parser.c,\includes\html\reports\ports.csv.inc.php,d09d117e8f6d43dee97217c802830c00,363f50b93f6f3f7b86ed810c407bde48,5728845967956424919,5729127512726350071,5,N,1850,140,34
+http_parser.c,viptela.inc.php,\utils\http_parser.c,\includes\polling\os\viptela.inc.php,d09d117e8f6d43dee97217c802830c00,c64de710870736d919a9de98ce834a46,5728845967956424919,5729127442928941271,2,N,1850,48,17
+http_parser.c,AdvaSysAlmTrap.php,\utils\http_parser.c,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,d09d117e8f6d43dee97217c802830c00,56f813b9379330897dbc82d45cf9f46e,5728845967956424919,1121945025240414455,6,N,1850,32,11
+http_parser.c,linux.inc.php,\utils\http_parser.c,\includes\discovery\sensors\state\linux.inc.php,d09d117e8f6d43dee97217c802830c00,f9f2f629ba22b31deca0a4fa8d6f22cc,5728845967956424919,5747071472597776631,6,N,1850,39,12
+http_parser.c,toner.inc.php,\utils\http_parser.c,\includes\html\graphs\device\toner.inc.php,d09d117e8f6d43dee97217c802830c00,14df19f7caa79129a9551c99a2471503,5728845967956424919,5731379235161422023,7,N,1850,45,11
+http_parser.c,sensors.inc.php,\utils\http_parser.c,\includes\html\pages\health\sensors.inc.php,d09d117e8f6d43dee97217c802830c00,9bd00fc9a64f40b2fc247e4ec5f2b56a,5728845967956424919,5440897599356385494,7,N,1850,98,19

@@ -1,0 +1,7 @@
+2257-core,702-swoole-src
+appconfig.php,swoole_http_parser.c,\core\ajax\appconfig.php,\thirdparty\swoole_http_parser.c,031cdb064a8d37cd4b40af5d608c8543,d155f3ba8a7cdb53f79f34af305581eb,5152665582536538583,5729127442933135575,6,N,37,1234,10
+appconfig.php,log.c,\core\ajax\appconfig.php,\src\core\log.c,031cdb064a8d37cd4b40af5d608c8543,fcd6d98ec4555c3e125d89e154fba5fa,5152665582536538583,5693098645905783253,6,N,37,114,11
+appconfig.php,get.php,\core\ajax\appconfig.php,\tests\include\lib\src\responder\get.php,031cdb064a8d37cd4b40af5d608c8543,0e93a44800862fa891e9d4a8bd016ee0,5152665582536538583,8034970456441796823,8,N,37,71,10
+MDB2SchemaReader.php,swoole_http_parser.c,\lib\private\DB\MDB2SchemaReader.php,\thirdparty\swoole_http_parser.c,d8397eafd4a2b3b1ab041811b2ffbaec,d155f3ba8a7cdb53f79f34af305581eb,5731379242747078871,5729127442933135575,3,N,238,1234,76
+MDB2SchemaReader.php,log.c,\lib\private\DB\MDB2SchemaReader.php,\src\core\log.c,d8397eafd4a2b3b1ab041811b2ffbaec,fcd6d98ec4555c3e125d89e154fba5fa,5731379242747078871,5693098645905783253,7,N,238,114,27
+MDB2SchemaReader.php,get.php,\lib\private\DB\MDB2SchemaReader.php,\tests\include\lib\src\responder\get.php,d8397eafd4a2b3b1ab041811b2ffbaec,0e93a44800862fa891e9d4a8bd016ee0,5731379242747078871,8034970456441796823,5,N,238,71,21

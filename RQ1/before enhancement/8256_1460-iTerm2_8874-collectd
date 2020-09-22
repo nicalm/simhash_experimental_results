@@ -1,0 +1,8 @@
+1460-iTerm2,8874-collectd
+ini.h,collectd.h,\ThirdParty\inih\ini.h,\src\daemon\collectd.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,2b583af2ee5d68797b260dc2234a9a80,-8023445049755510564,-8023445049755510628,1,N,57,198,17
+ini.h,stdendian.h,\ThirdParty\inih\ini.h,\src\libcollectdclient\collectd\stdendian.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,098cf6af06fc9530aaf9936b14d4d802,-8023445049755510564,-8032521930559661924,6,N,57,165,16
+ini.h,dns.c,\ThirdParty\inih\ini.h,\src\utils\dns\dns.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,032734749636be4a4688c883a6fd7c57,-8023445049755510564,-8023453974722193185,8,N,57,882,17
+ini.h,mount.h,\ThirdParty\inih\ini.h,\src\utils\mount\mount.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,8535c5ea598e2c2e046efd01984ce929,-8023445049755510564,-8023445049755510628,1,N,57,64,15
+BetterFontPicker-Swift.h,collectd.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\daemon\collectd.h,9cdfc1f6cb7907e29a4e6b2cf0041946,2b583af2ee5d68797b260dc2234a9a80,-8023479959251789668,-8023445049755510628,3,N,335,198,51
+BetterFontPicker-Swift.h,stdendian.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\libcollectdclient\collectd\stdendian.h,9cdfc1f6cb7907e29a4e6b2cf0041946,098cf6af06fc9530aaf9936b14d4d802,-8023479959251789668,-8032521930559661924,6,N,335,165,32
+BetterFontPicker-Swift.h,mount.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\utils\mount\mount.h,9cdfc1f6cb7907e29a4e6b2cf0041946,8535c5ea598e2c2e046efd01984ce929,-8023479959251789668,-8023445049755510628,3,N,335,64,15

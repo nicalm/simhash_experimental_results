@@ -1,0 +1,10 @@
+305-symfony,682-curl
+IpValidator.php,getinfo.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\getinfo.c,7ca48c5d09328c72e03da3c6a432f9bf,e4b1b98ba03c964ba505b6b062b00050,5746860357875939543,5729127442933135575,4,N,69,405,23
+IpValidator.php,setopt.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\setopt.c,7ca48c5d09328c72e03da3c6a432f9bf,bf2b060076537e339e4760d60bc6e95d,5746860357875939543,5729127442933135575,4,N,69,1759,23
+IpValidator.php,share.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\share.c,7ca48c5d09328c72e03da3c6a432f9bf,f6122bf7928a06510a10af540547e913,5746860357875939543,-3493963116864571177,7,N,69,186,23
+IpValidator.php,strerror.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\strerror.c,7ca48c5d09328c72e03da3c6a432f9bf,f4541cfa3fbbf8e4dfe35ebb2042df2c,5746860357875939543,5666077048183503063,7,N,69,743,23
+IpValidator.php,telnet.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\telnet.c,7ca48c5d09328c72e03da3c6a432f9bf,61f2737780988e684ee1746bbaceed3f,5746860357875939543,5729127442933135575,4,N,69,1332,24
+IpValidator.php,tool_getparam.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\tool_getparam.c,7ca48c5d09328c72e03da3c6a432f9bf,a22f253f803124394e83cb5791f88233,5746860357875939543,5729127442933135575,4,N,69,1940,24
+IpValidator.php,tool_writeout.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\tool_writeout.c,7ca48c5d09328c72e03da3c6a432f9bf,011e47262ade800f8262445eff14a511,5746860357875939543,1099427028143714759,8,N,69,347,22
+IpValidator.php,libssh.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\vssh\libssh.c,7ca48c5d09328c72e03da3c6a432f9bf,5dd9bb787afed82eab3eb1014db77206,5746860357875939543,549706396471965907,8,N,69,2062,24
+IpValidator.php,sectransp.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\lib\vtls\sectransp.c,7ca48c5d09328c72e03da3c6a432f9bf,19c48e3eed312fd3d5b47ad6a8263888,5746860357875939543,5729127442933135575,4,N,69,2690,24

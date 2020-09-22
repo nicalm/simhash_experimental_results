@@ -1,0 +1,7 @@
+2496-proxygen,99-redis
+http_parser_cpp.cpp,lcode.c,\proxygen\external\http_parser\http_parser_cpp.cpp,\deps\lua\src\lcode.c,3f30cfe00a1b12b06b5ae798a28cbb38,88d0dd892548a70000726db2173a48ce,5728846517712238791,5152675763748124759,8,N,1837,691,181
+HTTPEvent.cpp,lcode.c,\proxygen\lib\http\session\HTTPEvent.cpp,\deps\lua\src\lcode.c,f531f441ddbf402ce38379a73fb55e94,88d0dd892548a70000726db2173a48ce,5729127442933135573,5152675763748124759,6,N,33,691,11
+HTTPTransactionEgressSM.cpp,lcode.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\deps\lua\src\lcode.c,efc78e843307fbae0fa015e7df0a883b,88d0dd892548a70000726db2173a48ce,5729127442933135575,5152675763748124759,5,N,102,691,24
+HTTPTransactionEgressSM.cpp,print.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\deps\lua\src\print.c,efc78e843307fbae0fa015e7df0a883b,95f3ba0215f1ba441482019ee36c16e0,5729127442933135575,5693098628332108503,8,N,102,208,23
+HTTPTransactionIngressSM.cpp,lcode.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\deps\lua\src\lcode.c,da1ef343309f9dc24e096acd73b993d0,88d0dd892548a70000726db2173a48ce,5729127442933135575,5152675763748124759,5,N,110,691,26
+HTTPTransactionIngressSM.cpp,print.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\deps\lua\src\print.c,da1ef343309f9dc24e096acd73b993d0,95f3ba0215f1ba441482019ee36c16e0,5729127442933135575,5693098628332108503,8,N,110,208,23

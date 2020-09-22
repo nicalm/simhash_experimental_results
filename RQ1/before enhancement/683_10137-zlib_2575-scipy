@@ -1,0 +1,5 @@
+10137-zlib,2575-scipy
+gzguts.h,msc_stdint.h,\gzguts.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,d71e3535b6b87307b4104a15791be071,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,157,152,23
+zconf.h,msc_stdint.h,\zconf.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,ccd97cbc26c511a318aa46f8e6df51a6,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,427,152,24
+zutil.c,msc_stdint.h,\zutil.c,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,4a4179f332d9d5e26199eb2b75c7b632,0a9faad66f590c9572581753d453013e,-8023445049754986340,-8018800163019237220,7,N,245,152,21
+zutil.h,msc_stdint.h,\zutil.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,e7909d2ab25406cac90461dc9c664a01,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,196,152,23

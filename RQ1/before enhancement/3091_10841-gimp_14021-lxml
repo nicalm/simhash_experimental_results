@@ -1,0 +1,7 @@
+10841-gimp,14021-lxml
+gimpwin32-io.h,etree_defs.h,\libgimpbase\gimpwin32-io.h,\src\lxml\includes\etree_defs.h,56ef6d63cf2566b506fd29ef2a5dcc22,77e60df86f933a8497d9a006ac09a2c9,-8023445049755510628,-8023482433217963876,3,N,58,319,17
+imap_cern_parse.c,etree_defs.h,\plug-ins\imagemap\imap_cern_parse.c,\src\lxml\includes\etree_defs.h,55e4dda5509e9476438d61b0b41c52c2,77e60df86f933a8497d9a006ac09a2c9,-9176377550016571236,-8023482433217963876,7,N,1205,319,70
+imap_cern_parse.h,etree_defs.h,\plug-ins\imagemap\imap_cern_parse.h,\src\lxml\includes\etree_defs.h,af25bf3cfc37bc3ffcbfe1812577e007,77e60df86f933a8497d9a006ac09a2c9,-8023444912450709284,-8023482433217963876,8,N,61,319,11
+imap_csim_parse.c,etree_defs.h,\plug-ins\imagemap\imap_csim_parse.c,\src\lxml\includes\etree_defs.h,6c0fd8dae4d7bb8f472f756f2edb786f,77e60df86f933a8497d9a006ac09a2c9,-8888144974840538916,-8023482433217963876,8,N,1468,319,70
+imap_ncsa_parse.c,etree_defs.h,\plug-ins\imagemap\imap_ncsa_parse.c,\src\lxml\includes\etree_defs.h,77d25a2cd7957fe736c5a4a3beae98fb,77e60df86f933a8497d9a006ac09a2c9,-9176377550015506276,-8023482433217963876,5,N,1212,319,70
+scheme.h,etree_defs.h,\plug-ins\script-fu\tinyscheme\scheme.h,\src\lxml\includes\etree_defs.h,e1ad4e8baad0fc63b3202d6b0eae8777,77e60df86f933a8497d9a006ac09a2c9,-7805161205316396900,-8023482433217963876,7,N,211,319,29

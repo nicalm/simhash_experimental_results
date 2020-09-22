@@ -1,0 +1,8 @@
+5372-twisted,86-netdata
+raiser.c,libnetdata.h,\src\twisted\test\raiser.c,\libnetdata\libnetdata.h,03329048f02326320ae3e07a7faee64c,b36073eea8dc836d3f37e426aebdabda,-8023445050292381540,-8023445049755510628,1,N,3117,248,49
+raiser.c,clocks.h,\src\twisted\test\raiser.c,\libnetdata\clocks\clocks.h,03329048f02326320ae3e07a7faee64c,817f185c065ee719f0a0f5d506401b1f,-8023445050292381540,-7879330084279756644,8,N,3117,66,12
+ewords.py,exceptions.py,\src\twisted\words\ewords.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,fe29f91f5764d6495de4e2c8e7b3f374,25ddb32d1336bad7af00549477feb5f7,9215081825569112453,9217330326845687173,7,N,17,128,5
+erroneous.py,exceptions.py,\src\twisted\trial\test\erroneous.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,c153be690ca58f7546c1eade0fbe77a3,25ddb32d1336bad7af00549477feb5f7,-8223141076499195,9217330326845687173,5,N,95,128,12
+ordertests.py,exceptions.py,\src\twisted\trial\test\ordertests.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,940294d34b85dc8b1f67177bdd9e8414,25ddb32d1336bad7af00549477feb5f7,9217329227336156549,9217330326845687173,2,N,16,128,6
+skipping.py,exceptions.py,\src\twisted\trial\test\skipping.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,2672a1a89f384c1daa7d8541fe68fc07,25ddb32d1336bad7af00549477feb5f7,9217346828111103109,9217330326845687173,7,N,147,128,25
+suppression.py,exceptions.py,\src\twisted\trial\test\suppression.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,f7be548a2e1484eab91d4ed2ab16c89f,25ddb32d1336bad7af00549477feb5f7,9217400695625516421,9217330326845687173,3,N,53,128,11

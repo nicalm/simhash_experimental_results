@@ -1,0 +1,8 @@
+5991-cJSON,91-bitcoin
+unity_internals.h,attributes.h,\tests\unity\src\unity_internals.h,\src\attributes.h,c48f2ef9d57759a1fe49b445259832f1,1d61566702a36bfdc0abbfcd3b918b11,-8023445049755510628,-8023445049755378532,2,N,652,15,6
+unity_internals.h,compat.h,\tests\unity\src\unity_internals.h,\src\compat.h,c48f2ef9d57759a1fe49b445259832f1,e406a80a1784994699c1b4a1bc6005d3,-8023445049755510628,-8023445187194464104,2,N,652,87,23
+unity_internals.h,randomenv.cpp,\tests\unity\src\unity_internals.h,\src\randomenv.cpp,c48f2ef9d57759a1fe49b445259832f1,8eefeb3e04f7f52be719a9efdd732606,-8023445049755510628,-8023445049755510628,0,N,652,439,79
+unity_internals.h,byteswap.h,\tests\unity\src\unity_internals.h,\src\compat\byteswap.h,c48f2ef9d57759a1fe49b445259832f1,88acd785d1d6b57506d4fdd472a4a790,-8023445049755510628,-7744221872858473316,4,N,652,43,12
+unity_internals.h,endian.h,\tests\unity\src\unity_internals.h,\src\compat\endian.h,c48f2ef9d57759a1fe49b445259832f1,5c16422e6448c8f31356121158773761,-8023445049755510628,-8023445049755510628,0,N,652,198,48
+unity_internals.h,port_posix.h,\tests\unity\src\unity_internals.h,\src\leveldb\port\port_posix.h,c48f2ef9d57759a1fe49b445259832f1,19a3c705798d84488cb4a2943d225851,-8023445049755510628,-8032804092731434340,7,N,652,123,19
+unity_internals.h,thread_annotations.h,\tests\unity\src\unity_internals.h,\src\leveldb\port\thread_annotations.h,c48f2ef9d57759a1fe49b445259832f1,af9eee1ca47192126580ea56af3a4865,-8023445049755510628,-8023445049755510628,0,N,652,39,13

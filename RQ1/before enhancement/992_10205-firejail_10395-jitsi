@@ -1,0 +1,9 @@
+10205-firejail,10395-jitsi
+caps.c,lzma.h,\src\firejail\caps.c,\src\native\windows\setup\include\lzma.h,0b9d72adabe6b183bf9a7948ffeb2934,4ce48c8f939c04739c2c0b8409ca662f,-5717602040541816676,-8023445049755510628,1,N,334,121,35
+sbox.c,lzma.h,\src\firejail\sbox.c,\src\native\windows\setup\include\lzma.h,8a6f9f9ce42bcca368916f82519b79d6,4ce48c8f939c04739c2c0b8409ca662f,-8024007999708931940,-8023445049755510628,1,N,190,121,23
+print.c,net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,\src\fsec-print\print.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,a532e1235b05a01261ed4f8b4b722622,b777786e5dc2dbfda20f2e6ab1b6e3d1,-8096923412020553513,5729127442933135575,5,N,257,851,44
+print.c,net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,\src\fsec-print\print.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,a532e1235b05a01261ed4f8b4b722622,463ade7b00f34e712a6606ace511d963,-8096923412020553513,5729127442933135575,5,N,257,949,43
+print.c,MsOutlookMAPIHResultException.cxx,\src\fsec-print\print.c,\src\native\addrbook\msoutlook\MsOutlookMAPIHResultException.cxx,a532e1235b05a01261ed4f8b4b722622,f64c2586d29efbc2659a751a8b4617a9,-8096923412020553513,4864999265505163479,7,N,257,95,23
+syscall.c,lzma.h,\src\fseccomp\syscall.c,\src\native\windows\setup\include\lzma.h,bf0ef0cc7976e59f6ac60c1a011c8188,4ce48c8f939c04739c2c0b8409ca662f,-8023445049755510628,-8023445049755510628,0,N,1564,121,32
+syscall.h,lzma.h,\src\include\syscall.h,\src\native\windows\setup\include\lzma.h,e5d70ee64e8335903c40165f92bcb3a5,4ce48c8f939c04739c2c0b8409ca662f,-8023445049755510628,-8023445049755510628,0,N,5186,121,31
+libtrace.c,lzma.h,\src\libtrace\libtrace.c,\src\native\windows\setup\include\lzma.h,e75ec9f98f403929994ba2e9b45b7b14,4ce48c8f939c04739c2c0b8409ca662f,-7663159407438177892,-8023445049755510628,7,N,558,121,33

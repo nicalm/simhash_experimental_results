@@ -1,0 +1,8 @@
+91-bitcoin,981-numpy
+attributes.h,npy_common.h,\src\attributes.h,\numpy\core\include\numpy\npy_common.h,1d61566702a36bfdc0abbfcd3b918b11,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755378532,-8023445066935379812,3,N,15,951,6
+compat.h,npy_common.h,\src\compat.h,\numpy\core\include\numpy\npy_common.h,e406a80a1784994699c1b4a1bc6005d3,a173a9479ba36f92005f6b19e1c98ca6,-8023445187194464104,-8023445066935379812,3,N,87,951,24
+randomenv.cpp,npy_common.h,\src\randomenv.cpp,\numpy\core\include\numpy\npy_common.h,8eefeb3e04f7f52be719a9efdd732606,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,439,951,75
+byteswap.h,npy_common.h,\src\compat\byteswap.h,\numpy\core\include\numpy\npy_common.h,88acd785d1d6b57506d4fdd472a4a790,a173a9479ba36f92005f6b19e1c98ca6,-7744221872858473316,-8023445066935379812,5,N,43,951,8
+endian.h,npy_common.h,\src\compat\endian.h,\numpy\core\include\numpy\npy_common.h,5c16422e6448c8f31356121158773761,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,198,951,42
+port_posix.h,npy_common.h,\src\leveldb\port\port_posix.h,\numpy\core\include\numpy\npy_common.h,19a3c705798d84488cb4a2943d225851,a173a9479ba36f92005f6b19e1c98ca6,-8032804092731434340,-8023445066935379812,8,N,123,951,19
+thread_annotations.h,npy_common.h,\src\leveldb\port\thread_annotations.h,\numpy\core\include\numpy\npy_common.h,af9eee1ca47192126580ea56af3a4865,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,39,951,13

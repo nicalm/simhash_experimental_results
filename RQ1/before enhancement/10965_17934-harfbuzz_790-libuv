@@ -1,0 +1,11 @@
+17934-harfbuzz,790-libuv
+hb-ot-shape-complex-vowel-constraints.cc,handle-inl.h,\src\hb-ot-shape-complex-vowel-constraints.cc,\src\win\handle-inl.h,af3b5cee198ad0cdcf32177f2059763e,34080acd31e6a3b5bf545c24c6e85c3f,5729127511516264663,5729127442933135571,5,N,420,110,19
+hb-subset.cc,handle-inl.h,\src\hb-subset.cc,\src\win\handle-inl.h,8cd5ec526a4232f06c744be9b77a51bc,34080acd31e6a3b5bf545c24c6e85c3f,5170681089138145431,5729127442933135571,5,N,256,110,19
+hb-fc-list.c,internal.h,\util\hb-fc-list.c,\src\unix\internal.h,c27d8fd53993dc1d7a624ea1ec1d10a6,371ffd2ac622ba8f4ae44ae51c531f3d,1199786163039426780,-8023445069074474788,8,N,178,209,22
+hb-fc-list.c,winapi.h,\util\hb-fc-list.c,\src\win\winapi.h,c27d8fd53993dc1d7a624ea1ec1d10a6,4f2f56dcce5d652768e5e4cfcf6661be,1199786163039426780,-8023445049755510628,8,N,178,3569,11
+test-c.c,test-list.h,\test\api\test-c.c,\test\test-list.h,40a532b71e6242f205df120cc480a67e,34c37e38fd3367fbe3d6e9280bf86a06,-8023445049757468516,-7374645228437448676,7,N,26,951,6
+test-c.c,test-uname.c,\test\api\test-c.c,\test\test-uname.c,40a532b71e6242f205df120cc480a67e,e4168fcb68ae66e9d30927d67519b6fb,-8023445049757468516,-7455991513878439779,8,N,26,37,7
+test-c.c,getaddrinfo.c,\test\api\test-c.c,\src\unix\getaddrinfo.c,40a532b71e6242f205df120cc480a67e,e8e49cecf77e5d3f516ab013154bbd9c,-8023445049757468516,-8023444777025087336,6,N,26,188,7
+test-c.c,internal.h,\test\api\test-c.c,\src\unix\internal.h,40a532b71e6242f205df120cc480a67e,371ffd2ac622ba8f4ae44ae51c531f3d,-8023445049757468516,-8023445069074474788,7,N,26,209,7
+test-c.c,linux-syscalls.c,\test\api\test-c.c,\src\unix\linux-syscalls.c,40a532b71e6242f205df120cc480a67e,e03aa3ff0bab5e21466ddb93bc58c23e,-8023445049757468516,-8023444499991568996,8,N,26,292,7
+test-c.c,winapi.h,\test\api\test-c.c,\src\win\winapi.h,40a532b71e6242f205df120cc480a67e,4f2f56dcce5d652768e5e4cfcf6661be,-8023445049757468516,-8023445049755510628,3,N,26,3569,6

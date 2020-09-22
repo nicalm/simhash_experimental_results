@@ -1,0 +1,6 @@
+6664-ModSecurity,86-netdata
+unique_id.cc,libnetdata.h,\src\unique_id.cc,\libnetdata\libnetdata.h,7c20c0dbffc732616cd5e43c73b8087b,b36073eea8dc836d3f37e426aebdabda,1199926922539489428,-8023445049755510628,6,N,177,248,23
+check_config.h,libnetdata.h,\others\mbedtls\check_config.h,\libnetdata\libnetdata.h,306e92b56ac8d1b085c9f72fb65f46a7,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,402,248,35
+check_config.h,clocks.h,\others\mbedtls\check_config.h,\libnetdata\clocks\clocks.h,306e92b56ac8d1b085c9f72fb65f46a7,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,402,66,9
+platform.h,libnetdata.h,\others\mbedtls\platform.h,\libnetdata\libnetdata.h,d00d535ad1c35ca86d366afc8578c1ab,b36073eea8dc836d3f37e426aebdabda,-7879409027045336932,-8023445049755510628,5,N,106,248,38
+geo_lookup.h,libnetdata.h,\src\utils\geo_lookup.h,\libnetdata\libnetdata.h,7f149a21d7e38ffd2ba73078cb8e9c82,b36073eea8dc836d3f37e426aebdabda,1830428735907880156,-8023445049755510628,8,N,50,248,6

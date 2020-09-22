@@ -1,0 +1,7 @@
+18309-tor,4790-node-opencv
+compat_compiler.h,init.cc,\src\lib\cc\compat_compiler.h,\src\init.cc,4fda4875c0f6db2fda2057a47aa6fc8f,ac230f241e7062df9add8317bcf2a3be,-8023445050293299044,-8032663355242784612,6,N,128,67,11
+torint.h,init.cc,\src\lib\cc\torint.h,\src\init.cc,f9bd1774a6cabce5324bfd6779020def,ac230f241e7062df9add8317bcf2a3be,-8023198759150888804,-8032663355242784612,5,N,101,67,11
+fdio.c,init.cc,\src\lib\fdio\fdio.c,\src\init.cc,f7cc52832a8d31f8234387c9640d45fa,ac230f241e7062df9add8317bcf2a3be,-7735214673874331620,-8032663355242784612,7,N,80,67,11
+inaddr_st.h,init.cc,\src\lib\net\inaddr_st.h,\src\init.cc,62efbf41d2e5c9c5c910850b9ac27f2c,ac230f241e7062df9add8317bcf2a3be,-8023445049755509604,-8032663355242784612,4,N,69,67,12
+nettypes.h,init.cc,\src\lib\net\nettypes.h,\src\init.cc,5dc6cbfbef80e86b6ed991e81ad60883,ac230f241e7062df9add8317bcf2a3be,-8033015199603320676,-8032663355242784612,8,N,24,67,5
+ed25519-donna-portable-identify.h,init.cc,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\src\init.cc,36a4efc8ce95d16532d64be30ece0f36,ac230f241e7062df9add8317bcf2a3be,-8023445066935379812,-8032663355242784612,4,N,87,67,11

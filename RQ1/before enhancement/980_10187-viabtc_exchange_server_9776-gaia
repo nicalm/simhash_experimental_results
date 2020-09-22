@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,9776-gaia
+http_parser.c,orientation.js,\utils\http_parser.c,\dev_apps\uitest\js\API\orientation.js,d09d117e8f6d43dee97217c802830c00,7f674abe2d64a83f3c5f7fc6b2372c43,5728845967956424919,5729127442933135575,1,N,1850,55,18
+http_parser.c,lcd.js,\utils\http_parser.c,\dev_apps\uitest\js\HW\lcd.js,d09d117e8f6d43dee97217c802830c00,3ab7d944f9f63d991cca7c6b1fe0faa4,5728845967956424919,973255871980679315,8,N,1850,62,9
+http_parser.c,pdf.worker.js,\utils\http_parser.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,d09d117e8f6d43dee97217c802830c00,0b5f788a191b12bb182b6955242c5ffb,5728845967956424919,6899975385106659575,8,N,1850,37193,481

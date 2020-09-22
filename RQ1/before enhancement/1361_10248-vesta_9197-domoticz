@@ -1,0 +1,8 @@
+10248-vesta,9197-domoticz
+index.php,MySensorsBase.cpp,\web\bulk\user\index.php,\hardware\MySensorsBase.cpp,e63f54fde5aa69c0078f57a124201499,6cae5e3a1ab9ee7d8342dca148477146,5729127442931036375,7481027697980250327,7,N,53,2449,17
+index.php,json_writer.cpp,\web\bulk\user\index.php,\json\json_writer.cpp,e63f54fde5aa69c0078f57a124201499,d1974449d1798ba8f48c676801c0d6d9,5729127442931036375,973042564577409238,8,N,53,1064,18
+index.php,mainworker.cpp,\web\bulk\user\index.php,\main\mainworker.cpp,e63f54fde5aa69c0078f57a124201499,f4c4b426730e0f8963be06c217764882,5729127442931036375,5729136239026157783,3,N,53,12106,17
+index.php,RFXNames.cpp,\web\bulk\user\index.php,\main\RFXNames.cpp,e63f54fde5aa69c0078f57a124201499,05aacb23294caf3c3e603f6de8b04624,5729127442931036375,5693098645906077919,8,N,53,3550,17
+index.php,xpath_processor.cpp,\web\bulk\user\index.php,\tinyxpath\xpath_processor.cpp,e63f54fde5aa69c0078f57a124201499,46c992ef05a1f80abafff69ee425bf9c,5729127442931036375,5729127995910174935,5,N,53,1762,17
+index.php,OZWException.h,\web\bulk\user\index.php,\hardware\openzwave\OZWException.h,e63f54fde5aa69c0078f57a124201499,8b03f08d13666ba349826423247bf4e9,5729127442931036375,5449904944638916819,8,N,53,70,11
+index.php,lcode.c,\web\bulk\user\index.php,\lua\src\lcode.c,e63f54fde5aa69c0078f57a124201499,dbdd1d8df3be51314eee06b760f82ca8,5729127442931036375,5157179361228011607,7,N,53,726,17

@@ -1,0 +1,3 @@
+13470-tigervnc,305-symfony
+SSLEngineManager.java,IpValidator.php,\java\com\tigervnc\network\SSLEngineManager.java,\src\Symfony\Component\Validator\Constraints\IpValidator.php,39e909ecd9ccf04cb9bad885f45ab7de,7ca48c5d09328c72e03da3c6a432f9bf,3423284433716820183,5746860357875939543,8,N,127,69,20
+PixelFormat.java,User.php,\java\com\tigervnc\rfb\PixelFormat.java,\src\Symfony\Component\Security\Core\User\User.php,dd900564b212909764b7b426a7a2714e,8a754e846a2468a2381d8e7aadfb4cc6,1431083237210081710,1268918466227487660,8,N,528,108,50

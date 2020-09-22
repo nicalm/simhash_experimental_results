@@ -1,0 +1,3 @@
+12758-znc,86-netdata
+version.h,libnetdata.h,\include\znc\version.h,\libnetdata\libnetdata.h,d05809c29f032c998a444139c4f0d9ce,b36073eea8dc836d3f37e426aebdabda,-8023445187195380516,-8023445049755510628,5,N,43,248,13
+znc.py,exceptions.py,\modules\modpython\znc.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,4a5b1d05db940e699bac8d83cbaf501d,25ddb32d1336bad7af00549477feb5f7,9217320431243133317,9217330326845687173,4,N,722,128,26

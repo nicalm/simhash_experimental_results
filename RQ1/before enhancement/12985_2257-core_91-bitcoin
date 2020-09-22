@@ -1,0 +1,7 @@
+2257-core,91-bitcoin
+NullCache.php,net_processing.cpp,\lib\private\Memcache\NullCache.php,\src\net_processing.cpp,0834e5696a0d5c5f8cffeaa7cc723633,7eb2766edacef53009c5302be38edb19,6086521499029436825,2123354376699247032,7,N,37,2805,22
+RemoteUser.php,policy.cpp,\lib\private\User\RemoteUser.php,\src\policy\policy.cpp,73b7eec5be5418002038125febb38b9b,b881c016071c59e2e2c79de956074e58,6330999770336514990,1719313613361791918,7,N,88,158,37
+Extension.php,policy.cpp,\apps\comments\lib\Activity\Extension.php,\src\policy\policy.cpp,7bf3ac8a3df9c8e9abf06e33cde08300,b881c016071c59e2e2c79de956074e58,6005605212527281070,1719313613361791918,8,N,147,158,36
+ObjectStoreStorage.php,policy.cpp,\lib\private\Files\ObjectStore\ObjectStoreStorage.php,\src\policy\policy.cpp,90a19de9675e5d456ebbb19714c1fc72,b881c016071c59e2e2c79de956074e58,1719569801613689774,1719313613361791918,8,N,426,158,50
+Dummy.php,policy.cpp,\tests\lib\Util\Group\Dummy.php,\src\policy\policy.cpp,845969ca6a2547967d232ea23c3e8a73,b881c016071c59e2e2c79de956074e58,2295756768949388223,1719313613361791918,8,N,105,158,39
+CacheParser.php,policy.cpp,\apps\files_external\3rdparty\google-api-php-client\src\Google\Http\CacheParser.php,\src\policy\policy.cpp,3e390e20c57d0aef0b081d37520fcc57,b881c016071c59e2e2c79de956074e58,2223716221837984686,1719313613361791918,6,N,87,158,40

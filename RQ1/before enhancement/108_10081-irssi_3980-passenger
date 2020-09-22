@@ -1,0 +1,6 @@
+10081-irssi,3980-passenger
+otr-ops.c,http_parser.cpp,\src\otr\otr-ops.c,\src\cxx_supportlib\ServerKit\http_parser.cpp,78f1f6c5943450ae1c92e51ced46839e,5741f024e030397fc3510109b4838536,1117440324994119895,5728845967956424919,3,N,248,1688,70
+otr-ops.c,jsoncpp.cpp,\src\otr\otr-ops.c,\src\cxx_supportlib\vendor-modified\jsoncpp\jsoncpp.cpp,78f1f6c5943450ae1c92e51ced46839e,681386acf805d7609b422d4f4f9ae821,1117440324994119895,6882048947573553374,7,N,248,4397,71
+formats.c,Crypto.cpp,\src\fe-common\core\formats.c,\src\cxx_supportlib\SecurityKit\Crypto.cpp,81ad733fd560a7711254766564a4d1b4,3a0b323a93a3e427bdc325501f719d80,5729127511652612311,5081735065251657878,6,N,1160,812,190
+formats.c,http_parser.cpp,\src\fe-common\core\formats.c,\src\cxx_supportlib\ServerKit\http_parser.cpp,81ad733fd560a7711254766564a4d1b4,5741f024e030397fc3510109b4838536,5729127511652612311,5728845967956424919,2,N,1160,1688,269
+formats.c,jsoncpp.cpp,\src\fe-common\core\formats.c,\src\cxx_supportlib\vendor-modified\jsoncpp\jsoncpp.cpp,81ad733fd560a7711254766564a4d1b4,681386acf805d7609b422d4f4f9ae821,5729127511652612311,6882048947573553374,6,N,1160,4397,289

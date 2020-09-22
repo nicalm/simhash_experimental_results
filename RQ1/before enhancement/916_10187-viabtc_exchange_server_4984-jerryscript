@@ -1,0 +1,10 @@
+10187-viabtc_exchange_server,4984-jerryscript
+fmacros.h,config.h,\depends\hiredis\fmacros.h,\jerry-core\config.h,fa39b5b5c7b057e483d5dce607e953a2,1610ce5e32380b97834532a2439ffb00,-7226589390687643492,-8023445049755510628,6,N,17,338,5
+fmacros.h,jerryscript-compiler.h,\depends\hiredis\fmacros.h,\jerry-core\include\jerryscript-compiler.h,fa39b5b5c7b057e483d5dce607e953a2,6dc57bc479adf16d2b42cadd27f2edd3,-7226589390687643492,-8023445049755510628,6,N,17,73,4
+fmacros.h,lit-magic-strings.inc.h,\depends\hiredis\fmacros.h,\jerry-core\lit\lit-magic-strings.inc.h,fa39b5b5c7b057e483d5dce607e953a2,d156bf64086a4a370f1f54301148fe60,-7226589390687643492,-8023445049755510628,6,N,17,920,5
+fmacros.h,ecma-builtin-helpers-macro-defines.inc.h,\depends\hiredis\fmacros.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,fa39b5b5c7b057e483d5dce607e953a2,0dde8629af7a79ff0576269e0d239a88,-7226589390687643492,-8023445084115248996,7,N,17,32,4
+fmacros.h,js-parser-limits.h,\depends\hiredis\fmacros.h,\jerry-core\parser\js\js-parser-limits.h,fa39b5b5c7b057e483d5dce607e953a2,656369309984980286cea2eff0cb4741,-7226589390687643492,-8023445049755510628,6,N,17,51,5
+win32.h,config.h,\depends\hiredis\win32.h,\jerry-core\config.h,0ec99e391511695a9d7ef00f6d95b969,1610ce5e32380b97834532a2439ffb00,-7880077529720759656,-8023445049755510628,8,N,32,338,5
+win32.h,jerryscript-compiler.h,\depends\hiredis\win32.h,\jerry-core\include\jerryscript-compiler.h,0ec99e391511695a9d7ef00f6d95b969,6dc57bc479adf16d2b42cadd27f2edd3,-7880077529720759656,-8023445049755510628,8,N,32,73,8
+win32.h,lit-magic-strings.inc.h,\depends\hiredis\win32.h,\jerry-core\lit\lit-magic-strings.inc.h,0ec99e391511695a9d7ef00f6d95b969,d156bf64086a4a370f1f54301148fe60,-7880077529720759656,-8023445049755510628,8,N,32,920,5
+win32.h,js-parser-limits.h,\depends\hiredis\win32.h,\jerry-core\parser\js\js-parser-limits.h,0ec99e391511695a9d7ef00f6d95b969,656369309984980286cea2eff0cb4741,-7880077529720759656,-8023445049755510628,8,N,32,51,5

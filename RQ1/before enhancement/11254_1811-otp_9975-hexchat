@@ -1,0 +1,13 @@
+1811-otp,9975-hexchat
+erl_posix_str.c,typedef.h,\erts\emulator\beam\erl_posix_str.c,\src\common\typedef.h,98e97717f594c529a1f6d3e864367286,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,614,20,6
+gzguts.h,typedef.h,\erts\emulator\zlib\gzguts.h,\src\common\typedef.h,d71e3535b6b87307b4104a15791be071,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,157,20,8
+zconf.h,typedef.h,\erts\emulator\zlib\zconf.h,\src\common\typedef.h,ccd97cbc26c511a318aa46f8e6df51a6,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,427,20,8
+zutil.c,typedef.h,\erts\emulator\zlib\zutil.c,\src\common\typedef.h,4a4179f332d9d5e26199eb2b75c7b632,ad3525a10e4064f94c5205693b6e1c78,-8023445049754986340,-8059473984749774204,6,N,245,20,7
+zutil.h,typedef.h,\erts\emulator\zlib\zutil.h,\src\common\typedef.h,e7909d2ab25406cac90461dc9c664a01,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,196,20,7
+ethread.h,typedef.h,\erts\include\internal\ethread.h,\src\common\typedef.h,0f1e7481973e116e1ce1a01472a62bb1,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510564,-8059473984749774204,8,N,623,20,7
+ethr_atomics.h,typedef.h,\erts\include\internal\ethr_atomics.h,\src\common\typedef.h,80a0d0b4cb0c5c55ce2323cad873f99d,ad3525a10e4064f94c5205693b6e1c78,-9212395488887383908,-8059473984749774204,7,N,8389,20,7
+algorithms.c,typedef.h,\lib\crypto\c_src\algorithms.c,\src\common\typedef.h,8d83f6ec0918b04d0567564982f432fe,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,248,20,6
+openssl_config.h,typedef.h,\lib\crypto\c_src\openssl_config.h,\src\common\typedef.h,0f4c136f2d9c0367944b2f68f7f49629,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,291,20,7
+erl_unix_sys.h,typedef.h,\erts\emulator\sys\unix\erl_unix_sys.h,\src\common\typedef.h,ce43cf4205ece82173fa94dd61ba26cb,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,319,20,7
+ethr_atomic.h,typedef.h,\erts\include\internal\gcc\ethr_atomic.h,\src\common\typedef.h,8419cc84beefcf81c0ad952c45dda545,ad3525a10e4064f94c5205693b6e1c78,-8023445187194463332,-8059473984749774204,6,N,392,20,7
+ethr_atomic.h,typedef.h,\erts\include\internal\win\ethr_atomic.h,\src\common\typedef.h,046eaaa71e16c10bac9216159712379f,ad3525a10e4064f94c5205693b6e1c78,-9176366554362357092,-8059473984749774204,7,N,375,20,7

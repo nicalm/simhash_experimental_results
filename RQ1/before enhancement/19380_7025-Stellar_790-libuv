@@ -1,0 +1,4 @@
+7025-Stellar,790-libuv
+Stellar-Swift.h,test-list.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\test\test-list.h,fafe37ab4771e0a9586e17224fcc7041,34c37e38fd3367fbe3d6e9280bf86a06,-7743940123003924324,-7374645228437448676,7,N,231,951,32
+Stellar-Swift.h,getaddrinfo.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\unix\getaddrinfo.c,fafe37ab4771e0a9586e17224fcc7041,e8e49cecf77e5d3f516ab013154bbd9c,-7743940123003924324,-8023444777025087336,6,N,231,188,21
+Stellar-Swift.h,winapi.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\win\winapi.h,fafe37ab4771e0a9586e17224fcc7041,4f2f56dcce5d652768e5e4cfcf6661be,-7743940123003924324,-8023445049755510628,5,N,231,3569,29

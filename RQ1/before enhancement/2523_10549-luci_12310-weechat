@@ -1,0 +1,5 @@
+10549-luci,12310-weechat
+axhttp.h,wee-url.c,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\core\wee-url.c,15eb217d5f5922cce10b8494e4915b7f,2182536a79bada4949d9bc0483b5da6d,-7491774003658044260,-8023445049755510628,8,N,101,1111,18
+axhttpd.c,gui-curses-term.c,\libs\luci-lib-nixio\axTLS\httpd\axhttpd.c,\src\gui\curses\gui-curses-term.c,afd50b2479904cd9fcc0ccd3f5fce441,12c6b2e5780349c1e6b15f2a0f08c5ca,-7444767169290396196,-7447028277908808228,7,N,468,23,10
+axssl.c,wee-url.c,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\core\wee-url.c,f2b0cb059db544f4352723a1918a2843,2182536a79bada4949d9bc0483b5da6d,-8030199623489105704,-8023445049755510628,8,N,686,1111,157
+dialog.h,wee-url.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\core\wee-url.c,65291cd84768397473c02d7325db3d87,2182536a79bada4949d9bc0483b5da6d,-7933373057317024612,-8023445049755510628,8,N,128,1111,19

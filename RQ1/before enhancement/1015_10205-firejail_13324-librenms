@@ -1,0 +1,5 @@
+10205-firejail,13324-librenms
+print.c,rewrites.php,\src\fsec-print\print.c,\includes\rewrites.php,a532e1235b05a01261ed4f8b4b722622,5389d55c6eafa211ede2994f342bca9b,-8096923412020553513,5729127442933135575,5,N,257,1602,41
+print.c,ports.csv.inc.php,\src\fsec-print\print.c,\includes\html\reports\ports.csv.inc.php,a532e1235b05a01261ed4f8b4b722622,363f50b93f6f3f7b86ed810c407bde48,-8096923412020553513,5729127512726350071,7,N,257,140,33
+print.c,viptela.inc.php,\src\fsec-print\print.c,\includes\polling\os\viptela.inc.php,a532e1235b05a01261ed4f8b4b722622,c64de710870736d919a9de98ce834a46,-8096923412020553513,5729127442928941271,6,N,257,48,15
+print.c,AdvaSysAlmTrap.php,\src\fsec-print\print.c,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,a532e1235b05a01261ed4f8b4b722622,56f813b9379330897dbc82d45cf9f46e,-8096923412020553513,1121945025240414455,6,N,257,32,9

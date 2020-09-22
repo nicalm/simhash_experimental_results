@@ -1,0 +1,4 @@
+6422-roundcubemail,6444-yara
+rcube_tnef_decoder.php,grammar.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\libyara\grammar.c,8ca46cd084af91332151df25d1c4bd66,306ae4ed5d0a265782bc5a130c6f342f,5729127442933266647,5730252312047818967,5,N,520,3301,130
+rcube_tnef_decoder.php,pe_utils.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\libyara\modules\pe\pe_utils.c,8ca46cd084af91332151df25d1c4bd66,85b3b0e9639ebe8f194fd360aa44aa10,5729127442933266647,5729127442933135575,1,N,520,1795,86
+rcube_sieve_script.php,pe_utils.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\libyara\modules\pe\pe_utils.c,3c3c719b9a27e12464461daf90f00d1d,85b3b0e9639ebe8f194fd360aa44aa10,5153229640599894231,5729127442933135575,5,N,1009,1795,102

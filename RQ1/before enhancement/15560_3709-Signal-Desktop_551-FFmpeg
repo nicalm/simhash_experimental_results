@@ -1,0 +1,5 @@
+3709-Signal-Desktop,551-FFmpeg
+Mp3LameEncoder.min.js,vp9block.c,\js\Mp3LameEncoder.min.js,\libavcodec\vp9block.c,0997e68d893d6fb7c0130871cc3a8307,70e1349173cd4670ae460ef7cef42629,2300675023497110206,2264650624390515390,7,N,44839,1295,257
+Mp3LameEncoder.min.js,signature_lookup.c,\js\Mp3LameEncoder.min.js,\libavfilter\signature_lookup.c,0997e68d893d6fb7c0130871cc3a8307,5fb55324f1667dc11712c30e62c1e991,2300675023497110206,2304057121129999102,7,N,44839,467,130
+Mp3LameEncoder.js,vp9block.c,\components\mp3lameencoder\lib\Mp3LameEncoder.js,\libavcodec\vp9block.c,0997e68d893d6fb7c0130871cc3a8307,70e1349173cd4670ae460ef7cef42629,2300675023497110206,2264650624390515390,7,N,44839,1295,257
+Mp3LameEncoder.js,signature_lookup.c,\components\mp3lameencoder\lib\Mp3LameEncoder.js,\libavfilter\signature_lookup.c,0997e68d893d6fb7c0130871cc3a8307,5fb55324f1667dc11712c30e62c1e991,2300675023497110206,2304057121129999102,7,N,44839,467,130

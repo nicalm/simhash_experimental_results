@@ -1,0 +1,10 @@
+2496-proxygen,790-libuv
+http_parser_cpp.cpp,handle-inl.h,\proxygen\external\http_parser\http_parser_cpp.cpp,\src\win\handle-inl.h,3f30cfe00a1b12b06b5ae798a28cbb38,34080acd31e6a3b5bf545c24c6e85c3f,5728846517712238791,5729127442933135571,4,N,1837,110,38
+HTTPEvent.cpp,s5.c,\proxygen\lib\http\session\HTTPEvent.cpp,\samples\socks5-proxy\s5.c,f531f441ddbf402ce38379a73fb55e94,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442933135573,6846020141864235479,8,N,33,221,11
+HTTPEvent.cpp,handle-inl.h,\proxygen\lib\http\session\HTTPEvent.cpp,\src\win\handle-inl.h,f531f441ddbf402ce38379a73fb55e94,34080acd31e6a3b5bf545c24c6e85c3f,5729127442933135573,5729127442933135571,2,N,33,110,11
+HTTPTransactionEgressSM.cpp,s5.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\samples\socks5-proxy\s5.c,efc78e843307fbae0fa015e7df0a883b,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442933135575,6846020141864235479,7,N,102,221,24
+HTTPTransactionEgressSM.cpp,handle-inl.h,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\src\win\handle-inl.h,efc78e843307fbae0fa015e7df0a883b,34080acd31e6a3b5bf545c24c6e85c3f,5729127442933135575,5729127442933135571,1,N,102,110,17
+HTTPTransactionEgressSM.cpp,req-inl.h,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\src\win\req-inl.h,efc78e843307fbae0fa015e7df0a883b,8f8490b9a2a16c0821fd15a0612918a2,5729127442933135575,5729110126698821787,8,N,102,145,18
+HTTPTransactionIngressSM.cpp,s5.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\samples\socks5-proxy\s5.c,da1ef343309f9dc24e096acd73b993d0,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442933135575,6846020141864235479,7,N,110,221,27
+HTTPTransactionIngressSM.cpp,handle-inl.h,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\src\win\handle-inl.h,da1ef343309f9dc24e096acd73b993d0,34080acd31e6a3b5bf545c24c6e85c3f,5729127442933135575,5729127442933135571,1,N,110,110,17
+HTTPTransactionIngressSM.cpp,req-inl.h,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\src\win\req-inl.h,da1ef343309f9dc24e096acd73b993d0,8f8490b9a2a16c0821fd15a0612918a2,5729127442933135575,5729110126698821787,8,N,110,145,18

@@ -1,0 +1,4 @@
+1366-gradle,5991-cJSON
+CUnit.h,unity_internals.h,\subprojects\docs\src\snippets\native-binaries\cunit\libs\cunit\2.1-2\include\CUnit\CUnit.h,\tests\unity\src\unity_internals.h,7cdfbbb60efd2da8ef9753cd11d5a1e3,c48f2ef9d57759a1fe49b445259832f1,-8023491229243761892,-8023445049755510628,8,N,143,652,19
+gtest-port.h,unity_internals.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\tests\unity\src\unity_internals.h,23446e26c2aacb9eb58191ae642bfa7a,c48f2ef9d57759a1fe49b445259832f1,-7879329861679654756,-8023445049755510628,1,N,906,652,98
+gtest-port.h,unity_internals.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\tests\unity\src\unity_internals.h,23446e26c2aacb9eb58191ae642bfa7a,c48f2ef9d57759a1fe49b445259832f1,-7879329861679654756,-8023445049755510628,1,N,906,652,98

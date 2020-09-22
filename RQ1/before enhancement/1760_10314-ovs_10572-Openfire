@@ -1,0 +1,4 @@
+10314-ovs,10572-Openfire
+meta-flow.c,ProfiledConnection.java,\lib\meta-flow.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,4ad0807aab7a18dba65cdfc3eca5215b,82b3cca56b0b2195d9beda1ef5898c9c,5729127442933135575,5747704796764879063,5,N,2904,828,248
+meta-flow.c,GroupEventDispatcher.java,\lib\meta-flow.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,4ad0807aab7a18dba65cdfc3eca5215b,68bd878d44b313df2afdd340fe0c0022,5729127442933135575,8016956053561850069,6,N,2904,73,27
+odp-execute.c,ProfiledConnection.java,\lib\odp-execute.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,83542f791911fea52119ed8e83daa783,82b3cca56b0b2195d9beda1ef5898c9c,5729109850746038487,5747704796764879063,8,N,799,828,194

@@ -1,0 +1,5 @@
+10395-jitsi,18692-spdk
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,scsi_bdev.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,\lib\scsi\scsi_bdev.c,b777786e5dc2dbfda20f2e6ab1b6e3d1,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,5729127442933135575,6752569358741453045,8,N,851,1475,177
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,scsi_bdev.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,\lib\scsi\scsi_bdev.c,463ade7b00f34e712a6606ace511d963,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,5729127442933135575,6752569358741453045,8,N,949,1475,194
+lzma.h,queue.h,\src\native\windows\setup\include\lzma.h,\include\spdk\queue.h,4ce48c8f939c04739c2c0b8409ca662f,ec100905d717ef23a63f758030236499,-8023445049755510628,-9212465172521363396,8,N,121,30,9
+lzma.h,assert.h,\src\native\windows\setup\include\lzma.h,\include\spdk_internal\assert.h,4ce48c8f939c04739c2c0b8409ca662f,340c3c292f11b3661cb114f5fb4a2722,-8023445049755510628,-7384004271941560100,7,N,121,16,9

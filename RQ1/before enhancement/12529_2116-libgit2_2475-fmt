@@ -1,0 +1,16 @@
+2116-libgit2,2475-fmt
+settings.c,chrono_duration.cpp,\src\settings.c,\test\fuzzing\chrono_duration.cpp,718930b70d05c094a268632a2f1ec06a,72440fd90a0d01848031589bb2a841a9,6882048947539982549,5729127447228102871,3,N,238,129,38
+settings.c,named_arg.cpp,\src\settings.c,\test\fuzzing\named_arg.cpp,718930b70d05c094a268632a2f1ec06a,00aa34b86ac78c67b4d7e85b5321fbaf,6882048947539982549,2270327736013994197,7,N,238,108,26
+settings.c,one_arg.cpp,\src\settings.c,\test\fuzzing\one_arg.cpp,718930b70d05c094a268632a2f1ec06a,883cdbba8da3fa541c4927e1ea02ff22,6882048947539982549,2270360721499404501,3,N,238,117,31
+settings.c,sprintf.cpp,\src\settings.c,\test\fuzzing\sprintf.cpp,718930b70d05c094a268632a2f1ec06a,c2ddd179a4100129a6f72f09df658863,6882048947539982549,1117439216892295391,8,N,238,101,23
+settings.c,two_args.cpp,\src\settings.c,\test\fuzzing\two_args.cpp,718930b70d05c094a268632a2f1ec06a,c159700c6123fdba738f71e168dab048,6882048947539982549,1117439216892295391,8,N,238,97,22
+http_parser.c,chrono_duration.cpp,\deps\http-parser\http_parser.c,\test\fuzzing\chrono_duration.cpp,624ed39402aecf1d658c88ffcffaee6d,72440fd90a0d01848031589bb2a841a9,5728845967956424919,5729127447228102871,2,N,1620,129,41
+http_parser.c,one_arg.cpp,\deps\http-parser\http_parser.c,\test\fuzzing\one_arg.cpp,624ed39402aecf1d658c88ffcffaee6d,883cdbba8da3fa541c4927e1ea02ff22,5728845967956424919,2270360721499404501,6,N,1620,117,36
+http_parser.c,sprintf.cpp,\deps\http-parser\http_parser.c,\test\fuzzing\sprintf.cpp,624ed39402aecf1d658c88ffcffaee6d,c2ddd179a4100129a6f72f09df658863,5728845967956424919,1117439216892295391,7,N,1620,101,29
+http_parser.c,two_args.cpp,\deps\http-parser\http_parser.c,\test\fuzzing\two_args.cpp,624ed39402aecf1d658c88ffcffaee6d,c159700c6123fdba738f71e168dab048,5728845967956424919,1117439216892295391,7,N,1620,97,28
+pcre_dfa_exec.c,chrono_duration.cpp,\deps\pcre\pcre_dfa_exec.c,\test\fuzzing\chrono_duration.cpp,f03c3b607d6e42dce79c2eef8aca81da,72440fd90a0d01848031589bb2a841a9,5734765807279847671,5729127447228102871,6,N,2711,129,38
+pcre_fullinfo.c,chrono_duration.cpp,\deps\pcre\pcre_fullinfo.c,\test\fuzzing\chrono_duration.cpp,8923cc431580197b3e121f54e41dba57,72440fd90a0d01848031589bb2a841a9,5729127442933135575,5729127447228102871,1,N,135,129,31
+pcre_fullinfo.c,one_arg.cpp,\deps\pcre\pcre_fullinfo.c,\test\fuzzing\one_arg.cpp,8923cc431580197b3e121f54e41dba57,883cdbba8da3fa541c4927e1ea02ff22,5729127442933135575,2270360721499404501,5,N,135,117,22
+pcre_fullinfo.c,sprintf.cpp,\deps\pcre\pcre_fullinfo.c,\test\fuzzing\sprintf.cpp,8923cc431580197b3e121f54e41dba57,c2ddd179a4100129a6f72f09df658863,5729127442933135575,1117439216892295391,6,N,135,101,19
+pcre_fullinfo.c,two_args.cpp,\deps\pcre\pcre_fullinfo.c,\test\fuzzing\two_args.cpp,8923cc431580197b3e121f54e41dba57,c159700c6123fdba738f71e168dab048,5729127442933135575,1117439216892295391,6,N,135,97,18
+pcre_study.c,chrono.h,\deps\pcre\pcre_study.c,\include\fmt\chrono.h,475ef1bd26f99d0cd00fb931bf89bf49,d7a659fa610972243b9336eeca91196e,1045106755685365980,1009636508425820364,6,N,1138,877,124

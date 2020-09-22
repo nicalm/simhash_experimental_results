@@ -1,0 +1,3 @@
+12310-weechat,2283-capnproto
+wee-url.c,miniposix.h,\src\core\wee-url.c,\c++\src\kj\miniposix.h,2182536a79bada4949d9bc0483b5da6d,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,1111,84,22
+gui-curses-term.c,miniposix.h,\src\gui\curses\gui-curses-term.c,\c++\src\kj\miniposix.h,12c6b2e5780349c1e6b15f2a0f08c5ca,43597d9a9103c02dbbe46d2c58ecc748,-7447028277908808228,-7455991496707810916,8,N,23,84,9

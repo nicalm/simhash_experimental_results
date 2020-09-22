@@ -1,0 +1,17 @@
+2389-Pillow,2578-calibre
+outline.c,icu.c,\src\outline.c,\src\calibre\utils\icu.c,3a28dd793909ad17fd4fe793c2c98f21,cd37a588d72dc650b1605652a98cdbbf,6149330847881464185,6293481254691244923,6,N,129,1035,58
+outline.c,matcher.c,\src\outline.c,\src\calibre\utils\matcher.c,3a28dd793909ad17fd4fe793c2c98f21,494267b3cfeca8b0cc326b6e3a542c48,6149330847881464185,6007678600211564665,7,N,129,450,43
+outline.c,freetype.cpp,\src\outline.c,\src\calibre\utils\fonts\freetype.cpp,3a28dd793909ad17fd4fe793c2c98f21,ce45c5119568c18bcc4b88728e2ae53e,6149330847881464185,6293727511001139579,4,N,129,285,48
+outline.c,compressor.c,\src\outline.c,\src\calibre\utils\lzx\compressor.c,3a28dd793909ad17fd4fe793c2c98f21,5755b84f9cfea700a114eecf630b18c2,6149330847881464185,6293727236257450363,8,N,129,326,57
+outline.c,outline.cpp,\src\outline.c,\src\calibre\utils\podofo\outline.cpp,3a28dd793909ad17fd4fe793c2c98f21,580a07991153b8911ca19368156953d8,6149330847881464185,6293727511001139579,4,N,129,113,43
+outline.c,hunspell_wrapper.cpp,\src\outline.c,\src\calibre\utils\spell\hunspell_wrapper.cpp,3a28dd793909ad17fd4fe793c2c98f21,195a888d0e68116525f29c9a10a6a8ae,6149330847881464185,6293727511001139579,4,N,129,173,43
+outline.c,libmtp.c,\src\outline.c,\src\calibre\devices\mtp\unix\libmtp.c,3a28dd793909ad17fd4fe793c2c98f21,643e9fd59a2e24e13ae9dbb560dc0283,6149330847881464185,6301890001857874299,8,N,129,598,48
+outline.c,device.cpp,\src\outline.c,\src\calibre\devices\mtp\windows\device.cpp,3a28dd793909ad17fd4fe793c2c98f21,52fe950afa93fcd616d4241f58ddc10b,6149330847881464185,6293727510934030715,3,N,129,183,44
+outline.c,html.c,\src\outline.c,\src\calibre\gui2\tweak_book\editor\syntax\html.c,3a28dd793909ad17fd4fe793c2c98f21,f259b1a2bf100f044cdb9be8bdc7dd2e,6149330847881464185,6293762695373228411,5,N,129,467,51
+_webp.c,freetype.cpp,\src\_webp.c,\src\calibre\utils\fonts\freetype.cpp,a6a0ea6d234787d4b7b44eb1d91e9dd7,ce45c5119568c18bcc4b88728e2ae53e,5140806040756132220,6293727511001139579,7,N,677,285,101
+_webp.c,outline.cpp,\src\_webp.c,\src\calibre\utils\podofo\outline.cpp,a6a0ea6d234787d4b7b44eb1d91e9dd7,580a07991153b8911ca19368156953d8,5140806040756132220,6293727511001139579,7,N,677,113,47
+_webp.c,hunspell_wrapper.cpp,\src\_webp.c,\src\calibre\utils\spell\hunspell_wrapper.cpp,a6a0ea6d234787d4b7b44eb1d91e9dd7,195a888d0e68116525f29c9a10a6a8ae,5140806040756132220,6293727511001139579,7,N,677,173,57
+_webp.c,device.cpp,\src\_webp.c,\src\calibre\devices\mtp\windows\device.cpp,a6a0ea6d234787d4b7b44eb1d91e9dd7,52fe950afa93fcd616d4241f58ddc10b,5140806040756132220,6293727510934030715,8,N,677,183,55
+_webp.c,html.c,\src\_webp.c,\src\calibre\gui2\tweak_book\editor\syntax\html.c,a6a0ea6d234787d4b7b44eb1d91e9dd7,f259b1a2bf100f044cdb9be8bdc7dd2e,5140806040756132220,6293762695373228411,8,N,677,467,121
+ImPlatform.h,lzxc.c,\src\libImaging\ImPlatform.h,\src\calibre\utils\lzx\lzxc.c,6670b4584189b95bdcaaa198dabbf5c8,5148bebfcfad4cb4119b4e362bc0686f,-8024570949662353252,-8059473846773950244,4,N,58,1033,16
+ImPlatform.h,msstdint.h,\src\libImaging\ImPlatform.h,\src\calibre\utils\lzx\msstdint.h,6670b4584189b95bdcaaa198dabbf5c8,2dacb8ee9f393a22b1266f714d3efcd6,-8024570949662353252,-2830794129776780644,8,N,58,138,15

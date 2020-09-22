@@ -1,0 +1,4 @@
+1366-gradle,5868-libvips
+CUnit.h,vector.c,\subprojects\docs\src\snippets\native-binaries\cunit\libs\cunit\2.1-2\include\CUnit\CUnit.h,\libvips\iofuncs\vector.c,7cdfbbb60efd2da8ef9753cd11d5a1e3,055954f4e165b83818f7e8bd6db904ec,-8023491229243761892,-8023484632710850404,8,N,143,400,18
+gtest-port.h,vector.c,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\libvips\iofuncs\vector.c,23446e26c2aacb9eb58191ae642bfa7a,055954f4e165b83818f7e8bd6db904ec,-7879329861679654756,-8023484632710850404,5,N,906,400,73
+gtest-port.h,vector.c,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\libvips\iofuncs\vector.c,23446e26c2aacb9eb58191ae642bfa7a,055954f4e165b83818f7e8bd6db904ec,-7879329861679654756,-8023484632710850404,5,N,906,400,73

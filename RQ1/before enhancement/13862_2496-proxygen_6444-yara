@@ -1,0 +1,10 @@
+2496-proxygen,6444-yara
+http_parser_cpp.cpp,grammar.c,\proxygen\external\http_parser\http_parser_cpp.cpp,\libyara\grammar.c,3f30cfe00a1b12b06b5ae798a28cbb38,306ae4ed5d0a265782bc5a130c6f342f,5728846517712238791,5730252312047818967,7,N,1837,3301,468
+http_parser_cpp.cpp,pe_utils.c,\proxygen\external\http_parser\http_parser_cpp.cpp,\libyara\modules\pe\pe_utils.c,3f30cfe00a1b12b06b5ae798a28cbb38,85b3b0e9639ebe8f194fd360aa44aa10,5728846517712238791,5729127442933135575,3,N,1837,1795,227
+HQUnidirectionalCodec.cpp,pe_utils.c,\proxygen\lib\http\codec\HQUnidirectionalCodec.cpp,\libyara\modules\pe\pe_utils.c,c63a9db88da250e117ed0176a07b164b,85b3b0e9639ebe8f194fd360aa44aa10,6901435530118478039,5729127442933135575,8,N,40,1795,14
+HTTPEvent.cpp,grammar.c,\proxygen\lib\http\session\HTTPEvent.cpp,\libyara\grammar.c,f531f441ddbf402ce38379a73fb55e94,306ae4ed5d0a265782bc5a130c6f342f,5729127442933135573,5730252312047818967,5,N,33,3301,11
+HTTPEvent.cpp,pe_utils.c,\proxygen\lib\http\session\HTTPEvent.cpp,\libyara\modules\pe\pe_utils.c,f531f441ddbf402ce38379a73fb55e94,85b3b0e9639ebe8f194fd360aa44aa10,5729127442933135573,5729127442933135575,1,N,33,1795,11
+HTTPTransactionEgressSM.cpp,grammar.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\libyara\grammar.c,efc78e843307fbae0fa015e7df0a883b,306ae4ed5d0a265782bc5a130c6f342f,5729127442933135575,5730252312047818967,4,N,102,3301,24
+HTTPTransactionEgressSM.cpp,pe_utils.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\libyara\modules\pe\pe_utils.c,efc78e843307fbae0fa015e7df0a883b,85b3b0e9639ebe8f194fd360aa44aa10,5729127442933135575,5729127442933135575,0,N,102,1795,24
+HTTPTransactionIngressSM.cpp,grammar.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\libyara\grammar.c,da1ef343309f9dc24e096acd73b993d0,306ae4ed5d0a265782bc5a130c6f342f,5729127442933135575,5730252312047818967,4,N,110,3301,27
+HTTPTransactionIngressSM.cpp,pe_utils.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\libyara\modules\pe\pe_utils.c,da1ef343309f9dc24e096acd73b993d0,85b3b0e9639ebe8f194fd360aa44aa10,5729127442933135575,5729127442933135575,0,N,110,1795,26

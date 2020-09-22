@@ -1,0 +1,8 @@
+12688-ffi,9023-zoneminder
+compat.h,zm_ffmpeg.h,\ext\ffi_c\compat.h,\src\zm_ffmpeg.h,89860486007fe9b6739772aa0b042837,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023447251463120740,-8023445049755510628,3,N,38,281,12
+compat.h,zm_signal.h,\ext\ffi_c\compat.h,\src\zm_signal.h,89860486007fe9b6739772aa0b042837,95bf5749d181b4fa528e43c6e262e7a0,-8023447251463120740,-8057222049236199396,8,N,38,27,5
+DynamicLibrary.h,zm_ffmpeg.h,\ext\ffi_c\DynamicLibrary.h,\src\zm_ffmpeg.h,85bcc5d631466c02273f9899152b054b,7e2fcd3ba00999285d6aaf2ef78cc14d,-5753630837560780644,-8023445049755510628,2,N,49,281,19
+DynamicLibrary.h,zm_signal.h,\ext\ffi_c\DynamicLibrary.h,\src\zm_signal.h,85bcc5d631466c02273f9899152b054b,95bf5749d181b4fa528e43c6e262e7a0,-5753630837560780644,-8057222049236199396,7,N,49,27,4
+DynamicLibrary.h,ow-crypt.h,\ext\ffi_c\DynamicLibrary.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,85bcc5d631466c02273f9899152b054b,0cee51bfed48b1ba46a8ed164a5e5017,-5753630837560780644,-5429384857455895396,6,N,49,23,4
+rbffi_endian.h,zm_ffmpeg.h,\ext\ffi_c\rbffi_endian.h,\src\zm_ffmpeg.h,f869d8d0ddc657c2a3138058f91acb6c,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049822619428,-8023445049755510628,2,N,50,281,14
+rbffi_endian.h,ow-crypt.h,\ext\ffi_c\rbffi_endian.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,f869d8d0ddc657c2a3138058f91acb6c,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049822619428,-5429384857455895396,8,N,50,23,4

@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,140-neovim
+jmorecfg.h,func_attr.h,\jmorecfg.h,\src\nvim\func_attr.h,1469bb97fe30335d1c73bd97389298b2,09c1a1629d6fa1c24e2cb5acdc7bfde8,-8023517342645037028,-8023445049755510628,4,N,162,159,22
+jmorecfg.h,win_defs.h,\jmorecfg.h,\src\nvim\os\win_defs.h,1469bb97fe30335d1c73bd97389298b2,559a6dc04630310a39a09d004fb6797d,-8023517342645037028,-8023445049755510628,4,N,162,84,23
+jccolext-altivec.c,func_attr.h,\simd\powerpc\jccolext-altivec.c,\src\nvim\func_attr.h,f35971d8d3460ef5abe9dca10e095ed1,09c1a1629d6fa1c24e2cb5acdc7bfde8,-3267362370959935348,-8023445049755510628,8,N,174,159,12
+jccolext-altivec.c,win_defs.h,\simd\powerpc\jccolext-altivec.c,\src\nvim\os\win_defs.h,f35971d8d3460ef5abe9dca10e095ed1,559a6dc04630310a39a09d004fb6797d,-3267362370959935348,-8023445049755510628,8,N,174,84,13

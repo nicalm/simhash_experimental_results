@@ -1,0 +1,4 @@
+6444-yara,9975-hexchat
+endian.h,typedef.h,\libyara\include\yara\endian.h,\src\common\typedef.h,f44500c257dc9e47f34b1473280aea77,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,55,20,7
+integers.h,typedef.h,\libyara\include\yara\integers.h,\src\common\typedef.h,f8e220916ba72c943da73bf32049b841,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,57,20,7
+limits.h,typedef.h,\libyara\include\yara\limits.h,\src\common\typedef.h,1b76e5cbfb6a87b1b52e9aef743d23ec,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,77,20,6

@@ -1,0 +1,12 @@
+10081-irssi,702-swoole-src
+otr-ops.c,multipart_parser.c,\src\otr\otr-ops.c,\thirdparty\multipart_parser.c,78f1f6c5943450ae1c92e51ced46839e,7f2f6adb3104232d3e7d7ffdbf0d2f1a,1117440324994119895,5621032255581894871,8,N,248,243,48
+otr-ops.c,swoole_http_parser.c,\src\otr\otr-ops.c,\thirdparty\swoole_http_parser.c,78f1f6c5943450ae1c92e51ced46839e,d155f3ba8a7cdb53f79f34af305581eb,1117440324994119895,5729127442933135575,2,N,248,1234,70
+otr-ops.c,shared_server.php,\src\otr\otr-ops.c,\examples\task\shared_server.php,78f1f6c5943450ae1c92e51ced46839e,89d74cf619828e10fc034ee03643184a,1117440324994119895,1135455896583321814,7,N,248,111,39
+otr-ops.c,log.c,\src\otr\otr-ops.c,\src\core\log.c,78f1f6c5943450ae1c92e51ced46839e,fcd6d98ec4555c3e125d89e154fba5fa,1117440324994119895,5693098645905783253,6,N,248,114,40
+otr-ops.c,get.php,\src\otr\otr-ops.c,\tests\include\lib\src\responder\get.php,78f1f6c5943450ae1c92e51ced46839e,0e93a44800862fa891e9d4a8bd016ee0,1117440324994119895,8034970456441796823,4,N,248,71,20
+formats.c,multipart_parser.c,\src\fe-common\core\formats.c,\thirdparty\multipart_parser.c,81ad733fd560a7711254766564a4d1b4,7f2f6adb3104232d3e7d7ffdbf0d2f1a,5729127511652612311,5621032255581894871,7,N,1160,243,54
+formats.c,swoole_http_parser.c,\src\fe-common\core\formats.c,\thirdparty\swoole_http_parser.c,81ad733fd560a7711254766564a4d1b4,d155f3ba8a7cdb53f79f34af305581eb,5729127511652612311,5729127442933135575,1,N,1160,1234,260
+formats.c,shared_server.php,\src\fe-common\core\formats.c,\examples\task\shared_server.php,81ad733fd560a7711254766564a4d1b4,89d74cf619828e10fc034ee03643184a,5729127511652612311,1135455896583321814,6,N,1160,111,40
+formats.c,log.c,\src\fe-common\core\formats.c,\src\core\log.c,81ad733fd560a7711254766564a4d1b4,fcd6d98ec4555c3e125d89e154fba5fa,5729127511652612311,5693098645905783253,5,N,1160,114,42
+formats.c,nghttp2_hd.c,\src\fe-common\core\formats.c,\thirdparty\nghttp2\nghttp2_hd.c,81ad733fd560a7711254766564a4d1b4,7d4c1f0808e9df9ea63b7453c3ebb0f7,5729127511652612311,5730798769360440023,8,N,1160,1775,232
+formats.c,get.php,\src\fe-common\core\formats.c,\tests\include\lib\src\responder\get.php,81ad733fd560a7711254766564a4d1b4,0e93a44800862fa891e9d4a8bd016ee0,5729127511652612311,8034970456441796823,3,N,1160,71,20

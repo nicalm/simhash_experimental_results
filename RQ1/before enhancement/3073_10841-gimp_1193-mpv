@@ -1,0 +1,15 @@
+10841-gimp,1193-mpv
+language.c,stream_dvdnav.c,\app\language.c,\stream\stream_dvdnav.c,4139ff31319ee41dc528275c17de6aaa,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729127442933135575,1119693774075239127,5,N,699,595,46
+gimpwin32-io.h,io.h,\libgimpbase\gimpwin32-io.h,\osdep\io.h,56ef6d63cf2566b506fd29ef2a5dcc22,1e5b614f4ca8f110251d3d969bd9fa84,-8023445049755510628,-5573522037410505572,8,N,58,147,14
+gimpwin32-io.h,context.c,\libgimpbase\gimpwin32-io.h,\video\out\gpu\context.c,56ef6d63cf2566b506fd29ef2a5dcc22,54249a4a32b8a7f1f708836246c0e394,-8023445049755510628,-9176401463991052147,8,N,58,162,16
+gimpcoreconfig.c,stream_dvdnav.c,\app\config\gimpcoreconfig.c,\stream\stream_dvdnav.c,60331a7dddac7aef0155c034ea225f13,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729127442933135559,1119693774075239127,6,N,1172,595,71
+gimpdialogconfig.c,stream_dvdnav.c,\app\config\gimpdialogconfig.c,\stream\stream_dvdnav.c,3820fc02cf2195589ecaca19c1f1acba,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729127442933135575,1119693774075239127,5,N,821,595,61
+gimpdisplayconfig.c,stream_dvdnav.c,\app\config\gimpdisplayconfig.c,\stream\stream_dvdnav.c,65c592b669d0f1c67fe78ea51c147421,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729127442933136597,1119693774075239127,7,N,517,595,57
+gimpguiconfig.c,stream_dvdnav.c,\app\config\gimpguiconfig.c,\stream\stream_dvdnav.c,6a23ead81b5910e070d38e5744096c1e,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729131840845429975,1119693774075239127,8,N,769,595,54
+gimpitempropundo.c,stream_dvdnav.c,\app\core\gimpitempropundo.c,\stream\stream_dvdnav.c,8de99fe7f46f66a140b145fa072a9b8d,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729125864531606103,1119693774075239127,8,N,265,595,62
+gimpdisplayshell-title.c,stream_dvdnav.c,\app\display\gimpdisplayshell-title.c,\stream\stream_dvdnav.c,c3eb1838970cef0deeb23eaf230888b6,f72cbb2ffa3a3fbdd3531c8498b0a46a,5738134642187876567,1119693774075239127,6,N,408,595,88
+gimppaintoptions.c,stream_dvdnav.c,\app\paint\gimppaintoptions.c,\stream\stream_dvdnav.c,a07a4b807339eb34d624bdd3bea07b09,f72cbb2ffa3a3fbdd3531c8498b0a46a,5730253342839971031,1119693774075239127,6,N,1042,595,109
+gimprectangleoptions.c,stream_dvdnav.c,\app\tools\gimprectangleoptions.c,\stream\stream_dvdnav.c,8cb96c1f6566020af09c181289d1a9d5,f72cbb2ffa3a3fbdd3531c8498b0a46a,5729128027047631831,1119693774075239127,6,N,1007,595,88
+imap_csim_parse.c,compiler.h,\plug-ins\imagemap\imap_csim_parse.c,\osdep\compiler.h,6c0fd8dae4d7bb8f472f756f2edb786f,b67ad9eeefd9950bd47205a4fac19e42,-8888144974840538916,-7735225136714557420,8,N,1468,20,7
+imap_ncsa_parse.c,compiler.h,\plug-ins\imagemap\imap_ncsa_parse.c,\osdep\compiler.h,77d25a2cd7957fe736c5a4a3beae98fb,b67ad9eeefd9950bd47205a4fac19e42,-9176377550015506276,-7735225136714557420,7,N,1212,20,7
+script-fu-script.c,stream_dvdnav.c,\plug-ins\script-fu\script-fu-script.c,\stream\stream_dvdnav.c,c772b356e509f21e3b3221a39bd93d79,f72cbb2ffa3a3fbdd3531c8498b0a46a,5731660717722482775,1119693774075239127,8,N,783,595,98

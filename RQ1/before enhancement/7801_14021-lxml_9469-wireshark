@@ -1,0 +1,11 @@
+14021-lxml,9469-wireshark
+etree_defs.h,capture-pcap-util-unix.c,\src\lxml\includes\etree_defs.h,\caputils\capture-pcap-util-unix.c,77e60df86f933a8497d9a006ac09a2c9,732164ad7968090c687f684a8d22ddf4,-8023482433217963876,-7447089852715705444,8,N,319,342,48
+etree_defs.h,capture-wpcap.c,\src\lxml\includes\etree_defs.h,\caputils\capture-wpcap.c,77e60df86f933a8497d9a006ac09a2c9,4465a5891dcd863bd7471ed05fb6730b,-8023482433217963876,-8018941440464332644,7,N,319,903,50
+etree_defs.h,etypes.h,\src\lxml\includes\etree_defs.h,\epan\etypes.h,77e60df86f933a8497d9a006ac09a2c9,3c7973fde48d4ae5033b9c2baa52599a,-8023482433217963876,-8023445049755510628,3,N,319,437,36
+etree_defs.h,arch.h,\src\lxml\includes\etree_defs.h,\speexdsp\arch.h,77e60df86f933a8497d9a006ac09a2c9,7bd9f03a8b05e96ab303ecf68fd17137,-8023482433217963876,-7951950405671003748,6,N,319,154,20
+etree_defs.h,iface_lists.h,\src\lxml\includes\etree_defs.h,\ui\iface_lists.h,77e60df86f933a8497d9a006ac09a2c9,fb074d786200a9bd1618662864d247fa,-8023482433217963876,-8055146169007552363,8,N,319,15,5
+etree_defs.h,socket.h,\src\lxml\includes\etree_defs.h,\wsutil\socket.h,77e60df86f933a8497d9a006ac09a2c9,a3ae2cbf446c30568118c6e63dbabe8b,-8023482433217963876,-7429535048053501924,8,N,319,42,11
+etree_defs.h,wsgetopt.h,\src\lxml\includes\etree_defs.h,\wsutil\wsgetopt.h,77e60df86f933a8497d9a006ac09a2c9,cac8543e0a5fa9f39bf8ae2cb6135ae2,-8023482433217963876,-7888381196018329380,8,N,319,68,16
+etree_defs.h,dot11decrypt_interop.h,\src\lxml\includes\etree_defs.h,\epan\crypt\dot11decrypt_interop.h,77e60df86f933a8497d9a006ac09a2c9,d7564edce1a33aac85261f4db23df308,-8023482433217963876,-8023445049755510644,4,N,319,38,12
+etree_defs.h,lempar.c,\src\lxml\includes\etree_defs.h,\tools\lemon\lempar.c,77e60df86f933a8497d9a006ac09a2c9,05ab4abcab36d427f4565bdd5793be05,-8023482433217963876,-7879329861679654756,4,N,319,624,54
+etree_defs.h,main.cpp,\src\lxml\includes\etree_defs.h,\ui\qt\main.cpp,77e60df86f933a8497d9a006ac09a2c9,c5f031e07e57fe84d2e1a91122b033e3,-8023482433217963876,-8023445050023946084,4,N,319,650,55

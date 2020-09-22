@@ -1,0 +1,4 @@
+2004-skaffold,481-Hero
+text_parse.go,Array+HeroModifier.swift,\vendor\github.com\prometheus\common\expfmt\text_parse.go,\Sources\Extensions\Array+HeroModifier.swift,10e39a1fa8ae71d4174e017ade24d1b1,07097ec046e5ea4755eeafff46667ca2,2242092199458567978,1665631470778377002,8,N,574,35,17
+fake_custom_store.go,Array+HeroModifier.swift,\vendor\k8s.io\client-go\tools\cache\fake_custom_store.go,\Sources\Extensions\Array+HeroModifier.swift,cc40ff325c74340d790188d8c75aa09d,07097ec046e5ea4755eeafff46667ca2,2242101014878802538,1665631470778377002,8,N,66,35,17
+conversion.go,Array+HeroModifier.swift,\vendor\k8s.io\apimachinery\pkg\apis\meta\v1\conversion.go,\Sources\Extensions\Array+HeroModifier.swift,312868bbbfe33c9647666f17b80c7f71,07097ec046e5ea4755eeafff46667ca2,2242092197310953258,1665631470778377002,6,N,311,35,17

@@ -1,0 +1,5 @@
+12310-weechat,12688-ffi
+wee-url.c,compat.h,\src\core\wee-url.c,\ext\ffi_c\compat.h,2182536a79bada4949d9bc0483b5da6d,89860486007fe9b6739772aa0b042837,-8023445049755510628,-8023447251463120740,3,N,1111,38,12
+wee-url.c,DynamicLibrary.h,\src\core\wee-url.c,\ext\ffi_c\DynamicLibrary.h,2182536a79bada4949d9bc0483b5da6d,85bcc5d631466c02273f9899152b054b,-8023445049755510628,-5753630837560780644,2,N,1111,49,16
+wee-url.c,rbffi_endian.h,\src\core\wee-url.c,\ext\ffi_c\rbffi_endian.h,2182536a79bada4949d9bc0483b5da6d,f869d8d0ddc657c2a3138058f91acb6c,-8023445049755510628,-8023445049822619428,2,N,1111,50,13
+gui-curses-term.c,rbffi_endian.h,\src\gui\curses\gui-curses-term.c,\ext\ffi_c\rbffi_endian.h,12c6b2e5780349c1e6b15f2a0f08c5ca,f869d8d0ddc657c2a3138058f91acb6c,-7447028277908808228,-8023445049822619428,7,N,23,50,8

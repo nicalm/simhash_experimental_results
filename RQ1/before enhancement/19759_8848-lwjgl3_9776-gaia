@@ -1,0 +1,6 @@
+8848-lwjgl3,9776-gaia
+CGLLog.cpp,orientation.js,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,\dev_apps\uitest\js\API\orientation.js,8ed8843634d29dc9d42c00e6488ff838,7f674abe2d64a83f3c5f7fc6b2372c43,6882048947539982551,5729127442933135575,1,N,80,55,18
+CGLLog.cpp,lcd.js,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,\dev_apps\uitest\js\HW\lcd.js,8ed8843634d29dc9d42c00e6488ff838,3ab7d944f9f63d991cca7c6b1fe0faa4,6882048947539982551,973255871980679315,8,N,80,62,8
+CGLLog.cpp,pdf.worker.js,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,\disabled_apps\pdfjs\content\build\pdf.worker.js,8ed8843634d29dc9d42c00e6488ff838,0b5f788a191b12bb182b6955242c5ffb,6882048947539982551,6899975385106659575,6,N,80,37193,22
+GLFWNativeWGL.java,update_manager.js,\modules\lwjgl\glfw\src\generated\java\org\lwjgl\glfw\GLFWNativeWGL.java,\apps\system\js\update_manager.js,a4a47daf5bd187ba6b002b8949ae1565,96a5b9d9e0a42e82f231fd7c3f05163c,1535736580124442867,3846083190936832243,8,N,51,764,14
+HelloTinyFD.java,orientation.js,\modules\samples\src\test\java\org\lwjgl\demo\util\tinyfd\HelloTinyFD.java,\dev_apps\uitest\js\API\orientation.js,7e4d2c24f0f9282302d7bc1ac92e46d3,7f674abe2d64a83f3c5f7fc6b2372c43,5589480944986274003,5729127442933135575,6,N,113,55,13

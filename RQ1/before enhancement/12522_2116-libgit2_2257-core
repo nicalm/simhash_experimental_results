@@ -1,0 +1,9 @@
+2116-libgit2,2257-core
+settings.c,appconfig.php,\src\settings.c,\core\ajax\appconfig.php,718930b70d05c094a268632a2f1ec06a,031cdb064a8d37cd4b40af5d608c8543,6882048947539982549,5152665582536538583,8,N,238,37,10
+settings.c,MDB2SchemaReader.php,\src\settings.c,\lib\private\DB\MDB2SchemaReader.php,718930b70d05c094a268632a2f1ec06a,d8397eafd4a2b3b1ab041811b2ffbaec,6882048947539982549,5731379242747078871,5,N,238,238,47
+http_parser.c,appconfig.php,\deps\http-parser\http_parser.c,\core\ajax\appconfig.php,624ed39402aecf1d658c88ffcffaee6d,031cdb064a8d37cd4b40af5d608c8543,5728845967956424919,5152665582536538583,7,N,1620,37,10
+http_parser.c,MDB2SchemaReader.php,\deps\http-parser\http_parser.c,\lib\private\DB\MDB2SchemaReader.php,624ed39402aecf1d658c88ffcffaee6d,d8397eafd4a2b3b1ab041811b2ffbaec,5728845967956424919,5731379242747078871,4,N,1620,238,76
+pcre_dfa_exec.c,MDB2SchemaReader.php,\deps\pcre\pcre_dfa_exec.c,\lib\private\DB\MDB2SchemaReader.php,f03c3b607d6e42dce79c2eef8aca81da,d8397eafd4a2b3b1ab041811b2ffbaec,5734765807279847671,5731379242747078871,8,N,2711,238,72
+pcre_fullinfo.c,appconfig.php,\deps\pcre\pcre_fullinfo.c,\core\ajax\appconfig.php,8923cc431580197b3e121f54e41dba57,031cdb064a8d37cd4b40af5d608c8543,5729127442933135575,5152665582536538583,6,N,135,37,9
+pcre_fullinfo.c,MDB2SchemaReader.php,\deps\pcre\pcre_fullinfo.c,\lib\private\DB\MDB2SchemaReader.php,8923cc431580197b3e121f54e41dba57,d8397eafd4a2b3b1ab041811b2ffbaec,5729127442933135575,5731379242747078871,3,N,135,238,28
+pcre_printint.c,MDB2SchemaReader.php,\deps\pcre\pcre_printint.c,\lib\private\DB\MDB2SchemaReader.php,45da6b48d068b2a9be418b4e58f5dcbd,d8397eafd4a2b3b1ab041811b2ffbaec,1119416149570533845,5731379242747078871,8,N,591,238,71

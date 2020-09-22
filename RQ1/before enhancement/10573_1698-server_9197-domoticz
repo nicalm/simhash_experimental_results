@@ -1,0 +1,5 @@
+1698-server,9197-domoticz
+MDB2SchemaReader.php,mainworker.cpp,\lib\private\DB\MDB2SchemaReader.php,\main\mainworker.cpp,d647cd0d11a5a459553ceaf5b5657b44,f4c4b426730e0f8963be06c217764882,5731379242742884567,5729136239026157783,5,N,240,12106,73
+MDB2SchemaReader.php,RFXNames.cpp,\lib\private\DB\MDB2SchemaReader.php,\main\RFXNames.cpp,d647cd0d11a5a459553ceaf5b5657b44,05aacb23294caf3c3e603f6de8b04624,5731379242742884567,5693098645906077919,8,N,240,3550,68
+MDB2SchemaReader.php,xpath_processor.cpp,\lib\private\DB\MDB2SchemaReader.php,\tinyxpath\xpath_processor.cpp,d647cd0d11a5a459553ceaf5b5657b44,46c992ef05a1f80abafff69ee425bf9c,5731379242742884567,5729127995910174935,7,N,240,1762,73
+MDB2SchemaReader.php,luac.c,\lib\private\DB\MDB2SchemaReader.php,\lua\src\luac.c,d647cd0d11a5a459553ceaf5b5657b44,99d8d7525e1c748615ef56686101dd51,5731379242742884567,5695192167593326807,7,N,240,390,61

@@ -1,0 +1,11 @@
+12658-Espruino,63225-sedutil
+usbd_cdc_vcp.c,sedutil.cpp,\targetlibs\stm32f2\usb\usbd_cdc_vcp.c,\Common\sedutil.cpp,aafa0dd68773b97c35921fdd4ac3023b,d52e516d82c7919c579e6283c901df60,-1800891141546526505,5693098645914171606,6,N,57,243,17
+usbd_cdc_if_template.c,sedutil.cpp,\targetlibs\stm32f2\usblib\usbd_cdc_if_template.c,\Common\sedutil.cpp,fc746828c603b8a415ff05fad2b3a4af,d52e516d82c7919c579e6283c901df60,5729092258560261335,5693098645914171606,6,N,74,243,23
+usbd_req.c,sedutil.cpp,\targetlibs\stm32f2\usblib\usbd_req.c,\Common\sedutil.cpp,540dc3bc0b308dbc62f694b62c92e7a6,d52e516d82c7919c579e6283c901df60,4828407586178242775,5693098645914171606,7,N,546,243,56
+fds.c,sedutil.cpp,\targetlibs\nrf5x_12\components\libraries\fds\fds.c,\Common\sedutil.cpp,284e596de7e8b6e1bc2bd3d8c076f789,d52e516d82c7919c579e6283c901df60,-2371792755543492393,5693098645914171606,8,N,1421,243,56
+nrf_ic_info.c,sedutil.cpp,\targetlibs\nrf5x_12\components\libraries\ic_info\nrf_ic_info.c,\Common\sedutil.cpp,611ce22edb63078bcc7ab6a37afd7228,d52e516d82c7919c579e6283c901df60,3414277235001563335,5693098645914171606,8,N,43,243,14
+stm32l4xx_ll_exti.c,sedutil.cpp,\targetlibs\stm32l4\lib\STM32L4xx_HAL_Driver\Src\stm32l4xx_ll_exti.c,\Common\sedutil.cpp,ecae1e409d9bb44c1aa81864d3d36f93,d52e516d82c7919c579e6283c901df60,5621604007198636151,5693098645914171606,8,N,151,243,31
+stm32l4xx_ll_rcc.c,sedutil.cpp,\targetlibs\stm32l4\lib\STM32L4xx_HAL_Driver\Src\stm32l4xx_ll_rcc.c,\Common\sedutil.cpp,28b935e43623e03a5b5c20596c5c31b1,d52e516d82c7919c579e6283c901df60,5733631042552117463,5693098645914171606,4,N,1201,243,56
+flatbuffer_conversions.cc,sedutil.cpp,\libs\tensorflow\tensorflow\lite\core\api\flatbuffer_conversions.cc,\Common\sedutil.cpp,25c4fa8877ac0e56378ce8af4372dd3b,d52e516d82c7919c579e6283c901df60,8039471852751075575,5693098645914171606,7,N,771,243,49
+comparisons.cc,sedutil.cpp,\libs\tensorflow\tensorflow\lite\experimental\micro\kernels\comparisons.cc,\Common\sedutil.cpp,e10daaec22513239d0abf46ffeb354d3,d52e516d82c7919c579e6283c901df60,7998941655127865495,5693098645914171606,3,N,303,243,43
+app_usbd_hid.c,sedutil.cpp,\targetlibs\nrf5x_12\components\libraries\usbd\class\hid\app_usbd_hid.c,\Common\sedutil.cpp,17c29ab1450feea705229c4697cfae20,d52e516d82c7919c579e6283c901df60,6846020219240753399,5693098645914171606,6,N,294,243,39

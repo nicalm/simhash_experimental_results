@@ -1,0 +1,4 @@
+5868-libvips,7408-DeepVideoAnalytics
+vector.c,bbox.c,\libvips\iofuncs\vector.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,055954f4e165b83818f7e8bd6db904ec,b42f28bb593ba51126ab3c36f2280e44,-8023484632710850404,-7735003018152322916,7,N,400,5912,101
+vector.c,cython_nms.c,\libvips\iofuncs\vector.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,055954f4e165b83818f7e8bd6db904ec,340c61e73ba74d7820ff458fae32d716,-8023484632710850404,-7735003018152322916,7,N,400,6623,101
+vector.c,gpu_nms.c,\libvips\iofuncs\vector.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,055954f4e165b83818f7e8bd6db904ec,c5f744cc55310f8443ffae08bc289c17,-8023484632710850404,-7735003018152322916,7,N,400,5655,101

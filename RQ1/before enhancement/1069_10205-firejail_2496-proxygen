@@ -1,0 +1,5 @@
+10205-firejail,2496-proxygen
+print.c,http_parser_cpp.cpp,\src\fsec-print\print.c,\proxygen\external\http_parser\http_parser_cpp.cpp,a532e1235b05a01261ed4f8b4b722622,3f30cfe00a1b12b06b5ae798a28cbb38,-8096923412020553513,5728846517712238791,8,N,257,1837,43
+print.c,HTTPEvent.cpp,\src\fsec-print\print.c,\proxygen\lib\http\session\HTTPEvent.cpp,a532e1235b05a01261ed4f8b4b722622,f531f441ddbf402ce38379a73fb55e94,-8096923412020553513,5729127442933135573,6,N,257,33,11
+print.c,HTTPTransactionEgressSM.cpp,\src\fsec-print\print.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,a532e1235b05a01261ed4f8b4b722622,efc78e843307fbae0fa015e7df0a883b,-8096923412020553513,5729127442933135575,5,N,257,102,24
+print.c,HTTPTransactionIngressSM.cpp,\src\fsec-print\print.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,a532e1235b05a01261ed4f8b4b722622,da1ef343309f9dc24e096acd73b993d0,-8096923412020553513,5729127442933135575,5,N,257,110,25

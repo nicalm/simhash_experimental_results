@@ -1,0 +1,6 @@
+305-symfony,9197-domoticz
+IpValidator.php,MySensorsBase.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\hardware\MySensorsBase.cpp,7ca48c5d09328c72e03da3c6a432f9bf,6cae5e3a1ab9ee7d8342dca148477146,5746860357875939543,7481027697980250327,7,N,69,2449,24
+IpValidator.php,json_writer.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\json\json_writer.cpp,7ca48c5d09328c72e03da3c6a432f9bf,d1974449d1798ba8f48c676801c0d6d9,5746860357875939543,973042564577409238,8,N,69,1064,24
+IpValidator.php,mainworker.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\main\mainworker.cpp,7ca48c5d09328c72e03da3c6a432f9bf,f4c4b426730e0f8963be06c217764882,5746860357875939543,5729136239026157783,5,N,69,12106,24
+IpValidator.php,RFXNames.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\main\RFXNames.cpp,7ca48c5d09328c72e03da3c6a432f9bf,05aacb23294caf3c3e603f6de8b04624,5746860357875939543,5693098645906077919,8,N,69,3550,23
+IpValidator.php,xpath_processor.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\tinyxpath\xpath_processor.cpp,7ca48c5d09328c72e03da3c6a432f9bf,46c992ef05a1f80abafff69ee425bf9c,5746860357875939543,5729127995910174935,7,N,69,1762,24

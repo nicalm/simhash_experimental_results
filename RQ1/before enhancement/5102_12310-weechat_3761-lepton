@@ -1,0 +1,16 @@
+12310-weechat,3761-lepton
+wee-url.c,test_harness.cc,\src\core\wee-url.c,\test_suite\test_harness.cc,2182536a79bada4949d9bc0483b5da6d,e289d2ef5a4a7ed63cb361e61d2bb017,-8023445049755510628,-8023445050292381540,1,N,1111,121,32
+wee-url.c,gzguts.h,\src\core\wee-url.c,\dependencies\zlib\gzguts.h,2182536a79bada4949d9bc0483b5da6d,481fcd67c1a74813d1e18ea86b0fb735,-8023445049755510628,-8023445049755510628,0,N,1111,151,38
+wee-url.c,zconf.h,\src\core\wee-url.c,\dependencies\zlib\zconf.h,2182536a79bada4949d9bc0483b5da6d,c89ff94ee23d020c7c9976f48a098fa0,-8023445049755510628,-8023445049755510628,0,N,1111,403,86
+wee-url.c,zutil.c,\src\core\wee-url.c,\dependencies\zlib\zutil.c,2182536a79bada4949d9bc0483b5da6d,d62c1317e7969756f542daacf0d4ba54,-8023445049755510628,-8023445084115248996,1,N,1111,245,68
+wee-url.c,zutil.h,\src\core\wee-url.c,\dependencies\zlib\zutil.h,2182536a79bada4949d9bc0483b5da6d,278c42fe50334e51a072b9e9539f1a94,-8023445049755510628,-8023445049755510628,0,N,1111,183,44
+wee-url.c,MemMgrAllocator.cc,\src\core\wee-url.c,\src\io\MemMgrAllocator.cc,2182536a79bada4949d9bc0483b5da6d,4081710108ae4d92c75a204cde67b037,-8023445049755510628,-7771243495318824804,5,N,1111,422,107
+wee-url.c,model.cc,\src\core\wee-url.c,\src\vp8\model\model.cc,2182536a79bada4949d9bc0483b5da6d,51516a58a4d201a162390ca9ecf9ca48,-8023445049755510628,-7446993091381110596,7,N,1111,395,80
+wee-url.c,port.h,\src\core\wee-url.c,\dependencies\brotli\c\dec\port.h,2182536a79bada4949d9bc0483b5da6d,40b2fd74ac0fb05b9b3137ca6adfdec5,-8023445049755510628,-8023163576927266084,6,N,1111,121,25
+wee-url.c,memory.h,\src\core\wee-url.c,\dependencies\brotli\c\enc\memory.h,2182536a79bada4949d9bc0483b5da6d,7b7c326cb6f93d50dd06a9d313779e53,-8023445049755510628,-8023473654774578788,8,N,1111,44,9
+wee-url.c,port.h,\src\core\wee-url.c,\dependencies\brotli\c\include\brotli\port.h,2182536a79bada4949d9bc0483b5da6d,350994917b4cef7e95001ccfdd8a21d9,-8023445049755510628,-9031978687939553124,6,N,1111,102,21
+gui-curses-term.c,test_harness.cc,\src\gui\curses\gui-curses-term.c,\test_suite\test_harness.cc,12c6b2e5780349c1e6b15f2a0f08c5ca,e289d2ef5a4a7ed63cb361e61d2bb017,-7447028277908808228,-8023445050292381540,8,N,23,121,7
+gui-curses-term.c,gzguts.h,\src\gui\curses\gui-curses-term.c,\dependencies\zlib\gzguts.h,12c6b2e5780349c1e6b15f2a0f08c5ca,481fcd67c1a74813d1e18ea86b0fb735,-7447028277908808228,-8023445049755510628,7,N,23,151,8
+gui-curses-term.c,zconf.h,\src\gui\curses\gui-curses-term.c,\dependencies\zlib\zconf.h,12c6b2e5780349c1e6b15f2a0f08c5ca,c89ff94ee23d020c7c9976f48a098fa0,-7447028277908808228,-8023445049755510628,7,N,23,403,8
+gui-curses-term.c,zutil.c,\src\gui\curses\gui-curses-term.c,\dependencies\zlib\zutil.c,12c6b2e5780349c1e6b15f2a0f08c5ca,d62c1317e7969756f542daacf0d4ba54,-7447028277908808228,-8023445084115248996,8,N,23,245,10
+gui-curses-term.c,zutil.h,\src\gui\curses\gui-curses-term.c,\dependencies\zlib\zutil.h,12c6b2e5780349c1e6b15f2a0f08c5ca,278c42fe50334e51a072b9e9539f1a94,-7447028277908808228,-8023445049755510628,7,N,23,183,8

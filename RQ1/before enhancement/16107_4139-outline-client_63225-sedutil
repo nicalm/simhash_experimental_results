@@ -1,0 +1,6 @@
+4139-outline-client,63225-sedutil
+ares_data.c,sedutil.cpp,\third_party\c-ares\ares_data.c,\Common\sedutil.cpp,cb49f20dde6158f6c9ee7fc4ad4a916a,d52e516d82c7919c579e6283c901df60,5152385217792227412,5693098645914171606,8,N,141,243,23
+pcre_dfa_exec.c,sedutil.cpp,\third_party\pcre\pcre_dfa_exec.c,\Common\sedutil.cpp,f03c3b607d6e42dce79c2eef8aca81da,d52e516d82c7919c579e6283c901df60,5734765807279847671,5693098645914171606,7,N,2711,243,56
+pcre_fullinfo.c,sedutil.cpp,\third_party\pcre\pcre_fullinfo.c,\Common\sedutil.cpp,8923cc431580197b3e121f54e41dba57,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,135,243,31
+ncd_tokenizer_test.c,sedutil.cpp,\third_party\badvpn\examples\ncd_tokenizer_test.c,\Common\sedutil.cpp,809950a2bfada58b600886b8876d3ef5,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,108,243,35
+oidrequest.c,sedutil.cpp,\third_party\tap-windows6\src\oidrequest.c,\Common\sedutil.cpp,002c163e640287d2c51baba214ecdaa8,d52e516d82c7919c579e6283c901df60,1118567324412590303,5693098645914171606,5,N,493,243,52

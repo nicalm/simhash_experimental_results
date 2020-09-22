@@ -1,0 +1,13 @@
+5372-twisted,99-redis
+raiser.c,config.h,\src\twisted\test\raiser.c,\src\config.h,03329048f02326320ae3e07a7faee64c,fe9fefbbc117a00a89d3fa3a9678435a,-8023445050292381540,-8023445049755510628,1,N,3117,149,48
+raiser.c,fmacros.h,\src\twisted\test\raiser.c,\src\fmacros.h,03329048f02326320ae3e07a7faee64c,296af6888322e71e6db95d8256ce3f2f,-8023445050292381540,-7374944295726034788,7,N,3117,21,5
+raiser.c,lzfP.h,\src\twisted\test\raiser.c,\src\lzfP.h,03329048f02326320ae3e07a7faee64c,a8a99ddcfb21b5d90efea295fa1823be,-8023445050292381540,-7879329861679654756,2,N,3117,77,27
+raiser.c,sz.c,\src\twisted\test\raiser.c,\deps\jemalloc\src\sz.c,03329048f02326320ae3e07a7faee64c,f9960e2b44b2f65f49d69f46a60a1ac3,-8023445050292381540,-8060636030565050340,7,N,3117,103,16
+raiser.c,llimits.h,\src\twisted\test\raiser.c,\deps\lua\src\llimits.h,03329048f02326320ae3e07a7faee64c,0990f1abc3ce4ed347a3373a88d7961e,-8023445050292381540,-8023163574778799972,2,N,3117,53,12
+raiser.c,luaconf.h,\src\twisted\test\raiser.c,\deps\lua\src\luaconf.h,03329048f02326320ae3e07a7faee64c,d1c2f2f3de3ece96d5376352c357d46d,-8023445050292381540,-8023488772522582372,7,N,3117,252,46
+raiser.c,jemalloc_internal_decls.h,\src\twisted\test\raiser.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,03329048f02326320ae3e07a7faee64c,b10ad6415790176a35be7bbab7206d99,-8023445050292381540,-9176366554630793060,3,N,3117,85,27
+raiser.c,jemalloc_internal_types.h,\src\twisted\test\raiser.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,03329048f02326320ae3e07a7faee64c,980de9a5931b9a6fb54cf696652d614a,-8023445050292381540,-8032452249077360612,4,N,3117,129,28
+raiser.c,stdint.h,\src\twisted\test\raiser.c,\deps\jemalloc\include\msvc_compat\C99\stdint.h,03329048f02326320ae3e07a7faee64c,0a9faad66f590c9572581753d453013e,-8023445050292381540,-8018800163019237220,7,N,3117,152,34
+iocpsupport.c,lzfP.h,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\src\lzfP.h,6f126cf6c7552cdc709488795a6bc165,a8a99ddcfb21b5d90efea295fa1823be,-7590887830076270404,-7879329861679654756,8,N,8738,77,28
+iocpsupport.c,llimits.h,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\deps\lua\src\llimits.h,6f126cf6c7552cdc709488795a6bc165,0990f1abc3ce4ed347a3373a88d7961e,-7590887830076270404,-8023163574778799972,8,N,8738,53,12
+iocpsupport.c,spin.h,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\deps\jemalloc\include\jemalloc\internal\spin.h,6f126cf6c7552cdc709488795a6bc165,788a5b81db4efba3224741fed5901dd4,-7590887830076270404,-7014429817963034436,6,N,8738,33,11

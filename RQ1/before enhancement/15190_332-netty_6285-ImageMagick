@@ -1,0 +1,8 @@
+332-netty,6285-ImageMagick
+SocksCmdRequest.java,svg.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\coders\svg.c,cd6c11dc97231f03956166b9ce5143be,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5693098603517689047,5729127442933135575,8,N,83,4691,23
+SocksCmdRequest.java,display.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\MagickCore\display.c,cd6c11dc97231f03956166b9ce5143be,58fbcf695a02c8617f1d6816e49799cf,5693098603517689047,5692817170937460951,8,N,83,12792,23
+SocksCmdRequest.java,widget.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\MagickCore\widget.c,cd6c11dc97231f03956166b9ce5143be,f0e9f521bef825c5e27b767db6566d31,5693098603517689047,5729127442933135575,8,N,83,7134,23
+SocksCmdRequest.java,mogrify.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\MagickWand\mogrify.c,cd6c11dc97231f03956166b9ce5143be,40ce227d8d84162c170d4ac9ed9ebc51,5693098603517689047,5729127442933135575,8,N,83,8560,23
+XmlDecoder.java,svg.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\coders\svg.c,19ac8fd899723cb5b1efea0f9d7dc639,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5729694790866091155,5729127442933135575,7,N,87,4691,19
+XmlDecoder.java,widget.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\MagickCore\widget.c,19ac8fd899723cb5b1efea0f9d7dc639,f0e9f521bef825c5e27b767db6566d31,5729694790866091155,5729127442933135575,7,N,87,7134,19
+XmlDecoder.java,mogrify.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\MagickWand\mogrify.c,19ac8fd899723cb5b1efea0f9d7dc639,40ce227d8d84162c170d4ac9ed9ebc51,5729694790866091155,5729127442933135575,7,N,87,8560,19

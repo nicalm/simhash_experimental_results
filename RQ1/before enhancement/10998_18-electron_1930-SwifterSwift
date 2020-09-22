@@ -1,0 +1,5 @@
+18-electron,1930-SwifterSwift
+atom_browser_main_parts.cc,CGAffineTransformExtensionsTests.swift,\shell\browser\atom_browser_main_parts.cc,\Tests\CoreGraphicsTests\CGAffineTransformExtensionsTests.swift,4312360427f5f392ec4f692be2a7319a,536938da1a9c361d01ff2d04862972a3,-8023445187194455912,-3443301992703922020,8,N,375,21,5
+linux_syscall_support.h,CGColorExtensions.swift,\vendor\third_party\lss\linux_syscall_support.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,d7c4a715ebced0be3633fcfd349a02ff,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,3833,21,8
+linux_syscall_support.h,NSAttributedStringExtensions.swift,\vendor\third_party\lss\linux_syscall_support.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,d7c4a715ebced0be3633fcfd349a02ff,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,3833,87,28
+linux_syscall_support.h,StringExtensions.swift,\vendor\third_party\lss\linux_syscall_support.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,d7c4a715ebced0be3633fcfd349a02ff,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,3833,650,187

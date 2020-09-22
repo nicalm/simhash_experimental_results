@@ -1,0 +1,11 @@
+15910-gdal,1652-joplin
+swq_op_general.cpp,reducer.js,\gdal\ogr\swq_op_general.cpp,\ReactNativeClient\lib\reducer.js,9a46e71d5126a97b05924e4d46123f6b,cfb01146b60f71f219c7ac6dd67d6dc3,5729127511652612311,5729128095763970230,8,N,1338,610,130
+cpl_virtualmem.cpp,reducer.js,\gdal\port\cpl_virtualmem.cpp,\ReactNativeClient\lib\reducer.js,c1486bac5c48334f402b7cad9321078e,cfb01146b60f71f219c7ac6dd67d6dc3,5729127649091827926,5729128095763970230,7,N,1826,610,132
+global.c,reducer.js,\gdal\alg\internal_libqhull\global.c,\ReactNativeClient\lib\reducer.js,1da0d3f37e502be64b054f7a42db6ea9,cfb01146b60f71f219c7ac6dd67d6dc3,5729109850612873430,5729128095763970230,8,N,1668,610,128
+pcrasterutil.cpp,reducer.js,\gdal\frmts\pcraster\pcrasterutil.cpp,\ReactNativeClient\lib\reducer.js,e859d72f54bbc5ffafa4fb95c5478cac,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135575,5729128095763970230,7,N,552,610,127
+pdfcreatefromcomposition.cpp,Readability-readerable.js,\gdal\frmts\pdf\pdfcreatefromcomposition.cpp,\Clipper\joplin-webclipper\content_scripts\Readability-readerable.js,310c622b6f24dbedea525af51e8e1362,f8488a27abf6b5b5af8b63004c883d88,1431365811161547694,1678764723973931918,8,N,2088,46,15
+Huffman.cpp,Readability-readerable.js,\gdal\third_party\LercLib\Huffman.cpp,\Clipper\joplin-webclipper\content_scripts\Readability-readerable.js,78c1e35be91d1053fdecd895bac954c3,f8488a27abf6b5b5af8b63004c883d88,1647256569029346222,1678764723973931918,8,N,414,46,15
+gif_err.c,reducer.js,\gdal\frmts\gif\giflib\gif_err.c,\ReactNativeClient\lib\reducer.js,ae184d827961b2dcfd4874276b74052e,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135575,5729128095763970230,7,N,96,610,27
+tif_dir.c,reducer.js,\gdal\frmts\gtiff\libtiff\tif_dir.c,\ReactNativeClient\lib\reducer.js,4f501baa598e4ce669a2ec5827ef519c,cfb01146b60f71f219c7ac6dd67d6dc3,5733631042560506071,5729128095763970230,8,N,1433,610,135
+ogrdxf_leader.cpp,reducer.js,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\ReactNativeClient\lib\reducer.js,4848c0c5b772127cd6203813cdb66178,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135607,5729128095763970230,6,N,967,610,133
+ogrsosilayer.cpp,reducer.js,\gdal\ogr\ogrsf_frmts\sosi\ogrsosilayer.cpp,\ReactNativeClient\lib\reducer.js,6b5138e46c716373ae6d14f7c4e26175,cfb01146b60f71f219c7ac6dd67d6dc3,5730257880489703614,5729128095763970230,8,N,308,610,79

@@ -1,0 +1,5 @@
+2202-qBittorrent,86-netdata
+application.cpp,libnetdata.h,\src\app\application.cpp,\libnetdata\libnetdata.h,1769f1c34b2b51e4c126498e3a0b5a58,b36073eea8dc836d3f37e426aebdabda,-7445858400229599076,-8023445049755510628,5,N,573,248,38
+main.cpp,libnetdata.h,\src\app\main.cpp,\libnetdata\libnetdata.h,0ab876c235d091cc9321f5b26945d353,b36073eea8dc836d3f37e426aebdabda,-8023445118508476260,-8023445049755510628,3,N,324,248,45
+main.cpp,clocks.h,\src\app\main.cpp,\libnetdata\clocks\clocks.h,0ab876c235d091cc9321f5b26945d353,817f185c065ee719f0a0f5d506401b1f,-8023445118508476260,-7879330084279756644,8,N,324,66,12
+mainwindow.cpp,libnetdata.h,\src\gui\mainwindow.cpp,\libnetdata\libnetdata.h,5cd96cef67869a501be59f5996fcb554,b36073eea8dc836d3f37e426aebdabda,-9032396158224000868,-8023445049755510628,8,N,1634,248,45

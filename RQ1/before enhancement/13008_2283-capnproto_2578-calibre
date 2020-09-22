@@ -1,0 +1,3 @@
+2283-capnproto,2578-calibre
+miniposix.h,lzxc.c,\c++\src\kj\miniposix.h,\src\calibre\utils\lzx\lzxc.c,43597d9a9103c02dbbe46d2c58ecc748,5148bebfcfad4cb4119b4e362bc0686f,-7455991496707810916,-8059473846773950244,8,N,84,1033,25
+miniposix.h,msstdint.h,\c++\src\kj\miniposix.h,\src\calibre\utils\lzx\msstdint.h,43597d9a9103c02dbbe46d2c58ecc748,2dacb8ee9f393a22b1266f714d3efcd6,-7455991496707810916,-2830794129776780644,8,N,84,138,19

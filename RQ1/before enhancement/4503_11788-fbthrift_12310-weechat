@@ -1,0 +1,7 @@
+11788-fbthrift,12310-weechat
+thrift_config.h,wee-url.c,\thrift\lib\cpp\thrift_config.h,\src\core\wee-url.c,27c650bbff0590e9f2fafe163b055489,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,220,1111,75
+thrift_config.h,gui-curses-term.c,\thrift\lib\cpp\thrift_config.h,\src\gui\curses\gui-curses-term.c,27c650bbff0590e9f2fafe163b055489,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,220,23,5
+DebugProtocol.cpp,wee-upgrade-file.c,\thrift\lib\cpp2\protocol\DebugProtocol.cpp,\src\core\wee-upgrade-file.c,ad47fc4522a7fc6adc2dd354aa1490ce,d391f06233f7cab3700e28a1f60c925e,-7527128656202700549,1712001581301361399,7,N,364,585,125
+NimbleProtocol-inl.h,wee-upgrade-file.c,\thrift\lib\cpp2\protocol\NimbleProtocol-inl.h,\src\core\wee-upgrade-file.c,13fd7071da0855b4d3c453df67f55c1a,d391f06233f7cab3700e28a1f60c925e,-7563157453221664005,1712001581301361399,7,N,529,585,130
+macros.h,wee-url.c,\thrift\lib\rb\ext\macros.h,\src\core\wee-url.c,30f9d8d804dd66b382db54f2861518aa,2182536a79bada4949d9bc0483b5da6d,-8032469861362509668,-8023445049755510628,7,N,18,1111,4
+service_with_special_names.cpp,wee-upgrade-file.c,\thrift\compiler\test\fixtures\fatal\gen-cpp2\service_with_special_names.cpp,\src\core\wee-upgrade-file.c,df0c2b71a2e51d6a6b17e7d827ec8074,d391f06233f7cab3700e28a1f60c925e,-7527689269693912321,1712001581301361399,8,N,507,585,108

@@ -1,0 +1,5 @@
+10205-firejail,2283-capnproto
+caps.c,miniposix.h,\src\firejail\caps.c,\c++\src\kj\miniposix.h,0b9d72adabe6b183bf9a7948ffeb2934,43597d9a9103c02dbbe46d2c58ecc748,-5717602040541816676,-7455991496707810916,6,N,334,84,27
+sbox.c,miniposix.h,\src\firejail\sbox.c,\c++\src\kj\miniposix.h,8a6f9f9ce42bcca368916f82519b79d6,43597d9a9103c02dbbe46d2c58ecc748,-8024007999708931940,-7455991496707810916,6,N,190,84,24
+syscall.c,miniposix.h,\src\fseccomp\syscall.c,\c++\src\kj\miniposix.h,bf0ef0cc7976e59f6ac60c1a011c8188,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,1564,84,21
+syscall.h,miniposix.h,\src\include\syscall.h,\c++\src\kj\miniposix.h,e5d70ee64e8335903c40165f92bcb3a5,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,5186,84,12

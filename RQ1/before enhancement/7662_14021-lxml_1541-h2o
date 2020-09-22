@@ -1,0 +1,7 @@
+14021-lxml,1541-h2o
+etree_defs.h,fmacros.h,\src\lxml\includes\etree_defs.h,\deps\hiredis\fmacros.h,77e60df86f933a8497d9a006ac09a2c9,9d6fd32f84c9d0377076a4587579ec51,-8023482433217963876,-8023515419036559204,5,N,319,20,7
+etree_defs.h,mrbconf.h,\src\lxml\includes\etree_defs.h,\deps\mruby\include\mrbconf.h,77e60df86f933a8497d9a006ac09a2c9,b30b9460d209b1cc68a61c5604bdd5a1,-8023482433217963876,-8023445049755510628,3,N,319,43,15
+etree_defs.h,mruby.h,\src\lxml\includes\etree_defs.h,\deps\mruby\include\mruby.h,77e60df86f933a8497d9a006ac09a2c9,919df8d515b52adcdfa92f19037768c8,-8023482433217963876,-9176366554362357572,5,N,319,440,42
+etree_defs.h,types.h,\src\lxml\includes\etree_defs.h,\deps\picotls\deps\micro-ecc\types.h,77e60df86f933a8497d9a006ac09a2c9,d0ccddb6a5d5d18dbed2dc07299a4b3d,-8023482433217963876,-8023445049757607011,7,N,319,87,17
+etree_defs.h,uECC.h,\src\lxml\includes\etree_defs.h,\deps\picotls\deps\micro-ecc\uECC.h,77e60df86f933a8497d9a006ac09a2c9,e777f21ea5ae63708919f7e3ba1592f7,-8023482433217963876,1199926987099265180,4,N,319,105,19
+etree_defs.h,wincompat.h,\src\lxml\includes\etree_defs.h,\deps\picotls\picotlsvs\picotls\wincompat.h,77e60df86f933a8497d9a006ac09a2c9,7c4e1724c3a0beeaea1e4c416d606c60,-8023482433217963876,-8041318848215590756,8,N,319,28,7

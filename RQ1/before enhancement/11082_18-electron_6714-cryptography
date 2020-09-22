@@ -1,0 +1,3 @@
+18-electron,6714-cryptography
+atom_paths.h,osrandom_engine.h,\shell\browser\atom_paths.h,\src\_cffi_src\openssl\src\osrandom_engine.h,f62403bf230108c707f5e1273fdb321d,5faed825e57102494d64f41f67417150,-8023471436960835427,-9176392388590904164,7,N,33,80,9
+linux_syscall_support.h,osrandom_engine.h,\vendor\third_party\lss\linux_syscall_support.h,\src\_cffi_src\openssl\src\osrandom_engine.h,d7c4a715ebced0be3633fcfd349a02ff,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,3833,80,19

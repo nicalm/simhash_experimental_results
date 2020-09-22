@@ -1,0 +1,15 @@
+11604-pdns,6444-yara
+threadname.cc,hex_grammar.c,\pdns\threadname.cc,\libyara\hex_grammar.c,5b915147d70647a42e05b4e28ce34c57,29c757a687084bfae5a2dc6bb31b05e5,-8023445049889728356,-9185373754145580836,6,N,39,1251,14
+threadname.cc,endian.h,\pdns\threadname.cc,\libyara\include\yara\endian.h,5b915147d70647a42e05b4e28ce34c57,f44500c257dc9e47f34b1473280aea77,-8023445049889728356,-8023445049755510628,1,N,39,55,10
+threadname.cc,integers.h,\pdns\threadname.cc,\libyara\include\yara\integers.h,5b915147d70647a42e05b4e28ce34c57,f8e220916ba72c943da73bf32049b841,-8023445049889728356,-8023445049755510628,1,N,39,57,11
+threadname.cc,limits.h,\pdns\threadname.cc,\libyara\include\yara\limits.h,5b915147d70647a42e05b4e28ce34c57,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445049889728356,-8023445049755510628,1,N,39,77,9
+threadname.cc,strutils.h,\pdns\threadname.cc,\libyara\include\yara\strutils.h,5b915147d70647a42e05b4e28ce34c57,62646260db13811e153f2c59cbdfb33a,-8023445049889728356,-8023518717034571368,6,N,39,59,11
+version.cc,hex_grammar.c,\pdns\version.cc,\libyara\hex_grammar.c,2d47bb8e09166cdc8de706154500a37c,29c757a687084bfae5a2dc6bb31b05e5,-8023445049755379556,-9185373754145580836,6,N,141,1251,44
+version.cc,endian.h,\pdns\version.cc,\libyara\include\yara\endian.h,2d47bb8e09166cdc8de706154500a37c,f44500c257dc9e47f34b1473280aea77,-8023445049755379556,-8023445049755510628,1,N,141,55,15
+version.cc,integers.h,\pdns\version.cc,\libyara\include\yara\integers.h,2d47bb8e09166cdc8de706154500a37c,f8e220916ba72c943da73bf32049b841,-8023445049755379556,-8023445049755510628,1,N,141,57,18
+version.cc,limits.h,\pdns\version.cc,\libyara\include\yara\limits.h,2d47bb8e09166cdc8de706154500a37c,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445049755379556,-8023445049755510628,1,N,141,77,25
+version.cc,strutils.h,\pdns\version.cc,\libyara\include\yara\strutils.h,2d47bb8e09166cdc8de706154500a37c,62646260db13811e153f2c59cbdfb33a,-8023445049755379556,-8023518717034571368,6,N,141,59,12
+murmur3.h,hex_grammar.c,\ext\probds\murmur3.h,\libyara\hex_grammar.c,02ac5aff2e57a41f9dc94781ccd8d595,29c757a687084bfae5a2dc6bb31b05e5,-9176375350707038052,-9185373754145580836,7,N,46,1251,12
+murmur3.h,endian.h,\ext\probds\murmur3.h,\libyara\include\yara\endian.h,02ac5aff2e57a41f9dc94781ccd8d595,f44500c257dc9e47f34b1473280aea77,-9176375350707038052,-8023445049755510628,4,N,46,55,10
+murmur3.h,integers.h,\ext\probds\murmur3.h,\libyara\include\yara\integers.h,02ac5aff2e57a41f9dc94781ccd8d595,f8e220916ba72c943da73bf32049b841,-9176375350707038052,-8023445049755510628,4,N,46,57,13
+murmur3.h,limits.h,\ext\probds\murmur3.h,\libyara\include\yara\limits.h,02ac5aff2e57a41f9dc94781ccd8d595,1b76e5cbfb6a87b1b52e9aef743d23ec,-9176375350707038052,-8023445049755510628,4,N,46,77,8

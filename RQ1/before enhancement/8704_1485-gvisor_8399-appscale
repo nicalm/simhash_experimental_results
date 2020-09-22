@@ -1,0 +1,7 @@
+1485-gvisor,8399-appscale
+main.rb,djinn.rb,\benchmarks\workloads\ruby_template\main.rb,\AppController\djinn.rb,d7403e05bb5c509b1a427c653864c501,55f1d63ef26ae6d905c4f4508005857b,-1125242385782599126,-256047655518521814,8,N,22,3833,5
+main.rb,cron_helper.rb,\benchmarks\workloads\ruby_template\main.rb,\AppController\lib\cron_helper.rb,d7403e05bb5c509b1a427c653864c501,5a58f449401186034df67b43f991d92a,-1125242385782599126,-256047655518521814,8,N,22,341,5
+main.rb,helperfunctions.rb,\benchmarks\workloads\ruby_template\main.rb,\AppController\lib\helperfunctions.rb,d7403e05bb5c509b1a427c653864c501,87b458cd32a3160890a0e4c9ea7aa506,-1125242385782599126,-256047655518521814,8,N,22,580,5
+main.rb,node_info.rb,\benchmarks\workloads\ruby_template\main.rb,\AppController\lib\node_info.rb,d7403e05bb5c509b1a427c653864c501,46023d33d9a0da3e7c71f007a039d547,-1125242385782599126,-256047657661811158,8,N,22,88,5
+main.rb,service_helper.rb,\benchmarks\workloads\ruby_template\main.rb,\AppController\lib\service_helper.rb,d7403e05bb5c509b1a427c653864c501,8a57a6f8d3c0a1f608e2acda14dd3d26,-1125242385782599126,-256047657666529750,6,N,22,66,5
+main.rb,zkinterface.rb,\benchmarks\workloads\ruby_template\main.rb,\AppController\lib\zkinterface.rb,d7403e05bb5c509b1a427c653864c501,df57b3242a1c436d09f3777277418d0e,-1125242385782599126,-256047655518521814,8,N,22,358,5

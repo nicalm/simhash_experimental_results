@@ -1,0 +1,17 @@
+15760-bfgminer,9023-zoneminder
+compat.h,zm_ffmpeg.h,\compat.h,\src\zm_ffmpeg.h,6f280ac9c52face753ea81ae98cfe95d,7e2fcd3ba00999285d6aaf2ef78cc14d,-8014437852681811908,-8023445049755510628,7,N,164,281,21
+driver-cpu.c,zm_ffmpeg.h,\driver-cpu.c,\src\zm_ffmpeg.h,be0f700b73a52208dd53210582876f9e,7e2fcd3ba00999285d6aaf2ef78cc14d,-7807272267641726562,-8023445049755510628,4,N,682,281,49
+driver-cpu.h,zm_ffmpeg.h,\driver-cpu.h,\src\zm_ffmpeg.h,092bcdcc676bceef9c2bba9e9b4bfe90,7e2fcd3ba00999285d6aaf2ef78cc14d,-7446984297678579684,-8023445049755510628,6,N,62,281,13
+driver-cpu.h,zm_signal.h,\driver-cpu.h,\src\zm_signal.h,092bcdcc676bceef9c2bba9e9b4bfe90,95bf5749d181b4fa528e43c6e262e7a0,-7446984297678579684,-8057222049236199396,7,N,62,27,4
+miner.h,zm_ffmpeg.h,\miner.h,\src\zm_ffmpeg.h,2a2a55093078b0e951ca70e852eb3abc,7e2fcd3ba00999285d6aaf2ef78cc14d,-8021228434313848776,-8023445049755510628,6,N,1425,281,48
+cl_platform.h,zm_ffmpeg.h,\CL\cl_platform.h,\src\zm_ffmpeg.h,fc86a2210e718fbcf95aabcf0efa129a,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510564,-8023445049755510628,1,N,935,281,55
+cl_platform.h,zm_signal.h,\CL\cl_platform.h,\src\zm_signal.h,fc86a2210e718fbcf95aabcf0efa129a,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510564,-8057222049236199396,8,N,935,27,5
+cl_platform.h,ow-crypt.h,\CL\cl_platform.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,fc86a2210e718fbcf95aabcf0efa129a,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510564,-5429384857455895396,7,N,935,23,4
+signal.in.h,zm_ffmpeg.h,\lib\signal.in.h,\src\zm_ffmpeg.h,ab5029c765029582a72eaf9ee25fe736,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,258,281,51
+signal.in.h,zm_signal.h,\lib\signal.in.h,\src\zm_signal.h,ab5029c765029582a72eaf9ee25fe736,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,258,27,5
+signal.in.h,ow-crypt.h,\lib\signal.in.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,ab5029c765029582a72eaf9ee25fe736,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,258,23,4
+stddef.in.h,zm_ffmpeg.h,\lib\stddef.in.h,\src\zm_ffmpeg.h,51fb0aab8a1f88b1353623a5d3ebf080,7e2fcd3ba00999285d6aaf2ef78cc14d,-7446702960451199844,-8023445049755510628,5,N,37,281,14
+stdint.in.h,zm_ffmpeg.h,\lib\stdint.in.h,\src\zm_ffmpeg.h,cae8be4f2dc822552d990c5e166b9add,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023455787174799140,-8023445049755510628,6,N,383,281,49
+string.in.h,zm_ffmpeg.h,\lib\string.in.h,\src\zm_ffmpeg.h,79edfbf7ab10d649596b9a9e586671ee,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,697,281,49
+string.in.h,zm_signal.h,\lib\string.in.h,\src\zm_signal.h,79edfbf7ab10d649596b9a9e586671ee,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,697,27,5
+string.in.h,ow-crypt.h,\lib\string.in.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,79edfbf7ab10d649596b9a9e586671ee,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,697,23,4

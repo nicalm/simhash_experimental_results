@@ -1,0 +1,3 @@
+2257-core,618-jq
+appconfig.php,parser.c,\core\ajax\appconfig.php,\src\parser.c,031cdb064a8d37cd4b40af5d608c8543,a9e23cec6f740c2c216ed7e38fa76eaa,5152665582536538583,5729127442933135575,6,N,37,3339,11
+MDB2SchemaReader.php,parser.c,\lib\private\DB\MDB2SchemaReader.php,\src\parser.c,d8397eafd4a2b3b1ab041811b2ffbaec,a9e23cec6f740c2c216ed7e38fa76eaa,5731379242747078871,5729127442933135575,3,N,238,3339,74

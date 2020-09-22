@@ -1,0 +1,14 @@
+618-jq,6664-ModSecurity
+jv_dtoa.c,unique_id.cc,\src\jv_dtoa.c,\src\unique_id.cc,e22c5b05bfd24415a3e8d8da3f8791ac,7c20c0dbffc732616cd5e43c73b8087b,-8023445049755510756,1199926922539489428,7,N,3652,177,37
+jv_dtoa.c,check_config.h,\src\jv_dtoa.c,\others\mbedtls\check_config.h,e22c5b05bfd24415a3e8d8da3f8791ac,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049755510756,-8023445049755510628,1,N,3652,402,104
+jv_dtoa.c,platform.h,\src\jv_dtoa.c,\others\mbedtls\platform.h,e22c5b05bfd24415a3e8d8da3f8791ac,d00d535ad1c35ca86d366afc8578c1ab,-8023445049755510756,-7879409027045336932,6,N,3652,106,41
+lexer.h,unique_id.cc,\src\lexer.h,\src\unique_id.cc,da2a1a7176c85a8ba5c6ad487a6476ec,7c20c0dbffc732616cd5e43c73b8087b,-8023445049755510628,1199926922539489428,6,N,554,177,17
+lexer.h,check_config.h,\src\lexer.h,\others\mbedtls\check_config.h,da2a1a7176c85a8ba5c6ad487a6476ec,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049755510628,-8023445049755510628,0,N,554,402,104
+lexer.h,platform.h,\src\lexer.h,\others\mbedtls\platform.h,da2a1a7176c85a8ba5c6ad487a6476ec,d00d535ad1c35ca86d366afc8578c1ab,-8023445049755510628,-7879409027045336932,5,N,554,106,40
+lexer.h,geo_lookup.h,\src\lexer.h,\src\utils\geo_lookup.h,da2a1a7176c85a8ba5c6ad487a6476ec,7f149a21d7e38ffd2ba73078cb8e9c82,-8023445049755510628,1830428735907880156,8,N,554,50,7
+libm.h,check_config.h,\src\libm.h,\others\mbedtls\check_config.h,2cd1e495bcbe77e741569181c2fbb01b,306e92b56ac8d1b085c9f72fb65f46a7,-8032452266248775464,-8023445049755510628,7,N,291,402,59
+parser.c,rbl.cc,\src\parser.c,\src\operators\rbl.cc,a9e23cec6f740c2c216ed7e38fa76eaa,f5e38e024eae4da010e654d26348ad95,5729127442933135575,5747072022722656727,7,N,3339,186,62
+parser.c,seclang-parser.cc,\src\parser.c,\src\parser\seclang-parser.cc,a9e23cec6f740c2c216ed7e38fa76eaa,c95834041ac82565ed4d4a4bccd1b864,5729127442933135575,5729127442933135575,0,N,3339,6079,1029
+parser.c,phase.h,\src\parser.c,\src\utils\phase.h,a9e23cec6f740c2c216ed7e38fa76eaa,a09f3ae3e8191f752c4eb96a4ac598b6,5729127442933135575,-1170387186198464297,3,N,3339,38,12
+parser.c,escape_seq_decode.cc,\src\parser.c,\src\actions\transformations\escape_seq_decode.cc,a9e23cec6f740c2c216ed7e38fa76eaa,b8692d2d5e6a4258b9b1b9bda49e6fca,5729127442933135575,5458916000809007318,8,N,3339,118,34
+decimal128.h,check_config.h,\src\decNumber\decimal128.h,\others\mbedtls\check_config.h,d64413929172219be1c2a13c8751b279,306e92b56ac8d1b085c9f72fb65f46a7,-9180870188349695848,-8023445049755510628,8,N,41,402,6

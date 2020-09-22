@@ -1,0 +1,11 @@
+2575-scipy,753-fish-shell
+global_r.c,builtin_echo.cpp,\scipy\spatial\qhull_src\src\global_r.c,\src\builtin_echo.cpp,641bed4871fe8d8a5f4a033a6bf195ca,397d2a8e9ac0bbf166e2373ae9b2db40,5729109988184996087,-3494244456465909289,6,N,1830,229,61
+global_r.c,builtin_history.cpp,\scipy\spatial\qhull_src\src\global_r.c,\src\builtin_history.cpp,641bed4871fe8d8a5f4a033a6bf195ca,2ef43496835c341f4350481a342a952e,5729109988184996087,-3494235797291746857,8,N,1830,271,80
+global_r.c,highlight.cpp,\scipy\spatial\qhull_src\src\global_r.c,\src\highlight.cpp,641bed4871fe8d8a5f4a033a6bf195ca,5fe15b68b951a0169550b5cd01343514,5729109988184996087,5738134092431014111,7,N,1830,1102,249
+global_r.c,pcre2_auto_possess.c,\scipy\spatial\qhull_src\src\global_r.c,\pcre2-10.32\src\pcre2_auto_possess.c,641bed4871fe8d8a5f4a033a6bf195ca,fc744ff997c149fdcc6a3f0dbe123d79,5729109988184996087,1117441424505747670,6,N,1830,842,145
+global_r.c,pcre2_dfa_match.c,\scipy\spatial\qhull_src\src\global_r.c,\pcre2-10.32\src\pcre2_dfa_match.c,641bed4871fe8d8a5f4a033a6bf195ca,99abc0dd1121c97cbed498ec531c50ba,5729109988184996087,5734756942467348695,6,N,1830,2764,358
+global_r.c,pcre2_pattern_info.c,\scipy\spatial\qhull_src\src\global_r.c,\pcre2-10.32\src\pcre2_pattern_info.c,641bed4871fe8d8a5f4a033a6bf195ca,784ee0b7bc5371a257fff21e0cf23c71,5729109988184996087,5440897066781423829,6,N,1830,294,53
+msc_stdint.h,fallback.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\src\fallback.h,0a9faad66f590c9572581753d453013e,7d4055698e8c91d9fd4be969475abb0c,-8018800163019237220,-8023446699022952292,6,N,152,118,25
+msc_stdint.h,signal.cpp,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\src\signal.cpp,0a9faad66f590c9572581753d453013e,2e09e582bf373788324ac911fde75809,-8018800163019237220,-8023445049755510632,7,N,152,322,18
+msc_stdint.h,sljitConfig.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\pcre2-10.32\src\sljit\sljitConfig.h,0a9faad66f590c9572581753d453013e,4670eeabf25cc1becfd2eb7244181998,-8018800163019237220,-8023445049755445096,8,N,152,33,11
+msc_stdint.h,sljitConfigInternal.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,0a9faad66f590c9572581753d453013e,fd5d86ef9f2b9d9589cb00af7963629f,-8018800163019237220,-8023515418499688420,8,N,152,429,23

@@ -1,0 +1,3 @@
+10572-Openfire,3980-passenger
+ProfiledConnection.java,http_parser.cpp,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\cxx_supportlib\ServerKit\http_parser.cpp,82b3cca56b0b2195d9beda1ef5898c9c,5741f024e030397fc3510109b4838536,5747704796764879063,5728845967956424919,6,N,828,1688,248
+GroupEventDispatcher.java,http_parser.cpp,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\cxx_supportlib\ServerKit\http_parser.cpp,68bd878d44b313df2afdd340fe0c0022,5741f024e030397fc3510109b4838536,8016956053561850069,5728845967956424919,7,N,73,1688,27

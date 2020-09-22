@@ -1,0 +1,3 @@
+13470-tigervnc,17934-harfbuzz
+SSLEngineManager.java,hb-ot-shape-complex-vowel-constraints.cc,\java\com\tigervnc\network\SSLEngineManager.java,\src\hb-ot-shape-complex-vowel-constraints.cc,39e909ecd9ccf04cb9bad885f45ab7de,af3b5cee198ad0cdcf32177f2059763e,3423284433716820183,5729127511516264663,6,N,127,420,28
+SSLEngineManager.java,hb-subset.cc,\java\com\tigervnc\network\SSLEngineManager.java,\src\hb-subset.cc,39e909ecd9ccf04cb9bad885f45ab7de,8cd5ec526a4232f06c744be9b77a51bc,3423284433716820183,5170681089138145431,8,N,127,256,28

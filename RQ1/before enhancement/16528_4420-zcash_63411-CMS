@@ -1,0 +1,4 @@
+4420-zcash,63411-CMS
+policy.cpp,Config.php,\src\policy\policy.cpp,\iu-system\core\Config.php,b49cba2f0f54de3a01a53927cb03014b,b7543ad40a0e7bf84eb7e0433269125b,1431083237210080174,1719297390733452206,7,N,121,176,28
+policy.cpp,DB_driver.php,\src\policy\policy.cpp,\iu-system\database\DB_driver.php,b49cba2f0f54de3a01a53927cb03014b,13826e9a6978c4af56e7af0bf5e691d2,1431083237210080174,1573228237887992750,8,N,121,712,29
+policy.cpp,Upload.php,\src\policy\policy.cpp,\iu-system\libraries\Upload.php,b49cba2f0f54de3a01a53927cb03014b,686371bca26f5fca2d3dbcdbd94d2442,1431083237210080174,575399239290220942,8,N,121,587,28

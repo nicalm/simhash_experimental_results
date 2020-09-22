@@ -1,0 +1,6 @@
+11788-fbthrift,4477-libsass
+t_type.h,ast_sel_super.cpp,\thrift\compiler\ast\t_type.h,\src\ast_sel_super.cpp,b053db260acb5031648818344c9828ac,ffef62efd83b8d29b2b0c7a2ff9681d7,1431083237210080174,1431225074243617162,6,N,149,350,59
+thrift_config.h,base.h,\thrift\lib\cpp\thrift_config.h,\include\sass\base.h,27c650bbff0590e9f2fafe163b055489,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,220,63,11
+traits_test_helpers.h,environment.cpp,\thrift\lib\cpp2\reflection\traits_test_helpers.h,\src\environment.cpp,de8bcbcbe92adc96acf78decdb69cb94,a2620909cd2a8a59374fd8bda58a2d2a,4085320134878466744,4085038658899284632,7,N,16,194,6
+module_types.cpp,ast_sel_super.cpp,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\src\ast_sel_super.cpp,2db322d1052463c02d7e0a6bf32428e5,ffef62efd83b8d29b2b0c7a2ff9681d7,1395054440124007342,1431225074243617162,8,N,3515,350,141
+module_types.cpp,ast_sel_super.cpp,\thrift\compiler\test\fixtures\templated-deserialize\gen-cpp2\module_types.cpp,\src\ast_sel_super.cpp,8271a999c012ffe48f4162929d03afce,ffef62efd83b8d29b2b0c7a2ff9681d7,1431083237243705130,1431225074243617162,8,N,629,350,116

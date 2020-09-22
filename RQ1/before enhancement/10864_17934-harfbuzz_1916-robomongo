@@ -1,0 +1,10 @@
+17934-harfbuzz,1916-robomongo
+hb-ot-shape-complex-vowel-constraints.cc,LexKVIrc.cpp,\src\hb-ot-shape-complex-vowel-constraints.cc,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,af3b5cee198ad0cdcf32177f2059763e,6343dba2bf0e94906c7e4f0cda130ffe,5729127511516264663,5729131843127130311,7,N,420,248,92
+hb-subset.cc,BsonUtils.cpp,\src\hb-subset.cc,\src\robomongo\core\utils\BsonUtils.cpp,8cd5ec526a4232f06c744be9b77a51bc,debf75f981000bc99bd9efe7cb6eb327,5170681089138145431,5091868095651821783,7,N,256,682,63
+hb-subset.cc,LexKVIrc.cpp,\src\hb-subset.cc,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,8cd5ec526a4232f06c744be9b77a51bc,6343dba2bf0e94906c7e4f0cda130ffe,5170681089138145431,5729131843127130311,7,N,256,248,53
+hb-subset.cc,ScintillaQt.cpp,\src\hb-subset.cc,\src\third-party\qscintilla\sources\Qt4Qt5\ScintillaQt.cpp,8cd5ec526a4232f06c744be9b77a51bc,3923e72d8e490bfa249b1c3facf7b01e,5170681089138145431,5152596321881340367,8,N,256,405,59
+test-c.c,libssh2_config.h,\test\api\test-c.c,\src\third-party\libssh2\sources\win32\libssh2_config.h,40a532b71e6242f205df120cc480a67e,e66f780ed6125d5f9364739ae146fe4e,-8023445049757468516,-8023445044453386083,8,N,26,39,6
+test-c.c,qsciglobal.h,\test\api\test-c.c,\src\third-party\qscintilla\sources\Qt3\Qsci\qsciglobal.h,40a532b71e6242f205df120cc480a67e,d5bb6d522d3e59aaaafa295901e91d7b,-8023445049757468516,-8005430653394593636,7,N,26,26,7
+test-c.c,qsciglobal.h,\test\api\test-c.c,\src\third-party\qscintilla\sources\Qt4Qt5\Qsci\qsciglobal.h,40a532b71e6242f205df120cc480a67e,d5bb6d522d3e59aaaafa295901e91d7b,-8023445049757468516,-8005430653394593636,7,N,26,26,7
+test-c.c,gtest-port.h,\test\api\test-c.c,\trash\tests\gtest-1.7.0\include\gtest\internal\gtest-port.h,40a532b71e6242f205df120cc480a67e,23446e26c2aacb9eb58191ae642bfa7a,-8023445049757468516,-7879329861679654756,4,N,26,906,7
+test-c.c,gtest-port.h,\test\api\test-c.c,\src\third-party\googletest-1.8.1\googletest\include\gtest\internal\gtest-port.h,40a532b71e6242f205df120cc480a67e,485500537266b23fd9618e3c1a3e212e,-8023445049757468516,-7879365046051743592,6,N,26,1337,7

@@ -1,0 +1,11 @@
+13956-dolibarr,2389-Pillow
+mode-jsoniq.js,FliDecode.c,\htdocs\includes\ace\mode-jsoniq.js,\src\libImaging\FliDecode.c,37f1d23156f57463f77c9617d82b6c79,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,2456,160,48
+mode-xquery.js,FliDecode.c,\htdocs\includes\ace\mode-xquery.js,\src\libImaging\FliDecode.c,766b4d399e9a1542f921d9fbf7d11e34,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,2465,160,48
+worker-xquery.js,FliDecode.c,\htdocs\includes\ace\worker-xquery.js,\src\libImaging\FliDecode.c,e75b1566057234cf35013b5e440360f6,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,55380,160,58
+timezone.php,FliDecode.c,\htdocs\includes\geoip\timezone.php,\src\libImaging\FliDecode.c,e2e2aa858af909359ad7e2a518530710,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,2236,160,38
+PrintIPP.php,FliDecode.c,\htdocs\includes\printipp\PrintIPP.php,\src\libImaging\FliDecode.c,ba96bd5b1d8975d6966e4310acceb4c7,93128dc18746c911ae74ad9f56192e4b,5152385215652968663,5153458476439616215,7,N,1760,160,40
+Gnumeric.php,FliDecode.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Gnumeric.php,\src\libImaging\FliDecode.c,c6e1ba54482dcbe391dc296bdd4ced2e,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,667,160,41
+Xls.php,FliDecode.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Xls.php,\src\libImaging\FliDecode.c,38181ae7a7702b3147c1db4505f2cca7,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,4711,160,49
+Worksheet.php,FliDecode.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Writer\Xls\Worksheet.php,\src\libImaging\FliDecode.c,e79ec4c5b71b2dd77d534a5bf5116181,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,2752,160,46
+Gnumeric.php,FliDecode.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\Gnumeric.php,\src\libImaging\FliDecode.c,f2dc63a454a4194615d8215a3f130fac,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,664,160,41
+SYLK.php,FliDecode.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\SYLK.php,\src\libImaging\FliDecode.c,78e73625ab16621f946eb9c153022919,93128dc18746c911ae74ad9f56192e4b,5152666690629712087,5153458476439616215,7,N,265,160,40

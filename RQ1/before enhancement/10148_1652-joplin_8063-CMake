@@ -1,0 +1,7 @@
+1652-joplin,8063-CMake
+reducer.js,getinfo.c,\ReactNativeClient\lib\reducer.js,\Utilities\cmcurl\lib\getinfo.c,cfb01146b60f71f219c7ac6dd67d6dc3,e4b1b98ba03c964ba505b6b062b00050,5729128095763970230,5729127442933135575,7,N,610,405,76
+reducer.js,setopt.c,\ReactNativeClient\lib\reducer.js,\Utilities\cmcurl\lib\setopt.c,cfb01146b60f71f219c7ac6dd67d6dc3,c32f321618c395772c3eb5151b798824,5729128095763970230,5729127442933135575,7,N,610,1762,125
+reducer.js,telnet.c,\ReactNativeClient\lib\reducer.js,\Utilities\cmcurl\lib\telnet.c,cfb01146b60f71f219c7ac6dd67d6dc3,61f2737780988e684ee1746bbaceed3f,5729128095763970230,5729127442933135575,7,N,610,1332,133
+reducer.js,archive_read_set_format.c,\ReactNativeClient\lib\reducer.js,\Utilities\cmlibarchive\libarchive\archive_read_set_format.c,cfb01146b60f71f219c7ac6dd67d6dc3,44a41a5dca49f92d5c396c4e99eabec5,5729128095763970230,5729127994567997655,8,N,610,76,20
+reducer.js,sectransp.c,\ReactNativeClient\lib\reducer.js,\Utilities\cmcurl\lib\vtls\sectransp.c,cfb01146b60f71f219c7ac6dd67d6dc3,19c48e3eed312fd3d5b47ad6a8263888,5729128095763970230,5729127442933135575,7,N,610,2690,136
+Readability-readerable.js,cmFileCommand.cxx,\Clipper\joplin-webclipper\content_scripts\Readability-readerable.js,\Source\cmFileCommand.cxx,f8488a27abf6b5b5af8b63004c883d88,ec8924ba412bb3408b461e6d690ef7ff,1678764723973931918,1431084332426740398,8,N,46,2722,16

@@ -1,0 +1,10 @@
+17934-harfbuzz,6664-ModSecurity
+hb-ot-shape-complex-vowel-constraints.cc,seclang-parser.cc,\src\hb-ot-shape-complex-vowel-constraints.cc,\src\parser\seclang-parser.cc,af3b5cee198ad0cdcf32177f2059763e,c95834041ac82565ed4d4a4bccd1b864,5729127511516264663,5729127442933135575,4,N,420,6079,173
+hb-ot-shape-complex-vowel-constraints.cc,phase.h,\src\hb-ot-shape-complex-vowel-constraints.cc,\src\utils\phase.h,af3b5cee198ad0cdcf32177f2059763e,a09f3ae3e8191f752c4eb96a4ac598b6,5729127511516264663,-1170387186198464297,7,N,420,38,12
+hb-subset.cc,seclang-parser.cc,\src\hb-subset.cc,\src\parser\seclang-parser.cc,8cd5ec526a4232f06c744be9b77a51bc,c95834041ac82565ed4d4a4bccd1b864,5170681089138145431,5729127442933135575,4,N,256,6079,61
+hb-subset.cc,phase.h,\src\hb-subset.cc,\src\utils\phase.h,8cd5ec526a4232f06c744be9b77a51bc,a09f3ae3e8191f752c4eb96a4ac598b6,5170681089138145431,-1170387186198464297,5,N,256,38,12
+hb-subset.cc,escape_seq_decode.cc,\src\hb-subset.cc,\src\actions\transformations\escape_seq_decode.cc,8cd5ec526a4232f06c744be9b77a51bc,b8692d2d5e6a4258b9b1b9bda49e6fca,5170681089138145431,5458916000809007318,8,N,256,118,27
+hb-fc-list.c,unique_id.cc,\util\hb-fc-list.c,\src\unique_id.cc,c27d8fd53993dc1d7a624ea1ec1d10a6,7c20c0dbffc732616cd5e43c73b8087b,1199786163039426780,1199926922539489428,6,N,178,177,27
+hb-fc-list.c,check_config.h,\util\hb-fc-list.c,\others\mbedtls\check_config.h,c27d8fd53993dc1d7a624ea1ec1d10a6,306e92b56ac8d1b085c9f72fb65f46a7,1199786163039426780,-8023445049755510628,8,N,178,402,10
+test-c.c,check_config.h,\test\api\test-c.c,\others\mbedtls\check_config.h,40a532b71e6242f205df120cc480a67e,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049757468516,-8023445049755510628,3,N,26,402,6
+test-c.c,platform.h,\test\api\test-c.c,\others\mbedtls\platform.h,40a532b71e6242f205df120cc480a67e,d00d535ad1c35ca86d366afc8578c1ab,-8023445049757468516,-7879409027045336932,8,N,26,106,7

@@ -1,0 +1,6 @@
+14021-lxml,790-libuv
+etree_defs.h,test-list.h,\src\lxml\includes\etree_defs.h,\test\test-list.h,77e60df86f933a8497d9a006ac09a2c9,34c37e38fd3367fbe3d6e9280bf86a06,-8023482433217963876,-7374645228437448676,7,N,319,951,38
+etree_defs.h,getaddrinfo.c,\src\lxml\includes\etree_defs.h,\src\unix\getaddrinfo.c,77e60df86f933a8497d9a006ac09a2c9,e8e49cecf77e5d3f516ab013154bbd9c,-8023482433217963876,-8023444777025087336,6,N,319,188,31
+etree_defs.h,internal.h,\src\lxml\includes\etree_defs.h,\src\unix\internal.h,77e60df86f933a8497d9a006ac09a2c9,371ffd2ac622ba8f4ae44ae51c531f3d,-8023482433217963876,-8023445069074474788,7,N,319,209,30
+etree_defs.h,linux-syscalls.c,\src\lxml\includes\etree_defs.h,\src\unix\linux-syscalls.c,77e60df86f933a8497d9a006ac09a2c9,e03aa3ff0bab5e21466ddb93bc58c23e,-8023482433217963876,-8023444499991568996,8,N,319,292,60
+etree_defs.h,winapi.h,\src\lxml\includes\etree_defs.h,\src\win\winapi.h,77e60df86f933a8497d9a006ac09a2c9,4f2f56dcce5d652768e5e4cfcf6661be,-8023482433217963876,-8023445049755510628,3,N,319,3569,35

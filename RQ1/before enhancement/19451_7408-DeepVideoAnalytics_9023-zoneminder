@@ -1,0 +1,10 @@
+7408-DeepVideoAnalytics,9023-zoneminder
+bbox.c,zm_ffmpeg.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\src\zm_ffmpeg.h,b42f28bb593ba51126ab3c36f2280e44,7e2fcd3ba00999285d6aaf2ef78cc14d,-7735003018152322916,-8023445049755510628,5,N,5912,281,57
+cython_nms.c,zm_ffmpeg.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\src\zm_ffmpeg.h,340c61e73ba74d7820ff458fae32d716,7e2fcd3ba00999285d6aaf2ef78cc14d,-7735003018152322916,-8023445049755510628,5,N,6623,281,57
+gpu_nms.c,zm_ffmpeg.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\src\zm_ffmpeg.h,c5f744cc55310f8443ffae08bc289c17,7e2fcd3ba00999285d6aaf2ef78cc14d,-7735003018152322916,-8023445049755510628,5,N,5655,281,57
+gpu_nms.cpp,zm_ffmpeg.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,\src\zm_ffmpeg.h,2472408016d358310deb015143185fa8,7e2fcd3ba00999285d6aaf2ef78cc14d,-7590887830068078436,-8023445049755510628,7,N,4948,281,57
+bootstrap.js,bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,\web\skins\classic\js\bootstrap.js,e1ae63cac9b9e031a6ad0f52eafa3578,7eb3269482def1e86d1a430aa38e2a42,314210571693355638,314914259135132262,3,N,1597,1588,1567
+bootstrap3-wysihtml5.all.js,DboSource.php,\server\dvaapp\static\plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.js,\web\api\lib\Cake\Model\Datasource\DboSource.php,f340ea83811e8601158cd97443ee7321,4eff3484b9fe1f110a95fe89c141dba7,2305178486054701758,1728717321203731134,7,N,11112,2293,648
+moment.js,moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,\web\skins\classic\js\moment.js,ef61841d0586e287f80409df12b98be0,6ac1c74066d5b9787ac7ec7251c72ecd,1690506955340205759,2303001040148090559,5,N,2305,2361,2223
+fastclick.js,TestAppLibSession.php,\server\dvaapp\static\plugins\fastclick\fastclick.js,\web\api\lib\Cake\Test\test_app\Model\Datasource\Session\TestAppLibSession.php,10e704e561b407955f273819d083b958,32c509f69603825d44507f7d307bbdb0,6644123427968739771,6644967852822854041,8,N,400,22,12
+jquery-ui.js,jquery-ui.js,\server\dvaapp\static\plugins\jQueryUI\jquery-ui.js,\web\skins\classic\js\jquery-ui-1.12.1\jquery-ui.js,b20807c8cb33833cc96bd543286cc73c,ca6d917d8229472b85ee6aa83ea5643b,3989523028838484415,3998495044258793919,7,N,12619,13645,10911

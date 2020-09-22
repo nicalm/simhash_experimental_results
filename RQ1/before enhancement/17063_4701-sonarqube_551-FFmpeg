@@ -1,0 +1,2 @@
+4701-sonarqube,551-FFmpeg
+AbstractSystemInfoWriter.java,input.c,\server\sonar-webserver-core\src\main\java\org\sonar\server\platform\AbstractSystemInfoWriter.java,\libswscale\input.c,7c9eac125f77c3e66210e7c267a6de74,f5fd4c22afbeba816cbd53aa0171507b,5738139040229637322,5729127442928941270,8,N,63,1488,14

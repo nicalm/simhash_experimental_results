@@ -1,0 +1,5 @@
+2578-calibre,754-folly
+lzxc.c,CPortability.h,\src\calibre\utils\lzx\lzxc.c,\folly\CPortability.h,5148bebfcfad4cb4119b4e362bc0686f,2071cc58e111b1fb40fa47a9161f5356,-8059473846773950244,-8023445049756493156,6,N,1033,137,39
+lzxc.c,Portability.h,\src\calibre\utils\lzx\lzxc.c,\folly\Portability.h,5148bebfcfad4cb4119b4e362bc0686f,4a7decd5a24ba7fccd761801e3ef4412,-8059473846773950244,-7447019619264177960,7,N,1033,392,58
+lzxc.c,Windows.h,\src\calibre\utils\lzx\lzxc.c,\folly\portability\Windows.h,5148bebfcfad4cb4119b4e362bc0686f,8d255d6eb746df0dd20db480cd3643e5,-8059473846773950244,-8023516518011316068,5,N,1033,48,13
+msstdint.h,CPortability.h,\src\calibre\utils\lzx\msstdint.h,\folly\CPortability.h,2dacb8ee9f393a22b1266f714d3efcd6,2071cc58e111b1fb40fa47a9161f5356,-2830794129776780644,-8023445049756493156,6,N,138,137,20

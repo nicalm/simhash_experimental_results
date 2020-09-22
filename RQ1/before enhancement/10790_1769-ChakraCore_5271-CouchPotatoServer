@@ -1,0 +1,3 @@
+1769-ChakraCore,5271-CouchPotatoServer
+test42.js,dynamics.js,\test\Optimizer\test42.js,\couchpotato\static\scripts\vendor\dynamics.js,4b24ab62f9717071904b909f35a21517,72715aa5bb5e06b0097827e45d18339b,1692689073667949247,1692693471764792573,8,N,100,1840,23
+VerifyMarkFalseReference.cpp,fastclick.js,\lib\Runtime\Library\VerifyMarkFalseReference.cpp,\couchpotato\static\scripts\vendor\fastclick.js,04c995a0cad7e6534081bf9596bb8cae,10e704e561b407955f273819d083b958,6644967852823378329,6644123427968739771,7,N,49,400,18

@@ -1,0 +1,3 @@
+1366-gradle,981-numpy
+gtest-port.h,npy_common.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\numpy\core\include\numpy\npy_common.h,23446e26c2aacb9eb58191ae642bfa7a,a173a9479ba36f92005f6b19e1c98ca6,-7879329861679654756,-8023445066935379812,2,N,906,951,121
+gtest-port.h,npy_common.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\numpy\core\include\numpy\npy_common.h,23446e26c2aacb9eb58191ae642bfa7a,a173a9479ba36f92005f6b19e1c98ca6,-7879329861679654756,-8023445066935379812,2,N,906,951,121

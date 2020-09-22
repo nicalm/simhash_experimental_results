@@ -1,0 +1,9 @@
+2578-calibre,5271-CouchPotatoServer
+mobiml.py,tz.py,\src\calibre\ebooks\mobi\mobiml.py,\libs\dateutil\tz.py,5dcc257f70c4f939b09b727a17e858c0,a3540cbe9043d33c8e0b07d5002ac368,8581649121827094903,8582212140625953150,7,N,556,684,41
+mobiml.py,etree.py,\src\calibre\ebooks\mobi\mobiml.py,\libs\html5lib\treewalkers\etree.py,5dcc257f70c4f939b09b727a17e858c0,a780515f48bd56e4fa0fffac53531dec,8581649121827094903,7428745276238463335,8,N,556,103,18
+pmlconverter.py,tz.py,\src\calibre\ebooks\pml\pmlconverter.py,\libs\dateutil\tz.py,349dc8b31280641280407a3d08df79de,a3540cbe9043d33c8e0b07d5002ac368,8636255338570318190,8582212140625953150,6,N,597,684,53
+pmlconverter.py,adapters.py,\src\calibre\ebooks\pml\pmlconverter.py,\libs\requests\adapters.py,349dc8b31280641280407a3d08df79de,ffacb6ea51fff10f0b150108f8cdaa4c,8636255338570318190,8615426048561907054,7,N,597,221,11
+pmlconverter.py,htmlserializer.py,\src\calibre\ebooks\pml\pmlconverter.py,\libs\html5lib\serializer\htmlserializer.py,349dc8b31280641280407a3d08df79de,ed67e27d8b449d432b8040f13e66d1ad,8636255338570318190,-1799147948000534162,7,N,597,227,19
+pmlconverter.py,univ.py,\src\calibre\ebooks\pml\pmlconverter.py,\libs\pyasn1\type\univ.py,349dc8b31280641280407a3d08df79de,c0ff0d53ef023b2668a5c1df868c3954,8636255338570318190,-641159893812903554,4,N,597,1031,47
+pmlconverter.py,sxbuiltin.py,\src\calibre\ebooks\pml\pmlconverter.py,\libs\suds\xsd\sxbuiltin.py,349dc8b31280641280407a3d08df79de,217ccaa656e529ba1f9282642cbab2fb,8636255338570318190,7195112251758084462,7,N,597,166,24
+view.py,etree.py,\src\calibre\gui2\tweak_book\diff\view.py,\libs\html5lib\treewalkers\etree.py,e1c104f6ddab9407e7b58ecf4e3f6153,a780515f48bd56e4fa0fffac53531dec,8005769494025609579,7428745276238463335,8,N,920,103,17

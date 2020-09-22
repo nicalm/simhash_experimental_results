@@ -1,0 +1,11 @@
+2283-capnproto,8848-lwjgl3
+async-prelude.h,meshoptimizer.h,\c++\src\kj\async-prelude.h,\modules\lwjgl\meshoptimizer\src\main\c\meshoptimizer.h,20a3464f8a3e970365d9904e3076d7b9,bbb0d0a9f0e484e21b157f6082766e28,2932117154220872249,-6291250484587130184,5,N,152,404,37
+miniposix.h,Remotery.h,\c++\src\kj\miniposix.h,\modules\lwjgl\remotery\src\main\c\Remotery.h,43597d9a9103c02dbbe46d2c58ecc748,12e50b2dc5c0c2bdbc5358b702b71df0,-7455991496707810916,-8023445049755509604,6,N,84,373,23
+miniposix.h,rpmalloc.c,\c++\src\kj\miniposix.h,\modules\lwjgl\rpmalloc\src\main\c\rpmalloc.c,43597d9a9103c02dbbe46d2c58ecc748,5564d80b51973015241b21cd48ed8983,-7455991496707810916,-8023524214593693540,5,N,84,2345,28
+miniposix.h,vulkan.h,\c++\src\kj\miniposix.h,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,43597d9a9103c02dbbe46d2c58ecc748,a7ae20d678df3f06a86ce72d995f40ae,-7455991496707810916,1163898190080301212,7,N,84,49,12
+miniposix.h,glew.c,\c++\src\kj\miniposix.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\src\glew.c,43597d9a9103c02dbbe46d2c58ecc748,b1947b9acdf4519fc27c6bbcd5781bdc,-7455991496707810916,-8023445049755510628,5,N,84,25609,25
+miniposix.h,eglew.h,\c++\src\kj\miniposix.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\eglew.h,43597d9a9103c02dbbe46d2c58ecc748,ecc2eb96c703f86dbe9c6bf13607881a,-7455991496707810916,-8023445049755510628,5,N,84,1617,14
+miniposix.h,glcorearb.h,\c++\src\kj\miniposix.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glcorearb.h,43597d9a9103c02dbbe46d2c58ecc748,c374a6cfc3a7513bdf7894a715b8f505,-7455991496707810916,-8023445049755510628,5,N,84,3418,15
+miniposix.h,glew.h,\c++\src\kj\miniposix.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glew.h,43597d9a9103c02dbbe46d2c58ecc748,402cf29ca4f1c6a6736874597458a5f1,-7455991496707810916,-8023445049755510628,5,N,84,17894,17
+miniposix.h,glxew.h,\c++\src\kj\miniposix.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glxew.h,43597d9a9103c02dbbe46d2c58ecc748,f9dc87406573632578b48da4cf5fa041,-7455991496707810916,-8023445049755510628,5,N,84,1145,14
+miniposix.h,wglew.h,\c++\src\kj\miniposix.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\wglew.h,43597d9a9103c02dbbe46d2c58ecc748,f4b78ad73084060b622a4b7e766fe2cb,-7455991496707810916,-8023445049759704932,6,N,84,952,15

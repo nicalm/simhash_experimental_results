@@ -1,0 +1,8 @@
+2475-fmt,3980-passenger
+chrono_duration.cpp,Crypto.cpp,\test\fuzzing\chrono_duration.cpp,\src\cxx_supportlib\SecurityKit\Crypto.cpp,72440fd90a0d01848031589bb2a841a9,3a0b323a93a3e427bdc325501f719d80,5729127447228102871,5081735065251657878,8,N,129,812,37
+chrono_duration.cpp,http_parser.cpp,\test\fuzzing\chrono_duration.cpp,\src\cxx_supportlib\ServerKit\http_parser.cpp,72440fd90a0d01848031589bb2a841a9,5741f024e030397fc3510109b4838536,5729127447228102871,5728845967956424919,2,N,129,1688,41
+chrono_duration.cpp,jsoncpp.cpp,\test\fuzzing\chrono_duration.cpp,\src\cxx_supportlib\vendor-modified\jsoncpp\jsoncpp.cpp,72440fd90a0d01848031589bb2a841a9,681386acf805d7609b422d4f4f9ae821,5729127447228102871,6882048947573553374,6,N,129,4397,42
+one_arg.cpp,http_parser.cpp,\test\fuzzing\one_arg.cpp,\src\cxx_supportlib\ServerKit\http_parser.cpp,883cdbba8da3fa541c4927e1ea02ff22,5741f024e030397fc3510109b4838536,2270360721499404501,5728845967956424919,6,N,117,1688,36
+one_arg.cpp,jsoncpp.cpp,\test\fuzzing\one_arg.cpp,\src\cxx_supportlib\vendor-modified\jsoncpp\jsoncpp.cpp,883cdbba8da3fa541c4927e1ea02ff22,681386acf805d7609b422d4f4f9ae821,2270360721499404501,6882048947573553374,8,N,117,4397,38
+sprintf.cpp,http_parser.cpp,\test\fuzzing\sprintf.cpp,\src\cxx_supportlib\ServerKit\http_parser.cpp,c2ddd179a4100129a6f72f09df658863,5741f024e030397fc3510109b4838536,1117439216892295391,5728845967956424919,7,N,101,1688,29
+two_args.cpp,http_parser.cpp,\test\fuzzing\two_args.cpp,\src\cxx_supportlib\ServerKit\http_parser.cpp,c159700c6123fdba738f71e168dab048,5741f024e030397fc3510109b4838536,1117439216892295391,5728845967956424919,7,N,97,1688,28

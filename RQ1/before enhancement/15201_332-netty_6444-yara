@@ -1,0 +1,3 @@
+332-netty,6444-yara
+SocksCmdRequest.java,pe_utils.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\libyara\modules\pe\pe_utils.c,cd6c11dc97231f03956166b9ce5143be,85b3b0e9639ebe8f194fd360aa44aa10,5693098603517689047,5729127442933135575,8,N,83,1795,23
+XmlDecoder.java,pe_utils.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\libyara\modules\pe\pe_utils.c,19ac8fd899723cb5b1efea0f9d7dc639,85b3b0e9639ebe8f194fd360aa44aa10,5729694790866091155,5729127442933135575,7,N,87,1795,19

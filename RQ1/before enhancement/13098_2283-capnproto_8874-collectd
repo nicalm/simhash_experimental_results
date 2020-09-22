@@ -1,0 +1,4 @@
+2283-capnproto,8874-collectd
+miniposix.h,collectd.h,\c++\src\kj\miniposix.h,\src\daemon\collectd.h,43597d9a9103c02dbbe46d2c58ecc748,2b583af2ee5d68797b260dc2234a9a80,-7455991496707810916,-8023445049755510628,5,N,84,198,21
+miniposix.h,stdendian.h,\c++\src\kj\miniposix.h,\src\libcollectdclient\collectd\stdendian.h,43597d9a9103c02dbbe46d2c58ecc748,098cf6af06fc9530aaf9936b14d4d802,-7455991496707810916,-8032521930559661924,8,N,84,165,16
+miniposix.h,mount.h,\c++\src\kj\miniposix.h,\src\utils\mount\mount.h,43597d9a9103c02dbbe46d2c58ecc748,8535c5ea598e2c2e046efd01984ce929,-7455991496707810916,-8023445049755510628,5,N,84,64,12

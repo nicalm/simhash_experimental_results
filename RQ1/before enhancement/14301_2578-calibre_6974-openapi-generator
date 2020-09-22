@@ -1,0 +1,4 @@
+2578-calibre,6974-openapi-generator
+kobotouch_config.py,xml_item.py,\src\calibre\devices\kobo\kobotouch_config.py,\samples\client\petstore\python\petstore_api\models\xml_item.py,029e39ade4833f085f00c80ece7517c6,91a8316c3221ad91675d1f0595d1804c,7914139878491921879,-5921058918409990697,8,N,518,365,31
+kobotouch_config.py,xml_item.py,\src\calibre\devices\kobo\kobotouch_config.py,\samples\client\petstore\python-asyncio\petstore_api\models\xml_item.py,029e39ade4833f085f00c80ece7517c6,91a8316c3221ad91675d1f0595d1804c,7914139878491921879,-5921058918409990697,8,N,518,365,31
+kobotouch_config.py,xml_item.py,\src\calibre\devices\kobo\kobotouch_config.py,\samples\client\petstore\python-tornado\petstore_api\models\xml_item.py,029e39ade4833f085f00c80ece7517c6,91a8316c3221ad91675d1f0595d1804c,7914139878491921879,-5921058918409990697,8,N,518,365,31

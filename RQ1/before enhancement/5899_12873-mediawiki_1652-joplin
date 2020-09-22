@@ -1,0 +1,5 @@
+12873-mediawiki,1652-joplin
+LogFormatter.php,reducer.js,\includes\logging\LogFormatter.php,\ReactNativeClient\lib\reducer.js,1a5b87b8ddd192cf448a8d7e785d9d75,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933127383,5729128095763970230,8,N,551,610,125
+FormatMetadata.php,reducer.js,\includes\media\FormatMetadata.php,\ReactNativeClient\lib\reducer.js,d4c424b998a37738addfaa8660b2d286,cfb01146b60f71f219c7ac6dd67d6dc3,5729109850747091159,5729128095763970230,8,N,1326,610,127
+IPTC.php,reducer.js,\includes\media\IPTC.php,\ReactNativeClient\lib\reducer.js,5acd3160fef09ca8547c657db582b971,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135575,5729128095763970230,7,N,377,610,94
+bench_if_switch.php,reducer.js,\maintenance\benchmarks\bench_if_switch.php,\ReactNativeClient\lib\reducer.js,ebc9d6c5664eaffdc591b48a194dced3,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135575,5729128095763970230,7,N,73,610,24

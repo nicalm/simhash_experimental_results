@@ -1,0 +1,5 @@
+15760-bfgminer,7025-Stellar
+cl_platform.h,Stellar-Swift.h,\CL\cl_platform.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,fc86a2210e718fbcf95aabcf0efa129a,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510564,-7743940123003924324,6,N,935,231,40
+signal.in.h,Stellar-Swift.h,\lib\signal.in.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ab5029c765029582a72eaf9ee25fe736,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,258,231,37
+stddef.in.h,Stellar-Swift.h,\lib\stddef.in.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,51fb0aab8a1f88b1353623a5d3ebf080,fafe37ab4771e0a9586e17224fcc7041,-7446702960451199844,-7743940123003924324,8,N,37,231,13
+string.in.h,Stellar-Swift.h,\lib\string.in.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,79edfbf7ab10d649596b9a9e586671ee,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,697,231,39

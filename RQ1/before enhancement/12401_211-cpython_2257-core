@@ -1,0 +1,4 @@
+211-cpython,2257-core
+ast_opt.c,MDB2SchemaReader.php,\Python\ast_opt.c,\lib\private\DB\MDB2SchemaReader.php,0f0937406669337c16f02a758000b618,d8397eafd4a2b3b1ab041811b2ffbaec,5747141845603367111,5731379242747078871,7,N,686,238,72
+structmember.c,MDB2SchemaReader.php,\Python\structmember.c,\lib\private\DB\MDB2SchemaReader.php,c7a45e587f12849d05de4ab18b2e3e51,d8397eafd4a2b3b1ab041811b2ffbaec,1117422732808075383,5731379242747078871,8,N,272,238,57
+util.c,MDB2SchemaReader.php,\Modules\_sqlite\util.c,\lib\private\DB\MDB2SchemaReader.php,1a59c3c35b81c3b98a8e33c77497e6bd,d8397eafd4a2b3b1ab041811b2ffbaec,5732505692266838743,5731379242747078871,8,N,93,238,19

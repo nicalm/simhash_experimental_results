@@ -1,0 +1,4 @@
+14790-sleuthkit,2283-capnproto
+dfxml.cpp,miniposix.h,\tools\fiwalk\src\dfxml.cpp,\c++\src\kj\miniposix.h,eb50b8530f9308f16c36524fddd2f5b8,43597d9a9103c02dbbe46d2c58ecc748,-8023587986267121524,-7455991496707810916,8,N,386,84,29
+regex_internal.h,miniposix.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\c++\src\kj\miniposix.h,478b58ddf6d6e1e730d1b30c2f09b9d2,43597d9a9103c02dbbe46d2c58ecc748,-8023445051928094564,-7455991496707810916,7,N,587,84,23
+file.h,miniposix.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\c++\src\kj\miniposix.h,d22799caeaddf83c099f19cf401487da,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510568,-7455991496707810916,7,N,402,84,21

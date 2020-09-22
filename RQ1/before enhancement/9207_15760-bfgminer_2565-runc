@@ -1,0 +1,9 @@
+15760-bfgminer,2565-runc
+driver-cpu.c,namespace.h,\driver-cpu.c,\libcontainer\nsenter\namespace.h,be0f700b73a52208dd53210582876f9e,07ed105206852e8f50b78f5b916a9de5,-7807272267641726562,-7951950405671004004,4,N,682,28,10
+driver-cpu.h,namespace.h,\driver-cpu.h,\libcontainer\nsenter\namespace.h,092bcdcc676bceef9c2bba9e9b4bfe90,07ed105206852e8f50b78f5b916a9de5,-7446984297678579684,-7951950405671004004,8,N,62,28,9
+miner.h,namespace.h,\miner.h,\libcontainer\nsenter\namespace.h,2a2a55093078b0e951ca70e852eb3abc,07ed105206852e8f50b78f5b916a9de5,-8021228434313848776,-7951950405671004004,8,N,1425,28,10
+cl_platform.h,namespace.h,\CL\cl_platform.h,\libcontainer\nsenter\namespace.h,fc86a2210e718fbcf95aabcf0efa129a,07ed105206852e8f50b78f5b916a9de5,-8023445049755510564,-7951950405671004004,3,N,935,28,9
+signal.in.h,namespace.h,\lib\signal.in.h,\libcontainer\nsenter\namespace.h,ab5029c765029582a72eaf9ee25fe736,07ed105206852e8f50b78f5b916a9de5,-8023445049755510628,-7951950405671004004,2,N,258,28,9
+stddef.in.h,namespace.h,\lib\stddef.in.h,\libcontainer\nsenter\namespace.h,51fb0aab8a1f88b1353623a5d3ebf080,07ed105206852e8f50b78f5b916a9de5,-7446702960451199844,-7951950405671004004,7,N,37,28,9
+stdint.in.h,namespace.h,\lib\stdint.in.h,\libcontainer\nsenter\namespace.h,cae8be4f2dc822552d990c5e166b9add,07ed105206852e8f50b78f5b916a9de5,-8023455787174799140,-7951950405671004004,8,N,383,28,9
+string.in.h,namespace.h,\lib\string.in.h,\libcontainer\nsenter\namespace.h,79edfbf7ab10d649596b9a9e586671ee,07ed105206852e8f50b78f5b916a9de5,-8023445049755510628,-7951950405671004004,2,N,697,28,9

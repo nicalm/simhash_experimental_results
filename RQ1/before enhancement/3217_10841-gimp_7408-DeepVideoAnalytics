@@ -1,0 +1,12 @@
+10841-gimp,7408-DeepVideoAnalytics
+gimpwin32-io.h,bbox.c,\libgimpbase\gimpwin32-io.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,56ef6d63cf2566b506fd29ef2a5dcc22,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,58,5912,17
+gimpwin32-io.h,cython_nms.c,\libgimpbase\gimpwin32-io.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,56ef6d63cf2566b506fd29ef2a5dcc22,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,58,6623,17
+gimpwin32-io.h,gpu_nms.c,\libgimpbase\gimpwin32-io.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,56ef6d63cf2566b506fd29ef2a5dcc22,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,58,5655,17
+gimpwin32-io.h,gpu_nms.cpp,\libgimpbase\gimpwin32-io.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,56ef6d63cf2566b506fd29ef2a5dcc22,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,58,4948,17
+imap_csim_parse.c,bbox.c,\plug-ins\imagemap\imap_csim_parse.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,6c0fd8dae4d7bb8f472f756f2edb786f,b42f28bb593ba51126ab3c36f2280e44,-8888144974840538916,-7735003018152322916,6,N,1468,5912,301
+imap_csim_parse.c,cython_nms.c,\plug-ins\imagemap\imap_csim_parse.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,6c0fd8dae4d7bb8f472f756f2edb786f,340c61e73ba74d7820ff458fae32d716,-8888144974840538916,-7735003018152322916,6,N,1468,6623,310
+imap_csim_parse.c,gpu_nms.c,\plug-ins\imagemap\imap_csim_parse.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,6c0fd8dae4d7bb8f472f756f2edb786f,c5f744cc55310f8443ffae08bc289c17,-8888144974840538916,-7735003018152322916,6,N,1468,5655,300
+imap_csim_parse.c,gpu_nms.cpp,\plug-ins\imagemap\imap_csim_parse.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,6c0fd8dae4d7bb8f472f756f2edb786f,2472408016d358310deb015143185fa8,-8888144974840538916,-7590887830068078436,8,N,1468,4948,292
+imap_ncsa_parse.c,bbox.c,\plug-ins\imagemap\imap_ncsa_parse.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,77d25a2cd7957fe736c5a4a3beae98fb,b42f28bb593ba51126ab3c36f2280e44,-9176377550015506276,-7735003018152322916,7,N,1212,5912,265
+imap_ncsa_parse.c,cython_nms.c,\plug-ins\imagemap\imap_ncsa_parse.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,77d25a2cd7957fe736c5a4a3beae98fb,340c61e73ba74d7820ff458fae32d716,-9176377550015506276,-7735003018152322916,7,N,1212,6623,274
+imap_ncsa_parse.c,gpu_nms.c,\plug-ins\imagemap\imap_ncsa_parse.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,77d25a2cd7957fe736c5a4a3beae98fb,c5f744cc55310f8443ffae08bc289c17,-9176377550015506276,-7735003018152322916,7,N,1212,5655,264

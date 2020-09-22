@@ -1,0 +1,4 @@
+2475-fmt,67679-k8s-multicluster-ingress
+chrono_duration.cpp,handlebars-1.0.0.js,\test\fuzzing\chrono_duration.cpp,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,72440fd90a0d01848031589bb2a841a9,74916c394efe99b4c752280dde5428fa,5729127447228102871,5729131840979646718,5,N,129,1719,40
+sprintf.cpp,handlebars-1.0.0.js,\test\fuzzing\sprintf.cpp,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,c2ddd179a4100129a6f72f09df658863,74916c394efe99b4c752280dde5428fa,1117439216892295391,5729131840979646718,8,N,101,1719,26
+two_args.cpp,handlebars-1.0.0.js,\test\fuzzing\two_args.cpp,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,c159700c6123fdba738f71e168dab048,74916c394efe99b4c752280dde5428fa,1117439216892295391,5729131840979646718,8,N,97,1719,25

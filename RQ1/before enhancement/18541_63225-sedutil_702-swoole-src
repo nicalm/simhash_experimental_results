@@ -1,0 +1,6 @@
+63225-sedutil,702-swoole-src
+sedutil.cpp,multipart_parser.c,\Common\sedutil.cpp,\thirdparty\multipart_parser.c,d52e516d82c7919c579e6283c901df60,7f2f6adb3104232d3e7d7ffdbf0d2f1a,5693098645914171606,5621032255581894871,6,N,243,243,36
+sedutil.cpp,swoole_http_parser.c,\Common\sedutil.cpp,\thirdparty\swoole_http_parser.c,d52e516d82c7919c579e6283c901df60,d155f3ba8a7cdb53f79f34af305581eb,5693098645914171606,5729127442933135575,2,N,243,1234,54
+sedutil.cpp,shared_server.php,\Common\sedutil.cpp,\examples\task\shared_server.php,d52e516d82c7919c579e6283c901df60,89d74cf619828e10fc034ee03643184a,5693098645914171606,1135455896583321814,7,N,243,111,22
+sedutil.cpp,log.c,\Common\sedutil.cpp,\src\core\log.c,d52e516d82c7919c579e6283c901df60,fcd6d98ec4555c3e125d89e154fba5fa,5693098645914171606,5693098645905783253,4,N,243,114,25
+sedutil.cpp,get.php,\Common\sedutil.cpp,\tests\include\lib\src\responder\get.php,d52e516d82c7919c579e6283c901df60,0e93a44800862fa891e9d4a8bd016ee0,5693098645914171606,8034970456441796823,4,N,243,71,20

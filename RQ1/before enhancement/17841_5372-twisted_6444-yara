@@ -1,0 +1,7 @@
+5372-twisted,6444-yara
+raiser.c,hex_grammar.c,\src\twisted\test\raiser.c,\libyara\hex_grammar.c,03329048f02326320ae3e07a7faee64c,29c757a687084bfae5a2dc6bb31b05e5,-8023445050292381540,-9185373754145580836,4,N,3117,1251,234
+raiser.c,re_grammar.c,\src\twisted\test\raiser.c,\libyara\re_grammar.c,03329048f02326320ae3e07a7faee64c,f5548efe67856a9e3ce0e59a2574092d,-8023445050292381540,-4204392720934578020,7,N,3117,1367,239
+raiser.c,endian.h,\src\twisted\test\raiser.c,\libyara\include\yara\endian.h,03329048f02326320ae3e07a7faee64c,f44500c257dc9e47f34b1473280aea77,-8023445050292381540,-8023445049755510628,1,N,3117,55,15
+raiser.c,integers.h,\src\twisted\test\raiser.c,\libyara\include\yara\integers.h,03329048f02326320ae3e07a7faee64c,f8e220916ba72c943da73bf32049b841,-8023445050292381540,-8023445049755510628,1,N,3117,57,23
+raiser.c,limits.h,\src\twisted\test\raiser.c,\libyara\include\yara\limits.h,03329048f02326320ae3e07a7faee64c,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445050292381540,-8023445049755510628,1,N,3117,77,25
+raiser.c,strutils.h,\src\twisted\test\raiser.c,\libyara\include\yara\strutils.h,03329048f02326320ae3e07a7faee64c,62646260db13811e153f2c59cbdfb33a,-8023445050292381540,-8023518717034571368,6,N,3117,59,12

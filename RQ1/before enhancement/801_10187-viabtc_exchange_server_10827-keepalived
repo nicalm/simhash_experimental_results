@@ -1,0 +1,10 @@
+10187-viabtc_exchange_server,10827-keepalived
+fmacros.h,bitops.h,\depends\hiredis\fmacros.h,\lib\bitops.h,fa39b5b5c7b057e483d5dce607e953a2,c4a35828f1a426f0ba16cba44a4965e5,-7226589390687643492,1416063485329332382,8,N,17,56,4
+fmacros.h,scheduler.h,\depends\hiredis\fmacros.h,\lib\scheduler.h,fa39b5b5c7b057e483d5dce607e953a2,2648beb6c3fd6cbff2f2d00d659f4d34,-7226589390687643492,-8005149176269317956,7,N,17,198,4
+fmacros.h,check_daemon.c,\depends\hiredis\fmacros.h,\keepalived\check\check_daemon.c,fa39b5b5c7b057e483d5dce607e953a2,aaec0049f5aeda6e722cd1822badd73b,-7226589390687643492,-8023445049755445028,8,N,17,468,5
+fmacros.h,global_data.c,\depends\hiredis\fmacros.h,\keepalived\core\global_data.c,fa39b5b5c7b057e483d5dce607e953a2,94f8fa69fbfdea221a3ae57a538776e0,-7226589390687643492,-8018941467844880228,7,N,17,581,4
+fmacros.h,main.c,\depends\hiredis\fmacros.h,\keepalived\core\main.c,fa39b5b5c7b057e483d5dce607e953a2,4a989f0c3700d01d4c2f706b6e6fd73e,-7226589390687643492,-8023445049755510628,6,N,17,1950,5
+fmacros.h,global_data.h,\depends\hiredis\fmacros.h,\keepalived\include\global_data.h,fa39b5b5c7b057e483d5dce607e953a2,9114fe42745bf28b60785d29f3f9b027,-7226589390687643492,-7735214673603798884,7,N,17,238,4
+fmacros.h,vrrp_iprule.h,\depends\hiredis\fmacros.h,\keepalived\include\vrrp_iprule.h,fa39b5b5c7b057e483d5dce607e953a2,13163cfce3f6cc4dde48386fdf5a034e,-7226589390687643492,-8023163575449888612,7,N,17,93,4
+fmacros.h,vrrp_daemon.c,\depends\hiredis\fmacros.h,\keepalived\vrrp\vrrp_daemon.c,fa39b5b5c7b057e483d5dce607e953a2,d01de969883304fe61d29b40e40f56a2,-7226589390687643492,-8023447265958635364,8,N,17,781,5
+win32.h,main.c,\depends\hiredis\win32.h,\keepalived\core\main.c,0ec99e391511695a9d7ef00f6d95b969,4a989f0c3700d01d4c2f706b6e6fd73e,-7880077529720759656,-8023445049755510628,8,N,32,1950,9

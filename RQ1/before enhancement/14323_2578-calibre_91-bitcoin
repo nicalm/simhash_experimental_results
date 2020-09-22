@@ -1,0 +1,12 @@
+2578-calibre,91-bitcoin
+swig_chm.c,byteswap.h,\src\calibre\utils\chm\swig_chm.c,\src\compat\byteswap.h,a737d5a4a187ff74ead9fe9d6b3333a7,88acd785d1d6b57506d4fdd472a4a790,-7523272253887883108,-7744221872858473316,8,N,5011,43,14
+swig_chm.c,guiutil.cpp,\src\calibre\utils\chm\swig_chm.c,\src\qt\guiutil.cpp,a737d5a4a187ff74ead9fe9d6b3333a7,b95a5ed5f02841e93943617f80bd3ba8,-7523272253887883108,-7595888399968003938,8,N,5011,716,234
+lzxc.c,attributes.h,\src\calibre\utils\lzx\lzxc.c,\src\attributes.h,5148bebfcfad4cb4119b4e362bc0686f,1d61566702a36bfdc0abbfcd3b918b11,-8059473846773950244,-8023445049755378532,5,N,1033,15,6
+lzxc.c,compat.h,\src\calibre\utils\lzx\lzxc.c,\src\compat.h,5148bebfcfad4cb4119b4e362bc0686f,e406a80a1784994699c1b4a1bc6005d3,-8059473846773950244,-8023445187194464104,5,N,1033,87,24
+lzxc.c,randomenv.cpp,\src\calibre\utils\lzx\lzxc.c,\src\randomenv.cpp,5148bebfcfad4cb4119b4e362bc0686f,8eefeb3e04f7f52be719a9efdd732606,-8059473846773950244,-8023445049755510628,3,N,1033,439,86
+lzxc.c,byteswap.h,\src\calibre\utils\lzx\lzxc.c,\src\compat\byteswap.h,5148bebfcfad4cb4119b4e362bc0686f,88acd785d1d6b57506d4fdd472a4a790,-8059473846773950244,-7744221872858473316,7,N,1033,43,15
+lzxc.c,endian.h,\src\calibre\utils\lzx\lzxc.c,\src\compat\endian.h,5148bebfcfad4cb4119b4e362bc0686f,5c16422e6448c8f31356121158773761,-8059473846773950244,-8023445049755510628,3,N,1033,198,87
+lzxc.c,thread_annotations.h,\src\calibre\utils\lzx\lzxc.c,\src\leveldb\port\thread_annotations.h,5148bebfcfad4cb4119b4e362bc0686f,af9eee1ca47192126580ea56af3a4865,-8059473846773950244,-8023445049755510628,3,N,1033,39,13
+msstdint.h,randomenv.cpp,\src\calibre\utils\lzx\msstdint.h,\src\randomenv.cpp,2dacb8ee9f393a22b1266f714d3efcd6,8eefeb3e04f7f52be719a9efdd732606,-2830794129776780644,-8023445049755510628,7,N,138,439,18
+msstdint.h,endian.h,\src\calibre\utils\lzx\msstdint.h,\src\compat\endian.h,2dacb8ee9f393a22b1266f714d3efcd6,5c16422e6448c8f31356121158773761,-2830794129776780644,-8023445049755510628,7,N,138,198,16
+msstdint.h,thread_annotations.h,\src\calibre\utils\lzx\msstdint.h,\src\leveldb\port\thread_annotations.h,2dacb8ee9f393a22b1266f714d3efcd6,af9eee1ca47192126580ea56af3a4865,-2830794129776780644,-8023445049755510628,7,N,138,39,13

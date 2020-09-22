@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,14790-sleuthkit
+cderror.h,file.h,\cderror.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,3f1f643d43af7543b42cae428391d82c,d22799caeaddf83c099f19cf401487da,-8032707061099472680,-8023445049755510568,8,N,98,402,13
+jmorecfg.h,dfxml.cpp,\jmorecfg.h,\tools\fiwalk\src\dfxml.cpp,1469bb97fe30335d1c73bd97389298b2,eb50b8530f9308f16c36524fddd2f5b8,-8023517342645037028,-8023587986267121524,5,N,162,386,25
+jmorecfg.h,regex_internal.h,\jmorecfg.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,1469bb97fe30335d1c73bd97389298b2,478b58ddf6d6e1e730d1b30c2f09b9d2,-8023517342645037028,-8023445051928094564,8,N,162,587,34
+jmorecfg.h,file.h,\jmorecfg.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,1469bb97fe30335d1c73bd97389298b2,d22799caeaddf83c099f19cf401487da,-8023517342645037028,-8023445049755510568,6,N,162,402,34

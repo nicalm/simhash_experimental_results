@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,18-electron
+jmorecfg.h,atom_browser_main_parts.cc,\jmorecfg.h,\shell\browser\atom_browser_main_parts.cc,1469bb97fe30335d1c73bd97389298b2,4312360427f5f392ec4f692be2a7319a,-8023517342645037028,-8023445187194455912,7,N,162,375,24
+jmorecfg.h,atom_paths.h,\jmorecfg.h,\shell\browser\atom_paths.h,1469bb97fe30335d1c73bd97389298b2,f62403bf230108c707f5e1273fdb321d,-8023517342645037028,-8023471436960835427,8,N,162,33,8
+jmorecfg.h,linux_syscall_support.h,\jmorecfg.h,\vendor\third_party\lss\linux_syscall_support.h,1469bb97fe30335d1c73bd97389298b2,d7c4a715ebced0be3633fcfd349a02ff,-8023517342645037028,-8023445049755510628,4,N,162,3833,34
+jccolext-altivec.c,linux_syscall_support.h,\simd\powerpc\jccolext-altivec.c,\vendor\third_party\lss\linux_syscall_support.h,f35971d8d3460ef5abe9dca10e095ed1,d7c4a715ebced0be3633fcfd349a02ff,-3267362370959935348,-8023445049755510628,8,N,174,3833,24

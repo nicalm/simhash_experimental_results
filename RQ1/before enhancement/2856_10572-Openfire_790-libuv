@@ -1,0 +1,5 @@
+10572-Openfire,790-libuv
+ProfiledConnection.java,handle-inl.h,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\win\handle-inl.h,82b3cca56b0b2195d9beda1ef5898c9c,34080acd31e6a3b5bf545c24c6e85c3f,5747704796764879063,5729127442933135571,6,N,828,110,18
+PropertyEventDispatcher.java,handle-inl.h,\xmppserver\src\main\java\org\jivesoftware\util\PropertyEventDispatcher.java,\src\win\handle-inl.h,3eb29d5aa33c9f136c126b9db24144e9,34080acd31e6a3b5bf545c24c6e85c3f,5422865076085872849,5729127442933135571,8,N,57,110,11
+GroupEventDispatcher.java,handle-inl.h,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\win\handle-inl.h,68bd878d44b313df2afdd340fe0c0022,34080acd31e6a3b5bf545c24c6e85c3f,8016956053561850069,5729127442933135571,7,N,73,110,14
+PubSubEngine.java,handle.c,\xmppserver\src\main\java\org\jivesoftware\openfire\pubsub\PubSubEngine.java,\src\win\handle.c,56deeab6307179a3ce3786db9ed37f70,ffaba150ba89c73bb6731c32d6bd3fcf,3841896259408759153,3769521997419383153,7,N,1495,95,25

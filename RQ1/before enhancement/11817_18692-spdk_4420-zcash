@@ -1,0 +1,7 @@
+18692-spdk,4420-zcash
+queue.h,compat.h,\include\spdk\queue.h,\src\compat.h,ec100905d717ef23a63f758030236499,edca1c84c422d3accf71cf028f56730c,-9212465172521363396,-8023445189341947748,8,N,30,86,6
+queue.h,endian.h,\include\spdk\queue.h,\src\compat\endian.h,ec100905d717ef23a63f758030236499,b0a1e77bc71959182a3b0854e64e46ad,-9212465172521363396,-8023445049755510628,8,N,30,160,6
+queue.h,thread_annotations.h,\include\spdk\queue.h,\src\leveldb\port\thread_annotations.h,ec100905d717ef23a63f758030236499,af9eee1ca47192126580ea56af3a4865,-9212465172521363396,-8023445049755510628,8,N,30,39,5
+assert.h,byteswap.h,\include\spdk_internal\assert.h,\src\compat\byteswap.h,340c3c292f11b3661cb114f5fb4a2722,c8049a65823175e0cb720f771bece0d5,-7384004271941560100,-8032452249010186084,7,N,16,36,5
+assert.h,endian.h,\include\spdk_internal\assert.h,\src\compat\endian.h,340c3c292f11b3661cb114f5fb4a2722,b0a1e77bc71959182a3b0854e64e46ad,-7384004271941560100,-8023445049755510628,7,N,16,160,6
+assert.h,thread_annotations.h,\include\spdk_internal\assert.h,\src\leveldb\port\thread_annotations.h,340c3c292f11b3661cb114f5fb4a2722,af9eee1ca47192126580ea56af3a4865,-7384004271941560100,-8023445049755510628,7,N,16,39,4

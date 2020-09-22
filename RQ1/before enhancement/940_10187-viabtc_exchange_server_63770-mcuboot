@@ -1,0 +1,13 @@
+10187-viabtc_exchange_server,63770-mcuboot
+ut_pack.c,tlv.c,\utils\ut_pack.c,\boot\bootutil\src\tlv.c,33a5a6f0cb23c2479287b58037ad8ef5,edd502fbc41600330e36e8319c90e753,4192359367729356405,4228432012069445221,6,N,303,72,27
+fmacros.h,caps.c,\depends\hiredis\fmacros.h,\boot\bootutil\src\caps.c,fa39b5b5c7b057e483d5dce607e953a2,b8912a794ee2ea692ac2e6b647d02bde,-7226589390687643492,-8032452249010251620,7,N,17,57,5
+fmacros.h,cycfg_system.c,\depends\hiredis\fmacros.h,\boot\cypress\platforms\cycfg_system.c,fa39b5b5c7b057e483d5dce607e953a2,bff349da7cac11bb28ca6bbaf8ddf706,-7226589390687643492,-8023445049755510628,6,N,17,457,5
+fmacros.h,platform_util.c,\depends\hiredis\fmacros.h,\ext\mbedtls-asn1\src\platform_util.c,fa39b5b5c7b057e483d5dce607e953a2,1a96fe113f6869ebb4da6ffc51af89b9,-7226589390687643492,-7446984314768271204,8,N,17,59,6
+fmacros.h,mcuboot_config.h,\depends\hiredis\fmacros.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,fa39b5b5c7b057e483d5dce607e953a2,f0392b66843115fde20da54437ca8d50,-7226589390687643492,-8023445049755510628,6,N,17,88,5
+fmacros.h,check_config.h,\depends\hiredis\fmacros.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,fa39b5b5c7b057e483d5dce607e953a2,c07b8c175b56fe517779021d20b47123,-7226589390687643492,-8023445049755510628,6,N,17,525,4
+fmacros.h,pk.h,\depends\hiredis\fmacros.h,\ext\mbedtls-asn1\include\mbedtls\pk.h,fa39b5b5c7b057e483d5dce607e953a2,f5806369c5dff9e3ba7f61c76a8cf1c2,-7226589390687643492,-8023172095993915236,7,N,17,192,5
+fmacros.h,platform.h,\depends\hiredis\fmacros.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,fa39b5b5c7b057e483d5dce607e953a2,34692dfb5da8e14debc74cc2e5c30a29,-7226589390687643492,-8023445049747122020,7,N,17,176,5
+fmacros.h,mcuboot_config.h,\depends\hiredis\fmacros.h,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,fa39b5b5c7b057e483d5dce607e953a2,ffa22f89edc78dfefd358c72c702e248,-7226589390687643492,-8023445050292381540,7,N,17,81,5
+win32.h,cycfg_system.c,\depends\hiredis\win32.h,\boot\cypress\platforms\cycfg_system.c,0ec99e391511695a9d7ef00f6d95b969,bff349da7cac11bb28ca6bbaf8ddf706,-7880077529720759656,-8023445049755510628,8,N,32,457,9
+win32.h,mcuboot_config.h,\depends\hiredis\win32.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,0ec99e391511695a9d7ef00f6d95b969,f0392b66843115fde20da54437ca8d50,-7880077529720759656,-8023445049755510628,8,N,32,88,5
+win32.h,check_config.h,\depends\hiredis\win32.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,0ec99e391511695a9d7ef00f6d95b969,c07b8c175b56fe517779021d20b47123,-7880077529720759656,-8023445049755510628,8,N,32,525,5

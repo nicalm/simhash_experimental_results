@@ -1,0 +1,11 @@
+12310-weechat,14790-sleuthkit
+wee-url.c,sqlite3.c,\src\core\wee-url.c,\tsk\auto\sqlite3.c,2182536a79bada4949d9bc0483b5da6d,255edfceedcae2e4895b7dfb79028dca,-8023445049755510628,2280790905721247932,8,N,1111,97479,343
+wee-url.c,tsk_os.h,\src\core\wee-url.c,\tsk\base\tsk_os.h,2182536a79bada4949d9bc0483b5da6d,fb10549d476c4733b848a15bf274eecd,-8023445049755510628,-7717763362486560548,6,N,1111,145,18
+wee-url.c,aff.h,\src\core\wee-url.c,\tsk\img\aff.h,2182536a79bada4949d9bc0483b5da6d,4388e839229d61f93a1112ac98f30b73,-8023445049755510628,-8059799439789469540,8,N,1111,27,7
+wee-url.c,dfxml.cpp,\src\core\wee-url.c,\tools\fiwalk\src\dfxml.cpp,2182536a79bada4949d9bc0483b5da6d,eb50b8530f9308f16c36524fddd2f5b8,-8023445049755510628,-8023587986267121524,3,N,1111,386,102
+wee-url.c,dfxml.h,\src\core\wee-url.c,\tools\fiwalk\src\dfxml.h,2182536a79bada4949d9bc0483b5da6d,f3c421d932ecf1b8fb08953027383675,-8023445049755510628,-7591239665207420708,7,N,1111,146,29
+wee-url.c,fiwalk.h,\src\core\wee-url.c,\tools\fiwalk\src\fiwalk.h,2182536a79bada4949d9bc0483b5da6d,039566552f931dc82d647dc4de6b0327,-8023445049755510628,-8023585796102236012,5,N,1111,114,18
+wee-url.c,utils.h,\src\core\wee-url.c,\tools\fiwalk\src\utils.h,2182536a79bada4949d9bc0483b5da6d,e6ab32b13676a61b654ad5e51f15827a,-8023445049755510628,-7600106410441515876,7,N,1111,33,7
+wee-url.c,regex_internal.h,\src\core\wee-url.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,2182536a79bada4949d9bc0483b5da6d,478b58ddf6d6e1e730d1b30c2f09b9d2,-8023445049755510628,-8023445051928094564,4,N,1111,587,92
+wee-url.c,file.h,\src\core\wee-url.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,2182536a79bada4949d9bc0483b5da6d,d22799caeaddf83c099f19cf401487da,-8023445049755510628,-8023445049755510568,2,N,1111,402,44
+gui-curses-term.c,file.h,\src\gui\curses\gui-curses-term.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,12c6b2e5780349c1e6b15f2a0f08c5ca,d22799caeaddf83c099f19cf401487da,-7447028277908808228,-8023445049755510568,7,N,23,402,10

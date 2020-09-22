@@ -1,0 +1,11 @@
+5091-LFLiveKit,6347-librealsense
+bytes.h,glext.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glad\glext.h,27e627df8a5d4ca5b8f515c9651ea6ad,b47c3053eb61af62c08dd7e6f45631ce,-8023445049755527012,-8023445049755510628,1,N,45,12110,14
+bytes.h,easylogging++.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\easyloggingpp\src\easylogging++.h,27e627df8a5d4ca5b8f515c9651ea6ad,a5e6b54e91368f83f029eaf8a7a4ca68,-8023445049755527012,-8023445049756558632,5,N,45,3696,13
+bytes.h,tinycthread.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glfw\deps\tinycthread.h,27e627df8a5d4ca5b8f515c9651ea6ad,d64af4e68966d2e35effa48ebd7b3c79,-8023445049755527012,-8023444774877636452,3,N,45,138,13
+bytes.h,win32_platform.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glfw\src\win32_platform.h,27e627df8a5d4ca5b8f515c9651ea6ad,2445649aade285164b3f3df9cb6b0b9c,-8023445049755527012,-8023445049755510628,1,N,45,324,13
+bytes.h,_mingw_dxhelper.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,27e627df8a5d4ca5b8f515c9651ea6ad,5423da3108dd32be383352d8d6c55edb,-8023445049755527012,-9185092003762480996,5,N,45,102,13
+bytes.h,stdint.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glfw\deps\vs2008\stdint.h,27e627df8a5d4ca5b8f515c9651ea6ad,0a9faad66f590c9572581753d453013e,-8023445049755527012,-8018800163019237220,7,N,45,152,14
+bytes.h,vulkan.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glfw\deps\vulkan\vulkan.h,27e627df8a5d4ca5b8f515c9651ea6ad,368be8e566768753806bdc8cc0052fc3,-8023445049755527012,1163898190080301212,3,N,45,38,10
+bytes.h,glfw3native.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\glfw\include\GLFW\glfw3native.h,27e627df8a5d4ca5b8f515c9651ea6ad,c5d9fae34608972236a415167b8ed590,-8023445049755527012,-8023445051902996324,3,N,45,83,13
+bytes.h,platform.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,27e627df8a5d4ca5b8f515c9651ea6ad,4f1f8bbdad0dc57a2bc7530ddc22297a,-8023445049755527012,-7879409026516887396,5,N,45,37,8
+bytes.h,common.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,27e627df8a5d4ca5b8f515c9651ea6ad,d84cc186f69e21aac7eb4e2d5d1d3cc4,-8023445049755527012,-8024605586426111268,7,N,45,501,13

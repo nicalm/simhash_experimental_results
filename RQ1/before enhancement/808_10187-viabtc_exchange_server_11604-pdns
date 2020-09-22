@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,11604-pdns
+fmacros.h,threadname.cc,\depends\hiredis\fmacros.h,\pdns\threadname.cc,fa39b5b5c7b057e483d5dce607e953a2,5b915147d70647a42e05b4e28ce34c57,-7226589390687643492,-8023445049889728356,7,N,17,39,5
+fmacros.h,version.cc,\depends\hiredis\fmacros.h,\pdns\version.cc,fa39b5b5c7b057e483d5dce607e953a2,2d47bb8e09166cdc8de706154500a37c,-7226589390687643492,-8023445049755379556,7,N,17,141,5
+win32.h,threadname.cc,\depends\hiredis\win32.h,\pdns\threadname.cc,0ec99e391511695a9d7ef00f6d95b969,5b915147d70647a42e05b4e28ce34c57,-7880077529720759656,-8023445049889728356,7,N,32,39,7

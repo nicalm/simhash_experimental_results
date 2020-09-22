@@ -1,0 +1,9 @@
+10187-viabtc_exchange_server,9088-httpd
+http_parser.c,h2_session.c,\utils\http_parser.c,\modules\http2\h2_session.c,d09d117e8f6d43dee97217c802830c00,55af503bbec53af0f900b578fa92e8b8,5728845967956424919,-3772904545987266345,7,N,1850,1937,374
+fmacros.h,suexec.h,\depends\hiredis\fmacros.h,\support\suexec.h,fa39b5b5c7b057e483d5dce607e953a2,424eed5ca72dc5978fc0252bd3f51645,-7226589390687643492,-8023480233053857636,8,N,17,25,4
+fmacros.h,ssl_private.h,\depends\hiredis\fmacros.h,\modules\ssl\ssl_private.h,fa39b5b5c7b057e483d5dce607e953a2,36249a7b93b6c6da74f16ab00ce94b9b,-7226589390687643492,-8023445049755510628,6,N,17,736,5
+fmacros.h,unixd.c,\depends\hiredis\fmacros.h,\os\unix\unixd.c,fa39b5b5c7b057e483d5dce607e953a2,4641aa5ffe292dda86bf90bcfac2c838,-7226589390687643492,-8023462641975109476,8,N,17,524,5
+fmacros.h,mpm_default.h,\depends\hiredis\fmacros.h,\server\mpm\mpmt_os2\mpm_default.h,fa39b5b5c7b057e483d5dce607e953a2,0023769f864cdaeabb7f82ad5c66ec3d,-7226589390687643492,-8023480233053857636,8,N,17,15,4
+win32.h,suexec.h,\depends\hiredis\win32.h,\support\suexec.h,0ec99e391511695a9d7ef00f6d95b969,424eed5ca72dc5978fc0252bd3f51645,-7880077529720759656,-8023480233053857636,8,N,32,25,5
+win32.h,ssl_private.h,\depends\hiredis\win32.h,\modules\ssl\ssl_private.h,0ec99e391511695a9d7ef00f6d95b969,36249a7b93b6c6da74f16ab00ce94b9b,-7880077529720759656,-8023445049755510628,8,N,32,736,5
+win32.h,mpm_default.h,\depends\hiredis\win32.h,\server\mpm\mpmt_os2\mpm_default.h,0ec99e391511695a9d7ef00f6d95b969,0023769f864cdaeabb7f82ad5c66ec3d,-7880077529720759656,-8023480233053857636,8,N,32,15,5

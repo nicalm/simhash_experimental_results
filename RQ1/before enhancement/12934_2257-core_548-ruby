@@ -1,0 +1,5 @@
+2257-core,548-ruby
+appconfig.php,closure.c,\core\ajax\appconfig.php,\ext\fiddle\closure.c,031cdb064a8d37cd4b40af5d608c8543,3d04248ca021f7b04c57c8fc682a56a1,5152665582536538583,5729127442932611285,8,N,37,259,10
+MDB2SchemaReader.php,mktable.c,\lib\private\DB\MDB2SchemaReader.php,\enc\mktable.c,d8397eafd4a2b3b1ab041811b2ffbaec,6e80fd9ac3332b04543cc42590b0f38e,5731379242747078871,5728846242565896439,7,N,238,984,72
+MDB2SchemaReader.php,closure.c,\lib\private\DB\MDB2SchemaReader.php,\ext\fiddle\closure.c,d8397eafd4a2b3b1ab041811b2ffbaec,3d04248ca021f7b04c57c8fc682a56a1,5731379242747078871,5729127442932611285,5,N,238,259,41
+MDB2SchemaReader.php,conversions.c,\lib\private\DB\MDB2SchemaReader.php,\ext\fiddle\conversions.c,d8397eafd4a2b3b1ab041811b2ffbaec,3a3f1f166cde0c43cf66ead759bc253d,5731379242747078871,6884864247054903959,7,N,238,130,24

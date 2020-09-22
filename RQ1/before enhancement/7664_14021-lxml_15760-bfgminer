@@ -1,0 +1,9 @@
+14021-lxml,15760-bfgminer
+etree_defs.h,driver-cpu.c,\src\lxml\includes\etree_defs.h,\driver-cpu.c,77e60df86f933a8497d9a006ac09a2c9,be0f700b73a52208dd53210582876f9e,-8023482433217963876,-7807272267641726562,7,N,319,682,50
+etree_defs.h,driver-cpu.h,\src\lxml\includes\etree_defs.h,\driver-cpu.h,77e60df86f933a8497d9a006ac09a2c9,092bcdcc676bceef9c2bba9e9b4bfe90,-8023482433217963876,-7446984297678579684,7,N,319,62,13
+etree_defs.h,miner.h,\src\lxml\includes\etree_defs.h,\miner.h,77e60df86f933a8497d9a006ac09a2c9,2a2a55093078b0e951ca70e852eb3abc,-8023482433217963876,-8021228434313848776,7,N,319,1425,52
+etree_defs.h,cl_platform.h,\src\lxml\includes\etree_defs.h,\CL\cl_platform.h,77e60df86f933a8497d9a006ac09a2c9,fc86a2210e718fbcf95aabcf0efa129a,-8023482433217963876,-8023445049755510564,4,N,319,935,48
+etree_defs.h,signal.in.h,\src\lxml\includes\etree_defs.h,\lib\signal.in.h,77e60df86f933a8497d9a006ac09a2c9,ab5029c765029582a72eaf9ee25fe736,-8023482433217963876,-8023445049755510628,3,N,319,258,45
+etree_defs.h,stddef.in.h,\src\lxml\includes\etree_defs.h,\lib\stddef.in.h,77e60df86f933a8497d9a006ac09a2c9,51fb0aab8a1f88b1353623a5d3ebf080,-8023482433217963876,-7446702960451199844,8,N,319,37,13
+etree_defs.h,stdint.in.h,\src\lxml\includes\etree_defs.h,\lib\stdint.in.h,77e60df86f933a8497d9a006ac09a2c9,cae8be4f2dc822552d990c5e166b9add,-8023482433217963876,-8023455787174799140,7,N,319,383,48
+etree_defs.h,string.in.h,\src\lxml\includes\etree_defs.h,\lib\string.in.h,77e60df86f933a8497d9a006ac09a2c9,79edfbf7ab10d649596b9a9e586671ee,-8023482433217963876,-8023445049755510628,3,N,319,697,49

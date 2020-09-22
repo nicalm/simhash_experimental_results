@@ -1,0 +1,8 @@
+6664-ModSecurity,9776-gaia
+rbl.cc,orientation.js,\src\operators\rbl.cc,\dev_apps\uitest\js\API\orientation.js,f5e38e024eae4da010e654d26348ad95,7f674abe2d64a83f3c5f7fc6b2372c43,5747072022722656727,5729127442933135575,7,N,186,55,18
+seclang-parser.cc,orientation.js,\src\parser\seclang-parser.cc,\dev_apps\uitest\js\API\orientation.js,c95834041ac82565ed4d4a4bccd1b864,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,6079,55,18
+seclang-parser.cc,lcd.js,\src\parser\seclang-parser.cc,\dev_apps\uitest\js\HW\lcd.js,c95834041ac82565ed4d4a4bccd1b864,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,6079,62,9
+seclang-parser.cc,pdf.worker.js,\src\parser\seclang-parser.cc,\disabled_apps\pdfjs\content\build\pdf.worker.js,c95834041ac82565ed4d4a4bccd1b864,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,6079,37193,1111
+phase.h,orientation.js,\src\utils\phase.h,\dev_apps\uitest\js\API\orientation.js,a09f3ae3e8191f752c4eb96a4ac598b6,7f674abe2d64a83f3c5f7fc6b2372c43,-1170387186198464297,5729127442933135575,3,N,38,55,10
+phase.h,pdf.worker.js,\src\utils\phase.h,\disabled_apps\pdfjs\content\build\pdf.worker.js,a09f3ae3e8191f752c4eb96a4ac598b6,0b5f788a191b12bb182b6955242c5ffb,-1170387186198464297,6899975385106659575,8,N,38,37193,11
+escape_seq_decode.cc,orientation.js,\src\actions\transformations\escape_seq_decode.cc,\dev_apps\uitest\js\API\orientation.js,b8692d2d5e6a4258b9b1b9bda49e6fca,7f674abe2d64a83f3c5f7fc6b2372c43,5458916000809007318,5729127442933135575,8,N,118,55,14

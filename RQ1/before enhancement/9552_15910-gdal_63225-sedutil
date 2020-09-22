@@ -1,0 +1,16 @@
+15910-gdal,63225-sedutil
+gdalnodatavaluesmaskband.cpp,sedutil.cpp,\gdal\gcore\gdalnodatavaluesmaskband.cpp,\Common\sedutil.cpp,9637636ba8b6c714d72c2c52bfd578ff,d52e516d82c7919c579e6283c901df60,1117159940869892310,5693098645914171606,7,N,176,243,26
+ogrfeaturestyle.cpp,sedutil.cpp,\gdal\ogr\ogrfeaturestyle.cpp,\Common\sedutil.cpp,8d5e927ec304621d5e459fa736a29113,d52e516d82c7919c579e6283c901df60,5696334508634716343,5693098645914171606,7,N,1533,243,57
+swq_op_general.cpp,sedutil.cpp,\gdal\ogr\swq_op_general.cpp,\Common\sedutil.cpp,9a46e71d5126a97b05924e4d46123f6b,d52e516d82c7919c579e6283c901df60,5729127511652612311,5693098645914171606,3,N,1338,243,58
+cpl_virtualmem.cpp,sedutil.cpp,\gdal\port\cpl_virtualmem.cpp,\Common\sedutil.cpp,c1486bac5c48334f402b7cad9321078e,d52e516d82c7919c579e6283c901df60,5729127649091827926,5693098645914171606,4,N,1826,243,57
+global.c,sedutil.cpp,\gdal\alg\internal_libqhull\global.c,\Common\sedutil.cpp,1da0d3f37e502be64b054f7a42db6ea9,d52e516d82c7919c579e6283c901df60,5729109850612873430,5693098645914171606,3,N,1668,243,56
+pcrasterrasterband.cpp,sedutil.cpp,\gdal\frmts\pcraster\pcrasterrasterband.cpp,\Common\sedutil.cpp,e68eabc81f0f0a5d957daf8d8161a915,d52e516d82c7919c579e6283c901df60,5440895952237738199,5693098645914171606,8,N,266,243,39
+pcrasterutil.cpp,sedutil.cpp,\gdal\frmts\pcraster\pcrasterutil.cpp,\Common\sedutil.cpp,e859d72f54bbc5ffafa4fb95c5478cac,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,552,243,51
+gif_err.c,sedutil.cpp,\gdal\frmts\gif\giflib\gif_err.c,\Common\sedutil.cpp,ae184d827961b2dcfd4874276b74052e,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,96,243,29
+tif_dir.c,sedutil.cpp,\gdal\frmts\gtiff\libtiff\tif_dir.c,\Common\sedutil.cpp,4f501baa598e4ce669a2ec5827ef519c,d52e516d82c7919c579e6283c901df60,5733631042560506071,5693098645914171606,3,N,1433,243,58
+jdapimin.c,sedutil.cpp,\gdal\frmts\jpeg\libjpeg\jdapimin.c,\Common\sedutil.cpp,d09e46c26da33a93ca47edd62b5c985a,d52e516d82c7919c579e6283c901df60,1090701370437712852,5693098645914171606,8,N,223,243,30
+setmv.c,sedutil.cpp,\gdal\frmts\pcraster\libcsf\setmv.c,\Common\sedutil.cpp,bd9320ccbfb85cc8d701a1b299541881,d52e516d82c7919c579e6283c901df60,5697606609763186903,5693098645914171606,8,N,34,243,12
+ogrdxflayer.cpp,sedutil.cpp,\gdal\ogr\ogrsf_frmts\dxf\ogrdxflayer.cpp,\Common\sedutil.cpp,d1d4184dd3b5cd2a1a4c9b8df59cc679,d52e516d82c7919c579e6283c901df60,5693098645645703367,5693098645914171606,4,N,2491,243,56
+ogrdxf_dimension.cpp,sedutil.cpp,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_dimension.cpp,\Common\sedutil.cpp,7e84f64e138a3cf3829a0141b2dd4bfb,d52e516d82c7919c579e6283c901df60,6882049085012491413,5693098645914171606,8,N,252,243,36
+ogrdxf_leader.cpp,sedutil.cpp,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\Common\sedutil.cpp,4848c0c5b772127cd6203813cdb66178,d52e516d82c7919c579e6283c901df60,5729127442933135607,5693098645914171606,3,N,967,243,55
+geoconcept_syscoord.c,sedutil.cpp,\gdal\ogr\ogrsf_frmts\geoconcept\geoconcept_syscoord.c,\Common\sedutil.cpp,9af5d9460fe3d4d2b5e65f025d620176,d52e516d82c7919c579e6283c901df60,5729127442866286807,5693098645914171606,5,N,873,243,54

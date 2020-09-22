@@ -1,0 +1,11 @@
+10081-irssi,15439-ettercap
+otr-ops.c,ec_filter.c,\src\otr\otr-ops.c,\src\ec_filter.c,78f1f6c5943450ae1c92e51ced46839e,93d0ed8de4c0c08c76b8fb5f7787aef5,1117440324994119895,5729127442664700119,3,N,248,799,70
+otr-ops.c,ec_parser.c,\src\otr\otr-ops.c,\src\ec_parser.c,78f1f6c5943450ae1c92e51ced46839e,a95da67ae2615afb320cafe15fbcbfd2,1117440324994119895,5729127571782408407,6,N,248,364,46
+otr-ops.c,ef_parser.c,\src\otr\otr-ops.c,\utils\etterfilter\ef_parser.c,78f1f6c5943450ae1c92e51ced46839e,03bcdfd07ab2de95c037f8b4f9170294,1117440324994119895,5441460008174270678,8,N,248,74,17
+otr-ops.c,ef_test.c,\src\otr\otr-ops.c,\utils\etterfilter\ef_test.c,78f1f6c5943450ae1c92e51ced46839e,fa7fc65cd5f440dd843abbe86d1716e4,1117440324994119895,5729127442933135575,2,N,248,181,50
+otr-ops.c,el_parser.c,\src\otr\otr-ops.c,\utils\etterlog\el_parser.c,78f1f6c5943450ae1c92e51ced46839e,e965aa39918fe671682ccf0efa3de321,1117440324994119895,5729127442933135575,2,N,248,230,40
+formats.c,ec_filter.c,\src\fe-common\core\formats.c,\src\ec_filter.c,81ad733fd560a7711254766564a4d1b4,93d0ed8de4c0c08c76b8fb5f7787aef5,5729127511652612311,5729127442664700119,2,N,1160,799,208
+formats.c,ec_parser.c,\src\fe-common\core\formats.c,\src\ec_parser.c,81ad733fd560a7711254766564a4d1b4,a95da67ae2615afb320cafe15fbcbfd2,5729127511652612311,5729127571782408407,5,N,1160,364,80
+formats.c,ef_parser.c,\src\fe-common\core\formats.c,\utils\etterfilter\ef_parser.c,81ad733fd560a7711254766564a4d1b4,03bcdfd07ab2de95c037f8b4f9170294,5729127511652612311,5441460008174270678,7,N,1160,74,20
+formats.c,ef_test.c,\src\fe-common\core\formats.c,\utils\etterfilter\ef_test.c,81ad733fd560a7711254766564a4d1b4,fa7fc65cd5f440dd843abbe86d1716e4,5729127511652612311,5729127442933135575,1,N,1160,181,56
+formats.c,el_parser.c,\src\fe-common\core\formats.c,\utils\etterlog\el_parser.c,81ad733fd560a7711254766564a4d1b4,e965aa39918fe671682ccf0efa3de321,5729127511652612311,5729127442933135575,1,N,1160,230,60

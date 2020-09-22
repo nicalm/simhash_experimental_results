@@ -1,0 +1,11 @@
+12873-mediawiki,2575-scipy
+LogFormatter.php,global_r.c,\includes\logging\LogFormatter.php,\scipy\spatial\qhull_src\src\global_r.c,1a5b87b8ddd192cf448a8d7e785d9d75,641bed4871fe8d8a5f4a033a6bf195ca,5729127442933127383,5729109988184996087,5,N,551,1830,154
+FormatMetadata.php,global_r.c,\includes\media\FormatMetadata.php,\scipy\spatial\qhull_src\src\global_r.c,d4c424b998a37738addfaa8660b2d286,641bed4871fe8d8a5f4a033a6bf195ca,5729109850747091159,5729109988184996087,3,N,1326,1830,353
+IPTC.php,global_r.c,\includes\media\IPTC.php,\scipy\spatial\qhull_src\src\global_r.c,5acd3160fef09ca8547c657db582b971,641bed4871fe8d8a5f4a033a6bf195ca,5729127442933135575,5729109988184996087,4,N,377,1830,118
+ExtensionDependencyError.php,global_r.c,\includes\registration\ExtensionDependencyError.php,\scipy\spatial\qhull_src\src\global_r.c,f7bb90c1ca9716b4c4e940b5871755aa,641bed4871fe8d8a5f4a033a6bf195ca,5729126334831573079,5729109988184996087,7,N,44,1830,12
+LanguageGa.php,fftw_dct.c,\languages\classes\LanguageGa.php,\scipy\fftpack\tests\fftw_dct.c,04d0499b9cc1cedee645951038d7a892,b31b32ec03d2501cf8df626d7ec5efd2,5152671088609114359,7469737946946255095,8,N,36,134,12
+LanguageGa.php,global_r.c,\languages\classes\LanguageGa.php,\scipy\spatial\qhull_src\src\global_r.c,04d0499b9cc1cedee645951038d7a892,641bed4871fe8d8a5f4a033a6bf195ca,5152671088609114359,5729109988184996087,6,N,36,1830,12
+LanguageOs.php,global_r.c,\languages\classes\LanguageOs.php,\scipy\spatial\qhull_src\src\global_r.c,1d4803307d9f6c2785f6821207e47529,641bed4871fe8d8a5f4a033a6bf195ca,5729672800631306455,5729109988184996087,6,N,55,1830,16
+bench_if_switch.php,global_r.c,\maintenance\benchmarks\bench_if_switch.php,\scipy\spatial\qhull_src\src\global_r.c,ebc9d6c5664eaffdc591b48a194dced3,641bed4871fe8d8a5f4a033a6bf195ca,5729127442933135575,5729109988184996087,4,N,73,1830,34
+DiscordianDateTimeFormatter.js,global_r.c,\resources\src\mediawiki.widgets.datetime\DiscordianDateTimeFormatter.js,\scipy\spatial\qhull_src\src\global_r.c,e5fb70604ffca02318e9ccef1c63882a,641bed4871fe8d8a5f4a033a6bf195ca,5729107653737097943,5729109988184996087,8,N,445,1830,78
+os.js,global_r.c,\resources\src\mediawiki.language\languages\os.js,\scipy\spatial\qhull_src\src\global_r.c,dc5fe4fb59cfbd5cc2b4418cf6924aa3,641bed4871fe8d8a5f4a033a6bf195ca,6882031355083405463,5729109988184996087,7,N,50,1830,13

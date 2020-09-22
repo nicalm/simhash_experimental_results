@@ -1,0 +1,6 @@
+11788-fbthrift,3405-libevent
+thrift_config.h,ipv6-internal.h,\thrift\lib\cpp\thrift_config.h,\ipv6-internal.h,27c650bbff0590e9f2fafe163b055489,dabb7bfd8d8b28692ca1940f37c14cce,-8023445049755510628,-8005606573110671204,5,N,220,37,9
+thrift_config.h,time-internal.h,\thrift\lib\cpp\thrift_config.h,\time-internal.h,27c650bbff0590e9f2fafe163b055489,9bf6e1db3b1c4f27e264cb8439fab1f7,-8023445049755510628,-7994243137613279076,8,N,220,56,9
+thrift_config.h,event.h,\thrift\lib\cpp\thrift_config.h,\include\event.h,27c650bbff0590e9f2fafe163b055489,74155744f6c5bd2476d644b3e62572b7,-8023445049755510628,-8005430651917121316,5,N,220,39,8
+thrift_config.h,dns_struct.h,\thrift\lib\cpp\thrift_config.h,\include\event2\dns_struct.h,27c650bbff0590e9f2fafe163b055489,666004cf63ea0bf834f3327e53994765,-8023445049755510628,-8032733723986968355,7,N,220,32,6
+thrift_config.h,keyvalq_struct.h,\thrift\lib\cpp\thrift_config.h,\include\event2\keyvalq_struct.h,27c650bbff0590e9f2fafe163b055489,6cfad2c2ff1e3aee7e4d7e3ad4535d29,-8023445049755510628,-8024086342059894627,7,N,220,37,7

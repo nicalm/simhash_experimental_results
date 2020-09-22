@@ -1,0 +1,10 @@
+10205-firejail,2578-calibre
+caps.c,lzxc.c,\src\firejail\caps.c,\src\calibre\utils\lzx\lzxc.c,0b9d72adabe6b183bf9a7948ffeb2934,5148bebfcfad4cb4119b4e362bc0686f,-5717602040541816676,-8059473846773950244,4,N,334,1033,74
+caps.c,msstdint.h,\src\firejail\caps.c,\src\calibre\utils\lzx\msstdint.h,0b9d72adabe6b183bf9a7948ffeb2934,2dacb8ee9f393a22b1266f714d3efcd6,-5717602040541816676,-2830794129776780644,8,N,334,138,17
+sbox.c,lzc.c,\src\firejail\sbox.c,\src\calibre\utils\lzx\lzc.c,8a6f9f9ce42bcca368916f82519b79d6,11c9898842951150dfc62541ffe887ae,-8024007999708931940,-7987982500153223011,8,N,190,333,40
+sbox.c,lzxc.c,\src\firejail\sbox.c,\src\calibre\utils\lzx\lzxc.c,8a6f9f9ce42bcca368916f82519b79d6,5148bebfcfad4cb4119b4e362bc0686f,-8024007999708931940,-8059473846773950244,4,N,190,1033,44
+sbox.c,msstdint.h,\src\firejail\sbox.c,\src\calibre\utils\lzx\msstdint.h,8a6f9f9ce42bcca368916f82519b79d6,2dacb8ee9f393a22b1266f714d3efcd6,-8024007999708931940,-2830794129776780644,8,N,190,138,15
+syscall.c,lzxc.c,\src\fseccomp\syscall.c,\src\calibre\utils\lzx\lzxc.c,bf0ef0cc7976e59f6ac60c1a011c8188,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,1564,1033,91
+syscall.c,msstdint.h,\src\fseccomp\syscall.c,\src\calibre\utils\lzx\msstdint.h,bf0ef0cc7976e59f6ac60c1a011c8188,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,1564,138,15
+syscall.h,lzxc.c,\src\include\syscall.h,\src\calibre\utils\lzx\lzxc.c,e5d70ee64e8335903c40165f92bcb3a5,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,5186,1033,40
+syscall.h,msstdint.h,\src\include\syscall.h,\src\calibre\utils\lzx\msstdint.h,e5d70ee64e8335903c40165f92bcb3a5,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,5186,138,14

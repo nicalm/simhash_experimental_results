@@ -1,0 +1,5 @@
+5868-libvips,9023-zoneminder
+buffer.c,zm_ffmpeg.h,\libvips\iofuncs\buffer.c,\src\zm_ffmpeg.h,7574cb2d8655be6f6b1d83b926fa5645,7e2fcd3ba00999285d6aaf2ef78cc14d,-7744230673238075236,-8023445049755510628,8,N,447,281,26
+init.c,zm_ffmpeg.h,\libvips\iofuncs\init.c,\src\zm_ffmpeg.h,e400d93356240e897bbc32ba27bdcd3b,7e2fcd3ba00999285d6aaf2ef78cc14d,-9176930621544019780,-8023445049755510628,8,N,636,281,38
+vector.c,zm_ffmpeg.h,\libvips\iofuncs\vector.c,\src\zm_ffmpeg.h,055954f4e165b83818f7e8bd6db904ec,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023484632710850404,-8023445049755510628,4,N,400,281,45
+vector.c,ow-crypt.h,\libvips\iofuncs\vector.c,\src\libbcrypt\include\bcrypt\ow-crypt.h,055954f4e165b83818f7e8bd6db904ec,0cee51bfed48b1ba46a8ed164a5e5017,-8023484632710850404,-5429384857455895396,8,N,400,23,4

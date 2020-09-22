@@ -1,0 +1,5 @@
+32146-js-bson,8874-collectd
+promote_values_test.js,pyconfig.c,\test\node\promote_values_test.js,\src\pyconfig.c,231f8f33b7f05ad974f6dedd429e3f57,b3d2f7f228cf9a9b940e959dcb678f77,6293727511001139579,6293727511001139579,0,N,329,173,27
+promote_values_test.js,pyvalues.c,\test\node\promote_values_test.js,\src\pyvalues.c,231f8f33b7f05ad974f6dedd429e3f57,eef232aebcadaf8dedcb0b2de85cd554,6293727511001139579,6293727511001139323,1,N,329,1149,97
+test_full_bson.js,pyconfig.c,\test\node\test_full_bson.js,\src\pyconfig.c,26467473781a18f7802a6693da7b2102,b3d2f7f228cf9a9b940e959dcb678f77,6293726411422403451,6293727511001139579,3,N,614,173,32
+test_full_bson.js,pyvalues.c,\test\node\test_full_bson.js,\src\pyvalues.c,26467473781a18f7802a6693da7b2102,eef232aebcadaf8dedcb0b2de85cd554,6293726411422403451,6293727511001139323,4,N,614,1149,115

@@ -1,0 +1,5 @@
+10395-jitsi,7408-DeepVideoAnalytics
+lzma.h,bbox.c,\src\native\windows\setup\include\lzma.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,4ce48c8f939c04739c2c0b8409ca662f,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,121,5912,45
+lzma.h,cython_nms.c,\src\native\windows\setup\include\lzma.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,4ce48c8f939c04739c2c0b8409ca662f,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,121,6623,45
+lzma.h,gpu_nms.c,\src\native\windows\setup\include\lzma.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,4ce48c8f939c04739c2c0b8409ca662f,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,121,5655,45
+lzma.h,gpu_nms.cpp,\src\native\windows\setup\include\lzma.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,4ce48c8f939c04739c2c0b8409ca662f,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,121,4948,45

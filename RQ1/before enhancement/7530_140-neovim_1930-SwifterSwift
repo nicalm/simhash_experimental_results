@@ -1,0 +1,9 @@
+140-neovim,1930-SwifterSwift
+func_attr.h,CGColorExtensions.swift,\src\nvim\func_attr.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,09c1a1629d6fa1c24e2cb5acdc7bfde8,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,159,21,5
+func_attr.h,NSAttributedStringExtensions.swift,\src\nvim\func_attr.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,09c1a1629d6fa1c24e2cb5acdc7bfde8,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,159,87,11
+func_attr.h,StringExtensions.swift,\src\nvim\func_attr.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,09c1a1629d6fa1c24e2cb5acdc7bfde8,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,159,650,36
+math.c,CGColorExtensions.swift,\src\nvim\math.c,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,75df7c69ecc2b1ec74564c3c1f542f23,13a384d167268ac57b0c34b9cb13ed0f,1202161192041503380,1189793885789145236,7,N,32,21,8
+math.c,NSAttributedStringExtensions.swift,\src\nvim\math.c,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,75df7c69ecc2b1ec74564c3c1f542f23,682db1376e5e9e45d24a9e1b1ad3e9f8,1202161192041503380,-9174114755220842340,8,N,32,87,8
+win_defs.h,CGColorExtensions.swift,\src\nvim\os\win_defs.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,559a6dc04630310a39a09d004fb6797d,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,84,21,5
+win_defs.h,NSAttributedStringExtensions.swift,\src\nvim\os\win_defs.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,559a6dc04630310a39a09d004fb6797d,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,84,87,11
+win_defs.h,StringExtensions.swift,\src\nvim\os\win_defs.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,559a6dc04630310a39a09d004fb6797d,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,84,650,24

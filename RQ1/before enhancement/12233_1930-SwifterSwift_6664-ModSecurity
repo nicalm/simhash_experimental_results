@@ -1,0 +1,7 @@
+1930-SwifterSwift,6664-ModSecurity
+CGColorExtensions.swift,unique_id.cc,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\unique_id.cc,13a384d167268ac57b0c34b9cb13ed0f,7c20c0dbffc732616cd5e43c73b8087b,1189793885789145236,1199926922539489428,7,N,21,177,8
+CGColorExtensions.swift,check_config.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\others\mbedtls\check_config.h,13a384d167268ac57b0c34b9cb13ed0f,306e92b56ac8d1b085c9f72fb65f46a7,1189793885789145236,-8023445049755510628,7,N,21,402,5
+NSAttributedStringExtensions.swift,unique_id.cc,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\unique_id.cc,682db1376e5e9e45d24a9e1b1ad3e9f8,7c20c0dbffc732616cd5e43c73b8087b,-9174114755220842340,1199926922539489428,8,N,87,177,28
+NSAttributedStringExtensions.swift,check_config.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\others\mbedtls\check_config.h,682db1376e5e9e45d24a9e1b1ad3e9f8,306e92b56ac8d1b085c9f72fb65f46a7,-9174114755220842340,-8023445049755510628,6,N,87,402,11
+StringExtensions.swift,check_config.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\others\mbedtls\check_config.h,d53332d341abeff92e3d2d2ce16a4d0a,306e92b56ac8d1b085c9f72fb65f46a7,-3051550226512422756,-8023445049755510628,7,N,650,402,55
+StringExtensions.swift,platform.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\others\mbedtls\platform.h,d53332d341abeff92e3d2d2ce16a4d0a,d00d535ad1c35ca86d366afc8578c1ab,-3051550226512422756,-7879409027045336932,6,N,650,106,26

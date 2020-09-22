@@ -1,0 +1,5 @@
+14021-lxml,5372-twisted
+formfill.py,_newclient.py,\src\lxml\html\formfill.py,\src\twisted\web\_newclient.py,596ffba006721f26934e4363c7e81967,8dc9cac68b3bf17a5bd0f967094b41a3,8582212447967838318,8591215420976660582,8,N,258,640,24
+etree_defs.h,raiser.c,\src\lxml\includes\etree_defs.h,\src\twisted\test\raiser.c,77e60df86f933a8497d9a006ac09a2c9,03329048f02326320ae3e07a7faee64c,-8023482433217963876,-8023445050292381540,4,N,319,3117,76
+common_imports.py,imap4.py,\src\lxml\tests\common_imports.py,\src\twisted\mail\imap4.py,069f25e30a2cfc0ad3fdd66341cdffa1,5f9b8f231768a1528765e3f9a2d6ca11,4404069057006535150,8438098050182676846,8,N,236,3336,30
+common_imports.py,postfix.py,\src\lxml\tests\common_imports.py,\src\twisted\protocols\postfix.py,069f25e30a2cfc0ad3fdd66341cdffa1,bdecb9fbd0e8ab34b2aa8027a30860a4,4404069057006535150,7862763747541909870,8,N,236,84,16

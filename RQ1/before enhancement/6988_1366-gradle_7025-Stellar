@@ -1,0 +1,3 @@
+1366-gradle,7025-Stellar
+gtest-port.h,Stellar-Swift.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,23446e26c2aacb9eb58191ae642bfa7a,fafe37ab4771e0a9586e17224fcc7041,-7879329861679654756,-7743940123003924324,6,N,906,231,39
+gtest-port.h,Stellar-Swift.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,23446e26c2aacb9eb58191ae642bfa7a,fafe37ab4771e0a9586e17224fcc7041,-7879329861679654756,-7743940123003924324,6,N,906,231,39

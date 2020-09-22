@@ -1,0 +1,4 @@
+2575-scipy,754-folly
+user_r.h,EventFDWrapper.h,\scipy\spatial\qhull_src\src\user_r.h,\folly\io\async\EventFDWrapper.h,89c94c45935f5afeec7e7443b4e77fa4,442338be25f54c06750d74e9063379f7,839630323895557148,-8455834319570281315,8,N,171,32,7
+msc_stdint.h,CPortability.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\folly\CPortability.h,0a9faad66f590c9572581753d453013e,2071cc58e111b1fb40fa47a9161f5356,-8018800163019237220,-8023445049756493156,7,N,152,137,24
+msc_stdint.h,Windows.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\folly\portability\Windows.h,0a9faad66f590c9572581753d453013e,8d255d6eb746df0dd20db480cd3643e5,-8018800163019237220,-8023516518011316068,8,N,152,48,14

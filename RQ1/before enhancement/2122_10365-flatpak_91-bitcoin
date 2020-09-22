@@ -1,0 +1,5 @@
+10365-flatpak,91-bitcoin
+flatpak-builtins-build-bundle.c,policy.cpp,\app\flatpak-builtins-build-bundle.c,\src\policy\policy.cpp,d95e4e4e863eac020ecab93a61c5685a,b881c016071c59e2e2c79de956074e58,1395036985477628846,1719313613361791918,7,N,540,158,39
+flatpak-builtins-build-init.c,policy.cpp,\app\flatpak-builtins-build-init.c,\src\policy\policy.cpp,e403fd252ea1b2c23f8407626f390409,b881c016071c59e2e2c79de956074e58,4313386448417723310,1719313613361791918,8,N,454,158,39
+flatpak-builtins-create-usb.c,policy.cpp,\app\flatpak-builtins-create-usb.c,\src\policy\policy.cpp,80417f1a7bf4fc73ef8c0c77b4dfde80,b881c016071c59e2e2c79de956074e58,1440090432169608108,1719313613361791918,7,N,594,158,40
+flatpak-builtins-uninstall.c,policy.cpp,\app\flatpak-builtins-uninstall.c,\src\policy\policy.cpp,4139d111b16cd80ae3283b435d730e11,b881c016071c59e2e2c79de956074e58,1717061813514302372,1719313613361791918,8,N,361,158,40

@@ -1,0 +1,4 @@
+63225-sedutil,6883-Sigil
+sedutil.cpp,pcre_dfa_exec.c,\Common\sedutil.cpp,\3rdparty\pcre\pcre_dfa_exec.c,d52e516d82c7919c579e6283c901df60,038ae7ba3ce3df1eb98c7ef1c1515fee,5693098645914171606,5734765807279847671,7,N,243,2709,56
+sedutil.cpp,pcre_fullinfo.c,\Common\sedutil.cpp,\3rdparty\pcre\pcre_fullinfo.c,d52e516d82c7919c579e6283c901df60,8923cc431580197b3e121f54e41dba57,5693098645914171606,5729127442933135575,2,N,243,135,31
+sedutil.cpp,printf-args.c,\Common\sedutil.cpp,\3rdparty\hunspell\intl\printf-args.c,d52e516d82c7919c579e6283c901df60,32e9cc807cac7369c6c119a76b828fae,5693098645914171606,6882048947539982551,3,N,243,141,36

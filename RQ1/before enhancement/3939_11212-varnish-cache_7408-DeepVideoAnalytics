@@ -1,0 +1,17 @@
+11212-varnish-cache,7408-DeepVideoAnalytics
+gzguts.h,bbox.c,\lib\libvgz\gzguts.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,7127325d12a1c60eed486f9681b3a149,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,157,5912,46
+gzguts.h,cython_nms.c,\lib\libvgz\gzguts.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,7127325d12a1c60eed486f9681b3a149,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,157,6623,46
+gzguts.h,gpu_nms.c,\lib\libvgz\gzguts.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,7127325d12a1c60eed486f9681b3a149,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,157,5655,46
+gzguts.h,gpu_nms.cpp,\lib\libvgz\gzguts.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,7127325d12a1c60eed486f9681b3a149,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,157,4948,43
+zconf.h,bbox.c,\lib\libvgz\zconf.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,ca00915f6353095e76b1240157dc32b6,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,431,5912,104
+zconf.h,cython_nms.c,\lib\libvgz\zconf.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,ca00915f6353095e76b1240157dc32b6,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,431,6623,104
+zconf.h,gpu_nms.c,\lib\libvgz\zconf.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,ca00915f6353095e76b1240157dc32b6,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,431,5655,104
+zconf.h,gpu_nms.cpp,\lib\libvgz\zconf.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,ca00915f6353095e76b1240157dc32b6,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,431,4948,104
+zutil.c,bbox.c,\lib\libvgz\zutil.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,80cacf0c2fdd6f41f0562b27c2041b64,b42f28bb593ba51126ab3c36f2280e44,-8023445049754986340,-7735003018152322916,6,N,247,5912,74
+zutil.c,cython_nms.c,\lib\libvgz\zutil.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,80cacf0c2fdd6f41f0562b27c2041b64,340c61e73ba74d7820ff458fae32d716,-8023445049754986340,-7735003018152322916,6,N,247,6623,74
+zutil.c,gpu_nms.c,\lib\libvgz\zutil.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,80cacf0c2fdd6f41f0562b27c2041b64,c5f744cc55310f8443ffae08bc289c17,-8023445049754986340,-7735003018152322916,6,N,247,5655,74
+zutil.c,gpu_nms.cpp,\lib\libvgz\zutil.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,80cacf0c2fdd6f41f0562b27c2041b64,2472408016d358310deb015143185fa8,-8023445049754986340,-7590887830068078436,8,N,247,4948,73
+zutil.h,bbox.c,\lib\libvgz\zutil.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,af5aab860ef07102ffcf6fab7fd2e544,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,196,5912,57
+zutil.h,cython_nms.c,\lib\libvgz\zutil.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,af5aab860ef07102ffcf6fab7fd2e544,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,196,6623,57
+zutil.h,gpu_nms.c,\lib\libvgz\zutil.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,af5aab860ef07102ffcf6fab7fd2e544,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,196,5655,57
+zutil.h,gpu_nms.cpp,\lib\libvgz\zutil.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,af5aab860ef07102ffcf6fab7fd2e544,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,196,4948,54

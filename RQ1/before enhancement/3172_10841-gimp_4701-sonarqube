@@ -1,0 +1,2 @@
+10841-gimp,4701-sonarqube
+gimpcolorselect.c,IssueQueryFactory.java,\libgimpwidgets\gimpcolorselect.c,\server\sonar-webserver-es\src\main\java\org\sonar\server\issue\index\IssueQueryFactory.java,99ce72e63671b0b403c105a09d33596c,f3c8058373328fa7f01465f8b7427b07,5734423240608690385,8057163527422062805,8,N,1598,314,47

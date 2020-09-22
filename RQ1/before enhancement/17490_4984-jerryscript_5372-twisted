@@ -1,0 +1,8 @@
+4984-jerryscript,5372-twisted
+config.h,raiser.c,\jerry-core\config.h,\src\twisted\test\raiser.c,1610ce5e32380b97834532a2439ffb00,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,338,3117,98
+jerryscript-compiler.h,raiser.c,\jerry-core\include\jerryscript-compiler.h,\src\twisted\test\raiser.c,6dc57bc479adf16d2b42cadd27f2edd3,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,73,3117,23
+jcontext.h,raiser.c,\jerry-core\jcontext\jcontext.h,\src\twisted\test\raiser.c,4de6c82710d6de4c90b38b2414b9953a,03329048f02326320ae3e07a7faee64c,-9176367654679291684,-8023445050292381540,4,N,162,3117,31
+lit-magic-strings.inc.h,raiser.c,\jerry-core\lit\lit-magic-strings.inc.h,\src\twisted\test\raiser.c,d156bf64086a4a370f1f54301148fe60,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,920,3117,230
+ecma-builtin-helpers-macro-defines.inc.h,raiser.c,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\src\twisted\test\raiser.c,0dde8629af7a79ff0576269e0d239a88,03329048f02326320ae3e07a7faee64c,-8023445084115248996,-8023445050292381540,2,N,32,3117,11
+js-parser-limits.h,raiser.c,\jerry-core\parser\js\js-parser-limits.h,\src\twisted\test\raiser.c,656369309984980286cea2eff0cb4741,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,51,3117,17
+js-parser.c,raiser.c,\jerry-core\parser\js\js-parser.c,\src\twisted\test\raiser.c,a37c1b49591f7b4e0cdbefd7e9e81be6,03329048f02326320ae3e07a7faee64c,-7879893920254732130,-8023445050292381540,7,N,2081,3117,426

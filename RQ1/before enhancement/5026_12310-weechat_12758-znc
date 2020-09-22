@@ -1,0 +1,3 @@
+12310-weechat,12758-znc
+wee-url.c,version.h,\src\core\wee-url.c,\include\znc\version.h,2182536a79bada4949d9bc0483b5da6d,d05809c29f032c998a444139c4f0d9ce,-8023445049755510628,-8023445187195380516,5,N,1111,43,9
+gui-curses-term.c,version.h,\src\gui\curses\gui-curses-term.c,\include\znc\version.h,12c6b2e5780349c1e6b15f2a0f08c5ca,d05809c29f032c998a444139c4f0d9ce,-7447028277908808228,-8023445187195380516,8,N,23,43,8

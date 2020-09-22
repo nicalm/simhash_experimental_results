@@ -1,0 +1,15 @@
+4477-libsass,67701-r-source
+base.h,Rinterface.h,\include\sass\base.h,\src\include\Rinterface.h,26dfd0d8cb029fd73ca71c0971ecc070,2d974c28517d3ee212516a79876f7838,-8023163575290504548,-9176366556501452584,8,N,63,101,17
+base.h,alloca.c,\include\sass\base.h,\src\main\alloca.c,26dfd0d8cb029fd73ca71c0971ecc070,f5ce3570633c2b3f585e70c86e60973d,-8023163575290504548,-8024008017417283436,6,N,63,286,16
+base.h,dcigettext.c,\include\sass\base.h,\src\extra\intl\dcigettext.c,26dfd0d8cb029fd73ca71c0971ecc070,d401330d6c928edc173951bf8b63a8d6,-8023163575290504548,-8023445049755445092,6,N,63,1307,20
+base.h,loadmsgcat.c,\include\sass\base.h,\src\extra\intl\loadmsgcat.c,26dfd0d8cb029fd73ca71c0971ecc070,91aab8b1e46a17d5524a35c0a5acccb7,-8023163575290504548,-7446984297452087074,8,N,63,1139,17
+base.h,localename.c,\include\sass\base.h,\src\extra\intl\localename.c,26dfd0d8cb029fd73ca71c0971ecc070,589f33fbd2b951fee502d0f9201eea0f,-8023163575290504548,-8023445049755510628,5,N,63,1229,16
+base.h,trio.c,\include\sass\base.h,\src\extra\trio\trio.c,26dfd0d8cb029fd73ca71c0971ecc070,61081cc92c8e823533d7f6b03c6e44f1,-8023163575290504548,-7591103875521390436,8,N,63,5716,17
+base.h,trio.h,\include\sass\base.h,\src\extra\trio\trio.h,26dfd0d8cb029fd73ca71c0971ecc070,958b94f2095fa9ed02786178156f3e09,-8023163575290504548,-8023445049755510628,5,N,63,139,16
+base.h,triodef.h,\include\sass\base.h,\src\extra\trio\triodef.h,26dfd0d8cb029fd73ca71c0971ecc070,43e7c3a4cc71cae8cdacd1c970d2ba53,-8023163575290504548,-8023445049755510628,5,N,63,227,14
+base.h,trionan.c,\include\sass\base.h,\src\extra\trio\trionan.c,26dfd0d8cb029fd73ca71c0971ecc070,08daec50ecdd4975664a287df69e5d66,-8023163575290504548,-8023445050292381540,4,N,63,831,16
+base.h,trionan.h,\include\sass\base.h,\src\extra\trio\trionan.h,26dfd0d8cb029fd73ca71c0971ecc070,e7a44aba116a6e35c3ec97fe8ebb27d3,-8023163575290504548,-8021193250075912036,8,N,63,102,17
+base.h,triop.h,\include\sass\base.h,\src\extra\trio\triop.h,26dfd0d8cb029fd73ca71c0971ecc070,c58f5e7230c4b9ffee2e1dc2c3823220,-8023163575290504548,-8023445049755510628,5,N,63,220,16
+base.h,triostr.c,\include\sass\base.h,\src\extra\trio\triostr.c,26dfd0d8cb029fd73ca71c0971ecc070,c6e41b867a3ed2882a66acc38c028b41,-8023163575290504548,-8023515144292869988,7,N,63,1428,16
+base.h,triostr.h,\include\sass\base.h,\src\extra\trio\triostr.h,26dfd0d8cb029fd73ca71c0971ecc070,4beb2b3b1e23be849ba1895e0e65740b,-8023163575290504548,-8023445049755510628,5,N,63,519,17
+base.h,types.h,\include\sass\base.h,\src\extra\xdr\rpc\types.h,26dfd0d8cb029fd73ca71c0971ecc070,81168f2ae1a9c30bdb1ee3917cde3a0b,-8023163575290504548,-7879329861679658852,7,N,63,48,13

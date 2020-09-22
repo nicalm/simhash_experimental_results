@@ -1,0 +1,4 @@
+14790-sleuthkit,7025-Stellar
+dfxml.cpp,Stellar-Swift.h,\tools\fiwalk\src\dfxml.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,eb50b8530f9308f16c36524fddd2f5b8,fafe37ab4771e0a9586e17224fcc7041,-8023587986267121524,-7743940123003924324,8,N,386,231,32
+utils.h,Stellar-Swift.h,\tools\fiwalk\src\utils.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e6ab32b13676a61b654ad5e51f15827a,fafe37ab4771e0a9586e17224fcc7041,-7600106410441515876,-7743940123003924324,6,N,33,231,10
+file.h,Stellar-Swift.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d22799caeaddf83c099f19cf401487da,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510568,-7743940123003924324,7,N,402,231,38

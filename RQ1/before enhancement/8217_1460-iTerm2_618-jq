@@ -1,0 +1,7 @@
+1460-iTerm2,618-jq
+iTermMetalGlyphKey.h,parser.c,\sources\iTermMetalGlyphKey.h,\src\parser.c,ec93bd52c1bfb24f6f1a8d5c07191b02,a9e23cec6f740c2c216ed7e38fa76eaa,5729057074222575775,5729127442933135575,6,N,92,3339,20
+ini.h,jv_dtoa.c,\ThirdParty\inih\ini.h,\src\jv_dtoa.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,e22c5b05bfd24415a3e8d8da3f8791ac,-8023445049755510564,-8023445049755510756,2,N,57,3652,20
+ini.h,lexer.h,\ThirdParty\inih\ini.h,\src\lexer.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,da2a1a7176c85a8ba5c6ad487a6476ec,-8023445049755510564,-8023445049755510628,1,N,57,554,18
+ini.h,libm.h,\ThirdParty\inih\ini.h,\src\libm.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,2cd1e495bcbe77e741569181c2fbb01b,-8023445049755510564,-8032452266248775464,6,N,57,291,16
+BetterFontPicker-Swift.h,jv_dtoa.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\jv_dtoa.c,9cdfc1f6cb7907e29a4e6b2cf0041946,e22c5b05bfd24415a3e8d8da3f8791ac,-8023479959251789668,-8023445049755510756,4,N,335,3652,59
+BetterFontPicker-Swift.h,lexer.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\lexer.h,9cdfc1f6cb7907e29a4e6b2cf0041946,da2a1a7176c85a8ba5c6ad487a6476ec,-8023479959251789668,-8023445049755510628,3,N,335,554,59

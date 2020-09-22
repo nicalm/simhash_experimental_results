@@ -1,0 +1,6 @@
+1193-mpv,18309-tor
+compiler.h,ed25519-donna-portable-identify.h,\osdep\compiler.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,b67ad9eeefd9950bd47205a4fac19e42,36a4efc8ce95d16532d64be30ece0f36,-7735225136714557420,-8023445066935379812,8,N,20,87,6
+io.h,torint.h,\osdep\io.h,\src\lib\cc\torint.h,1e5b614f4ca8f110251d3d969bd9fa84,f9bd1774a6cabce5324bfd6779020def,-5573522037410505572,-8023198759150888804,8,N,147,101,21
+io.h,inaddr_st.h,\osdep\io.h,\src\lib\net\inaddr_st.h,1e5b614f4ca8f110251d3d969bd9fa84,62efbf41d2e5c9c5c910850b9ac27f2c,-5573522037410505572,-8023445049755509604,7,N,147,69,17
+io.h,compat_string.h,\osdep\io.h,\src\lib\string\compat_string.h,1e5b614f4ca8f110251d3d969bd9fa84,ee5d4f16d6a1a17e897c0a516337b508,-5573522037410505572,-8023198751131381604,8,N,147,36,12
+context.c,torint.h,\video\out\gpu\context.c,\src\lib\cc\torint.h,54249a4a32b8a7f1f708836246c0e394,f9bd1774a6cabce5324bfd6779020def,-9176401463991052147,-8023198759150888804,8,N,162,101,17

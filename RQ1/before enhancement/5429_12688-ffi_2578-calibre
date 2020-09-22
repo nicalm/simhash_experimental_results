@@ -1,0 +1,5 @@
+12688-ffi,2578-calibre
+compat.h,lzxc.c,\ext\ffi_c\compat.h,\src\calibre\utils\lzx\lzxc.c,89860486007fe9b6739772aa0b042837,5148bebfcfad4cb4119b4e362bc0686f,-8023447251463120740,-8059473846773950244,6,N,38,1033,12
+DynamicLibrary.h,lzxc.c,\ext\ffi_c\DynamicLibrary.h,\src\calibre\utils\lzx\lzxc.c,85bcc5d631466c02273f9899152b054b,5148bebfcfad4cb4119b4e362bc0686f,-5753630837560780644,-8059473846773950244,3,N,49,1033,16
+rbffi_endian.h,icu_calibre_utils.h,\ext\ffi_c\rbffi_endian.h,\src\calibre\utils\icu_calibre_utils.h,f869d8d0ddc657c2a3138058f91acb6c,3a63b39b6c2e73ad84e1ccdd8548a328,-8023445049822619428,-8870192150794150948,8,N,50,188,14
+rbffi_endian.h,lzxc.c,\ext\ffi_c\rbffi_endian.h,\src\calibre\utils\lzx\lzxc.c,f869d8d0ddc657c2a3138058f91acb6c,5148bebfcfad4cb4119b4e362bc0686f,-8023445049822619428,-8059473846773950244,3,N,50,1033,14

@@ -1,0 +1,8 @@
+11072-cryptopp,7025-Stellar
+config_asm.h,Stellar-Swift.h,\config_asm.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,f28d7378bfdd9522e97b6225da10c318,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,291,231,29
+config_cxx.h,Stellar-Swift.h,\config_cxx.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,0461f5be02c9cd2d77d04bd1a775cade,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,124,231,30
+config_os.h,Stellar-Swift.h,\config_os.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ae3738b1961da7cdccc2105df138a771,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,87,231,27
+rijndael.cpp,Stellar-Swift.h,\rijndael.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5e11c77aba7a6cc9a1c8e4db9be4e269,fafe37ab4771e0a9586e17224fcc7041,-8023444499999696740,-7743940123003924324,6,N,1036,231,38
+sha.cpp,Stellar-Swift.h,\sha.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,3e56c877ea36ea0fdc50c12580fbfe51,fafe37ab4771e0a9586e17224fcc7041,-8023515418499688292,-7743940123003924324,6,N,1203,231,38
+speck.cpp,Stellar-Swift.h,\speck.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,bb4636e8c76e4d2d62685b50ea1741c4,fafe37ab4771e0a9586e17224fcc7041,-7167769916648146788,-7743940123003924324,7,N,455,231,29
+stdcpp.h,Stellar-Swift.h,\stdcpp.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,0f148d7049fa5aaf0f0fb658d46a4f73,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,71,231,18

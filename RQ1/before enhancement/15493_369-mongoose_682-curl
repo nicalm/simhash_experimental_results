@@ -1,0 +1,7 @@
+369-mongoose,682-curl
+ReadPreference.js,getinfo.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\lib\getinfo.c,72ad104b2d3e1cc34b02578eb97d2c64,e4b1b98ba03c964ba505b6b062b00050,5440897058057271519,5729127442933135575,4,N,30,405,8
+ReadPreference.js,setopt.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\lib\setopt.c,72ad104b2d3e1cc34b02578eb97d2c64,bf2b060076537e339e4760d60bc6e95d,5440897058057271519,5729127442933135575,4,N,30,1759,8
+ReadPreference.js,strerror.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\lib\strerror.c,72ad104b2d3e1cc34b02578eb97d2c64,f4541cfa3fbbf8e4dfe35ebb2042df2c,5440897058057271519,5666077048183503063,7,N,30,743,8
+ReadPreference.js,telnet.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\lib\telnet.c,72ad104b2d3e1cc34b02578eb97d2c64,61f2737780988e684ee1746bbaceed3f,5440897058057271519,5729127442933135575,4,N,30,1332,9
+ReadPreference.js,tool_getparam.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\src\tool_getparam.c,72ad104b2d3e1cc34b02578eb97d2c64,a22f253f803124394e83cb5791f88233,5440897058057271519,5729127442933135575,4,N,30,1940,12
+ReadPreference.js,sectransp.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\lib\vtls\sectransp.c,72ad104b2d3e1cc34b02578eb97d2c64,19c48e3eed312fd3d5b47ad6a8263888,5440897058057271519,5729127442933135575,4,N,30,2690,9

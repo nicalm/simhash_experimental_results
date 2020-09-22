@@ -1,0 +1,5 @@
+2257-core,4420-zcash
+RemoteUser.php,policy.cpp,\lib\private\User\RemoteUser.php,\src\policy\policy.cpp,73b7eec5be5418002038125febb38b9b,b49cba2f0f54de3a01a53927cb03014b,6330999770336514990,1431083237210080174,8,N,88,121,27
+Extension.php,policy.cpp,\apps\comments\lib\Activity\Extension.php,\src\policy\policy.cpp,7bf3ac8a3df9c8e9abf06e33cde08300,b49cba2f0f54de3a01a53927cb03014b,6005605212527281070,1431083237210080174,7,N,147,121,27
+Extension.php,crypter.cpp,\apps\comments\lib\Activity\Extension.php,\src\wallet\crypter.cpp,7bf3ac8a3df9c8e9abf06e33cde08300,257c144362718217db1c3b15fd6ec293,6005605212527281070,6006739908862824879,8,N,147,490,41
+CacheParser.php,policy.cpp,\apps\files_external\3rdparty\google-api-php-client\src\Google\Http\CacheParser.php,\src\policy\policy.cpp,3e390e20c57d0aef0b081d37520fcc57,b49cba2f0f54de3a01a53927cb03014b,2223716221837984686,1431083237210080174,7,N,87,121,34

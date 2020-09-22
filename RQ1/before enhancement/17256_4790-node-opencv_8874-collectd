@@ -1,0 +1,4 @@
+4790-node-opencv,8874-collectd
+init.cc,collectd.h,\src\init.cc,\src\daemon\collectd.h,ac230f241e7062df9add8317bcf2a3be,2b583af2ee5d68797b260dc2234a9a80,-8032663355242784612,-8023445049755510628,3,N,67,198,11
+init.cc,stdendian.h,\src\init.cc,\src\libcollectdclient\collectd\stdendian.h,ac230f241e7062df9add8317bcf2a3be,098cf6af06fc9530aaf9936b14d4d802,-8032663355242784612,-8032521930559661924,4,N,67,165,11
+init.cc,mount.h,\src\init.cc,\src\utils\mount\mount.h,ac230f241e7062df9add8317bcf2a3be,8535c5ea598e2c2e046efd01984ce929,-8032663355242784612,-8023445049755510628,3,N,67,64,12

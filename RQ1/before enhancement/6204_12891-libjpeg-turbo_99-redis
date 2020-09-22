@@ -1,0 +1,11 @@
+12891-libjpeg-turbo,99-redis
+jmorecfg.h,config.h,\jmorecfg.h,\src\config.h,1469bb97fe30335d1c73bd97389298b2,fe9fefbbc117a00a89d3fa3a9678435a,-8023517342645037028,-8023445049755510628,4,N,162,149,29
+jmorecfg.h,lzfP.h,\jmorecfg.h,\src\lzfP.h,1469bb97fe30335d1c73bd97389298b2,a8a99ddcfb21b5d90efea295fa1823be,-8023517342645037028,-7879329861679654756,5,N,162,77,25
+jmorecfg.h,sz.c,\jmorecfg.h,\deps\jemalloc\src\sz.c,1469bb97fe30335d1c73bd97389298b2,f9960e2b44b2f65f49d69f46a60a1ac3,-8023517342645037028,-8060636030565050340,8,N,162,103,16
+jmorecfg.h,llimits.h,\jmorecfg.h,\deps\lua\src\llimits.h,1469bb97fe30335d1c73bd97389298b2,0990f1abc3ce4ed347a3373a88d7961e,-8023517342645037028,-8023163574778799972,5,N,162,53,11
+jmorecfg.h,luaconf.h,\jmorecfg.h,\deps\lua\src\luaconf.h,1469bb97fe30335d1c73bd97389298b2,d1c2f2f3de3ece96d5376352c357d46d,-8023517342645037028,-8023488772522582372,8,N,162,252,30
+jmorecfg.h,jemalloc_internal_decls.h,\jmorecfg.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,1469bb97fe30335d1c73bd97389298b2,b10ad6415790176a35be7bbab7206d99,-8023517342645037028,-9176366554630793060,6,N,162,85,20
+jmorecfg.h,jemalloc_internal_types.h,\jmorecfg.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,1469bb97fe30335d1c73bd97389298b2,980de9a5931b9a6fb54cf696652d614a,-8023517342645037028,-8032452249077360612,5,N,162,129,25
+jccolext-altivec.c,config.h,\simd\powerpc\jccolext-altivec.c,\src\config.h,f35971d8d3460ef5abe9dca10e095ed1,fe9fefbbc117a00a89d3fa3a9678435a,-3267362370959935348,-8023445049755510628,8,N,174,149,14
+jccolext-altivec.c,lzfP.h,\simd\powerpc\jccolext-altivec.c,\src\lzfP.h,f35971d8d3460ef5abe9dca10e095ed1,a8a99ddcfb21b5d90efea295fa1823be,-3267362370959935348,-7879329861679654756,7,N,174,77,14
+jccolext-altivec.c,llimits.h,\simd\powerpc\jccolext-altivec.c,\deps\lua\src\llimits.h,f35971d8d3460ef5abe9dca10e095ed1,0990f1abc3ce4ed347a3373a88d7961e,-3267362370959935348,-8023163574778799972,7,N,174,53,11

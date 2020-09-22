@@ -1,0 +1,11 @@
+15439-ettercap,2578-calibre
+ec_os_mingw.h,lzxc.c,\include\ec_os_mingw.h,\src\calibre\utils\lzx\lzxc.c,a35507e5684e934f2f3961ea9d733813,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,184,1033,29
+ec_os_mingw.h,msstdint.h,\include\ec_os_mingw.h,\src\calibre\utils\lzx\msstdint.h,a35507e5684e934f2f3961ea9d733813,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,184,138,15
+ec_stdint.h,lzxc.c,\include\ec_stdint.h,\src\calibre\utils\lzx\lzxc.c,6aec3e3181000888a59234edbdd91364,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,70,1033,19
+ec_stdint.h,msstdint.h,\include\ec_stdint.h,\src\calibre\utils\lzx\msstdint.h,6aec3e3181000888a59234edbdd91364,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,70,138,17
+ec_strings.h,lzxc.c,\include\ec_strings.h,\src\calibre\utils\lzx\lzxc.c,de354113240928e149f745107db6f7bb,5148bebfcfad4cb4119b4e362bc0686f,-7879329861738243684,-8059473846773950244,8,N,54,1033,17
+ec_send.c,freetype.cpp,\src\ec_send.c,\src\calibre\utils\fonts\freetype.cpp,6bbf004adc2d4470c5ca070737f1caa9,ce45c5119568c18bcc4b88728e2ae53e,6291913041870293371,6293727511001139579,7,N,1059,285,98
+ec_send.c,outline.cpp,\src\ec_send.c,\src\calibre\utils\podofo\outline.cpp,6bbf004adc2d4470c5ca070737f1caa9,580a07991153b8911ca19368156953d8,6291913041870293371,6293727511001139579,7,N,1059,113,41
+ec_send.c,hunspell_wrapper.cpp,\src\ec_send.c,\src\calibre\utils\spell\hunspell_wrapper.cpp,6bbf004adc2d4470c5ca070737f1caa9,195a888d0e68116525f29c9a10a6a8ae,6291913041870293371,6293727511001139579,7,N,1059,173,50
+ec_send.c,device.cpp,\src\ec_send.c,\src\calibre\devices\mtp\windows\device.cpp,6bbf004adc2d4470c5ca070737f1caa9,52fe950afa93fcd616d4241f58ddc10b,6291913041870293371,6293727510934030715,6,N,1059,183,47
+ec_send.c,html.c,\src\ec_send.c,\src\calibre\gui2\tweak_book\editor\syntax\html.c,6bbf004adc2d4470c5ca070737f1caa9,f259b1a2bf100f044cdb9be8bdc7dd2e,6291913041870293371,6293762695373228411,8,N,1059,467,108

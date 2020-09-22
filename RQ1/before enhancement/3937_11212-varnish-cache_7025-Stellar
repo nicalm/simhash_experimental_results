@@ -1,0 +1,5 @@
+11212-varnish-cache,7025-Stellar
+gzguts.h,Stellar-Swift.h,\lib\libvgz\gzguts.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,7127325d12a1c60eed486f9681b3a149,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,157,231,35
+zconf.h,Stellar-Swift.h,\lib\libvgz\zconf.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ca00915f6353095e76b1240157dc32b6,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,431,231,39
+zutil.c,Stellar-Swift.h,\lib\libvgz\zutil.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,80cacf0c2fdd6f41f0562b27c2041b64,fafe37ab4771e0a9586e17224fcc7041,-8023445049754986340,-7743940123003924324,6,N,247,231,32
+zutil.h,Stellar-Swift.h,\lib\libvgz\zutil.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,af5aab860ef07102ffcf6fab7fd2e544,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,196,231,39

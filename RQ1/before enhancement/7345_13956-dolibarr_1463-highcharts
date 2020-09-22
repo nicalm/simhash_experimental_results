@@ -1,0 +1,7 @@
+13956-dolibarr,1463-highcharts
+jquery.js,jquery-1.10.1.js,\htdocs\includes\jquery\js\jquery.js,\vendor\jquery-1.10.1.js,311eed38e0fec2e67636d359582a60a2,25dfe6cc40dccd6416159d7ac4f1d108,2287237669226627834,2286041538015085310,5,N,6800,6647,4608
+jquery.js,jquery-1.11.0.js,\htdocs\includes\jquery\js\jquery.js,\vendor\jquery-1.11.0.js,311eed38e0fec2e67636d359582a60a2,6a89c87c622a2c4c544724f90c4b6afc,2287237669226627834,2286040850820317438,6,N,6800,6879,4872
+jquery.js,jquery-3.1.1.js,\htdocs\includes\jquery\js\jquery.js,\vendor\jquery-3.1.1.js,311eed38e0fec2e67636d359582a60a2,9d209a4f77d4d44a46536eb8b3297a3e,2287237669226627834,2305253167247737594,2,N,6800,6608,6296
+class.soap_server.php,moment-2.18.1.js,\htdocs\includes\nusoap\lib\class.soap_server.php,\vendor\moment-2.18.1.js,74ab1fe2489dd8dbb1788501ee32d4c5,161c33130cc2c2a6a0fd88fd75be50eb,2305191817129870014,9220178634233987774,8,N,707,3382,190
+nusoap.php,moment-2.18.1.js,\htdocs\includes\nusoap\lib\nusoap.php,\vendor\moment-2.18.1.js,a5b56b42e353f4503ff948a3ca1278cc,161c33130cc2c2a6a0fd88fd75be50eb,2305183021036847806,9220178634233987774,7,N,5368,3382,708
+mime.php,moment-2.18.1.js,\htdocs\includes\nusoap\lib\Mail\mime.php,\vendor\moment-2.18.1.js,4524399634f519b146279e74603576db,161c33130cc2c2a6a0fd88fd75be50eb,2230872869123515070,9220178634233987774,8,N,736,3382,189

@@ -1,0 +1,3 @@
+4014-kanboard,8848-lwjgl3
+dom.js,PointerBuffer.java,\assets\js\core\dom.js,\modules\lwjgl\core\src\main\java\org\lwjgl\PointerBuffer.java,54c3f42675b481e378fde97b2aa5710c,fb0e72f6c959984a262f6b6fd65c9540,2519032038550734059,3095211279441661163,8,N,161,242,36
+JsonEncodingValidator.php,CGLLog.cpp,\libs\jsonrpc\src\JsonRPC\Validator\JsonEncodingValidator.php,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,eed9775d43155ee449543409642197bd,8ed8843634d29dc9d42c00e6488ff838,6887115488296022103,6882048947539982551,8,N,33,80,11

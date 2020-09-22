@@ -1,0 +1,17 @@
+12891-libjpeg-turbo,6347-librealsense
+cderror.h,easylogging++.h,\cderror.h,\third-party\easyloggingpp\src\easylogging++.h,3f1f643d43af7543b42cae428391d82c,a5e6b54e91368f83f029eaf8a7a4ca68,-8032707061099472680,-8023445049756558632,8,N,98,3696,13
+jcdctmgr.c,_mingw_dxhelper.h,\jcdctmgr.c,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,56e04669656b24d4dff2211e451cb3d9,5423da3108dd32be383352d8d6c55edb,254452952107899036,-9185092003762480996,8,N,461,102,26
+jmorecfg.h,glext.h,\jmorecfg.h,\third-party\glad\glext.h,1469bb97fe30335d1c73bd97389298b2,b47c3053eb61af62c08dd7e6f45631ce,-8023517342645037028,-8023445049755510628,4,N,162,12110,25
+jmorecfg.h,easylogging++.h,\jmorecfg.h,\third-party\easyloggingpp\src\easylogging++.h,1469bb97fe30335d1c73bd97389298b2,a5e6b54e91368f83f029eaf8a7a4ca68,-8023517342645037028,-8023445049756558632,8,N,162,3696,34
+jmorecfg.h,tinycthread.h,\jmorecfg.h,\third-party\glfw\deps\tinycthread.h,1469bb97fe30335d1c73bd97389298b2,d64af4e68966d2e35effa48ebd7b3c79,-8023517342645037028,-8023444774877636452,4,N,162,138,29
+jmorecfg.h,win32_platform.h,\jmorecfg.h,\third-party\glfw\src\win32_platform.h,1469bb97fe30335d1c73bd97389298b2,2445649aade285164b3f3df9cb6b0b9c,-8023517342645037028,-8023445049755510628,4,N,162,324,23
+jmorecfg.h,_mingw_dxhelper.h,\jmorecfg.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,1469bb97fe30335d1c73bd97389298b2,5423da3108dd32be383352d8d6c55edb,-8023517342645037028,-9185092003762480996,6,N,162,102,27
+jmorecfg.h,vulkan.h,\jmorecfg.h,\third-party\glfw\deps\vulkan\vulkan.h,1469bb97fe30335d1c73bd97389298b2,368be8e566768753806bdc8cc0052fc3,-8023517342645037028,1163898190080301212,6,N,162,38,10
+jmorecfg.h,glfw3native.h,\jmorecfg.h,\third-party\glfw\include\GLFW\glfw3native.h,1469bb97fe30335d1c73bd97389298b2,c5d9fae34608972236a415167b8ed590,-8023517342645037028,-8023445051902996324,6,N,162,83,21
+jmorecfg.h,platform.h,\jmorecfg.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,1469bb97fe30335d1c73bd97389298b2,4f1f8bbdad0dc57a2bc7530ddc22297a,-8023517342645037028,-7879409026516887396,6,N,162,37,8
+jpeglib.h,platform.h,\jpeglib.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,ab13418d4061febff4eef6d252c94832,4f1f8bbdad0dc57a2bc7530ddc22297a,-5285328528677250660,-7879409026516887396,8,N,533,37,9
+jccolext-altivec.c,glext.h,\simd\powerpc\jccolext-altivec.c,\third-party\glad\glext.h,f35971d8d3460ef5abe9dca10e095ed1,b47c3053eb61af62c08dd7e6f45631ce,-3267362370959935348,-8023445049755510628,8,N,174,12110,15
+jccolext-altivec.c,tinycthread.h,\simd\powerpc\jccolext-altivec.c,\third-party\glfw\deps\tinycthread.h,f35971d8d3460ef5abe9dca10e095ed1,d64af4e68966d2e35effa48ebd7b3c79,-3267362370959935348,-8023444774877636452,8,N,174,138,14
+jccolext-altivec.c,win32_platform.h,\simd\powerpc\jccolext-altivec.c,\third-party\glfw\src\win32_platform.h,f35971d8d3460ef5abe9dca10e095ed1,2445649aade285164b3f3df9cb6b0b9c,-3267362370959935348,-8023445049755510628,8,N,174,324,14
+jccolext-altivec.c,glfw3native.h,\simd\powerpc\jccolext-altivec.c,\third-party\glfw\include\GLFW\glfw3native.h,f35971d8d3460ef5abe9dca10e095ed1,c5d9fae34608972236a415167b8ed590,-3267362370959935348,-8023445051902996324,8,N,174,83,14
+jccolext-altivec.c,platform.h,\simd\powerpc\jccolext-altivec.c,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,f35971d8d3460ef5abe9dca10e095ed1,4f1f8bbdad0dc57a2bc7530ddc22297a,-3267362370959935348,-7879409026516887396,8,N,174,37,12

@@ -1,0 +1,6 @@
+6422-roundcubemail,6883-Sigil
+rcube_tnef_decoder.php,pcre_dfa_exec.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\3rdparty\pcre\pcre_dfa_exec.c,8ca46cd084af91332151df25d1c4bd66,038ae7ba3ce3df1eb98c7ef1c1515fee,5729127442933266647,5734765807279847671,6,N,520,2709,130
+rcube_tnef_decoder.php,pcre_fullinfo.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\3rdparty\pcre\pcre_fullinfo.c,8ca46cd084af91332151df25d1c4bd66,8923cc431580197b3e121f54e41dba57,5729127442933266647,5729127442933135575,1,N,520,135,30
+rcube_tnef_decoder.php,printf-args.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\3rdparty\hunspell\intl\printf-args.c,8ca46cd084af91332151df25d1c4bd66,32e9cc807cac7369c6c119a76b828fae,5729127442933266647,6882048947539982551,2,N,520,141,39
+rcube_sieve_script.php,pcre_fullinfo.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\3rdparty\pcre\pcre_fullinfo.c,3c3c719b9a27e12464461daf90f00d1d,8923cc431580197b3e121f54e41dba57,5153229640599894231,5729127442933135575,5,N,1009,135,30
+rcube_sieve_script.php,printf-args.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\3rdparty\hunspell\intl\printf-args.c,3c3c719b9a27e12464461daf90f00d1d,32e9cc807cac7369c6c119a76b828fae,5153229640599894231,6882048947539982551,6,N,1009,141,39

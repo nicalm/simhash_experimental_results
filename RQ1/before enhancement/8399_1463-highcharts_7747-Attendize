@@ -1,0 +1,13 @@
+1463-highcharts,7747-Attendize
+jquery-1.10.1.js,jquery.js,\vendor\jquery-1.10.1.js,\public\vendor\jquery\dist\jquery.js,25dfe6cc40dccd6416159d7ac4f1d108,cdac12a7fb68d67386ca31654c9a68f9,2286041538015085310,2286112319076122876,6,N,6647,6188,5293
+jquery-1.11.0.js,jquery.js,\vendor\jquery-1.11.0.js,\public\vendor\jquery\dist\jquery.js,6a89c87c622a2c4c544724f90c4b6afc,cdac12a7fb68d67386ca31654c9a68f9,2286040850820317438,2286112319076122876,3,N,6879,6188,5651
+jquery-1.4.4.js,jquery-1.7b2.js,\vendor\jquery-1.4.4.js,\public\vendor\modernizr\test\js\lib\jquery-1.7b2.js,eec46dd87cf99cf71322037e1b70af7b,e06dfda2ee58d3143b712a96e78d9607,2304127352971823167,2287238991808682239,8,N,4953,6401,3784
+jquery-1.5.2.js,jquery-1.7b2.js,\vendor\jquery-1.5.2.js,\public\vendor\modernizr\test\js\lib\jquery-1.7b2.js,9bdb2b63b5c8555b851c6c0722834be5,e06dfda2ee58d3143b712a96e78d9607,2305252703131240639,2287238991808682239,8,N,5692,6401,4719
+jquery-1.6.4.js,jquery-1.7b2.js,\vendor\jquery-1.6.4.js,\public\vendor\modernizr\test\js\lib\jquery-1.7b2.js,96bf730f7e739634b385243912cee575,e06dfda2ee58d3143b712a96e78d9607,2305248442515816703,2287238991808682239,6,N,6208,6401,5582
+jquery-1.7.2.js,jquery-1.7b2.js,\vendor\jquery-1.7.2.js,\public\vendor\modernizr\test\js\lib\jquery-1.7b2.js,48ded5591a87f928a060b93215fb53ca,e06dfda2ee58d3143b712a96e78d9607,2287168623332919551,2287238991808682239,4,N,6491,6401,5952
+jquery-1.8.0.js,jquery.js,\vendor\jquery-1.8.0.js,\public\vendor\jquery\dist\jquery.js,96a79ddd2ae40ff521066ff5ac7e7c83,cdac12a7fb68d67386ca31654c9a68f9,2304056898597257402,2286112319076122876,8,N,6366,6188,3939
+jquery-1.8.0.js,jquery.js,\vendor\jquery-1.8.0.js,\public\vendor\jquery-backstretch\libs\jquery\jquery.js,96a79ddd2ae40ff521066ff5ac7e7c83,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2304056898597257402,2304056349881632954,4,N,6366,6563,5946
+jquery-1.9.1.js,jquery.js,\vendor\jquery-1.9.1.js,\public\vendor\jquery\dist\jquery.js,67ed7b154df04e325605620e05fefe6b,cdac12a7fb68d67386ca31654c9a68f9,2283790837713010942,2286112319076122876,6,N,6590,6188,5010
+jquery-3.1.1.js,jquery.js,\vendor\jquery-3.1.1.js,\public\vendor\jquery\dist\jquery.js,9d209a4f77d4d44a46536eb8b3297a3e,cdac12a7fb68d67386ca31654c9a68f9,2305253167247737594,2286112319076122876,7,N,6608,6188,5155
+moment-2.18.1.js,moment.js,\vendor\moment-2.18.1.js,\public\vendor\moment\moment.js,161c33130cc2c2a6a0fd88fd75be50eb,f1cd5bdc747c20c6de4210e68b539782,9220178634233987774,3455852176007088830,7,N,3382,3064,2647
+moment-2.18.1.js,month.js,\vendor\moment-2.18.1.js,\public\vendor\moment\src\lib\units\month.js,161c33130cc2c2a6a0fd88fd75be50eb,fcbce20a7999cb934cfe16a58241e0e1,9220178634233987774,8067266050275247038,8,N,3382,212,177

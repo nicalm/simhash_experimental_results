@@ -1,0 +1,13 @@
+6347-librealsense,86-netdata
+glext.h,libnetdata.h,\third-party\glad\glext.h,\libnetdata\libnetdata.h,b47c3053eb61af62c08dd7e6f45631ce,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,12110,248,40
+glext.h,clocks.h,\third-party\glad\glext.h,\libnetdata\clocks\clocks.h,b47c3053eb61af62c08dd7e6f45631ce,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,12110,66,11
+easylogging++.h,libnetdata.h,\third-party\easyloggingpp\src\easylogging++.h,\libnetdata\libnetdata.h,a5e6b54e91368f83f029eaf8a7a4ca68,b36073eea8dc836d3f37e426aebdabda,-8023445049756558632,-8023445049755510628,4,N,3696,248,50
+tinycthread.h,libnetdata.h,\third-party\glfw\deps\tinycthread.h,\libnetdata\libnetdata.h,d64af4e68966d2e35effa48ebd7b3c79,b36073eea8dc836d3f37e426aebdabda,-8023444774877636452,-8023445049755510628,2,N,138,248,31
+win32_platform.h,libnetdata.h,\third-party\glfw\src\win32_platform.h,\libnetdata\libnetdata.h,2445649aade285164b3f3df9cb6b0b9c,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,324,248,35
+win32_platform.h,clocks.h,\third-party\glfw\src\win32_platform.h,\libnetdata\clocks\clocks.h,2445649aade285164b3f3df9cb6b0b9c,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,324,66,10
+_mingw_dxhelper.h,libnetdata.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,\libnetdata\libnetdata.h,5423da3108dd32be383352d8d6c55edb,b36073eea8dc836d3f37e426aebdabda,-9185092003762480996,-8023445049755510628,4,N,102,248,28
+stdint.h,libnetdata.h,\third-party\glfw\deps\vs2008\stdint.h,\libnetdata\libnetdata.h,0a9faad66f590c9572581753d453013e,b36073eea8dc836d3f37e426aebdabda,-8018800163019237220,-8023445049755510628,6,N,152,248,24
+vulkan.h,libnetdata.h,\third-party\glfw\deps\vulkan\vulkan.h,\libnetdata\libnetdata.h,368be8e566768753806bdc8cc0052fc3,b36073eea8dc836d3f37e426aebdabda,1163898190080301212,-8023445049755510628,2,N,38,248,10
+glfw3native.h,libnetdata.h,\third-party\glfw\include\GLFW\glfw3native.h,\libnetdata\libnetdata.h,c5d9fae34608972236a415167b8ed590,b36073eea8dc836d3f37e426aebdabda,-8023445051902996324,-8023445049755510628,2,N,83,248,21
+platform.h,libnetdata.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,\libnetdata\libnetdata.h,4f1f8bbdad0dc57a2bc7530ddc22297a,b36073eea8dc836d3f37e426aebdabda,-7879409026516887396,-8023445049755510628,4,N,37,248,9
+common.h,libnetdata.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,\libnetdata\libnetdata.h,d84cc186f69e21aac7eb4e2d5d1d3cc4,b36073eea8dc836d3f37e426aebdabda,-8024605586426111268,-8023445049755510628,6,N,501,248,45

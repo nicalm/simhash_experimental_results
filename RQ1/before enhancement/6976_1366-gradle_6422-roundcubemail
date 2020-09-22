@@ -1,0 +1,2 @@
+1366-gradle,6422-roundcubemail
+GradleModuleMetadataParser.java,rcube_tnef_decoder.php,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,\program\lib\Roundcube\rcube_tnef_decoder.php,73716c770f089fa732a0b2ac81bfe437,8ca46cd084af91332151df25d1c4bd66,-3476265378978940713,5729127442933266647,6,N,607,520,117

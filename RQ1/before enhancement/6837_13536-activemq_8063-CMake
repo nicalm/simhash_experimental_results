@@ -1,0 +1,3 @@
+13536-activemq,8063-CMake
+KeepAliveInfo.java,cmFileCommand.cxx,\activemq-client\src\main\java\org\apache\activemq\command\KeepAliveInfo.java,\Source\cmFileCommand.cxx,8461db76d93224a434349432553d0f6c,ec8924ba412bb3408b461e6d690ef7ff,1431083215735276454,1431084332426740398,5,N,56,2722,26
+KeepAliveInfo.java,cmInstallCommand.cxx,\activemq-client\src\main\java\org\apache\activemq\command\KeepAliveInfo.java,\Source\cmInstallCommand.cxx,8461db76d93224a434349432553d0f6c,eed9da42280f22029f1f333b499f6c27,1431083215735276454,2007545088749388710,7,N,56,1369,26

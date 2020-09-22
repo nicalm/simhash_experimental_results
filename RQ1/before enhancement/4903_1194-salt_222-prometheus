@@ -1,0 +1,3 @@
+1194-salt,222-prometheus
+xapi_virt.py,emitterc.go,\salt\modules\xapi_virt.py,\vendor\gopkg.in\yaml.v2\emitterc.go,24020d0fcaffc80ad175fb65672dbe61,b3f088f4cf39f56ecccef726ef48a642,-3056449931358195598,-3056313591983443374,6,N,448,1496,5
+xapi_virt.py,zduplicate.go,\salt\modules\xapi_virt.py,\vendor\github.com\miekg\dns\zduplicate.go,24020d0fcaffc80ad175fb65672dbe61,a42ed922041bf20387f6250d83a73b72,-3056449931358195598,-3057439491889237422,8,N,448,1071,5

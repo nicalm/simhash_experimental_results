@@ -1,0 +1,5 @@
+1930-SwifterSwift,754-folly
+CGColorExtensions.swift,CPortability.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\folly\CPortability.h,13a384d167268ac57b0c34b9cb13ed0f,2071cc58e111b1fb40fa47a9161f5356,1189793885789145236,-8023445049756493156,8,N,21,137,5
+NSAttributedStringExtensions.swift,CPortability.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\folly\CPortability.h,682db1376e5e9e45d24a9e1b1ad3e9f8,2071cc58e111b1fb40fa47a9161f5356,-9174114755220842340,-8023445049756493156,7,N,87,137,11
+NSAttributedStringExtensions.swift,Windows.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\folly\portability\Windows.h,682db1376e5e9e45d24a9e1b1ad3e9f8,8d255d6eb746df0dd20db480cd3643e5,-9174114755220842340,-8023516518011316068,8,N,87,48,11
+StringExtensions.swift,Windows.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\folly\portability\Windows.h,d53332d341abeff92e3d2d2ce16a4d0a,8d255d6eb746df0dd20db480cd3643e5,-3051550226512422756,-8023516518011316068,7,N,650,48,13

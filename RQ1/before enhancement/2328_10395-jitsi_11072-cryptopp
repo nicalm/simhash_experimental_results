@@ -1,0 +1,16 @@
+10395-jitsi,11072-cryptopp
+lzma.h,config_asm.h,\src\native\windows\setup\include\lzma.h,\config_asm.h,4ce48c8f939c04739c2c0b8409ca662f,f28d7378bfdd9522e97b6225da10c318,-8023445049755510628,-8023445049755510628,0,N,121,291,31
+lzma.h,config_cpu.h,\src\native\windows\setup\include\lzma.h,\config_cpu.h,4ce48c8f939c04739c2c0b8409ca662f,d2c1675e8ec0149eb90a6f209937a89b,-8023445049755510628,-7879330961182828388,4,N,121,59,15
+lzma.h,config_cxx.h,\src\native\windows\setup\include\lzma.h,\config_cxx.h,4ce48c8f939c04739c2c0b8409ca662f,0461f5be02c9cd2d77d04bd1a775cade,-8023445049755510628,-8023445049755510628,0,N,121,124,32
+lzma.h,config_misc.h,\src\native\windows\setup\include\lzma.h,\config_misc.h,4ce48c8f939c04739c2c0b8409ca662f,5bb54fa71be18556d8576d0f5d607ecd,-8023445049755510628,-9176366006888261476,5,N,121,76,19
+lzma.h,config_os.h,\src\native\windows\setup\include\lzma.h,\config_os.h,4ce48c8f939c04739c2c0b8409ca662f,ae3738b1961da7cdccc2105df138a771,-8023445049755510628,-8023445049755510628,0,N,121,87,27
+lzma.h,config_ver.h,\src\native\windows\setup\include\lzma.h,\config_ver.h,4ce48c8f939c04739c2c0b8409ca662f,4c759d9c8b5fa5ed671a6708a018088d,-8023445049755510628,1203305236575602844,5,N,121,21,5
+lzma.h,dll.h,\src\native\windows\setup\include\lzma.h,\dll.h,4ce48c8f939c04739c2c0b8409ca662f,45932059cf1058c44cfd08d0ee08ca94,-8023445049755510628,1202460192633059356,8,N,121,55,7
+lzma.h,misc.h,\src\native\windows\setup\include\lzma.h,\misc.h,4ce48c8f939c04739c2c0b8409ca662f,aa5da603b9fd15aaf57864b3ee823ecd,-8023445049755510628,-7879472798191264612,4,N,121,1443,40
+lzma.h,osrng.cpp,\src\native\windows\setup\include\lzma.h,\osrng.cpp,4ce48c8f939c04739c2c0b8409ca662f,59e1c4edc67f1de293b4925bc0972c08,-8023445049755510628,-8023445187194468328,4,N,121,239,37
+lzma.h,rijndael.cpp,\src\native\windows\setup\include\lzma.h,\rijndael.cpp,4ce48c8f939c04739c2c0b8409ca662f,5e11c77aba7a6cc9a1c8e4db9be4e269,-8023445049755510628,-8023444499999696740,1,N,121,1036,41
+lzma.h,sha.cpp,\src\native\windows\setup\include\lzma.h,\sha.cpp,4ce48c8f939c04739c2c0b8409ca662f,3e56c877ea36ea0fdc50c12580fbfe51,-8023445049755510628,-8023515418499688292,1,N,121,1203,41
+lzma.h,simon.cpp,\src\native\windows\setup\include\lzma.h,\simon.cpp,4ce48c8f939c04739c2c0b8409ca662f,8297004134d97d0fca40cb7434963b5f,-8023445049755510628,-7168332866603648804,8,N,121,478,32
+lzma.h,speck.cpp,\src\native\windows\setup\include\lzma.h,\speck.cpp,4ce48c8f939c04739c2c0b8409ca662f,bb4636e8c76e4d2d62685b50ea1741c4,-8023445049755510628,-7167769916648146788,6,N,121,455,32
+lzma.h,sse_simd.cpp,\src\native\windows\setup\include\lzma.h,\sse_simd.cpp,4ce48c8f939c04739c2c0b8409ca662f,3e49f6e856b1fa2c8e32548f366b151b,-8023445049755510628,-8023586339147198052,7,N,121,81,13
+lzma.h,stdcpp.h,\src\native\windows\setup\include\lzma.h,\stdcpp.h,4ce48c8f939c04739c2c0b8409ca662f,0f148d7049fa5aaf0f0fb658d46a4f73,-8023445049755510628,-8023445049755510628,0,N,121,71,18

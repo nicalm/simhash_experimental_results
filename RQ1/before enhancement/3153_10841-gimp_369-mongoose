@@ -1,0 +1,8 @@
+10841-gimp,369-mongoose
+language.c,ReadPreference.js,\app\language.c,\lib\drivers\node-mongodb-native\ReadPreference.js,4139ff31319ee41dc528275c17de6aaa,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,699,30,8
+gimpcoreconfig.c,ReadPreference.js,\app\config\gimpcoreconfig.c,\lib\drivers\node-mongodb-native\ReadPreference.js,60331a7dddac7aef0155c034ea225f13,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135559,5440897058057271519,5,N,1172,30,9
+gimpdialogconfig.c,ReadPreference.js,\app\config\gimpdialogconfig.c,\lib\drivers\node-mongodb-native\ReadPreference.js,3820fc02cf2195589ecaca19c1f1acba,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,821,30,9
+gimpdisplayconfig.c,ReadPreference.js,\app\config\gimpdisplayconfig.c,\lib\drivers\node-mongodb-native\ReadPreference.js,65c592b669d0f1c67fe78ea51c147421,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933136597,5440897058057271519,6,N,517,30,9
+gimpguiconfig.c,ReadPreference.js,\app\config\gimpguiconfig.c,\lib\drivers\node-mongodb-native\ReadPreference.js,6a23ead81b5910e070d38e5744096c1e,72ad104b2d3e1cc34b02578eb97d2c64,5729131840845429975,5440897058057271519,5,N,769,30,9
+gimpdisplayshell-title.c,ReadPreference.js,\app\display\gimpdisplayshell-title.c,\lib\drivers\node-mongodb-native\ReadPreference.js,c3eb1838970cef0deeb23eaf230888b6,72ad104b2d3e1cc34b02578eb97d2c64,5738134642187876567,5440897058057271519,5,N,408,30,11
+gimppaintoptions.c,ReadPreference.js,\app\paint\gimppaintoptions.c,\lib\drivers\node-mongodb-native\ReadPreference.js,a07a4b807339eb34d624bdd3bea07b09,72ad104b2d3e1cc34b02578eb97d2c64,5730253342839971031,5440897058057271519,7,N,1042,30,9

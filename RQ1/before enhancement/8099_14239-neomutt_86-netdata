@@ -1,0 +1,9 @@
+14239-neomutt,86-netdata
+functions.h,libnetdata.h,\functions.h,\libnetdata\libnetdata.h,855e569deacec485ad7d2b6707d15f4a,b36073eea8dc836d3f37e426aebdabda,-8023456044871657320,-8023445049755510628,4,N,574,248,36
+functions.h,avl.h,\functions.h,\libnetdata\avl\avl.h,855e569deacec485ad7d2b6707d15f4a,f8363c9ac36e50d453f63923ed834fd5,-8023456044871657320,-8024019012072187365,8,N,574,45,7
+globals.h,libnetdata.h,\globals.h,\libnetdata\libnetdata.h,b4a987209a2ca527fee5d457cf73c61e,b36073eea8dc836d3f37e426aebdabda,-9176401738735486920,-8023445049755510628,7,N,224,248,25
+init.h,libnetdata.h,\init.h,\libnetdata\libnetdata.h,5cb5e01f2dad86f5e7553ccb82c78489,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,836,248,37
+init.h,clocks.h,\init.h,\libnetdata\clocks\clocks.h,5cb5e01f2dad86f5e7553ccb82c78489,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,836,66,11
+version.c,libnetdata.h,\version.c,\libnetdata\libnetdata.h,aa99fdaa56c03bb3b5b0eb865a931d89,b36073eea8dc836d3f37e426aebdabda,-8600011492681262952,-8023445049755510628,7,N,397,248,48
+makedoc_defs.h,libnetdata.h,\doc\makedoc_defs.h,\libnetdata\libnetdata.h,5764ee9414a6173710ca8b52a8b21909,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,71,248,24
+makedoc_defs.h,clocks.h,\doc\makedoc_defs.h,\libnetdata\clocks\clocks.h,5764ee9414a6173710ca8b52a8b21909,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,71,66,9

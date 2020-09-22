@@ -1,0 +1,13 @@
+15439-ettercap,7408-DeepVideoAnalytics
+ec_os_mingw.h,bbox.c,\include\ec_os_mingw.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,a35507e5684e934f2f3961ea9d733813,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,184,5912,34
+ec_os_mingw.h,cython_nms.c,\include\ec_os_mingw.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,a35507e5684e934f2f3961ea9d733813,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,184,6623,34
+ec_os_mingw.h,gpu_nms.c,\include\ec_os_mingw.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,a35507e5684e934f2f3961ea9d733813,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,184,5655,34
+ec_os_mingw.h,gpu_nms.cpp,\include\ec_os_mingw.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,a35507e5684e934f2f3961ea9d733813,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,184,4948,34
+ec_stdint.h,bbox.c,\include\ec_stdint.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,6aec3e3181000888a59234edbdd91364,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,70,5912,18
+ec_stdint.h,cython_nms.c,\include\ec_stdint.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,6aec3e3181000888a59234edbdd91364,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,70,6623,18
+ec_stdint.h,gpu_nms.c,\include\ec_stdint.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,6aec3e3181000888a59234edbdd91364,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,70,5655,18
+ec_stdint.h,gpu_nms.cpp,\include\ec_stdint.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,6aec3e3181000888a59234edbdd91364,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,70,4948,18
+ec_strings.h,gpu_nms.cpp,\include\ec_strings.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,de354113240928e149f745107db6f7bb,2472408016d358310deb015143185fa8,-7879329861738243684,-7590887830068078436,8,N,54,4948,16
+ec_signals.c,bbox.c,\src\ec_signals.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,0eaf3035a675ff4e3e837f495b81415f,b42f28bb593ba51126ab3c36f2280e44,1776388288554523804,-7735003018152322916,7,N,166,5912,43
+ec_signals.c,cython_nms.c,\src\ec_signals.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,0eaf3035a675ff4e3e837f495b81415f,340c61e73ba74d7820ff458fae32d716,1776388288554523804,-7735003018152322916,7,N,166,6623,43
+ec_signals.c,gpu_nms.c,\src\ec_signals.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,0eaf3035a675ff4e3e837f495b81415f,c5f744cc55310f8443ffae08bc289c17,1776388288554523804,-7735003018152322916,7,N,166,5655,43

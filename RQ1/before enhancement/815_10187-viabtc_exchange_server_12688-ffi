@@ -1,0 +1,3 @@
+10187-viabtc_exchange_server,12688-ffi
+fmacros.h,DynamicLibrary.h,\depends\hiredis\fmacros.h,\ext\ffi_c\DynamicLibrary.h,fa39b5b5c7b057e483d5dce607e953a2,85bcc5d631466c02273f9899152b054b,-7226589390687643492,-5753630837560780644,8,N,17,49,4
+fmacros.h,rbffi_endian.h,\depends\hiredis\fmacros.h,\ext\ffi_c\rbffi_endian.h,fa39b5b5c7b057e483d5dce607e953a2,f869d8d0ddc657c2a3138058f91acb6c,-7226589390687643492,-8023445049822619428,8,N,17,50,5

@@ -1,0 +1,2 @@
+4701-sonarqube,6773-server
+DepthTraversalTypeAwareCrawler.java,log0recv.cc,\server\sonar-ce-task-projectanalysis\src\main\java\org\sonar\ce\task\projectanalysis\component\DepthTraversalTypeAwareCrawler.java,\storage\innobase\log\log0recv.cc,f813ea6f3b86a76578848cdb14c1c154,a7bef21370e9f3aec4e91f72b59b4a0b,5382262310711109844,5373329878114154709,8,N,64,2762,22

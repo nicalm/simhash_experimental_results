@@ -1,0 +1,7 @@
+12310-weechat,8678-GitHawk
+wee-url.c,SDWebImageCompat.h,\src\core\wee-url.c,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,2182536a79bada4949d9bc0483b5da6d,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510628,-7735249858110105444,3,N,1111,80,19
+wee-url.c,cmarkextensions_export.h,\src\core\wee-url.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,2182536a79bada4949d9bc0483b5da6d,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510628,-8023480234127599460,1,N,1111,32,11
+wee-url.c,cmark_export.h,\src\core\wee-url.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,2182536a79bada4949d9bc0483b5da6d,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510628,-8023445049755510632,1,N,1111,32,11
+gui-curses-term.c,SDWebImageCompat.h,\src\gui\curses\gui-curses-term.c,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,12c6b2e5780349c1e6b15f2a0f08c5ca,b0a5f204f5c6671d77ea59f8ffd5921c,-7447028277908808228,-7735249858110105444,8,N,23,80,9
+gui-curses-term.c,cmarkextensions_export.h,\src\gui\curses\gui-curses-term.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,12c6b2e5780349c1e6b15f2a0f08c5ca,252c50482fb9cc0b421251bbc1a8e0e6,-7447028277908808228,-8023480234127599460,6,N,23,32,7
+gui-curses-term.c,cmark_export.h,\src\gui\curses\gui-curses-term.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,12c6b2e5780349c1e6b15f2a0f08c5ca,7d9a85e6bffd97dbcc67d0e392b8ead8,-7447028277908808228,-8023445049755510632,8,N,23,32,7

@@ -1,0 +1,7 @@
+6444-yara,981-numpy
+hex_grammar.c,npy_common.h,\libyara\hex_grammar.c,\numpy\core\include\numpy\npy_common.h,29c757a687084bfae5a2dc6bb31b05e5,a173a9479ba36f92005f6b19e1c98ca6,-9185373754145580836,-8023445066935379812,6,N,1251,951,92
+re_grammar.c,npy_common.h,\libyara\re_grammar.c,\numpy\core\include\numpy\npy_common.h,f5548efe67856a9e3ce0e59a2574092d,a173a9479ba36f92005f6b19e1c98ca6,-4204392720934578020,-8023445066935379812,7,N,1367,951,91
+endian.h,npy_common.h,\libyara\include\yara\endian.h,\numpy\core\include\numpy\npy_common.h,f44500c257dc9e47f34b1473280aea77,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,55,951,15
+integers.h,npy_common.h,\libyara\include\yara\integers.h,\numpy\core\include\numpy\npy_common.h,f8e220916ba72c943da73bf32049b841,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,57,951,17
+limits.h,npy_common.h,\libyara\include\yara\limits.h,\numpy\core\include\numpy\npy_common.h,1b76e5cbfb6a87b1b52e9aef743d23ec,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,77,951,25
+strutils.h,npy_common.h,\libyara\include\yara\strutils.h,\numpy\core\include\numpy\npy_common.h,62646260db13811e153f2c59cbdfb33a,a173a9479ba36f92005f6b19e1c98ca6,-8023518717034571368,-8023445066935379812,6,N,59,951,13

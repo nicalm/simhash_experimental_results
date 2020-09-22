@@ -1,0 +1,13 @@
+10187-viabtc_exchange_server,14790-sleuthkit
+http_parser.c,usnjls_lib.c,\utils\http_parser.c,\tsk\fs\usnjls_lib.c,d09d117e8f6d43dee97217c802830c00,48e95a276115acd301ddb5b9726a7100,5728845967956424919,5729127445080619223,2,N,1850,267,75
+http_parser.c,dos.c,\utils\http_parser.c,\tsk\vs\dos.c,d09d117e8f6d43dee97217c802830c00,87019305b1f4020a75d7e674cebe6f30,5728845967956424919,5729127442933135575,1,N,1850,850,216
+http_parser.c,file.c,\utils\http_parser.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,d09d117e8f6d43dee97217c802830c00,f66225e727b775a3315510747e002afc,5728845967956424919,6530768314043512983,8,N,1850,401,107
+http_parser.c,softmagic.c,\utils\http_parser.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,d09d117e8f6d43dee97217c802830c00,c9a5bb85f007b34bfa13df4253839c91,5728845967956424919,5152631506249235159,5,N,1850,1731,353
+http_parser.c,exif-entry.c,\utils\http_parser.c,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,d09d117e8f6d43dee97217c802830c00,59a2ae3931934cc319eb1524994842bc,5728845967956424919,5729109833566304343,6,N,1850,1444,223
+http_parser.c,mnote-olympus-entry.c,\utils\http_parser.c,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\olympus\mnote-olympus-entry.c,d09d117e8f6d43dee97217c802830c00,15a6a322cbee74040fff0cfbe002df22,5728845967956424919,5080310029995260119,6,N,1850,771,140
+ut_pack.c,apptype.c,\utils\ut_pack.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\apptype.c,33a5a6f0cb23c2479287b58037ad8ef5,055b46abfff83ef17bfa27798f0c19c6,4192359367729356405,3075466668764961364,8,N,303,118,28
+ut_pack.c,fsmagic.c,\utils\ut_pack.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\fsmagic.c,33a5a6f0cb23c2479287b58037ad8ef5,904f96e8cf354b6e37be631ee4b38107,4192359367729356405,1922545258647264885,6,N,303,287,67
+fmacros.h,sqlite3.c,\depends\hiredis\fmacros.h,\tsk\auto\sqlite3.c,fa39b5b5c7b057e483d5dce607e953a2,255edfceedcae2e4895b7dfb79028dca,-7226589390687643492,2280790905721247932,8,N,17,97479,7
+fmacros.h,file.h,\depends\hiredis\fmacros.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,fa39b5b5c7b057e483d5dce607e953a2,d22799caeaddf83c099f19cf401487da,-7226589390687643492,-8023445049755510568,8,N,17,402,5
+win32.h,aff.h,\depends\hiredis\win32.h,\tsk\img\aff.h,0ec99e391511695a9d7ef00f6d95b969,4388e839229d61f93a1112ac98f30b73,-7880077529720759656,-8059799439789469540,8,N,32,27,6
+win32.h,file.h,\depends\hiredis\win32.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,0ec99e391511695a9d7ef00f6d95b969,d22799caeaddf83c099f19cf401487da,-7880077529720759656,-8023445049755510568,8,N,32,402,6

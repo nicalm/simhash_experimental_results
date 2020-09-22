@@ -1,0 +1,17 @@
+6444-yara,9023-zoneminder
+grammar.c,control_functions.php,\libyara\grammar.c,\web\includes\control_functions.php,306ae4ed5d0a265782bc5a130c6f342f,c1201120aa45568b6a8a04c25886293a,5730252312047818967,-3494240195874867113,8,N,3301,715,159
+hex_grammar.c,zm_ffmpeg.h,\libyara\hex_grammar.c,\src\zm_ffmpeg.h,29c757a687084bfae5a2dc6bb31b05e5,7e2fcd3ba00999285d6aaf2ef78cc14d,-9185373754145580836,-8023445049755510628,5,N,1251,281,53
+hex_grammar.h,zm_ffmpeg.h,\libyara\hex_grammar.h,\src\zm_ffmpeg.h,04125316d53f72e519fcbfea7d139d22,7e2fcd3ba00999285d6aaf2ef78cc14d,-7168891418501121892,-8023445049755510628,8,N,34,281,6
+re_grammar.c,zm_ffmpeg.h,\libyara\re_grammar.c,\src\zm_ffmpeg.h,f5548efe67856a9e3ce0e59a2574092d,7e2fcd3ba00999285d6aaf2ef78cc14d,-4204392720934578020,-8023445049755510628,8,N,1367,281,53
+endian.h,zm_ffmpeg.h,\libyara\include\yara\endian.h,\src\zm_ffmpeg.h,f44500c257dc9e47f34b1473280aea77,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,55,281,15
+endian.h,zm_signal.h,\libyara\include\yara\endian.h,\src\zm_signal.h,f44500c257dc9e47f34b1473280aea77,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,55,27,5
+endian.h,ow-crypt.h,\libyara\include\yara\endian.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,f44500c257dc9e47f34b1473280aea77,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,55,23,4
+integers.h,zm_ffmpeg.h,\libyara\include\yara\integers.h,\src\zm_ffmpeg.h,f8e220916ba72c943da73bf32049b841,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,57,281,22
+integers.h,zm_signal.h,\libyara\include\yara\integers.h,\src\zm_signal.h,f8e220916ba72c943da73bf32049b841,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,57,27,5
+integers.h,ow-crypt.h,\libyara\include\yara\integers.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,f8e220916ba72c943da73bf32049b841,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,57,23,4
+limits.h,zm_ffmpeg.h,\libyara\include\yara\limits.h,\src\zm_ffmpeg.h,1b76e5cbfb6a87b1b52e9aef743d23ec,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,77,281,25
+limits.h,zm_signal.h,\libyara\include\yara\limits.h,\src\zm_signal.h,1b76e5cbfb6a87b1b52e9aef743d23ec,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,77,27,4
+limits.h,ow-crypt.h,\libyara\include\yara\limits.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,1b76e5cbfb6a87b1b52e9aef743d23ec,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,77,23,4
+strutils.h,zm_ffmpeg.h,\libyara\include\yara\strutils.h,\src\zm_ffmpeg.h,62646260db13811e153f2c59cbdfb33a,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023518717034571368,-8023445049755510628,5,N,59,281,12
+pe_utils.c,control_functions.php,\libyara\modules\pe\pe_utils.c,\web\includes\control_functions.php,85b3b0e9639ebe8f194fd360aa44aa10,c1201120aa45568b6a8a04c25886293a,5729127442933135575,-3494240195874867113,4,N,1795,715,82
+pe_utils.c,timeline_functions.php,\libyara\modules\pe\pe_utils.c,\web\skins\classic\includes\timeline_functions.php,85b3b0e9639ebe8f194fd360aa44aa10,742f3a99e9a4fd354674e33b3997d940,5729127442933135575,6882031355077310614,8,N,1795,499,86

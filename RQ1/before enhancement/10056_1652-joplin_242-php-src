@@ -1,0 +1,6 @@
+1652-joplin,242-php-src
+reducer.js,com_variant.c,\ReactNativeClient\lib\reducer.js,\ext\com_dotnet\com_variant.c,cfb01146b60f71f219c7ac6dd67d6dc3,8cc1d969830285306cb98cfbe0332de9,5729128095763970230,5729127442933135575,7,N,610,840,140
+reducer.js,domexception.c,\ReactNativeClient\lib\reducer.js,\ext\dom\domexception.c,cfb01146b60f71f219c7ac6dd67d6dc3,99fc4111c0afb3d46504c745c26ac181,5729128095763970230,5729127442933135575,7,N,610,77,25
+reducer.js,php_http_parser.c,\ReactNativeClient\lib\reducer.js,\sapi\cli\php_http_parser.c,cfb01146b60f71f219c7ac6dd67d6dc3,1cb8682c3e456c12782ef52aaf04c34e,5729128095763970230,5729127442933135575,7,N,610,1221,143
+reducer.js,compact_literals.c,\ReactNativeClient\lib\reducer.js,\ext\opcache\Optimizer\compact_literals.c,cfb01146b60f71f219c7ac6dd67d6dc3,16611d0d8286d0d662263e4f333bb6b6,5729128095763970230,6902320233239329462,8,N,610,756,130
+reducer.js,pcre2_auto_possess.c,\ReactNativeClient\lib\reducer.js,\ext\pcre\pcre2lib\pcre2_auto_possess.c,cfb01146b60f71f219c7ac6dd67d6dc3,14eaa46e5fa5413a14462276ea25c3b4,5729128095763970230,1117441424505747670,7,N,610,846,124

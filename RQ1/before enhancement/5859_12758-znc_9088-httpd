@@ -1,0 +1,9 @@
+12758-znc,9088-httpd
+version.h,suexec.h,\include\znc\version.h,\support\suexec.h,d05809c29f032c998a444139c4f0d9ce,424eed5ca72dc5978fc0252bd3f51645,-8023445187195380516,-8023480233053857636,7,N,43,25,8
+version.h,mod_syslog.c,\include\znc\version.h,\modules\loggers\mod_syslog.c,d05809c29f032c998a444139c4f0d9ce,2d0861d0af354091bfd725e954827d0b,-8023445187195380516,-8023444500272326500,8,N,43,161,8
+version.h,ssl_private.h,\include\znc\version.h,\modules\ssl\ssl_private.h,d05809c29f032c998a444139c4f0d9ce,36249a7b93b6c6da74f16ab00ce94b9b,-8023445187195380516,-8023445049755510628,5,N,43,736,13
+version.h,unixd.c,\include\znc\version.h,\os\unix\unixd.c,d05809c29f032c998a444139c4f0d9ce,4641aa5ffe292dda86bf90bcfac2c838,-8023445187195380516,-8023462641975109476,7,N,43,524,11
+version.h,mpm_default.h,\include\znc\version.h,\server\mpm\event\mpm_default.h,d05809c29f032c998a444139c4f0d9ce,7247b1ebbef7874ca0c5121dfc7b2020,-8023445187195380516,-8024010198733260644,8,N,43,15,5
+version.h,mpm_default.h,\include\znc\version.h,\server\mpm\mpmt_os2\mpm_default.h,d05809c29f032c998a444139c4f0d9ce,0023769f864cdaeabb7f82ad5c66ec3d,-8023445187195380516,-8023480233053857636,7,N,43,15,5
+version.h,mpm_default.h,\include\znc\version.h,\server\mpm\netware\mpm_default.h,d05809c29f032c998a444139c4f0d9ce,cda6f6973e85bdbe7e47a6014176c375,-8023445187195380516,-8023458243899238244,8,N,43,24,8
+version.h,mpm_default.h,\include\znc\version.h,\server\mpm\worker\mpm_default.h,d05809c29f032c998a444139c4f0d9ce,7247b1ebbef7874ca0c5121dfc7b2020,-8023445187195380516,-8024010198733260644,8,N,43,15,5

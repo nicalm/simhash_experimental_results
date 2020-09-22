@@ -1,0 +1,11 @@
+2283-capnproto,2909-mongoose
+miniposix.h,mongoose.c,\c++\src\kj\miniposix.h,\mongoose.c,43597d9a9103c02dbbe46d2c58ecc748,bb26ef6c18547f7fea15fb29572c30d7,-7455991496707810916,-7951396243220670308,8,N,84,12838,30
+miniposix.h,mongoose.h,\c++\src\kj\miniposix.h,\mongoose.h,43597d9a9103c02dbbe46d2c58ecc748,2d0665a2e8d3cf0feb3b958a851f071d,-7455991496707810916,-8023445049755510628,5,N,84,3259,35
+miniposix.h,mg_features.h,\c++\src\kj\miniposix.h,\src\mg_features.h,43597d9a9103c02dbbe46d2c58ecc748,f465b98573fad4b5e022cec4075e3e67,-7455991496707810916,-8023445049755510628,5,N,84,130,14
+miniposix.h,mg_mem.h,\c++\src\kj\miniposix.h,\src\common\mg_mem.h,43597d9a9103c02dbbe46d2c58ecc748,eb1e1ae46ae1bc1797e63b3f784aef13,-7455991496707810916,1163898190080301212,7,N,84,21,8
+miniposix.h,platform_cc3200.h,\c++\src\kj\miniposix.h,\src\common\platforms\platform_cc3200.h,43597d9a9103c02dbbe46d2c58ecc748,8e7f295bca6cc8acc9a65865b35d8fcf,-7455991496707810916,-7874826262053332740,8,N,84,85,15
+miniposix.h,platform_unix.h,\c++\src\kj\miniposix.h,\src\common\platforms\platform_unix.h,43597d9a9103c02dbbe46d2c58ecc748,baebcbb3950c55896dce83ea69594fdd,-7455991496707810916,-8023445049755510628,5,N,84,111,19
+miniposix.h,platform_wince.h,\c++\src\kj\miniposix.h,\src\common\platforms\platform_wince.h,43597d9a9103c02dbbe46d2c58ecc748,551934bdf0092886b7a2f9895977d52b,-7455991496707810916,-8023445049757607780,6,N,84,138,18
+miniposix.h,platform_windows.h,\c++\src\kj\miniposix.h,\src\common\platforms\platform_windows.h,43597d9a9103c02dbbe46d2c58ecc748,1642514a47bfd6eb32ee42269aa3c12d,-7455991496707810916,-8023445049755510628,5,N,84,147,24
+miniposix.h,nrf_drv_config.h,\c++\src\kj\miniposix.h,\examples\nRF52\http\config\nrf_drv_config.h,43597d9a9103c02dbbe46d2c58ecc748,73cecf83b90880bd616841c3810ace37,-7455991496707810916,-8023445049889730404,7,N,84,220,12
+miniposix.h,mg_lwip.h,\c++\src\kj\miniposix.h,\src\common\platforms\lwip\mg_lwip.h,43597d9a9103c02dbbe46d2c58ecc748,11b79956ecf8353c59ad314eaeda883f,-7455991496707810916,-8018941450128140260,7,N,84,41,10

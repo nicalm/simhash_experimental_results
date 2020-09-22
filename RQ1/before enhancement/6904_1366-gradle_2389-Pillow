@@ -1,0 +1,4 @@
+1366-gradle,2389-Pillow
+Util.h,ImPlatform.h,\subprojects\docs\src\snippets\native-binaries\cunit\libs\cunit\2.1-2\include\CUnit\Util.h,\src\libImaging\ImPlatform.h,b9ac1ac577e9ef015e870a8733dc83c4,6670b4584189b95bdcaaa198dabbf5c8,-8024737526348719972,-8024570949662353252,8,N,29,58,5
+gtest-port.h,ImPlatform.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\src\libImaging\ImPlatform.h,23446e26c2aacb9eb58191ae642bfa7a,6670b4584189b95bdcaaa198dabbf5c8,-7879329861679654756,-8024570949662353252,2,N,906,58,17
+gtest-port.h,ImPlatform.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\src\libImaging\ImPlatform.h,23446e26c2aacb9eb58191ae642bfa7a,6670b4584189b95bdcaaa198dabbf5c8,-7879329861679654756,-8024570949662353252,2,N,906,58,17

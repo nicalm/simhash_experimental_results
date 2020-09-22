@@ -1,0 +1,11 @@
+2578-calibre,99-redis
+lzxc.c,config.h,\src\calibre\utils\lzx\lzxc.c,\src\config.h,5148bebfcfad4cb4119b4e362bc0686f,fe9fefbbc117a00a89d3fa3a9678435a,-8059473846773950244,-8023445049755510628,3,N,1033,149,47
+lzxc.c,lzfP.h,\src\calibre\utils\lzx\lzxc.c,\src\lzfP.h,5148bebfcfad4cb4119b4e362bc0686f,a8a99ddcfb21b5d90efea295fa1823be,-8059473846773950244,-7879329861679654756,4,N,1033,77,27
+lzxc.c,sz.c,\src\calibre\utils\lzx\lzxc.c,\deps\jemalloc\src\sz.c,5148bebfcfad4cb4119b4e362bc0686f,f9960e2b44b2f65f49d69f46a60a1ac3,-8059473846773950244,-8060636030565050340,7,N,1033,103,14
+lzxc.c,llimits.h,\src\calibre\utils\lzx\lzxc.c,\deps\lua\src\llimits.h,5148bebfcfad4cb4119b4e362bc0686f,0990f1abc3ce4ed347a3373a88d7961e,-8059473846773950244,-8023163574778799972,4,N,1033,53,11
+lzxc.c,jemalloc_internal_decls.h,\src\calibre\utils\lzx\lzxc.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,5148bebfcfad4cb4119b4e362bc0686f,b10ad6415790176a35be7bbab7206d99,-8059473846773950244,-9176366554630793060,5,N,1033,85,28
+lzxc.c,jemalloc_internal_types.h,\src\calibre\utils\lzx\lzxc.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,5148bebfcfad4cb4119b4e362bc0686f,980de9a5931b9a6fb54cf696652d614a,-8059473846773950244,-8032452249077360612,6,N,1033,129,29
+msstdint.h,config.h,\src\calibre\utils\lzx\msstdint.h,\src\config.h,2dacb8ee9f393a22b1266f714d3efcd6,fe9fefbbc117a00a89d3fa3a9678435a,-2830794129776780644,-8023445049755510628,7,N,138,149,19
+msstdint.h,lzfP.h,\src\calibre\utils\lzx\msstdint.h,\src\lzfP.h,2dacb8ee9f393a22b1266f714d3efcd6,a8a99ddcfb21b5d90efea295fa1823be,-2830794129776780644,-7879329861679654756,8,N,138,77,20
+msstdint.h,llimits.h,\src\calibre\utils\lzx\msstdint.h,\deps\lua\src\llimits.h,2dacb8ee9f393a22b1266f714d3efcd6,0990f1abc3ce4ed347a3373a88d7961e,-2830794129776780644,-8023163574778799972,8,N,138,53,12
+msstdint.h,stdint.h,\src\calibre\utils\lzx\msstdint.h,\deps\jemalloc\include\msvc_compat\C99\stdint.h,2dacb8ee9f393a22b1266f714d3efcd6,0a9faad66f590c9572581753d453013e,-2830794129776780644,-8018800163019237220,5,N,138,152,129

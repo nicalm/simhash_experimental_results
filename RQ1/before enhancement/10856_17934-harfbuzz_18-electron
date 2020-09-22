@@ -1,0 +1,6 @@
+17934-harfbuzz,18-electron
+hb-subset-cff1.cc,windows_toast_notification.cc,\src\hb-subset-cff1.cc,\shell\browser\notifications\win\windows_toast_notification.cc,1a249f22bc0ae57f865a07cb4f74fb02,f9cde3587133a9adf94f59223efdc1b0,1681033153959191471,1431083237210080174,8,N,904,338,64
+hb-fc-list.c,linux_syscall_support.h,\util\hb-fc-list.c,\vendor\third_party\lss\linux_syscall_support.h,c27d8fd53993dc1d7a624ea1ec1d10a6,d7c4a715ebced0be3633fcfd349a02ff,1199786163039426780,-8023445049755510628,8,N,178,3833,41
+test-c.c,atom_browser_main_parts.cc,\test\api\test-c.c,\shell\browser\atom_browser_main_parts.cc,40a532b71e6242f205df120cc480a67e,4312360427f5f392ec4f692be2a7319a,-8023445049757468516,-8023445187194455912,4,N,26,375,7
+test-c.c,atom_paths.h,\test\api\test-c.c,\shell\browser\atom_paths.h,40a532b71e6242f205df120cc480a67e,f62403bf230108c707f5e1273fdb321d,-8023445049757468516,-8023471436960835427,7,N,26,33,7
+test-c.c,linux_syscall_support.h,\test\api\test-c.c,\vendor\third_party\lss\linux_syscall_support.h,40a532b71e6242f205df120cc480a67e,d7c4a715ebced0be3633fcfd349a02ff,-8023445049757468516,-8023445049755510628,3,N,26,3833,8

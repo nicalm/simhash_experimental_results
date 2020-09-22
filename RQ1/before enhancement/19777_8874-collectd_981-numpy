@@ -1,0 +1,8 @@
+8874-collectd,981-numpy
+pyconfig.c,datetime_busdaycal.c,\src\pyconfig.c,\numpy\core\src\multiarray\datetime_busdaycal.c,b3d2f7f228cf9a9b940e959dcb678f77,d49638494a55e424b6b02659d97ab895,6293727511001139579,6275713146851395707,3,N,173,430,48
+pyconfig.c,iterators.c,\src\pyconfig.c,\numpy\core\src\multiarray\iterators.c,b3d2f7f228cf9a9b940e959dcb678f77,34b0afd06f5864e28bc495b43b8c09c0,6293727511001139579,5149813240009312635,5,N,173,1583,50
+pyvalues.c,datetime_busdaycal.c,\src\pyvalues.c,\numpy\core\src\multiarray\datetime_busdaycal.c,eef232aebcadaf8dedcb0b2de85cd554,d49638494a55e424b6b02659d97ab895,6293727511001139323,6275713146851395707,2,N,1149,430,133
+pyvalues.c,iterators.c,\src\pyvalues.c,\numpy\core\src\multiarray\iterators.c,eef232aebcadaf8dedcb0b2de85cd554,34b0afd06f5864e28bc495b43b8c09c0,6293727511001139323,5149813240009312635,6,N,1149,1583,272
+collectd.h,npy_common.h,\src\daemon\collectd.h,\numpy\core\include\numpy\npy_common.h,2b583af2ee5d68797b260dc2234a9a80,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,198,951,56
+stdendian.h,npy_common.h,\src\libcollectdclient\collectd\stdendian.h,\numpy\core\include\numpy\npy_common.h,098cf6af06fc9530aaf9936b14d4d802,a173a9479ba36f92005f6b19e1c98ca6,-8032521930559661924,-8023445066935379812,6,N,165,951,31
+mount.h,npy_common.h,\src\utils\mount\mount.h,\numpy\core\include\numpy\npy_common.h,8535c5ea598e2c2e046efd01984ce929,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,64,951,15

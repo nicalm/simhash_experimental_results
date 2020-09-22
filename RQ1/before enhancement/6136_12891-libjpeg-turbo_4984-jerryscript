@@ -1,0 +1,11 @@
+12891-libjpeg-turbo,4984-jerryscript
+djpeg.c,ecma-init-finalize.c,\djpeg.c,\jerry-core\ecma\base\ecma-init-finalize.c,f279aaae72fd4362da53b7707e37d114,34a3c435cdecee7609180722810f134b,-7447837519011981217,-6294106773310220195,7,N,566,35,8
+jmorecfg.h,config.h,\jmorecfg.h,\jerry-core\config.h,1469bb97fe30335d1c73bd97389298b2,1610ce5e32380b97834532a2439ffb00,-8023517342645037028,-8023445049755510628,4,N,162,338,23
+jmorecfg.h,jerryscript-compiler.h,\jmorecfg.h,\jerry-core\include\jerryscript-compiler.h,1469bb97fe30335d1c73bd97389298b2,6dc57bc479adf16d2b42cadd27f2edd3,-8023517342645037028,-8023445049755510628,4,N,162,73,19
+jmorecfg.h,lit-magic-strings.inc.h,\jmorecfg.h,\jerry-core\lit\lit-magic-strings.inc.h,1469bb97fe30335d1c73bd97389298b2,d156bf64086a4a370f1f54301148fe60,-8023517342645037028,-8023445049755510628,4,N,162,920,30
+jmorecfg.h,ecma-builtin-helpers-macro-defines.inc.h,\jmorecfg.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,1469bb97fe30335d1c73bd97389298b2,0dde8629af7a79ff0576269e0d239a88,-8023517342645037028,-8023445084115248996,5,N,162,32,11
+jmorecfg.h,js-parser-limits.h,\jmorecfg.h,\jerry-core\parser\js\js-parser-limits.h,1469bb97fe30335d1c73bd97389298b2,656369309984980286cea2eff0cb4741,-8023517342645037028,-8023445049755510628,4,N,162,51,17
+jccolext-altivec.c,config.h,\simd\powerpc\jccolext-altivec.c,\jerry-core\config.h,f35971d8d3460ef5abe9dca10e095ed1,1610ce5e32380b97834532a2439ffb00,-3267362370959935348,-8023445049755510628,8,N,174,338,13
+jccolext-altivec.c,jerryscript-compiler.h,\simd\powerpc\jccolext-altivec.c,\jerry-core\include\jerryscript-compiler.h,f35971d8d3460ef5abe9dca10e095ed1,6dc57bc479adf16d2b42cadd27f2edd3,-3267362370959935348,-8023445049755510628,8,N,174,73,14
+jccolext-altivec.c,lit-magic-strings.inc.h,\simd\powerpc\jccolext-altivec.c,\jerry-core\lit\lit-magic-strings.inc.h,f35971d8d3460ef5abe9dca10e095ed1,d156bf64086a4a370f1f54301148fe60,-3267362370959935348,-8023445049755510628,8,N,174,920,14
+jccolext-altivec.c,js-parser-limits.h,\simd\powerpc\jccolext-altivec.c,\jerry-core\parser\js\js-parser-limits.h,f35971d8d3460ef5abe9dca10e095ed1,656369309984980286cea2eff0cb4741,-3267362370959935348,-8023445049755510628,8,N,174,51,13

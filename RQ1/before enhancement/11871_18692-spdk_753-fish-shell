@@ -1,0 +1,8 @@
+18692-spdk,753-fish-shell
+assert.h,sljitConfigInternal.h,\include\spdk\assert.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,80642297980c8735af0ecff168a6e8d8,fd5d86ef9f2b9d9589cb00af7963629f,-8033085018082064360,-8023515418499688420,8,N,15,429,5
+queue.h,fallback.h,\include\spdk\queue.h,\src\fallback.h,ec100905d717ef23a63f758030236499,7d4055698e8c91d9fd4be969475abb0c,-9212465172521363396,-8023446699022952292,8,N,30,118,6
+queue.h,sljitConfigInternal.h,\include\spdk\queue.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,ec100905d717ef23a63f758030236499,fd5d86ef9f2b9d9589cb00af7963629f,-9212465172521363396,-8023515418499688420,6,N,30,429,7
+assert.h,signal.cpp,\include\spdk_internal\assert.h,\src\signal.cpp,340c3c292f11b3661cb114f5fb4a2722,2e09e582bf373788324ac911fde75809,-7384004271941560100,-8023445049755510632,8,N,16,322,5
+assert.h,sljitConfigInternal.h,\include\spdk_internal\assert.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,340c3c292f11b3661cb114f5fb4a2722,fd5d86ef9f2b9d9589cb00af7963629f,-7384004271941560100,-8023515418499688420,7,N,16,429,5
+scsi_bdev.c,pcre2_dfa_match.c,\lib\scsi\scsi_bdev.c,\pcre2-10.32\src\pcre2_dfa_match.c,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,99abc0dd1121c97cbed498ec531c50ba,6752569358741453045,5734756942467348695,6,N,1475,2764,299
+scsi_bdev.c,pcre2_pattern_info.c,\lib\scsi\scsi_bdev.c,\pcre2-10.32\src\pcre2_pattern_info.c,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,784ee0b7bc5371a257fff21e0cf23c71,6752569358741453045,5440897066781423829,8,N,1475,294,51

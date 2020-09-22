@@ -1,0 +1,7 @@
+305-symfony,753-fish-shell
+IpValidator.php,builtin_echo.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\builtin_echo.cpp,7ca48c5d09328c72e03da3c6a432f9bf,397d2a8e9ac0bbf166e2373ae9b2db40,5746860357875939543,-3494244456465909289,8,N,69,229,20
+IpValidator.php,builtin_history.cpp,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\builtin_history.cpp,7ca48c5d09328c72e03da3c6a432f9bf,2ef43496835c341f4350481a342a952e,5746860357875939543,-3494235797291746857,8,N,69,271,20
+IpValidator.php,pcre2_auto_possess.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\pcre2-10.32\src\pcre2_auto_possess.c,7ca48c5d09328c72e03da3c6a432f9bf,fc744ff997c149fdcc6a3f0dbe123d79,5746860357875939543,1117441424505747670,6,N,69,842,23
+IpValidator.php,pcre2_dfa_match.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\pcre2-10.32\src\pcre2_dfa_match.c,7ca48c5d09328c72e03da3c6a432f9bf,99abc0dd1121c97cbed498ec531c50ba,5746860357875939543,5734756942467348695,6,N,69,2764,23
+IpValidator.php,pcre2_pattern_info.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\pcre2-10.32\src\pcre2_pattern_info.c,7ca48c5d09328c72e03da3c6a432f9bf,784ee0b7bc5371a257fff21e0cf23c71,5746860357875939543,5440897066781423829,6,N,69,294,22
+IpValidator.php,pcre2_study.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\pcre2-10.32\src\pcre2_study.c,7ca48c5d09328c72e03da3c6a432f9bf,e8b2a2697f795e25c7f1ef603c23b5b9,5746860357875939543,1045102355491371230,8,N,69,1046,23

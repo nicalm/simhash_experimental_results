@@ -1,0 +1,9 @@
+790-libuv,86-netdata
+test-list.h,libnetdata.h,\test\test-list.h,\libnetdata\libnetdata.h,34c37e38fd3367fbe3d6e9280bf86a06,b36073eea8dc836d3f37e426aebdabda,-7374645228437448676,-8023445049755510628,4,N,951,248,37
+test-uname.c,libnetdata.h,\test\test-uname.c,\libnetdata\libnetdata.h,e4168fcb68ae66e9d30927d67519b6fb,b36073eea8dc836d3f37e426aebdabda,-7455991513878439779,-8023445049755510628,7,N,37,248,9
+unix.h,libnetdata.h,\include\uv\unix.h,\libnetdata\libnetdata.h,c02256e5f7072f506a6fff7eb786b911,b36073eea8dc836d3f37e426aebdabda,-7735320089281110756,-8023445049755510628,8,N,394,248,58
+getaddrinfo.c,libnetdata.h,\src\unix\getaddrinfo.c,\libnetdata\libnetdata.h,e8e49cecf77e5d3f516ab013154bbd9c,b36073eea8dc836d3f37e426aebdabda,-8023444777025087336,-8023445049755510628,3,N,188,248,26
+internal.h,libnetdata.h,\src\unix\internal.h,\libnetdata\libnetdata.h,371ffd2ac622ba8f4ae44ae51c531f3d,b36073eea8dc836d3f37e426aebdabda,-8023445069074474788,-8023445049755510628,4,N,209,248,33
+linux-syscalls.c,libnetdata.h,\src\unix\linux-syscalls.c,\libnetdata\libnetdata.h,e03aa3ff0bab5e21466ddb93bc58c23e,b36073eea8dc836d3f37e426aebdabda,-8023444499991568996,-8023445049755510628,5,N,292,248,50
+winapi.h,libnetdata.h,\src\win\winapi.h,\libnetdata\libnetdata.h,4f2f56dcce5d652768e5e4cfcf6661be,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,3569,248,35
+winapi.h,clocks.h,\src\win\winapi.h,\libnetdata\clocks\clocks.h,4f2f56dcce5d652768e5e4cfcf6661be,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,3569,66,10

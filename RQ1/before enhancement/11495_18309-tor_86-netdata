@@ -1,0 +1,15 @@
+18309-tor,86-netdata
+timeout.c,libnetdata.h,\src\ext\timeouts\timeout.c,\libnetdata\libnetdata.h,b607f1c129ce5e3aacea62c7cd85ad65,b36073eea8dc836d3f37e426aebdabda,-8018941171223955304,-8023445049755510628,7,N,428,248,31
+compat_compiler.h,libnetdata.h,\src\lib\cc\compat_compiler.h,\libnetdata\libnetdata.h,4fda4875c0f6db2fda2057a47aa6fc8f,b36073eea8dc836d3f37e426aebdabda,-8023445050293299044,-8023445049755510628,3,N,128,248,33
+torint.h,libnetdata.h,\src\lib\cc\torint.h,\libnetdata\libnetdata.h,f9bd1774a6cabce5324bfd6779020def,b36073eea8dc836d3f37e426aebdabda,-8023198759150888804,-8023445049755510628,2,N,101,248,35
+fdio.c,libnetdata.h,\src\lib\fdio\fdio.c,\libnetdata\libnetdata.h,f7cc52832a8d31f8234387c9640d45fa,b36073eea8dc836d3f37e426aebdabda,-7735214673874331620,-8023445049755510628,4,N,80,248,19
+files.h,libnetdata.h,\src\lib\fs\files.h,\libnetdata\libnetdata.h,9902cb2ff95e1c0ddbbb1305db85279c,b36073eea8dc836d3f37e426aebdabda,-7735241062016951204,-8023445049755510628,8,N,88,248,17
+compat_mutex.h,libnetdata.h,\src\lib\lock\compat_mutex.h,\libnetdata\libnetdata.h,fa68dd4d4892b507f32337ac922e8a83,b36073eea8dc836d3f37e426aebdabda,-8023445241286304612,-8023445049755510628,8,N,38,248,8
+inaddr_st.h,libnetdata.h,\src\lib\net\inaddr_st.h,\libnetdata\libnetdata.h,62efbf41d2e5c9c5c910850b9ac27f2c,b36073eea8dc836d3f37e426aebdabda,-8023445049755509604,-8023445049755510628,1,N,69,248,22
+inaddr_st.h,clocks.h,\src\lib\net\inaddr_st.h,\libnetdata\clocks\clocks.h,62efbf41d2e5c9c5c910850b9ac27f2c,817f185c065ee719f0a0f5d506401b1f,-8023445049755509604,-7879330084279756644,8,N,69,66,12
+nettypes.h,libnetdata.h,\src\lib\net\nettypes.h,\libnetdata\libnetdata.h,5dc6cbfbef80e86b6ed991e81ad60883,b36073eea8dc836d3f37e426aebdabda,-8033015199603320676,-8023445049755510628,7,N,24,248,8
+compat_string.h,libnetdata.h,\src\lib\string\compat_string.h,\libnetdata\libnetdata.h,ee5d4f16d6a1a17e897c0a516337b508,b36073eea8dc836d3f37e426aebdabda,-8023198751131381604,-8023445049755510628,6,N,36,248,10
+ed25519-donna-portable-identify.h,libnetdata.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\libnetdata\libnetdata.h,36a4efc8ce95d16532d64be30ece0f36,b36073eea8dc836d3f37e426aebdabda,-8023445066935379812,-8023445049755510628,1,N,87,248,23
+ed25519-donna-portable-identify.h,clocks.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\libnetdata\clocks\clocks.h,36a4efc8ce95d16532d64be30ece0f36,817f185c065ee719f0a0f5d506401b1f,-8023445066935379812,-7879330084279756644,6,N,87,66,11
+ed25519-donna-portable.h,libnetdata.h,\src\ext\ed25519\donna\ed25519-donna-portable.h,\libnetdata\libnetdata.h,0a91169843a4cccde8a438c807c01a70,b36073eea8dc836d3f37e426aebdabda,-8023166323558924140,-8023445049755510628,8,N,135,248,17
+ed25519-donna.h,libnetdata.h,\src\ext\ed25519\donna\ed25519-donna.h,\libnetdata\libnetdata.h,2aae98d5c016419bee5a3b1b0fb3adb9,b36073eea8dc836d3f37e426aebdabda,-7447028278034638372,-8023445049755510628,7,N,84,248,23

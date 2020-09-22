@@ -1,0 +1,10 @@
+18309-tor,5868-libvips
+compat_compiler.h,init.c,\src\lib\cc\compat_compiler.h,\libvips\iofuncs\init.c,4fda4875c0f6db2fda2057a47aa6fc8f,e400d93356240e897bbc32ba27bdcd3b,-8023445050293299044,-9176930621544019780,7,N,128,636,22
+compat_compiler.h,vector.c,\src\lib\cc\compat_compiler.h,\libvips\iofuncs\vector.c,4fda4875c0f6db2fda2057a47aa6fc8f,055954f4e165b83818f7e8bd6db904ec,-8023445050293299044,-8023484632710850404,3,N,128,400,24
+torint.h,vector.c,\src\lib\cc\torint.h,\libvips\iofuncs\vector.c,f9bd1774a6cabce5324bfd6779020def,055954f4e165b83818f7e8bd6db904ec,-8023198759150888804,-8023484632710850404,4,N,101,400,26
+fdio.c,vector.c,\src\lib\fdio\fdio.c,\libvips\iofuncs\vector.c,f7cc52832a8d31f8234387c9640d45fa,055954f4e165b83818f7e8bd6db904ec,-7735214673874331620,-8023484632710850404,8,N,80,400,30
+inaddr_st.h,vector.c,\src\lib\net\inaddr_st.h,\libvips\iofuncs\vector.c,62efbf41d2e5c9c5c910850b9ac27f2c,055954f4e165b83818f7e8bd6db904ec,-8023445049755509604,-8023484632710850404,5,N,69,400,18
+compat_string.h,vector.c,\src\lib\string\compat_string.h,\libvips\iofuncs\vector.c,ee5d4f16d6a1a17e897c0a516337b508,055954f4e165b83818f7e8bd6db904ec,-8023198751131381604,-8023484632710850404,6,N,36,400,11
+ed25519-donna-portable-identify.h,buffer.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\libvips\iofuncs\buffer.c,36a4efc8ce95d16532d64be30ece0f36,7574cb2d8655be6f6b1d83b926fa5645,-8023445066935379812,-7744230673238075236,7,N,87,447,19
+ed25519-donna-portable-identify.h,init.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\libvips\iofuncs\init.c,36a4efc8ce95d16532d64be30ece0f36,e400d93356240e897bbc32ba27bdcd3b,-8023445066935379812,-9176930621544019780,7,N,87,636,21
+ed25519-donna-portable-identify.h,vector.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\libvips\iofuncs\vector.c,36a4efc8ce95d16532d64be30ece0f36,055954f4e165b83818f7e8bd6db904ec,-8023445066935379812,-8023484632710850404,5,N,87,400,22

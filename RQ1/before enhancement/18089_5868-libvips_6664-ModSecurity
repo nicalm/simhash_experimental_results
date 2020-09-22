@@ -1,0 +1,7 @@
+5868-libvips,6664-ModSecurity
+composite.cpp,seclang-parser.cc,\libvips\conversion\composite.cpp,\src\parser\seclang-parser.cc,1073a16ac3f3888e7e8384f333542daa,c95834041ac82565ed4d4a4bccd1b864,-3566301638204286473,5729127442933135575,7,N,1177,6079,199
+composite.cpp,phase.h,\libvips\conversion\composite.cpp,\src\utils\phase.h,1073a16ac3f3888e7e8384f333542daa,a09f3ae3e8191f752c4eb96a4ac598b6,-3566301638204286473,-1170387186198464297,8,N,1177,38,12
+buffer.c,check_config.h,\libvips\iofuncs\buffer.c,\others\mbedtls\check_config.h,7574cb2d8655be6f6b1d83b926fa5645,306e92b56ac8d1b085c9f72fb65f46a7,-7744230673238075236,-8023445049755510628,8,N,447,402,21
+init.c,check_config.h,\libvips\iofuncs\init.c,\others\mbedtls\check_config.h,e400d93356240e897bbc32ba27bdcd3b,306e92b56ac8d1b085c9f72fb65f46a7,-9176930621544019780,-8023445049755510628,8,N,636,402,33
+vector.c,check_config.h,\libvips\iofuncs\vector.c,\others\mbedtls\check_config.h,055954f4e165b83818f7e8bd6db904ec,306e92b56ac8d1b085c9f72fb65f46a7,-8023484632710850404,-8023445049755510628,4,N,400,402,37
+vector.c,platform.h,\libvips\iofuncs\vector.c,\others\mbedtls\platform.h,055954f4e165b83818f7e8bd6db904ec,d00d535ad1c35ca86d366afc8578c1ab,-8023484632710850404,-7879409027045336932,7,N,400,106,30

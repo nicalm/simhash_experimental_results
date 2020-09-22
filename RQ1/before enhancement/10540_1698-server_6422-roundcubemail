@@ -1,0 +1,5 @@
+1698-server,6422-roundcubemail
+AppTest.php,Html.php,\tests\lib\AppTest.php,\tests\Framework\Html.php,073ae66999ced9e77c5289f202a55b9c,a88fed904effc819a6727daf4dd3a5d2,-6560432941931953160,-6558181142118202374,3,N,510,97,46
+OwnCloudFunctionsTest.php,Html.php,\apps\files_external\tests\OwnCloudFunctionsTest.php,\tests\Framework\Html.php,386320b39cb1247feb8a5d641902f2ef,a88fed904effc819a6727daf4dd3a5d2,-6558181691874016294,-6558181142118202374,2,N,78,97,38
+MDB2SchemaReader.php,rcube_tnef_decoder.php,\lib\private\DB\MDB2SchemaReader.php,\program\lib\Roundcube\rcube_tnef_decoder.php,d647cd0d11a5a459553ceaf5b5657b44,8ca46cd084af91332151df25d1c4bd66,5731379242742884567,5729127442933266647,5,N,240,520,71
+AppFetcherTest.php,Html.php,\tests\lib\App\AppStore\Fetcher\AppFetcherTest.php,\tests\Framework\Html.php,3e42111e9d4f8f28cd4f8bacaabb6bba,a88fed904effc819a6727daf4dd3a5d2,-6558181142118202373,-6558181142118202374,1,N,1908,97,43

@@ -1,0 +1,10 @@
+4790-node-opencv,8848-lwjgl3
+init.cc,Remotery.h,\src\init.cc,\modules\lwjgl\remotery\src\main\c\Remotery.h,ac230f241e7062df9add8317bcf2a3be,12e50b2dc5c0c2bdbc5358b702b71df0,-8032663355242784612,-8023445049755509604,4,N,67,373,12
+init.cc,rpmalloc.c,\src\init.cc,\modules\lwjgl\rpmalloc\src\main\c\rpmalloc.c,ac230f241e7062df9add8317bcf2a3be,5564d80b51973015241b21cd48ed8983,-8032663355242784612,-8023524214593693540,5,N,67,2345,12
+init.cc,vulkan.h,\src\init.cc,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,ac230f241e7062df9add8317bcf2a3be,a7ae20d678df3f06a86ce72d995f40ae,-8032663355242784612,1163898190080301212,5,N,67,49,11
+init.cc,glew.c,\src\init.cc,\modules\lwjgl\driftfx\src\main\c\lib\glew\src\glew.c,ac230f241e7062df9add8317bcf2a3be,b1947b9acdf4519fc27c6bbcd5781bdc,-8032663355242784612,-8023445049755510628,3,N,67,25609,12
+init.cc,eglew.h,\src\init.cc,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\eglew.h,ac230f241e7062df9add8317bcf2a3be,ecc2eb96c703f86dbe9c6bf13607881a,-8032663355242784612,-8023445049755510628,3,N,67,1617,11
+init.cc,glcorearb.h,\src\init.cc,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glcorearb.h,ac230f241e7062df9add8317bcf2a3be,c374a6cfc3a7513bdf7894a715b8f505,-8032663355242784612,-8023445049755510628,3,N,67,3418,11
+init.cc,glew.h,\src\init.cc,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glew.h,ac230f241e7062df9add8317bcf2a3be,402cf29ca4f1c6a6736874597458a5f1,-8032663355242784612,-8023445049755510628,3,N,67,17894,11
+init.cc,glxew.h,\src\init.cc,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glxew.h,ac230f241e7062df9add8317bcf2a3be,f9dc87406573632578b48da4cf5fa041,-8032663355242784612,-8023445049755510628,3,N,67,1145,11
+init.cc,wglew.h,\src\init.cc,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\wglew.h,ac230f241e7062df9add8317bcf2a3be,f4b78ad73084060b622a4b7e766fe2cb,-8032663355242784612,-8023445049759704932,4,N,67,952,11

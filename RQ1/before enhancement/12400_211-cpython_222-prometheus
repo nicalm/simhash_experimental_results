@@ -1,0 +1,5 @@
+211-cpython,222-prometheus
+info.py,scannerc.go,\Tools\c-analyzer\c_analyzer\common\info.py,\vendor\gopkg.in\yaml.v2\scannerc.go,bafeed7fe9511e904fa52eca1534e02e,14e8d7f0e6c15662274ad8cf5fc5be20,-4208258730196667806,-3055187690397830570,8,N,86,1518,1
+info.py,zduplicate.go,\Tools\c-analyzer\c_analyzer\common\info.py,\vendor\github.com\miekg\dns\zduplicate.go,bafeed7fe9511e904fa52eca1534e02e,a42ed922041bf20387f6250d83a73b72,-4208258730196667806,-3057439491889237422,7,N,86,1071,0
+info.py,equal.go,\Tools\c-analyzer\c_analyzer\common\info.py,\vendor\github.com\gogo\protobuf\proto\equal.go,bafeed7fe9511e904fa52eca1534e02e,f8113dcdab6863625600a44d528ddbf3,-4208258730196667806,-2913324303813381550,8,N,86,194,1
+info.py,equal.go,\Tools\c-analyzer\c_analyzer\common\info.py,\vendor\github.com\golang\protobuf\proto\equal.go,bafeed7fe9511e904fa52eca1534e02e,5c9593504e0e2c7856c1b023dca058c3,-4208258730196667806,-2913324303813381550,8,N,86,195,1

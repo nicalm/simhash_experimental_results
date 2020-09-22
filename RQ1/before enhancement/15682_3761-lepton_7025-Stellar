@@ -1,0 +1,7 @@
+3761-lepton,7025-Stellar
+test_harness.cc,Stellar-Swift.h,\test_suite\test_harness.cc,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e289d2ef5a4a7ed63cb361e61d2bb017,fafe37ab4771e0a9586e17224fcc7041,-8023445050292381540,-7743940123003924324,6,N,121,231,21
+gzguts.h,Stellar-Swift.h,\dependencies\zlib\gzguts.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,481fcd67c1a74813d1e18ea86b0fb735,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,151,231,35
+zconf.h,Stellar-Swift.h,\dependencies\zlib\zconf.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,c89ff94ee23d020c7c9976f48a098fa0,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,403,231,39
+zutil.c,Stellar-Swift.h,\dependencies\zlib\zutil.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d62c1317e7969756f542daacf0d4ba54,fafe37ab4771e0a9586e17224fcc7041,-8023445084115248996,-7743940123003924324,6,N,245,231,32
+zutil.h,Stellar-Swift.h,\dependencies\zlib\zutil.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,278c42fe50334e51a072b9e9539f1a94,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,183,231,39
+MemMgrAllocator.cc,Stellar-Swift.h,\src\io\MemMgrAllocator.cc,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4081710108ae4d92c75a204cde67b037,fafe37ab4771e0a9586e17224fcc7041,-7771243495318824804,-7743940123003924324,8,N,422,231,24

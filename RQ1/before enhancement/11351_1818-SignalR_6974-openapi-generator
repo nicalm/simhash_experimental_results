@@ -1,0 +1,4 @@
+1818-SignalR,6974-openapi-generator
+Resources.Designer.cs,FormatTest.swift,\src\Microsoft.AspNet.SignalR.Core\Resources.Designer.cs,\samples\client\petstore\swift3\objcCompatible\PetstoreClient\Classes\OpenAPIs\Models\FormatTest.swift,63051135a5bc895bd1d9d1b014421626,5cbc3f68d3e14a3e982badb159df9ee5,3373740711779358427,7949397933187718911,6,N,292,65,20
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\samples\documentation\dynamic-html\docs\assets\js\bootstrap.js,cad29b027e5bb0cb5111055988d9ab9f,ac780cd367f1ece192ca41dc11fc34a9,510198490411589757,402112239009292925,8,N,1251,1311,1194
+bootstrap.js,bootstrap.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\bootstrap.js,\modules\openapi-generator\src\main\resources\openapi-static\assets\js\bootstrap.js,cad29b027e5bb0cb5111055988d9ab9f,ac780cd367f1ece192ca41dc11fc34a9,510198490411589757,402112239009292925,8,N,1251,1311,1194

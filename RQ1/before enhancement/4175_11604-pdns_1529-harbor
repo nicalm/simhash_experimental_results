@@ -1,0 +1,8 @@
+11604-pdns,1529-harbor
+example.rb,redis.go,\modules\remotebackend\example.rb,\src\vendor\github.com\gocraft\work\redis.go,3442b946c43dc1a5fe82c47929d406a1,2df40655a1095ebd61a8e6f303a949c4,-252661159704971734,-233529588662192598,7,N,138,264,23
+unittest.rb,redis.go,\modules\remotebackend\unittest.rb,\src\vendor\github.com\gocraft\work\redis.go,33ac5ebe13c1e7396c0560e41f1de0da,2df40655a1095ebd61a8e6f303a949c4,-256047655518521814,-233529588662192598,4,N,229,264,32
+unittest_http.rb,redis.go,\modules\remotebackend\unittest_http.rb,\src\vendor\github.com\gocraft\work\redis.go,ef6459f1edadf13496a6e3f0217c3c00,2df40655a1095ebd61a8e6f303a949c4,-1408968988326939094,-233529588662192598,8,N,171,264,35
+backend.rb,redis.go,\modules\remotebackend\regression-tests\backend.rb,\src\vendor\github.com\gocraft\work\redis.go,dd269f32574867a7d28247f4facc25b3,2df40655a1095ebd61a8e6f303a949c4,-256065247704566230,-233529588662192598,5,N,194,264,34
+dnsbackend.rb,redis.go,\modules\remotebackend\regression-tests\dnsbackend.rb,\src\vendor\github.com\gocraft\work\redis.go,527a454466c6bb4522e16f692da3750e,2df40655a1095ebd61a8e6f303a949c4,-1408969160125368790,-233529588662192598,5,N,122,264,28
+tmp.rb,redis.go,\modules\remotebackend\regression-tests\basic-aaaa-resolution\tmp.rb,\src\vendor\github.com\gocraft\work\redis.go,349e575debc5ccfb1847133f48ad6e27,2df40655a1095ebd61a8e6f303a949c4,-256052053594394070,-233529588662192598,8,N,35,264,9
+tmp.rb,redis.go,\modules\remotebackend\regression-tests\long-txt-resolution\tmp.rb,\src\vendor\github.com\gocraft\work\redis.go,349e575debc5ccfb1847133f48ad6e27,2df40655a1095ebd61a8e6f303a949c4,-256052053594394070,-233529588662192598,8,N,35,264,9

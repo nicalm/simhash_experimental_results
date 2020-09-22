@@ -1,0 +1,3 @@
+18-electron,9975-hexchat
+atom_browser_main_parts.cc,typedef.h,\shell\browser\atom_browser_main_parts.cc,\src\common\typedef.h,4312360427f5f392ec4f692be2a7319a,ad3525a10e4064f94c5205693b6e1c78,-8023445187194455912,-8059473984749774204,8,N,375,20,7
+linux_syscall_support.h,typedef.h,\vendor\third_party\lss\linux_syscall_support.h,\src\common\typedef.h,d7c4a715ebced0be3633fcfd349a02ff,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,3833,20,7

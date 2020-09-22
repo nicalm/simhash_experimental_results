@@ -1,0 +1,8 @@
+2116-libgit2,7025-Stellar
+posix.h,Stellar-Swift.h,\src\posix.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5939a6412855eb77bc24c53a476d1930,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,122,231,27
+compat.h,Stellar-Swift.h,\deps\ntlmclient\compat.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5b06983268d133b177cf5b90fa9da075,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510626,-7743940123003924324,6,N,21,231,8
+gzguts.h,Stellar-Swift.h,\deps\zlib\gzguts.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d71e3535b6b87307b4104a15791be071,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,157,231,35
+zconf.h,Stellar-Swift.h,\deps\zlib\zconf.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ccd97cbc26c511a318aa46f8e6df51a6,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,427,231,39
+zutil.c,Stellar-Swift.h,\deps\zlib\zutil.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4a4179f332d9d5e26199eb2b75c7b632,fafe37ab4771e0a9586e17224fcc7041,-8023445049754986340,-7743940123003924324,6,N,245,231,31
+zutil.h,Stellar-Swift.h,\deps\zlib\zutil.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e7909d2ab25406cac90461dc9c664a01,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,196,231,39
+sha1.c,Stellar-Swift.h,\src\hash\sha1\sha1dc\sha1.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,6347de19da23b6072273f8c2426ff3b6,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,1597,231,32

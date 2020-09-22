@@ -1,0 +1,10 @@
+2257-core,6883-Sigil
+appconfig.php,pcre_fullinfo.c,\core\ajax\appconfig.php,\3rdparty\pcre\pcre_fullinfo.c,031cdb064a8d37cd4b40af5d608c8543,8923cc431580197b3e121f54e41dba57,5152665582536538583,5729127442933135575,6,N,37,135,9
+appconfig.php,printf-args.c,\core\ajax\appconfig.php,\3rdparty\hunspell\intl\printf-args.c,031cdb064a8d37cd4b40af5d608c8543,32e9cc807cac7369c6c119a76b828fae,5152665582536538583,6882048947539982551,7,N,37,141,10
+MDB2SchemaReader.php,pcre_dfa_exec.c,\lib\private\DB\MDB2SchemaReader.php,\3rdparty\pcre\pcre_dfa_exec.c,d8397eafd4a2b3b1ab041811b2ffbaec,038ae7ba3ce3df1eb98c7ef1c1515fee,5731379242747078871,5734765807279847671,8,N,238,2709,72
+MDB2SchemaReader.php,pcre_fullinfo.c,\lib\private\DB\MDB2SchemaReader.php,\3rdparty\pcre\pcre_fullinfo.c,d8397eafd4a2b3b1ab041811b2ffbaec,8923cc431580197b3e121f54e41dba57,5731379242747078871,5729127442933135575,3,N,238,135,28
+MDB2SchemaReader.php,pcre_printint.c,\lib\private\DB\MDB2SchemaReader.php,\3rdparty\pcre\pcre_printint.c,d8397eafd4a2b3b1ab041811b2ffbaec,45da6b48d068b2a9be418b4e58f5dcbd,5731379242747078871,1119416149570533845,8,N,238,591,71
+MDB2SchemaReader.php,printf-args.c,\lib\private\DB\MDB2SchemaReader.php,\3rdparty\hunspell\intl\printf-args.c,d8397eafd4a2b3b1ab041811b2ffbaec,32e9cc807cac7369c6c119a76b828fae,5731379242747078871,6882048947539982551,4,N,238,141,32
+RemoteUser.php,ContentTab.h,\lib\private\User\RemoteUser.php,\src\Tabs\ContentTab.h,73b7eec5be5418002038125febb38b9b,2675c1f564ab450037b4790688d2f44e,6330999770336514990,1431083237210080174,8,N,88,167,39
+Extension.php,ContentTab.h,\apps\comments\lib\Activity\Extension.php,\src\Tabs\ContentTab.h,7bf3ac8a3df9c8e9abf06e33cde08300,2675c1f564ab450037b4790688d2f44e,6005605212527281070,1431083237210080174,7,N,147,167,41
+CacheParser.php,ContentTab.h,\apps\files_external\3rdparty\google-api-php-client\src\Google\Http\CacheParser.php,\src\Tabs\ContentTab.h,3e390e20c57d0aef0b081d37520fcc57,2675c1f564ab450037b4790688d2f44e,2223716221837984686,1431083237210080174,7,N,87,167,32

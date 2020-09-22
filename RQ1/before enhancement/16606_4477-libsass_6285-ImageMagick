@@ -1,0 +1,11 @@
+4477-libsass,6285-ImageMagick
+base.h,coders-list.h,\include\sass\base.h,\coders\coders-list.h,26dfd0d8cb029fd73ca71c0971ecc070,da2167028ce6417787bcd9607b33ade8,-8023163575290504548,-7952513354550683492,8,N,63,173,11
+base.h,animate-private.h,\include\sass\base.h,\MagickCore\animate-private.h,26dfd0d8cb029fd73ca71c0971ecc070,d4819217e3565dd01efc90635d9a2319,-8023163575290504548,-7771252266715785060,8,N,63,19,7
+base.h,magick-config.h,\include\sass\base.h,\MagickCore\magick-config.h,26dfd0d8cb029fd73ca71c0971ecc070,e63d3d83696985be12017660c957883e,-8023163575290504548,-8023445049755510628,5,N,63,185,17
+base.h,nt-base.h,\include\sass\base.h,\MagickCore\nt-base.h,26dfd0d8cb029fd73ca71c0971ecc070,6845456c26530905ede972637f7495b1,-8023163575290504548,-8023445049755510628,5,N,63,282,16
+base.h,studio.h,\include\sass\base.h,\MagickCore\studio.h,26dfd0d8cb029fd73ca71c0971ecc070,46305552c943ef349fb6bb741ecb832b,-8023163575290504548,-8023445049755510628,5,N,63,303,17
+base.h,version.c,\include\sass\base.h,\MagickCore\version.c,26dfd0d8cb029fd73ca71c0971ecc070,8294bca6e82e31c9d2d2bf5ed7898873,-8023163575290504548,-8023445049755510628,5,N,63,351,13
+base.h,MagickWand.h,\include\sass\base.h,\MagickWand\MagickWand.h,26dfd0d8cb029fd73ca71c0971ecc070,26ce920da0c602cb29591dbca84b672f,-8023163575290504548,-8024007999705787748,7,N,63,101,16
+base.h,method-attribute.h,\include\sass\base.h,\MagickWand\method-attribute.h,26dfd0d8cb029fd73ca71c0971ecc070,401f0f6cfb93462bcb77f5d65eeefc09,-8023163575290504548,-9176084254743471908,8,N,63,92,16
+base.h,studio.h,\include\sass\base.h,\MagickWand\studio.h,26dfd0d8cb029fd73ca71c0971ecc070,3315059cc1afe634209d06d5c6f78f4e,-8023163575290504548,-8023445049755510628,5,N,63,267,17
+base.h,Include.h,\include\sass\base.h,\Magick++\lib\Magick++\Include.h,26dfd0d8cb029fd73ca71c0971ecc070,d559a3b26c6dd77eb96cece9b06c01de,-8023163575290504548,-8023445049755510628,5,N,63,1393,15

@@ -1,0 +1,8 @@
+12873-mediawiki,62850-ADOdb
+LogFormatter.php,adodb-pdo_firebird.inc.php,\includes\logging\LogFormatter.php,\drivers\adodb-pdo_firebird.inc.php,1a5b87b8ddd192cf448a8d7e785d9d75,9495b386496271e4936472af040fd5ea,5729127442933127383,5738134642182631639,5,N,551,333,89
+FormatMetadata.php,adodb-pdo_firebird.inc.php,\includes\media\FormatMetadata.php,\drivers\adodb-pdo_firebird.inc.php,d4c424b998a37738addfaa8660b2d286,9495b386496271e4936472af040fd5ea,5729109850747091159,5738134642182631639,5,N,1326,333,102
+IPTC.php,adodb-pdo_firebird.inc.php,\includes\media\IPTC.php,\drivers\adodb-pdo_firebird.inc.php,5acd3160fef09ca8547c657db582b971,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,377,333,73
+ExtensionDependencyError.php,adodb-pdo_firebird.inc.php,\includes\registration\ExtensionDependencyError.php,\drivers\adodb-pdo_firebird.inc.php,f7bb90c1ca9716b4c4e940b5871755aa,9495b386496271e4936472af040fd5ea,5729126334831573079,5738134642182631639,7,N,44,333,13
+LanguageGa.php,adodb-pdo_firebird.inc.php,\languages\classes\LanguageGa.php,\drivers\adodb-pdo_firebird.inc.php,04d0499b9cc1cedee645951038d7a892,9495b386496271e4936472af040fd5ea,5152671088609114359,5738134642182631639,8,N,36,333,13
+LanguageOs.php,adodb-pdo_firebird.inc.php,\languages\classes\LanguageOs.php,\drivers\adodb-pdo_firebird.inc.php,1d4803307d9f6c2785f6821207e47529,9495b386496271e4936472af040fd5ea,5729672800631306455,5738134642182631639,8,N,55,333,17
+bench_if_switch.php,adodb-pdo_firebird.inc.php,\maintenance\benchmarks\bench_if_switch.php,\drivers\adodb-pdo_firebird.inc.php,ebc9d6c5664eaffdc591b48a194dced3,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,73,333,25

@@ -1,0 +1,4 @@
+1698-server,17934-harfbuzz
+MDB2SchemaReader.php,hb-ot-shape-complex-vowel-constraints.cc,\lib\private\DB\MDB2SchemaReader.php,\src\hb-ot-shape-complex-vowel-constraints.cc,d647cd0d11a5a459553ceaf5b5657b44,af3b5cee198ad0cdcf32177f2059763e,5731379242742884567,5729127511516264663,8,N,240,420,68
+MDB2SchemaReader.php,hb-subset.cc,\lib\private\DB\MDB2SchemaReader.php,\src\hb-subset.cc,d647cd0d11a5a459553ceaf5b5657b44,8cd5ec526a4232f06c744be9b77a51bc,5731379242742884567,5170681089138145431,8,N,240,256,39
+SMB.php,hb-subset-cff1.cc,\apps\files_external\lib\Lib\Storage\SMB.php,\src\hb-subset-cff1.cc,b66e512599a7e6ce94036d52a7150ef2,1a249f22bc0ae57f865a07cb4f74fb02,1719314850312373182,1681033153959191471,8,N,454,904,114

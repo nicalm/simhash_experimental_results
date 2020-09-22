@@ -1,0 +1,6 @@
+10187-viabtc_exchange_server,11788-fbthrift
+http_parser.c,AsyncClientWorker2.cpp,\utils\http_parser.c,\thrift\perf\cpp\AsyncClientWorker2.cpp,d09d117e8f6d43dee97217c802830c00,3ebd76a0981e9c53ea752af30db30be5,5728845967956424919,5738134641844205783,6,N,1850,387,75
+http_parser.c,Operation.h,\utils\http_parser.c,\thrift\perf\cpp2\util\Operation.h,d09d117e8f6d43dee97217c802830c00,1cf81f674cd6bb613346f9badee172d4,5728845967956424919,-3493118691867313953,5,N,1850,152,45
+http_parser.c,TProtocolUtil.java,\utils\http_parser.c,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,d09d117e8f6d43dee97217c802830c00,ca4aaa19ebede5914601c81d8f142ced,5728845967956424919,5729127434368628951,5,N,1850,125,57
+fmacros.h,thrift_config.h,\depends\hiredis\fmacros.h,\thrift\lib\cpp\thrift_config.h,fa39b5b5c7b057e483d5dce607e953a2,27c650bbff0590e9f2fafe163b055489,-7226589390687643492,-8023445049755510628,6,N,17,220,4
+win32.h,thrift_config.h,\depends\hiredis\win32.h,\thrift\lib\cpp\thrift_config.h,0ec99e391511695a9d7ef00f6d95b969,27c650bbff0590e9f2fafe163b055489,-7880077529720759656,-8023445049755510628,8,N,32,220,5

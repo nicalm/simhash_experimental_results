@@ -1,0 +1,12 @@
+5372-twisted,8848-lwjgl3
+raiser.c,Remotery.h,\src\twisted\test\raiser.c,\modules\lwjgl\remotery\src\main\c\Remotery.h,03329048f02326320ae3e07a7faee64c,12e50b2dc5c0c2bdbc5358b702b71df0,-8023445050292381540,-8023445049755509604,2,N,3117,373,73
+raiser.c,rpmalloc.c,\src\twisted\test\raiser.c,\modules\lwjgl\rpmalloc\src\main\c\rpmalloc.c,03329048f02326320ae3e07a7faee64c,5564d80b51973015241b21cd48ed8983,-8023445050292381540,-8023524214593693540,5,N,3117,2345,488
+raiser.c,TootlePCH.h,\src\twisted\test\raiser.c,\modules\lwjgl\tootle\src\main\c\TootlePCH.h,03329048f02326320ae3e07a7faee64c,f3011adb11dc9db611cc0e7b7194bca3,-8023445050292381540,-9212395359954479084,8,N,3117,38,10
+raiser.c,xxhash.h,\src\twisted\test\raiser.c,\modules\lwjgl\xxhash\src\main\c\xxhash.h,03329048f02326320ae3e07a7faee64c,7bab972705e88946a66839b7aa3062ed,-8023445050292381540,-7455991362019337508,8,N,3117,229,41
+raiser.c,vulkan.h,\src\twisted\test\raiser.c,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,03329048f02326320ae3e07a7faee64c,a7ae20d678df3f06a86ce72d995f40ae,-8023445050292381540,1163898190080301212,3,N,3117,49,13
+raiser.c,glew.c,\src\twisted\test\raiser.c,\modules\lwjgl\driftfx\src\main\c\lib\glew\src\glew.c,03329048f02326320ae3e07a7faee64c,b1947b9acdf4519fc27c6bbcd5781bdc,-8023445050292381540,-8023445049755510628,1,N,3117,25609,596
+raiser.c,eglew.h,\src\twisted\test\raiser.c,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\eglew.h,03329048f02326320ae3e07a7faee64c,ecc2eb96c703f86dbe9c6bf13607881a,-8023445050292381540,-8023445049755510628,1,N,3117,1617,139
+raiser.c,glcorearb.h,\src\twisted\test\raiser.c,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glcorearb.h,03329048f02326320ae3e07a7faee64c,c374a6cfc3a7513bdf7894a715b8f505,-8023445050292381540,-8023445049755510628,1,N,3117,3418,186
+raiser.c,glew.h,\src\twisted\test\raiser.c,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glew.h,03329048f02326320ae3e07a7faee64c,402cf29ca4f1c6a6736874597458a5f1,-8023445050292381540,-8023445049755510628,1,N,3117,17894,261
+raiser.c,glxew.h,\src\twisted\test\raiser.c,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glxew.h,03329048f02326320ae3e07a7faee64c,f9dc87406573632578b48da4cf5fa041,-8023445050292381540,-8023445049755510628,1,N,3117,1145,88
+raiser.c,wglew.h,\src\twisted\test\raiser.c,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\wglew.h,03329048f02326320ae3e07a7faee64c,f4b78ad73084060b622a4b7e766fe2cb,-8023445050292381540,-8023445049759704932,2,N,3117,952,70

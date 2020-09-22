@@ -1,0 +1,5 @@
+1698-server,60276-esp-homekit-devices
+LDAPGroupPluginDummy.php,ssl-dummy.c,\apps\user_ldap\tests\LDAPGroupPluginDummy.php,\external_libs\wolfssl\wolfssl-3.13.0-stable\IDE\MDK5-ARM\Src\ssl-dummy.c,26a5afd9c3536463fb319ba9abfaff9b,867546084f880f8060e194f656f4730f,-4295717163425538324,-4294591332238172436,2,N,26,25,5
+LDAPGroupPluginDummy.php,ssl-dummy.c,\apps\user_ldap\tests\LDAPGroupPluginDummy.php,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\IDE\MDK5-ARM\Src\ssl-dummy.c,26a5afd9c3536463fb319ba9abfaff9b,867546084f880f8060e194f656f4730f,-4295717163425538324,-4294591332238172436,2,N,26,25,5
+LDAPUserPluginDummy.php,ssl-dummy.c,\apps\user_ldap\tests\LDAPUserPluginDummy.php,\external_libs\wolfssl\wolfssl-3.13.0-stable\IDE\MDK5-ARM\Src\ssl-dummy.c,8b6e431f683efb521c30bcd6c476cd18,867546084f880f8060e194f656f4730f,-4294591813274509588,-4294591332238172436,2,N,29,25,5
+LDAPUserPluginDummy.php,ssl-dummy.c,\apps\user_ldap\tests\LDAPUserPluginDummy.php,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\IDE\MDK5-ARM\Src\ssl-dummy.c,8b6e431f683efb521c30bcd6c476cd18,867546084f880f8060e194f656f4730f,-4294591813274509588,-4294591332238172436,2,N,29,25,5

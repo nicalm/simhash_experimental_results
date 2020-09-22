@@ -1,0 +1,4 @@
+1930-SwifterSwift,981-numpy
+CGColorExtensions.swift,npy_common.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\numpy\core\include\numpy\npy_common.h,13a384d167268ac57b0c34b9cb13ed0f,a173a9479ba36f92005f6b19e1c98ca6,1189793885789145236,-8023445066935379812,8,N,21,951,5
+NSAttributedStringExtensions.swift,npy_common.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\numpy\core\include\numpy\npy_common.h,682db1376e5e9e45d24a9e1b1ad3e9f8,a173a9479ba36f92005f6b19e1c98ca6,-9174114755220842340,-8023445066935379812,7,N,87,951,11
+StringExtensions.swift,npy_common.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\numpy\core\include\numpy\npy_common.h,d53332d341abeff92e3d2d2ce16a4d0a,a173a9479ba36f92005f6b19e1c98ca6,-3051550226512422756,-8023445066935379812,8,N,650,951,56

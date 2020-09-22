@@ -1,0 +1,8 @@
+11788-fbthrift,222-prometheus
+header_transport_test.go,net_dev.go,\thrift\lib\go\thrift\header_transport_test.go,\vendor\github.com\prometheus\procfs\net_dev.go,2c1019f45f6c35ee4f625d5700b30a4a,d5d639104f81abdb7bcfec25b0967b37,2811592056593651192,7423280274044292457,7,N,297,160,49
+header_transport_test.go,proc.go,\thrift\lib\go\thrift\header_transport_test.go,\vendor\github.com\prometheus\procfs\proc.go,2c1019f45f6c35ee4f625d5700b30a4a,d41bd910676ddbd1eeb20ab9e4d0e794,2811592056593651192,7459203517947515128,8,N,297,216,83
+protocol_test.go,net_dev.go,\thrift\lib\go\thrift\protocol_test.go,\vendor\github.com\prometheus\procfs\net_dev.go,3e16e05ac7196961a53f09a1fba9a275,d5d639104f81abdb7bcfec25b0967b37,5117718739798924793,7423280274044292457,6,N,710,160,49
+serializer_types_test.go,text.go,\thrift\lib\go\thrift\serializer_types_test.go,\vendor\github.com\gogo\protobuf\proto\text.go,b7bf732e6da902760616b9817888d3cf,73e3091717d8de3be00f15c2aaa810b4,-7030695185512275393,-4879096065508384705,8,N,568,744,228
+transport_test.go,net_dev.go,\thrift\lib\go\thrift\transport_test.go,\vendor\github.com\prometheus\procfs\net_dev.go,00401b6ab1c2c6ba366ffc900761c04f,d5d639104f81abdb7bcfec25b0967b37,-1791084563555731976,7423280274044292457,8,N,147,160,45
+server.go,text_parse.go,\thrift\perf\go\server\server.go,\vendor\github.com\prometheus\common\expfmt\text_parse.go,84b80f8803018d93acacbafd03c469dc,a08491fc5d2252318123be40dd9ef36b,2239841496975867178,2242092199458567978,8,N,117,580,48
+server.go,conversion.go,\thrift\perf\go\server\server.go,\vendor\k8s.io\apimachinery\pkg\apis\meta\v1\conversion.go,84b80f8803018d93acacbafd03c469dc,53a299f1d56b94b946670154238ea84f,2239841496975867178,2260106595828823850,8,N,117,245,48

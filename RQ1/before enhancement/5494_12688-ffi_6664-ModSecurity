@@ -1,0 +1,12 @@
+12688-ffi,6664-ModSecurity
+compat.h,check_config.h,\ext\ffi_c\compat.h,\others\mbedtls\check_config.h,89860486007fe9b6739772aa0b042837,306e92b56ac8d1b085c9f72fb65f46a7,-8023447251463120740,-8023445049755510628,3,N,38,402,11
+compat.h,platform.h,\ext\ffi_c\compat.h,\others\mbedtls\platform.h,89860486007fe9b6739772aa0b042837,d00d535ad1c35ca86d366afc8578c1ab,-8023447251463120740,-7879409027045336932,6,N,38,106,12
+DynamicLibrary.h,unique_id.cc,\ext\ffi_c\DynamicLibrary.h,\src\unique_id.cc,85bcc5d631466c02273f9899152b054b,7c20c0dbffc732616cd5e43c73b8087b,-5753630837560780644,1199926922539489428,8,N,49,177,15
+DynamicLibrary.h,check_config.h,\ext\ffi_c\DynamicLibrary.h,\others\mbedtls\check_config.h,85bcc5d631466c02273f9899152b054b,306e92b56ac8d1b085c9f72fb65f46a7,-5753630837560780644,-8023445049755510628,2,N,49,402,15
+DynamicLibrary.h,platform.h,\ext\ffi_c\DynamicLibrary.h,\others\mbedtls\platform.h,85bcc5d631466c02273f9899152b054b,d00d535ad1c35ca86d366afc8578c1ab,-5753630837560780644,-7879409027045336932,7,N,49,106,19
+DynamicLibrary.h,geo_lookup.h,\ext\ffi_c\DynamicLibrary.h,\src\utils\geo_lookup.h,85bcc5d631466c02273f9899152b054b,7f149a21d7e38ffd2ba73078cb8e9c82,-5753630837560780644,1830428735907880156,8,N,49,50,7
+MemoryPointer.h,md5.h,\ext\ffi_c\MemoryPointer.h,\others\mbedtls\md5.h,4c75592010ed0cb9db51b731095241c1,fbd3123ce3068aa4be4f9163563fd74e,-9176374802981269384,-9023288149782769539,8,N,18,43,9
+rbffi_endian.h,unique_id.cc,\ext\ffi_c\rbffi_endian.h,\src\unique_id.cc,f869d8d0ddc657c2a3138058f91acb6c,7c20c0dbffc732616cd5e43c73b8087b,-8023445049822619428,1199926922539489428,8,N,50,177,13
+rbffi_endian.h,check_config.h,\ext\ffi_c\rbffi_endian.h,\others\mbedtls\check_config.h,f869d8d0ddc657c2a3138058f91acb6c,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049822619428,-8023445049755510628,2,N,50,402,13
+rbffi_endian.h,platform.h,\ext\ffi_c\rbffi_endian.h,\others\mbedtls\platform.h,f869d8d0ddc657c2a3138058f91acb6c,d00d535ad1c35ca86d366afc8578c1ab,-8023445049822619428,-7879409027045336932,7,N,50,106,15
+rbffi_endian.h,geo_lookup.h,\ext\ffi_c\rbffi_endian.h,\src\utils\geo_lookup.h,f869d8d0ddc657c2a3138058f91acb6c,7f149a21d7e38ffd2ba73078cb8e9c82,-8023445049822619428,1830428735907880156,8,N,50,50,6

@@ -1,0 +1,16 @@
+2509-Twig,516-mongo
+Token.php,str_escape.cpp,\src\Token.php,\src\mongo\util\str_escape.cpp,be39a6f847016874e81d99d0ceda815a,8f7840c895ccfe979ee9d78eade1f752,5731379380185772127,5729127442933135575,5,N,142,359,28
+Token.php,pcre_fullinfo.c,\src\Token.php,\src\third_party\pcre-8.42\pcre_fullinfo.c,be39a6f847016874e81d99d0ceda815a,8923cc431580197b3e121f54e41dba57,5731379380185772127,5729127442933135575,5,N,142,135,18
+Token.php,key_string.cpp,\src\Token.php,\src\mongo\db\storage\key_string.cpp,be39a6f847016874e81d99d0ceda815a,1a29e9a27b3b60ba181b1038d6ed7572,5731379380185772127,5732509609419651287,7,N,142,1967,32
+Token.php,mobile_util.cpp,\src\Token.php,\src\mongo\db\storage\mobile\mobile_util.cpp,be39a6f847016874e81d99d0ceda815a,575c8f1c7d342c9b883b80143343c967,5731379380185772127,5729127717802651859,7,N,142,144,24
+Token.php,affixpatternparser.cpp,\src\Token.php,\src\third_party\icu4c-57.1\source\i18n\affixpatternparser.cpp,be39a6f847016874e81d99d0ceda815a,21927717c4bded876212599434a9dca8,5731379380185772127,6886534954981308631,8,N,142,621,31
+Token.php,regexcmp.cpp,\src\Token.php,\src\third_party\icu4c-57.1\source\i18n\regexcmp.cpp,be39a6f847016874e81d99d0ceda815a,1b178b4768b9478b5e6a277bfce2b291,5731379380185772127,5729127442933135575,5,N,142,2841,37
+Token.php,udat.cpp,\src\Token.php,\src\third_party\icu4c-57.1\source\i18n\udat.cpp,be39a6f847016874e81d99d0ceda815a,3c81eaac0d3fef19a6d76e76882b2a13,5731379380185772127,5729127442933135575,5,N,142,1038,36
+Token.php,hex.c,\src\Token.php,\src\third_party\wiredtiger\src\support\hex.c,be39a6f847016874e81d99d0ceda815a,95cdf1f5b148bb8c35f666349bd3d13b,5731379380185772127,5729127442933135575,5,N,142,240,37
+Token.php,parse_opts.c,\src\Token.php,\src\third_party\wiredtiger\test\utility\parse_opts.c,be39a6f847016874e81d99d0ceda815a,3d1f8674af89c244540172cbc9ac593f,5731379380185772127,6882048947539982365,6,N,142,93,20
+Token.php,_UCD_access_reg_freebsd.c,\src\Token.php,\src\third_party\unwind\dist\src\coredump\_UCD_access_reg_freebsd.c,be39a6f847016874e81d99d0ceda815a,285c7fce1dcdc317cd52e77ed239f0bf,5731379380185772127,5729125243909871831,7,N,142,128,26
+Token.php,Gparser.c,\src\Token.php,\src\third_party\unwind\dist\src\dwarf\Gparser.c,be39a6f847016874e81d99d0ceda815a,43a6820c294bdfb53dd3670adb13dd08,5731379380185772127,5729127442933135581,5,N,142,850,37
+Token.php,RegExpInterpreter.cpp,\src\Token.php,\src\third_party\mozjs-60\extract\js\src\irregexp\RegExpInterpreter.cpp,be39a6f847016874e81d99d0ceda815a,461f234dabec2b920076ba48a7e2f019,5731379380185772127,5152666691737071839,7,N,142,448,32
+Token.php,Simulator-mips32.cpp,\src\Token.php,\src\third_party\mozjs-60\extract\js\src\jit\mips32\Simulator-mips32.cpp,be39a6f847016874e81d99d0ceda815a,9b877d17ea1698235fcf9051c56ef6e0,5731379380185772127,5730253342839978199,6,N,142,3230,37
+Token.php,Simulator-mips64.cpp,\src\Token.php,\src\third_party\mozjs-60\extract\js\src\jit\mips64\Simulator-mips64.cpp,be39a6f847016874e81d99d0ceda815a,c2842c5d44447aaa166f7d3aada7ee8e,5731379380185772127,5729127442933135575,5,N,142,3585,37
+Token.php,Simulator-vixl.cpp,\src\Token.php,\src\third_party\mozjs-60\extract\js\src\jit\arm64\vixl\Simulator-vixl.cpp,be39a6f847016874e81d99d0ceda815a,6b4e0f55d79aac28b00071ad85c9f369,5731379380185772127,5729127442933135607,6,N,142,3262,30

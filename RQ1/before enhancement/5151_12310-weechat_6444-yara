@@ -1,0 +1,12 @@
+12310-weechat,6444-yara
+wee-url.c,hex_grammar.c,\src\core\wee-url.c,\libyara\hex_grammar.c,2182536a79bada4949d9bc0483b5da6d,29c757a687084bfae5a2dc6bb31b05e5,-8023445049755510628,-9185373754145580836,5,N,1111,1251,218
+wee-url.c,hex_grammar.h,\src\core\wee-url.c,\libyara\hex_grammar.h,2182536a79bada4949d9bc0483b5da6d,04125316d53f72e519fcbfea7d139d22,-8023445049755510628,-7168891418501121892,8,N,1111,34,9
+wee-url.c,re_grammar.c,\src\core\wee-url.c,\libyara\re_grammar.c,2182536a79bada4949d9bc0483b5da6d,f5548efe67856a9e3ce0e59a2574092d,-8023445049755510628,-4204392720934578020,8,N,1111,1367,217
+wee-url.c,endian.h,\src\core\wee-url.c,\libyara\include\yara\endian.h,2182536a79bada4949d9bc0483b5da6d,f44500c257dc9e47f34b1473280aea77,-8023445049755510628,-8023445049755510628,0,N,1111,55,15
+wee-url.c,integers.h,\src\core\wee-url.c,\libyara\include\yara\integers.h,2182536a79bada4949d9bc0483b5da6d,f8e220916ba72c943da73bf32049b841,-8023445049755510628,-8023445049755510628,0,N,1111,57,18
+wee-url.c,limits.h,\src\core\wee-url.c,\libyara\include\yara\limits.h,2182536a79bada4949d9bc0483b5da6d,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445049755510628,-8023445049755510628,0,N,1111,77,25
+wee-url.c,strutils.h,\src\core\wee-url.c,\libyara\include\yara\strutils.h,2182536a79bada4949d9bc0483b5da6d,62646260db13811e153f2c59cbdfb33a,-8023445049755510628,-8023518717034571368,5,N,1111,59,14
+gui-curses-term.c,hex_grammar.c,\src\gui\curses\gui-curses-term.c,\libyara\hex_grammar.c,12c6b2e5780349c1e6b15f2a0f08c5ca,29c757a687084bfae5a2dc6bb31b05e5,-7447028277908808228,-9185373754145580836,8,N,23,1251,10
+gui-curses-term.c,endian.h,\src\gui\curses\gui-curses-term.c,\libyara\include\yara\endian.h,12c6b2e5780349c1e6b15f2a0f08c5ca,f44500c257dc9e47f34b1473280aea77,-7447028277908808228,-8023445049755510628,7,N,23,55,6
+gui-curses-term.c,integers.h,\src\gui\curses\gui-curses-term.c,\libyara\include\yara\integers.h,12c6b2e5780349c1e6b15f2a0f08c5ca,f8e220916ba72c943da73bf32049b841,-7447028277908808228,-8023445049755510628,7,N,23,57,7
+gui-curses-term.c,limits.h,\src\gui\curses\gui-curses-term.c,\libyara\include\yara\limits.h,12c6b2e5780349c1e6b15f2a0f08c5ca,1b76e5cbfb6a87b1b52e9aef743d23ec,-7447028277908808228,-8023445049755510628,7,N,23,77,5

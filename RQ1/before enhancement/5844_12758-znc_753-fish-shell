@@ -1,0 +1,5 @@
+12758-znc,753-fish-shell
+version.h,fallback.h,\include\znc\version.h,\src\fallback.h,d05809c29f032c998a444139c4f0d9ce,7d4055698e8c91d9fd4be969475abb0c,-8023445187195380516,-8023446699022952292,7,N,43,118,13
+version.h,signal.cpp,\include\znc\version.h,\src\signal.cpp,d05809c29f032c998a444139c4f0d9ce,2e09e582bf373788324ac911fde75809,-8023445187195380516,-8023445049755510632,6,N,43,322,8
+version.h,sljitConfig.h,\include\znc\version.h,\pcre2-10.32\src\sljit\sljitConfig.h,d05809c29f032c998a444139c4f0d9ce,4670eeabf25cc1becfd2eb7244181998,-8023445187195380516,-8023445049755445096,7,N,43,33,8
+version.h,sljitConfigInternal.h,\include\znc\version.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,d05809c29f032c998a444139c4f0d9ce,fd5d86ef9f2b9d9589cb00af7963629f,-8023445187195380516,-8023515418499688420,7,N,43,429,13

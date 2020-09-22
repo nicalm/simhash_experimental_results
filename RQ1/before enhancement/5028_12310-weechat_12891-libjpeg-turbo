@@ -1,0 +1,4 @@
+12310-weechat,12891-libjpeg-turbo
+wee-upgrade-file.c,jsimd.c,\src\core\wee-upgrade-file.c,\simd\powerpc\jsimd.c,d391f06233f7cab3700e28a1f60c925e,ba0a6531fb787ea48ed0da5d49d2faf9,1712001581301361399,-7529345340363773229,7,N,585,696,198
+wee-url.c,jmorecfg.h,\src\core\wee-url.c,\jmorecfg.h,2182536a79bada4949d9bc0483b5da6d,1469bb97fe30335d1c73bd97389298b2,-8023445049755510628,-8023517342645037028,4,N,1111,162,27
+wee-url.c,jccolext-altivec.c,\src\core\wee-url.c,\simd\powerpc\jccolext-altivec.c,2182536a79bada4949d9bc0483b5da6d,f35971d8d3460ef5abe9dca10e095ed1,-8023445049755510628,-3267362370959935348,8,N,1111,174,20

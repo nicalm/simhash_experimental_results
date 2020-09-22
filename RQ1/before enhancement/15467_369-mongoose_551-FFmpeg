@@ -1,0 +1,8 @@
+369-mongoose,551-FFmpeg
+ReadPreference.js,adpcm.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libavcodec\adpcm.c,72ad104b2d3e1cc34b02578eb97d2c64,745c926e74253011872362f630a7e384,5440897058057271519,5442022968827361525,8,N,30,1552,9
+ReadPreference.js,microdvddec.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libavcodec\microdvddec.c,72ad104b2d3e1cc34b02578eb97d2c64,6b8538c47d69e8430f45a7f00d38ff01,5440897058057271519,5729092258292611287,6,N,30,285,11
+ReadPreference.js,pcm.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libavcodec\pcm.c,72ad104b2d3e1cc34b02578eb97d2c64,37664aa1805e5b8a6fd6444e25ca5398,5440897058057271519,5728845967956424919,5,N,30,537,8
+ReadPreference.js,electronicarts.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libavformat\electronicarts.c,72ad104b2d3e1cc34b02578eb97d2c64,ff9f06888cfea7376ae205c5fe364062,5440897058057271519,6882048947539982559,4,N,30,637,9
+ReadPreference.js,ipmovie.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libavformat\ipmovie.c,72ad104b2d3e1cc34b02578eb97d2c64,8ce1110719f18ab4ea6326f6d2ec3971,5440897058057271519,5657069840338827415,6,N,30,555,9
+ReadPreference.js,yuv4mpegenc.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libavformat\yuv4mpegenc.c,72ad104b2d3e1cc34b02578eb97d2c64,c4140fda683fb3c45997517c0394f389,5440897058057271519,5729125243909880051,7,N,30,303,9
+ReadPreference.js,input.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libswscale\input.c,72ad104b2d3e1cc34b02578eb97d2c64,f5fd4c22afbeba816cbd53aa0171507b,5440897058057271519,5729127442928941270,6,N,30,1488,8

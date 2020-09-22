@@ -1,0 +1,12 @@
+86-netdata,91-bitcoin
+libnetdata.h,attributes.h,\libnetdata\libnetdata.h,\src\attributes.h,b36073eea8dc836d3f37e426aebdabda,1d61566702a36bfdc0abbfcd3b918b11,-8023445049755510628,-8023445049755378532,2,N,248,15,6
+libnetdata.h,compat.h,\libnetdata\libnetdata.h,\src\compat.h,b36073eea8dc836d3f37e426aebdabda,e406a80a1784994699c1b4a1bc6005d3,-8023445049755510628,-8023445187194464104,2,N,248,87,34
+libnetdata.h,randomenv.cpp,\libnetdata\libnetdata.h,\src\randomenv.cpp,b36073eea8dc836d3f37e426aebdabda,8eefeb3e04f7f52be719a9efdd732606,-8023445049755510628,-8023445049755510628,0,N,248,439,47
+libnetdata.h,byteswap.h,\libnetdata\libnetdata.h,\src\compat\byteswap.h,b36073eea8dc836d3f37e426aebdabda,88acd785d1d6b57506d4fdd472a4a790,-8023445049755510628,-7744221872858473316,4,N,248,43,9
+libnetdata.h,endian.h,\libnetdata\libnetdata.h,\src\compat\endian.h,b36073eea8dc836d3f37e426aebdabda,5c16422e6448c8f31356121158773761,-8023445049755510628,-8023445049755510628,0,N,248,198,36
+libnetdata.h,port_posix.h,\libnetdata\libnetdata.h,\src\leveldb\port\port_posix.h,b36073eea8dc836d3f37e426aebdabda,19a3c705798d84488cb4a2943d225851,-8023445049755510628,-8032804092731434340,7,N,248,123,20
+libnetdata.h,thread_annotations.h,\libnetdata\libnetdata.h,\src\leveldb\port\thread_annotations.h,b36073eea8dc836d3f37e426aebdabda,af9eee1ca47192126580ea56af3a4865,-8023445049755510628,-8023445049755510628,0,N,248,39,13
+clocks.h,compat.h,\libnetdata\clocks\clocks.h,\src\compat.h,817f185c065ee719f0a0f5d506401b1f,e406a80a1784994699c1b4a1bc6005d3,-7879330084279756644,-8023445187194464104,7,N,66,87,11
+clocks.h,randomenv.cpp,\libnetdata\clocks\clocks.h,\src\randomenv.cpp,817f185c065ee719f0a0f5d506401b1f,8eefeb3e04f7f52be719a9efdd732606,-7879330084279756644,-8023445049755510628,7,N,66,439,11
+clocks.h,endian.h,\libnetdata\clocks\clocks.h,\src\compat\endian.h,817f185c065ee719f0a0f5d506401b1f,5c16422e6448c8f31356121158773761,-7879330084279756644,-8023445049755510628,7,N,66,198,10
+clocks.h,thread_annotations.h,\libnetdata\clocks\clocks.h,\src\leveldb\port\thread_annotations.h,817f185c065ee719f0a0f5d506401b1f,af9eee1ca47192126580ea56af3a4865,-7879330084279756644,-8023445049755510628,7,N,66,39,9

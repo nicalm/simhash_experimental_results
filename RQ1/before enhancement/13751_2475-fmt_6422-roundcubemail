@@ -1,0 +1,6 @@
+2475-fmt,6422-roundcubemail
+chrono_duration.cpp,rcube_tnef_decoder.php,\test\fuzzing\chrono_duration.cpp,\program\lib\Roundcube\rcube_tnef_decoder.php,72440fd90a0d01848031589bb2a841a9,8ca46cd084af91332151df25d1c4bd66,5729127447228102871,5729127442933266647,2,N,129,520,36
+chrono_duration.cpp,rcube_sieve_script.php,\test\fuzzing\chrono_duration.cpp,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,72440fd90a0d01848031589bb2a841a9,3c3c719b9a27e12464461daf90f00d1d,5729127447228102871,5153229640599894231,6,N,129,1009,37
+one_arg.cpp,rcube_tnef_decoder.php,\test\fuzzing\one_arg.cpp,\program\lib\Roundcube\rcube_tnef_decoder.php,883cdbba8da3fa541c4927e1ea02ff22,8ca46cd084af91332151df25d1c4bd66,2270360721499404501,5729127442933266647,6,N,117,520,25
+sprintf.cpp,rcube_tnef_decoder.php,\test\fuzzing\sprintf.cpp,\program\lib\Roundcube\rcube_tnef_decoder.php,c2ddd179a4100129a6f72f09df658863,8ca46cd084af91332151df25d1c4bd66,1117439216892295391,5729127442933266647,7,N,101,520,21
+two_args.cpp,rcube_tnef_decoder.php,\test\fuzzing\two_args.cpp,\program\lib\Roundcube\rcube_tnef_decoder.php,c159700c6123fdba738f71e168dab048,8ca46cd084af91332151df25d1c4bd66,1117439216892295391,5729127442933266647,7,N,97,520,20

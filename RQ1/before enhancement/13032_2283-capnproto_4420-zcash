@@ -1,0 +1,6 @@
+2283-capnproto,4420-zcash
+miniposix.h,compat.h,\c++\src\kj\miniposix.h,\src\compat.h,43597d9a9103c02dbbe46d2c58ecc748,edca1c84c422d3accf71cf028f56730c,-7455991496707810916,-8023445189341947748,7,N,84,86,21
+miniposix.h,byteswap.h,\c++\src\kj\miniposix.h,\src\compat\byteswap.h,43597d9a9103c02dbbe46d2c58ecc748,c8049a65823175e0cb720f771bece0d5,-7455991496707810916,-8032452249010186084,3,N,84,36,9
+miniposix.h,endian.h,\c++\src\kj\miniposix.h,\src\compat\endian.h,43597d9a9103c02dbbe46d2c58ecc748,b0a1e77bc71959182a3b0854e64e46ad,-7455991496707810916,-8023445049755510628,5,N,84,160,22
+miniposix.h,pagelocker.cpp,\c++\src\kj\miniposix.h,\src\support\pagelocker.cpp,43597d9a9103c02dbbe46d2c58ecc748,b7ee0679d3eb07ee43c5c659a0362292,-7455991496707810916,-7203860440938063720,7,N,84,54,17
+miniposix.h,thread_annotations.h,\c++\src\kj\miniposix.h,\src\leveldb\port\thread_annotations.h,43597d9a9103c02dbbe46d2c58ecc748,af9eee1ca47192126580ea56af3a4865,-7455991496707810916,-8023445049755510628,5,N,84,39,12

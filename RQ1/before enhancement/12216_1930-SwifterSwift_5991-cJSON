@@ -1,0 +1,4 @@
+1930-SwifterSwift,5991-cJSON
+CGColorExtensions.swift,unity_internals.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\tests\unity\src\unity_internals.h,13a384d167268ac57b0c34b9cb13ed0f,c48f2ef9d57759a1fe49b445259832f1,1189793885789145236,-8023445049755510628,7,N,21,652,5
+NSAttributedStringExtensions.swift,unity_internals.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\tests\unity\src\unity_internals.h,682db1376e5e9e45d24a9e1b1ad3e9f8,c48f2ef9d57759a1fe49b445259832f1,-9174114755220842340,-8023445049755510628,6,N,87,652,11
+StringExtensions.swift,unity_internals.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\tests\unity\src\unity_internals.h,d53332d341abeff92e3d2d2ce16a4d0a,c48f2ef9d57759a1fe49b445259832f1,-3051550226512422756,-8023445049755510628,7,N,650,652,56

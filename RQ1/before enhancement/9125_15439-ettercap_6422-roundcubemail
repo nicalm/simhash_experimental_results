@@ -1,0 +1,9 @@
+15439-ettercap,6422-roundcubemail
+ec_filter.c,rcube_tnef_decoder.php,\src\ec_filter.c,\program\lib\Roundcube\rcube_tnef_decoder.php,93d0ed8de4c0c08c76b8fb5f7787aef5,8ca46cd084af91332151df25d1c4bd66,5729127442664700119,5729127442933266647,2,N,799,520,132
+ec_filter.c,rcube_sieve_script.php,\src\ec_filter.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,93d0ed8de4c0c08c76b8fb5f7787aef5,3c3c719b9a27e12464461daf90f00d1d,5729127442664700119,5153229640599894231,6,N,799,1009,156
+ec_parser.c,rcube_tnef_decoder.php,\src\ec_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,a95da67ae2615afb320cafe15fbcbfd2,8ca46cd084af91332151df25d1c4bd66,5729127571782408407,5729127442933266647,5,N,364,520,61
+ef_parser.c,rcube_tnef_decoder.php,\utils\etterfilter\ef_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,03bcdfd07ab2de95c037f8b4f9170294,8ca46cd084af91332151df25d1c4bd66,5441460008174270678,5729127442933266647,7,N,74,520,15
+ef_test.c,rcube_tnef_decoder.php,\utils\etterfilter\ef_test.c,\program\lib\Roundcube\rcube_tnef_decoder.php,fa7fc65cd5f440dd843abbe86d1716e4,8ca46cd084af91332151df25d1c4bd66,5729127442933135575,5729127442933266647,1,N,181,520,51
+ef_test.c,rcube_sieve_script.php,\utils\etterfilter\ef_test.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,fa7fc65cd5f440dd843abbe86d1716e4,3c3c719b9a27e12464461daf90f00d1d,5729127442933135575,5153229640599894231,5,N,181,1009,49
+el_parser.c,rcube_tnef_decoder.php,\utils\etterlog\el_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,e965aa39918fe671682ccf0efa3de321,8ca46cd084af91332151df25d1c4bd66,5729127442933135575,5729127442933266647,1,N,230,520,43
+el_parser.c,rcube_sieve_script.php,\utils\etterlog\el_parser.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,e965aa39918fe671682ccf0efa3de321,3c3c719b9a27e12464461daf90f00d1d,5729127442933135575,5153229640599894231,5,N,230,1009,44

@@ -1,0 +1,5 @@
+6444-yara,7025-Stellar
+hex_grammar.c,Stellar-Swift.h,\libyara\hex_grammar.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,29c757a687084bfae5a2dc6bb31b05e5,fafe37ab4771e0a9586e17224fcc7041,-9185373754145580836,-7743940123003924324,8,N,1251,231,39
+endian.h,Stellar-Swift.h,\libyara\include\yara\endian.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,f44500c257dc9e47f34b1473280aea77,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,55,231,15
+integers.h,Stellar-Swift.h,\libyara\include\yara\integers.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,f8e220916ba72c943da73bf32049b841,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,57,231,18
+limits.h,Stellar-Swift.h,\libyara\include\yara\limits.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,1b76e5cbfb6a87b1b52e9aef743d23ec,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,77,231,25

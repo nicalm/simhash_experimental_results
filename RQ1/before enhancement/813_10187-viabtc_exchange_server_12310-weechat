@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,12310-weechat
+http_parser.c,gui-curses-bar-window.c,\utils\http_parser.c,\src\gui\curses\gui-curses-bar-window.c,d09d117e8f6d43dee97217c802830c00,2851edf8074918c83756692d82b46056,5728845967956424919,1063116753997969749,8,N,1850,691,165
+fmacros.h,wee-url.c,\depends\hiredis\fmacros.h,\src\core\wee-url.c,fa39b5b5c7b057e483d5dce607e953a2,2182536a79bada4949d9bc0483b5da6d,-7226589390687643492,-8023445049755510628,6,N,17,1111,5
+win32.h,wee-url.c,\depends\hiredis\win32.h,\src\core\wee-url.c,0ec99e391511695a9d7ef00f6d95b969,2182536a79bada4949d9bc0483b5da6d,-7880077529720759656,-8023445049755510628,8,N,32,1111,9

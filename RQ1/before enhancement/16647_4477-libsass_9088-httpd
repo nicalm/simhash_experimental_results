@@ -1,0 +1,8 @@
+4477-libsass,9088-httpd
+base.h,ap_config.h,\include\sass\base.h,\include\ap_config.h,26dfd0d8cb029fd73ca71c0971ecc070,1c6218d5baff469e646feb980b44217c,-8023163575290504548,-7735214690977654116,8,N,63,119,14
+base.h,suexec.h,\include\sass\base.h,\support\suexec.h,26dfd0d8cb029fd73ca71c0971ecc070,424eed5ca72dc5978fc0252bd3f51645,-8023163575290504548,-8023480233053857636,7,N,63,25,8
+base.h,mod_syslog.c,\include\sass\base.h,\modules\loggers\mod_syslog.c,26dfd0d8cb029fd73ca71c0971ecc070,2d0861d0af354091bfd725e954827d0b,-8023163575290504548,-8023444500272326500,8,N,63,161,13
+base.h,ssl_private.h,\include\sass\base.h,\modules\ssl\ssl_private.h,26dfd0d8cb029fd73ca71c0971ecc070,36249a7b93b6c6da74f16ab00ce94b9b,-8023163575290504548,-8023445049755510628,5,N,63,736,15
+base.h,unixd.c,\include\sass\base.h,\os\unix\unixd.c,26dfd0d8cb029fd73ca71c0971ecc070,4641aa5ffe292dda86bf90bcfac2c838,-8023163575290504548,-8023462641975109476,7,N,63,524,16
+base.h,mpm_default.h,\include\sass\base.h,\server\mpm\mpmt_os2\mpm_default.h,26dfd0d8cb029fd73ca71c0971ecc070,0023769f864cdaeabb7f82ad5c66ec3d,-8023163575290504548,-8023480233053857636,7,N,63,15,5
+base.h,mpm_default.h,\include\sass\base.h,\server\mpm\netware\mpm_default.h,26dfd0d8cb029fd73ca71c0971ecc070,cda6f6973e85bdbe7e47a6014176c375,-8023163575290504548,-8023458243899238244,8,N,63,24,8

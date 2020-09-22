@@ -1,0 +1,3 @@
+1485-gvisor,754-folly
+posix_error.h,Traits.h,\test\util\posix_error.h,\folly\experimental\coro\detail\Traits.h,69a7386a0b1bf748814ac0a9d10a9d28,1d94e6ca29b229849a25628b2fe6bc53,770354285075894968,2932117291525870264,6,N,322,26,12
+rawfile_unsafe.go,SocketPair.h,\pkg\tcpip\link\rawfile\rawfile_unsafe.go,\folly\io\async\test\SocketPair.h,03af4a3aee20c5ee770c97fde4c1e7b5,2f5a554cf335fd1aad99053babbe172b,-5373495539529656568,3839743312264191752,8,N,126,37,8

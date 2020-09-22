@@ -1,0 +1,9 @@
+24-node,32146-js-bson
+test-fs-watchfile.js,promote_values_test.js,\test\parallel\test-fs-watchfile.js,\test\node\promote_values_test.js,dff73786fdf0ac30febc3ed3ac9da4e6,231f8f33b7f05ad974f6dedd429e3f57,1684152688043067771,6293727511001139579,5,N,76,329,14
+test-fs-watchfile.js,test_full_bson.js,\test\parallel\test-fs-watchfile.js,\test\node\test_full_bson.js,dff73786fdf0ac30febc3ed3ac9da4e6,26467473781a18f7802a6693da7b2102,1684152688043067771,6293726411422403451,8,N,76,614,16
+rbbirpt.h,promote_values_test.js,\deps\icu-small\source\common\rbbirpt.h,\test\node\promote_values_test.js,b881fc123067653da8379f6964911088,231f8f33b7f05ad974f6dedd429e3f57,6293727511001139579,6293727511001139579,0,N,265,329,78
+rbbirpt.h,test_full_bson.js,\deps\icu-small\source\common\rbbirpt.h,\test\node\test_full_bson.js,b881fc123067653da8379f6964911088,26467473781a18f7802a6693da7b2102,6293727511001139579,6293726411422403451,3,N,265,614,78
+uscript_props.cpp,promote_values_test.js,\deps\icu-small\source\common\uscript_props.cpp,\test\node\promote_values_test.js,9a3e9ba695dd72d21c74e27fab09bd41,231f8f33b7f05ad974f6dedd429e3f57,-2929644525853636229,6293727511001139579,1,N,258,329,31
+uscript_props.cpp,test_full_bson.js,\deps\icu-small\source\common\uscript_props.cpp,\test\node\test_full_bson.js,9a3e9ba695dd72d21c74e27fab09bd41,26467473781a18f7802a6693da7b2102,-2929644525853636229,6293726411422403451,4,N,258,614,36
+regexcst.h,promote_values_test.js,\deps\icu-small\source\i18n\regexcst.h,\test\node\promote_values_test.js,393c0239167895cdc98cd6e9bcc13294,231f8f33b7f05ad974f6dedd429e3f57,6293727511001139579,6293727511001139579,0,N,540,329,96
+regexcst.h,test_full_bson.js,\deps\icu-small\source\i18n\regexcst.h,\test\node\test_full_bson.js,393c0239167895cdc98cd6e9bcc13294,26467473781a18f7802a6693da7b2102,6293727511001139579,6293726411422403451,3,N,540,614,120

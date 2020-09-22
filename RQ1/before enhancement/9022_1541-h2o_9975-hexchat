@@ -1,0 +1,5 @@
+1541-h2o,9975-hexchat
+fmacros.h,typedef.h,\deps\hiredis\fmacros.h,\src\common\typedef.h,9d6fd32f84c9d0377076a4587579ec51,ad3525a10e4064f94c5205693b6e1c78,-8023515419036559204,-8059473984749774204,7,N,20,20,7
+mrbconf.h,typedef.h,\deps\mruby\include\mrbconf.h,\src\common\typedef.h,b30b9460d209b1cc68a61c5604bdd5a1,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,43,20,7
+uECC.h,typedef.h,\deps\picotls\deps\micro-ecc\uECC.h,\src\common\typedef.h,e777f21ea5ae63708919f7e3ba1592f7,ad3525a10e4064f94c5205693b6e1c78,1199926987099265180,-8059473984749774204,8,N,105,20,6
+wincompat.h,typedef.h,\deps\picotls\picotlsvs\picotls\wincompat.h,\src\common\typedef.h,7c4e1724c3a0beeaea1e4c416d606c60,ad3525a10e4064f94c5205693b6e1c78,-8041318848215590756,-8059473984749774204,8,N,28,20,6

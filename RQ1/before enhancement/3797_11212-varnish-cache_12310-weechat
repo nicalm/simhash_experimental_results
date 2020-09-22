@@ -1,0 +1,9 @@
+11212-varnish-cache,12310-weechat
+gzguts.h,wee-url.c,\lib\libvgz\gzguts.h,\src\core\wee-url.c,7127325d12a1c60eed486f9681b3a149,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,157,1111,40
+gzguts.h,gui-curses-term.c,\lib\libvgz\gzguts.h,\src\gui\curses\gui-curses-term.c,7127325d12a1c60eed486f9681b3a149,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,157,23,8
+zconf.h,wee-url.c,\lib\libvgz\zconf.h,\src\core\wee-url.c,ca00915f6353095e76b1240157dc32b6,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,431,1111,88
+zconf.h,gui-curses-term.c,\lib\libvgz\zconf.h,\src\gui\curses\gui-curses-term.c,ca00915f6353095e76b1240157dc32b6,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,431,23,8
+zutil.c,wee-url.c,\lib\libvgz\zutil.c,\src\core\wee-url.c,80cacf0c2fdd6f41f0562b27c2041b64,2182536a79bada4949d9bc0483b5da6d,-8023445049754986340,-8023445049755510628,1,N,247,1111,70
+zutil.c,gui-curses-term.c,\lib\libvgz\zutil.c,\src\gui\curses\gui-curses-term.c,80cacf0c2fdd6f41f0562b27c2041b64,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049754986340,-7447028277908808228,8,N,247,23,10
+zutil.h,wee-url.c,\lib\libvgz\zutil.h,\src\core\wee-url.c,af5aab860ef07102ffcf6fab7fd2e544,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,196,1111,47
+zutil.h,gui-curses-term.c,\lib\libvgz\zutil.h,\src\gui\curses\gui-curses-term.c,af5aab860ef07102ffcf6fab7fd2e544,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,196,23,8

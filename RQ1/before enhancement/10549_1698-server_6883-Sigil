@@ -1,0 +1,4 @@
+1698-server,6883-Sigil
+MDB2SchemaReader.php,pcre_fullinfo.c,\lib\private\DB\MDB2SchemaReader.php,\3rdparty\pcre\pcre_fullinfo.c,d647cd0d11a5a459553ceaf5b5657b44,8923cc431580197b3e121f54e41dba57,5731379242742884567,5729127442933135575,4,N,240,135,28
+MDB2SchemaReader.php,printf-args.c,\lib\private\DB\MDB2SchemaReader.php,\3rdparty\hunspell\intl\printf-args.c,d647cd0d11a5a459553ceaf5b5657b44,32e9cc807cac7369c6c119a76b828fae,5731379242742884567,6882048947539982551,5,N,240,141,32
+SMB.php,ContentTab.h,\apps\files_external\lib\Lib\Storage\SMB.php,\src\Tabs\ContentTab.h,b66e512599a7e6ce94036d52a7150ef2,2675c1f564ab450037b4790688d2f44e,1719314850312373182,1431083237210080174,4,N,454,167,66

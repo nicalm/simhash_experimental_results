@@ -1,0 +1,6 @@
+11093-mongoose-os,13324-librenms
+stm32_gpio.c,rewrites.php,\platforms\stm32\src\stm32_gpio.c,\includes\rewrites.php,e200da8a2025b3d7ac8ebf6bb2f0807c,5389d55c6eafa211ede2994f342bca9b,6739068456009267415,5729127442933135575,8,N,404,1602,81
+stm32_gpio.c,libvirt-vminfo.inc.php,\platforms\stm32\src\stm32_gpio.c,\includes\discovery\libvirt-vminfo.inc.php,e200da8a2025b3d7ac8ebf6bb2f0807c,bb4b3773cf786ace10a58f9ec481435e,6739068456009267415,5730182974087411863,8,N,404,112,32
+sockets.c,rewrites.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\includes\rewrites.php,b526977271e8df660051cad38636f3c4,5389d55c6eafa211ede2994f342bca9b,830341896054814943,5729127442933135575,7,N,1856,1602,147
+sockets.c,libvirt-vminfo.inc.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\includes\discovery\libvirt-vminfo.inc.php,b526977271e8df660051cad38636f3c4,bb4b3773cf786ace10a58f9ec481435e,830341896054814943,5730182974087411863,7,N,1856,112,31
+sockets.c,viptela.inc.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\includes\polling\os\viptela.inc.php,b526977271e8df660051cad38636f3c4,c64de710870736d919a9de98ce834a46,830341896054814943,5729127442928941271,8,N,1856,48,15

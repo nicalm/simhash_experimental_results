@@ -1,0 +1,10 @@
+12891-libjpeg-turbo,6444-yara
+jmorecfg.h,endian.h,\jmorecfg.h,\libyara\include\yara\endian.h,1469bb97fe30335d1c73bd97389298b2,f44500c257dc9e47f34b1473280aea77,-8023517342645037028,-8023445049755510628,4,N,162,55,15
+jmorecfg.h,integers.h,\jmorecfg.h,\libyara\include\yara\integers.h,1469bb97fe30335d1c73bd97389298b2,f8e220916ba72c943da73bf32049b841,-8023517342645037028,-8023445049755510628,4,N,162,57,17
+jmorecfg.h,limits.h,\jmorecfg.h,\libyara\include\yara\limits.h,1469bb97fe30335d1c73bd97389298b2,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023517342645037028,-8023445049755510628,4,N,162,77,22
+jmorecfg.h,strutils.h,\jmorecfg.h,\libyara\include\yara\strutils.h,1469bb97fe30335d1c73bd97389298b2,62646260db13811e153f2c59cbdfb33a,-8023517342645037028,-8023518717034571368,5,N,162,59,12
+jsimd.c,exefiles.c,\simd\arm\jsimd.c,\libyara\exefiles.c,ab85cff8df274c474ec2529efd01fcee,042275c490919c6e9cc774017dd58a80,-7527093471831151877,-7526985994568992517,8,N,570,294,93
+jsimd.c,exefiles.c,\simd\arm64\jsimd.c,\libyara\exefiles.c,949b0478d0bea180679298e72ac0bd29,042275c490919c6e9cc774017dd58a80,-7527093471831151877,-7526985994568992517,8,N,630,294,98
+jccolext-altivec.c,endian.h,\simd\powerpc\jccolext-altivec.c,\libyara\include\yara\endian.h,f35971d8d3460ef5abe9dca10e095ed1,f44500c257dc9e47f34b1473280aea77,-3267362370959935348,-8023445049755510628,8,N,174,55,13
+jccolext-altivec.c,integers.h,\simd\powerpc\jccolext-altivec.c,\libyara\include\yara\integers.h,f35971d8d3460ef5abe9dca10e095ed1,f8e220916ba72c943da73bf32049b841,-3267362370959935348,-8023445049755510628,8,N,174,57,14
+jccolext-altivec.c,limits.h,\simd\powerpc\jccolext-altivec.c,\libyara\include\yara\limits.h,f35971d8d3460ef5abe9dca10e095ed1,1b76e5cbfb6a87b1b52e9aef743d23ec,-3267362370959935348,-8023445049755510628,8,N,174,77,12

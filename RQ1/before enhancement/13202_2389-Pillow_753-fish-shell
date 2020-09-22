@@ -1,0 +1,8 @@
+2389-Pillow,753-fish-shell
+FliDecode.c,pcre2_dfa_match.c,\src\libImaging\FliDecode.c,\pcre2-10.32\src\pcre2_dfa_match.c,93128dc18746c911ae74ad9f56192e4b,99abc0dd1121c97cbed498ec531c50ba,5153458476439616215,5734756942467348695,8,N,160,2764,41
+ImPlatform.h,fallback.cpp,\src\libImaging\ImPlatform.h,\src\fallback.cpp,6670b4584189b95bdcaaa198dabbf5c8,1b6445406eb257908b35a55b17aedfd8,-8024570949662353252,-9176406128190498660,6,N,58,266,14
+ImPlatform.h,fallback.h,\src\libImaging\ImPlatform.h,\src\fallback.h,6670b4584189b95bdcaaa198dabbf5c8,7d4055698e8c91d9fd4be969475abb0c,-8024570949662353252,-8023446699022952292,3,N,58,118,15
+ImPlatform.h,signal.cpp,\src\libImaging\ImPlatform.h,\src\signal.cpp,6670b4584189b95bdcaaa198dabbf5c8,2e09e582bf373788324ac911fde75809,-8024570949662353252,-8023445049755510632,2,N,58,322,11
+ImPlatform.h,sljitConfig.h,\src\libImaging\ImPlatform.h,\pcre2-10.32\src\sljit\sljitConfig.h,6670b4584189b95bdcaaa198dabbf5c8,4670eeabf25cc1becfd2eb7244181998,-8024570949662353252,-8023445049755445096,3,N,58,33,11
+ImPlatform.h,sljitConfigInternal.h,\src\libImaging\ImPlatform.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,6670b4584189b95bdcaaa198dabbf5c8,fd5d86ef9f2b9d9589cb00af7963629f,-8024570949662353252,-8023515418499688420,3,N,58,429,17
+ImPlatform.h,sljitUtils.c,\src\libImaging\ImPlatform.h,\pcre2-10.32\src\sljit\sljitUtils.c,6670b4584189b95bdcaaa198dabbf5c8,9d2f318c14dbe03c033a6cbd06571a88,-8024570949662353252,-8888215343316280692,8,N,58,218,16

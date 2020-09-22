@@ -1,0 +1,3 @@
+63225-sedutil,8848-lwjgl3
+sedutil.cpp,CGLLog.cpp,\Common\sedutil.cpp,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,d52e516d82c7919c579e6283c901df60,8ed8843634d29dc9d42c00e6488ff838,5693098645914171606,6882048947539982551,3,N,243,80,24
+sedutil.cpp,HelloTinyFD.java,\Common\sedutil.cpp,\modules\samples\src\test\java\org\lwjgl\demo\util\tinyfd\HelloTinyFD.java,d52e516d82c7919c579e6283c901df60,7e4d2c24f0f9282302d7bc1ac92e46d3,5693098645914171606,5589480944986274003,8,N,243,113,19

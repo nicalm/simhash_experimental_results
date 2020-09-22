@@ -1,0 +1,2 @@
+332-netty,6422-roundcubemail
+XmlDecoder.java,rcube_tnef_decoder.php,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\program\lib\Roundcube\rcube_tnef_decoder.php,19ac8fd899723cb5b1efea0f9d7dc639,8ca46cd084af91332151df25d1c4bd66,5729694790866091155,5729127442933266647,6,N,87,520,19

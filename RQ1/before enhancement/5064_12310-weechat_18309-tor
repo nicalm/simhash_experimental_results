@@ -1,0 +1,17 @@
+12310-weechat,18309-tor
+wee-url.c,timeout.c,\src\core\wee-url.c,\src\ext\timeouts\timeout.c,2182536a79bada4949d9bc0483b5da6d,b607f1c129ce5e3aacea62c7cd85ad65,-8023445049755510628,-8018941171223955304,7,N,1111,428,78
+wee-url.c,compat_compiler.h,\src\core\wee-url.c,\src\lib\cc\compat_compiler.h,2182536a79bada4949d9bc0483b5da6d,4fda4875c0f6db2fda2057a47aa6fc8f,-8023445049755510628,-8023445050293299044,3,N,1111,128,21
+wee-url.c,torint.h,\src\core\wee-url.c,\src\lib\cc\torint.h,2182536a79bada4949d9bc0483b5da6d,f9bd1774a6cabce5324bfd6779020def,-8023445049755510628,-8023198759150888804,2,N,1111,101,23
+wee-url.c,fdio.c,\src\core\wee-url.c,\src\lib\fdio\fdio.c,2182536a79bada4949d9bc0483b5da6d,f7cc52832a8d31f8234387c9640d45fa,-8023445049755510628,-7735214673874331620,4,N,1111,80,33
+wee-url.c,files.h,\src\core\wee-url.c,\src\lib\fs\files.h,2182536a79bada4949d9bc0483b5da6d,9902cb2ff95e1c0ddbbb1305db85279c,-8023445049755510628,-7735241062016951204,8,N,1111,88,12
+wee-url.c,compat_mutex.h,\src\core\wee-url.c,\src\lib\lock\compat_mutex.h,2182536a79bada4949d9bc0483b5da6d,fa68dd4d4892b507f32337ac922e8a83,-8023445049755510628,-8023445241286304612,8,N,1111,38,6
+wee-url.c,inaddr_st.h,\src\core\wee-url.c,\src\lib\net\inaddr_st.h,2182536a79bada4949d9bc0483b5da6d,62efbf41d2e5c9c5c910850b9ac27f2c,-8023445049755510628,-8023445049755509604,1,N,1111,69,19
+wee-url.c,nettypes.h,\src\core\wee-url.c,\src\lib\net\nettypes.h,2182536a79bada4949d9bc0483b5da6d,5dc6cbfbef80e86b6ed991e81ad60883,-8023445049755510628,-8033015199603320676,7,N,1111,24,6
+wee-url.c,compat_string.h,\src\core\wee-url.c,\src\lib\string\compat_string.h,2182536a79bada4949d9bc0483b5da6d,ee5d4f16d6a1a17e897c0a516337b508,-8023445049755510628,-8023198751131381604,6,N,1111,36,11
+wee-url.c,ed25519-donna-portable-identify.h,\src\core\wee-url.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,2182536a79bada4949d9bc0483b5da6d,36a4efc8ce95d16532d64be30ece0f36,-8023445049755510628,-8023445066935379812,1,N,1111,87,19
+wee-url.c,ed25519-donna-portable.h,\src\core\wee-url.c,\src\ext\ed25519\donna\ed25519-donna-portable.h,2182536a79bada4949d9bc0483b5da6d,0a91169843a4cccde8a438c807c01a70,-8023445049755510628,-8023166323558924140,8,N,1111,135,20
+wee-url.c,ed25519-donna.h,\src\core\wee-url.c,\src\ext\ed25519\donna\ed25519-donna.h,2182536a79bada4949d9bc0483b5da6d,2aae98d5c016419bee5a3b1b0fb3adb9,-8023445049755510628,-7447028278034638372,7,N,1111,84,16
+gui-curses-term.c,torint.h,\src\gui\curses\gui-curses-term.c,\src\lib\cc\torint.h,12c6b2e5780349c1e6b15f2a0f08c5ca,f9bd1774a6cabce5324bfd6779020def,-7447028277908808228,-8023198759150888804,7,N,23,101,8
+gui-curses-term.c,inaddr_st.h,\src\gui\curses\gui-curses-term.c,\src\lib\net\inaddr_st.h,12c6b2e5780349c1e6b15f2a0f08c5ca,62efbf41d2e5c9c5c910850b9ac27f2c,-7447028277908808228,-8023445049755509604,6,N,23,69,8
+gui-curses-term.c,ed25519-donna-portable-identify.h,\src\gui\curses\gui-curses-term.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,12c6b2e5780349c1e6b15f2a0f08c5ca,36a4efc8ce95d16532d64be30ece0f36,-7447028277908808228,-8023445066935379812,8,N,23,87,8
+gui-curses-term.c,ed25519-donna.h,\src\gui\curses\gui-curses-term.c,\src\ext\ed25519\donna\ed25519-donna.h,12c6b2e5780349c1e6b15f2a0f08c5ca,2aae98d5c016419bee5a3b1b0fb3adb9,-7447028277908808228,-7447028278034638372,4,N,23,84,9

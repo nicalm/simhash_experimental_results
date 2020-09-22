@@ -1,0 +1,6 @@
+7025-Stellar,9469-wireshark
+Stellar-Swift.h,etypes.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\epan\etypes.h,fafe37ab4771e0a9586e17224fcc7041,3c7973fde48d4ae5033b9c2baa52599a,-7743940123003924324,-8023445049755510628,5,N,231,437,29
+Stellar-Swift.h,arch.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\speexdsp\arch.h,fafe37ab4771e0a9586e17224fcc7041,7bd9f03a8b05e96ab303ecf68fd17137,-7743940123003924324,-7951950405671003748,8,N,231,154,20
+Stellar-Swift.h,dot11decrypt_interop.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\epan\crypt\dot11decrypt_interop.h,fafe37ab4771e0a9586e17224fcc7041,d7564edce1a33aac85261f4db23df308,-7743940123003924324,-8023445049755510644,6,N,231,38,12
+Stellar-Swift.h,lempar.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\tools\lemon\lempar.c,fafe37ab4771e0a9586e17224fcc7041,05ab4abcab36d427f4565bdd5793be05,-7743940123003924324,-7879329861679654756,6,N,231,624,37
+Stellar-Swift.h,main.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\ui\qt\main.cpp,fafe37ab4771e0a9586e17224fcc7041,c5f031e07e57fe84d2e1a91122b033e3,-7743940123003924324,-8023445050023946084,6,N,231,650,38

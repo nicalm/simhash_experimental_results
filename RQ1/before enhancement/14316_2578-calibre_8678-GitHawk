@@ -1,0 +1,7 @@
+2578-calibre,8678-GitHawk
+lzxc.c,SDWebImageCompat.h,\src\calibre\utils\lzx\lzxc.c,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,5148bebfcfad4cb4119b4e362bc0686f,b0a5f204f5c6671d77ea59f8ffd5921c,-8059473846773950244,-7735249858110105444,6,N,1033,80,25
+lzxc.c,cmarkextensions_export.h,\src\calibre\utils\lzx\lzxc.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,5148bebfcfad4cb4119b4e362bc0686f,252c50482fb9cc0b421251bbc1a8e0e6,-8059473846773950244,-8023480234127599460,4,N,1033,32,13
+lzxc.c,cmark_export.h,\src\calibre\utils\lzx\lzxc.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,5148bebfcfad4cb4119b4e362bc0686f,7d9a85e6bffd97dbcc67d0e392b8ead8,-8059473846773950244,-8023445049755510632,4,N,1033,32,13
+msstdint.h,SDWebImageCompat.h,\src\calibre\utils\lzx\msstdint.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,2dacb8ee9f393a22b1266f714d3efcd6,b0a5f204f5c6671d77ea59f8ffd5921c,-2830794129776780644,-7735249858110105444,8,N,138,80,20
+msstdint.h,cmarkextensions_export.h,\src\calibre\utils\lzx\msstdint.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,2dacb8ee9f393a22b1266f714d3efcd6,252c50482fb9cc0b421251bbc1a8e0e6,-2830794129776780644,-8023480234127599460,8,N,138,32,12
+msstdint.h,cmark_export.h,\src\calibre\utils\lzx\msstdint.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,2dacb8ee9f393a22b1266f714d3efcd6,7d9a85e6bffd97dbcc67d0e392b8ead8,-2830794129776780644,-8023445049755510632,8,N,138,32,12

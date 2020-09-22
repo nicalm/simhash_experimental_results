@@ -1,0 +1,4 @@
+7025-Stellar,754-folly
+Stellar-Swift.h,CPortability.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\folly\CPortability.h,fafe37ab4771e0a9586e17224fcc7041,2071cc58e111b1fb40fa47a9161f5356,-7743940123003924324,-8023445049756493156,8,N,231,137,38
+Stellar-Swift.h,SysUio.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\folly\portability\SysUio.h,fafe37ab4771e0a9586e17224fcc7041,fd0233f243af7c24827c966c225b6eda,-7743940123003924324,-7744256783963336548,5,N,231,21,5
+Stellar-Swift.h,Windows.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\folly\portability\Windows.h,fafe37ab4771e0a9586e17224fcc7041,8d255d6eb746df0dd20db480cd3643e5,-7743940123003924324,-8023516518011316068,7,N,231,48,13

@@ -1,0 +1,16 @@
+11788-fbthrift,1615-rufus
+thrift_config.h,platform.h,\thrift\lib\cpp\thrift_config.h,\src\bled\platform.h,27c650bbff0590e9f2fafe163b055489,4803e652bfbf4addc3c84e9e9999b1da,-8023445049755510628,-8023445049755510628,0,N,220,498,75
+thrift_config.h,xz_config.h,\thrift\lib\cpp\thrift_config.h,\src\bled\xz_config.h,27c650bbff0590e9f2fafe163b055489,921cb7a03ced44fcd791cbdd6f4ead41,-8023445049755510628,-7446983747698374499,5,N,220,72,10
+thrift_config.h,xz_private.h,\thrift\lib\cpp\thrift_config.h,\src\bled\xz_private.h,27c650bbff0590e9f2fafe163b055489,db6ba9d9b9fa82c4cf6044eeacf20401,-8023445049755510628,-8023515418482911076,2,N,220,89,18
+thrift_config.h,ext2_types.h,\thrift\lib\cpp\thrift_config.h,\src\ext2fs\ext2_types.h,27c650bbff0590e9f2fafe163b055489,aa5bcf70705ef8ee9519acce6afc4f5c,-8023445049755510628,-8023462641941489508,2,N,220,67,13
+thrift_config.h,unistd.h,\thrift\lib\cpp\thrift_config.h,\src\msvc-missing\unistd.h,27c650bbff0590e9f2fafe163b055489,57a90f66687399a086785137e09f1ac9,-8023445049755510628,-4565808634933227492,8,N,220,26,8
+thrift_config.h,sltypes.h,\thrift\lib\cpp\thrift_config.h,\src\syslinux\sltypes.h,27c650bbff0590e9f2fafe163b055489,baf9345f7010a2e71548f8d453b05911,-8023445049755510628,-8023445050360541164,6,N,220,18,6
+thrift_config.h,types.h,\thrift\lib\cpp\thrift_config.h,\src\libcdio\cdio\types.h,27c650bbff0590e9f2fafe163b055489,9508159954df1b5e8d02f4c304e1ed75,-8023445049755510628,-9176366004598155112,4,N,220,181,25
+thrift_config.h,filemode.h,\thrift\lib\cpp\thrift_config.h,\src\libcdio\driver\filemode.h,27c650bbff0590e9f2fafe163b055489,06b5d0649b21446c0f1f114dfa58b605,-8023445049755510628,-8023445049755510628,0,N,220,105,30
+thrift_config.h,portable.h,\thrift\lib\cpp\thrift_config.h,\src\libcdio\driver\portable.h,27c650bbff0590e9f2fafe163b055489,709f07965666c155709172c5f0830375,-8023445049755510628,-8023449447802021732,1,N,220,26,9
+thrift_config.h,filemode.c,\thrift\lib\cpp\thrift_config.h,\src\libcdio\udf\filemode.c,27c650bbff0590e9f2fafe163b055489,34657a272258e6707271728553672ac9,-8023445049755510628,1199874219131066524,4,N,220,108,15
+thrift_config.h,udf.c,\thrift\lib\cpp\thrift_config.h,\src\libcdio\udf\udf.c,27c650bbff0590e9f2fafe163b055489,d041a8b73550e6c6fb5f022d527ca456,-8023445049755510628,5811467870000158876,6,N,220,79,8
+macros.h,platform.h,\thrift\lib\rb\ext\macros.h,\src\bled\platform.h,30f9d8d804dd66b382db54f2861518aa,4803e652bfbf4addc3c84e9e9999b1da,-8032469861362509668,-8023445049755510628,7,N,18,498,4
+macros.h,ext2_types.h,\thrift\lib\rb\ext\macros.h,\src\ext2fs\ext2_types.h,30f9d8d804dd66b382db54f2861518aa,aa5bcf70705ef8ee9519acce6afc4f5c,-8032469861362509668,-8023462641941489508,7,N,18,67,4
+macros.h,filemode.h,\thrift\lib\rb\ext\macros.h,\src\libcdio\driver\filemode.h,30f9d8d804dd66b382db54f2861518aa,06b5d0649b21446c0f1f114dfa58b605,-8032469861362509668,-8023445049755510628,7,N,18,105,4
+macros.h,portable.h,\thrift\lib\rb\ext\macros.h,\src\libcdio\driver\portable.h,30f9d8d804dd66b382db54f2861518aa,709f07965666c155709172c5f0830375,-8032469861362509668,-8023449447802021732,8,N,18,26,4

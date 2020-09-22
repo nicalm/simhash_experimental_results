@@ -1,0 +1,5 @@
+11788-fbthrift,12758-znc
+t_type.h,znc.cpp,\thrift\compiler\ast\t_type.h,\src\znc.cpp,b053db260acb5031648818344c9828ac,d5cdf0084974a39502b7410578dff912,1431083237210080174,1395476652689473967,7,N,149,1700,63
+thrift_config.h,version.h,\thrift\lib\cpp\thrift_config.h,\include\znc\version.h,27c650bbff0590e9f2fafe163b055489,d05809c29f032c998a444139c4f0d9ce,-8023445049755510628,-8023445187195380516,5,N,220,43,8
+TProtocol.py,znc.py,\thrift\lib\py\protocol\TProtocol.py,\modules\modpython\znc.py,535e11dd2c7d17509b8d6e04dcf37f02,4a5b1d05db940e699bac8d83cbaf501d,9217329227336156549,9217320431243133317,2,N,175,722,48
+module_types.cpp,znc.cpp,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\src\znc.cpp,2db322d1052463c02d7e0a6bf32428e5,d5cdf0084974a39502b7410578dff912,1395054440124007342,1395476652689473967,7,N,3515,1700,341

@@ -1,0 +1,15 @@
+1652-joplin,1769-ChakraCore
+import-enex-md-gen.js,test83.js,\ReactNativeClient\lib\import-enex-md-gen.js,\test\Optimizer\test83.js,6981f75ef729e22cf9435b9d3ad3f5cd,ce905127a091d54ea3f33f4179936e23,2210629350375412670,2305200613223158462,7,N,820,127,34
+reducer.js,allIIntCases.js,\ReactNativeClient\lib\reducer.js,\test\switchStatement\allIIntCases.js,cfb01146b60f71f219c7ac6dd67d6dc3,3c6ea8759efeb49539ccb710edff423d,5729128095763970230,5729127442933135575,7,N,610,156,56
+reducer.js,allStringCases.js,\ReactNativeClient\lib\reducer.js,\test\switchStatement\allStringCases.js,cfb01146b60f71f219c7ac6dd67d6dc3,412916f2cf9fd5016a926dce690b97db,5729128095763970230,5152667240318417111,8,N,610,52,17
+reducer.js,moreSwitches1.js,\ReactNativeClient\lib\reducer.js,\test\switchStatement\moreSwitches1.js,cfb01146b60f71f219c7ac6dd67d6dc3,bbf6e484ff026e5192b94a5e80e5b80c,5729128095763970230,5729127442933135575,7,N,610,89,32
+reducer.js,stringAndNonStrings.js,\ReactNativeClient\lib\reducer.js,\test\switchStatement\stringAndNonStrings.js,cfb01146b60f71f219c7ac6dd67d6dc3,a8fdce7fb3ba6b1f7b4fb06c15e6d6c4,5729128095763970230,5729127442933266647,8,N,610,51,15
+reducer.js,substring.js,\ReactNativeClient\lib\reducer.js,\test\switchStatement\substring.js,cfb01146b60f71f219c7ac6dd67d6dc3,6453264ab833200e79a5d50b47a3ed5b,5729128095763970230,5729127442933102807,8,N,610,29,12
+reducer.js,switchMathExp.js,\ReactNativeClient\lib\reducer.js,\test\switchStatement\switchMathExp.js,cfb01146b60f71f219c7ac6dd67d6dc3,11de62aefaef8ca5e5c1ce8e90e7463b,5729128095763970230,5729127442933135575,7,N,610,121,45
+reducer.js,c-writer.cc,\ReactNativeClient\lib\reducer.js,\lib\wabt\src\c-writer.cc,cfb01146b60f71f219c7ac6dd67d6dc3,0a08c0136bd928b6d264b359a2e70907,5729128095763970230,5729127442933102807,8,N,610,1919,132
+reducer.js,expr-visitor.cc,\ReactNativeClient\lib\reducer.js,\lib\wabt\src\expr-visitor.cc,cfb01146b60f71f219c7ac6dd67d6dc3,4abc7e5040ae1441ebf128deb5224a1d,5729128095763970230,5729127442933135575,7,N,610,317,92
+reducer.js,interp-disassemble.cc,\ReactNativeClient\lib\reducer.js,\lib\wabt\src\interp\interp-disassemble.cc,cfb01146b60f71f219c7ac6dd67d6dc3,e569cb01c78fd9a8ee57f7cb91e4421e,5729128095763970230,5729127442928941271,6,N,610,569,59
+reducer.js,interp-trace.cc,\ReactNativeClient\lib\reducer.js,\lib\wabt\src\interp\interp-trace.cc,cfb01146b60f71f219c7ac6dd67d6dc3,208b198e241181833b2a6ecff67ef288,5729128095763970230,5729127442945734871,8,N,610,657,72
+reducer.js,interp.cc,\ReactNativeClient\lib\reducer.js,\lib\wabt\src\interp\interp.cc,cfb01146b60f71f219c7ac6dd67d6dc3,cbdeb4a0122375b3a2f4a23aee775ddf,5729128095763970230,5729127442933135575,7,N,610,2636,125
+reducer.js,opcode.js,\ReactNativeClient\lib\reducer.js,\test\benchmarks\ARES-6\Air\opcode.js,cfb01146b60f71f219c7ac6dd67d6dc3,72ced3de3f5de3211272927ad7bbad3f,5729128095763970230,5729127442933135575,7,N,610,1654,97
+reducer.js,parser.js,\ReactNativeClient\lib\reducer.js,\test\benchmarks\ARES-6\Basic\parser.js,cfb01146b60f71f219c7ac6dd67d6dc3,e43f106cbb9b5606107ade02ab4e28f6,5729128095763970230,5729109850747091159,8,N,610,493,121

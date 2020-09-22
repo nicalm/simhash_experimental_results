@@ -1,0 +1,3 @@
+17934-harfbuzz,754-folly
+test-c.c,CPortability.h,\test\api\test-c.c,\folly\CPortability.h,40a532b71e6242f205df120cc480a67e,2071cc58e111b1fb40fa47a9161f5356,-8023445049757468516,-8023445049756493156,6,N,26,137,6
+test-c.c,Windows.h,\test\api\test-c.c,\folly\portability\Windows.h,40a532b71e6242f205df120cc480a67e,8d255d6eb746df0dd20db480cd3643e5,-8023445049757468516,-8023516518011316068,5,N,26,48,6

@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,8678-GitHawk
+jmorecfg.h,SDWebImageCompat.h,\jmorecfg.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,1469bb97fe30335d1c73bd97389298b2,b0a5f204f5c6671d77ea59f8ffd5921c,-8023517342645037028,-7735249858110105444,7,N,162,80,24
+jmorecfg.h,cmarkextensions_export.h,\jmorecfg.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,1469bb97fe30335d1c73bd97389298b2,252c50482fb9cc0b421251bbc1a8e0e6,-8023517342645037028,-8023480234127599460,5,N,162,32,12
+jmorecfg.h,cmark_export.h,\jmorecfg.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,1469bb97fe30335d1c73bd97389298b2,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023517342645037028,-8023445049755510632,5,N,162,32,12
+jmorecfg.h,ANSCompatibility.h,\jmorecfg.h,\Pods\Crashlytics\iOS\Crashlytics.framework\Headers\ANSCompatibility.h,1469bb97fe30335d1c73bd97389298b2,40f6cf7349344dcaf8bdb603bc2b6bbe,-8023517342645037028,-9177002211737805796,8,N,162,20,5

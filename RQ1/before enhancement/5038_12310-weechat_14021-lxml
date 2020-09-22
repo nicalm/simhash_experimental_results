@@ -1,0 +1,3 @@
+12310-weechat,14021-lxml
+wee-url.c,etree_defs.h,\src\core\wee-url.c,\src\lxml\includes\etree_defs.h,2182536a79bada4949d9bc0483b5da6d,77e60df86f933a8497d9a006ac09a2c9,-8023445049755510628,-8023482433217963876,3,N,1111,319,47
+gui-curses-term.c,etree_defs.h,\src\gui\curses\gui-curses-term.c,\src\lxml\includes\etree_defs.h,12c6b2e5780349c1e6b15f2a0f08c5ca,77e60df86f933a8497d9a006ac09a2c9,-7447028277908808228,-8023482433217963876,8,N,23,319,9

@@ -1,0 +1,8 @@
+10395-jitsi,4984-jerryscript
+lzma.h,config.h,\src\native\windows\setup\include\lzma.h,\jerry-core\config.h,4ce48c8f939c04739c2c0b8409ca662f,1610ce5e32380b97834532a2439ffb00,-8023445049755510628,-8023445049755510628,0,N,121,338,32
+lzma.h,jerryscript-compiler.h,\src\native\windows\setup\include\lzma.h,\jerry-core\include\jerryscript-compiler.h,4ce48c8f939c04739c2c0b8409ca662f,6dc57bc479adf16d2b42cadd27f2edd3,-8023445049755510628,-8023445049755510628,0,N,121,73,22
+lzma.h,jcontext.h,\src\native\windows\setup\include\lzma.h,\jerry-core\jcontext\jcontext.h,4ce48c8f939c04739c2c0b8409ca662f,4de6c82710d6de4c90b38b2414b9953a,-8023445049755510628,-9176367654679291684,5,N,121,162,24
+lzma.h,lit-magic-strings.inc.h,\src\native\windows\setup\include\lzma.h,\jerry-core\lit\lit-magic-strings.inc.h,4ce48c8f939c04739c2c0b8409ca662f,d156bf64086a4a370f1f54301148fe60,-8023445049755510628,-8023445049755510628,0,N,121,920,39
+lzma.h,ecma-builtin-helpers-macro-defines.inc.h,\src\native\windows\setup\include\lzma.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,4ce48c8f939c04739c2c0b8409ca662f,0dde8629af7a79ff0576269e0d239a88,-8023445049755510628,-8023445084115248996,1,N,121,32,11
+lzma.h,js-parser-limits.h,\src\native\windows\setup\include\lzma.h,\jerry-core\parser\js\js-parser-limits.h,4ce48c8f939c04739c2c0b8409ca662f,656369309984980286cea2eff0cb4741,-8023445049755510628,-8023445049755510628,0,N,121,51,17
+lzma.h,js-parser.c,\src\native\windows\setup\include\lzma.h,\jerry-core\parser\js\js-parser.c,4ce48c8f939c04739c2c0b8409ca662f,a37c1b49591f7b4e0cdbefd7e9e81be6,-8023445049755510628,-7879893920254732130,8,N,121,2081,40

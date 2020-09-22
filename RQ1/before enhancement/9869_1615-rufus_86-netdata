@@ -1,0 +1,15 @@
+1615-rufus,86-netdata
+platform.h,libnetdata.h,\src\bled\platform.h,\libnetdata\libnetdata.h,4803e652bfbf4addc3c84e9e9999b1da,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,498,248,55
+platform.h,clocks.h,\src\bled\platform.h,\libnetdata\clocks\clocks.h,4803e652bfbf4addc3c84e9e9999b1da,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,498,66,11
+xz_config.h,libnetdata.h,\src\bled\xz_config.h,\libnetdata\libnetdata.h,921cb7a03ced44fcd791cbdd6f4ead41,b36073eea8dc836d3f37e426aebdabda,-7446983747698374499,-8023445049755510628,5,N,72,248,15
+xz_private.h,libnetdata.h,\src\bled\xz_private.h,\libnetdata\libnetdata.h,db6ba9d9b9fa82c4cf6044eeacf20401,b36073eea8dc836d3f37e426aebdabda,-8023515418482911076,-8023445049755510628,2,N,89,248,23
+ext2_types.h,libnetdata.h,\src\ext2fs\ext2_types.h,\libnetdata\libnetdata.h,aa5bcf70705ef8ee9519acce6afc4f5c,b36073eea8dc836d3f37e426aebdabda,-8023462641941489508,-8023445049755510628,2,N,67,248,15
+unistd.h,libnetdata.h,\src\msvc-missing\unistd.h,\libnetdata\libnetdata.h,57a90f66687399a086785137e09f1ac9,b36073eea8dc836d3f37e426aebdabda,-4565808634933227492,-8023445049755510628,8,N,26,248,8
+sltypes.h,libnetdata.h,\src\syslinux\sltypes.h,\libnetdata\libnetdata.h,baf9345f7010a2e71548f8d453b05911,b36073eea8dc836d3f37e426aebdabda,-8023445050360541164,-8023445049755510628,6,N,18,248,6
+types.h,libnetdata.h,\src\libcdio\cdio\types.h,\libnetdata\libnetdata.h,9508159954df1b5e8d02f4c304e1ed75,b36073eea8dc836d3f37e426aebdabda,-9176366004598155112,-8023445049755510628,4,N,181,248,38
+filemode.h,libnetdata.h,\src\libcdio\driver\filemode.h,\libnetdata\libnetdata.h,06b5d0649b21446c0f1f114dfa58b605,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,105,248,37
+filemode.h,clocks.h,\src\libcdio\driver\filemode.h,\libnetdata\clocks\clocks.h,06b5d0649b21446c0f1f114dfa58b605,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,105,66,11
+portable.h,libnetdata.h,\src\libcdio\driver\portable.h,\libnetdata\libnetdata.h,709f07965666c155709172c5f0830375,b36073eea8dc836d3f37e426aebdabda,-8023449447802021732,-8023445049755510628,1,N,26,248,9
+portable.h,clocks.h,\src\libcdio\driver\portable.h,\libnetdata\clocks\clocks.h,709f07965666c155709172c5f0830375,817f185c065ee719f0a0f5d506401b1f,-8023449447802021732,-7879330084279756644,8,N,26,66,9
+filemode.c,libnetdata.h,\src\libcdio\udf\filemode.c,\libnetdata\libnetdata.h,34657a272258e6707271728553672ac9,b36073eea8dc836d3f37e426aebdabda,1199874219131066524,-8023445049755510628,4,N,108,248,18
+udf.c,libnetdata.h,\src\libcdio\udf\udf.c,\libnetdata\libnetdata.h,d041a8b73550e6c6fb5f022d527ca456,b36073eea8dc836d3f37e426aebdabda,5811467870000158876,-8023445049755510628,6,N,79,248,11

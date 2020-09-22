@@ -1,0 +1,8 @@
+10187-viabtc_exchange_server,10314-ovs
+http_parser.c,meta-flow.c,\utils\http_parser.c,\lib\meta-flow.c,d09d117e8f6d43dee97217c802830c00,4ad0807aab7a18dba65cdfc3eca5215b,5728845967956424919,5729127442933135575,1,N,1850,2904,439
+http_parser.c,odp-execute.c,\utils\http_parser.c,\lib\odp-execute.c,d09d117e8f6d43dee97217c802830c00,83542f791911fea52119ed8e83daa783,5728845967956424919,5729109850746038487,4,N,1850,799,206
+fmacros.h,netdevice.h,\depends\hiredis\fmacros.h,\datapath\linux\compat\include\linux\netdevice.h,fa39b5b5c7b057e483d5dce607e953a2,c1b6717e2d6273038c4ca2cd2be0bfd0,-7226589390687643492,-8023445049756559204,7,N,17,268,5
+fmacros.h,netdev_features.h,\depends\hiredis\fmacros.h,\datapath\linux\compat\include\linux\netdev_features.h,fa39b5b5c7b057e483d5dce607e953a2,ff940b49c844716a115163766ea51d98,-7226589390687643492,-8023445049755510756,7,N,17,59,5
+fmacros.h,skbuff.h,\depends\hiredis\fmacros.h,\datapath\linux\compat\include\linux\skbuff.h,fa39b5b5c7b057e483d5dce607e953a2,838f80b3119cdcc7e7f0d595f749c313,-7226589390687643492,-8023445049755510628,6,N,17,352,5
+fmacros.h,ip6_fib.h,\depends\hiredis\fmacros.h,\datapath\linux\compat\include\net\ip6_fib.h,fa39b5b5c7b057e483d5dce607e953a2,bf2078f0ac7c6e6fdbe53230111d11d0,-7226589390687643492,-7446984366171564008,8,N,17,24,5
+win32.h,skbuff.h,\depends\hiredis\win32.h,\datapath\linux\compat\include\linux\skbuff.h,0ec99e391511695a9d7ef00f6d95b969,838f80b3119cdcc7e7f0d595f749c313,-7880077529720759656,-8023445049755510628,8,N,32,352,9

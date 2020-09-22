@@ -1,0 +1,3 @@
+10187-viabtc_exchange_server,86-netdata
+fmacros.h,libnetdata.h,\depends\hiredis\fmacros.h,\libnetdata\libnetdata.h,fa39b5b5c7b057e483d5dce607e953a2,b36073eea8dc836d3f37e426aebdabda,-7226589390687643492,-8023445049755510628,6,N,17,248,5
+win32.h,libnetdata.h,\depends\hiredis\win32.h,\libnetdata\libnetdata.h,0ec99e391511695a9d7ef00f6d95b969,b36073eea8dc836d3f37e426aebdabda,-7880077529720759656,-8023445049755510628,8,N,32,248,5

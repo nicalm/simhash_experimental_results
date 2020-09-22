@@ -1,0 +1,17 @@
+13324-librenms,67701-r-source
+rewrites.php,Rstrptime.h,\includes\rewrites.php,\src\main\Rstrptime.h,5389d55c6eafa211ede2994f342bca9b,407931813825b80d1daf2fc23d1841da,5729127442933135575,5585012323576749271,4,N,1602,1001,167
+rewrites.php,printf-args.c,\includes\rewrites.php,\src\extra\intl\printf-args.c,5389d55c6eafa211ede2994f342bca9b,32e9cc807cac7369c6c119a76b828fae,5729127442933135575,6882048947539982551,1,N,1602,141,40
+rewrites.php,gramRd.c,\includes\rewrites.php,\src\library\tools\src\gramRd.c,5389d55c6eafa211ede2994f342bca9b,2b9b861b2d2889b8b1da360bdc301c6f,5729127442933135575,5728845959400298719,6,N,1602,3354,177
+rewrites.php,size.c,\includes\rewrites.php,\src\library\utils\src\size.c,5389d55c6eafa211ede2994f342bca9b,d3f58f0d4cffb28c8442526e8e0bfacf,5729127442933135575,2280496028263692498,8,N,1602,105,22
+libvirt-vminfo.inc.php,Rstrptime.h,\includes\discovery\libvirt-vminfo.inc.php,\src\main\Rstrptime.h,bb4b3773cf786ace10a58f9ec481435e,407931813825b80d1daf2fc23d1841da,5730182974087411863,5585012323576749271,8,N,112,1001,32
+libvirt-vminfo.inc.php,printf-args.c,\includes\discovery\libvirt-vminfo.inc.php,\src\extra\intl\printf-args.c,bb4b3773cf786ace10a58f9ec481435e,32e9cc807cac7369c6c119a76b828fae,5730182974087411863,6882048947539982551,5,N,112,141,17
+libvirt-vminfo.inc.php,size.c,\includes\discovery\libvirt-vminfo.inc.php,\src\library\utils\src\size.c,bb4b3773cf786ace10a58f9ec481435e,d3f58f0d4cffb28c8442526e8e0bfacf,5730182974087411863,2280496028263692498,8,N,112,105,15
+ports.csv.inc.php,Rstrptime.h,\includes\html\reports\ports.csv.inc.php,\src\main\Rstrptime.h,363f50b93f6f3f7b86ed810c407bde48,407931813825b80d1daf2fc23d1841da,5729127512726350071,5585012323576749271,6,N,140,1001,34
+ports.csv.inc.php,printf-args.c,\includes\html\reports\ports.csv.inc.php,\src\extra\intl\printf-args.c,363f50b93f6f3f7b86ed810c407bde48,32e9cc807cac7369c6c119a76b828fae,5729127512726350071,6882048947539982551,5,N,140,141,27
+viptela.inc.php,Rstrptime.h,\includes\polling\os\viptela.inc.php,\src\main\Rstrptime.h,c64de710870736d919a9de98ce834a46,407931813825b80d1daf2fc23d1841da,5729127442928941271,5585012323576749271,5,N,48,1001,15
+viptela.inc.php,printf-args.c,\includes\polling\os\viptela.inc.php,\src\extra\intl\printf-args.c,c64de710870736d919a9de98ce834a46,32e9cc807cac7369c6c119a76b828fae,5729127442928941271,6882048947539982551,2,N,48,141,15
+viptela.inc.php,gramRd.c,\includes\polling\os\viptela.inc.php,\src\library\tools\src\gramRd.c,c64de710870736d919a9de98ce834a46,2b9b861b2d2889b8b1da360bdc301c6f,5729127442928941271,5728845959400298719,7,N,48,3354,28
+AdvaSysAlmTrap.php,printf-args.c,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,\src\extra\intl\printf-args.c,56f813b9379330897dbc82d45cf9f46e,32e9cc807cac7369c6c119a76b828fae,1121945025240414455,6882048947539982551,6,N,32,141,11
+linux.inc.php,printf-args.c,\includes\discovery\sensors\state\linux.inc.php,\src\extra\intl\printf-args.c,f9f2f629ba22b31deca0a4fa8d6f22cc,32e9cc807cac7369c6c119a76b828fae,5747071472597776631,6882048947539982551,6,N,39,141,11
+toner.inc.php,printf-args.c,\includes\html\graphs\device\toner.inc.php,\src\extra\intl\printf-args.c,14df19f7caa79129a9551c99a2471503,32e9cc807cac7369c6c119a76b828fae,5731379235161422023,6882048947539982551,7,N,45,141,11
+sensors.inc.php,printf-args.c,\includes\html\pages\health\sensors.inc.php,\src\extra\intl\printf-args.c,9bd00fc9a64f40b2fc247e4ec5f2b56a,32e9cc807cac7369c6c119a76b828fae,5440897599356385494,6882048947539982551,7,N,98,141,19

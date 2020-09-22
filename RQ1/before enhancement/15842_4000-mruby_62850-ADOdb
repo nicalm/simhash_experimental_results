@@ -1,0 +1,3 @@
+4000-mruby,62850-ADOdb
+proto_to_ruby.cpp,adodb-pdo_firebird.inc.php,\oss-fuzz\proto_to_ruby.cpp,\drivers\adodb-pdo_firebird.inc.php,343a45cf3c8497b45182f0170dd23cc0,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,431,333,86
+codedump.c,adodb-pdo_firebird.inc.php,\src\codedump.c,\drivers\adodb-pdo_firebird.inc.php,838fd904bb528b1b9ebdfc72d4fd5069,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,525,333,60

@@ -1,0 +1,3 @@
+2202-qBittorrent,2389-Pillow
+application.cpp,ImPlatform.h,\src\app\application.cpp,\src\libImaging\ImPlatform.h,1769f1c34b2b51e4c126498e3a0b5a58,6670b4584189b95bdcaaa198dabbf5c8,-7445858400229599076,-8024570949662353252,4,N,573,58,16
+main.cpp,ImPlatform.h,\src\app\main.cpp,\src\libImaging\ImPlatform.h,0ab876c235d091cc9321f5b26945d353,6670b4584189b95bdcaaa198dabbf5c8,-8023445118508476260,-8024570949662353252,4,N,324,58,15

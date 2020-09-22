@@ -1,0 +1,13 @@
+6664-ModSecurity,754-folly
+unique_id.cc,CPortability.h,\src\unique_id.cc,\folly\CPortability.h,7c20c0dbffc732616cd5e43c73b8087b,2071cc58e111b1fb40fa47a9161f5356,1199926922539489428,-8023445049756493156,7,N,177,137,14
+unique_id.cc,Windows.h,\src\unique_id.cc,\folly\portability\Windows.h,7c20c0dbffc732616cd5e43c73b8087b,8d255d6eb746df0dd20db480cd3643e5,1199926922539489428,-8023516518011316068,8,N,177,48,12
+check_config.h,CPortability.h,\others\mbedtls\check_config.h,\folly\CPortability.h,306e92b56ac8d1b085c9f72fb65f46a7,2071cc58e111b1fb40fa47a9161f5356,-8023445049755510628,-8023445049756493156,3,N,402,137,30
+check_config.h,Portability.h,\others\mbedtls\check_config.h,\folly\Portability.h,306e92b56ac8d1b085c9f72fb65f46a7,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755510628,-7447019619264177960,6,N,402,392,66
+check_config.h,Config.h,\others\mbedtls\check_config.h,\folly\portability\Config.h,306e92b56ac8d1b085c9f72fb65f46a7,a5be13d038f6f1ed74f7f738d2c00e52,-8023445049755510628,-9171865188386433004,8,N,402,16,5
+check_config.h,Stdlib.h,\others\mbedtls\check_config.h,\folly\portability\Stdlib.h,306e92b56ac8d1b085c9f72fb65f46a7,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049755510628,-8028512836321486692,7,N,402,31,6
+check_config.h,SysUio.h,\others\mbedtls\check_config.h,\folly\portability\SysUio.h,306e92b56ac8d1b085c9f72fb65f46a7,fd0233f243af7c24827c966c225b6eda,-8023445049755510628,-7744256783963336548,8,N,402,21,4
+check_config.h,Windows.h,\others\mbedtls\check_config.h,\folly\portability\Windows.h,306e92b56ac8d1b085c9f72fb65f46a7,8d255d6eb746df0dd20db480cd3643e5,-8023445049755510628,-8023516518011316068,2,N,402,48,12
+check_config.h,EventFDWrapper.h,\others\mbedtls\check_config.h,\folly\io\async\EventFDWrapper.h,306e92b56ac8d1b085c9f72fb65f46a7,442338be25f54c06750d74e9063379f7,-8023445049755510628,-8455834319570281315,8,N,402,32,5
+platform.h,CPortability.h,\others\mbedtls\platform.h,\folly\CPortability.h,d00d535ad1c35ca86d366afc8578c1ab,2071cc58e111b1fb40fa47a9161f5356,-7879409027045336932,-8023445049756493156,8,N,106,137,37
+platform.h,Windows.h,\others\mbedtls\platform.h,\folly\portability\Windows.h,d00d535ad1c35ca86d366afc8578c1ab,8d255d6eb746df0dd20db480cd3643e5,-7879409027045336932,-8023516518011316068,5,N,106,48,13
+sha1.h,SysUio.h,\others\mbedtls\sha1.h,\folly\portability\SysUio.h,a1f73a38b0d18638a0673beee5270ee2,fd0233f243af7c24827c966c225b6eda,-7438082395762536292,-7744256783963336548,8,N,43,21,6

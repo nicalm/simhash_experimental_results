@@ -1,0 +1,7 @@
+12688-ffi,1930-SwifterSwift
+Call.h,NSAttributedStringExtensions.swift,\ext\ffi_c\Call.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,a579f19846bd6edf1b8b9d5cb0fdceb4,682db1376e5e9e45d24a9e1b1ad3e9f8,-9104317757088507428,-9174114755220842340,7,N,59,87,7
+compat.h,CGColorExtensions.swift,\ext\ffi_c\compat.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,89860486007fe9b6739772aa0b042837,13a384d167268ac57b0c34b9cb13ed0f,-8023447251463120740,1189793885789145236,8,N,38,21,5
+compat.h,NSAttributedStringExtensions.swift,\ext\ffi_c\compat.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,89860486007fe9b6739772aa0b042837,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023447251463120740,-9174114755220842340,7,N,38,87,11
+compat.h,StringExtensions.swift,\ext\ffi_c\compat.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,89860486007fe9b6739772aa0b042837,d53332d341abeff92e3d2d2ce16a4d0a,-8023447251463120740,-3051550226512422756,8,N,38,650,12
+DynamicLibrary.h,NSAttributedStringExtensions.swift,\ext\ffi_c\DynamicLibrary.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,85bcc5d631466c02273f9899152b054b,682db1376e5e9e45d24a9e1b1ad3e9f8,-5753630837560780644,-9174114755220842340,8,N,49,87,12
+rbffi_endian.h,NSAttributedStringExtensions.swift,\ext\ffi_c\rbffi_endian.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,f869d8d0ddc657c2a3138058f91acb6c,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049822619428,-9174114755220842340,8,N,50,87,11

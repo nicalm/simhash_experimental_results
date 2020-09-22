@@ -1,0 +1,8 @@
+1460-iTerm2,6664-ModSecurity
+iTermMetalGlyphKey.h,seclang-parser.cc,\sources\iTermMetalGlyphKey.h,\src\parser\seclang-parser.cc,ec93bd52c1bfb24f6f1a8d5c07191b02,c95834041ac82565ed4d4a4bccd1b864,5729057074222575775,5729127442933135575,6,N,92,6079,20
+ini.h,unique_id.cc,\ThirdParty\inih\ini.h,\src\unique_id.cc,3cf89cb2c107d2c3cb0a3bf2fcf603a1,7c20c0dbffc732616cd5e43c73b8087b,-8023445049755510564,1199926922539489428,7,N,57,177,16
+ini.h,check_config.h,\ThirdParty\inih\ini.h,\others\mbedtls\check_config.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049755510564,-8023445049755510628,1,N,57,402,15
+ini.h,platform.h,\ThirdParty\inih\ini.h,\others\mbedtls\platform.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,d00d535ad1c35ca86d366afc8578c1ab,-8023445049755510564,-7879409027045336932,6,N,57,106,21
+ini.h,geo_lookup.h,\ThirdParty\inih\ini.h,\src\utils\geo_lookup.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,7f149a21d7e38ffd2ba73078cb8e9c82,-8023445049755510564,1830428735907880156,7,N,57,50,7
+BetterFontPicker-Swift.h,check_config.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\others\mbedtls\check_config.h,9cdfc1f6cb7907e29a4e6b2cf0041946,306e92b56ac8d1b085c9f72fb65f46a7,-8023479959251789668,-8023445049755510628,3,N,335,402,45
+BetterFontPicker-Swift.h,platform.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\others\mbedtls\platform.h,9cdfc1f6cb7907e29a4e6b2cf0041946,d00d535ad1c35ca86d366afc8578c1ab,-8023479959251789668,-7879409027045336932,8,N,335,106,38

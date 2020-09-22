@@ -1,0 +1,9 @@
+7025-Stellar,9088-httpd
+Stellar-Swift.h,main.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\server\main.c,fafe37ab4771e0a9586e17224fcc7041,806e4cdb67ce91fe6e7126212948f521,-7743940123003924324,-8897143515441211364,7,N,231,643,34
+Stellar-Swift.h,suexec.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\support\suexec.c,fafe37ab4771e0a9586e17224fcc7041,dc41e91d254d4024cb333da882ce1872,-7743940123003924324,-7735355153394115556,7,N,231,463,35
+Stellar-Swift.h,suexec.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\support\suexec.h,fafe37ab4771e0a9586e17224fcc7041,424eed5ca72dc5978fc0252bd3f51645,-7743940123003924324,-8023480233053857636,7,N,231,25,8
+Stellar-Swift.h,mod_syslog.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\modules\loggers\mod_syslog.c,fafe37ab4771e0a9586e17224fcc7041,2d0861d0af354091bfd725e954827d0b,-7743940123003924324,-8023444500272326500,8,N,231,161,21
+Stellar-Swift.h,ssl_private.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\modules\ssl\ssl_private.h,fafe37ab4771e0a9586e17224fcc7041,36249a7b93b6c6da74f16ab00ce94b9b,-7743940123003924324,-8023445049755510628,5,N,231,736,38
+Stellar-Swift.h,unixd.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\os\unix\unixd.c,fafe37ab4771e0a9586e17224fcc7041,4641aa5ffe292dda86bf90bcfac2c838,-7743940123003924324,-8023462641975109476,7,N,231,524,32
+Stellar-Swift.h,mpm_default.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\server\mpm\mpmt_os2\mpm_default.h,fafe37ab4771e0a9586e17224fcc7041,0023769f864cdaeabb7f82ad5c66ec3d,-7743940123003924324,-8023480233053857636,7,N,231,15,5
+Stellar-Swift.h,mpm_default.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\server\mpm\netware\mpm_default.h,fafe37ab4771e0a9586e17224fcc7041,cda6f6973e85bdbe7e47a6014176c375,-7743940123003924324,-8023458243899238244,8,N,231,24,8

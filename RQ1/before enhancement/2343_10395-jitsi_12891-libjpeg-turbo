@@ -1,0 +1,3 @@
+10395-jitsi,12891-libjpeg-turbo
+lzma.h,jmorecfg.h,\src\native\windows\setup\include\lzma.h,\jmorecfg.h,4ce48c8f939c04739c2c0b8409ca662f,1469bb97fe30335d1c73bd97389298b2,-8023445049755510628,-8023517342645037028,4,N,121,162,30
+lzma.h,jccolext-altivec.c,\src\native\windows\setup\include\lzma.h,\simd\powerpc\jccolext-altivec.c,4ce48c8f939c04739c2c0b8409ca662f,f35971d8d3460ef5abe9dca10e095ed1,-8023445049755510628,-3267362370959935348,8,N,121,174,15

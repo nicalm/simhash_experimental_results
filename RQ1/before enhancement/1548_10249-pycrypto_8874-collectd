@@ -1,0 +1,17 @@
+10249-pycrypto,8874-collectd
+winrand.c,collectd.h,\src\winrand.c,\src\daemon\collectd.h,3a3497b5838dcab36e2527d2673e0de6,2b583af2ee5d68797b260dc2234a9a80,-3429825656639923748,-8023445049755510628,8,N,292,198,33
+winrand.c,mount.h,\src\winrand.c,\src\utils\mount\mount.h,3a3497b5838dcab36e2527d2673e0de6,8535c5ea598e2c2e046efd01984ce929,-3429825656639923748,-8023445049755510628,8,N,292,64,15
+_counter.c,pyconfig.c,\src\_counter.c,\src\pyconfig.c,dfb40b63358dfd434ec4ef5b2715afad,b3d2f7f228cf9a9b940e959dcb678f77,6293725329159854459,6293727511001139579,4,N,388,173,44
+_counter.c,pyvalues.c,\src\_counter.c,\src\pyvalues.c,dfb40b63358dfd434ec4ef5b2715afad,eef232aebcadaf8dedcb0b2de85cd554,6293725329159854459,6293727511001139323,5,N,388,1149,94
+tomcrypt_cfg.h,collectd.h,\src\libtom\tomcrypt_cfg.h,\src\daemon\collectd.h,5d86f6872e15c2873979e3c177860d1d,2b583af2ee5d68797b260dc2234a9a80,-8023445049755510052,-8023445049755510628,2,N,79,198,19
+tomcrypt_cfg.h,stdendian.h,\src\libtom\tomcrypt_cfg.h,\src\libcollectdclient\collectd\stdendian.h,5d86f6872e15c2873979e3c177860d1d,098cf6af06fc9530aaf9936b14d4d802,-8023445049755510052,-8032521930559661924,7,N,79,165,20
+tomcrypt_cfg.h,mount.h,\src\libtom\tomcrypt_cfg.h,\src\utils\mount\mount.h,5d86f6872e15c2873979e3c177860d1d,8535c5ea598e2c2e046efd01984ce929,-8023445049755510052,-8023445049755510628,2,N,79,64,14
+tomcrypt_cipher.h,collectd.h,\src\libtom\tomcrypt_cipher.h,\src\daemon\collectd.h,e7e3cfbb6946c3245a4035941fbfd0d9,2b583af2ee5d68797b260dc2234a9a80,-8023445049755512676,-8023445049755510628,1,N,592,198,51
+tomcrypt_cipher.h,stdendian.h,\src\libtom\tomcrypt_cipher.h,\src\libcollectdclient\collectd\stdendian.h,e7e3cfbb6946c3245a4035941fbfd0d9,098cf6af06fc9530aaf9936b14d4d802,-8023445049755512676,-8032521930559661924,6,N,592,165,27
+tomcrypt_cipher.h,mount.h,\src\libtom\tomcrypt_cipher.h,\src\utils\mount\mount.h,e7e3cfbb6946c3245a4035941fbfd0d9,8535c5ea598e2c2e046efd01984ce929,-8023445049755512676,-8023445049755510628,1,N,592,64,15
+tomcrypt_custom.h,collectd.h,\src\libtom\tomcrypt_custom.h,\src\daemon\collectd.h,9ae4ff77d7091871a62aaa3fd1f90225,2b583af2ee5d68797b260dc2234a9a80,-8023445049755510628,-8023445049755510628,0,N,245,198,48
+tomcrypt_custom.h,stdendian.h,\src\libtom\tomcrypt_custom.h,\src\libcollectdclient\collectd\stdendian.h,9ae4ff77d7091871a62aaa3fd1f90225,098cf6af06fc9530aaf9936b14d4d802,-8023445049755510628,-8032521930559661924,5,N,245,165,28
+tomcrypt_custom.h,mount.h,\src\libtom\tomcrypt_custom.h,\src\utils\mount\mount.h,9ae4ff77d7091871a62aaa3fd1f90225,8535c5ea598e2c2e046efd01984ce929,-8023445049755510628,-8023445049755510628,0,N,245,64,14
+tomcrypt_hash.h,collectd.h,\src\libtom\tomcrypt_hash.h,\src\daemon\collectd.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,2b583af2ee5d68797b260dc2234a9a80,-8023480251307468644,-8023445049755510628,2,N,310,198,43
+tomcrypt_hash.h,stdendian.h,\src\libtom\tomcrypt_hash.h,\src\libcollectdclient\collectd\stdendian.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,098cf6af06fc9530aaf9936b14d4d802,-8023480251307468644,-8032521930559661924,7,N,310,165,26
+tomcrypt_hash.h,mount.h,\src\libtom\tomcrypt_hash.h,\src\utils\mount\mount.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,8535c5ea598e2c2e046efd01984ce929,-8023480251307468644,-8023445049755510628,2,N,310,64,15

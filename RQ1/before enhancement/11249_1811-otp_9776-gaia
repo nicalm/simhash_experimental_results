@@ -1,0 +1,14 @@
+1811-otp,9776-gaia
+beam_debug.c,orientation.js,\erts\emulator\beam\beam_debug.c,\dev_apps\uitest\js\API\orientation.js,378f3e398da90d7245f4ea89b651bb69,7f674abe2d64a83f3c5f7fc6b2372c43,574757669432768727,5729127442933135575,8,N,1093,55,18
+copy.c,orientation.js,\erts\emulator\beam\copy.c,\dev_apps\uitest\js\API\orientation.js,2296a899cea43d93ee9ed389799579ba,7f674abe2d64a83f3c5f7fc6b2372c43,-3564613200660333833,5729127442933135575,8,N,1821,55,18
+pcre_dfa_exec.c,orientation.js,\erts\emulator\pcre\pcre_dfa_exec.c,\dev_apps\uitest\js\API\orientation.js,2db56498fddc7d9d25cfd669f1109d3a,7f674abe2d64a83f3c5f7fc6b2372c43,5734484332303137015,5729127442933135575,6,N,2718,55,18
+pcre_dfa_exec.c,month.js,\erts\emulator\pcre\pcre_dfa_exec.c,\disabled_apps\calendar\js\views\month.js,2db56498fddc7d9d25cfd669f1109d3a,73df5bbfbe09cc8849a758e5f4557630,5734484332303137015,5734299537040226471,8,N,2718,180,21
+pcre_fullinfo.c,orientation.js,\erts\emulator\pcre\pcre_fullinfo.c,\dev_apps\uitest\js\API\orientation.js,8559f3936b629a079a534ec222fdca88,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,141,55,17
+pcre_fullinfo.c,lcd.js,\erts\emulator\pcre\pcre_fullinfo.c,\dev_apps\uitest\js\HW\lcd.js,8559f3936b629a079a534ec222fdca88,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,141,62,8
+pcre_fullinfo.c,pdf.worker.js,\erts\emulator\pcre\pcre_fullinfo.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,8559f3936b629a079a534ec222fdca88,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,141,37193,31
+send_term_drv.c,orientation.js,\erts\emulator\test\send_term_SUITE_data\send_term_drv.c,\dev_apps\uitest\js\API\orientation.js,cae2148dae6e768df42ea08857dab54d,7f674abe2d64a83f3c5f7fc6b2372c43,6882046819382628439,5729127442933135575,8,N,665,55,18
+decode_skip.c,statusbar.js,\lib\erl_interface\src\decode\decode_skip.c,\apps\system\js\statusbar.js,4861963671a74c12f57a146f0e21fa29,b6d8c96a26f8a4342bc064ba7fdc2083,5729109850747091157,5665986879623303381,8,N,83,285,17
+decode_skip.c,orientation.js,\lib\erl_interface\src\decode\decode_skip.c,\dev_apps\uitest\js\API\orientation.js,4861963671a74c12f57a146f0e21fa29,7f674abe2d64a83f3c5f7fc6b2372c43,5729109850747091157,5729127442933135575,2,N,83,55,17
+decode_skip.c,pdf.worker.js,\lib\erl_interface\src\decode\decode_skip.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,4861963671a74c12f57a146f0e21fa29,0b5f788a191b12bb182b6955242c5ffb,5729109850747091157,6899975385106659575,7,N,83,37193,23
+get_type.c,orientation.js,\lib\erl_interface\src\misc\get_type.c,\dev_apps\uitest\js\API\orientation.js,b33faf3d8daf23b13040d0a34c615788,7f674abe2d64a83f3c5f7fc6b2372c43,1117424382075517015,5729127442933135575,4,N,52,55,12
+show_msg.c,orientation.js,\lib\erl_interface\src\misc\show_msg.c,\dev_apps\uitest\js\API\orientation.js,50f560f81cb3ae065a03819a50693e7f,7f674abe2d64a83f3c5f7fc6b2372c43,6892189743316646103,5729127442933135575,7,N,393,55,18

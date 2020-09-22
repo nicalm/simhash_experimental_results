@@ -1,0 +1,7 @@
+242-php-src,63411-CMS
+com_variant.c,JSMinPlus.php,\ext\com_dotnet\com_variant.c,\iu-resources\min\lib\JSMinPlus.php,8cc1d969830285306cb98cfbe0332de9,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,840,1637,203
+domexception.c,JSMinPlus.php,\ext\dom\domexception.c,\iu-resources\min\lib\JSMinPlus.php,99fc4111c0afb3d46504c745c26ac181,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,77,1637,24
+php_http_parser.c,JSMinPlus.php,\sapi\cli\php_http_parser.c,\iu-resources\min\lib\JSMinPlus.php,1cb8682c3e456c12782ef52aaf04c34e,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,1221,1637,245
+pcre2_dfa_match.c,JSMinPlus.php,\ext\pcre\pcre2lib\pcre2_dfa_match.c,\iu-resources\min\lib\JSMinPlus.php,ea41d1c512748c30b8ca9a2f4690cf30,ada381ab05cfa7307d75a5e154803be9,5734757011186825431,5735588175405398231,8,N,2792,1637,435
+pcre2_printint.c,JSMinPlus.php,\ext\pcre\pcre2lib\pcre2_printint.c,\iu-resources\min\lib\JSMinPlus.php,002523cf0297b4ad5483f9c4a08160c9,ada381ab05cfa7307d75a5e154803be9,1119411751489681879,5735588175405398231,7,N,570,1637,139
+pcre2_script_run.c,JSMinPlus.php,\ext\pcre\pcre2lib\pcre2_script_run.c,\iu-resources\min\lib\JSMinPlus.php,5b6b3049d53a48b11cfe89b91fae503f,ada381ab05cfa7307d75a5e154803be9,5728832773848348887,5735588175405398231,6,N,235,1637,91

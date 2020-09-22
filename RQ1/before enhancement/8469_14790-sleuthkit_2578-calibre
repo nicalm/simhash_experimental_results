@@ -1,0 +1,7 @@
+14790-sleuthkit,2578-calibre
+tsk_os.h,lzxc.c,\tsk\base\tsk_os.h,\src\calibre\utils\lzx\lzxc.c,fb10549d476c4733b848a15bf274eecd,5148bebfcfad4cb4119b4e362bc0686f,-7717763362486560548,-8059473846773950244,7,N,145,1033,22
+dfxml.cpp,lzxc.c,\tools\fiwalk\src\dfxml.cpp,\src\calibre\utils\lzx\lzxc.c,eb50b8530f9308f16c36524fddd2f5b8,5148bebfcfad4cb4119b4e362bc0686f,-8023587986267121524,-8059473846773950244,6,N,386,1033,104
+dfxml.h,lzxc.c,\tools\fiwalk\src\dfxml.h,\src\calibre\utils\lzx\lzxc.c,f3c421d932ecf1b8fb08953027383675,5148bebfcfad4cb4119b4e362bc0686f,-7591239665207420708,-8059473846773950244,8,N,146,1033,32
+fiwalk.h,lzxc.c,\tools\fiwalk\src\fiwalk.h,\src\calibre\utils\lzx\lzxc.c,039566552f931dc82d647dc4de6b0327,5148bebfcfad4cb4119b4e362bc0686f,-8023585796102236012,-8059473846773950244,8,N,114,1033,20
+regex_internal.h,lzxc.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\src\calibre\utils\lzx\lzxc.c,478b58ddf6d6e1e730d1b30c2f09b9d2,5148bebfcfad4cb4119b4e362bc0686f,-8023445051928094564,-8059473846773950244,7,N,587,1033,85
+file.h,lzxc.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\src\calibre\utils\lzx\lzxc.c,d22799caeaddf83c099f19cf401487da,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510568,-8059473846773950244,3,N,402,1033,47

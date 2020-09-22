@@ -1,0 +1,5 @@
+24-node,4001-hello.js
+decoder-arm64-inl.h,defaultLoader.js,\deps\v8\src\codegen\arm64\decoder-arm64-inl.h,\assets\knockout\src\components\defaultLoader.js,6da3b9612a63ca3810ec2d9791d1e487,b18bc0142cdf10feddbb18229da6ed10,2305199994697269950,-6918190218458840386,6,N,723,163,34
+macro-assembler-mips64.cc,defaultLoader.js,\deps\v8\src\codegen\mips64\macro-assembler-mips64.cc,\assets\knockout\src\components\defaultLoader.js,721c55d9593b154e1628037c3e8b530d,b18bc0142cdf10feddbb18229da6ed10,6915743139557655230,-6918190218458840386,8,N,4781,163,41
+register-allocator.cc,jquery.js,\deps\v8\src\compiler\backend\register-allocator.cc,\assets\expect\support\jquery.js,4c8440fc8f4c64b11cc1af5ad0283e62,2d87ba23383f782ee174b1e96d92f56a,2305183021309487806,2287238992077113598,8,N,4156,6390,860
+register-allocator.cc,loaderRegistry.js,\deps\v8\src\compiler\backend\register-allocator.cc,\assets\knockout\src\components\loaderRegistry.js,4c8440fc8f4c64b11cc1af5ad0283e62,cf4180c06dac80481e82cbc645873707,2305183021309487806,2304971915047848630,8,N,4156,96,26

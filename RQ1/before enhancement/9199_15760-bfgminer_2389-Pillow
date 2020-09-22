@@ -1,0 +1,10 @@
+15760-bfgminer,2389-Pillow
+compat.h,ImPlatform.h,\compat.h,\src\libImaging\ImPlatform.h,6f280ac9c52face753ea81ae98cfe95d,6670b4584189b95bdcaaa198dabbf5c8,-8014437852681811908,-8024570949662353252,8,N,164,58,11
+driver-cpu.c,ImPlatform.h,\driver-cpu.c,\src\libImaging\ImPlatform.h,be0f700b73a52208dd53210582876f9e,6670b4584189b95bdcaaa198dabbf5c8,-7807272267641726562,-8024570949662353252,5,N,682,58,14
+driver-cpu.h,ImPlatform.h,\driver-cpu.h,\src\libImaging\ImPlatform.h,092bcdcc676bceef9c2bba9e9b4bfe90,6670b4584189b95bdcaaa198dabbf5c8,-7446984297678579684,-8024570949662353252,7,N,62,58,11
+miner.h,ImPlatform.h,\miner.h,\src\libImaging\ImPlatform.h,2a2a55093078b0e951ca70e852eb3abc,6670b4584189b95bdcaaa198dabbf5c8,-8021228434313848776,-8024570949662353252,7,N,1425,58,16
+cl_platform.h,ImPlatform.h,\CL\cl_platform.h,\src\libImaging\ImPlatform.h,fc86a2210e718fbcf95aabcf0efa129a,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510564,-8024570949662353252,2,N,935,58,15
+signal.in.h,ImPlatform.h,\lib\signal.in.h,\src\libImaging\ImPlatform.h,ab5029c765029582a72eaf9ee25fe736,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,258,58,15
+stddef.in.h,ImPlatform.h,\lib\stddef.in.h,\src\libImaging\ImPlatform.h,51fb0aab8a1f88b1353623a5d3ebf080,6670b4584189b95bdcaaa198dabbf5c8,-7446702960451199844,-8024570949662353252,6,N,37,58,13
+stdint.in.h,ImPlatform.h,\lib\stdint.in.h,\src\libImaging\ImPlatform.h,cae8be4f2dc822552d990c5e166b9add,6670b4584189b95bdcaaa198dabbf5c8,-8023455787174799140,-8024570949662353252,7,N,383,58,15
+string.in.h,ImPlatform.h,\lib\string.in.h,\src\libImaging\ImPlatform.h,79edfbf7ab10d649596b9a9e586671ee,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,697,58,15

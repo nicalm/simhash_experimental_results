@@ -1,0 +1,5 @@
+13324-librenms,7408-DeepVideoAnalytics
+bootstrap.js,bootstrap.js,\html\js\bootstrap.js,\server\dvaapp\static\bootstrap\js\bootstrap.js,06aca1df93a291549e8efbe5632e5787,e1ae63cac9b9e031a6ad0f52eafa3578,296336841953276518,314210571693355638,5,N,1588,1597,1565
+delete-service.inc.php,vis.js,\includes\html\forms\delete-service.inc.php,\server\dvaapp\static\vis.js,30da6e84d1d382888382593560c4fa18,31619422395b3b554f65e3865cbce81a,2224117675845075646,2296175819643257534,6,N,16,35115,6
+get-host-dependencies.inc.php,vis.js,\includes\html\forms\get-host-dependencies.inc.php,\server\dvaapp\static\vis.js,2d1876c68023247ae7d274c1a1715c88,31619422395b3b554f65e3865cbce81a,2296171423736644270,2296175819643257534,7,N,82,35115,28
+get-host-dependencies.inc.php,bootstrap3-wysihtml5.all.js,\includes\html\forms\get-host-dependencies.inc.php,\server\dvaapp\static\plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.js,2d1876c68023247ae7d274c1a1715c88,f340ea83811e8601158cd97443ee7321,2296171423736644270,2305178486054701758,7,N,82,11112,28

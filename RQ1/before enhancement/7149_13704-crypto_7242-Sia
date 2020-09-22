@@ -1,0 +1,15 @@
+13704-crypto,7242-Sia
+write_test.go,negotiateformcontract.go,\openpgp\write_test.go,\modules\host\negotiateformcontract.go,4ef4149eaeed03513f92fcc47eae3e1b,42645ed7213fae7f6f31dfdb5b474a2d,7422172515643102712,7423209888120247800,8,N,312,200,66
+write_test.go,negotiaterenewcontract.go,\openpgp\write_test.go,\modules\host\negotiaterenewcontract.go,4ef4149eaeed03513f92fcc47eae3e1b,05b0a1652d6e545715f05461c441c6ba,7422172515643102712,7423281098669626872,7,N,312,227,72
+example_test.go,negotiateformcontract.go,\ssh\example_test.go,\modules\host\negotiateformcontract.go,404176200dd122ac641e628ba218eae8,42645ed7213fae7f6f31dfdb5b474a2d,8508647788267116024,7423209888120247800,7,N,232,200,65
+example_test.go,negotiaterenewcontract.go,\ssh\example_test.go,\modules\host\negotiaterenewcontract.go,404176200dd122ac641e628ba218eae8,05b0a1652d6e545715f05461c441c6ba,8508647788267116024,7423281098669626872,8,N,232,227,72
+twofish.go,twofish.go,\twofish\twofish.go,\vendor\golang.org\x\crypto\twofish\twofish.go,48140eeb2a33f1f1471e85b2695ae89e,48140eeb2a33f1f1471e85b2695ae89e,-610316808981423860,-610316808981423860,0,Y,252,252,252
+packet.go,currency.go,\openpgp\packet\packet.go,\types\currency.go,20f53b7583c34a32866072b106ecad26,df20c85cbb4cc6bce9bdc03bac57ed46,-1213268610452065117,-1213418109677898617,6,N,437,119,48
+packet.go,wallet.go,\openpgp\packet\packet.go,\node\api\wallet.go,20f53b7583c34a32866072b106ecad26,5165362a68e5da6a3fa803aab145a734,-1213268610452065117,-1213690807620504409,7,N,437,537,129
+packet.go,miner.go,\openpgp\packet\packet.go,\node\api\client\miner.go,20f53b7583c34a32866072b106ecad26,93632f99f25277b85752586231fdb005,-1213268610452065117,-1212279049919957874,8,N,437,30,14
+private_key_test.go,host_test.go,\openpgp\packet\private_key_test.go,\node\api\host_test.go,e77e50d8b455f4db9f847d58919a0f57,83df6eba17df28e7db42572e2a744c9f,3254393282536424319,3254393282539176826,5,N,199,851,90
+private_key_test.go,wallet_test.go,\openpgp\packet\private_key_test.go,\node\api\wallet_test.go,e77e50d8b455f4db9f847d58919a0f57,42cf44dfa47fc115d5e6cefd40157e19,3254393282536424319,3254393299986944383,7,N,199,1423,90
+private_key_test.go,wallet_test.go,\openpgp\packet\private_key_test.go,\siatest\wallet\wallet_test.go,e77e50d8b455f4db9f847d58919a0f57,2803abc96d2cb0fa39e5c66cd6c0b100,3254393282536424319,7866081515271176575,8,N,199,98,51
+private_key_test.go,cursor_test.go,\openpgp\packet\private_key_test.go,\vendor\github.com\coreos\bbolt\cursor_test.go,e77e50d8b455f4db9f847d58919a0f57,278ac2a0711434245b5c8a410a5ce1b8,3254393282536424319,3255521123804140411,8,N,199,655,89
+private_key_test.go,db_test.go,\openpgp\packet\private_key_test.go,\vendor\github.com\coreos\bbolt\db_test.go,e77e50d8b455f4db9f847d58919a0f57,0510fdbf9d143f31a65c075ffac26a62,3254393282536424319,2679060345730913151,8,N,199,1366,91
+userattribute.go,hostdb.go,\openpgp\packet\userattribute.go,\node\api\client\hostdb.go,b8177b0d62078b621d63249912af3fa0,6471cfd43fee2be2cf6a7c8f1d90f866,-1503891506738530619,7719480513007678529,7,N,65,21,10

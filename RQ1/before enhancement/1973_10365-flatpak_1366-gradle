@@ -1,0 +1,3 @@
+10365-flatpak,1366-gradle
+flatpak-builtins-create-usb.c,CustomTaglet.java,\app\flatpak-builtins-create-usb.c,\subprojects\language-java\src\integTest\resources\org\gradle\javadoc\JavadocIntegrationTest\handlesTagsAndTaglets\src\taglet\java\CustomTaglet.java,80417f1a7bf4fc73ef8c0c77b4dfde80,e7a115a6a5004a46ec4f9fa5e92a0720,1440090432169608108,1440090436464823213,6,N,594,39,12
+flatpak-system-helper.c,XmlValidation.java,\system-helper\flatpak-system-helper.c,\subprojects\core\src\main\java\org\gradle\internal\xml\XmlValidation.java,f449b856cd257976e34a61e4f14e5686,53066109707e089b56b520a1867c3d2b,6647219652632865177,6644967921542855097,5,N,1897,122,33

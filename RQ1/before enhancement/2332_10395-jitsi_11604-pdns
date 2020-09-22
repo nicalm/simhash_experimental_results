@@ -1,0 +1,4 @@
+10395-jitsi,11604-pdns
+lzma.h,threadname.cc,\src\native\windows\setup\include\lzma.h,\pdns\threadname.cc,4ce48c8f939c04739c2c0b8409ca662f,5b915147d70647a42e05b4e28ce34c57,-8023445049755510628,-8023445049889728356,1,N,121,39,12
+lzma.h,version.cc,\src\native\windows\setup\include\lzma.h,\pdns\version.cc,4ce48c8f939c04739c2c0b8409ca662f,2d47bb8e09166cdc8de706154500a37c,-8023445049755510628,-8023445049755379556,1,N,121,141,27
+lzma.h,murmur3.h,\src\native\windows\setup\include\lzma.h,\ext\probds\murmur3.h,4ce48c8f939c04739c2c0b8409ca662f,02ac5aff2e57a41f9dc94781ccd8d595,-8023445049755510628,-9176375350707038052,4,N,121,46,13

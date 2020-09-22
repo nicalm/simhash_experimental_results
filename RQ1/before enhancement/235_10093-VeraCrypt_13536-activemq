@@ -1,0 +1,4 @@
+10093-VeraCrypt,13536-activemq
+zip_open.c,StubSSLSession.java,\src\Common\libzip\zip_open.c,\activemq-unit-tests\src\test\java\org\apache\activemq\transport\tcp\StubSSLSession.java,43a29ee9d8dbaa1d106ae225be596f01,f4f843c71f6fb7181ff3886e25aea676,-4294520895311388948,-4150542596433131780,8,N,631,87,27
+zip_open.c,StubX509Certificate.java,\src\Common\libzip\zip_open.c,\activemq-unit-tests\src\test\java\org\apache\activemq\transport\tcp\StubX509Certificate.java,43a29ee9d8dbaa1d106ae225be596f01,6125c697a55e7c5b9214c4dccd12749e,-4294520895311388948,-4294591263518695700,2,N,631,89,29
+zip_source_zip_new.c,StubX509Certificate.java,\src\Common\libzip\zip_source_zip_new.c,\activemq-unit-tests\src\test\java\org\apache\activemq\transport\tcp\StubX509Certificate.java,9b20c3ae981b66152bf4998311eece72,6125c697a55e7c5b9214c4dccd12749e,-8904168425086460692,-4294591263518695700,7,N,113,89,26

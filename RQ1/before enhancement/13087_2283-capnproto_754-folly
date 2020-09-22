@@ -1,0 +1,9 @@
+2283-capnproto,754-folly
+any.h,Traits.h,\c++\src\capnp\any.h,\folly\experimental\coro\detail\Traits.h,80cc45e2cbeab872d76011865563d255,1d94e6ca29b229849a25628b2fe6bc53,2355656541839700648,2932117291525870264,7,N,791,26,13
+async-prelude.h,AddTasks-inl.h,\c++\src\kj\async-prelude.h,\folly\fibers\AddTasks-inl.h,20a3464f8a3e970365d9904e3076d7b9,d1fe39acf4c29f10d3422e35e0bfe18a,2932117154220872249,2941124353878528952,8,N,152,90,21
+async-prelude.h,Traits.h,\c++\src\kj\async-prelude.h,\folly\experimental\coro\detail\Traits.h,20a3464f8a3e970365d9904e3076d7b9,1d94e6ca29b229849a25628b2fe6bc53,2932117154220872249,2932117291525870264,5,N,152,26,13
+miniposix.h,CPortability.h,\c++\src\kj\miniposix.h,\folly\CPortability.h,43597d9a9103c02dbbe46d2c58ecc748,2071cc58e111b1fb40fa47a9161f5356,-7455991496707810916,-8023445049756493156,4,N,84,137,17
+miniposix.h,Portability.h,\c++\src\kj\miniposix.h,\folly\Portability.h,43597d9a9103c02dbbe46d2c58ecc748,4a7decd5a24ba7fccd761801e3ef4412,-7455991496707810916,-7447019619264177960,7,N,84,392,26
+miniposix.h,Stdlib.h,\c++\src\kj\miniposix.h,\folly\portability\Stdlib.h,43597d9a9103c02dbbe46d2c58ecc748,9adbc370aa00b92c0cbb5c0cf514b964,-7455991496707810916,-8028512836321486692,8,N,84,31,8
+miniposix.h,Windows.h,\c++\src\kj\miniposix.h,\folly\portability\Windows.h,43597d9a9103c02dbbe46d2c58ecc748,8d255d6eb746df0dd20db480cd3643e5,-7455991496707810916,-8023516518011316068,7,N,84,48,16
+miniposix.h,OpenSSLUtils.cpp,\c++\src\kj\miniposix.h,\folly\io\async\ssl\OpenSSLUtils.cpp,43597d9a9103c02dbbe46d2c58ecc748,8fa2dfe7cd78490d06e283b59857ab9a,-7455991496707810916,-7726208713448105316,8,N,84,309,26

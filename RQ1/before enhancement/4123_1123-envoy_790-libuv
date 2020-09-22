@@ -1,0 +1,8 @@
+1123-envoy,790-libuv
+header_utility.cc,handle-inl.h,\source\common\http\header_utility.cc,\src\win\handle-inl.h,81fefe2f52f9c90a5382f919c12d95a7,34080acd31e6a3b5bf545c24c6e85c3f,5693098645903681749,5729127442933135571,6,N,134,110,18
+buffer_fuzz.cc,handle-inl.h,\test\common\buffer\buffer_fuzz.cc,\src\win\handle-inl.h,7151b07959a8cacb8c82ff437756a1c7,34080acd31e6a3b5bf545c24c6e85c3f,1117441974261557335,5729127442933135571,5,N,401,110,18
+header_map_impl_fuzz_test.cc,s5.c,\test\common\http\header_map_impl_fuzz_test.cc,\samples\socks5-proxy\s5.c,2cd640c272d9bb6db5693ff62858ef92,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442933135575,6846020141864235479,7,N,173,221,51
+header_map_impl_fuzz_test.cc,handle-inl.h,\test\common\http\header_map_impl_fuzz_test.cc,\src\win\handle-inl.h,2cd640c272d9bb6db5693ff62858ef92,34080acd31e6a3b5bf545c24c6e85c3f,5729127442933135575,5729127442933135571,1,N,173,110,18
+header_map_impl_fuzz_test.cc,req-inl.h,\test\common\http\header_map_impl_fuzz_test.cc,\src\win\req-inl.h,2cd640c272d9bb6db5693ff62858ef92,8f8490b9a2a16c0821fd15a0612918a2,5729127442933135575,5729110126698821787,8,N,173,145,19
+tap_config_base.cc,handle-inl.h,\source\extensions\common\tap\tap_config_base.cc,\src\win\handle-inl.h,3e951364e0bf73ec7b131db5be14b0f0,34080acd31e6a3b5bf545c24c6e85c3f,1121945015543183603,5729127442933135571,4,N,174,110,18
+codec_impl.cc,handle-inl.h,\source\extensions\filters\network\common\redis\codec_impl.cc,\src\win\handle-inl.h,47c279138a906bf61f0065115ca3b2c6,34080acd31e6a3b5bf545c24c6e85c3f,5747141981029054675,5729127442933135571,3,N,585,110,17

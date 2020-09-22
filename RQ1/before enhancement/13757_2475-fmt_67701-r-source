@@ -1,0 +1,10 @@
+2475-fmt,67701-r-source
+chrono_duration.cpp,Rstrptime.h,\test\fuzzing\chrono_duration.cpp,\src\main\Rstrptime.h,72440fd90a0d01848031589bb2a841a9,407931813825b80d1daf2fc23d1841da,5729127447228102871,5585012323576749271,5,N,129,1001,39
+chrono_duration.cpp,printf-args.c,\test\fuzzing\chrono_duration.cpp,\src\extra\intl\printf-args.c,72440fd90a0d01848031589bb2a841a9,32e9cc807cac7369c6c119a76b828fae,5729127447228102871,6882048947539982551,2,N,129,141,34
+chrono_duration.cpp,gramRd.c,\test\fuzzing\chrono_duration.cpp,\src\library\tools\src\gramRd.c,72440fd90a0d01848031589bb2a841a9,2b9b861b2d2889b8b1da360bdc301c6f,5729127447228102871,5728845959400298719,7,N,129,3354,61
+named_arg.cpp,printf-args.c,\test\fuzzing\named_arg.cpp,\src\extra\intl\printf-args.c,00aa34b86ac78c67b4d7e85b5321fbaf,32e9cc807cac7369c6c119a76b828fae,2270327736013994197,6882048947539982551,8,N,108,141,24
+one_arg.cpp,printf-args.c,\test\fuzzing\one_arg.cpp,\src\extra\intl\printf-args.c,883cdbba8da3fa541c4927e1ea02ff22,32e9cc807cac7369c6c119a76b828fae,2270360721499404501,6882048947539982551,4,N,117,141,27
+sprintf.cpp,printf-args.c,\test\fuzzing\sprintf.cpp,\src\extra\intl\printf-args.c,c2ddd179a4100129a6f72f09df658863,32e9cc807cac7369c6c119a76b828fae,1117439216892295391,6882048947539982551,7,N,101,141,23
+sprintf.cpp,gramRd.c,\test\fuzzing\sprintf.cpp,\src\library\tools\src\gramRd.c,c2ddd179a4100129a6f72f09df658863,2b9b861b2d2889b8b1da360bdc301c6f,1117439216892295391,5728845959400298719,6,N,101,3354,39
+two_args.cpp,printf-args.c,\test\fuzzing\two_args.cpp,\src\extra\intl\printf-args.c,c159700c6123fdba738f71e168dab048,32e9cc807cac7369c6c119a76b828fae,1117439216892295391,6882048947539982551,7,N,97,141,22
+two_args.cpp,gramRd.c,\test\fuzzing\two_args.cpp,\src\library\tools\src\gramRd.c,c159700c6123fdba738f71e168dab048,2b9b861b2d2889b8b1da360bdc301c6f,1117439216892295391,5728845959400298719,6,N,97,3354,37

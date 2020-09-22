@@ -1,0 +1,4 @@
+4482-nixpkgs,99-redis
+varlistentry-fixer.rb,generate-command-help.rb,\nixos\doc\varlistentry-fixer.rb,\utils\generate-command-help.rb,7c9b04b507e300df4cd4363a9ae7a82b,4c431b264d1f88634f819373e4520d1e,-256049853468035414,-7173576683160661342,8,N,52,93,9
+nix-bundle-install.rb,generate-command-help.rb,\pkgs\development\ruby-modules\gem\nix-bundle-install.rb,\utils\generate-command-help.rb,e1554dc806ee50397a1035d8c80a97c3,4c431b264d1f88634f819373e4520d1e,-256047655518521814,-7173576683160661342,7,N,131,93,10
+nix-bundle-install.rb,test-lru.rb,\pkgs\development\ruby-modules\gem\nix-bundle-install.rb,\utils\lru\test-lru.rb,e1554dc806ee50397a1035d8c80a97c3,d6931b1a3ab9cd3032c3bf5af8ca5eb7,-256047655518521814,-760419477702757366,8,N,131,178,19

@@ -1,0 +1,7 @@
+14021-lxml,91-bitcoin
+etree_defs.h,attributes.h,\src\lxml\includes\etree_defs.h,\src\attributes.h,77e60df86f933a8497d9a006ac09a2c9,1d61566702a36bfdc0abbfcd3b918b11,-8023482433217963876,-8023445049755378532,5,N,319,15,6
+etree_defs.h,compat.h,\src\lxml\includes\etree_defs.h,\src\compat.h,77e60df86f933a8497d9a006ac09a2c9,e406a80a1784994699c1b4a1bc6005d3,-8023482433217963876,-8023445187194464104,5,N,319,87,22
+etree_defs.h,randomenv.cpp,\src\lxml\includes\etree_defs.h,\src\randomenv.cpp,77e60df86f933a8497d9a006ac09a2c9,8eefeb3e04f7f52be719a9efdd732606,-8023482433217963876,-8023445049755510628,3,N,319,439,49
+etree_defs.h,byteswap.h,\src\lxml\includes\etree_defs.h,\src\compat\byteswap.h,77e60df86f933a8497d9a006ac09a2c9,88acd785d1d6b57506d4fdd472a4a790,-8023482433217963876,-7744221872858473316,7,N,319,43,11
+etree_defs.h,endian.h,\src\lxml\includes\etree_defs.h,\src\compat\endian.h,77e60df86f933a8497d9a006ac09a2c9,5c16422e6448c8f31356121158773761,-8023482433217963876,-8023445049755510628,3,N,319,198,47
+etree_defs.h,thread_annotations.h,\src\lxml\includes\etree_defs.h,\src\leveldb\port\thread_annotations.h,77e60df86f933a8497d9a006ac09a2c9,af9eee1ca47192126580ea56af3a4865,-8023482433217963876,-8023445049755510628,3,N,319,39,13

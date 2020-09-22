@@ -1,0 +1,10 @@
+5868-libvips,753-fish-shell
+composite.cpp,builtin_echo.cpp,\libvips\conversion\composite.cpp,\src\builtin_echo.cpp,1073a16ac3f3888e7e8384f333542daa,397d2a8e9ac0bbf166e2373ae9b2db40,-3566301638204286473,-3494244456465909289,7,N,1177,229,58
+composite.cpp,builtin_history.cpp,\libvips\conversion\composite.cpp,\src\builtin_history.cpp,1073a16ac3f3888e7e8384f333542daa,2ef43496835c341f4350481a342a952e,-3566301638204286473,-3494235797291746857,7,N,1177,271,80
+buffer.c,sljitConfig.h,\libvips\iofuncs\buffer.c,\pcre2-10.32\src\sljit\sljitConfig.h,7574cb2d8655be6f6b1d83b926fa5645,4670eeabf25cc1becfd2eb7244181998,-7744230673238075236,-8023445049755445096,8,N,447,33,11
+vector.c,fallback.cpp,\libvips\iofuncs\vector.c,\src\fallback.cpp,055954f4e165b83818f7e8bd6db904ec,1b6445406eb257908b35a55b17aedfd8,-8023484632710850404,-9176406128190498660,5,N,400,266,56
+vector.c,fallback.h,\libvips\iofuncs\vector.c,\src\fallback.h,055954f4e165b83818f7e8bd6db904ec,7d4055698e8c91d9fd4be969475abb0c,-8023484632710850404,-8023446699022952292,6,N,400,118,28
+vector.c,signal.cpp,\libvips\iofuncs\vector.c,\src\signal.cpp,055954f4e165b83818f7e8bd6db904ec,2e09e582bf373788324ac911fde75809,-8023484632710850404,-8023445049755510632,5,N,400,322,68
+vector.c,sljitConfig.h,\libvips\iofuncs\vector.c,\pcre2-10.32\src\sljit\sljitConfig.h,055954f4e165b83818f7e8bd6db904ec,4670eeabf25cc1becfd2eb7244181998,-8023484632710850404,-8023445049755445096,6,N,400,33,11
+vector.c,sljitConfigInternal.h,\libvips\iofuncs\vector.c,\pcre2-10.32\src\sljit\sljitConfigInternal.h,055954f4e165b83818f7e8bd6db904ec,fd5d86ef9f2b9d9589cb00af7963629f,-8023484632710850404,-8023515418499688420,6,N,400,429,42
+vector.c,sljitNativePPC_common.c,\libvips\iofuncs\vector.c,\pcre2-10.32\src\sljit\sljitNativePPC_common.c,055954f4e165b83818f7e8bd6db904ec,4101d82f93307c0419fe4cef0920cba4,-8023484632710850404,479315861819414680,8,N,400,1789,100

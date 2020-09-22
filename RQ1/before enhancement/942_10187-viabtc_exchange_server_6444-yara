@@ -1,0 +1,9 @@
+10187-viabtc_exchange_server,6444-yara
+http_parser.c,grammar.c,\utils\http_parser.c,\libyara\grammar.c,d09d117e8f6d43dee97217c802830c00,306ae4ed5d0a265782bc5a130c6f342f,5728845967956424919,5730252312047818967,5,N,1850,3301,482
+http_parser.c,pe_utils.c,\utils\http_parser.c,\libyara\modules\pe\pe_utils.c,d09d117e8f6d43dee97217c802830c00,85b3b0e9639ebe8f194fd360aa44aa10,5728845967956424919,5729127442933135575,1,N,1850,1795,220
+fmacros.h,endian.h,\depends\hiredis\fmacros.h,\libyara\include\yara\endian.h,fa39b5b5c7b057e483d5dce607e953a2,f44500c257dc9e47f34b1473280aea77,-7226589390687643492,-8023445049755510628,6,N,17,55,5
+fmacros.h,integers.h,\depends\hiredis\fmacros.h,\libyara\include\yara\integers.h,fa39b5b5c7b057e483d5dce607e953a2,f8e220916ba72c943da73bf32049b841,-7226589390687643492,-8023445049755510628,6,N,17,57,5
+fmacros.h,limits.h,\depends\hiredis\fmacros.h,\libyara\include\yara\limits.h,fa39b5b5c7b057e483d5dce607e953a2,1b76e5cbfb6a87b1b52e9aef743d23ec,-7226589390687643492,-8023445049755510628,6,N,17,77,4
+win32.h,endian.h,\depends\hiredis\win32.h,\libyara\include\yara\endian.h,0ec99e391511695a9d7ef00f6d95b969,f44500c257dc9e47f34b1473280aea77,-7880077529720759656,-8023445049755510628,8,N,32,55,5
+win32.h,integers.h,\depends\hiredis\win32.h,\libyara\include\yara\integers.h,0ec99e391511695a9d7ef00f6d95b969,f8e220916ba72c943da73bf32049b841,-7880077529720759656,-8023445049755510628,8,N,32,57,6
+win32.h,limits.h,\depends\hiredis\win32.h,\libyara\include\yara\limits.h,0ec99e391511695a9d7ef00f6d95b969,1b76e5cbfb6a87b1b52e9aef743d23ec,-7880077529720759656,-8023445049755510628,8,N,32,77,5

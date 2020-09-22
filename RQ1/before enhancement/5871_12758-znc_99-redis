@@ -1,0 +1,6 @@
+12758-znc,99-redis
+version.h,config.h,\include\znc\version.h,\src\config.h,d05809c29f032c998a444139c4f0d9ce,fe9fefbbc117a00a89d3fa3a9678435a,-8023445187195380516,-8023445049755510628,5,N,43,149,13
+version.h,lzfP.h,\include\znc\version.h,\src\lzfP.h,d05809c29f032c998a444139c4f0d9ce,a8a99ddcfb21b5d90efea295fa1823be,-8023445187195380516,-7879329861679654756,6,N,43,77,13
+version.h,llimits.h,\include\znc\version.h,\deps\lua\src\llimits.h,d05809c29f032c998a444139c4f0d9ce,0990f1abc3ce4ed347a3373a88d7961e,-8023445187195380516,-8023163574778799972,6,N,43,53,10
+version.h,jemalloc_internal_decls.h,\include\znc\version.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,d05809c29f032c998a444139c4f0d9ce,b10ad6415790176a35be7bbab7206d99,-8023445187195380516,-9176366554630793060,7,N,43,85,11
+version.h,jemalloc_internal_types.h,\include\znc\version.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,d05809c29f032c998a444139c4f0d9ce,980de9a5931b9a6fb54cf696652d614a,-8023445187195380516,-8032452249077360612,8,N,43,129,11

@@ -1,0 +1,8 @@
+7025-Stellar,91-bitcoin
+Stellar-Swift.h,attributes.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\attributes.h,fafe37ab4771e0a9586e17224fcc7041,1d61566702a36bfdc0abbfcd3b918b11,-7743940123003924324,-8023445049755378532,7,N,231,15,6
+Stellar-Swift.h,compat.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\compat.h,fafe37ab4771e0a9586e17224fcc7041,e406a80a1784994699c1b4a1bc6005d3,-7743940123003924324,-8023445187194464104,7,N,231,87,22
+Stellar-Swift.h,randomenv.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\randomenv.cpp,fafe37ab4771e0a9586e17224fcc7041,8eefeb3e04f7f52be719a9efdd732606,-7743940123003924324,-8023445049755510628,5,N,231,439,33
+Stellar-Swift.h,byteswap.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\compat\byteswap.h,fafe37ab4771e0a9586e17224fcc7041,88acd785d1d6b57506d4fdd472a4a790,-7743940123003924324,-7744221872858473316,5,N,231,43,9
+Stellar-Swift.h,endian.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\compat\endian.h,fafe37ab4771e0a9586e17224fcc7041,5c16422e6448c8f31356121158773761,-7743940123003924324,-8023445049755510628,5,N,231,198,31
+Stellar-Swift.h,port_posix.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\leveldb\port\port_posix.h,fafe37ab4771e0a9586e17224fcc7041,19a3c705798d84488cb4a2943d225851,-7743940123003924324,-8032804092731434340,8,N,231,123,18
+Stellar-Swift.h,thread_annotations.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\leveldb\port\thread_annotations.h,fafe37ab4771e0a9586e17224fcc7041,af9eee1ca47192126580ea56af3a4865,-7743940123003924324,-8023445049755510628,5,N,231,39,13

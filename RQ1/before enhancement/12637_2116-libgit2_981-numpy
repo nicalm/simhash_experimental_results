@@ -1,0 +1,10 @@
+2116-libgit2,981-numpy
+posix.h,npy_common.h,\src\posix.h,\numpy\core\include\numpy\npy_common.h,5939a6412855eb77bc24c53a476d1930,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,122,951,29
+thread-utils.c,npy_common.h,\src\thread-utils.c,\numpy\core\include\numpy\npy_common.h,8713652419d08023d42160956cf300e0,a173a9479ba36f92005f6b19e1c98ca6,-8020067350305449316,-8023445066935379812,7,N,38,951,7
+compat.h,npy_common.h,\deps\ntlmclient\compat.h,\numpy\core\include\numpy\npy_common.h,5b06983268d133b177cf5b90fa9da075,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510626,-8023445066935379812,2,N,21,951,8
+gzguts.h,npy_common.h,\deps\zlib\gzguts.h,\numpy\core\include\numpy\npy_common.h,d71e3535b6b87307b4104a15791be071,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,157,951,43
+zconf.h,npy_common.h,\deps\zlib\zconf.h,\numpy\core\include\numpy\npy_common.h,ccd97cbc26c511a318aa46f8e6df51a6,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,427,951,105
+zutil.c,npy_common.h,\deps\zlib\zutil.c,\numpy\core\include\numpy\npy_common.h,4a4179f332d9d5e26199eb2b75c7b632,a173a9479ba36f92005f6b19e1c98ca6,-8023445049754986340,-8023445066935379812,2,N,245,951,32
+zutil.h,npy_common.h,\deps\zlib\zutil.h,\numpy\core\include\numpy\npy_common.h,e7909d2ab25406cac90461dc9c664a01,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,196,951,53
+stdint.h,npy_common.h,\include\git2\stdint.h,\numpy\core\include\numpy\npy_common.h,0a9faad66f590c9572581753d453013e,a173a9479ba36f92005f6b19e1c98ca6,-8018800163019237220,-8023445066935379812,7,N,152,951,24
+sha1.c,npy_common.h,\src\hash\sha1\sha1dc\sha1.c,\numpy\core\include\numpy\npy_common.h,6347de19da23b6072273f8c2426ff3b6,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,1597,951,97

@@ -1,0 +1,16 @@
+10137-zlib,8678-GitHawk
+gzguts.h,SDWebImageCompat.h,\gzguts.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,d71e3535b6b87307b4104a15791be071,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510628,-7735249858110105444,3,N,157,80,22
+gzguts.h,cmarkextensions_export.h,\gzguts.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,d71e3535b6b87307b4104a15791be071,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510628,-8023480234127599460,1,N,157,32,12
+gzguts.h,cmark_export.h,\gzguts.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,d71e3535b6b87307b4104a15791be071,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510628,-8023445049755510632,1,N,157,32,12
+zconf.h,SDWebImageCompat.h,\zconf.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,ccd97cbc26c511a318aa46f8e6df51a6,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510628,-7735249858110105444,3,N,427,80,24
+zconf.h,cmarkextensions_export.h,\zconf.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,ccd97cbc26c511a318aa46f8e6df51a6,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510628,-8023480234127599460,1,N,427,32,12
+zconf.h,cmark_export.h,\zconf.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,ccd97cbc26c511a318aa46f8e6df51a6,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510628,-8023445049755510632,1,N,427,32,12
+zutil.c,SDWebImageCompat.h,\zutil.c,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,4a4179f332d9d5e26199eb2b75c7b632,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049754986340,-7735249858110105444,4,N,245,80,21
+zutil.c,cmarkextensions_export.h,\zutil.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,4a4179f332d9d5e26199eb2b75c7b632,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049754986340,-8023480234127599460,2,N,245,32,12
+zutil.c,cmark_export.h,\zutil.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,4a4179f332d9d5e26199eb2b75c7b632,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049754986340,-8023445049755510632,2,N,245,32,12
+zutil.h,SDWebImageCompat.h,\zutil.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,e7909d2ab25406cac90461dc9c664a01,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510628,-7735249858110105444,3,N,196,80,24
+zutil.h,cmarkextensions_export.h,\zutil.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,e7909d2ab25406cac90461dc9c664a01,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510628,-8023480234127599460,1,N,196,32,12
+zutil.h,cmark_export.h,\zutil.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,e7909d2ab25406cac90461dc9c664a01,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510628,-8023445049755510632,1,N,196,32,12
+ioapi.h,SDWebImageCompat.h,\contrib\minizip\ioapi.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,e509e865c1047c3c4740e3fc3c7577eb,b0a5f204f5c6671d77ea59f8ffd5921c,-7456026681078916964,-7735249858110105444,4,N,132,80,24
+ioapi.h,cmarkextensions_export.h,\contrib\minizip\ioapi.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,e509e865c1047c3c4740e3fc3c7577eb,252c50482fb9cc0b421251bbc1a8e0e6,-7456026681078916964,-8023480234127599460,2,N,132,32,12
+ioapi.h,cmark_export.h,\contrib\minizip\ioapi.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,e509e865c1047c3c4740e3fc3c7577eb,7d9a85e6bffd97dbcc67d0e392b8ead8,-7456026681078916964,-8023445049755510632,4,N,132,32,12

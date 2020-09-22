@@ -1,0 +1,3 @@
+1930-SwifterSwift,4790-node-opencv
+CGColorExtensions.swift,init.cc,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\init.cc,13a384d167268ac57b0c34b9cb13ed0f,ac230f241e7062df9add8317bcf2a3be,1189793885789145236,-8032663355242784612,8,N,21,67,5
+StringExtensions.swift,init.cc,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\init.cc,d53332d341abeff92e3d2d2ce16a4d0a,ac230f241e7062df9add8317bcf2a3be,-3051550226512422756,-8032663355242784612,8,N,650,67,11

@@ -1,0 +1,13 @@
+13470-tigervnc,2116-libgit2
+pam.h,zutil.c,\common\rfb\pam.h,\deps\zlib\zutil.c,2716e1b86f479bfe7a97074c5b5e4cdd,4a4179f332d9d5e26199eb2b75c7b632,-7352549511467837220,-8023445049754986340,8,N,16,245,6
+SSLEngineManager.java,settings.c,\java\com\tigervnc\network\SSLEngineManager.java,\src\settings.c,39e909ecd9ccf04cb9bad885f45ab7de,718930b70d05c094a268632a2f1ec06a,3423284433716820183,6882048947539982549,6,N,127,238,28
+SSLEngineManager.java,http_parser.c,\java\com\tigervnc\network\SSLEngineManager.java,\deps\http-parser\http_parser.c,39e909ecd9ccf04cb9bad885f45ab7de,624ed39402aecf1d658c88ffcffaee6d,3423284433716820183,5728845967956424919,5,N,127,1620,29
+SSLEngineManager.java,pcre_fullinfo.c,\java\com\tigervnc\network\SSLEngineManager.java,\deps\pcre\pcre_fullinfo.c,39e909ecd9ccf04cb9bad885f45ab7de,8923cc431580197b3e121f54e41dba57,3423284433716820183,5729127442933135575,4,N,127,135,16
+ServerParams.java,settings.c,\java\com\tigervnc\rfb\ServerParams.java,\src\settings.c,81f51e625e63390d7951b591bd25df78,718930b70d05c094a268632a2f1ec06a,6881714696003043031,6882048947539982549,7,N,184,238,37
+ServerParams.java,http_parser.c,\java\com\tigervnc\rfb\ServerParams.java,\deps\http-parser\http_parser.c,81f51e625e63390d7951b591bd25df78,624ed39402aecf1d658c88ffcffaee6d,6881714696003043031,5728845967956424919,6,N,184,1620,37
+ServerParams.java,pcre_fullinfo.c,\java\com\tigervnc\rfb\ServerParams.java,\deps\pcre\pcre_fullinfo.c,81f51e625e63390d7951b591bd25df78,8923cc431580197b3e121f54e41dba57,6881714696003043031,5729127442933135575,7,N,184,135,21
+xvnc.c,posix.h,\unix\xserver\hw\vnc\xvnc.c,\src\posix.h,64de174f413a46b56c689e3d2f0ca711,5939a6412855eb77bc24c53a476d1930,-7955908787655354212,-8023445049755510628,8,N,1442,122,31
+xvnc.c,gzguts.h,\unix\xserver\hw\vnc\xvnc.c,\deps\zlib\gzguts.h,64de174f413a46b56c689e3d2f0ca711,d71e3535b6b87307b4104a15791be071,-7955908787655354212,-8023445049755510628,8,N,1442,157,44
+xvnc.c,zconf.h,\unix\xserver\hw\vnc\xvnc.c,\deps\zlib\zconf.h,64de174f413a46b56c689e3d2f0ca711,ccd97cbc26c511a318aa46f8e6df51a6,-7955908787655354212,-8023445049755510628,8,N,1442,427,73
+xvnc.c,zutil.h,\unix\xserver\hw\vnc\xvnc.c,\deps\zlib\zutil.h,64de174f413a46b56c689e3d2f0ca711,e7909d2ab25406cac90461dc9c664a01,-7955908787655354212,-8023445049755510628,8,N,1442,196,54
+xvnc.c,sha1.c,\unix\xserver\hw\vnc\xvnc.c,\src\hash\sha1\sha1dc\sha1.c,64de174f413a46b56c689e3d2f0ca711,6347de19da23b6072273f8c2426ff3b6,-7955908787655354212,-8023445049755510628,8,N,1442,1597,133

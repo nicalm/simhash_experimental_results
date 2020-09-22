@@ -1,0 +1,6 @@
+305-symfony,4139-outline-client
+CheckTypeDeclarationsPass.php,BDHCPClientCore.c,\src\Symfony\Component\DependencyInjection\Compiler\CheckTypeDeclarationsPass.php,\third_party\badvpn\dhcpclient\BDHCPClientCore.c,7e16454f202d40466277e58f455ab962,36d080cabd19ae0286ad8322c777f0e7,3841579589309827441,1535736590837484145,7,N,160,577,62
+CheckTypeDeclarationsPass.php,emncd.c,\src\Symfony\Component\DependencyInjection\Compiler\CheckTypeDeclarationsPass.php,\third_party\badvpn\ncd\emncd.c,7e16454f202d40466277e58f455ab962,7c2222a52668265e6d3f4ae7057ffe5b,3841579589309827441,-5452732869051675279,7,N,160,79,19
+IpValidator.php,pcre_fullinfo.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\third_party\pcre\pcre_fullinfo.c,7ca48c5d09328c72e03da3c6a432f9bf,8923cc431580197b3e121f54e41dba57,5746860357875939543,5729127442933135575,4,N,69,135,16
+IpValidator.php,ncd_tokenizer_test.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\third_party\badvpn\examples\ncd_tokenizer_test.c,7ca48c5d09328c72e03da3c6a432f9bf,809950a2bfada58b600886b8876d3ef5,5746860357875939543,5729127442933135575,4,N,69,108,22
+IpValidator.php,oidrequest.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\third_party\tap-windows6\src\oidrequest.c,7ca48c5d09328c72e03da3c6a432f9bf,002c163e640287d2c51baba214ecdaa8,5746860357875939543,1118567324412590303,7,N,69,493,23

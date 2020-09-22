@@ -1,0 +1,4 @@
+4001-hello.js,7747-Attendize
+jquery.js,jquery.js,\assets\expect\support\jquery.js,\public\vendor\jquery\dist\jquery.js,2d87ba23383f782ee174b1e96d92f56a,cdac12a7fb68d67386ca31654c9a68f9,2287238992077113598,2286112319076122876,8,N,6390,6188,3099
+jquery.js,vue.common.js,\assets\expect\support\jquery.js,\public\vendor\vue\dist\vue.common.js,2d87ba23383f782ee174b1e96d92f56a,b41a7aa3e707c5697f6901b13a597c1b,2287238992077113598,2305182884135815930,8,N,6390,5960,1510
+jquery.js,jquery-1.7b2.js,\assets\expect\support\jquery.js,\public\vendor\modernizr\test\js\lib\jquery-1.7b2.js,2d87ba23383f782ee174b1e96d92f56a,e06dfda2ee58d3143b712a96e78d9607,2287238992077113598,2287238991808682239,3,N,6390,6401,6130

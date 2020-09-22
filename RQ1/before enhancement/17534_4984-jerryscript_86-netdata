@@ -1,0 +1,13 @@
+4984-jerryscript,86-netdata
+config.h,libnetdata.h,\jerry-core\config.h,\libnetdata\libnetdata.h,1610ce5e32380b97834532a2439ffb00,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,338,248,35
+config.h,clocks.h,\jerry-core\config.h,\libnetdata\clocks\clocks.h,1610ce5e32380b97834532a2439ffb00,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,338,66,10
+jerryscript-compiler.h,libnetdata.h,\jerry-core\include\jerryscript-compiler.h,\libnetdata\libnetdata.h,6dc57bc479adf16d2b42cadd27f2edd3,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,73,248,20
+jerryscript-compiler.h,clocks.h,\jerry-core\include\jerryscript-compiler.h,\libnetdata\clocks\clocks.h,6dc57bc479adf16d2b42cadd27f2edd3,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,73,66,9
+jcontext.h,libnetdata.h,\jerry-core\jcontext\jcontext.h,\libnetdata\libnetdata.h,4de6c82710d6de4c90b38b2414b9953a,b36073eea8dc836d3f37e426aebdabda,-9176367654679291684,-8023445049755510628,5,N,162,248,24
+lit-magic-strings.inc.h,libnetdata.h,\jerry-core\lit\lit-magic-strings.inc.h,\libnetdata\libnetdata.h,d156bf64086a4a370f1f54301148fe60,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,920,248,45
+lit-magic-strings.inc.h,clocks.h,\jerry-core\lit\lit-magic-strings.inc.h,\libnetdata\clocks\clocks.h,d156bf64086a4a370f1f54301148fe60,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,920,66,11
+ecma-builtin-helpers-macro-defines.inc.h,libnetdata.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\libnetdata\libnetdata.h,0dde8629af7a79ff0576269e0d239a88,b36073eea8dc836d3f37e426aebdabda,-8023445084115248996,-8023445049755510628,1,N,32,248,11
+ecma-builtin-helpers-macro-defines.inc.h,clocks.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\libnetdata\clocks\clocks.h,0dde8629af7a79ff0576269e0d239a88,817f185c065ee719f0a0f5d506401b1f,-8023445084115248996,-7879330084279756644,8,N,32,66,9
+js-parser-limits.h,libnetdata.h,\jerry-core\parser\js\js-parser-limits.h,\libnetdata\libnetdata.h,656369309984980286cea2eff0cb4741,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,51,248,17
+js-parser-limits.h,clocks.h,\jerry-core\parser\js\js-parser-limits.h,\libnetdata\clocks\clocks.h,656369309984980286cea2eff0cb4741,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,51,66,10
+js-parser.c,libnetdata.h,\jerry-core\parser\js\js-parser.c,\libnetdata\libnetdata.h,a37c1b49591f7b4e0cdbefd7e9e81be6,b36073eea8dc836d3f37e426aebdabda,-7879893920254732130,-8023445049755510628,8,N,2081,248,42

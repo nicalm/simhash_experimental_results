@@ -1,0 +1,8 @@
+506-ghidra,754-folly
+types.h,CPortability.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\folly\CPortability.h,cc1a30d590b235c7ea93b0e1d1549a93,2071cc58e111b1fb40fa47a9161f5356,-8023445206521817060,-8023445049756493156,7,N,280,137,42
+types.h,Portability.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\folly\Portability.h,cc1a30d590b235c7ea93b0e1d1549a93,4a7decd5a24ba7fccd761801e3ef4412,-8023445206521817060,-7447019619264177960,8,N,280,392,54
+types.h,Windows.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\folly\portability\Windows.h,cc1a30d590b235c7ea93b0e1d1549a93,8d255d6eb746df0dd20db480cd3643e5,-8023445206521817060,-8023516518011316068,6,N,280,48,13
+ansidecl.h,CPortability.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\folly\CPortability.h,4e4a2dda74fbf81b9297e96b5756c8ac,2071cc58e111b1fb40fa47a9161f5356,-8023444774877602148,-8023445049756493156,4,N,213,137,44
+ansidecl.h,Windows.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\folly\portability\Windows.h,4e4a2dda74fbf81b9297e96b5756c8ac,8d255d6eb746df0dd20db480cd3643e5,-8023444774877602148,-8023516518011316068,5,N,213,48,13
+ansidecl.h,EventFDWrapper.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\folly\io\async\EventFDWrapper.h,4e4a2dda74fbf81b9297e96b5756c8ac,442338be25f54c06750d74e9063379f7,-8023444774877602148,-8455834319570281315,7,N,213,32,7
+err.cpp,Varint.h,\Ghidra\Features\PDB\src\pdb\cpp\err.cpp,\folly\Varint.h,46841a859e8c35503858ce04519ad0e3,1aade617cb1d1aff80a613ab2633b963,5729127442933135574,4864436316619419862,8,N,48,140,14

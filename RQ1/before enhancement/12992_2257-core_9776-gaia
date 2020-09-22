@@ -1,0 +1,3 @@
+2257-core,9776-gaia
+appconfig.php,orientation.js,\core\ajax\appconfig.php,\dev_apps\uitest\js\API\orientation.js,031cdb064a8d37cd4b40af5d608c8543,7f674abe2d64a83f3c5f7fc6b2372c43,5152665582536538583,5729127442933135575,6,N,37,55,10
+MDB2SchemaReader.php,orientation.js,\lib\private\DB\MDB2SchemaReader.php,\dev_apps\uitest\js\API\orientation.js,d8397eafd4a2b3b1ab041811b2ffbaec,7f674abe2d64a83f3c5f7fc6b2372c43,5731379242747078871,5729127442933135575,3,N,238,55,18

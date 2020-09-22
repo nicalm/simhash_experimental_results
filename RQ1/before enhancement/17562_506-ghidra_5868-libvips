@@ -1,0 +1,7 @@
+506-ghidra,5868-libvips
+LookupSwitchHex.java,composite.cpp,\Ghidra\Processors\JVM\resources\LookupSwitchHex.java,\libvips\conversion\composite.cpp,377274e12df35eadec91bc71d4492bb1,1073a16ac3f3888e7e8384f333542daa,6882048947539982551,-3566301638204286473,8,N,75,1177,27
+types.h,vector.c,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\libvips\iofuncs\vector.c,cc1a30d590b235c7ea93b0e1d1549a93,055954f4e165b83818f7e8bd6db904ec,-8023445206521817060,-8023484632710850404,8,N,280,400,41
+ansidecl.h,vector.c,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\libvips\iofuncs\vector.c,4e4a2dda74fbf81b9297e96b5756c8ac,055954f4e165b83818f7e8bd6db904ec,-8023444774877602148,-8023484632710850404,7,N,213,400,42
+err.cpp,composite.cpp,\Ghidra\Features\PDB\src\pdb\cpp\err.cpp,\libvips\conversion\composite.cpp,46841a859e8c35503858ce04519ad0e3,1073a16ac3f3888e7e8384f333542daa,5729127442933135574,-3566301638204286473,8,N,48,1177,16
+MDDataTypeParser.java,composite.cpp,\Ghidra\Features\MicrosoftDmang\src\main\java\mdemangler\datatype\MDDataTypeParser.java,\libvips\conversion\composite.cpp,cb54f1dba1356f93c69309c5519443d4,1073a16ac3f3888e7e8384f333542daa,5729127442933135511,-3566301638204286473,8,N,276,1177,78
+BindProcessor.java,composite.cpp,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\macho\commands\dyld\BindProcessor.java,\libvips\conversion\composite.cpp,db0abbee03957eac97445c23a7bc38bf,1073a16ac3f3888e7e8384f333542daa,-1188403783731201833,-3566301638204286473,8,N,114,1177,44

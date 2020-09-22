@@ -1,0 +1,17 @@
+10093-VeraCrypt,2283-capnproto
+Crypto.c,miniposix.h,\src\Common\Crypto.c,\c++\src\kj\miniposix.h,1e1427462b47aea7ae13a51d2f0947dd,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,1129,84,25
+Volumes.c,miniposix.h,\src\Common\Volumes.c,\c++\src\kj\miniposix.h,7dc5ff72f7ab3c4bbae2f2e458b79ebb,43597d9a9103c02dbbe46d2c58ecc748,-8023445182883243620,-7455991496707810916,7,N,936,84,29
+Xts.h,miniposix.h,\src\Common\Xts.h,\c++\src\kj\miniposix.h,7efccf3e96a5d24bf41aeb7ee669e5d5,43597d9a9103c02dbbe46d2c58ecc748,-8023480234127603556,-7455991496707810916,7,N,52,84,14
+Aeskey.c,miniposix.h,\src\Crypto\Aeskey.c,\c++\src\kj\miniposix.h,84b40f62b34941f5b04dff335720b170,43597d9a9103c02dbbe46d2c58ecc748,-8032452249077229348,-7455991496707810916,7,N,450,84,25
+Aesopt.h,miniposix.h,\src\Crypto\Aesopt.h,\c++\src\kj\miniposix.h,85c023c597af6c62edf1bb0fcea2fe5f,43597d9a9103c02dbbe46d2c58ecc748,-8023163574912952164,-7455991496707810916,6,N,358,84,16
+Aestab.c,miniposix.h,\src\Crypto\Aestab.c,\c++\src\kj\miniposix.h,a17eddbd1cfb25d69b9676ccd565387d,43597d9a9103c02dbbe46d2c58ecc748,-8032452387019663204,-7455991496707810916,8,N,311,84,25
+Aestab.h,miniposix.h,\src\Crypto\Aestab.h,\c++\src\kj\miniposix.h,4bd0d19346b8e0f63d7982747b0ddc64,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755379556,-7455991496707810916,6,N,91,84,16
+cpu.c,miniposix.h,\src\Crypto\cpu.c,\c++\src\kj\miniposix.h,7595ab30c1832e076d5998e49eaa0fd0,43597d9a9103c02dbbe46d2c58ecc748,-8023444774936291172,-7455991496707810916,8,N,383,84,25
+Sha2.c,miniposix.h,\src\Crypto\Sha2.c,\c++\src\kj\miniposix.h,abec8a9045b04db3da616c68517ded60,43597d9a9103c02dbbe46d2c58ecc748,-7447056865219520356,-7455991496707810916,6,N,766,84,25
+t1ha_bits.h,miniposix.h,\src\Crypto\t1ha_bits.h,\c++\src\kj\miniposix.h,a9061049001ca055e74ab11006308af0,43597d9a9103c02dbbe46d2c58ecc748,-8023515418566797284,-7455991496707810916,8,N,720,84,26
+PlatformBase.h,miniposix.h,\src\Platform\PlatformBase.h,\c++\src\kj\miniposix.h,93049ff74890e2767f64d5ceafa51729,43597d9a9103c02dbbe46d2c58ecc748,-7446993093549172516,-7455991496707810916,8,N,106,84,18
+compat.h,miniposix.h,\src\Common\libzip\compat.h,\c++\src\kj\miniposix.h,844a93f8939f7c12efba4a11c1177f2d,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,143,84,21
+gzguts.h,miniposix.h,\src\Common\zlib\gzguts.h,\c++\src\kj\miniposix.h,d71e3535b6b87307b4104a15791be071,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,157,84,20
+zconf.h,miniposix.h,\src\Common\zlib\zconf.h,\c++\src\kj\miniposix.h,ccd97cbc26c511a318aa46f8e6df51a6,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,427,84,19
+zutil.c,miniposix.h,\src\Common\zlib\zutil.c,\c++\src\kj\miniposix.h,4a4179f332d9d5e26199eb2b75c7b632,43597d9a9103c02dbbe46d2c58ecc748,-8023445049754986340,-7455991496707810916,6,N,245,84,25
+zutil.h,miniposix.h,\src\Common\zlib\zutil.h,\c++\src\kj\miniposix.h,e7909d2ab25406cac90461dc9c664a01,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,196,84,16

@@ -1,0 +1,9 @@
+5868-libvips,790-libuv
+composite.cpp,handle-inl.h,\libvips\conversion\composite.cpp,\src\win\handle-inl.h,1073a16ac3f3888e7e8384f333542daa,34080acd31e6a3b5bf545c24c6e85c3f,-3566301638204286473,5729127442933135571,8,N,1177,110,19
+buffer.c,internal.h,\libvips\iofuncs\buffer.c,\src\unix\internal.h,7574cb2d8655be6f6b1d83b926fa5645,371ffd2ac622ba8f4ae44ae51c531f3d,-7744230673238075236,-8023445069074474788,8,N,447,209,24
+buffer.c,winapi.h,\libvips\iofuncs\buffer.c,\src\win\winapi.h,7574cb2d8655be6f6b1d83b926fa5645,4f2f56dcce5d652768e5e4cfcf6661be,-7744230673238075236,-8023445049755510628,8,N,447,3569,21
+init.c,winapi.h,\libvips\iofuncs\init.c,\src\win\winapi.h,e400d93356240e897bbc32ba27bdcd3b,4f2f56dcce5d652768e5e4cfcf6661be,-9176930621544019780,-8023445049755510628,8,N,636,3569,33
+vector.c,test-list.h,\libvips\iofuncs\vector.c,\test\test-list.h,055954f4e165b83818f7e8bd6db904ec,34c37e38fd3367fbe3d6e9280bf86a06,-8023484632710850404,-7374645228437448676,8,N,400,951,40
+vector.c,getaddrinfo.c,\libvips\iofuncs\vector.c,\src\unix\getaddrinfo.c,055954f4e165b83818f7e8bd6db904ec,e8e49cecf77e5d3f516ab013154bbd9c,-8023484632710850404,-8023444777025087336,7,N,400,188,36
+vector.c,internal.h,\libvips\iofuncs\vector.c,\src\unix\internal.h,055954f4e165b83818f7e8bd6db904ec,371ffd2ac622ba8f4ae44ae51c531f3d,-8023484632710850404,-8023445069074474788,8,N,400,209,26
+vector.c,winapi.h,\libvips\iofuncs\vector.c,\src\win\winapi.h,055954f4e165b83818f7e8bd6db904ec,4f2f56dcce5d652768e5e4cfcf6661be,-8023484632710850404,-8023445049755510628,4,N,400,3569,37

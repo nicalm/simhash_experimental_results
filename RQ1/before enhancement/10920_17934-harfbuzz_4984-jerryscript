@@ -1,0 +1,11 @@
+17934-harfbuzz,4984-jerryscript
+hb-fc-list.c,config.h,\util\hb-fc-list.c,\jerry-core\config.h,c27d8fd53993dc1d7a624ea1ec1d10a6,1610ce5e32380b97834532a2439ffb00,1199786163039426780,-8023445049755510628,8,N,178,338,11
+hb-fc-list.c,jerryscript-compiler.h,\util\hb-fc-list.c,\jerry-core\include\jerryscript-compiler.h,c27d8fd53993dc1d7a624ea1ec1d10a6,6dc57bc479adf16d2b42cadd27f2edd3,1199786163039426780,-8023445049755510628,8,N,178,73,12
+hb-fc-list.c,lit-magic-strings.inc.h,\util\hb-fc-list.c,\jerry-core\lit\lit-magic-strings.inc.h,c27d8fd53993dc1d7a624ea1ec1d10a6,d156bf64086a4a370f1f54301148fe60,1199786163039426780,-8023445049755510628,8,N,178,920,16
+hb-fc-list.c,js-parser-limits.h,\util\hb-fc-list.c,\jerry-core\parser\js\js-parser-limits.h,c27d8fd53993dc1d7a624ea1ec1d10a6,656369309984980286cea2eff0cb4741,1199786163039426780,-8023445049755510628,8,N,178,51,11
+test-c.c,config.h,\test\api\test-c.c,\jerry-core\config.h,40a532b71e6242f205df120cc480a67e,1610ce5e32380b97834532a2439ffb00,-8023445049757468516,-8023445049755510628,3,N,26,338,6
+test-c.c,jerryscript-compiler.h,\test\api\test-c.c,\jerry-core\include\jerryscript-compiler.h,40a532b71e6242f205df120cc480a67e,6dc57bc479adf16d2b42cadd27f2edd3,-8023445049757468516,-8023445049755510628,3,N,26,73,8
+test-c.c,jcontext.h,\test\api\test-c.c,\jerry-core\jcontext\jcontext.h,40a532b71e6242f205df120cc480a67e,4de6c82710d6de4c90b38b2414b9953a,-8023445049757468516,-9176367654679291684,8,N,26,162,7
+test-c.c,lit-magic-strings.inc.h,\test\api\test-c.c,\jerry-core\lit\lit-magic-strings.inc.h,40a532b71e6242f205df120cc480a67e,d156bf64086a4a370f1f54301148fe60,-8023445049757468516,-8023445049755510628,3,N,26,920,6
+test-c.c,ecma-builtin-helpers-macro-defines.inc.h,\test\api\test-c.c,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,40a532b71e6242f205df120cc480a67e,0dde8629af7a79ff0576269e0d239a88,-8023445049757468516,-8023445084115248996,4,N,26,32,6
+test-c.c,js-parser-limits.h,\test\api\test-c.c,\jerry-core\parser\js\js-parser-limits.h,40a532b71e6242f205df120cc480a67e,656369309984980286cea2eff0cb4741,-8023445049757468516,-8023445049755510628,3,N,26,51,6

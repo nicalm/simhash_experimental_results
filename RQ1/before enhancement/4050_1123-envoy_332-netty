@@ -1,0 +1,3 @@
+1123-envoy,332-netty
+header_map_impl_fuzz_test.cc,SocksCmdRequest.java,\test\common\http\header_map_impl_fuzz_test.cc,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,2cd640c272d9bb6db5693ff62858ef92,cd6c11dc97231f03956166b9ce5143be,5729127442933135575,5693098603517689047,8,N,173,83,23
+header_map_impl_fuzz_test.cc,XmlDecoder.java,\test\common\http\header_map_impl_fuzz_test.cc,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,2cd640c272d9bb6db5693ff62858ef92,19ac8fd899723cb5b1efea0f9d7dc639,5729127442933135575,5729694790866091155,7,N,173,87,19

@@ -1,0 +1,7 @@
+2389-Pillow,790-libuv
+ImPlatform.h,test-list.h,\src\libImaging\ImPlatform.h,\test\test-list.h,6670b4584189b95bdcaaa198dabbf5c8,34c37e38fd3367fbe3d6e9280bf86a06,-8024570949662353252,-7374645228437448676,5,N,58,951,15
+ImPlatform.h,test-uname.c,\src\libImaging\ImPlatform.h,\test\test-uname.c,6670b4584189b95bdcaaa198dabbf5c8,e4168fcb68ae66e9d30927d67519b6fb,-8024570949662353252,-7455991513878439779,8,N,58,37,8
+ImPlatform.h,getaddrinfo.c,\src\libImaging\ImPlatform.h,\src\unix\getaddrinfo.c,6670b4584189b95bdcaaa198dabbf5c8,e8e49cecf77e5d3f516ab013154bbd9c,-8024570949662353252,-8023444777025087336,4,N,58,188,12
+ImPlatform.h,internal.h,\src\libImaging\ImPlatform.h,\src\unix\internal.h,6670b4584189b95bdcaaa198dabbf5c8,371ffd2ac622ba8f4ae44ae51c531f3d,-8024570949662353252,-8023445069074474788,5,N,58,209,15
+ImPlatform.h,linux-syscalls.c,\src\libImaging\ImPlatform.h,\src\unix\linux-syscalls.c,6670b4584189b95bdcaaa198dabbf5c8,e03aa3ff0bab5e21466ddb93bc58c23e,-8024570949662353252,-8023444499991568996,6,N,58,292,15
+ImPlatform.h,winapi.h,\src\libImaging\ImPlatform.h,\src\win\winapi.h,6670b4584189b95bdcaaa198dabbf5c8,4f2f56dcce5d652768e5e4cfcf6661be,-8024570949662353252,-8023445049755510628,1,N,58,3569,11

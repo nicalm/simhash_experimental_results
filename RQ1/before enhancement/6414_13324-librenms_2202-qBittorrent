@@ -1,0 +1,6 @@
+13324-librenms,2202-qBittorrent
+rewrites.php,session.cpp,\includes\rewrites.php,\src\base\bittorrent\session.cpp,5389d55c6eafa211ede2994f342bca9b,ca3fc73b6732798b8724618e8c3fec27,5729127442933135575,6881978578661030105,8,N,1602,3742,169
+rewrites.php,proplistdelegate.cpp,\includes\rewrites.php,\src\gui\properties\proplistdelegate.cpp,5389d55c6eafa211ede2994f342bca9b,4de60f6b36141f92c2bc5ba3d77471db,5729127442933135575,-3494526068898088747,4,N,1602,172,49
+libvirt-vminfo.inc.php,proplistdelegate.cpp,\includes\discovery\libvirt-vminfo.inc.php,\src\gui\properties\proplistdelegate.cpp,bb4b3773cf786ace10a58f9ec481435e,4de60f6b36141f92c2bc5ba3d77471db,5730182974087411863,-3494526068898088747,8,N,112,172,28
+ports.csv.inc.php,proplistdelegate.cpp,\includes\html\reports\ports.csv.inc.php,\src\gui\properties\proplistdelegate.cpp,363f50b93f6f3f7b86ed810c407bde48,4de60f6b36141f92c2bc5ba3d77471db,5729127512726350071,-3494526068898088747,8,N,140,172,32
+viptela.inc.php,proplistdelegate.cpp,\includes\polling\os\viptela.inc.php,\src\gui\properties\proplistdelegate.cpp,c64de710870736d919a9de98ce834a46,4de60f6b36141f92c2bc5ba3d77471db,5729127442928941271,-3494526068898088747,5,N,48,172,17

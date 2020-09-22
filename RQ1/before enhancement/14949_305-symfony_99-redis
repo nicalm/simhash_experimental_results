@@ -1,0 +1,2 @@
+305-symfony,99-redis
+CheckTypeDeclarationsPass.php,t_string.c,\src\Symfony\Component\DependencyInjection\Compiler\CheckTypeDeclarationsPass.php,\src\t_string.c,7e16454f202d40466277e58f455ab962,bf186870a89faab55fc90eb560ef739c,3841579589309827441,3841861083479672880,7,N,160,343,60

@@ -1,0 +1,8 @@
+14021-lxml,4984-jerryscript
+etree_defs.h,config.h,\src\lxml\includes\etree_defs.h,\jerry-core\config.h,77e60df86f933a8497d9a006ac09a2c9,1610ce5e32380b97834532a2439ffb00,-8023482433217963876,-8023445049755510628,3,N,319,338,36
+etree_defs.h,jerryscript-compiler.h,\src\lxml\includes\etree_defs.h,\jerry-core\include\jerryscript-compiler.h,77e60df86f933a8497d9a006ac09a2c9,6dc57bc479adf16d2b42cadd27f2edd3,-8023482433217963876,-8023445049755510628,3,N,319,73,21
+etree_defs.h,jcontext.h,\src\lxml\includes\etree_defs.h,\jerry-core\jcontext\jcontext.h,77e60df86f933a8497d9a006ac09a2c9,4de6c82710d6de4c90b38b2414b9953a,-8023482433217963876,-9176367654679291684,8,N,319,162,24
+etree_defs.h,lit-magic-strings.inc.h,\src\lxml\includes\etree_defs.h,\jerry-core\lit\lit-magic-strings.inc.h,77e60df86f933a8497d9a006ac09a2c9,d156bf64086a4a370f1f54301148fe60,-8023482433217963876,-8023445049755510628,3,N,319,920,48
+etree_defs.h,ecma-builtin-helpers-macro-defines.inc.h,\src\lxml\includes\etree_defs.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,77e60df86f933a8497d9a006ac09a2c9,0dde8629af7a79ff0576269e0d239a88,-8023482433217963876,-8023445084115248996,4,N,319,32,11
+etree_defs.h,js-parser-internal.h,\src\lxml\includes\etree_defs.h,\jerry-core\parser\js\js-parser-internal.h,77e60df86f933a8497d9a006ac09a2c9,55d246cca460bd7fe2ffb36f9f541d62,-8023482433217963876,-8023588037856527716,8,N,319,456,23
+etree_defs.h,js-parser-limits.h,\src\lxml\includes\etree_defs.h,\jerry-core\parser\js\js-parser-limits.h,77e60df86f933a8497d9a006ac09a2c9,656369309984980286cea2eff0cb4741,-8023482433217963876,-8023445049755510628,3,N,319,51,17

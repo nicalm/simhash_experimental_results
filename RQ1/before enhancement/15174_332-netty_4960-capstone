@@ -1,0 +1,6 @@
+332-netty,4960-capstone
+AbstractNotificationHandler.java,MipsInstPrinter.c,\transport-sctp\src\main\java\com\sun\nio\sctp\AbstractNotificationHandler.java,\arch\Mips\MipsInstPrinter.c,31e8c4f31ff424e9772104e4cf757fd9,41e37727d8504a62ac50f9fc05190116,-4294591263518712148,-4294311167218116882,8,N,22,332,7
+SocksCmdRequest.java,cstool_arm64.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\cstool\cstool_arm64.c,cd6c11dc97231f03956166b9ce5143be,846ffa7b48a0f0b4b91af38d55f637ad,5693098603517689047,5729127445080684759,8,N,83,117,16
+SocksCmdRequest.java,cstool_tms320c64x.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\cstool\cstool_tms320c64x.c,cd6c11dc97231f03956166b9ce5143be,1d77daddd0cded4d6bfcffa04374ca73,5693098603517689047,5693098637861337175,8,N,83,93,14
+SocksCmdRequest.java,ocaml.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\bindings\ocaml\ocaml.c,cd6c11dc97231f03956166b9ce5143be,4ff3aa66dfcf3a89c8d9c731dacee422,5693098603517689047,5729127442933135575,8,N,83,960,23
+XmlDecoder.java,ocaml.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\bindings\ocaml\ocaml.c,19ac8fd899723cb5b1efea0f9d7dc639,4ff3aa66dfcf3a89c8d9c731dacee422,5729694790866091155,5729127442933135575,7,N,87,960,19

@@ -1,0 +1,4 @@
+12688-ffi,2283-capnproto
+compat.h,miniposix.h,\ext\ffi_c\compat.h,\c++\src\kj\miniposix.h,89860486007fe9b6739772aa0b042837,43597d9a9103c02dbbe46d2c58ecc748,-8023447251463120740,-7455991496707810916,8,N,38,84,12
+DynamicLibrary.h,miniposix.h,\ext\ffi_c\DynamicLibrary.h,\c++\src\kj\miniposix.h,85bcc5d631466c02273f9899152b054b,43597d9a9103c02dbbe46d2c58ecc748,-5753630837560780644,-7455991496707810916,7,N,49,84,13
+rbffi_endian.h,miniposix.h,\ext\ffi_c\rbffi_endian.h,\c++\src\kj\miniposix.h,f869d8d0ddc657c2a3138058f91acb6c,43597d9a9103c02dbbe46d2c58ecc748,-8023445049822619428,-7455991496707810916,7,N,50,84,15

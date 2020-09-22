@@ -1,0 +1,6 @@
+13470-tigervnc,140-neovim
+SSLEngineManager.java,regexp.c,\java\com\tigervnc\network\SSLEngineManager.java,\src\nvim\regexp.c,39e909ecd9ccf04cb9bad885f45ab7de,91efd6b452b6520ac03ac6fc760beb82,3423284433716820183,5747071472698439895,6,N,127,5532,29
+SSLEngineManager.java,regexp_nfa.c,\java\com\tigervnc\network\SSLEngineManager.java,\src\nvim\regexp_nfa.c,39e909ecd9ccf04cb9bad885f45ab7de,60f0050c891f0a1452121882a2c3026d,3423284433716820183,5729127442949388502,5,N,127,5234,31
+xvnc.c,func_attr.h,\unix\xserver\hw\vnc\xvnc.c,\src\nvim\func_attr.h,64de174f413a46b56c689e3d2f0ca711,09c1a1629d6fa1c24e2cb5acdc7bfde8,-7955908787655354212,-8023445049755510628,8,N,1442,159,36
+xvnc.c,math.c,\unix\xserver\hw\vnc\xvnc.c,\src\nvim\math.c,64de174f413a46b56c689e3d2f0ca711,75df7c69ecc2b1ec74564c3c1f542f23,-7955908787655354212,1202161192041503380,8,N,1442,32,13
+xvnc.c,win_defs.h,\unix\xserver\hw\vnc\xvnc.c,\src\nvim\os\win_defs.h,64de174f413a46b56c689e3d2f0ca711,559a6dc04630310a39a09d004fb6797d,-7955908787655354212,-8023445049755510628,8,N,1442,84,27

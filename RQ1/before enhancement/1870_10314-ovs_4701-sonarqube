@@ -1,0 +1,2 @@
+10314-ovs,4701-sonarqube
+odp-execute.c,DepthTraversalTypeAwareCrawler.java,\lib\odp-execute.c,\server\sonar-ce-task-projectanalysis\src\main\java\org\sonar\ce\task\projectanalysis\component\DepthTraversalTypeAwareCrawler.java,83542f791911fea52119ed8e83daa783,f813ea6f3b86a76578848cdb14c1c154,5729109850746038487,5382262310711109844,8,N,799,64,22

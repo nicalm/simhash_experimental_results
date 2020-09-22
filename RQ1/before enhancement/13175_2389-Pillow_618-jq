@@ -1,0 +1,5 @@
+2389-Pillow,618-jq
+FliDecode.c,parser.c,\src\libImaging\FliDecode.c,\src\parser.c,93128dc18746c911ae74ad9f56192e4b,a9e23cec6f740c2c216ed7e38fa76eaa,5153458476439616215,5729127442933135575,8,N,160,3339,52
+ImPlatform.h,jv_dtoa.c,\src\libImaging\ImPlatform.h,\src\jv_dtoa.c,6670b4584189b95bdcaaa198dabbf5c8,e22c5b05bfd24415a3e8d8da3f8791ac,-8024570949662353252,-8023445049755510756,2,N,58,3652,15
+ImPlatform.h,lexer.h,\src\libImaging\ImPlatform.h,\src\lexer.h,6670b4584189b95bdcaaa198dabbf5c8,da2a1a7176c85a8ba5c6ad487a6476ec,-8024570949662353252,-8023445049755510628,1,N,58,554,15
+ImPlatform.h,libm.h,\src\libImaging\ImPlatform.h,\src\libm.h,6670b4584189b95bdcaaa198dabbf5c8,2cd1e495bcbe77e741569181c2fbb01b,-8024570949662353252,-8032452266248775464,8,N,58,291,15

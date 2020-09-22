@@ -1,0 +1,11 @@
+6347-librealsense,981-numpy
+glext.h,npy_common.h,\third-party\glad\glext.h,\numpy\core\include\numpy\npy_common.h,b47c3053eb61af62c08dd7e6f45631ce,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,12110,951,94
+easylogging++.h,npy_common.h,\third-party\easyloggingpp\src\easylogging++.h,\numpy\core\include\numpy\npy_common.h,a5e6b54e91368f83f029eaf8a7a4ca68,a173a9479ba36f92005f6b19e1c98ca6,-8023445049756558632,-8023445066935379812,5,N,3696,951,120
+tinycthread.h,npy_common.h,\third-party\glfw\deps\tinycthread.h,\numpy\core\include\numpy\npy_common.h,d64af4e68966d2e35effa48ebd7b3c79,a173a9479ba36f92005f6b19e1c98ca6,-8023444774877636452,-8023445066935379812,3,N,138,951,29
+win32_platform.h,npy_common.h,\third-party\glfw\src\win32_platform.h,\numpy\core\include\numpy\npy_common.h,2445649aade285164b3f3df9cb6b0b9c,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,324,951,35
+_mingw_dxhelper.h,npy_common.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,\numpy\core\include\numpy\npy_common.h,5423da3108dd32be383352d8d6c55edb,a173a9479ba36f92005f6b19e1c98ca6,-9185092003762480996,-8023445066935379812,5,N,102,951,28
+stdint.h,npy_common.h,\third-party\glfw\deps\vs2008\stdint.h,\numpy\core\include\numpy\npy_common.h,0a9faad66f590c9572581753d453013e,a173a9479ba36f92005f6b19e1c98ca6,-8018800163019237220,-8023445066935379812,7,N,152,951,24
+vulkan.h,npy_common.h,\third-party\glfw\deps\vulkan\vulkan.h,\numpy\core\include\numpy\npy_common.h,368be8e566768753806bdc8cc0052fc3,a173a9479ba36f92005f6b19e1c98ca6,1163898190080301212,-8023445066935379812,3,N,38,951,10
+glfw3native.h,npy_common.h,\third-party\glfw\include\GLFW\glfw3native.h,\numpy\core\include\numpy\npy_common.h,c5d9fae34608972236a415167b8ed590,a173a9479ba36f92005f6b19e1c98ca6,-8023445051902996324,-8023445066935379812,3,N,83,951,21
+platform.h,npy_common.h,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,\numpy\core\include\numpy\npy_common.h,4f1f8bbdad0dc57a2bc7530ddc22297a,a173a9479ba36f92005f6b19e1c98ca6,-7879409026516887396,-8023445066935379812,5,N,37,951,10
+common.h,npy_common.h,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,\numpy\core\include\numpy\npy_common.h,d84cc186f69e21aac7eb4e2d5d1d3cc4,a173a9479ba36f92005f6b19e1c98ca6,-8024605586426111268,-8023445066935379812,7,N,501,951,50

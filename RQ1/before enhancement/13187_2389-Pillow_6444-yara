@@ -1,0 +1,8 @@
+2389-Pillow,6444-yara
+FliDecode.c,pe_utils.c,\src\libImaging\FliDecode.c,\libyara\modules\pe\pe_utils.c,93128dc18746c911ae74ad9f56192e4b,85b3b0e9639ebe8f194fd360aa44aa10,5153458476439616215,5729127442933135575,8,N,160,1795,48
+ImPlatform.h,hex_grammar.c,\src\libImaging\ImPlatform.h,\libyara\hex_grammar.c,6670b4584189b95bdcaaa198dabbf5c8,29c757a687084bfae5a2dc6bb31b05e5,-8024570949662353252,-9185373754145580836,6,N,58,1251,16
+ImPlatform.h,hex_grammar.h,\src\libImaging\ImPlatform.h,\libyara\hex_grammar.h,6670b4584189b95bdcaaa198dabbf5c8,04125316d53f72e519fcbfea7d139d22,-8024570949662353252,-7168891418501121892,7,N,58,34,5
+ImPlatform.h,endian.h,\src\libImaging\ImPlatform.h,\libyara\include\yara\endian.h,6670b4584189b95bdcaaa198dabbf5c8,f44500c257dc9e47f34b1473280aea77,-8024570949662353252,-8023445049755510628,1,N,58,55,12
+ImPlatform.h,integers.h,\src\libImaging\ImPlatform.h,\libyara\include\yara\integers.h,6670b4584189b95bdcaaa198dabbf5c8,f8e220916ba72c943da73bf32049b841,-8024570949662353252,-8023445049755510628,1,N,58,57,12
+ImPlatform.h,limits.h,\src\libImaging\ImPlatform.h,\libyara\include\yara\limits.h,6670b4584189b95bdcaaa198dabbf5c8,1b76e5cbfb6a87b1b52e9aef743d23ec,-8024570949662353252,-8023445049755510628,1,N,58,77,11
+ImPlatform.h,strutils.h,\src\libImaging\ImPlatform.h,\libyara\include\yara\strutils.h,6670b4584189b95bdcaaa198dabbf5c8,62646260db13811e153f2c59cbdfb33a,-8024570949662353252,-8023518717034571368,6,N,58,59,12

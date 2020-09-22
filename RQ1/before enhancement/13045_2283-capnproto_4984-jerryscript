@@ -1,0 +1,6 @@
+2283-capnproto,4984-jerryscript
+miniposix.h,config.h,\c++\src\kj\miniposix.h,\jerry-core\config.h,43597d9a9103c02dbbe46d2c58ecc748,1610ce5e32380b97834532a2439ffb00,-7455991496707810916,-8023445049755510628,5,N,84,338,13
+miniposix.h,jerryscript-compiler.h,\c++\src\kj\miniposix.h,\jerry-core\include\jerryscript-compiler.h,43597d9a9103c02dbbe46d2c58ecc748,6dc57bc479adf16d2b42cadd27f2edd3,-7455991496707810916,-8023445049755510628,5,N,84,73,13
+miniposix.h,lit-magic-strings.inc.h,\c++\src\kj\miniposix.h,\jerry-core\lit\lit-magic-strings.inc.h,43597d9a9103c02dbbe46d2c58ecc748,d156bf64086a4a370f1f54301148fe60,-7455991496707810916,-8023445049755510628,5,N,84,920,16
+miniposix.h,ecma-builtin-helpers-macro-defines.inc.h,\c++\src\kj\miniposix.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,43597d9a9103c02dbbe46d2c58ecc748,0dde8629af7a79ff0576269e0d239a88,-7455991496707810916,-8023445084115248996,6,N,84,32,11
+miniposix.h,js-parser-limits.h,\c++\src\kj\miniposix.h,\jerry-core\parser\js\js-parser-limits.h,43597d9a9103c02dbbe46d2c58ecc748,656369309984980286cea2eff0cb4741,-7455991496707810916,-8023445049755510628,5,N,84,51,13

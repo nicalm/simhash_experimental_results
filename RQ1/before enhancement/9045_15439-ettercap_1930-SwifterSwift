@@ -1,0 +1,7 @@
+15439-ettercap,1930-SwifterSwift
+ec_os_mingw.h,CGColorExtensions.swift,\include\ec_os_mingw.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,a35507e5684e934f2f3961ea9d733813,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,184,21,5
+ec_os_mingw.h,NSAttributedStringExtensions.swift,\include\ec_os_mingw.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,a35507e5684e934f2f3961ea9d733813,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,184,87,11
+ec_os_mingw.h,StringExtensions.swift,\include\ec_os_mingw.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,a35507e5684e934f2f3961ea9d733813,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,184,650,28
+ec_stdint.h,CGColorExtensions.swift,\include\ec_stdint.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,6aec3e3181000888a59234edbdd91364,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,70,21,5
+ec_stdint.h,NSAttributedStringExtensions.swift,\include\ec_stdint.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,6aec3e3181000888a59234edbdd91364,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,70,87,11
+ec_stdint.h,StringExtensions.swift,\include\ec_stdint.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,6aec3e3181000888a59234edbdd91364,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,70,650,17

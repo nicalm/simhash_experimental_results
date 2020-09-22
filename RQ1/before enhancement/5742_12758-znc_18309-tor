@@ -1,0 +1,6 @@
+12758-znc,18309-tor
+version.h,compat_compiler.h,\include\znc\version.h,\src\lib\cc\compat_compiler.h,d05809c29f032c998a444139c4f0d9ce,4fda4875c0f6db2fda2057a47aa6fc8f,-8023445187195380516,-8023445050293299044,4,N,43,128,13
+version.h,torint.h,\include\znc\version.h,\src\lib\cc\torint.h,d05809c29f032c998a444139c4f0d9ce,f9bd1774a6cabce5324bfd6779020def,-8023445187195380516,-8023198759150888804,7,N,43,101,13
+version.h,files.h,\include\znc\version.h,\src\lib\fs\files.h,d05809c29f032c998a444139c4f0d9ce,9902cb2ff95e1c0ddbbb1305db85279c,-8023445187195380516,-7735241062016951204,7,N,43,88,10
+version.h,inaddr_st.h,\include\znc\version.h,\src\lib\net\inaddr_st.h,d05809c29f032c998a444139c4f0d9ce,62efbf41d2e5c9c5c910850b9ac27f2c,-8023445187195380516,-8023445049755509604,4,N,43,69,10
+version.h,ed25519-donna-portable-identify.h,\include\znc\version.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,d05809c29f032c998a444139c4f0d9ce,36a4efc8ce95d16532d64be30ece0f36,-8023445187195380516,-8023445066935379812,6,N,43,87,12

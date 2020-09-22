@@ -1,0 +1,10 @@
+3405-libevent,7408-DeepVideoAnalytics
+event.h,bbox.c,\include\event.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,74155744f6c5bd2476d644b3e62572b7,b42f28bb593ba51126ab3c36f2280e44,-8005430651917121316,-7735003018152322916,8,N,39,5912,11
+event.h,cython_nms.c,\include\event.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,74155744f6c5bd2476d644b3e62572b7,340c61e73ba74d7820ff458fae32d716,-8005430651917121316,-7735003018152322916,8,N,39,6623,11
+event.h,gpu_nms.c,\include\event.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,74155744f6c5bd2476d644b3e62572b7,c5f744cc55310f8443ffae08bc289c17,-8005430651917121316,-7735003018152322916,8,N,39,5655,11
+http-server.c,bbox.c,\sample\http-server.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,fa428fd17afc5f667039f0c4a610bee6,b42f28bb593ba51126ab3c36f2280e44,-3420695858081572708,-7735003018152322916,8,N,481,5912,96
+http-server.c,cython_nms.c,\sample\http-server.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,fa428fd17afc5f667039f0c4a610bee6,340c61e73ba74d7820ff458fae32d716,-3420695858081572708,-7735003018152322916,8,N,481,6623,98
+http-server.c,gpu_nms.c,\sample\http-server.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,fa428fd17afc5f667039f0c4a610bee6,c5f744cc55310f8443ffae08bc289c17,-3420695858081572708,-7735003018152322916,8,N,481,5655,98
+keyvalq_struct.h,bbox.c,\include\event2\keyvalq_struct.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,6cfad2c2ff1e3aee7e4d7e3ad4535d29,b42f28bb593ba51126ab3c36f2280e44,-8024086342059894627,-7735003018152322916,8,N,37,5912,13
+keyvalq_struct.h,cython_nms.c,\include\event2\keyvalq_struct.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,6cfad2c2ff1e3aee7e4d7e3ad4535d29,340c61e73ba74d7820ff458fae32d716,-8024086342059894627,-7735003018152322916,8,N,37,6623,13
+keyvalq_struct.h,gpu_nms.c,\include\event2\keyvalq_struct.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,6cfad2c2ff1e3aee7e4d7e3ad4535d29,c5f744cc55310f8443ffae08bc289c17,-8024086342059894627,-7735003018152322916,8,N,37,5655,13

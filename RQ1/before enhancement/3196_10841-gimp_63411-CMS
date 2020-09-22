@@ -1,0 +1,9 @@
+10841-gimp,63411-CMS
+language.c,JSMinPlus.php,\app\language.c,\iu-resources\min\lib\JSMinPlus.php,4139ff31319ee41dc528275c17de6aaa,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,699,1637,88
+gimpcoreconfig.c,JSMinPlus.php,\app\config\gimpcoreconfig.c,\iu-resources\min\lib\JSMinPlus.php,60331a7dddac7aef0155c034ea225f13,ada381ab05cfa7307d75a5e154803be9,5729127442933135559,5735588175405398231,8,N,1172,1637,113
+gimpdialogconfig.c,JSMinPlus.php,\app\config\gimpdialogconfig.c,\iu-resources\min\lib\JSMinPlus.php,3820fc02cf2195589ecaca19c1f1acba,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,821,1637,105
+gimpguiconfig.c,JSMinPlus.php,\app\config\gimpguiconfig.c,\iu-resources\min\lib\JSMinPlus.php,6a23ead81b5910e070d38e5744096c1e,ada381ab05cfa7307d75a5e154803be9,5729131840845429975,5735588175405398231,8,N,769,1637,98
+gimptemplate.c,JSMinPlus.php,\app\core\gimptemplate.c,\iu-resources\min\lib\JSMinPlus.php,78cfc307052d26e89f47100223743474,ada381ab05cfa7307d75a5e154803be9,5731379313647298775,5735588175405398231,7,N,462,1637,80
+gimpdisplayshell-title.c,JSMinPlus.php,\app\display\gimpdisplayshell-title.c,\iu-resources\min\lib\JSMinPlus.php,c3eb1838970cef0deeb23eaf230888b6,ada381ab05cfa7307d75a5e154803be9,5738134642187876567,5735588175405398231,8,N,408,1637,114
+gimptext.c,JSMinPlus.php,\app\text\gimptext.c,\iu-resources\min\lib\JSMinPlus.php,2b5b36f9ac5fbe5f251e6f0d30c55e13,ada381ab05cfa7307d75a5e154803be9,7458228227005790423,5735588175405398231,8,N,497,1637,86
+script-fu-script.c,JSMinPlus.php,\plug-ins\script-fu\script-fu-script.c,\iu-resources\min\lib\JSMinPlus.php,c772b356e509f21e3b3221a39bd93d79,ada381ab05cfa7307d75a5e154803be9,5731660717722482775,5735588175405398231,8,N,783,1637,171

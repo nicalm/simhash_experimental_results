@@ -1,0 +1,3 @@
+13956-dolibarr,16203-bdwgc
+class.soap_server.php,cordbscs.c,\htdocs\includes\nusoap\lib\class.soap_server.php,\cord\cordbscs.c,74ab1fe2489dd8dbb1788501ee32d4c5,ee3854e8f728c33cc11e419595722c0a,2305191817129870014,2305745962400597790,8,N,707,723,133
+nusoap.php,cordbscs.c,\htdocs\includes\nusoap\lib\nusoap.php,\cord\cordbscs.c,a5b56b42e353f4503ff948a3ca1278cc,ee3854e8f728c33cc11e419595722c0a,2305183021036847806,2305745962400597790,7,N,5368,723,146

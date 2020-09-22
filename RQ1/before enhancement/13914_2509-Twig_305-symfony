@@ -1,0 +1,4 @@
+2509-Twig,305-symfony
+Compiler.php,Definition.php,\src\Compiler.php,\src\Symfony\Component\DependencyInjection\Definition.php,9928bd32c7eccbf95e870962e7470089,83a7387a8b7e08f70ffa993e159b9f69,6153784339901340944,6143651378194505104,8,N,129,397,50
+Compiler.php,HttpOptions.php,\src\Compiler.php,\src\Symfony\Component\HttpClient\HttpOptions.php,9928bd32c7eccbf95e870962e7470089,d2195a174dcbb719c6aebb5bac1fabb9,6153784339901340944,6143651378194505104,8,N,129,154,49
+AbstractExtension.php,AbstractExtension.php,\src\Extension\AbstractExtension.php,\src\Symfony\Component\CssSelector\XPath\Extension\AbstractExtension.php,82ba52c6a8c06af62466fe598361adfe,834bb8ed25894d98399f12e3b14261ce,459263435931121970,527960926729533746,6,N,30,25,19

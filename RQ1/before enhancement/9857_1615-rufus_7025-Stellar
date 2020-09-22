@@ -1,0 +1,6 @@
+1615-rufus,7025-Stellar
+platform.h,Stellar-Swift.h,\src\bled\platform.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4803e652bfbf4addc3c84e9e9999b1da,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,498,231,40
+xz_private.h,Stellar-Swift.h,\src\bled\xz_private.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,db6ba9d9b9fa82c4cf6044eeacf20401,fafe37ab4771e0a9586e17224fcc7041,-8023515418482911076,-7743940123003924324,7,N,89,231,23
+ext2_types.h,Stellar-Swift.h,\src\ext2fs\ext2_types.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,aa5bcf70705ef8ee9519acce6afc4f5c,fafe37ab4771e0a9586e17224fcc7041,-8023462641941489508,-7743940123003924324,7,N,67,231,15
+filemode.h,Stellar-Swift.h,\src\libcdio\driver\filemode.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,06b5d0649b21446c0f1f114dfa58b605,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,105,231,34
+portable.h,Stellar-Swift.h,\src\libcdio\driver\portable.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,709f07965666c155709172c5f0830375,fafe37ab4771e0a9586e17224fcc7041,-8023449447802021732,-7743940123003924324,6,N,26,231,9

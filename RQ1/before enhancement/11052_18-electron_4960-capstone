@@ -1,0 +1,11 @@
+18-electron,4960-capstone
+atom_browser_main_parts.cc,cs.c,\shell\browser\atom_browser_main_parts.cc,\cs.c,4312360427f5f392ec4f692be2a7319a,28b740cedafbc72ff6d105bcf67b66ec,-8023445187194455912,-8024007991656916772,8,N,375,1274,77
+atom_browser_main_parts.cc,test_basic.c,\shell\browser\atom_browser_main_parts.cc,\tests\test_basic.c,4312360427f5f392ec4f692be2a7319a,a31ca8d3bb8a75874920d317a6ad1579,-8023445187194455912,-8018942549639704420,7,N,375,357,35
+atom_browser_main_parts.cc,test_detail.c,\shell\browser\atom_browser_main_parts.cc,\tests\test_detail.c,4312360427f5f392ec4f692be2a7319a,3d78601cdc003b4b4483b95018434b0a,-8023445187194455912,-7442486195382783844,8,N,375,333,37
+atom_browser_main_parts.cc,test_iter.c,\shell\browser\atom_browser_main_parts.cc,\tests\test_iter.c,4312360427f5f392ec4f692be2a7319a,25690cf4ebb5bd2f561bd05964d131ee,-8023445187194455912,-8023446149267066732,6,N,375,274,34
+atom_paths.h,test_basic.c,\shell\browser\atom_paths.h,\tests\test_basic.c,f62403bf230108c707f5e1273fdb321d,a31ca8d3bb8a75874920d317a6ad1579,-8023471436960835427,-8018942549639704420,8,N,33,357,8
+linux_syscall_support.h,cs.c,\vendor\third_party\lss\linux_syscall_support.h,\cs.c,d7c4a715ebced0be3633fcfd349a02ff,28b740cedafbc72ff6d105bcf67b66ec,-8023445049755510628,-8024007991656916772,5,N,3833,1274,249
+linux_syscall_support.h,test_basic.c,\vendor\third_party\lss\linux_syscall_support.h,\tests\test_basic.c,d7c4a715ebced0be3633fcfd349a02ff,a31ca8d3bb8a75874920d317a6ad1579,-8023445049755510628,-8018942549639704420,4,N,3833,357,47
+linux_syscall_support.h,test_detail.c,\vendor\third_party\lss\linux_syscall_support.h,\tests\test_detail.c,d7c4a715ebced0be3633fcfd349a02ff,3d78601cdc003b4b4483b95018434b0a,-8023445049755510628,-7442486195382783844,7,N,3833,333,48
+linux_syscall_support.h,test_iter.c,\vendor\third_party\lss\linux_syscall_support.h,\tests\test_iter.c,d7c4a715ebced0be3633fcfd349a02ff,25690cf4ebb5bd2f561bd05964d131ee,-8023445049755510628,-8023446149267066732,5,N,3833,274,44
+linux_syscall_support.h,platform.h,\vendor\third_party\lss\linux_syscall_support.h,\include\capstone\platform.h,d7c4a715ebced0be3633fcfd349a02ff,87c94f9792ec4d53e7f2f9ad601a5e7b,-8023445049755510628,-5717320686361065444,8,N,3833,88,16

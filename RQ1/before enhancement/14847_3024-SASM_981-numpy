@@ -1,0 +1,4 @@
+3024-SASM,981-numpy
+ntpath.py,format.py,\Windows\MinGW64\opt\lib\python2.7\ntpath.py,\numpy\lib\format.py,5b771f83e0334ea1481debfcd587bdb2,df77d542b3f3dc256c2d55ffacc7df30,7429290496734710126,8510151245905707374,8,N,303,324,33
+ntpath.py,core.py,\Windows\MinGW64\opt\lib\python2.7\ntpath.py,\numpy\ma\core.py,5b771f83e0334ea1481debfcd587bdb2,872ed04fce6fdd8c69ca461a4441e585,7429290496734710126,7429291183895904718,7,N,303,2782,41
+warnings.py,function_base.py,\Windows\MinGW64\opt\lib\python2.7\warnings.py,\numpy\lib\function_base.py,3fc75679fb68cbbbaf526e0afef726ca,ed03bf67d5a06b9e411669b057078b3f,-641007616150208209,-641019160619646610,7,N,281,1447,32

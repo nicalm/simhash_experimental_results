@@ -1,0 +1,9 @@
+12758-znc,1541-h2o
+version.h,fmacros.h,\include\znc\version.h,\deps\hiredis\fmacros.h,d05809c29f032c998a444139c4f0d9ce,9d6fd32f84c9d0377076a4587579ec51,-8023445187195380516,-8023515419036559204,7,N,43,20,7
+version.h,mrbconf.h,\include\znc\version.h,\deps\mruby\include\mrbconf.h,d05809c29f032c998a444139c4f0d9ce,b30b9460d209b1cc68a61c5604bdd5a1,-8023445187195380516,-8023445049755510628,5,N,43,43,10
+version.h,mruby.h,\include\znc\version.h,\deps\mruby\include\mruby.h,d05809c29f032c998a444139c4f0d9ce,919df8d515b52adcdfa92f19037768c8,-8023445187195380516,-9176366554362357572,7,N,43,440,13
+version.h,port.h,\include\znc\version.h,\deps\brotli\c\dec\port.h,d05809c29f032c998a444139c4f0d9ce,40b2fd74ac0fb05b9b3137ca6adfdec5,-8023445187195380516,-8023163576927266084,7,N,43,121,13
+version.h,common.h,\include\znc\version.h,\deps\mruby\include\mruby\common.h,d05809c29f032c998a444139c4f0d9ce,0825c5eb9f97ed05daa7893cfba2ca13,-8023445187195380516,-8599905941780637092,8,N,43,52,13
+version.h,throw.h,\include\znc\version.h,\deps\mruby\include\mruby\throw.h,d05809c29f032c998a444139c4f0d9ce,350f4e960c0a9828b6ea397263bddc11,-8023445187195380516,-8023446716739496740,8,N,43,36,8
+version.h,uECC.h,\include\znc\version.h,\deps\picotls\deps\micro-ecc\uECC.h,d05809c29f032c998a444139c4f0d9ce,e777f21ea5ae63708919f7e3ba1592f7,-8023445187195380516,1199926987099265180,6,N,43,105,8
+version.h,wincompat.h,\include\znc\version.h,\deps\picotls\picotlsvs\picotls\wincompat.h,d05809c29f032c998a444139c4f0d9ce,7c4e1724c3a0beeaea1e4c416d606c60,-8023445187195380516,-8041318848215590756,8,N,43,28,6

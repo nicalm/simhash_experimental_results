@@ -1,0 +1,5 @@
+10365-flatpak,6347-librealsense
+flatpak-builtins-build-bundle.c,win-helpers.cpp,\app\flatpak-builtins-build-bundle.c,\src\win\win-helpers.cpp,d95e4e4e863eac020ecab93a61c5685a,8c8bc33100d821f444c03e660052ed39,1395036985477628846,1395177581198528942,7,N,540,799,78
+flatpak-builtins-build-bundle.c,validate_face.h,\app\flatpak-builtins-build-bundle.c,\wrappers\dlib\face\validate_face.h,d95e4e4e863eac020ecab93a61c5685a,b5d0b4d6660310a322b59b410744d0ed,1395036985477628846,-7792288799644695634,7,N,540,75,6
+flatpak-builtins-build-init.c,validate_face.h,\app\flatpak-builtins-build-init.c,\wrappers\dlib\face\validate_face.h,e403fd252ea1b2c23f8407626f390409,b5d0b4d6660310a322b59b410744d0ed,4313386448417723310,-7792288799644695634,8,N,454,75,6
+flatpak-builtins-create-usb.c,validate_face.h,\app\flatpak-builtins-create-usb.c,\wrappers\dlib\face\validate_face.h,80417f1a7bf4fc73ef8c0c77b4dfde80,b5d0b4d6660310a322b59b410744d0ed,1440090432169608108,-7792288799644695634,7,N,594,75,7

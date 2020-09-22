@@ -1,0 +1,5 @@
+5271-CouchPotatoServer,60276-esp-homekit-devices
+plugin.py,exceptions.py,\libs\suds\plugin.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\exceptions.py,a94baf44383cd4aee9c3127eed4bd6f3,fe667fb006e6ede7b572193dd26136ac,9217329227369710981,9217329227336156549,1,N,72,15,7
+plugin.py,exceptions.py,\libs\suds\plugin.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\exceptions.py,a94baf44383cd4aee9c3127eed4bd6f3,fe667fb006e6ede7b572193dd26136ac,9217329227369710981,9217329227336156549,1,N,72,15,7
+exceptions.py,exceptions.py,\libs\requests\packages\urllib3\exceptions.py,\external_libs\wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\exceptions.py,398c4b8bafe797e796cc6aea31e535b3,fe667fb006e6ede7b572193dd26136ac,4610147908045669765,9217329227336156549,4,N,89,15,7
+exceptions.py,exceptions.py,\libs\requests\packages\urllib3\exceptions.py,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\wrapper\python\wolfssl\src\wolfssl\exceptions.py,398c4b8bafe797e796cc6aea31e535b3,fe667fb006e6ede7b572193dd26136ac,4610147908045669765,9217329227336156549,4,N,89,15,7

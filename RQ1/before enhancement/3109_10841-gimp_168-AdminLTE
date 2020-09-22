@@ -1,0 +1,5 @@
+10841-gimp,168-AdminLTE
+language.c,inputmask.js,\app\language.c,\plugins\inputmask\inputmask.js,4139ff31319ee41dc528275c17de6aaa,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442933135575,5728986778392393927,7,N,699,2703,54
+gimpcoreconfig.c,inputmask.js,\app\config\gimpcoreconfig.c,\plugins\inputmask\inputmask.js,60331a7dddac7aef0155c034ea225f13,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442933135559,5728986778392393927,6,N,1172,2703,67
+gimpdialogconfig.c,inputmask.js,\app\config\gimpdialogconfig.c,\plugins\inputmask\inputmask.js,3820fc02cf2195589ecaca19c1f1acba,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442933135575,5728986778392393927,7,N,821,2703,64
+gimpdisplayshell-title.c,inputmask.js,\app\display\gimpdisplayshell-title.c,\plugins\inputmask\inputmask.js,c3eb1838970cef0deeb23eaf230888b6,57d26571eeeb528dfa6b0195cfa1b5d0,5738134642187876567,5728986778392393927,8,N,408,2703,79

@@ -1,0 +1,8 @@
+10187-viabtc_exchange_server,15760-bfgminer
+fmacros.h,driver-cpu.c,\depends\hiredis\fmacros.h,\driver-cpu.c,fa39b5b5c7b057e483d5dce607e953a2,be0f700b73a52208dd53210582876f9e,-7226589390687643492,-7807272267641726562,6,N,17,682,5
+fmacros.h,cl_platform.h,\depends\hiredis\fmacros.h,\CL\cl_platform.h,fa39b5b5c7b057e483d5dce607e953a2,fc86a2210e718fbcf95aabcf0efa129a,-7226589390687643492,-8023445049755510564,7,N,17,935,5
+fmacros.h,signal.in.h,\depends\hiredis\fmacros.h,\lib\signal.in.h,fa39b5b5c7b057e483d5dce607e953a2,ab5029c765029582a72eaf9ee25fe736,-7226589390687643492,-8023445049755510628,6,N,17,258,5
+fmacros.h,stddef.in.h,\depends\hiredis\fmacros.h,\lib\stddef.in.h,fa39b5b5c7b057e483d5dce607e953a2,51fb0aab8a1f88b1353623a5d3ebf080,-7226589390687643492,-7446702960451199844,7,N,17,37,5
+fmacros.h,string.in.h,\depends\hiredis\fmacros.h,\lib\string.in.h,fa39b5b5c7b057e483d5dce607e953a2,79edfbf7ab10d649596b9a9e586671ee,-7226589390687643492,-8023445049755510628,6,N,17,697,5
+win32.h,signal.in.h,\depends\hiredis\win32.h,\lib\signal.in.h,0ec99e391511695a9d7ef00f6d95b969,ab5029c765029582a72eaf9ee25fe736,-7880077529720759656,-8023445049755510628,8,N,32,258,9
+win32.h,string.in.h,\depends\hiredis\win32.h,\lib\string.in.h,0ec99e391511695a9d7ef00f6d95b969,79edfbf7ab10d649596b9a9e586671ee,-7880077529720759656,-8023445049755510628,8,N,32,697,5

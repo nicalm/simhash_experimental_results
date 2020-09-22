@@ -1,0 +1,7 @@
+11212-varnish-cache,981-numpy
+h2_frames.h,datetime_busdaycal.c,\include\tbl\h2_frames.h,\numpy\core\src\multiarray\datetime_busdaycal.c,c66c1d606ac2823d1177e0b229c99e56,d49638494a55e424b6b02659d97ab895,6293727511001139579,6275713146851395707,3,N,108,430,36
+h2_frames.h,iterators.c,\include\tbl\h2_frames.h,\numpy\core\src\multiarray\iterators.c,c66c1d606ac2823d1177e0b229c99e56,34b0afd06f5864e28bc495b43b8c09c0,6293727511001139579,5149813240009312635,5,N,108,1583,36
+gzguts.h,npy_common.h,\lib\libvgz\gzguts.h,\numpy\core\include\numpy\npy_common.h,7127325d12a1c60eed486f9681b3a149,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,157,951,43
+zconf.h,npy_common.h,\lib\libvgz\zconf.h,\numpy\core\include\numpy\npy_common.h,ca00915f6353095e76b1240157dc32b6,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,431,951,107
+zutil.c,npy_common.h,\lib\libvgz\zutil.c,\numpy\core\include\numpy\npy_common.h,80cacf0c2fdd6f41f0562b27c2041b64,a173a9479ba36f92005f6b19e1c98ca6,-8023445049754986340,-8023445066935379812,2,N,247,951,33
+zutil.h,npy_common.h,\lib\libvgz\zutil.h,\numpy\core\include\numpy\npy_common.h,af5aab860ef07102ffcf6fab7fd2e544,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,196,951,53

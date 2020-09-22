@@ -1,0 +1,17 @@
+1193-mpv,60419-iv
+compiler.h,byteorder.h,\osdep\compiler.h,\iv\byteorder.h,b67ad9eeefd9950bd47205a4fac19e42,e6cbb7ea5dd22a6af21310b31356d824,-7735225136714557420,-7744230136912488292,5,N,20,39,6
+io.h,platform.h,\osdep\io.h,\iv\platform.h,1e5b614f4ca8f110251d3d969bd9fa84,0799b4c0f800b09f580f0744773a32dc,-5573522037410505572,-8023445049755510628,8,N,147,161,15
+io.h,gc_cpp.cc,\osdep\io.h,\iv\lv5\third_party\gc\gc_cpp.cc,1e5b614f4ca8f110251d3d969bd9fa84,78288decf4c52033dbacff7efc5eb110,-5573522037410505572,-8023445049755445092,7,N,147,53,14
+io.h,os_dep.c,\osdep\io.h,\iv\lv5\third_party\gc\os_dep.c,1e5b614f4ca8f110251d3d969bd9fa84,b0a81c69c8ebccc4f13e9c9879a76383,-5573522037410505572,-8023445049755510628,8,N,147,3523,26
+io.h,netlib_dtoa.c,\osdep\io.h,\iv\lv5\third_party\netlib_dtoa\netlib_dtoa.c,1e5b614f4ca8f110251d3d969bd9fa84,fd4e5d09fa9cbd15f75c581024b19b2a,-5573522037410505572,-7879329861679654884,8,N,147,3779,18
+io.h,gc_config_macros.h,\osdep\io.h,\iv\lv5\third_party\gc\include\gc_config_macros.h,1e5b614f4ca8f110251d3d969bd9fa84,49c94c9433a611dbef5b648dd73f02b0,-5573522037410505572,-8023445049755510628,8,N,147,298,16
+io.h,threadlibs.c,\osdep\io.h,\iv\lv5\third_party\gc\tools\threadlibs.c,1e5b614f4ca8f110251d3d969bd9fa84,fee0ecdce68be0ba70821ff66aedaaeb,-5573522037410505572,-7879329861681751908,6,N,147,58,17
+io.h,gcconfig.h,\osdep\io.h,\iv\lv5\third_party\gc\include\private\gcconfig.h,1e5b614f4ca8f110251d3d969bd9fa84,62bc8de70f619e05eae308ff015374ec,-5573522037410505572,-8023445049755510628,8,N,147,2316,16
+io.h,gc_priv.h,\osdep\io.h,\iv\lv5\third_party\gc\include\private\gc_priv.h,1e5b614f4ca8f110251d3d969bd9fa84,958652f40cdb00403fca31295aeedc96,-5573522037410505572,-8023445049755510628,8,N,147,1455,20
+stream_dvdnav.c,keyword.h,\stream\stream_dvdnav.c,\iv\keyword.h,f72cbb2ffa3a3fbdd3531c8498b0a46a,315ed050ba47e967897fbe4577b983c9,1119693774075239127,-4070705344077580073,8,N,595,354,90
+context.c,platform.h,\video\out\gpu\context.c,\iv\platform.h,54249a4a32b8a7f1f708836246c0e394,0799b4c0f800b09f580f0744773a32dc,-9176401463991052147,-8023445049755510628,8,N,162,161,16
+context.c,os_dep.c,\video\out\gpu\context.c,\iv\lv5\third_party\gc\os_dep.c,54249a4a32b8a7f1f708836246c0e394,b0a81c69c8ebccc4f13e9c9879a76383,-9176401463991052147,-8023445049755510628,8,N,162,3523,40
+context.c,gc_config_macros.h,\video\out\gpu\context.c,\iv\lv5\third_party\gc\include\gc_config_macros.h,54249a4a32b8a7f1f708836246c0e394,49c94c9433a611dbef5b648dd73f02b0,-9176401463991052147,-8023445049755510628,8,N,162,298,18
+context.c,gc_cpp.h,\video\out\gpu\context.c,\iv\lv5\third_party\gc\include\gc_cpp.h,54249a4a32b8a7f1f708836246c0e394,635774ed0d35707430ca62fa8ee006b1,-9176401463991052147,-8059473846908692324,8,N,162,211,33
+context.c,gcconfig.h,\video\out\gpu\context.c,\iv\lv5\third_party\gc\include\private\gcconfig.h,54249a4a32b8a7f1f708836246c0e394,62bc8de70f619e05eae308ff015374ec,-9176401463991052147,-8023445049755510628,8,N,162,2316,17
+context.c,gc_priv.h,\video\out\gpu\context.c,\iv\lv5\third_party\gc\include\private\gc_priv.h,54249a4a32b8a7f1f708836246c0e394,958652f40cdb00403fca31295aeedc96,-9176401463991052147,-8023445049755510628,8,N,162,1455,25

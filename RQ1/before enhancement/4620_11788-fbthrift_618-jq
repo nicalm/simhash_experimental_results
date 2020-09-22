@@ -1,0 +1,14 @@
+11788-fbthrift,618-jq
+utils.cpp,parser.c,\thrift\compiler\mustache\utils.cpp,\src\parser.c,f81369ebbd5b5b4e75b8cfa4a6ac85b3,a9e23cec6f740c2c216ed7e38fa76eaa,5729127445028712533,5729127442933135575,8,N,63,3339,25
+thrift_config.h,jv_dtoa.c,\thrift\lib\cpp\thrift_config.h,\src\jv_dtoa.c,27c650bbff0590e9f2fafe163b055489,e22c5b05bfd24415a3e8d8da3f8791ac,-8023445049755510628,-8023445049755510756,1,N,220,3652,75
+thrift_config.h,lexer.h,\thrift\lib\cpp\thrift_config.h,\src\lexer.h,27c650bbff0590e9f2fafe163b055489,da2a1a7176c85a8ba5c6ad487a6476ec,-8023445049755510628,-8023445049755510628,0,N,220,554,75
+thrift_config.h,libm.h,\thrift\lib\cpp\thrift_config.h,\src\libm.h,27c650bbff0590e9f2fafe163b055489,2cd1e495bcbe77e741569181c2fbb01b,-8023445049755510628,-8032452266248775464,7,N,220,291,59
+thrift_config.h,decimal128.h,\thrift\lib\cpp\thrift_config.h,\src\decNumber\decimal128.h,27c650bbff0590e9f2fafe163b055489,d64413929172219be1c2a13c8751b279,-8023445049755510628,-9180870188349695848,8,N,220,41,6
+SerializableDynamic.h,parser.c,\thrift\lib\thrift\SerializableDynamic.h,\src\parser.c,e864bd079ca5ebfb14de2021912c9661,a9e23cec6f740c2c216ed7e38fa76eaa,7890838361256540375,5729127442933135575,8,N,370,3339,96
+AsyncClientWorker2.cpp,parser.c,\thrift\perf\cpp\AsyncClientWorker2.cpp,\src\parser.c,3ebd76a0981e9c53ea752af30db30be5,a9e23cec6f740c2c216ed7e38fa76eaa,5738134641844205783,5729127442933135575,5,N,387,3339,76
+ThriftSerializationHelper.php,parser.c,\thrift\lib\hack\src\ThriftSerializationHelper.php,\src\parser.c,2a3a53fb5528c98aad1178c305be0463,a9e23cec6f740c2c216ed7e38fa76eaa,-3512346884650260265,5729127442933135575,8,N,377,3339,81
+macros.h,jv_dtoa.c,\thrift\lib\rb\ext\macros.h,\src\jv_dtoa.c,30f9d8d804dd66b382db54f2861518aa,e22c5b05bfd24415a3e8d8da3f8791ac,-8032469861362509668,-8023445049755510756,8,N,18,3652,4
+macros.h,lexer.h,\thrift\lib\rb\ext\macros.h,\src\lexer.h,30f9d8d804dd66b382db54f2861518aa,da2a1a7176c85a8ba5c6ad487a6476ec,-8032469861362509668,-8023445049755510628,7,N,18,554,4
+Operation.h,parser.c,\thrift\perf\cpp2\util\Operation.h,\src\parser.c,1cf81f674cd6bb613346f9badee172d4,a9e23cec6f740c2c216ed7e38fa76eaa,-3493118691867313953,5729127442933135575,4,N,152,3339,46
+ModuleLogger.java,parser.c,\thrift\compiler\test\fixtures\complex-union\gen-android\ModuleLogger.java,\src\parser.c,905e2b5b5313535fee06ff53948b654f,a9e23cec6f740c2c216ed7e38fa76eaa,5730262211677427927,5729127442933135575,8,N,257,3339,74
+TProtocolUtil.java,parser.c,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\src\parser.c,ca4aaa19ebede5914601c81d8f142ced,a9e23cec6f740c2c216ed7e38fa76eaa,5729127434368628951,5729127442933135575,4,N,125,3339,57

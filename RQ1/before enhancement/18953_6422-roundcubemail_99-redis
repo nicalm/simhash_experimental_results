@@ -1,0 +1,4 @@
+6422-roundcubemail,99-redis
+rcube_tnef_decoder.php,lcode.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\deps\lua\src\lcode.c,8ca46cd084af91332151df25d1c4bd66,88d0dd892548a70000726db2173a48ce,5729127442933266647,5152675763748124759,6,N,520,691,107
+rcube_tnef_decoder.php,print.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\deps\lua\src\print.c,8ca46cd084af91332151df25d1c4bd66,95f3ba0215f1ba441482019ee36c16e0,5729127442933266647,5693098628332108503,7,N,520,208,51
+rcube_sieve_script.php,lcode.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\deps\lua\src\lcode.c,3c3c719b9a27e12464461daf90f00d1d,88d0dd892548a70000726db2173a48ce,5153229640599894231,5152675763748124759,8,N,1009,691,185

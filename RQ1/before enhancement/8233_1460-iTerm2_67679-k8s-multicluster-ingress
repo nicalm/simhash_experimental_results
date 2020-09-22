@@ -1,0 +1,3 @@
+1460-iTerm2,67679-k8s-multicluster-ingress
+iTermMetalGlyphKey.h,handlebars-1.0.0.js,\sources\iTermMetalGlyphKey.h,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,ec93bd52c1bfb24f6f1a8d5c07191b02,74916c394efe99b4c752280dde5428fa,5729057074222575775,5729131840979646718,8,N,92,1719,20
+api_pb2.py,metrics_pb2.py,\api\library\python\iterm2\iterm2\api_pb2.py,\vendor\github.com\prometheus\client_model\python\prometheus\client\model\metrics_pb2.py,5ec4084f430f8d12edfb9b84d6f538ad,83e23c80a3d5336d41d7bfcf2b88d4f3,-4109035990137448699,-4109028285108726524,7,N,9771,519,349

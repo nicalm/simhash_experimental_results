@@ -1,0 +1,7 @@
+4477-libsass,4984-jerryscript
+base.h,config.h,\include\sass\base.h,\jerry-core\config.h,26dfd0d8cb029fd73ca71c0971ecc070,1610ce5e32380b97834532a2439ffb00,-8023163575290504548,-8023445049755510628,5,N,63,338,12
+base.h,jerryscript-compiler.h,\include\sass\base.h,\jerry-core\include\jerryscript-compiler.h,26dfd0d8cb029fd73ca71c0971ecc070,6dc57bc479adf16d2b42cadd27f2edd3,-8023163575290504548,-8023445049755510628,5,N,63,73,16
+base.h,jcontext.h,\include\sass\base.h,\jerry-core\jcontext\jcontext.h,26dfd0d8cb029fd73ca71c0971ecc070,4de6c82710d6de4c90b38b2414b9953a,-8023163575290504548,-9176367654679291684,8,N,63,162,14
+base.h,lit-magic-strings.inc.h,\include\sass\base.h,\jerry-core\lit\lit-magic-strings.inc.h,26dfd0d8cb029fd73ca71c0971ecc070,d156bf64086a4a370f1f54301148fe60,-8023163575290504548,-8023445049755510628,5,N,63,920,14
+base.h,ecma-builtin-helpers-macro-defines.inc.h,\include\sass\base.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,26dfd0d8cb029fd73ca71c0971ecc070,0dde8629af7a79ff0576269e0d239a88,-8023163575290504548,-8023445084115248996,6,N,63,32,11
+base.h,js-parser-limits.h,\include\sass\base.h,\jerry-core\parser\js\js-parser-limits.h,26dfd0d8cb029fd73ca71c0971ecc070,656369309984980286cea2eff0cb4741,-8023163575290504548,-8023445049755510628,5,N,63,51,12

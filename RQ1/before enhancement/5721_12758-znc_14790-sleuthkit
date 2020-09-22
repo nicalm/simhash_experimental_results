@@ -1,0 +1,5 @@
+12758-znc,14790-sleuthkit
+version.h,tsk_os.h,\include\znc\version.h,\tsk\base\tsk_os.h,d05809c29f032c998a444139c4f0d9ce,fb10549d476c4733b848a15bf274eecd,-8023445187195380516,-7717763362486560548,5,N,43,145,11
+version.h,dfxml.cpp,\include\znc\version.h,\tools\fiwalk\src\dfxml.cpp,d05809c29f032c998a444139c4f0d9ce,eb50b8530f9308f16c36524fddd2f5b8,-8023445187195380516,-8023587986267121524,8,N,43,386,11
+version.h,utils.h,\include\znc\version.h,\tools\fiwalk\src\utils.h,d05809c29f032c998a444139c4f0d9ce,e6ab32b13676a61b654ad5e51f15827a,-8023445187195380516,-7600106410441515876,8,N,43,33,9
+version.h,file.h,\include\znc\version.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,d05809c29f032c998a444139c4f0d9ce,d22799caeaddf83c099f19cf401487da,-8023445187195380516,-8023445049755510568,5,N,43,402,13

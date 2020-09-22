@@ -1,0 +1,6 @@
+2257-core,2475-fmt
+appconfig.php,chrono_duration.cpp,\core\ajax\appconfig.php,\test\fuzzing\chrono_duration.cpp,031cdb064a8d37cd4b40af5d608c8543,72440fd90a0d01848031589bb2a841a9,5152665582536538583,5729127447228102871,7,N,37,129,11
+MDB2SchemaReader.php,chrono_duration.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\chrono_duration.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,72440fd90a0d01848031589bb2a841a9,5731379242747078871,5729127447228102871,4,N,238,129,37
+MDB2SchemaReader.php,one_arg.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\one_arg.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,883cdbba8da3fa541c4927e1ea02ff22,5731379242747078871,2270360721499404501,8,N,238,117,26
+MDB2SchemaReader.php,sprintf.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\sprintf.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,c2ddd179a4100129a6f72f09df658863,5731379242747078871,1117439216892295391,7,N,238,101,22
+MDB2SchemaReader.php,two_args.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\two_args.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,c159700c6123fdba738f71e168dab048,5731379242747078871,1117439216892295391,7,N,238,97,21

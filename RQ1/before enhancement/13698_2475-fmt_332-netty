@@ -1,0 +1,3 @@
+2475-fmt,332-netty
+chrono_duration.cpp,XmlDecoder.java,\test\fuzzing\chrono_duration.cpp,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,72440fd90a0d01848031589bb2a841a9,19ac8fd899723cb5b1efea0f9d7dc639,5729127447228102871,5729694790866091155,8,N,129,87,20
+chrono_duration.cpp,AbstractInternalLogger.java,\test\fuzzing\chrono_duration.cpp,\common\src\main\java\io\netty\util\internal\logging\AbstractInternalLogger.java,72440fd90a0d01848031589bb2a841a9,5259416e9e57298a7e2d676548160a9f,5729127447228102871,5730253312699972305,8,N,129,194,36

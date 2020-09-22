@@ -1,0 +1,8 @@
+11604-pdns,1463-highcharts
+jquery.js,jquery-1.10.1.js,\pdns\dnsdistdist\src_js\jquery.js,\vendor\jquery-1.10.1.js,ed0016acf848db02c57ce7eb3cc49676,25dfe6cc40dccd6416159d7ac4f1d108,2287167437921927934,2286041538015085310,1,N,7102,6647,5633
+jquery.js,jquery-1.11.0.js,\pdns\dnsdistdist\src_js\jquery.js,\vendor\jquery-1.11.0.js,ed0016acf848db02c57ce7eb3cc49676,6a89c87c622a2c4c544724f90c4b6afc,2287167437921927934,2286040850820317438,4,N,7102,6879,6148
+jquery.js,jquery-1.7.2.js,\pdns\dnsdistdist\src_js\jquery.js,\vendor\jquery-1.7.2.js,ed0016acf848db02c57ce7eb3cc49676,48ded5591a87f928a060b93215fb53ca,2287167437921927934,2287168623332919551,8,N,7102,6491,3507
+jquery.js,jquery-1.9.1.js,\pdns\dnsdistdist\src_js\jquery.js,\vendor\jquery-1.9.1.js,ed0016acf848db02c57ce7eb3cc49676,67ed7b154df04e325605620e05fefe6b,2287167437921927934,2283790837713010942,5,N,7102,6590,5349
+jquery.js,jquery-3.1.1.js,\pdns\dnsdistdist\src_js\jquery.js,\vendor\jquery-3.1.1.js,ed0016acf848db02c57ce7eb3cc49676,9d209a4f77d4d44a46536eb8b3297a3e,2287167437921927934,2305253167247737594,6,N,7102,6608,5578
+moment.js,moment-2.18.1.js,\pdns\dnsdistdist\src_js\moment.js,\vendor\moment-2.18.1.js,f08218e77cec98df2514eb024690c2c0,161c33130cc2c2a6a0fd88fd75be50eb,4032312790871033534,9220178634233987774,7,N,2690,3382,2282
+jquery-1.8.3.js,jquery-1.8.0.js,\pdns\recursordist\html\js\jquery-1.8.3.js,\vendor\jquery-1.8.0.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,96a79ddd2ae40ff521066ff5ac7e7c83,2304056349881632954,2304056898597257402,4,N,6563,6366,5946

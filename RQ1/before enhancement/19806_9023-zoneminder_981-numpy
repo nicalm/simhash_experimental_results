@@ -1,0 +1,4 @@
+9023-zoneminder,981-numpy
+zm_ffmpeg.h,npy_common.h,\src\zm_ffmpeg.h,\numpy\core\include\numpy\npy_common.h,7e2fcd3ba00999285d6aaf2ef78cc14d,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,281,951,49
+zm_signal.h,npy_common.h,\src\zm_signal.h,\numpy\core\include\numpy\npy_common.h,95bf5749d181b4fa528e43c6e262e7a0,a173a9479ba36f92005f6b19e1c98ca6,-8057222049236199396,-8023445066935379812,8,N,27,951,5
+ow-crypt.h,npy_common.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,\numpy\core\include\numpy\npy_common.h,0cee51bfed48b1ba46a8ed164a5e5017,a173a9479ba36f92005f6b19e1c98ca6,-5429384857455895396,-8023445066935379812,7,N,23,951,4

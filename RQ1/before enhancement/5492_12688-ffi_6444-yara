@@ -1,0 +1,17 @@
+12688-ffi,6444-yara
+Call.h,hex_grammar.c,\ext\ffi_c\Call.h,\libyara\hex_grammar.c,a579f19846bd6edf1b8b9d5cb0fdceb4,29c757a687084bfae5a2dc6bb31b05e5,-9104317757088507428,-9185373754145580836,8,N,59,1251,8
+compat.h,hex_grammar.c,\ext\ffi_c\compat.h,\libyara\hex_grammar.c,89860486007fe9b6739772aa0b042837,29c757a687084bfae5a2dc6bb31b05e5,-8023447251463120740,-9185373754145580836,6,N,38,1251,13
+compat.h,endian.h,\ext\ffi_c\compat.h,\libyara\include\yara\endian.h,89860486007fe9b6739772aa0b042837,f44500c257dc9e47f34b1473280aea77,-8023447251463120740,-8023445049755510628,3,N,38,55,12
+compat.h,integers.h,\ext\ffi_c\compat.h,\libyara\include\yara\integers.h,89860486007fe9b6739772aa0b042837,f8e220916ba72c943da73bf32049b841,-8023447251463120740,-8023445049755510628,3,N,38,57,12
+compat.h,limits.h,\ext\ffi_c\compat.h,\libyara\include\yara\limits.h,89860486007fe9b6739772aa0b042837,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023447251463120740,-8023445049755510628,3,N,38,77,11
+compat.h,strutils.h,\ext\ffi_c\compat.h,\libyara\include\yara\strutils.h,89860486007fe9b6739772aa0b042837,62646260db13811e153f2c59cbdfb33a,-8023447251463120740,-8023518717034571368,6,N,38,59,12
+DynamicLibrary.h,hex_grammar.c,\ext\ffi_c\DynamicLibrary.h,\libyara\hex_grammar.c,85bcc5d631466c02273f9899152b054b,29c757a687084bfae5a2dc6bb31b05e5,-5753630837560780644,-9185373754145580836,7,N,49,1251,16
+DynamicLibrary.h,endian.h,\ext\ffi_c\DynamicLibrary.h,\libyara\include\yara\endian.h,85bcc5d631466c02273f9899152b054b,f44500c257dc9e47f34b1473280aea77,-5753630837560780644,-8023445049755510628,2,N,49,55,14
+DynamicLibrary.h,integers.h,\ext\ffi_c\DynamicLibrary.h,\libyara\include\yara\integers.h,85bcc5d631466c02273f9899152b054b,f8e220916ba72c943da73bf32049b841,-5753630837560780644,-8023445049755510628,2,N,49,57,19
+DynamicLibrary.h,limits.h,\ext\ffi_c\DynamicLibrary.h,\libyara\include\yara\limits.h,85bcc5d631466c02273f9899152b054b,1b76e5cbfb6a87b1b52e9aef743d23ec,-5753630837560780644,-8023445049755510628,2,N,49,77,15
+DynamicLibrary.h,strutils.h,\ext\ffi_c\DynamicLibrary.h,\libyara\include\yara\strutils.h,85bcc5d631466c02273f9899152b054b,62646260db13811e153f2c59cbdfb33a,-5753630837560780644,-8023518717034571368,7,N,49,59,11
+rbffi_endian.h,hex_grammar.c,\ext\ffi_c\rbffi_endian.h,\libyara\hex_grammar.c,f869d8d0ddc657c2a3138058f91acb6c,29c757a687084bfae5a2dc6bb31b05e5,-8023445049822619428,-9185373754145580836,5,N,50,1251,14
+rbffi_endian.h,endian.h,\ext\ffi_c\rbffi_endian.h,\libyara\include\yara\endian.h,f869d8d0ddc657c2a3138058f91acb6c,f44500c257dc9e47f34b1473280aea77,-8023445049822619428,-8023445049755510628,2,N,50,55,13
+rbffi_endian.h,integers.h,\ext\ffi_c\rbffi_endian.h,\libyara\include\yara\integers.h,f869d8d0ddc657c2a3138058f91acb6c,f8e220916ba72c943da73bf32049b841,-8023445049822619428,-8023445049755510628,2,N,50,57,13
+rbffi_endian.h,limits.h,\ext\ffi_c\rbffi_endian.h,\libyara\include\yara\limits.h,f869d8d0ddc657c2a3138058f91acb6c,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445049822619428,-8023445049755510628,2,N,50,77,12
+rbffi_endian.h,strutils.h,\ext\ffi_c\rbffi_endian.h,\libyara\include\yara\strutils.h,f869d8d0ddc657c2a3138058f91acb6c,62646260db13811e153f2c59cbdfb33a,-8023445049822619428,-8023518717034571368,7,N,50,59,12

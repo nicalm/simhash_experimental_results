@@ -1,0 +1,6 @@
+4984-jerryscript,7025-Stellar
+config.h,Stellar-Swift.h,\jerry-core\config.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,1610ce5e32380b97834532a2439ffb00,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,338,231,30
+jerryscript-compiler.h,Stellar-Swift.h,\jerry-core\include\jerryscript-compiler.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,6dc57bc479adf16d2b42cadd27f2edd3,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,73,231,19
+lit-magic-strings.inc.h,Stellar-Swift.h,\jerry-core\lit\lit-magic-strings.inc.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d156bf64086a4a370f1f54301148fe60,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,920,231,38
+ecma-builtin-helpers-macro-defines.inc.h,Stellar-Swift.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,0dde8629af7a79ff0576269e0d239a88,fafe37ab4771e0a9586e17224fcc7041,-8023445084115248996,-7743940123003924324,6,N,32,231,11
+js-parser-limits.h,Stellar-Swift.h,\jerry-core\parser\js\js-parser-limits.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,656369309984980286cea2eff0cb4741,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,51,231,17

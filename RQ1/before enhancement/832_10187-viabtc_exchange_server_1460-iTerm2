@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,1460-iTerm2
+http_parser.c,iTermMetalGlyphKey.h,\utils\http_parser.c,\sources\iTermMetalGlyphKey.h,d09d117e8f6d43dee97217c802830c00,ec93bd52c1bfb24f6f1a8d5c07191b02,5728845967956424919,5729057074222575775,7,N,1850,92,20
+ut_pack.c,move_to_user_namespace.c,\utils\ut_pack.c,\ThirdParty\tmux-MacOSX-pasteboard\move_to_user_namespace.c,33a5a6f0cb23c2479287b58037ad8ef5,cac3b29bb94e37e1e427917b7998e426,4192359367729356405,2174764189414723189,6,N,303,70,24
+fmacros.h,ini.h,\depends\hiredis\fmacros.h,\ThirdParty\inih\ini.h,fa39b5b5c7b057e483d5dce607e953a2,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-7226589390687643492,-8023445049755510564,7,N,17,57,5

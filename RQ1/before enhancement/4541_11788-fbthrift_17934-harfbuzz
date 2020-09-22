@@ -1,0 +1,9 @@
+11788-fbthrift,17934-harfbuzz
+t_type.h,hb-subset-cff1.cc,\thrift\compiler\ast\t_type.h,\src\hb-subset-cff1.cc,b053db260acb5031648818344c9828ac,1a249f22bc0ae57f865a07cb4f74fb02,1431083237210080174,1681033153959191471,8,N,149,904,63
+thrift_config.h,hb-fc-list.c,\thrift\lib\cpp\thrift_config.h,\util\hb-fc-list.c,27c650bbff0590e9f2fafe163b055489,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510628,1199786163039426780,8,N,220,178,10
+thrift_config.h,test-c.c,\thrift\lib\cpp\thrift_config.h,\test\api\test-c.c,27c650bbff0590e9f2fafe163b055489,40a532b71e6242f205df120cc480a67e,-8023445049755510628,-8023445049757468516,3,N,220,26,6
+Operation.h,hb-ot-shape-complex-vowel-constraints.cc,\thrift\perf\cpp2\util\Operation.h,\src\hb-ot-shape-complex-vowel-constraints.cc,1cf81f674cd6bb613346f9badee172d4,af3b5cee198ad0cdcf32177f2059763e,-3493118691867313953,5729127511516264663,8,N,152,420,36
+Operation.h,hb-subset.cc,\thrift\perf\cpp2\util\Operation.h,\src\hb-subset.cc,1cf81f674cd6bb613346f9badee172d4,8cd5ec526a4232f06c744be9b77a51bc,-3493118691867313953,5170681089138145431,8,N,152,256,36
+module_types.cpp,hb-subset-cff1.cc,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\src\hb-subset-cff1.cc,2db322d1052463c02d7e0a6bf32428e5,1a249f22bc0ae57f865a07cb4f74fb02,1395054440124007342,1681033153959191471,8,N,3515,904,207
+TProtocolUtil.java,hb-ot-shape-complex-vowel-constraints.cc,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\src\hb-ot-shape-complex-vowel-constraints.cc,ca4aaa19ebede5914601c81d8f142ced,af3b5cee198ad0cdcf32177f2059763e,5729127434368628951,5729127511516264663,8,N,125,420,57
+TProtocolUtil.java,hb-subset.cc,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\src\hb-subset.cc,ca4aaa19ebede5914601c81d8f142ced,8cd5ec526a4232f06c744be9b77a51bc,5729127434368628951,5170681089138145431,8,N,125,256,44

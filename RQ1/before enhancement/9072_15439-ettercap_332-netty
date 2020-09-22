@@ -1,0 +1,7 @@
+15439-ettercap,332-netty
+ec_filter.c,XmlDecoder.java,\src\ec_filter.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,93d0ed8de4c0c08c76b8fb5f7787aef5,19ac8fd899723cb5b1efea0f9d7dc639,5729127442664700119,5729694790866091155,8,N,799,87,19
+ec_pop.c,AbstractNotificationHandler.java,\src\dissectors\ec_pop.c,\transport-sctp\src\main\java\com\sun\nio\sctp\AbstractNotificationHandler.java,aa0c8c64d030b4f03a0a7ad1859b031d,31e8c4f31ff424e9772104e4cf757fd9,-3727148705519183124,-4294591263518712148,8,N,200,22,7
+ef_test.c,SocksCmdRequest.java,\utils\etterfilter\ef_test.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,fa7fc65cd5f440dd843abbe86d1716e4,cd6c11dc97231f03956166b9ce5143be,5729127442933135575,5693098603517689047,8,N,181,83,19
+ef_test.c,XmlDecoder.java,\utils\etterfilter\ef_test.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,fa7fc65cd5f440dd843abbe86d1716e4,19ac8fd899723cb5b1efea0f9d7dc639,5729127442933135575,5729694790866091155,7,N,181,87,19
+el_parser.c,SocksCmdRequest.java,\utils\etterlog\el_parser.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,e965aa39918fe671682ccf0efa3de321,cd6c11dc97231f03956166b9ce5143be,5729127442933135575,5693098603517689047,8,N,230,83,13
+el_parser.c,XmlDecoder.java,\utils\etterlog\el_parser.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,e965aa39918fe671682ccf0efa3de321,19ac8fd899723cb5b1efea0f9d7dc639,5729127442933135575,5729694790866091155,7,N,230,87,17

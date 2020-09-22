@@ -1,0 +1,9 @@
+4477-libsass,6347-librealsense
+ast_sel_super.cpp,validate_face.h,\src\ast_sel_super.cpp,\wrappers\dlib\face\validate_face.h,ffef62efd83b8d29b2b0c7a2ff9681d7,b5d0b4d6660310a322b59b410744d0ed,1431225074243617162,-7792288799644695634,7,N,350,75,23
+base.h,glext.h,\include\sass\base.h,\third-party\glad\glext.h,26dfd0d8cb029fd73ca71c0971ecc070,b47c3053eb61af62c08dd7e6f45631ce,-8023163575290504548,-8023445049755510628,5,N,63,12110,19
+base.h,easylogging++.h,\include\sass\base.h,\third-party\easyloggingpp\src\easylogging++.h,26dfd0d8cb029fd73ca71c0971ecc070,a5e6b54e91368f83f029eaf8a7a4ca68,-8023163575290504548,-8023445049756558632,7,N,63,3696,16
+base.h,tinycthread.h,\include\sass\base.h,\third-party\glfw\deps\tinycthread.h,26dfd0d8cb029fd73ca71c0971ecc070,d64af4e68966d2e35effa48ebd7b3c79,-8023163575290504548,-8023444774877636452,7,N,63,138,15
+base.h,win32_platform.h,\include\sass\base.h,\third-party\glfw\src\win32_platform.h,26dfd0d8cb029fd73ca71c0971ecc070,2445649aade285164b3f3df9cb6b0b9c,-8023163575290504548,-8023445049755510628,5,N,63,324,12
+base.h,_mingw_dxhelper.h,\include\sass\base.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,26dfd0d8cb029fd73ca71c0971ecc070,5423da3108dd32be383352d8d6c55edb,-8023163575290504548,-9185092003762480996,7,N,63,102,14
+base.h,vulkan.h,\include\sass\base.h,\third-party\glfw\deps\vulkan\vulkan.h,26dfd0d8cb029fd73ca71c0971ecc070,368be8e566768753806bdc8cc0052fc3,-8023163575290504548,1163898190080301212,7,N,63,38,10
+base.h,glfw3native.h,\include\sass\base.h,\third-party\glfw\include\GLFW\glfw3native.h,26dfd0d8cb029fd73ca71c0971ecc070,c5d9fae34608972236a415167b8ed590,-8023163575290504548,-8023445051902996324,7,N,63,83,16

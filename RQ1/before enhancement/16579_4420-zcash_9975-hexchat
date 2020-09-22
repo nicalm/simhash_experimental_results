@@ -1,0 +1,4 @@
+4420-zcash,9975-hexchat
+compat.h,typedef.h,\src\compat.h,\src\common\typedef.h,edca1c84c422d3accf71cf028f56730c,ad3525a10e4064f94c5205693b6e1c78,-8023445189341947748,-8059473984749774204,7,N,86,20,8
+endian.h,typedef.h,\src\compat\endian.h,\src\common\typedef.h,b0a1e77bc71959182a3b0854e64e46ad,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,160,20,7
+thread_annotations.h,typedef.h,\src\leveldb\port\thread_annotations.h,\src\common\typedef.h,af9eee1ca47192126580ea56af3a4865,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,39,20,6

@@ -1,0 +1,7 @@
+10549-luci,140-neovim
+axhttp.h,func_attr.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\nvim\func_attr.h,15eb217d5f5922cce10b8494e4915b7f,09c1a1629d6fa1c24e2cb5acdc7bfde8,-7491774003658044260,-8023445049755510628,8,N,101,159,9
+axhttp.h,win_defs.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\nvim\os\win_defs.h,15eb217d5f5922cce10b8494e4915b7f,559a6dc04630310a39a09d004fb6797d,-7491774003658044260,-8023445049755510628,8,N,101,84,10
+axssl.c,func_attr.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\nvim\func_attr.h,f2b0cb059db544f4352723a1918a2843,09c1a1629d6fa1c24e2cb5acdc7bfde8,-8030199623489105704,-8023445049755510628,8,N,686,159,26
+axssl.c,win_defs.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\nvim\os\win_defs.h,f2b0cb059db544f4352723a1918a2843,559a6dc04630310a39a09d004fb6797d,-8030199623489105704,-8023445049755510628,8,N,686,84,28
+dialog.h,func_attr.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\nvim\func_attr.h,65291cd84768397473c02d7325db3d87,09c1a1629d6fa1c24e2cb5acdc7bfde8,-7933373057317024612,-8023445049755510628,8,N,128,159,15
+dialog.h,win_defs.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\nvim\os\win_defs.h,65291cd84768397473c02d7325db3d87,559a6dc04630310a39a09d004fb6797d,-7933373057317024612,-8023445049755510628,8,N,128,84,16

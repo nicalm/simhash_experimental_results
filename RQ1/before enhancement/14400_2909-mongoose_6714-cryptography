@@ -1,0 +1,7 @@
+2909-mongoose,6714-cryptography
+mongoose.c,osrandom_engine.h,\mongoose.c,\src\_cffi_src\openssl\src\osrandom_engine.h,bb26ef6c18547f7fea15fb29572c30d7,5faed825e57102494d64f41f67417150,-7951396243220670308,-9176392388590904164,8,N,12838,80,19
+mongoose.h,osrandom_engine.h,\mongoose.h,\src\_cffi_src\openssl\src\osrandom_engine.h,2d0665a2e8d3cf0feb3b958a851f071d,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,3259,80,20
+mg_features.h,osrandom_engine.h,\src\mg_features.h,\src\_cffi_src\openssl\src\osrandom_engine.h,f465b98573fad4b5e022cec4075e3e67,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,130,80,14
+platform_unix.h,osrandom_engine.h,\src\common\platforms\platform_unix.h,\src\_cffi_src\openssl\src\osrandom_engine.h,baebcbb3950c55896dce83ea69594fdd,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,111,80,16
+platform_wince.h,osrandom_engine.h,\src\common\platforms\platform_wince.h,\src\_cffi_src\openssl\src\osrandom_engine.h,551934bdf0092886b7a2f9895977d52b,5faed825e57102494d64f41f67417150,-8023445049757607780,-9176392388590904164,8,N,138,80,13
+platform_windows.h,osrandom_engine.h,\src\common\platforms\platform_windows.h,\src\_cffi_src\openssl\src\osrandom_engine.h,1642514a47bfd6eb32ee42269aa3c12d,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,147,80,14

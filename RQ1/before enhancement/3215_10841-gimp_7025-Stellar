@@ -1,0 +1,4 @@
+10841-gimp,7025-Stellar
+gimpwin32-io.h,Stellar-Swift.h,\libgimpbase\gimpwin32-io.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,56ef6d63cf2566b506fd29ef2a5dcc22,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,58,231,17
+imap_cern_parse.h,Stellar-Swift.h,\plug-ins\imagemap\imap_cern_parse.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,af25bf3cfc37bc3ffcbfe1812577e007,fafe37ab4771e0a9586e17224fcc7041,-8023444912450709284,-7743940123003924324,8,N,61,231,11
+imap_csim_parse.c,Stellar-Swift.h,\plug-ins\imagemap\imap_csim_parse.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,6c0fd8dae4d7bb8f472f756f2edb786f,fafe37ab4771e0a9586e17224fcc7041,-8888144974840538916,-7743940123003924324,8,N,1468,231,39

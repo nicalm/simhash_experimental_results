@@ -1,0 +1,5 @@
+332-netty,4139-outline-client
+SocksCmdRequest.java,pcre_fullinfo.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\third_party\pcre\pcre_fullinfo.c,cd6c11dc97231f03956166b9ce5143be,8923cc431580197b3e121f54e41dba57,5693098603517689047,5729127442933135575,8,N,83,135,9
+SocksCmdRequest.java,ncd_tokenizer_test.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\third_party\badvpn\examples\ncd_tokenizer_test.c,cd6c11dc97231f03956166b9ce5143be,809950a2bfada58b600886b8876d3ef5,5693098603517689047,5729127442933135575,8,N,83,108,14
+XmlDecoder.java,pcre_fullinfo.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\third_party\pcre\pcre_fullinfo.c,19ac8fd899723cb5b1efea0f9d7dc639,8923cc431580197b3e121f54e41dba57,5729694790866091155,5729127442933135575,7,N,87,135,13
+XmlDecoder.java,ncd_tokenizer_test.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\third_party\badvpn\examples\ncd_tokenizer_test.c,19ac8fd899723cb5b1efea0f9d7dc639,809950a2bfada58b600886b8876d3ef5,5729694790866091155,5729127442933135575,7,N,87,108,18

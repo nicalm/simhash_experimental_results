@@ -1,0 +1,5 @@
+7025-Stellar,753-fish-shell
+Stellar-Swift.h,fallback.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\fallback.h,fafe37ab4771e0a9586e17224fcc7041,7d4055698e8c91d9fd4be969475abb0c,-7743940123003924324,-8023446699022952292,7,N,231,118,32
+Stellar-Swift.h,signal.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\signal.cpp,fafe37ab4771e0a9586e17224fcc7041,2e09e582bf373788324ac911fde75809,-7743940123003924324,-8023445049755510632,6,N,231,322,29
+Stellar-Swift.h,sljitConfig.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\pcre2-10.32\src\sljit\sljitConfig.h,fafe37ab4771e0a9586e17224fcc7041,4670eeabf25cc1becfd2eb7244181998,-7743940123003924324,-8023445049755445096,7,N,231,33,11
+Stellar-Swift.h,sljitConfigInternal.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,fafe37ab4771e0a9586e17224fcc7041,fd5d86ef9f2b9d9589cb00af7963629f,-7743940123003924324,-8023515418499688420,7,N,231,429,38

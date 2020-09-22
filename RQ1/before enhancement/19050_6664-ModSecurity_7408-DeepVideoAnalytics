@@ -1,0 +1,10 @@
+6664-ModSecurity,7408-DeepVideoAnalytics
+check_config.h,bbox.c,\others\mbedtls\check_config.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,306e92b56ac8d1b085c9f72fb65f46a7,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,402,5912,104
+check_config.h,cython_nms.c,\others\mbedtls\check_config.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,306e92b56ac8d1b085c9f72fb65f46a7,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,402,6623,104
+check_config.h,gpu_nms.c,\others\mbedtls\check_config.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,306e92b56ac8d1b085c9f72fb65f46a7,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,402,5655,104
+check_config.h,gpu_nms.cpp,\others\mbedtls\check_config.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,306e92b56ac8d1b085c9f72fb65f46a7,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,402,4948,104
+platform.h,bbox.c,\others\mbedtls\platform.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,d00d535ad1c35ca86d366afc8578c1ab,b42f28bb593ba51126ab3c36f2280e44,-7879409027045336932,-7735003018152322916,6,N,106,5912,43
+platform.h,cython_nms.c,\others\mbedtls\platform.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,d00d535ad1c35ca86d366afc8578c1ab,340c61e73ba74d7820ff458fae32d716,-7879409027045336932,-7735003018152322916,6,N,106,6623,43
+platform.h,gpu_nms.c,\others\mbedtls\platform.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,d00d535ad1c35ca86d366afc8578c1ab,c5f744cc55310f8443ffae08bc289c17,-7879409027045336932,-7735003018152322916,6,N,106,5655,43
+platform.h,gpu_nms.cpp,\others\mbedtls\platform.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,d00d535ad1c35ca86d366afc8578c1ab,2472408016d358310deb015143185fa8,-7879409027045336932,-7590887830068078436,4,N,106,4948,41
+severity.cc,fastclick.js,\src\actions\severity.cc,\server\dvaapp\static\plugins\fastclick\fastclick.js,497d4e061fc56cdefb643c5f6d57a643,10e704e561b407955f273819d083b958,6717025446861306266,6644123427968739771,8,N,62,400,19

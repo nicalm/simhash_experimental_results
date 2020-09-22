@@ -1,0 +1,5 @@
+12758-znc,6444-yara
+version.h,hex_grammar.c,\include\znc\version.h,\libyara\hex_grammar.c,d05809c29f032c998a444139c4f0d9ce,29c757a687084bfae5a2dc6bb31b05e5,-8023445187195380516,-9185373754145580836,8,N,43,1251,13
+version.h,endian.h,\include\znc\version.h,\libyara\include\yara\endian.h,d05809c29f032c998a444139c4f0d9ce,f44500c257dc9e47f34b1473280aea77,-8023445187195380516,-8023445049755510628,5,N,43,55,9
+version.h,integers.h,\include\znc\version.h,\libyara\include\yara\integers.h,d05809c29f032c998a444139c4f0d9ce,f8e220916ba72c943da73bf32049b841,-8023445187195380516,-8023445049755510628,5,N,43,57,9
+version.h,limits.h,\include\znc\version.h,\libyara\include\yara\limits.h,d05809c29f032c998a444139c4f0d9ce,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023445187195380516,-8023445049755510628,5,N,43,77,8

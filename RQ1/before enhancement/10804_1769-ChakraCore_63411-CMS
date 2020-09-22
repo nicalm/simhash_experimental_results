@@ -1,0 +1,17 @@
+1769-ChakraCore,63411-CMS
+GlobOpt.cpp,Image_lib.php,\lib\Backend\GlobOpt.cpp,\iu-system\libraries\Image_lib.php,fb265a755ae1e0d14049c9835d69a791,516a1b2d6138664a38f9778efda1e8b2,566391554150513070,1719595014770424255,7,N,14656,900,366
+switch.js,JSMinPlus.php,\test\Basics\switch.js,\iu-resources\min\lib\JSMinPlus.php,cf8c57c651e88dee38f41382a539e6e1,ada381ab05cfa7307d75a5e154803be9,5693665996061587667,5735588175405398231,8,N,52,1637,20
+Switch2.js,JSMinPlus.php,\test\Basics\Switch2.js,\iu-resources\min\lib\JSMinPlus.php,16f186876348d5e969862ae12e4c80b1,ada381ab05cfa7307d75a5e154803be9,5733297068068055511,5735588175405398231,8,N,55,1637,18
+allIIntCases.js,JSMinPlus.php,\test\switchStatement\allIIntCases.js,\iu-resources\min\lib\JSMinPlus.php,3c6ea8759efeb49539ccb710edff423d,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,156,1637,58
+moreSwitches1.js,JSMinPlus.php,\test\switchStatement\moreSwitches1.js,\iu-resources\min\lib\JSMinPlus.php,bbf6e484ff026e5192b94a5e80e5b80c,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,89,1637,34
+stringAndNonStrings.js,JSMinPlus.php,\test\switchStatement\stringAndNonStrings.js,\iu-resources\min\lib\JSMinPlus.php,a8fdce7fb3ba6b1f7b4fb06c15e6d6c4,ada381ab05cfa7307d75a5e154803be9,5729127442933266647,5735588175405398231,8,N,51,1637,16
+substring.js,JSMinPlus.php,\test\switchStatement\substring.js,\iu-resources\min\lib\JSMinPlus.php,6453264ab833200e79a5d50b47a3ed5b,ada381ab05cfa7307d75a5e154803be9,5729127442933102807,5735588175405398231,6,N,29,1637,12
+switchMathExp.js,JSMinPlus.php,\test\switchStatement\switchMathExp.js,\iu-resources\min\lib\JSMinPlus.php,11de62aefaef8ca5e5c1ce8e90e7463b,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,121,1637,48
+binary-writer.cc,JSMinPlus.php,\lib\wabt\src\binary-writer.cc,\iu-resources\min\lib\JSMinPlus.php,faec92398a02061093d637c0b329289b,ada381ab05cfa7307d75a5e154803be9,5730235750653929687,5735588175405398231,8,N,988,1637,214
+c-writer.cc,JSMinPlus.php,\lib\wabt\src\c-writer.cc,\iu-resources\min\lib\JSMinPlus.php,0a08c0136bd928b6d264b359a2e70907,ada381ab05cfa7307d75a5e154803be9,5729127442933102807,5735588175405398231,6,N,1919,1637,239
+expr-visitor.cc,JSMinPlus.php,\lib\wabt\src\expr-visitor.cc,\iu-resources\min\lib\JSMinPlus.php,4abc7e5040ae1441ebf128deb5224a1d,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,317,1637,94
+earley-boyer.js,page.php,\test\benchmarks\Octane_Closure\earley-boyer.js,\iu-application\models\page.php,3f602a3f043ba8bb61ecd0a067cbf28e,d8896b29d06d1dfda2b7713cc3af4ade,1692274559247535534,3710027654919976366,8,N,3744,511,171
+interp-disassemble.cc,JSMinPlus.php,\lib\wabt\src\interp\interp-disassemble.cc,\iu-resources\min\lib\JSMinPlus.php,e569cb01c78fd9a8ee57f7cb91e4421e,ada381ab05cfa7307d75a5e154803be9,5729127442928941271,5735588175405398231,8,N,569,1637,58
+interp.cc,JSMinPlus.php,\lib\wabt\src\interp\interp.cc,\iu-resources\min\lib\JSMinPlus.php,cbdeb4a0122375b3a2f4a23aee775ddf,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,2636,1637,233
+opcode.js,JSMinPlus.php,\test\benchmarks\ARES-6\Air\opcode.js,\iu-resources\min\lib\JSMinPlus.php,72ced3de3f5de3211272927ad7bbad3f,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,1654,1637,138
+parser.js,JSMinPlus.php,\test\benchmarks\ARES-6\Basic\parser.js,\iu-resources\min\lib\JSMinPlus.php,e43f106cbb9b5606107ade02ab4e28f6,ada381ab05cfa7307d75a5e154803be9,5729109850747091159,5735588175405398231,6,N,493,1637,139

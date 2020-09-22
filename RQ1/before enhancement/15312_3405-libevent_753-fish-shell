@@ -1,0 +1,16 @@
+3405-libevent,753-fish-shell
+ipv6-internal.h,fallback.cpp,\ipv6-internal.h,\src\fallback.cpp,dabb7bfd8d8b28692ca1940f37c14cce,1b6445406eb257908b35a55b17aedfd8,-8005606573110671204,-9176406128190498660,8,N,37,266,11
+ipv6-internal.h,fallback.h,\ipv6-internal.h,\src\fallback.h,dabb7bfd8d8b28692ca1940f37c14cce,7d4055698e8c91d9fd4be969475abb0c,-8005606573110671204,-8023446699022952292,7,N,37,118,12
+ipv6-internal.h,signal.cpp,\ipv6-internal.h,\src\signal.cpp,dabb7bfd8d8b28692ca1940f37c14cce,2e09e582bf373788324ac911fde75809,-8005606573110671204,-8023445049755510632,6,N,37,322,12
+ipv6-internal.h,sljitConfig.h,\ipv6-internal.h,\pcre2-10.32\src\sljit\sljitConfig.h,dabb7bfd8d8b28692ca1940f37c14cce,4670eeabf25cc1becfd2eb7244181998,-8005606573110671204,-8023445049755445096,7,N,37,33,9
+ipv6-internal.h,sljitConfigInternal.h,\ipv6-internal.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,dabb7bfd8d8b28692ca1940f37c14cce,fd5d86ef9f2b9d9589cb00af7963629f,-8005606573110671204,-8023515418499688420,7,N,37,429,9
+signal.c,sljitConfigInternal.h,\signal.c,\pcre2-10.32\src\sljit\sljitConfigInternal.h,cd60905330865d56b4b56f45de1462bd,fd5d86ef9f2b9d9589cb00af7963629f,-7446784324177307620,-8023515418499688420,8,N,348,429,31
+time-internal.h,sljitConfigInternal.h,\time-internal.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,9bf6e1db3b1c4f27e264cb8439fab1f7,fd5d86ef9f2b9d9589cb00af7963629f,-7994243137613279076,-8023515418499688420,8,N,56,429,11
+event.h,fallback.h,\include\event.h,\src\fallback.h,74155744f6c5bd2476d644b3e62572b7,7d4055698e8c91d9fd4be969475abb0c,-8005430651917121316,-8023446699022952292,7,N,39,118,10
+event.h,signal.cpp,\include\event.h,\src\signal.cpp,74155744f6c5bd2476d644b3e62572b7,2e09e582bf373788324ac911fde75809,-8005430651917121316,-8023445049755510632,6,N,39,322,9
+event.h,sljitConfig.h,\include\event.h,\pcre2-10.32\src\sljit\sljitConfig.h,74155744f6c5bd2476d644b3e62572b7,4670eeabf25cc1becfd2eb7244181998,-8005430651917121316,-8023445049755445096,7,N,39,33,8
+event.h,sljitConfigInternal.h,\include\event.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,74155744f6c5bd2476d644b3e62572b7,fd5d86ef9f2b9d9589cb00af7963629f,-8005430651917121316,-8023515418499688420,7,N,39,429,9
+dns_struct.h,signal.cpp,\include\event2\dns_struct.h,\src\signal.cpp,666004cf63ea0bf834f3327e53994765,2e09e582bf373788324ac911fde75809,-8032733723986968355,-8023445049755510632,8,N,32,322,9
+keyvalq_struct.h,fallback.h,\include\event2\keyvalq_struct.h,\src\fallback.h,6cfad2c2ff1e3aee7e4d7e3ad4535d29,7d4055698e8c91d9fd4be969475abb0c,-8024086342059894627,-8023446699022952292,7,N,37,118,9
+keyvalq_struct.h,signal.cpp,\include\event2\keyvalq_struct.h,\src\signal.cpp,6cfad2c2ff1e3aee7e4d7e3ad4535d29,2e09e582bf373788324ac911fde75809,-8024086342059894627,-8023445049755510632,8,N,37,322,11
+keyvalq_struct.h,sljitConfigInternal.h,\include\event2\keyvalq_struct.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,6cfad2c2ff1e3aee7e4d7e3ad4535d29,fd5d86ef9f2b9d9589cb00af7963629f,-8024086342059894627,-8023515418499688420,7,N,37,429,7

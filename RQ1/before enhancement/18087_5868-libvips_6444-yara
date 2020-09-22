@@ -1,0 +1,12 @@
+5868-libvips,6444-yara
+composite.cpp,pe_utils.c,\libvips\conversion\composite.cpp,\libyara\modules\pe\pe_utils.c,1073a16ac3f3888e7e8384f333542daa,85b3b0e9639ebe8f194fd360aa44aa10,-3566301638204286473,5729127442933135575,7,N,1177,1795,132
+buffer.c,endian.h,\libvips\iofuncs\buffer.c,\libyara\include\yara\endian.h,7574cb2d8655be6f6b1d83b926fa5645,f44500c257dc9e47f34b1473280aea77,-7744230673238075236,-8023445049755510628,8,N,447,55,15
+buffer.c,integers.h,\libvips\iofuncs\buffer.c,\libyara\include\yara\integers.h,7574cb2d8655be6f6b1d83b926fa5645,f8e220916ba72c943da73bf32049b841,-7744230673238075236,-8023445049755510628,8,N,447,57,18
+buffer.c,limits.h,\libvips\iofuncs\buffer.c,\libyara\include\yara\limits.h,7574cb2d8655be6f6b1d83b926fa5645,1b76e5cbfb6a87b1b52e9aef743d23ec,-7744230673238075236,-8023445049755510628,8,N,447,77,21
+init.c,endian.h,\libvips\iofuncs\init.c,\libyara\include\yara\endian.h,e400d93356240e897bbc32ba27bdcd3b,f44500c257dc9e47f34b1473280aea77,-9176930621544019780,-8023445049755510628,8,N,636,55,15
+init.c,integers.h,\libvips\iofuncs\init.c,\libyara\include\yara\integers.h,e400d93356240e897bbc32ba27bdcd3b,f8e220916ba72c943da73bf32049b841,-9176930621544019780,-8023445049755510628,8,N,636,57,18
+init.c,limits.h,\libvips\iofuncs\init.c,\libyara\include\yara\limits.h,e400d93356240e897bbc32ba27bdcd3b,1b76e5cbfb6a87b1b52e9aef743d23ec,-9176930621544019780,-8023445049755510628,8,N,636,77,25
+vector.c,hex_grammar.c,\libvips\iofuncs\vector.c,\libyara\hex_grammar.c,055954f4e165b83818f7e8bd6db904ec,29c757a687084bfae5a2dc6bb31b05e5,-8023484632710850404,-9185373754145580836,7,N,400,1251,100
+vector.c,endian.h,\libvips\iofuncs\vector.c,\libyara\include\yara\endian.h,055954f4e165b83818f7e8bd6db904ec,f44500c257dc9e47f34b1473280aea77,-8023484632710850404,-8023445049755510628,4,N,400,55,15
+vector.c,integers.h,\libvips\iofuncs\vector.c,\libyara\include\yara\integers.h,055954f4e165b83818f7e8bd6db904ec,f8e220916ba72c943da73bf32049b841,-8023484632710850404,-8023445049755510628,4,N,400,57,18
+vector.c,limits.h,\libvips\iofuncs\vector.c,\libyara\include\yara\limits.h,055954f4e165b83818f7e8bd6db904ec,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023484632710850404,-8023445049755510628,4,N,400,77,25

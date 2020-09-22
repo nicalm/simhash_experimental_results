@@ -1,0 +1,4 @@
+14021-lxml,754-folly
+etree_defs.h,CPortability.h,\src\lxml\includes\etree_defs.h,\folly\CPortability.h,77e60df86f933a8497d9a006ac09a2c9,2071cc58e111b1fb40fa47a9161f5356,-8023482433217963876,-8023445049756493156,6,N,319,137,44
+etree_defs.h,Portability.h,\src\lxml\includes\etree_defs.h,\folly\Portability.h,77e60df86f933a8497d9a006ac09a2c9,4a7decd5a24ba7fccd761801e3ef4412,-8023482433217963876,-7447019619264177960,7,N,319,392,58
+etree_defs.h,Windows.h,\src\lxml\includes\etree_defs.h,\folly\portability\Windows.h,77e60df86f933a8497d9a006ac09a2c9,8d255d6eb746df0dd20db480cd3643e5,-8023482433217963876,-8023516518011316068,5,N,319,48,13

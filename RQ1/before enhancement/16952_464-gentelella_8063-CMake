@@ -1,0 +1,11 @@
+464-gentelella,8063-CMake
+globalize.js,getinfo.c,\vendors\Flot\lib\globalize.js,\Utilities\cmcurl\lib\getinfo.c,5859e34a6af3806758409c1cf6b6a681,e4b1b98ba03c964ba505b6b062b00050,5728855313755060435,5729127442933135575,7,N,1177,405,81
+globalize.js,setopt.c,\vendors\Flot\lib\globalize.js,\Utilities\cmcurl\lib\setopt.c,5859e34a6af3806758409c1cf6b6a681,c32f321618c395772c3eb5151b798824,5728855313755060435,5729127442933135575,7,N,1177,1762,147
+globalize.js,telnet.c,\vendors\Flot\lib\globalize.js,\Utilities\cmcurl\lib\telnet.c,5859e34a6af3806758409c1cf6b6a681,61f2737780988e684ee1746bbaceed3f,5728855313755060435,5729127442933135575,7,N,1177,1332,233
+globalize.js,archive_read_set_format.c,\vendors\Flot\lib\globalize.js,\Utilities\cmlibarchive\libarchive\archive_read_set_format.c,5859e34a6af3806758409c1cf6b6a681,44a41a5dca49f92d5c396c4e99eabec5,5728855313755060435,5729127994567997655,8,N,1177,76,19
+globalize.js,sectransp.c,\vendors\Flot\lib\globalize.js,\Utilities\cmcurl\lib\vtls\sectransp.c,5859e34a6af3806758409c1cf6b6a681,19c48e3eed312fd3d5b47ad6a8263888,5728855313755060435,5729127442933135575,7,N,1177,2690,239
+pathSvgToVml.js,getinfo.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\Utilities\cmcurl\lib\getinfo.c,33048ad2c45faa5606888ee3add887d1,e4b1b98ba03c964ba505b6b062b00050,5730112596751329503,5729127442933135575,8,N,86,405,18
+pathSvgToVml.js,setopt.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\Utilities\cmcurl\lib\setopt.c,33048ad2c45faa5606888ee3add887d1,c32f321618c395772c3eb5151b798824,5730112596751329503,5729127442933135575,8,N,86,1762,18
+pathSvgToVml.js,telnet.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\Utilities\cmcurl\lib\telnet.c,33048ad2c45faa5606888ee3add887d1,61f2737780988e684ee1746bbaceed3f,5730112596751329503,5729127442933135575,8,N,86,1332,19
+pathSvgToVml.js,archive_acl.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\Utilities\cmlibarchive\libarchive\archive_acl.c,33048ad2c45faa5606888ee3add887d1,1b46efa83d81ab20e324d06eb3acb5fb,5730112596751329503,5730253342838929623,8,N,86,1656,23
+pathSvgToVml.js,sectransp.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\Utilities\cmcurl\lib\vtls\sectransp.c,33048ad2c45faa5606888ee3add887d1,19c48e3eed312fd3d5b47ad6a8263888,5730112596751329503,5729127442933135575,8,N,86,2690,19

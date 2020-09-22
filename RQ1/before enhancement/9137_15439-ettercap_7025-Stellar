@@ -1,0 +1,3 @@
+15439-ettercap,7025-Stellar
+ec_os_mingw.h,Stellar-Swift.h,\include\ec_os_mingw.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,a35507e5684e934f2f3961ea9d733813,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,184,231,28
+ec_stdint.h,Stellar-Swift.h,\include\ec_stdint.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,6aec3e3181000888a59234edbdd91364,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,70,231,19

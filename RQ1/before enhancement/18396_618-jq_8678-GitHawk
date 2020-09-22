@@ -1,0 +1,13 @@
+618-jq,8678-GitHawk
+jv_dtoa.c,SDWebImageCompat.h,\src\jv_dtoa.c,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,e22c5b05bfd24415a3e8d8da3f8791ac,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510756,-7735249858110105444,4,N,3652,80,25
+jv_dtoa.c,IGListMacros.h,\src\jv_dtoa.c,\Pods\IGListKit\Source\Common\IGListMacros.h,e22c5b05bfd24415a3e8d8da3f8791ac,c09dcec455ebf0e513fb37737321da26,-8023445049755510756,-8888137828073678836,8,N,3652,18,7
+jv_dtoa.c,cmarkextensions_export.h,\src\jv_dtoa.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,e22c5b05bfd24415a3e8d8da3f8791ac,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510756,-8023480234127599460,2,N,3652,32,13
+jv_dtoa.c,cmark_export.h,\src\jv_dtoa.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,e22c5b05bfd24415a3e8d8da3f8791ac,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510756,-8023445049755510632,2,N,3652,32,13
+lexer.h,SDWebImageCompat.h,\src\lexer.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,da2a1a7176c85a8ba5c6ad487a6476ec,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510628,-7735249858110105444,3,N,554,80,24
+lexer.h,cmarkextensions_export.h,\src\lexer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,da2a1a7176c85a8ba5c6ad487a6476ec,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510628,-8023480234127599460,1,N,554,32,12
+lexer.h,cmark_export.h,\src\lexer.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,da2a1a7176c85a8ba5c6ad487a6476ec,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510628,-8023445049755510632,1,N,554,32,12
+libm.h,cmarkextensions_export.h,\src\libm.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,2cd1e495bcbe77e741569181c2fbb01b,252c50482fb9cc0b421251bbc1a8e0e6,-8032452266248775464,-8023480234127599460,8,N,291,32,12
+libm.h,cmark_export.h,\src\libm.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,2cd1e495bcbe77e741569181c2fbb01b,7d9a85e6bffd97dbcc67d0e392b8ead8,-8032452266248775464,-8023445049755510632,6,N,291,32,12
+parser.c,latex.c,\src\parser.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,a9e23cec6f740c2c216ed7e38fa76eaa,3b496090a1e3513cfad47cdb55fd9f13,5729127442933135575,5152666690361272567,4,N,3339,414,135
+parser.c,plaintext.c,\src\parser.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,a9e23cec6f740c2c216ed7e38fa76eaa,26e0294ebef318a7dde60887d309717f,5729127442933135575,5729127582519572639,4,N,3339,169,51
+decimal128.h,cmark_export.h,\src\decNumber\decimal128.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,d64413929172219be1c2a13c8751b279,7d9a85e6bffd97dbcc67d0e392b8ead8,-9180870188349695848,-8023445049755510632,7,N,41,32,6

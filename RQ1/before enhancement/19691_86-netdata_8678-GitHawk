@@ -1,0 +1,6 @@
+86-netdata,8678-GitHawk
+libnetdata.h,SDWebImageCompat.h,\libnetdata\libnetdata.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,b36073eea8dc836d3f37e426aebdabda,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445049755510628,-7735249858110105444,3,N,248,80,24
+libnetdata.h,cmarkextensions_export.h,\libnetdata\libnetdata.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,b36073eea8dc836d3f37e426aebdabda,252c50482fb9cc0b421251bbc1a8e0e6,-8023445049755510628,-8023480234127599460,1,N,248,32,12
+libnetdata.h,cmark_export.h,\libnetdata\libnetdata.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,b36073eea8dc836d3f37e426aebdabda,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445049755510628,-8023445049755510632,1,N,248,32,12
+clocks.h,cmarkextensions_export.h,\libnetdata\clocks\clocks.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,817f185c065ee719f0a0f5d506401b1f,252c50482fb9cc0b421251bbc1a8e0e6,-7879330084279756644,-8023480234127599460,8,N,66,32,11
+clocks.h,cmark_export.h,\libnetdata\clocks\clocks.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,817f185c065ee719f0a0f5d506401b1f,7d9a85e6bffd97dbcc67d0e392b8ead8,-7879330084279756644,-8023445049755510632,8,N,66,32,11

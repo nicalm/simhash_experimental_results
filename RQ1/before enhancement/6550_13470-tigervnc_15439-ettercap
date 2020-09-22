@@ -1,0 +1,10 @@
+13470-tigervnc,15439-ettercap
+SSLEngineManager.java,ec_filter.c,\java\com\tigervnc\network\SSLEngineManager.java,\src\ec_filter.c,39e909ecd9ccf04cb9bad885f45ab7de,93d0ed8de4c0c08c76b8fb5f7787aef5,3423284433716820183,5729127442664700119,5,N,127,799,29
+SSLEngineManager.java,ec_parser.c,\java\com\tigervnc\network\SSLEngineManager.java,\src\ec_parser.c,39e909ecd9ccf04cb9bad885f45ab7de,a95da67ae2615afb320cafe15fbcbfd2,3423284433716820183,5729127571782408407,8,N,127,364,25
+SSLEngineManager.java,ef_test.c,\java\com\tigervnc\network\SSLEngineManager.java,\utils\etterfilter\ef_test.c,39e909ecd9ccf04cb9bad885f45ab7de,fa7fc65cd5f440dd843abbe86d1716e4,3423284433716820183,5729127442933135575,4,N,127,181,25
+SSLEngineManager.java,el_parser.c,\java\com\tigervnc\network\SSLEngineManager.java,\utils\etterlog\el_parser.c,39e909ecd9ccf04cb9bad885f45ab7de,e965aa39918fe671682ccf0efa3de321,3423284433716820183,5729127442933135575,4,N,127,230,19
+ServerParams.java,ec_filter.c,\java\com\tigervnc\rfb\ServerParams.java,\src\ec_filter.c,81f51e625e63390d7951b591bd25df78,93d0ed8de4c0c08c76b8fb5f7787aef5,6881714696003043031,5729127442664700119,8,N,184,799,37
+ServerParams.java,ef_test.c,\java\com\tigervnc\rfb\ServerParams.java,\utils\etterfilter\ef_test.c,81f51e625e63390d7951b591bd25df78,fa7fc65cd5f440dd843abbe86d1716e4,6881714696003043031,5729127442933135575,7,N,184,181,35
+ServerParams.java,el_parser.c,\java\com\tigervnc\rfb\ServerParams.java,\utils\etterlog\el_parser.c,81f51e625e63390d7951b591bd25df78,e965aa39918fe671682ccf0efa3de321,6881714696003043031,5729127442933135575,7,N,184,230,25
+xvnc.c,ec_os_mingw.h,\unix\xserver\hw\vnc\xvnc.c,\include\ec_os_mingw.h,64de174f413a46b56c689e3d2f0ca711,a35507e5684e934f2f3961ea9d733813,-7955908787655354212,-8023445049755510628,8,N,1442,184,31
+xvnc.c,ec_stdint.h,\unix\xserver\hw\vnc\xvnc.c,\include\ec_stdint.h,64de174f413a46b56c689e3d2f0ca711,6aec3e3181000888a59234edbdd91364,-7955908787655354212,-8023445049755510628,8,N,1442,70,19

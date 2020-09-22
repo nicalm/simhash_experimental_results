@@ -1,0 +1,8 @@
+10841-gimp,4790-node-opencv
+gimpwin32-io.h,init.cc,\libgimpbase\gimpwin32-io.h,\src\init.cc,56ef6d63cf2566b506fd29ef2a5dcc22,ac230f241e7062df9add8317bcf2a3be,-8023445049755510628,-8032663355242784612,3,N,58,67,11
+imap_cern_lex.c,init.cc,\plug-ins\imagemap\imap_cern_lex.c,\src\init.cc,9dfe2ae66194d94dc98583b377437095,ac230f241e7062df9add8317bcf2a3be,-8019152556361770980,-8032663355242784612,6,N,1218,67,12
+imap_cern_parse.h,init.cc,\plug-ins\imagemap\imap_cern_parse.h,\src\init.cc,af25bf3cfc37bc3ffcbfe1812577e007,ac230f241e7062df9add8317bcf2a3be,-8023444912450709284,-8032663355242784612,8,N,61,67,9
+imap_csim_parse.c,init.cc,\plug-ins\imagemap\imap_csim_parse.c,\src\init.cc,6c0fd8dae4d7bb8f472f756f2edb786f,ac230f241e7062df9add8317bcf2a3be,-8888144974840538916,-8032663355242784612,8,N,1468,67,12
+imap_ncsa_lex.c,init.cc,\plug-ins\imagemap\imap_ncsa_lex.c,\src\init.cc,b072917b8ea62f8ad101aa7ea300009f,ac230f241e7062df9add8317bcf2a3be,-8019082187616527331,-8032663355242784612,7,N,1203,67,12
+imap_ncsa_parse.c,init.cc,\plug-ins\imagemap\imap_ncsa_parse.c,\src\init.cc,77d25a2cd7957fe736c5a4a3beae98fb,ac230f241e7062df9add8317bcf2a3be,-9176377550015506276,-8032663355242784612,7,N,1212,67,12
+scheme.h,init.cc,\plug-ins\script-fu\tinyscheme\scheme.h,\src\init.cc,e1ad4e8baad0fc63b3202d6b0eae8777,ac230f241e7062df9add8317bcf2a3be,-7805161205316396900,-8032663355242784612,5,N,211,67,12

@@ -1,0 +1,6 @@
+18490-libpcap,7025-Stellar
+ethertype.h,Stellar-Swift.h,\ethertype.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5246502b0d1f4ddb65891829be60f5ec,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,90,231,29
+fad-getad.c,Stellar-Swift.h,\fad-getad.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,9c64c9481787651e104cab2074b25048,fafe37ab4771e0a9586e17224fcc7041,-8023445049889728356,-7743940123003924324,6,N,123,231,15
+llc.h,Stellar-Swift.h,\llc.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,10c1e28c5565502bc994541ef75544ce,fafe37ab4771e0a9586e17224fcc7041,-8023453845848565604,-7743940123003924324,7,N,64,231,14
+pcap-dos.h,Stellar-Swift.h,\pcap-dos.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,c61d652370686a7d724284128012b7b8,fafe37ab4771e0a9586e17224fcc7041,-8005430668425897828,-7743940123003924324,7,N,171,231,22
+portability.h,Stellar-Swift.h,\portability.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,8986c6d4c1ff178921bc3ac8607e4b52,fafe37ab4771e0a9586e17224fcc7041,-9176120264294606692,-7743940123003924324,7,N,61,231,23

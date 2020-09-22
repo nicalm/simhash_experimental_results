@@ -1,0 +1,9 @@
+15910-gdal,63411-CMS
+swq_op_general.cpp,JSMinPlus.php,\gdal\ogr\swq_op_general.cpp,\iu-resources\min\lib\JSMinPlus.php,9a46e71d5126a97b05924e4d46123f6b,ada381ab05cfa7307d75a5e154803be9,5729127511652612311,5735588175405398231,8,N,1338,1637,414
+global.c,JSMinPlus.php,\gdal\alg\internal_libqhull\global.c,\iu-resources\min\lib\JSMinPlus.php,1da0d3f37e502be64b054f7a42db6ea9,ada381ab05cfa7307d75a5e154803be9,5729109850612873430,5735588175405398231,8,N,1668,1637,253
+pcrasterutil.cpp,JSMinPlus.php,\gdal\frmts\pcraster\pcrasterutil.cpp,\iu-resources\min\lib\JSMinPlus.php,e859d72f54bbc5ffafa4fb95c5478cac,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,552,1637,220
+pdfcreatefromcomposition.cpp,Config.php,\gdal\frmts\pdf\pdfcreatefromcomposition.cpp,\iu-system\core\Config.php,310c622b6f24dbedea525af51e8e1362,b7543ad40a0e7bf84eb7e0433269125b,1431365811161547694,1719297390733452206,6,N,2088,176,84
+gif_err.c,JSMinPlus.php,\gdal\frmts\gif\giflib\gif_err.c,\iu-resources\min\lib\JSMinPlus.php,ae184d827961b2dcfd4874276b74052e,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,96,1637,29
+geo_names.c,JSMinPlus.php,\gdal\frmts\gtiff\libgeotiff\geo_names.c,\iu-resources\min\lib\JSMinPlus.php,8e60256c302a3dd73096a43e42ec917f,ada381ab05cfa7307d75a5e154803be9,5457353459461830871,5735588175405398231,8,N,266,1637,85
+tif_dir.c,JSMinPlus.php,\gdal\frmts\gtiff\libtiff\tif_dir.c,\iu-resources\min\lib\JSMinPlus.php,4f501baa598e4ce669a2ec5827ef519c,ada381ab05cfa7307d75a5e154803be9,5733631042560506071,5735588175405398231,6,N,1433,1637,317
+ogrdxf_leader.cpp,JSMinPlus.php,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\iu-resources\min\lib\JSMinPlus.php,4848c0c5b772127cd6203813cdb66178,ada381ab05cfa7307d75a5e154803be9,5729127442933135607,5735588175405398231,8,N,967,1637,237

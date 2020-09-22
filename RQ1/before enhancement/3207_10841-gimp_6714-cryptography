@@ -1,0 +1,4 @@
+10841-gimp,6714-cryptography
+gimpwin32-io.h,osrandom_engine.h,\libgimpbase\gimpwin32-io.h,\src\_cffi_src\openssl\src\osrandom_engine.h,56ef6d63cf2566b506fd29ef2a5dcc22,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,58,80,11
+imap_csim_parse.c,osrandom_engine.h,\plug-ins\imagemap\imap_csim_parse.c,\src\_cffi_src\openssl\src\osrandom_engine.h,6c0fd8dae4d7bb8f472f756f2edb786f,5faed825e57102494d64f41f67417150,-8888144974840538916,-9176392388590904164,8,N,1468,80,15
+imap_ncsa_parse.c,osrandom_engine.h,\plug-ins\imagemap\imap_ncsa_parse.c,\src\_cffi_src\openssl\src\osrandom_engine.h,77d25a2cd7957fe736c5a4a3beae98fb,5faed825e57102494d64f41f67417150,-9176377550015506276,-9176392388590904164,7,N,1212,80,15

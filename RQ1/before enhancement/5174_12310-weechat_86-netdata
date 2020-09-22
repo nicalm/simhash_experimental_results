@@ -1,0 +1,4 @@
+12310-weechat,86-netdata
+wee-url.c,libnetdata.h,\src\core\wee-url.c,\libnetdata\libnetdata.h,2182536a79bada4949d9bc0483b5da6d,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,1111,248,39
+wee-url.c,clocks.h,\src\core\wee-url.c,\libnetdata\clocks\clocks.h,2182536a79bada4949d9bc0483b5da6d,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,1111,66,11
+gui-curses-term.c,libnetdata.h,\src\gui\curses\gui-curses-term.c,\libnetdata\libnetdata.h,12c6b2e5780349c1e6b15f2a0f08c5ca,b36073eea8dc836d3f37e426aebdabda,-7447028277908808228,-8023445049755510628,7,N,23,248,9

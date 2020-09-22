@@ -1,0 +1,10 @@
+12873-mediawiki,4420-zcash
+Cookie.php,policy.cpp,\includes\libs\Cookie.php,\src\policy\policy.cpp,34fc516f706f9aebaa09ea05367f529e,b49cba2f0f54de3a01a53927cb03014b,1439509896464450446,1431083237210080174,7,N,107,121,30
+IPTC.php,status.cc,\includes\media\IPTC.php,\src\leveldb\util\status.cc,5acd3160fef09ca8547c657db582b971,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,377,66,16
+MediaHandler.php,policy.cpp,\includes\media\MediaHandler.php,\src\policy\policy.cpp,9ba620f3db5d006be8450a84f532145e,b49cba2f0f54de3a01a53927cb03014b,1701369033874228138,1431083237210080174,6,N,276,121,38
+MediaWikiPageNameNormalizer.php,policy.cpp,\includes\site\MediaWikiPageNameNormalizer.php,\src\policy\policy.cpp,c4832b9d76351ecb51d3d689ca5feddd,b49cba2f0f54de3a01a53927cb03014b,1431222325163607022,1431083237210080174,7,N,104,121,28
+bench_if_switch.php,status.cc,\maintenance\benchmarks\bench_if_switch.php,\src\leveldb\util\status.cc,ebc9d6c5664eaffdc591b48a194dced3,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,73,66,16
+APCUBagOStuff.php,policy.cpp,\includes\libs\objectcache\APCUBagOStuff.php,\src\policy\policy.cpp,5355e23b7c2fec88fa1d7210da02accb,b49cba2f0f54de3a01a53927cb03014b,3737625673258128302,1431083237210080174,8,N,82,121,25
+MemcachedClient.php,policy.cpp,\includes\libs\objectcache\utils\MemcachedClient.php,\src\policy\policy.cpp,dd040abdd5939f294b9e1751985953ab,b49cba2f0f54de3a01a53927cb03014b,1431357016175825838,1431083237210080174,7,N,570,121,41
+ConditionalHeaderUtilTest.php,univalue_escapes.h,\tests\phpunit\unit\includes\Rest\ConditionalHeaderUtilTest.php,\src\univalue\lib\univalue_escapes.h,57aa8ad0202b42b561b59457cd27255b,64fb239740dea1d1eb69383d70c69b2c,-8976297907529118897,-8976280315343074481,1,N,236,261,0
+HttpAcceptNegotiatorTest.php,univalue_escapes.h,\tests\phpunit\unit\includes\libs\http\HttpAcceptNegotiatorTest.php,\src\univalue\lib\univalue_escapes.h,a2fc7a27b4b4709132bdd140ee9e9143,64fb239740dea1d1eb69383d70c69b2c,-8976280882412977841,-8976280315343074481,5,N,130,261,0

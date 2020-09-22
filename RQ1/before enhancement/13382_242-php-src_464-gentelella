@@ -1,0 +1,13 @@
+242-php-src,464-gentelella
+com_variant.c,globalize.js,\ext\com_dotnet\com_variant.c,\vendors\Flot\lib\globalize.js,8cc1d969830285306cb98cfbe0332de9,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,840,1177,169
+com_variant.c,pathSvgToVml.js,\ext\com_dotnet\com_variant.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,8cc1d969830285306cb98cfbe0332de9,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,840,86,18
+domexception.c,globalize.js,\ext\dom\domexception.c,\vendors\Flot\lib\globalize.js,99fc4111c0afb3d46504c745c26ac181,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,77,1177,24
+domexception.c,pathSvgToVml.js,\ext\dom\domexception.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,99fc4111c0afb3d46504c745c26ac181,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,77,86,18
+php_encoding.c,moment.js,\ext\soap\php_encoding.c,\vendors\moment\moment.js,57e79745598f7b02d6a146845c3ac8ee,f1cd5bdc747c20c6de4210e68b539782,2305253389781026990,3455852176007088830,8,N,3130,3064,592
+php_encoding.c,Chart.bundle.js,\ext\soap\php_encoding.c,\vendors\Chart.js\dist\Chart.bundle.js,57e79745598f7b02d6a146845c3ac8ee,cfc5e4a7c6088708fef9f9875b492230,2305253389781026990,2302930534028395198,7,N,3130,10705,687
+php_encoding.c,jquery.js,\ext\soap\php_encoding.c,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,57e79745598f7b02d6a146845c3ac8ee,2d87ba23383f782ee174b1e96d92f56a,2305253389781026990,2287238992077113598,6,N,3130,6390,697
+soap.c,moment.js,\ext\soap\soap.c,\vendors\moment\moment.js,05e9e535fbabf3229040b56bffc843a2,f1cd5bdc747c20c6de4210e68b539782,4574996546036810942,3455852176007088830,8,N,3956,3064,625
+soap.c,Chart.bundle.js,\ext\soap\soap.c,\vendors\Chart.js\dist\Chart.bundle.js,05e9e535fbabf3229040b56bffc843a2,cfc5e4a7c6088708fef9f9875b492230,4574996546036810942,2302930534028395198,5,N,3956,10705,819
+php_http_parser.c,globalize.js,\sapi\cli\php_http_parser.c,\vendors\Flot\lib\globalize.js,1cb8682c3e456c12782ef52aaf04c34e,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,1221,1177,194
+php_http_parser.c,pathSvgToVml.js,\sapi\cli\php_http_parser.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,1cb8682c3e456c12782ef52aaf04c34e,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,1221,86,20
+confutils.js,Chart.bundle.js,\win32\build\confutils.js,\vendors\Chart.js\dist\Chart.bundle.js,985318fd97d0a00c9a29da585bc7e9bf,cfc5e4a7c6088708fef9f9875b492230,5761713191065830078,2302930534028395198,8,N,2884,10705,699

@@ -1,0 +1,6 @@
+10572-Openfire,1541-h2o
+ProfiledConnection.java,logconf.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\lib\core\logconf.c,82b3cca56b0b2195d9beda1ef5898c9c,938552448ad917655fb38241a71d87b8,5747704796764879063,5693098645914163415,7,N,828,766,124
+ProfiledConnection.java,codedump.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\deps\mruby\src\codedump.c,82b3cca56b0b2195d9beda1ef5898c9c,7fda31add2a50b1a066d625a7cb020c0,5747704796764879063,5729127442933135575,5,N,828,525,102
+PropertyEventDispatcher.java,logconf.c,\xmppserver\src\main\java\org\jivesoftware\util\PropertyEventDispatcher.java,\lib\core\logconf.c,3eb29d5aa33c9f136c126b9db24144e9,938552448ad917655fb38241a71d87b8,5422865076085872849,5693098645914163415,7,N,57,766,21
+GroupEventDispatcher.java,logconf.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\lib\core\logconf.c,68bd878d44b313df2afdd340fe0c0022,938552448ad917655fb38241a71d87b8,8016956053561850069,5693098645914163415,6,N,73,766,27
+GroupEventDispatcher.java,codedump.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\deps\mruby\src\codedump.c,68bd878d44b313df2afdd340fe0c0022,7fda31add2a50b1a066d625a7cb020c0,8016956053561850069,5729127442933135575,6,N,73,525,27

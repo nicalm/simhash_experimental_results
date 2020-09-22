@@ -1,0 +1,3 @@
+1123-envoy,60276-esp-homekit-devices
+header_map_impl_fuzz_test.cc,server.c,\test\common\http\header_map_impl_fuzz_test.cc,\external_libs\homekit\src\server.c,2cd640c272d9bb6db5693ff62858ef92,2990568b8a7ba71db910a0248e93548d,5729127442933135575,5157099981642415315,8,N,173,2760,48
+tap_config_base.cc,server.c,\source\extensions\common\tap\tap_config_base.cc,\external_libs\homekit\src\server.c,3e951364e0bf73ec7b131db5be14b0f0,2990568b8a7ba71db910a0248e93548d,1121945015543183603,5157099981642415315,7,N,174,2760,51

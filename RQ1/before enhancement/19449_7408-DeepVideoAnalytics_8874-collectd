@@ -1,0 +1,13 @@
+7408-DeepVideoAnalytics,8874-collectd
+bbox.c,collectd.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\src\daemon\collectd.h,b42f28bb593ba51126ab3c36f2280e44,2b583af2ee5d68797b260dc2234a9a80,-7735003018152322916,-8023445049755510628,5,N,5912,198,59
+bbox.c,stdendian.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\src\libcollectdclient\collectd\stdendian.h,b42f28bb593ba51126ab3c36f2280e44,098cf6af06fc9530aaf9936b14d4d802,-7735003018152322916,-8032521930559661924,6,N,5912,165,31
+bbox.c,mount.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\src\utils\mount\mount.h,b42f28bb593ba51126ab3c36f2280e44,8535c5ea598e2c2e046efd01984ce929,-7735003018152322916,-8023445049755510628,5,N,5912,64,16
+cython_nms.c,collectd.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\src\daemon\collectd.h,340c61e73ba74d7820ff458fae32d716,2b583af2ee5d68797b260dc2234a9a80,-7735003018152322916,-8023445049755510628,5,N,6623,198,59
+cython_nms.c,stdendian.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\src\libcollectdclient\collectd\stdendian.h,340c61e73ba74d7820ff458fae32d716,098cf6af06fc9530aaf9936b14d4d802,-7735003018152322916,-8032521930559661924,6,N,6623,165,31
+cython_nms.c,mount.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\src\utils\mount\mount.h,340c61e73ba74d7820ff458fae32d716,8535c5ea598e2c2e046efd01984ce929,-7735003018152322916,-8023445049755510628,5,N,6623,64,16
+gpu_nms.c,collectd.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\src\daemon\collectd.h,c5f744cc55310f8443ffae08bc289c17,2b583af2ee5d68797b260dc2234a9a80,-7735003018152322916,-8023445049755510628,5,N,5655,198,59
+gpu_nms.c,stdendian.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\src\libcollectdclient\collectd\stdendian.h,c5f744cc55310f8443ffae08bc289c17,098cf6af06fc9530aaf9936b14d4d802,-7735003018152322916,-8032521930559661924,6,N,5655,165,31
+gpu_nms.c,mount.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\src\utils\mount\mount.h,c5f744cc55310f8443ffae08bc289c17,8535c5ea598e2c2e046efd01984ce929,-7735003018152322916,-8023445049755510628,5,N,5655,64,16
+gpu_nms.cpp,collectd.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,\src\daemon\collectd.h,2472408016d358310deb015143185fa8,2b583af2ee5d68797b260dc2234a9a80,-7590887830068078436,-8023445049755510628,7,N,4948,198,56
+gpu_nms.cpp,stdendian.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,\src\libcollectdclient\collectd\stdendian.h,2472408016d358310deb015143185fa8,098cf6af06fc9530aaf9936b14d4d802,-7590887830068078436,-8032521930559661924,8,N,4948,165,31
+gpu_nms.cpp,mount.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,\src\utils\mount\mount.h,2472408016d358310deb015143185fa8,8535c5ea598e2c2e046efd01984ce929,-7590887830068078436,-8023445049755510628,7,N,4948,64,15

@@ -1,0 +1,5 @@
+12688-ffi,7025-Stellar
+compat.h,Stellar-Swift.h,\ext\ffi_c\compat.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,89860486007fe9b6739772aa0b042837,fafe37ab4771e0a9586e17224fcc7041,-8023447251463120740,-7743940123003924324,8,N,38,231,12
+DynamicLibrary.h,Stellar-Swift.h,\ext\ffi_c\DynamicLibrary.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,85bcc5d631466c02273f9899152b054b,fafe37ab4771e0a9586e17224fcc7041,-5753630837560780644,-7743940123003924324,7,N,49,231,15
+rbffi_endian.h,Stellar-Swift.h,\ext\ffi_c\rbffi_endian.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,f869d8d0ddc657c2a3138058f91acb6c,fafe37ab4771e0a9586e17224fcc7041,-8023445049822619428,-7743940123003924324,7,N,50,231,14
+stdint.h,Stellar-Swift.h,\ext\ffi_c\win32\stdint.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d00f0f9af7eff0e9d5c33aec9b0d48c6,fafe37ab4771e0a9586e17224fcc7041,-7636992825984954340,-7743940123003924324,8,N,148,231,17

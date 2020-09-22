@@ -1,0 +1,3 @@
+10187-viabtc_exchange_server,10572-Openfire
+http_parser.c,ProfiledConnection.java,\utils\http_parser.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,d09d117e8f6d43dee97217c802830c00,82b3cca56b0b2195d9beda1ef5898c9c,5728845967956424919,5747704796764879063,6,N,1850,828,248
+http_parser.c,GroupEventDispatcher.java,\utils\http_parser.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,d09d117e8f6d43dee97217c802830c00,68bd878d44b313df2afdd340fe0c0022,5728845967956424919,8016956053561850069,7,N,1850,73,27

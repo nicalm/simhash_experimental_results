@@ -1,0 +1,10 @@
+10205-firejail,12310-weechat
+caps.c,wee-url.c,\src\firejail\caps.c,\src\core\wee-url.c,0b9d72adabe6b183bf9a7948ffeb2934,2182536a79bada4949d9bc0483b5da6d,-5717602040541816676,-8023445049755510628,1,N,334,1111,73
+caps.c,gui-curses-term.c,\src\firejail\caps.c,\src\gui\curses\gui-curses-term.c,0b9d72adabe6b183bf9a7948ffeb2934,12c6b2e5780349c1e6b15f2a0f08c5ca,-5717602040541816676,-7447028277908808228,8,N,334,23,8
+sbox.c,wee-url.c,\src\firejail\sbox.c,\src\core\wee-url.c,8a6f9f9ce42bcca368916f82519b79d6,2182536a79bada4949d9bc0483b5da6d,-8024007999708931940,-8023445049755510628,1,N,190,1111,45
+sbox.c,gui-curses-term.c,\src\firejail\sbox.c,\src\gui\curses\gui-curses-term.c,8a6f9f9ce42bcca368916f82519b79d6,12c6b2e5780349c1e6b15f2a0f08c5ca,-8024007999708931940,-7447028277908808228,8,N,190,23,6
+syscall.c,wee-url.c,\src\fseccomp\syscall.c,\src\core\wee-url.c,bf0ef0cc7976e59f6ac60c1a011c8188,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,1564,1111,220
+syscall.c,gui-curses-term.c,\src\fseccomp\syscall.c,\src\gui\curses\gui-curses-term.c,bf0ef0cc7976e59f6ac60c1a011c8188,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,1564,23,6
+syscall.h,wee-url.c,\src\include\syscall.h,\src\core\wee-url.c,e5d70ee64e8335903c40165f92bcb3a5,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,5186,1111,174
+syscall.h,gui-curses-term.c,\src\include\syscall.h,\src\gui\curses\gui-curses-term.c,e5d70ee64e8335903c40165f92bcb3a5,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,5186,23,5
+libtrace.c,wee-url.c,\src\libtrace\libtrace.c,\src\core\wee-url.c,e75ec9f98f403929994ba2e9b45b7b14,2182536a79bada4949d9bc0483b5da6d,-7663159407438177892,-8023445049755510628,7,N,558,1111,100

@@ -1,0 +1,15 @@
+14790-sleuthkit,7408-DeepVideoAnalytics
+dfxml.cpp,bbox.c,\tools\fiwalk\src\dfxml.cpp,\repos\tf_ctpn_cpu\lib\utils\bbox.c,eb50b8530f9308f16c36524fddd2f5b8,b42f28bb593ba51126ab3c36f2280e44,-8023587986267121524,-7735003018152322916,8,N,386,5912,107
+dfxml.cpp,cython_nms.c,\tools\fiwalk\src\dfxml.cpp,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,eb50b8530f9308f16c36524fddd2f5b8,340c61e73ba74d7820ff458fae32d716,-8023587986267121524,-7735003018152322916,8,N,386,6623,107
+dfxml.cpp,gpu_nms.c,\tools\fiwalk\src\dfxml.cpp,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,eb50b8530f9308f16c36524fddd2f5b8,c5f744cc55310f8443ffae08bc289c17,-8023587986267121524,-7735003018152322916,8,N,386,5655,107
+dfxml.h,bbox.c,\tools\fiwalk\src\dfxml.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,f3c421d932ecf1b8fb08953027383675,b42f28bb593ba51126ab3c36f2280e44,-7591239665207420708,-7735003018152322916,6,N,146,5912,34
+dfxml.h,cython_nms.c,\tools\fiwalk\src\dfxml.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,f3c421d932ecf1b8fb08953027383675,340c61e73ba74d7820ff458fae32d716,-7591239665207420708,-7735003018152322916,6,N,146,6623,34
+dfxml.h,gpu_nms.c,\tools\fiwalk\src\dfxml.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,f3c421d932ecf1b8fb08953027383675,c5f744cc55310f8443ffae08bc289c17,-7591239665207420708,-7735003018152322916,6,N,146,5655,34
+dfxml.h,gpu_nms.cpp,\tools\fiwalk\src\dfxml.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,f3c421d932ecf1b8fb08953027383675,2472408016d358310deb015143185fa8,-7591239665207420708,-7590887830068078436,6,N,146,4948,34
+utils.h,bbox.c,\tools\fiwalk\src\utils.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,e6ab32b13676a61b654ad5e51f15827a,b42f28bb593ba51126ab3c36f2280e44,-7600106410441515876,-7735003018152322916,8,N,33,5912,10
+utils.h,cython_nms.c,\tools\fiwalk\src\utils.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,e6ab32b13676a61b654ad5e51f15827a,340c61e73ba74d7820ff458fae32d716,-7600106410441515876,-7735003018152322916,8,N,33,6623,10
+utils.h,gpu_nms.c,\tools\fiwalk\src\utils.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,e6ab32b13676a61b654ad5e51f15827a,c5f744cc55310f8443ffae08bc289c17,-7600106410441515876,-7735003018152322916,8,N,33,5655,10
+utils.h,gpu_nms.cpp,\tools\fiwalk\src\utils.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,e6ab32b13676a61b654ad5e51f15827a,2472408016d358310deb015143185fa8,-7600106410441515876,-7590887830068078436,8,N,33,4948,10
+file.h,bbox.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,d22799caeaddf83c099f19cf401487da,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510568,-7735003018152322916,7,N,402,5912,53
+file.h,cython_nms.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,d22799caeaddf83c099f19cf401487da,340c61e73ba74d7820ff458fae32d716,-8023445049755510568,-7735003018152322916,7,N,402,6623,53
+file.h,gpu_nms.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,d22799caeaddf83c099f19cf401487da,c5f744cc55310f8443ffae08bc289c17,-8023445049755510568,-7735003018152322916,7,N,402,5655,53

@@ -1,0 +1,3 @@
+2909-mongoose,4287-cockpit
+wifi.c,utils.js,\examples\CC3200\wifi.c,\pkg\machines\components\networks\utils.js,b111590a605d6950d64e924a502fe0b1,dda688ac2bc7c2e31a19656c8e064951,1701581239584844206,1413069938203849646,7,N,133,110,26
+wifi.c,utils.js,\examples\MSP432\ccs\MSP432_MG_hello\wifi.c,\pkg\machines\components\networks\utils.js,a565f223dd5979f5fe7136237016c763,dda688ac2bc7c2e31a19656c8e064951,1431364162414207406,1413069938203849646,8,N,108,110,27

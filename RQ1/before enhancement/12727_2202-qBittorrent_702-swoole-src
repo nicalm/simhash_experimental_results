@@ -1,0 +1,9 @@
+2202-qBittorrent,702-swoole-src
+application.cpp,swoole.cc,\src\app\application.cpp,\swoole.cc,1769f1c34b2b51e4c126498e3a0b5a58,51095f5d0c729dc304ea7d3b74a45710,-7445858400229599076,-8023444500268134244,8,N,573,735,124
+application.cpp,swoole_socket_coro.cc,\src\app\application.cpp,\swoole_socket_coro.cc,1769f1c34b2b51e4c126498e3a0b5a58,8f05b0e20fc4d2f3859f5f9463ada7b1,-7445858400229599076,-5699587642032351076,8,N,573,1368,136
+main.cpp,swoole.cc,\src\app\main.cpp,\swoole.cc,0ab876c235d091cc9321f5b26945d353,51095f5d0c729dc304ea7d3b74a45710,-8023445118508476260,-8023444500268134244,6,N,324,735,74
+main.cpp,swoole_socket_coro.cc,\src\app\main.cpp,\swoole_socket_coro.cc,0ab876c235d091cc9321f5b26945d353,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023445118508476260,-5699587642032351076,6,N,324,1368,73
+session.cpp,swoole_http_parser.c,\src\base\bittorrent\session.cpp,\thirdparty\swoole_http_parser.c,ca3fc73b6732798b8724618e8c3fec27,d155f3ba8a7cdb53f79f34af305581eb,6881978578661030105,5729127442933135575,8,N,3742,1234,252
+proplistdelegate.cpp,swoole_http_parser.c,\src\gui\properties\proplistdelegate.cpp,\thirdparty\swoole_http_parser.c,4de60f6b36141f92c2bc5ba3d77471db,d155f3ba8a7cdb53f79f34af305581eb,-3494526068898088747,5729127442933135575,4,N,172,1234,55
+proplistdelegate.cpp,log.c,\src\gui\properties\proplistdelegate.cpp,\src\core\log.c,4de60f6b36141f92c2bc5ba3d77471db,fcd6d98ec4555c3e125d89e154fba5fa,-3494526068898088747,5693098645905783253,6,N,172,114,36
+proplistdelegate.cpp,get.php,\src\gui\properties\proplistdelegate.cpp,\tests\include\lib\src\responder\get.php,4de60f6b36141f92c2bc5ba3d77471db,0e93a44800862fa891e9d4a8bd016ee0,-3494526068898088747,8034970456441796823,6,N,172,71,20

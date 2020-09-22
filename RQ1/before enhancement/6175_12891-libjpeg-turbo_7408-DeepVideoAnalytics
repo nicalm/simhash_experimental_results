@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,7408-DeepVideoAnalytics
+jmorecfg.h,bbox.c,\jmorecfg.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,1469bb97fe30335d1c73bd97389298b2,b42f28bb593ba51126ab3c36f2280e44,-8023517342645037028,-7735003018152322916,7,N,162,5912,34
+jmorecfg.h,cython_nms.c,\jmorecfg.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,1469bb97fe30335d1c73bd97389298b2,340c61e73ba74d7820ff458fae32d716,-8023517342645037028,-7735003018152322916,7,N,162,6623,34
+jmorecfg.h,gpu_nms.c,\jmorecfg.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,1469bb97fe30335d1c73bd97389298b2,c5f744cc55310f8443ffae08bc289c17,-8023517342645037028,-7735003018152322916,7,N,162,5655,34
+jpeglib.h,gpu_nms.cpp,\jpeglib.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,ab13418d4061febff4eef6d252c94832,2472408016d358310deb015143185fa8,-5285328528677250660,-7590887830068078436,7,N,533,4948,40

@@ -1,0 +1,4 @@
+11788-fbthrift,12726-json-c
+thrift_config.h,debug.h,\thrift\lib\cpp\thrift_config.h,\debug.h,27c650bbff0590e9f2fafe163b055489,9485e3ba51f6b887d7f314a17084403b,-8023445049755510628,-8023445049889727851,4,N,220,51,8
+thrift_config.h,math_compat.h,\thrift\lib\cpp\thrift_config.h,\math_compat.h,27c650bbff0590e9f2fafe163b055489,4357c12e0501613ef23237ebf196e67e,-8023445049755510628,-8021193387649222628,6,N,220,24,7
+thrift_config.h,random_seed.c,\thrift\lib\cpp\thrift_config.h,\random_seed.c,27c650bbff0590e9f2fafe163b055489,bd76daf7352b5719534d91abc930c885,-8023445049755510628,-8023454396409656420,8,N,220,155,15

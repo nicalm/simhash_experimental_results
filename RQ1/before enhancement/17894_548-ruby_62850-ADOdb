@@ -1,0 +1,3 @@
+548-ruby,62850-ADOdb
+mktable.c,adodb-pdo_firebird.inc.php,\enc\mktable.c,\drivers\adodb-pdo_firebird.inc.php,6e80fd9ac3332b04543cc42590b0f38e,9495b386496271e4936472af040fd5ea,5728846242565896439,5738134642182631639,8,N,984,333,81
+closure.c,adodb-pdo_firebird.inc.php,\ext\fiddle\closure.c,\drivers\adodb-pdo_firebird.inc.php,3d04248ca021f7b04c57c8fc682a56a1,9495b386496271e4936472af040fd5ea,5729127442932611285,5738134642182631639,6,N,259,333,49

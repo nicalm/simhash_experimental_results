@@ -1,0 +1,6 @@
+491-hub,8874-collectd
+steps.rb,collectd_unix_sock.rb,\features\steps.rb,\contrib\collectd_unix_sock.rb,ba47a5068d4a4980503b722beb6fbf0f,f81cad324fa453619602e340c522f65a,-256047655518521814,-256049854541781462,2,N,263,49,12
+aruba_command.rb,collectd_unix_sock.rb,\features\support\aruba_command.rb,\contrib\collectd_unix_sock.rb,2c3553a53bd2259d62b9a99ec0c22111,f81cad324fa453619602e340c522f65a,-256047655518521814,-256049854541781462,2,N,67,49,12
+completion.rb,collectd_unix_sock.rb,\features\support\completion.rb,\contrib\collectd_unix_sock.rb,51f8af22ec5d08b40789158f89798e47,f81cad324fa453619602e340c522f65a,-256047655518521814,-256049854541781462,2,N,254,49,12
+env.rb,collectd_unix_sock.rb,\features\support\env.rb,\contrib\collectd_unix_sock.rb,9c9da1dd6bc49fa4f94ef75ff8ea09f1,f81cad324fa453619602e340c522f65a,-256052057859999830,-256049854541781462,6,N,112,49,12
+local_server.rb,collectd_unix_sock.rb,\features\support\local_server.rb,\contrib\collectd_unix_sock.rb,ecd78f8e614871e83252bbf7916ce2d3,f81cad324fa453619602e340c522f65a,-256047655518521814,-256049854541781462,2,N,161,49,12

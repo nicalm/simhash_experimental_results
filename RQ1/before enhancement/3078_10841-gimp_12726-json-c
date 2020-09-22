@@ -1,0 +1,10 @@
+10841-gimp,12726-json-c
+gimpwin32-io.h,debug.h,\libgimpbase\gimpwin32-io.h,\debug.h,56ef6d63cf2566b506fd29ef2a5dcc22,9485e3ba51f6b887d7f314a17084403b,-8023445049755510628,-8023445049889727851,4,N,58,51,8
+gimpwin32-io.h,math_compat.h,\libgimpbase\gimpwin32-io.h,\math_compat.h,56ef6d63cf2566b506fd29ef2a5dcc22,4357c12e0501613ef23237ebf196e67e,-8023445049755510628,-8021193387649222628,6,N,58,24,7
+gimpwin32-io.h,random_seed.c,\libgimpbase\gimpwin32-io.h,\random_seed.c,56ef6d63cf2566b506fd29ef2a5dcc22,bd76daf7352b5719534d91abc930c885,-8023445049755510628,-8023454396409656420,8,N,58,155,15
+imap_cern_parse.h,debug.h,\plug-ins\imagemap\imap_cern_parse.h,\debug.h,af25bf3cfc37bc3ffcbfe1812577e007,9485e3ba51f6b887d7f314a17084403b,-8023444912450709284,-8023445049889727851,7,N,61,51,11
+imap_ncsa_lex.c,debug.h,\plug-ins\imagemap\imap_ncsa_lex.c,\debug.h,b072917b8ea62f8ad101aa7ea300009f,9485e3ba51f6b887d7f314a17084403b,-8019082187616527331,-8023445049889727851,8,N,1203,51,16
+imap_ncsa_parse.c,debug.h,\plug-ins\imagemap\imap_ncsa_parse.c,\debug.h,77d25a2cd7957fe736c5a4a3beae98fb,9485e3ba51f6b887d7f314a17084403b,-9176377550015506276,-8023445049889727851,8,N,1212,51,14
+imap_ncsa_parse.c,random_seed.c,\plug-ins\imagemap\imap_ncsa_parse.c,\random_seed.c,77d25a2cd7957fe736c5a4a3beae98fb,bd76daf7352b5719534d91abc930c885,-9176377550015506276,-8023454396409656420,8,N,1212,155,46
+scheme.h,debug.h,\plug-ins\script-fu\tinyscheme\scheme.h,\debug.h,e1ad4e8baad0fc63b3202d6b0eae8777,9485e3ba51f6b887d7f314a17084403b,-7805161205316396900,-8023445049889727851,8,N,211,51,14
+scheme.h,math_compat.h,\plug-ins\script-fu\tinyscheme\scheme.h,\math_compat.h,e1ad4e8baad0fc63b3202d6b0eae8777,4357c12e0501613ef23237ebf196e67e,-7805161205316396900,-8021193387649222628,8,N,211,24,7

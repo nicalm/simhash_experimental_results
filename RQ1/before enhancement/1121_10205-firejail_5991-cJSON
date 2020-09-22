@@ -1,0 +1,6 @@
+10205-firejail,5991-cJSON
+caps.c,unity_internals.h,\src\firejail\caps.c,\tests\unity\src\unity_internals.h,0b9d72adabe6b183bf9a7948ffeb2934,c48f2ef9d57759a1fe49b445259832f1,-5717602040541816676,-8023445049755510628,1,N,334,652,42
+sbox.c,unity_internals.h,\src\firejail\sbox.c,\tests\unity\src\unity_internals.h,8a6f9f9ce42bcca368916f82519b79d6,c48f2ef9d57759a1fe49b445259832f1,-8024007999708931940,-8023445049755510628,1,N,190,652,23
+syscall.c,unity_internals.h,\src\fseccomp\syscall.c,\tests\unity\src\unity_internals.h,bf0ef0cc7976e59f6ac60c1a011c8188,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,1564,652,78
+syscall.h,unity_internals.h,\src\include\syscall.h,\tests\unity\src\unity_internals.h,e5d70ee64e8335903c40165f92bcb3a5,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,5186,652,76
+libtrace.c,unity_internals.h,\src\libtrace\libtrace.c,\tests\unity\src\unity_internals.h,e75ec9f98f403929994ba2e9b45b7b14,c48f2ef9d57759a1fe49b445259832f1,-7663159407438177892,-8023445049755510628,7,N,558,652,47

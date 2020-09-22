@@ -1,0 +1,3 @@
+11788-fbthrift,2389-Pillow
+thrift_config.h,ImPlatform.h,\thrift\lib\cpp\thrift_config.h,\src\libImaging\ImPlatform.h,27c650bbff0590e9f2fafe163b055489,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,220,58,11
+macros.h,ImPlatform.h,\thrift\lib\rb\ext\macros.h,\src\libImaging\ImPlatform.h,30f9d8d804dd66b382db54f2861518aa,6670b4584189b95bdcaaa198dabbf5c8,-8032469861362509668,-8024570949662353252,8,N,18,58,4

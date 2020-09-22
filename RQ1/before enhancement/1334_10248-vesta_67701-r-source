@@ -1,0 +1,5 @@
+10248-vesta,67701-r-source
+index.php,Rstrptime.h,\web\bulk\user\index.php,\src\main\Rstrptime.h,e63f54fde5aa69c0078f57a124201499,407931813825b80d1daf2fc23d1841da,5729127442931036375,5585012323576749271,6,N,53,1001,17
+index.php,printf-args.c,\web\bulk\user\index.php,\src\extra\intl\printf-args.c,e63f54fde5aa69c0078f57a124201499,32e9cc807cac7369c6c119a76b828fae,5729127442931036375,6882048947539982551,3,N,53,141,17
+index.php,gramRd.c,\web\bulk\user\index.php,\src\library\tools\src\gramRd.c,e63f54fde5aa69c0078f57a124201499,2b9b861b2d2889b8b1da360bdc301c6f,5729127442931036375,5728845959400298719,8,N,53,3354,18
+index.php,size.c,\web\bulk\user\index.php,\src\library\utils\src\size.c,e63f54fde5aa69c0078f57a124201499,d3f58f0d4cffb28c8442526e8e0bfacf,5729127442931036375,2280496028263692498,8,N,53,105,15

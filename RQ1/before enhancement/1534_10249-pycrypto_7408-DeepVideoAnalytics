@@ -1,0 +1,15 @@
+10249-pycrypto,7408-DeepVideoAnalytics
+tomcrypt_cfg.h,bbox.c,\src\libtom\tomcrypt_cfg.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,5d86f6872e15c2873979e3c177860d1d,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510052,-7735003018152322916,7,N,79,5912,19
+tomcrypt_cfg.h,cython_nms.c,\src\libtom\tomcrypt_cfg.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,5d86f6872e15c2873979e3c177860d1d,340c61e73ba74d7820ff458fae32d716,-8023445049755510052,-7735003018152322916,7,N,79,6623,19
+tomcrypt_cfg.h,gpu_nms.c,\src\libtom\tomcrypt_cfg.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,5d86f6872e15c2873979e3c177860d1d,c5f744cc55310f8443ffae08bc289c17,-8023445049755510052,-7735003018152322916,7,N,79,5655,19
+tomcrypt_cipher.h,bbox.c,\src\libtom\tomcrypt_cipher.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,e7e3cfbb6946c3245a4035941fbfd0d9,b42f28bb593ba51126ab3c36f2280e44,-8023445049755512676,-7735003018152322916,6,N,592,5912,85
+tomcrypt_cipher.h,cython_nms.c,\src\libtom\tomcrypt_cipher.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,e7e3cfbb6946c3245a4035941fbfd0d9,340c61e73ba74d7820ff458fae32d716,-8023445049755512676,-7735003018152322916,6,N,592,6623,85
+tomcrypt_cipher.h,gpu_nms.c,\src\libtom\tomcrypt_cipher.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,e7e3cfbb6946c3245a4035941fbfd0d9,c5f744cc55310f8443ffae08bc289c17,-8023445049755512676,-7735003018152322916,6,N,592,5655,85
+tomcrypt_cipher.h,gpu_nms.cpp,\src\libtom\tomcrypt_cipher.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,e7e3cfbb6946c3245a4035941fbfd0d9,2472408016d358310deb015143185fa8,-8023445049755512676,-7590887830068078436,8,N,592,4948,86
+tomcrypt_custom.h,bbox.c,\src\libtom\tomcrypt_custom.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,9ae4ff77d7091871a62aaa3fd1f90225,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,245,5912,48
+tomcrypt_custom.h,cython_nms.c,\src\libtom\tomcrypt_custom.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,9ae4ff77d7091871a62aaa3fd1f90225,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,245,6623,48
+tomcrypt_custom.h,gpu_nms.c,\src\libtom\tomcrypt_custom.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,9ae4ff77d7091871a62aaa3fd1f90225,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,245,5655,48
+tomcrypt_custom.h,gpu_nms.cpp,\src\libtom\tomcrypt_custom.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,9ae4ff77d7091871a62aaa3fd1f90225,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,245,4948,48
+tomcrypt_hash.h,bbox.c,\src\libtom\tomcrypt_hash.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,b42f28bb593ba51126ab3c36f2280e44,-8023480251307468644,-7735003018152322916,7,N,310,5912,53
+tomcrypt_hash.h,cython_nms.c,\src\libtom\tomcrypt_hash.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,340c61e73ba74d7820ff458fae32d716,-8023480251307468644,-7735003018152322916,7,N,310,6623,53
+tomcrypt_hash.h,gpu_nms.c,\src\libtom\tomcrypt_hash.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,c5f744cc55310f8443ffae08bc289c17,-8023480251307468644,-7735003018152322916,7,N,310,5655,53

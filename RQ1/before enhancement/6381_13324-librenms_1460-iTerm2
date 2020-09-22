@@ -1,0 +1,5 @@
+13324-librenms,1460-iTerm2
+rewrites.php,iTermMetalGlyphKey.h,\includes\rewrites.php,\sources\iTermMetalGlyphKey.h,5389d55c6eafa211ede2994f342bca9b,ec93bd52c1bfb24f6f1a8d5c07191b02,5729127442933135575,5729057074222575775,6,N,1602,92,19
+libvirt-vminfo.inc.php,iTermMetalGlyphKey.h,\includes\discovery\libvirt-vminfo.inc.php,\sources\iTermMetalGlyphKey.h,bb4b3773cf786ace10a58f9ec481435e,ec93bd52c1bfb24f6f1a8d5c07191b02,5730182974087411863,5729057074222575775,6,N,112,92,19
+viptela.inc.php,iTermMetalGlyphKey.h,\includes\polling\os\viptela.inc.php,\sources\iTermMetalGlyphKey.h,c64de710870736d919a9de98ce834a46,ec93bd52c1bfb24f6f1a8d5c07191b02,5729127442928941271,5729057074222575775,7,N,48,92,9
+linux.inc.php,iTermMetalGlyphKey.h,\includes\discovery\sensors\state\linux.inc.php,\sources\iTermMetalGlyphKey.h,f9f2f629ba22b31deca0a4fa8d6f22cc,ec93bd52c1bfb24f6f1a8d5c07191b02,5747071472597776631,5729057074222575775,7,N,39,92,12

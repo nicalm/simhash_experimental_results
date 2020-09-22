@@ -1,0 +1,16 @@
+1087-radare2,2283-capnproto
+cmd_hash.c,miniposix.h,\libr\core\cmd_hash.c,\c++\src\kj\miniposix.h,3f7e36f70e0074a90873d06130bb9504,43597d9a9103c02dbbe46d2c58ecc748,-7302886701563324260,-7455991496707810916,5,N,460,84,22
+r_types.h,miniposix.h,\libr\include\r_types.h,\c++\src\kj\miniposix.h,bb37afd2354ac3bd2bbd2195b18337bf,43597d9a9103c02dbbe46d2c58ecc748,-8023233943522977636,-7455991496707810916,7,N,554,84,29
+debug_native.c,miniposix.h,\libr\debug\p\debug_native.c,\c++\src\kj\miniposix.h,a51e1cd8509c44ef417e95eb941e0c60,43597d9a9103c02dbbe46d2c58ecc748,-7582091736517387364,-7455991496707810916,8,N,1450,84,30
+types.h,miniposix.h,\libr\include\sdb\types.h,\c++\src\kj\miniposix.h,04cbaad3e74565f9329f4863b057b455,43597d9a9103c02dbbe46d2c58ecc748,-8023445066935248868,-7455991496707810916,8,N,113,84,22
+sigutil.c,miniposix.h,\shlr\qnx\src\sigutil.c,\c++\src\kj\miniposix.h,6bbaaa31ae1a9e864b689d86d1bc7784,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,573,84,22
+types.h,miniposix.h,\shlr\sdb\src\types.h,\c++\src\kj\miniposix.h,04cbaad3e74565f9329f4863b057b455,43597d9a9103c02dbbe46d2c58ecc748,-8023445066935248868,-7455991496707810916,8,N,113,84,22
+gzguts.h,miniposix.h,\shlr\zip\include\gzguts.h,\c++\src\kj\miniposix.h,4b000237403a239b0e9248d1b61fe10c,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,151,84,20
+zconf.h,miniposix.h,\shlr\zip\include\zconf.h,\c++\src\kj\miniposix.h,abb3d6b85b67c3aa37bb4b0e56551e6e,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,398,84,18
+zutil.h,miniposix.h,\shlr\zip\include\zutil.h,\c++\src\kj\miniposix.h,9defca44d620b628e83aae59ac6a5367,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,185,84,16
+gzguts.h,miniposix.h,\shlr\zip\zlib\gzguts.h,\c++\src\kj\miniposix.h,13f5b000095506c07c53d486f070f5af,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,159,84,21
+zconf.h,miniposix.h,\shlr\zip\zlib\zconf.h,\c++\src\kj\miniposix.h,1e8f631957c51cd89c8b98958d615fd4,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,429,84,19
+zutil.c,miniposix.h,\shlr\zip\zlib\zutil.c,\c++\src\kj\miniposix.h,4a4179f332d9d5e26199eb2b75c7b632,43597d9a9103c02dbbe46d2c58ecc748,-8023445049754986340,-7455991496707810916,6,N,245,84,25
+zutil.h,miniposix.h,\shlr\zip\zlib\zutil.h,\c++\src\kj\miniposix.h,e7909d2ab25406cac90461dc9c664a01,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,196,84,16
+chunk_dss.h,miniposix.h,\shlr\heap\include\r_jemalloc\internal\chunk_dss.h,\c++\src\kj\miniposix.h,665d438db58216f4803a949dd8bea2b5,43597d9a9103c02dbbe46d2c58ecc748,-8032595187670329190,-7455991496707810916,7,N,24,84,4
+nstime.h,miniposix.h,\shlr\heap\include\r_jemalloc\internal\nstime.h,\c++\src\kj\miniposix.h,2b40298368ad4dd0d54bdb039aff37bc,43597d9a9103c02dbbe46d2c58ecc748,-7451487931692951396,-7455991496707810916,8,N,34,84,6

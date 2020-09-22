@@ -1,0 +1,4 @@
+6347-librealsense,9975-hexchat
+glext.h,typedef.h,\third-party\glad\glext.h,\src\common\typedef.h,b47c3053eb61af62c08dd7e6f45631ce,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,12110,20,7
+win32_platform.h,typedef.h,\third-party\glfw\src\win32_platform.h,\src\common\typedef.h,2445649aade285164b3f3df9cb6b0b9c,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,324,20,7
+vulkan.h,typedef.h,\third-party\glfw\deps\vulkan\vulkan.h,\src\common\typedef.h,368be8e566768753806bdc8cc0052fc3,ad3525a10e4064f94c5205693b6e1c78,1163898190080301212,-8059473984749774204,7,N,38,20,6

@@ -1,0 +1,3 @@
+2944-supervisor,6364-Tautulli
+options.py,_cpcompat.py,\supervisor\options.py,\lib\cherrypy\_cpcompat.py,8dcef46481958855cbb1df905d892047,f1dace2c42e29031be74b7048c5d8c4c,5745013023976587431,5133647175806091751,8,N,1716,223,37
+templating.py,rrule.py,\supervisor\templating.py,\lib\dateutil\rrule.py,63c49d9257231fd4f861e2dfd33a7bee,ae14d13c1254723cddb30fd1ca6bae71,5709205847285825870,8005751385906610542,7,N,923,1022,60

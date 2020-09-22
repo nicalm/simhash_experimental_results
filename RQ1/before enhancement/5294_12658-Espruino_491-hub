@@ -1,0 +1,6 @@
+12658-Espruino,491-hub
+http_test.rb,steps.rb,\libs\network\esp8266\tests\projects\http_test.rb,\features\steps.rb,d7b7628b68dbf078fe4ad455de87c397,ba47a5068d4a4980503b722beb6fbf0f,-255766180533422550,-256047655518521814,2,N,32,263,9
+http_test.rb,aruba_command.rb,\libs\network\esp8266\tests\projects\http_test.rb,\features\support\aruba_command.rb,d7b7628b68dbf078fe4ad455de87c397,2c3553a53bd2259d62b9a99ec0c22111,-255766180533422550,-256047655518521814,2,N,32,67,9
+http_test.rb,completion.rb,\libs\network\esp8266\tests\projects\http_test.rb,\features\support\completion.rb,d7b7628b68dbf078fe4ad455de87c397,51f8af22ec5d08b40789158f89798e47,-255766180533422550,-256047655518521814,2,N,32,254,9
+http_test.rb,env.rb,\libs\network\esp8266\tests\projects\http_test.rb,\features\support\env.rb,d7b7628b68dbf078fe4ad455de87c397,9c9da1dd6bc49fa4f94ef75ff8ea09f1,-255766180533422550,-256052057859999830,6,N,32,112,9
+http_test.rb,local_server.rb,\libs\network\esp8266\tests\projects\http_test.rb,\features\support\local_server.rb,d7b7628b68dbf078fe4ad455de87c397,ecd78f8e614871e83252bbf7916ce2d3,-255766180533422550,-256047655518521814,2,N,32,161,9

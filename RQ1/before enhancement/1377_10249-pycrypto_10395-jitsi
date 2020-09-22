@@ -1,0 +1,6 @@
+10249-pycrypto,10395-jitsi
+winrand.c,lzma.h,\src\winrand.c,\src\native\windows\setup\include\lzma.h,3a3497b5838dcab36e2527d2673e0de6,4ce48c8f939c04739c2c0b8409ca662f,-3429825656639923748,-8023445049755510628,8,N,292,121,36
+tomcrypt_cfg.h,lzma.h,\src\libtom\tomcrypt_cfg.h,\src\native\windows\setup\include\lzma.h,5d86f6872e15c2873979e3c177860d1d,4ce48c8f939c04739c2c0b8409ca662f,-8023445049755510052,-8023445049755510628,2,N,79,121,19
+tomcrypt_cipher.h,lzma.h,\src\libtom\tomcrypt_cipher.h,\src\native\windows\setup\include\lzma.h,e7e3cfbb6946c3245a4035941fbfd0d9,4ce48c8f939c04739c2c0b8409ca662f,-8023445049755512676,-8023445049755510628,1,N,592,121,32
+tomcrypt_custom.h,lzma.h,\src\libtom\tomcrypt_custom.h,\src\native\windows\setup\include\lzma.h,9ae4ff77d7091871a62aaa3fd1f90225,4ce48c8f939c04739c2c0b8409ca662f,-8023445049755510628,-8023445049755510628,0,N,245,121,33
+tomcrypt_hash.h,lzma.h,\src\libtom\tomcrypt_hash.h,\src\native\windows\setup\include\lzma.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,4ce48c8f939c04739c2c0b8409ca662f,-8023480251307468644,-8023445049755510628,2,N,310,121,32

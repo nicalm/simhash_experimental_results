@@ -1,0 +1,7 @@
+18-electron,2578-calibre
+atom_main_delegate.cc,msstdint.h,\shell\app\atom_main_delegate.cc,\src\calibre\utils\lzx\msstdint.h,6beb16be6a739f5598d443a18a5cbaa6,2dacb8ee9f393a22b1266f714d3efcd6,-4997025687846725476,-2830794129776780644,7,N,249,138,18
+atom_browser_main_parts.cc,lzxc.c,\shell\browser\atom_browser_main_parts.cc,\src\calibre\utils\lzx\lzxc.c,4312360427f5f392ec4f692be2a7319a,5148bebfcfad4cb4119b4e362bc0686f,-8023445187194455912,-8059473846773950244,6,N,375,1033,75
+atom_paths.h,lzxc.c,\shell\browser\atom_paths.h,\src\calibre\utils\lzx\lzxc.c,f62403bf230108c707f5e1273fdb321d,5148bebfcfad4cb4119b4e362bc0686f,-8023471436960835427,-8059473846773950244,7,N,33,1033,9
+renderer_client_base.cc,lzxc.c,\shell\renderer\renderer_client_base.cc,\src\calibre\utils\lzx\lzxc.c,d0d5771f27ecde6d75b1cf2555ca2003,5148bebfcfad4cb4119b4e362bc0686f,-8023449518660068932,-8059473846773950244,8,N,308,1033,54
+linux_syscall_support.h,lzxc.c,\vendor\third_party\lss\linux_syscall_support.h,\src\calibre\utils\lzx\lzxc.c,d7c4a715ebced0be3633fcfd349a02ff,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,3833,1033,192
+linux_syscall_support.h,msstdint.h,\vendor\third_party\lss\linux_syscall_support.h,\src\calibre\utils\lzx\msstdint.h,d7c4a715ebced0be3633fcfd349a02ff,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,3833,138,20

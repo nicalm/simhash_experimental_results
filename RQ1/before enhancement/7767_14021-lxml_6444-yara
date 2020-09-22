@@ -1,0 +1,6 @@
+14021-lxml,6444-yara
+etree_defs.h,hex_grammar.c,\src\lxml\includes\etree_defs.h,\libyara\hex_grammar.c,77e60df86f933a8497d9a006ac09a2c9,29c757a687084bfae5a2dc6bb31b05e5,-8023482433217963876,-9185373754145580836,8,N,319,1251,70
+etree_defs.h,endian.h,\src\lxml\includes\etree_defs.h,\libyara\include\yara\endian.h,77e60df86f933a8497d9a006ac09a2c9,f44500c257dc9e47f34b1473280aea77,-8023482433217963876,-8023445049755510628,3,N,319,55,15
+etree_defs.h,integers.h,\src\lxml\includes\etree_defs.h,\libyara\include\yara\integers.h,77e60df86f933a8497d9a006ac09a2c9,f8e220916ba72c943da73bf32049b841,-8023482433217963876,-8023445049755510628,3,N,319,57,18
+etree_defs.h,limits.h,\src\lxml\includes\etree_defs.h,\libyara\include\yara\limits.h,77e60df86f933a8497d9a006ac09a2c9,1b76e5cbfb6a87b1b52e9aef743d23ec,-8023482433217963876,-8023445049755510628,3,N,319,77,25
+etree_defs.h,strutils.h,\src\lxml\includes\etree_defs.h,\libyara\include\yara\strutils.h,77e60df86f933a8497d9a006ac09a2c9,62646260db13811e153f2c59cbdfb33a,-8023482433217963876,-8023518717034571368,6,N,319,59,12

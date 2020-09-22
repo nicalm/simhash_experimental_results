@@ -1,0 +1,12 @@
+14790-sleuthkit,9776-gaia
+usnjls_lib.c,orientation.js,\tsk\fs\usnjls_lib.c,\dev_apps\uitest\js\API\orientation.js,48e95a276115acd301ddb5b9726a7100,7f674abe2d64a83f3c5f7fc6b2372c43,5729127445080619223,5729127442933135575,1,N,267,55,18
+usnjls_lib.c,lcd.js,\tsk\fs\usnjls_lib.c,\dev_apps\uitest\js\HW\lcd.js,48e95a276115acd301ddb5b9726a7100,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127445080619223,973255871980679315,8,N,267,62,8
+usnjls_lib.c,pdf.worker.js,\tsk\fs\usnjls_lib.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,48e95a276115acd301ddb5b9726a7100,0b5f788a191b12bb182b6955242c5ffb,5729127445080619223,6899975385106659575,8,N,267,37193,75
+dos.c,orientation.js,\tsk\vs\dos.c,\dev_apps\uitest\js\API\orientation.js,87019305b1f4020a75d7e674cebe6f30,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,850,55,18
+dos.c,lcd.js,\tsk\vs\dos.c,\dev_apps\uitest\js\HW\lcd.js,87019305b1f4020a75d7e674cebe6f30,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,850,62,8
+dos.c,pdf.worker.js,\tsk\vs\dos.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,87019305b1f4020a75d7e674cebe6f30,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,850,37193,220
+file.c,orientation.js,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\dev_apps\uitest\js\API\orientation.js,f66225e727b775a3315510747e002afc,7f674abe2d64a83f3c5f7fc6b2372c43,6530768314043512983,5729127442933135575,7,N,401,55,18
+softmagic.c,orientation.js,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\dev_apps\uitest\js\API\orientation.js,c9a5bb85f007b34bfa13df4253839c91,7f674abe2d64a83f3c5f7fc6b2372c43,5152631506249235159,5729127442933135575,4,N,1731,55,18
+exif-entry.c,orientation.js,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,\dev_apps\uitest\js\API\orientation.js,59a2ae3931934cc319eb1524994842bc,7f674abe2d64a83f3c5f7fc6b2372c43,5729109833566304343,5729127442933135575,5,N,1444,55,18
+mnote-canon-entry.c,orientation.js,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\canon\mnote-canon-entry.c,\dev_apps\uitest\js\API\orientation.js,2bf7edaef0a143eec355d53c0cb3d1e6,7f674abe2d64a83f3c5f7fc6b2372c43,5729660156283197655,5729127442933135575,8,N,684,55,18
+mnote-olympus-entry.c,orientation.js,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\olympus\mnote-olympus-entry.c,\dev_apps\uitest\js\API\orientation.js,15a6a322cbee74040fff0cfbe002df22,7f674abe2d64a83f3c5f7fc6b2372c43,5080310029995260119,5729127442933135575,7,N,771,55,18

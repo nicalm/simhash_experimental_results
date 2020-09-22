@@ -1,0 +1,8 @@
+14790-sleuthkit,4790-node-opencv
+dfxml.cpp,init.cc,\tools\fiwalk\src\dfxml.cpp,\src\init.cc,eb50b8530f9308f16c36524fddd2f5b8,ac230f241e7062df9add8317bcf2a3be,-8023587986267121524,-8032663355242784612,4,N,386,67,11
+dfxml.h,init.cc,\tools\fiwalk\src\dfxml.h,\src\init.cc,f3c421d932ecf1b8fb08953027383675,ac230f241e7062df9add8317bcf2a3be,-7591239665207420708,-8032663355242784612,8,N,146,67,12
+fiwalk.h,init.cc,\tools\fiwalk\src\fiwalk.h,\src\init.cc,039566552f931dc82d647dc4de6b0327,ac230f241e7062df9add8317bcf2a3be,-8023585796102236012,-8032663355242784612,6,N,114,67,11
+utils.h,init.cc,\tools\fiwalk\src\utils.h,\src\init.cc,e6ab32b13676a61b654ad5e51f15827a,ac230f241e7062df9add8317bcf2a3be,-7600106410441515876,-8032663355242784612,8,N,33,67,6
+regex_internal.h,init.cc,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\src\init.cc,478b58ddf6d6e1e730d1b30c2f09b9d2,ac230f241e7062df9add8317bcf2a3be,-8023445051928094564,-8032663355242784612,7,N,587,67,12
+compress.c,init.cc,\framework\modules\c_FileTypeSigModule\file-5.08\src\compress.c,\src\init.cc,57b8d69bd9fc4e8513708226aee3d0b3,ac230f241e7062df9add8317bcf2a3be,-7886234786112153516,-8032663355242784612,8,N,395,67,12
+file.h,init.cc,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\src\init.cc,d22799caeaddf83c099f19cf401487da,ac230f241e7062df9add8317bcf2a3be,-8023445049755510568,-8032663355242784612,5,N,402,67,12

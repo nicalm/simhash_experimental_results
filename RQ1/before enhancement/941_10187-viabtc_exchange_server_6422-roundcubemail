@@ -1,0 +1,3 @@
+10187-viabtc_exchange_server,6422-roundcubemail
+http_parser.c,rcube_tnef_decoder.php,\utils\http_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,d09d117e8f6d43dee97217c802830c00,8ca46cd084af91332151df25d1c4bd66,5728845967956424919,5729127442933266647,2,N,1850,520,131
+http_parser.c,rcube_sieve_script.php,\utils\http_parser.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,d09d117e8f6d43dee97217c802830c00,3c3c719b9a27e12464461daf90f00d1d,5728845967956424919,5153229640599894231,6,N,1850,1009,293

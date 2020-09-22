@@ -1,0 +1,10 @@
+6714-cryptography,67701-r-source
+osrandom_engine.h,mkdtemp.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\main\mkdtemp.c,5faed825e57102494d64f41f67417150,c7dd82615e0e1dab31d601c5c3ff1b0b,-9176392388590904164,-8054969697391289188,7,N,80,115,13
+osrandom_engine.h,dcigettext.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\intl\dcigettext.c,5faed825e57102494d64f41f67417150,d401330d6c928edc173951bf8b63a8d6,-9176392388590904164,-8023445049755445092,8,N,80,1307,18
+osrandom_engine.h,localename.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\intl\localename.c,5faed825e57102494d64f41f67417150,589f33fbd2b951fee502d0f9201eea0f,-9176392388590904164,-8023445049755510628,7,N,80,1229,15
+osrandom_engine.h,trio.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\trio\trio.h,5faed825e57102494d64f41f67417150,958b94f2095fa9ed02786178156f3e09,-9176392388590904164,-8023445049755510628,7,N,80,139,13
+osrandom_engine.h,triodef.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\trio\triodef.h,5faed825e57102494d64f41f67417150,43e7c3a4cc71cae8cdacd1c970d2ba53,-9176392388590904164,-8023445049755510628,7,N,80,227,14
+osrandom_engine.h,trionan.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\trio\trionan.c,5faed825e57102494d64f41f67417150,08daec50ecdd4975664a287df69e5d66,-9176392388590904164,-8023445050292381540,8,N,80,831,15
+osrandom_engine.h,triop.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\trio\triop.h,5faed825e57102494d64f41f67417150,c58f5e7230c4b9ffee2e1dc2c3823220,-9176392388590904164,-8023445049755510628,7,N,80,220,12
+osrandom_engine.h,triostr.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\extra\trio\triostr.h,5faed825e57102494d64f41f67417150,4beb2b3b1e23be849ba1895e0e65740b,-9176392388590904164,-8023445049755510628,7,N,80,519,14
+osrandom_engine.h,Rallocators.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\include\R_ext\Rallocators.h,5faed825e57102494d64f41f67417150,135d41eb83801f3b16814f8165920166,-9176392388590904164,-8599905252437615212,8,N,80,22,6

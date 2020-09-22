@@ -1,0 +1,5 @@
+12688-ffi,86-netdata
+compat.h,libnetdata.h,\ext\ffi_c\compat.h,\libnetdata\libnetdata.h,89860486007fe9b6739772aa0b042837,b36073eea8dc836d3f37e426aebdabda,-8023447251463120740,-8023445049755510628,3,N,38,248,13
+DynamicLibrary.h,libnetdata.h,\ext\ffi_c\DynamicLibrary.h,\libnetdata\libnetdata.h,85bcc5d631466c02273f9899152b054b,b36073eea8dc836d3f37e426aebdabda,-5753630837560780644,-8023445049755510628,2,N,49,248,15
+rbffi_endian.h,libnetdata.h,\ext\ffi_c\rbffi_endian.h,\libnetdata\libnetdata.h,f869d8d0ddc657c2a3138058f91acb6c,b36073eea8dc836d3f37e426aebdabda,-8023445049822619428,-8023445049755510628,2,N,50,248,15
+rbffi_endian.h,clocks.h,\ext\ffi_c\rbffi_endian.h,\libnetdata\clocks\clocks.h,f869d8d0ddc657c2a3138058f91acb6c,817f185c065ee719f0a0f5d506401b1f,-8023445049822619428,-7879330084279756644,7,N,50,66,11

@@ -1,0 +1,14 @@
+12310-weechat,6347-librealsense
+wee-url.c,glext.h,\src\core\wee-url.c,\third-party\glad\glext.h,2182536a79bada4949d9bc0483b5da6d,b47c3053eb61af62c08dd7e6f45631ce,-8023445049755510628,-8023445049755510628,0,N,1111,12110,176
+wee-url.c,easylogging++.h,\src\core\wee-url.c,\third-party\easyloggingpp\src\easylogging++.h,2182536a79bada4949d9bc0483b5da6d,a5e6b54e91368f83f029eaf8a7a4ca68,-8023445049755510628,-8023445049756558632,4,N,1111,3696,252
+wee-url.c,tinycthread.h,\src\core\wee-url.c,\third-party\glfw\deps\tinycthread.h,2182536a79bada4949d9bc0483b5da6d,d64af4e68966d2e35effa48ebd7b3c79,-8023445049755510628,-8023444774877636452,2,N,1111,138,23
+wee-url.c,win32_platform.h,\src\core\wee-url.c,\third-party\glfw\src\win32_platform.h,2182536a79bada4949d9bc0483b5da6d,2445649aade285164b3f3df9cb6b0b9c,-8023445049755510628,-8023445049755510628,0,N,1111,324,47
+wee-url.c,_mingw_dxhelper.h,\src\core\wee-url.c,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,2182536a79bada4949d9bc0483b5da6d,5423da3108dd32be383352d8d6c55edb,-8023445049755510628,-9185092003762480996,4,N,1111,102,20
+wee-url.c,stdint.h,\src\core\wee-url.c,\third-party\glfw\deps\vs2008\stdint.h,2182536a79bada4949d9bc0483b5da6d,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,1111,152,19
+wee-url.c,vulkan.h,\src\core\wee-url.c,\third-party\glfw\deps\vulkan\vulkan.h,2182536a79bada4949d9bc0483b5da6d,368be8e566768753806bdc8cc0052fc3,-8023445049755510628,1163898190080301212,2,N,1111,38,10
+wee-url.c,glfw3native.h,\src\core\wee-url.c,\third-party\glfw\include\GLFW\glfw3native.h,2182536a79bada4949d9bc0483b5da6d,c5d9fae34608972236a415167b8ed590,-8023445049755510628,-8023445051902996324,2,N,1111,83,22
+wee-url.c,platform.h,\src\core\wee-url.c,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,2182536a79bada4949d9bc0483b5da6d,4f1f8bbdad0dc57a2bc7530ddc22297a,-8023445049755510628,-7879409026516887396,4,N,1111,37,12
+wee-url.c,common.h,\src\core\wee-url.c,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,2182536a79bada4949d9bc0483b5da6d,d84cc186f69e21aac7eb4e2d5d1d3cc4,-8023445049755510628,-8024605586426111268,6,N,1111,501,52
+gui-curses-term.c,glext.h,\src\gui\curses\gui-curses-term.c,\third-party\glad\glext.h,12c6b2e5780349c1e6b15f2a0f08c5ca,b47c3053eb61af62c08dd7e6f45631ce,-7447028277908808228,-8023445049755510628,7,N,23,12110,9
+gui-curses-term.c,tinycthread.c,\src\gui\curses\gui-curses-term.c,\third-party\glfw\deps\tinycthread.c,12c6b2e5780349c1e6b15f2a0f08c5ca,bb91d250b71aa67bca83ba5d487a4784,-7447028277908808228,-7302982704877479460,8,N,23,472,10
+gui-curses-term.c,win32_platform.h,\src\gui\curses\gui-curses-term.c,\third-party\glfw\src\win32_platform.h,12c6b2e5780349c1e6b15f2a0f08c5ca,2445649aade285164b3f3df9cb6b0b9c,-7447028277908808228,-8023445049755510628,7,N,23,324,7

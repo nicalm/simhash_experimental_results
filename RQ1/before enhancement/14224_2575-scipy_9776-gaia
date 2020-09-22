@@ -1,0 +1,3 @@
+2575-scipy,9776-gaia
+global_r.c,orientation.js,\scipy\spatial\qhull_src\src\global_r.c,\dev_apps\uitest\js\API\orientation.js,641bed4871fe8d8a5f4a033a6bf195ca,7f674abe2d64a83f3c5f7fc6b2372c43,5729109988184996087,5729127442933135575,4,N,1830,55,18
+global_r.c,pdf.worker.js,\scipy\spatial\qhull_src\src\global_r.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,641bed4871fe8d8a5f4a033a6bf195ca,0b5f788a191b12bb182b6955242c5ffb,5729109988184996087,6899975385106659575,7,N,1830,37193,402

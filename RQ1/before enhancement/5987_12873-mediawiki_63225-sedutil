@@ -1,0 +1,14 @@
+12873-mediawiki,63225-sedutil
+FormatJson.php,sedutil.cpp,\includes\json\FormatJson.php,\Common\sedutil.cpp,2791e3b22656d78e316abf94db96bae5,d52e516d82c7919c579e6283c901df60,5728881212390947031,5693098645914171606,8,N,140,243,21
+LogFormatter.php,sedutil.cpp,\includes\logging\LogFormatter.php,\Common\sedutil.cpp,1a5b87b8ddd192cf448a8d7e785d9d75,d52e516d82c7919c579e6283c901df60,5729127442933127383,5693098645914171606,3,N,551,243,49
+FormatMetadata.php,sedutil.cpp,\includes\media\FormatMetadata.php,\Common\sedutil.cpp,d4c424b998a37738addfaa8660b2d286,d52e516d82c7919c579e6283c901df60,5729109850747091159,5693098645914171606,3,N,1326,243,49
+IPTC.php,sedutil.cpp,\includes\media\IPTC.php,\Common\sedutil.cpp,5acd3160fef09ca8547c657db582b971,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,377,243,49
+ExtensionDependencyError.php,sedutil.cpp,\includes\registration\ExtensionDependencyError.php,\Common\sedutil.cpp,f7bb90c1ca9716b4c4e940b5871755aa,d52e516d82c7919c579e6283c901df60,5729126334831573079,5693098645914171606,5,N,44,243,12
+LanguageGa.php,sedutil.cpp,\languages\classes\LanguageGa.php,\Common\sedutil.cpp,04d0499b9cc1cedee645951038d7a892,d52e516d82c7919c579e6283c901df60,5152671088609114359,5693098645914171606,6,N,36,243,12
+LanguageOs.php,sedutil.cpp,\languages\classes\LanguageOs.php,\Common\sedutil.cpp,1d4803307d9f6c2785f6821207e47529,d52e516d82c7919c579e6283c901df60,5729672800631306455,5693098645914171606,6,N,55,243,15
+bench_if_switch.php,sedutil.cpp,\maintenance\benchmarks\bench_if_switch.php,\Common\sedutil.cpp,ebc9d6c5664eaffdc591b48a194dced3,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,73,243,23
+DiscordianDateTimeFormatter.js,sedutil.cpp,\resources\src\mediawiki.widgets.datetime\DiscordianDateTimeFormatter.js,\Common\sedutil.cpp,e5fb70604ffca02318e9ccef1c63882a,d52e516d82c7919c579e6283c901df60,5729107653737097943,5693098645914171606,8,N,445,243,35
+fi.js,sedutil.cpp,\resources\src\mediawiki.language\languages\fi.js,\Common\sedutil.cpp,3c85a98c46d022c8ff97288c16dfe428,d52e516d82c7919c579e6283c901df60,5660448098369583319,5693098645914171606,8,N,36,243,11
+os.js,sedutil.cpp,\resources\src\mediawiki.language\languages\os.js,\Common\sedutil.cpp,dc5fe4fb59cfbd5cc2b4418cf6924aa3,d52e516d82c7919c579e6283c901df60,6882031355083405463,5693098645914171606,7,N,50,243,12
+fi.js,sedutil.cpp,\resources\lib\jquery.i18n\src\languages\fi.js,\Common\sedutil.cpp,f6479922882342ddde52e1eef209daf3,d52e516d82c7919c579e6283c901df60,5660448098102720726,5693098645914171606,8,N,36,243,11
+ga.js,sedutil.cpp,\resources\lib\jquery.i18n\src\languages\ga.js,\Common\sedutil.cpp,7427a3d627903337481ce4a93b84ae3c,d52e516d82c7919c579e6283c901df60,5753615765906950359,5693098645914171606,8,N,33,243,10

@@ -1,0 +1,4 @@
+15760-bfgminer,2575-scipy
+cl_platform.h,msc_stdint.h,\CL\cl_platform.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,fc86a2210e718fbcf95aabcf0efa129a,0a9faad66f590c9572581753d453013e,-8023445049755510564,-8018800163019237220,7,N,935,152,27
+signal.in.h,msc_stdint.h,\lib\signal.in.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,ab5029c765029582a72eaf9ee25fe736,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,258,152,27
+string.in.h,msc_stdint.h,\lib\string.in.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,79edfbf7ab10d649596b9a9e586671ee,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,697,152,24

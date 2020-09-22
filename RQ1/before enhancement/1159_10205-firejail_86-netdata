@@ -1,0 +1,10 @@
+10205-firejail,86-netdata
+caps.c,libnetdata.h,\src\firejail\caps.c,\libnetdata\libnetdata.h,0b9d72adabe6b183bf9a7948ffeb2934,b36073eea8dc836d3f37e426aebdabda,-5717602040541816676,-8023445049755510628,1,N,334,248,42
+caps.c,clocks.h,\src\firejail\caps.c,\libnetdata\clocks\clocks.h,0b9d72adabe6b183bf9a7948ffeb2934,817f185c065ee719f0a0f5d506401b1f,-5717602040541816676,-7879330084279756644,8,N,334,66,12
+sbox.c,libnetdata.h,\src\firejail\sbox.c,\libnetdata\libnetdata.h,8a6f9f9ce42bcca368916f82519b79d6,b36073eea8dc836d3f37e426aebdabda,-8024007999708931940,-8023445049755510628,1,N,190,248,28
+sbox.c,clocks.h,\src\firejail\sbox.c,\libnetdata\clocks\clocks.h,8a6f9f9ce42bcca368916f82519b79d6,817f185c065ee719f0a0f5d506401b1f,-8024007999708931940,-7879330084279756644,8,N,190,66,10
+syscall.c,libnetdata.h,\src\fseccomp\syscall.c,\libnetdata\libnetdata.h,bf0ef0cc7976e59f6ac60c1a011c8188,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,1564,248,36
+syscall.c,clocks.h,\src\fseccomp\syscall.c,\libnetdata\clocks\clocks.h,bf0ef0cc7976e59f6ac60c1a011c8188,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,1564,66,10
+syscall.h,libnetdata.h,\src\include\syscall.h,\libnetdata\libnetdata.h,e5d70ee64e8335903c40165f92bcb3a5,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,5186,248,34
+syscall.h,clocks.h,\src\include\syscall.h,\libnetdata\clocks\clocks.h,e5d70ee64e8335903c40165f92bcb3a5,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,5186,66,9
+libtrace.c,libnetdata.h,\src\libtrace\libtrace.c,\libnetdata\libnetdata.h,e75ec9f98f403929994ba2e9b45b7b14,b36073eea8dc836d3f37e426aebdabda,-7663159407438177892,-8023445049755510628,7,N,558,248,47

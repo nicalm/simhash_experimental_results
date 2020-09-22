@@ -1,0 +1,4 @@
+618-jq,9776-gaia
+parser.c,orientation.js,\src\parser.c,\dev_apps\uitest\js\API\orientation.js,a9e23cec6f740c2c216ed7e38fa76eaa,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,3339,55,18
+parser.c,lcd.js,\src\parser.c,\dev_apps\uitest\js\HW\lcd.js,a9e23cec6f740c2c216ed7e38fa76eaa,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,3339,62,9
+parser.c,pdf.worker.js,\src\parser.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,a9e23cec6f740c2c216ed7e38fa76eaa,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,3339,37193,563

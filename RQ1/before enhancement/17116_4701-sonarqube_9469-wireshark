@@ -1,0 +1,3 @@
+4701-sonarqube,9469-wireshark
+AbstractSystemInfoWriter.java,packet-isup.c,\server\sonar-webserver-core\src\main\java\org\sonar\server\platform\AbstractSystemInfoWriter.java,\epan\dissectors\packet-isup.c,7c9eac125f77c3e66210e7c267a6de74,59a0454a647827df9ba8fb2e33675d44,5738139040229637322,6886553096918449354,6,N,63,9710,15
+CustomMeasureValidator.java,msg_reg_req.c,\server\sonar-webserver-webapi\src\main\java\org\sonar\server\measure\custom\ws\CustomMeasureValidator.java,\plugins\epan\wimax\msg_reg_req.c,3ef9e75a488bab4179b8deb80b4aad1d,642dc181c5d9119e6b2bd0fe90c7b82c,5586138844105816144,5730253894743275735,8,N,70,1332,17

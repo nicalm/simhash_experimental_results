@@ -1,0 +1,10 @@
+14021-lxml,18309-tor
+etree_defs.h,compat_compiler.h,\src\lxml\includes\etree_defs.h,\src\lib\cc\compat_compiler.h,77e60df86f933a8497d9a006ac09a2c9,4fda4875c0f6db2fda2057a47aa6fc8f,-8023482433217963876,-8023445050293299044,6,N,319,128,32
+etree_defs.h,torint.h,\src\lxml\includes\etree_defs.h,\src\lib\cc\torint.h,77e60df86f933a8497d9a006ac09a2c9,f9bd1774a6cabce5324bfd6779020def,-8023482433217963876,-8023198759150888804,3,N,319,101,32
+etree_defs.h,compat_openssl.h,\src\lxml\includes\etree_defs.h,\src\lib\crypt_ops\compat_openssl.h,77e60df86f933a8497d9a006ac09a2c9,faee12956d28be9c3faab0ef65c52027,-8023482433217963876,-7456002268551915492,8,N,319,33,7
+etree_defs.h,fdio.c,\src\lxml\includes\etree_defs.h,\src\lib\fdio\fdio.c,77e60df86f933a8497d9a006ac09a2c9,f7cc52832a8d31f8234387c9640d45fa,-8023482433217963876,-7735214673874331620,7,N,319,80,21
+etree_defs.h,inaddr_st.h,\src\lxml\includes\etree_defs.h,\src\lib\net\inaddr_st.h,77e60df86f933a8497d9a006ac09a2c9,62efbf41d2e5c9c5c910850b9ac27f2c,-8023482433217963876,-8023445049755509604,4,N,319,69,17
+etree_defs.h,nettypes.h,\src\lxml\includes\etree_defs.h,\src\lib\net\nettypes.h,77e60df86f933a8497d9a006ac09a2c9,5dc6cbfbef80e86b6ed991e81ad60883,-8023482433217963876,-8033015199603320676,8,N,319,24,6
+etree_defs.h,compat_string.h,\src\lxml\includes\etree_defs.h,\src\lib\string\compat_string.h,77e60df86f933a8497d9a006ac09a2c9,ee5d4f16d6a1a17e897c0a516337b508,-8023482433217963876,-8023198751131381604,7,N,319,36,11
+etree_defs.h,ed25519-donna-portable-identify.h,\src\lxml\includes\etree_defs.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,77e60df86f933a8497d9a006ac09a2c9,36a4efc8ce95d16532d64be30ece0f36,-8023482433217963876,-8023445066935379812,4,N,319,87,22
+etree_defs.h,ed25519-donna.h,\src\lxml\includes\etree_defs.h,\src\ext\ed25519\donna\ed25519-donna.h,77e60df86f933a8497d9a006ac09a2c9,2aae98d5c016419bee5a3b1b0fb3adb9,-8023482433217963876,-7447028278034638372,8,N,319,84,24

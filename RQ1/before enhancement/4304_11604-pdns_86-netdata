@@ -1,0 +1,6 @@
+11604-pdns,86-netdata
+threadname.cc,libnetdata.h,\pdns\threadname.cc,\libnetdata\libnetdata.h,5b915147d70647a42e05b4e28ce34c57,b36073eea8dc836d3f37e426aebdabda,-8023445049889728356,-8023445049755510628,1,N,39,248,15
+threadname.cc,clocks.h,\pdns\threadname.cc,\libnetdata\clocks\clocks.h,5b915147d70647a42e05b4e28ce34c57,817f185c065ee719f0a0f5d506401b1f,-8023445049889728356,-7879330084279756644,8,N,39,66,11
+version.cc,libnetdata.h,\pdns\version.cc,\libnetdata\libnetdata.h,2d47bb8e09166cdc8de706154500a37c,b36073eea8dc836d3f37e426aebdabda,-8023445049755379556,-8023445049755510628,1,N,141,248,27
+version.cc,clocks.h,\pdns\version.cc,\libnetdata\clocks\clocks.h,2d47bb8e09166cdc8de706154500a37c,817f185c065ee719f0a0f5d506401b1f,-8023445049755379556,-7879330084279756644,8,N,141,66,11
+murmur3.h,libnetdata.h,\ext\probds\murmur3.h,\libnetdata\libnetdata.h,02ac5aff2e57a41f9dc94781ccd8d595,b36073eea8dc836d3f37e426aebdabda,-9176375350707038052,-8023445049755510628,4,N,46,248,11

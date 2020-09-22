@@ -1,0 +1,3 @@
+17934-harfbuzz,1930-SwifterSwift
+hb-fc-list.c,NSAttributedStringExtensions.swift,\util\hb-fc-list.c,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,c27d8fd53993dc1d7a624ea1ec1d10a6,682db1376e5e9e45d24a9e1b1ad3e9f8,1199786163039426780,-9174114755220842340,8,N,178,87,23
+test-c.c,StringExtensions.swift,\test\api\test-c.c,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,40a532b71e6242f205df120cc480a67e,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049757468516,-3051550226512422756,8,N,26,650,7

@@ -1,0 +1,14 @@
+4477-libsass,6883-Sigil
+ast_sel_super.cpp,ContentTab.h,\src\ast_sel_super.cpp,\src\Tabs\ContentTab.h,ffef62efd83b8d29b2b0c7a2ff9681d7,2675c1f564ab450037b4790688d2f44e,1431225074243617162,1431083237210080174,6,N,350,167,64
+base.h,ioapi.h,\include\sass\base.h,\3rdparty\minizip\ioapi.h,26dfd0d8cb029fd73ca71c0971ecc070,26ef5a4584bbb9b3400f2a44f9e7e8de,-8023163575290504548,-8032452386449205092,7,N,63,126,19
+base.h,gzguts.h,\include\sass\base.h,\3rdparty\zlib\gzguts.h,26dfd0d8cb029fd73ca71c0971ecc070,0c76633a99d58c8a7920b78989126acd,-8023163575290504548,-8023445049755510628,5,N,63,154,17
+base.h,zconf.h,\include\sass\base.h,\3rdparty\zlib\zconf.h,26dfd0d8cb029fd73ca71c0971ecc070,c89ff94ee23d020c7c9976f48a098fa0,-8023163575290504548,-8023445049755510628,5,N,63,403,17
+base.h,zutil.c,\include\sass\base.h,\3rdparty\zlib\zutil.c,26dfd0d8cb029fd73ca71c0971ecc070,d62c1317e7969756f542daacf0d4ba54,-8023163575290504548,-8023445084115248996,6,N,63,245,15
+base.h,zutil.h,\include\sass\base.h,\3rdparty\zlib\zutil.h,26dfd0d8cb029fd73ca71c0971ecc070,278c42fe50334e51a072b9e9539f1a94,-8023163575290504548,-8023445049755510628,5,N,63,183,15
+base.h,dcigettext.c,\include\sass\base.h,\3rdparty\hunspell\intl\dcigettext.c,26dfd0d8cb029fd73ca71c0971ecc070,d3bb499e6a515c1052d491a7d39e4803,-8023163575290504548,-8023445049755445092,6,N,63,1207,19
+base.h,loadmsgcat.c,\include\sass\base.h,\3rdparty\hunspell\intl\loadmsgcat.c,26dfd0d8cb029fd73ca71c0971ecc070,0c4e84a9d7d53b307114d0785d3641ac,-8023163575290504548,-7446984297452087074,8,N,63,1139,17
+base.h,localename.c,\include\sass\base.h,\3rdparty\hunspell\intl\localename.c,26dfd0d8cb029fd73ca71c0971ecc070,8dae1c46d7f3b38c1490ba3c3553cb05,-8023163575290504548,-8023445049755510628,5,N,63,1228,16
+base.h,relocatable.c,\include\sass\base.h,\3rdparty\hunspell\intl\relocatable.c,26dfd0d8cb029fd73ca71c0971ecc070,53c1749225040b971ef2dc568f95ddf0,-8023163575290504548,-9176375350455379300,6,N,63,307,16
+base.h,sljitConfig.h,\include\sass\base.h,\3rdparty\pcre\sljit\sljitConfig.h,26dfd0d8cb029fd73ca71c0971ecc070,dd8afdbccc028de6ceee20447d73179f,-8023163575290504548,-8023445049755445096,7,N,63,27,9
+base.h,sljitConfigInternal.h,\include\sass\base.h,\3rdparty\pcre\sljit\sljitConfigInternal.h,26dfd0d8cb029fd73ca71c0971ecc070,fb64cb97a3a14369e6bfd1dd34984a80,-8023163575290504548,-8023445049755510756,6,N,63,400,16
+base.h,ioapi.h,\include\sass\base.h,\3rdparty\zlib\contrib\minizip\ioapi.h,26dfd0d8cb029fd73ca71c0971ecc070,e509e865c1047c3c4740e3fc3c7577eb,-8023163575290504548,-7456026681078916964,8,N,63,132,19

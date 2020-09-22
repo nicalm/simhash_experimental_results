@@ -1,0 +1,8 @@
+1123-envoy,17934-harfbuzz
+header_utility.cc,hb-ot-shape-complex-vowel-constraints.cc,\source\common\http\header_utility.cc,\src\hb-ot-shape-complex-vowel-constraints.cc,81fefe2f52f9c90a5382f919c12d95a7,af3b5cee198ad0cdcf32177f2059763e,5693098645903681749,5729127511516264663,7,N,134,420,33
+buffer_fuzz.cc,hb-ot-shape-complex-vowel-constraints.cc,\test\common\buffer\buffer_fuzz.cc,\src\hb-ot-shape-complex-vowel-constraints.cc,7151b07959a8cacb8c82ff437756a1c7,af3b5cee198ad0cdcf32177f2059763e,1117441974261557335,5729127511516264663,8,N,401,420,80
+buffer_fuzz.cc,hb-subset.cc,\test\common\buffer\buffer_fuzz.cc,\src\hb-subset.cc,7151b07959a8cacb8c82ff437756a1c7,8cd5ec526a4232f06c744be9b77a51bc,1117441974261557335,5170681089138145431,8,N,401,256,41
+header_map_impl_fuzz_test.cc,hb-ot-shape-complex-vowel-constraints.cc,\test\common\http\header_map_impl_fuzz_test.cc,\src\hb-ot-shape-complex-vowel-constraints.cc,2cd640c272d9bb6db5693ff62858ef92,af3b5cee198ad0cdcf32177f2059763e,5729127442933135575,5729127511516264663,4,N,173,420,48
+header_map_impl_fuzz_test.cc,hb-subset.cc,\test\common\http\header_map_impl_fuzz_test.cc,\src\hb-subset.cc,2cd640c272d9bb6db5693ff62858ef92,8cd5ec526a4232f06c744be9b77a51bc,5729127442933135575,5170681089138145431,4,N,173,256,39
+codec_impl.cc,hb-ot-shape-complex-vowel-constraints.cc,\source\extensions\filters\network\common\redis\codec_impl.cc,\src\hb-ot-shape-complex-vowel-constraints.cc,47c279138a906bf61f0065115ca3b2c6,af3b5cee198ad0cdcf32177f2059763e,5747141981029054675,5729127511516264663,8,N,585,420,106
+codec_impl.cc,hb-subset.cc,\source\extensions\filters\network\common\redis\codec_impl.cc,\src\hb-subset.cc,47c279138a906bf61f0065115ca3b2c6,8cd5ec526a4232f06c744be9b77a51bc,5747141981029054675,5170681089138145431,6,N,585,256,41

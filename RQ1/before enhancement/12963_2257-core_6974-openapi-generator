@@ -1,0 +1,6 @@
+2257-core,6974-openapi-generator
+Route.php,XmlItem.php,\lib\private\Route\Route.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\XmlItem.php,94f1b393f9a86e2355dfd9bc89ab04b3,cdb9fd8758ccd19159ff4e0bfa6b3681,6071593784156607888,6143651378194406804,4,N,66,522,25
+Share.php,XmlItem.php,\lib\private\Share20\Share.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\XmlItem.php,533771eee48453f91a0b61899c1e47d6,cdb9fd8758ccd19159ff4e0bfa6b3681,8448929238431522192,6143651378194406804,6,N,245,522,83
+QueryBuilder.php,XmlItem.php,\lib\private\DB\QueryBuilder\QueryBuilder.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\XmlItem.php,5b21b6229bb6ea378ce791263ca993cd,cdb9fd8758ccd19159ff4e0bfa6b3681,6143651386922851736,6143651378194406804,7,N,321,522,93
+EmptyContentSecurityPolicy.php,XmlItem.php,\lib\public\AppFramework\Http\EmptyContentSecurityPolicy.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\XmlItem.php,6fb67bd091f8c4bf25cbdce4d202b5b3,cdb9fd8758ccd19159ff4e0bfa6b3681,4990729873587658128,6143651378194406804,4,N,155,522,59
+Response.php,XmlItem.php,\lib\public\AppFramework\Http\Response.php,\samples\client\petstore\php\OpenAPIClient-php\lib\Model\XmlItem.php,b1b25d0303e805da3dae167e833af2f4,cdb9fd8758ccd19159ff4e0bfa6b3681,6152658578019671440,6143651378194406804,6,N,102,522,39

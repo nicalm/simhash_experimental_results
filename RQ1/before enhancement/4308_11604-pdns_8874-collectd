@@ -1,0 +1,16 @@
+11604-pdns,8874-collectd
+threadname.cc,collectd.h,\pdns\threadname.cc,\src\daemon\collectd.h,5b915147d70647a42e05b4e28ce34c57,2b583af2ee5d68797b260dc2234a9a80,-8023445049889728356,-8023445049755510628,1,N,39,198,13
+threadname.cc,stdendian.h,\pdns\threadname.cc,\src\libcollectdclient\collectd\stdendian.h,5b915147d70647a42e05b4e28ce34c57,098cf6af06fc9530aaf9936b14d4d802,-8023445049889728356,-8032521930559661924,6,N,39,165,11
+threadname.cc,mount.h,\pdns\threadname.cc,\src\utils\mount\mount.h,5b915147d70647a42e05b4e28ce34c57,8535c5ea598e2c2e046efd01984ce929,-8023445049889728356,-8023445049755510628,1,N,39,64,9
+version.cc,collectd.h,\pdns\version.cc,\src\daemon\collectd.h,2d47bb8e09166cdc8de706154500a37c,2b583af2ee5d68797b260dc2234a9a80,-8023445049755379556,-8023445049755510628,1,N,141,198,27
+version.cc,stdendian.h,\pdns\version.cc,\src\libcollectdclient\collectd\stdendian.h,2d47bb8e09166cdc8de706154500a37c,098cf6af06fc9530aaf9936b14d4d802,-8023445049755379556,-8032521930559661924,6,N,141,165,26
+version.cc,mount.h,\pdns\version.cc,\src\utils\mount\mount.h,2d47bb8e09166cdc8de706154500a37c,8535c5ea598e2c2e046efd01984ce929,-8023445049755379556,-8023445049755510628,1,N,141,64,15
+murmur3.h,collectd.h,\ext\probds\murmur3.h,\src\daemon\collectd.h,02ac5aff2e57a41f9dc94781ccd8d595,2b583af2ee5d68797b260dc2234a9a80,-9176375350707038052,-8023445049755510628,4,N,46,198,11
+murmur3.h,mount.h,\ext\probds\murmur3.h,\src\utils\mount\mount.h,02ac5aff2e57a41f9dc94781ccd8d595,8535c5ea598e2c2e046efd01984ce929,-9176375350707038052,-8023445049755510628,4,N,46,64,8
+example.rb,collectd_unix_sock.rb,\modules\remotebackend\example.rb,\contrib\collectd_unix_sock.rb,3442b946c43dc1a5fe82c47929d406a1,f81cad324fa453619602e340c522f65a,-252661159704971734,-256049854541781462,5,N,138,49,12
+unittest.rb,collectd_unix_sock.rb,\modules\remotebackend\unittest.rb,\contrib\collectd_unix_sock.rb,33ac5ebe13c1e7396c0560e41f1de0da,f81cad324fa453619602e340c522f65a,-256047655518521814,-256049854541781462,2,N,229,49,12
+unittest_http.rb,collectd_unix_sock.rb,\modules\remotebackend\unittest_http.rb,\contrib\collectd_unix_sock.rb,ef6459f1edadf13496a6e3f0217c3c00,f81cad324fa453619602e340c522f65a,-1408968988326939094,-256049854541781462,6,N,171,49,12
+backend.rb,collectd_unix_sock.rb,\modules\remotebackend\regression-tests\backend.rb,\contrib\collectd_unix_sock.rb,dd269f32574867a7d28247f4facc25b3,f81cad324fa453619602e340c522f65a,-256065247704566230,-256049854541781462,3,N,194,49,12
+dnsbackend.rb,collectd_unix_sock.rb,\modules\remotebackend\regression-tests\dnsbackend.rb,\contrib\collectd_unix_sock.rb,527a454466c6bb4522e16f692da3750e,f81cad324fa453619602e340c522f65a,-1408969160125368790,-256049854541781462,3,N,122,49,12
+tmp.rb,collectd_unix_sock.rb,\modules\remotebackend\regression-tests\basic-aaaa-resolution\tmp.rb,\contrib\collectd_unix_sock.rb,349e575debc5ccfb1847133f48ad6e27,f81cad324fa453619602e340c522f65a,-256052053594394070,-256049854541781462,6,N,35,49,9
+tmp.rb,collectd_unix_sock.rb,\modules\remotebackend\regression-tests\long-txt-resolution\tmp.rb,\contrib\collectd_unix_sock.rb,349e575debc5ccfb1847133f48ad6e27,f81cad324fa453619602e340c522f65a,-256052053594394070,-256049854541781462,6,N,35,49,9

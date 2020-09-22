@@ -1,0 +1,4 @@
+1172-stb,12310-weechat
+stb_voxel_render.h,wee-url.c,\stb_voxel_render.h,\src\core\wee-url.c,e185ad843cb8b3f858b2f0f59163bf0c,2182536a79bada4949d9bc0483b5da6d,-8168131434121996068,-8023445049755510628,8,N,2286,1111,236
+glext.h,wee-url.c,\tests\caveview\glext.h,\src\core\wee-url.c,0aa24209e6e9c1ceb2e18188dfcd425b,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,10581,1111,176
+glext.h,gui-curses-term.c,\tests\caveview\glext.h,\src\gui\curses\gui-curses-term.c,0aa24209e6e9c1ceb2e18188dfcd425b,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,10581,23,9

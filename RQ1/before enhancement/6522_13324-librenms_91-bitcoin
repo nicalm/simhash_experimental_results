@@ -1,0 +1,6 @@
+13324-librenms,91-bitcoin
+rewrites.php,status.cc,\includes\rewrites.php,\src\leveldb\util\status.cc,5389d55c6eafa211ede2994f342bca9b,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,1602,66,16
+DeviceGroupPolicy.php,policy.cpp,\app\Policies\DeviceGroupPolicy.php,\src\policy\policy.cpp,3e370a08c1ce39bc8142215a13a42cf8,b881c016071c59e2e2c79de956074e58,1431065645024035756,1719313613361791918,3,N,43,158,27
+ironware.inc.php,univalue_escapes.h,\includes\discovery\sensors\dbm\ironware.inc.php,\src\univalue\lib\univalue_escapes.h,809b41fc6a8f72ea4d56adac9d808827,64fb239740dea1d1eb69383d70c69b2c,-8976557392340382898,-8976280315343074481,4,N,54,261,0
+rfc1628.inc.php,univalue_escapes.h,\includes\discovery\sensors\temperature\rfc1628.inc.php,\src\univalue\lib\univalue_escapes.h,61f545978c9b770c2a2e79c81e59de7c,64fb239740dea1d1eb69383d70c69b2c,-8972075784019309713,-8976280315343074481,7,N,22,261,0
+rfc1628.inc.php,univalue_escapes.h,\includes\discovery\sensors\voltage\rfc1628.inc.php,\src\univalue\lib\univalue_escapes.h,4fa071eba3212911e92e3637dcd14254,64fb239740dea1d1eb69383d70c69b2c,-8976280057720501426,-8976280315343074481,6,N,113,261,0

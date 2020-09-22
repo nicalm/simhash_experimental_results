@@ -1,0 +1,5 @@
+11788-fbthrift,5868-libvips
+thrift_config.h,buffer.c,\thrift\lib\cpp\thrift_config.h,\libvips\iofuncs\buffer.c,27c650bbff0590e9f2fafe163b055489,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,220,447,21
+thrift_config.h,init.c,\thrift\lib\cpp\thrift_config.h,\libvips\iofuncs\init.c,27c650bbff0590e9f2fafe163b055489,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,220,636,32
+thrift_config.h,vector.c,\thrift\lib\cpp\thrift_config.h,\libvips\iofuncs\vector.c,27c650bbff0590e9f2fafe163b055489,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,220,400,37
+TBase64Utils.cpp,profiles.c,\thrift\lib\cpp\protocol\TBase64Utils.cpp,\libvips\colour\profiles.c,da7efa2753ba9f0dbff3cd1a24872f7f,ba4fa635af2d9776918afa0a34de9035,7027952338535302764,7027952768049333868,5,N,59,80732,3

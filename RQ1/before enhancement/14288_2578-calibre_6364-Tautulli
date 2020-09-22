@@ -1,0 +1,12 @@
+2578-calibre,6364-Tautulli
+search_restriction_mixin.py,tz.py,\src\calibre\gui2\search_restriction_mixin.py,\lib\dateutil\tz.py,e8f3b01ff6fa77d2196d21b74d4a402f,8102a84918e32d079ef761d8c5e58ef1,8582454030953808255,8582493613706838398,7,N,521,695,23
+dbus_service.py,helpers.py,\src\calibre\utils\dbus_service.py,\plexpy\helpers.py,ae28cc088ab2c2445a6eedc208c04991,3f8f077fb1fc0a3c642d2f3c8a348550,9014131642218742119,8438093102115979631,8,N,538,958,42
+smtp.py,lockfile.py,\src\calibre\utils\smtp.py,\lib\cherrypy\lib\lockfile.py,795edf08bd4cdbc03da897f3e722cbeb,10bf09a97cb01d02ccf0f7b539475bcc,1098632399338472935,5746347762305074663,7,N,280,81,16
+mobiml.py,etree.py,\src\calibre\ebooks\mobi\mobiml.py,\lib\html5lib\treewalkers\etree.py,5dcc257f70c4f939b09b727a17e858c0,a780515f48bd56e4fa0fffac53531dec,8581649121827094903,7428745276238463335,8,N,556,103,18
+pmlconverter.py,configobj.py,\src\calibre\ebooks\pml\pmlconverter.py,\lib\configobj.py,349dc8b31280641280407a3d08df79de,d16c213f78792cdac094224bc76f29ec,8636255338570318190,8474126709494251887,7,N,597,1323,57
+pmlconverter.py,notification_handler.py,\src\calibre\ebooks\pml\pmlconverter.py,\plexpy\notification_handler.py,349dc8b31280641280407a3d08df79de,bb0873244b5c6cb9371fd902589cd75d,8636255338570318190,8600227637573189994,7,N,597,1382,50
+pmlconverter.py,rrule.py,\src\calibre\ebooks\pml\pmlconverter.py,\lib\dateutil\rrule.py,349dc8b31280641280407a3d08df79de,ae14d13c1254723cddb30fd1ca6bae71,8636255338570318190,8005751385906610542,6,N,597,1022,51
+pmlconverter.py,tz.py,\src\calibre\ebooks\pml\pmlconverter.py,\lib\dateutil\tz.py,349dc8b31280641280407a3d08df79de,8102a84918e32d079ef761d8c5e58ef1,8636255338570318190,8582493613706838398,6,N,597,695,53
+pmlconverter.py,htmlserializer.py,\src\calibre\ebooks\pml\pmlconverter.py,\lib\html5lib\serializer\htmlserializer.py,349dc8b31280641280407a3d08df79de,ed67e27d8b449d432b8040f13e66d1ad,8636255338570318190,-1799147948000534162,7,N,597,227,19
+view.py,rrule.py,\src\calibre\gui2\tweak_book\diff\view.py,\lib\dateutil\rrule.py,e1c104f6ddab9407e7b58ecf4e3f6153,ae14d13c1254723cddb30fd1ca6bae71,8005769494025609579,8005751385906610542,7,N,920,1022,52
+view.py,etree.py,\src\calibre\gui2\tweak_book\diff\view.py,\lib\html5lib\treewalkers\etree.py,e1c104f6ddab9407e7b58ecf4e3f6153,a780515f48bd56e4fa0fffac53531dec,8005769494025609579,7428745276238463335,8,N,920,103,17

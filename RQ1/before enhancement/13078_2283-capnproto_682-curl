@@ -1,0 +1,17 @@
+2283-capnproto,682-curl
+miniposix.h,CurlTests.c,\c++\src\kj\miniposix.h,\CMake\CurlTests.c,43597d9a9103c02dbbe46d2c58ecc748,13ea985f4a36429a79b208b7c30c6562,-7455991496707810916,-7600141869156869988,8,N,84,519,29
+miniposix.h,amigaos.c,\c++\src\kj\miniposix.h,\lib\amigaos.c,43597d9a9103c02dbbe46d2c58ecc748,64c1e5a9372daba21f97c3d9f5875c8a,-7455991496707810916,-7456061865518114340,5,N,84,58,16
+miniposix.h,config-win32.h,\c++\src\kj\miniposix.h,\lib\config-win32.h,43597d9a9103c02dbbe46d2c58ecc748,ecdac572ee82d5c1fa17a98b2b5e4239,-7455991496707810916,-8023445049755510628,5,N,84,348,16
+miniposix.h,connect.c,\c++\src\kj\miniposix.h,\lib\connect.c,43597d9a9103c02dbbe46d2c58ecc748,896cec7c5a80d74db72e325e6751efac,-7455991496707810916,-8023445051902994216,8,N,84,1110,26
+miniposix.h,curl_addrinfo.h,\c++\src\kj\miniposix.h,\lib\curl_addrinfo.h,43597d9a9103c02dbbe46d2c58ecc748,8432cb27ba70bab2db3fabddcdb5ca1b,-7455991496707810916,-8023447386217719620,8,N,84,64,12
+miniposix.h,curl_ntlm_core.h,\c++\src\kj\miniposix.h,\lib\curl_ntlm_core.h,43597d9a9103c02dbbe46d2c58ecc748,26b3d90c1243f6319ac742e4f702bb78,-7455991496707810916,-8032170774033540716,5,N,84,55,9
+miniposix.h,curl_setup.h,\c++\src\kj\miniposix.h,\lib\curl_setup.h,43597d9a9103c02dbbe46d2c58ecc748,87daa113fc4c10ce506f365e2b5f7bc5,-7455991496707810916,-8023445049755510628,5,N,84,510,20
+miniposix.h,curl_setup_once.h,\c++\src\kj\miniposix.h,\lib\curl_setup_once.h,43597d9a9103c02dbbe46d2c58ecc748,09158ee5da3bbaaefc059286a83295b9,-7455991496707810916,-8023445049755510628,5,N,84,298,22
+miniposix.h,curl_sspi.h,\c++\src\kj\miniposix.h,\lib\curl_sspi.h,43597d9a9103c02dbbe46d2c58ecc748,943b5227dcf4abb63fd63210169e8dfb,-7455991496707810916,-8023445049755510628,5,N,84,292,13
+miniposix.h,setup-vms.h,\c++\src\kj\miniposix.h,\lib\setup-vms.h,43597d9a9103c02dbbe46d2c58ecc748,4233015ade275232a345dac95a27be3c,-7455991496707810916,-8023445041165576036,6,N,84,339,25
+miniposix.h,urldata.h,\c++\src\kj\miniposix.h,\lib\urldata.h,43597d9a9103c02dbbe46d2c58ecc748,39136037f353a0654b0ec4eb2640e61d,-7455991496707810916,-8023445049755527012,6,N,84,1245,16
+miniposix.h,version.c,\c++\src\kj\miniposix.h,\lib\version.c,43597d9a9103c02dbbe46d2c58ecc748,6a92ee751489cdb48dce99ccc3f57ec0,-7455991496707810916,-8023445049755510628,5,N,84,398,24
+miniposix.h,tool_binmode.c,\c++\src\kj\miniposix.h,\src\tool_binmode.c,43597d9a9103c02dbbe46d2c58ecc748,ceb752c8a04821dc6a41795dedc31559,-7455991496707810916,-8018950246221161060,7,N,84,23,10
+miniposix.h,tool_setup.h,\c++\src\kj\miniposix.h,\src\tool_setup.h,43597d9a9103c02dbbe46d2c58ecc748,8ad5ea651bb0a1b3650728771336934c,-7455991496707810916,-8024570949653956452,8,N,84,23,6
+miniposix.h,openssl.c,\c++\src\kj\miniposix.h,\lib\vtls\openssl.c,43597d9a9103c02dbbe46d2c58ecc748,9e7d01f4aff668b9c545360cb105dbab,-7455991496707810916,-8032452386986075940,7,N,84,3153,26
+miniposix.h,disabled.c,\c++\src\kj\miniposix.h,\tests\server\disabled.c,43597d9a9103c02dbbe46d2c58ecc748,87b7ea830cba52ab1384ebef97f955ee,-7455991496707810916,-8023445049754986340,6,N,84,45,12

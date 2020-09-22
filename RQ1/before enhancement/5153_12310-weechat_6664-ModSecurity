@@ -1,0 +1,7 @@
+12310-weechat,6664-ModSecurity
+wee-url.c,unique_id.cc,\src\core\wee-url.c,\src\unique_id.cc,2182536a79bada4949d9bc0483b5da6d,7c20c0dbffc732616cd5e43c73b8087b,-8023445049755510628,1199926922539489428,6,N,1111,177,41
+wee-url.c,check_config.h,\src\core\wee-url.c,\others\mbedtls\check_config.h,2182536a79bada4949d9bc0483b5da6d,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049755510628,-8023445049755510628,0,N,1111,402,104
+wee-url.c,platform.h,\src\core\wee-url.c,\others\mbedtls\platform.h,2182536a79bada4949d9bc0483b5da6d,d00d535ad1c35ca86d366afc8578c1ab,-8023445049755510628,-7879409027045336932,5,N,1111,106,29
+wee-url.c,geo_lookup.h,\src\core\wee-url.c,\src\utils\geo_lookup.h,2182536a79bada4949d9bc0483b5da6d,7f149a21d7e38ffd2ba73078cb8e9c82,-8023445049755510628,1830428735907880156,8,N,1111,50,11
+gui-curses-term.c,check_config.h,\src\gui\curses\gui-curses-term.c,\others\mbedtls\check_config.h,12c6b2e5780349c1e6b15f2a0f08c5ca,306e92b56ac8d1b085c9f72fb65f46a7,-7447028277908808228,-8023445049755510628,7,N,23,402,5
+gui-curses-term.c,platform.h,\src\gui\curses\gui-curses-term.c,\others\mbedtls\platform.h,12c6b2e5780349c1e6b15f2a0f08c5ca,d00d535ad1c35ca86d366afc8578c1ab,-7447028277908808228,-7879409027045336932,8,N,23,106,10

@@ -1,0 +1,6 @@
+4984-jerryscript,6714-cryptography
+config.h,osrandom_engine.h,\jerry-core\config.h,\src\_cffi_src\openssl\src\osrandom_engine.h,1610ce5e32380b97834532a2439ffb00,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,338,80,12
+jerryscript-compiler.h,osrandom_engine.h,\jerry-core\include\jerryscript-compiler.h,\src\_cffi_src\openssl\src\osrandom_engine.h,6dc57bc479adf16d2b42cadd27f2edd3,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,73,80,11
+lit-magic-strings.inc.h,osrandom_engine.h,\jerry-core\lit\lit-magic-strings.inc.h,\src\_cffi_src\openssl\src\osrandom_engine.h,d156bf64086a4a370f1f54301148fe60,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,920,80,13
+ecma-builtin-helpers-macro-defines.inc.h,osrandom_engine.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\src\_cffi_src\openssl\src\osrandom_engine.h,0dde8629af7a79ff0576269e0d239a88,5faed825e57102494d64f41f67417150,-8023445084115248996,-9176392388590904164,8,N,32,80,11
+js-parser-limits.h,osrandom_engine.h,\jerry-core\parser\js\js-parser-limits.h,\src\_cffi_src\openssl\src\osrandom_engine.h,656369309984980286cea2eff0cb4741,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,51,80,12

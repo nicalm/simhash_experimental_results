@@ -1,0 +1,5 @@
+6714-cryptography,9088-httpd
+osrandom_engine.h,mod_syslog.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\modules\loggers\mod_syslog.c,5faed825e57102494d64f41f67417150,2d0861d0af354091bfd725e954827d0b,-9176392388590904164,-8023444500272326500,8,N,80,161,14
+osrandom_engine.h,ssl_private.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\modules\ssl\ssl_private.h,5faed825e57102494d64f41f67417150,36249a7b93b6c6da74f16ab00ce94b9b,-9176392388590904164,-8023445049755510628,7,N,80,736,18
+osrandom_engine.h,unixd.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\os\unix\unixd.c,5faed825e57102494d64f41f67417150,4641aa5ffe292dda86bf90bcfac2c838,-9176392388590904164,-8023462641975109476,7,N,80,524,15
+osrandom_engine.h,mpm_default.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\server\mpm\netware\mpm_default.h,5faed825e57102494d64f41f67417150,cda6f6973e85bdbe7e47a6014176c375,-9176392388590904164,-8023458243899238244,8,N,80,24,8

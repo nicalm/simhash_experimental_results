@@ -1,0 +1,16 @@
+10187-viabtc_exchange_server,753-fish-shell
+http_parser.c,builtin_echo.cpp,\utils\http_parser.c,\src\builtin_echo.cpp,d09d117e8f6d43dee97217c802830c00,397d2a8e9ac0bbf166e2373ae9b2db40,5728845967956424919,-3494244456465909289,5,N,1850,229,63
+http_parser.c,builtin_history.cpp,\utils\http_parser.c,\src\builtin_history.cpp,d09d117e8f6d43dee97217c802830c00,2ef43496835c341f4350481a342a952e,5728845967956424919,-3494235797291746857,5,N,1850,271,81
+http_parser.c,highlight.cpp,\utils\http_parser.c,\src\highlight.cpp,d09d117e8f6d43dee97217c802830c00,5fe15b68b951a0169550b5cd01343514,5728845967956424919,5738134092431014111,6,N,1850,1102,251
+http_parser.c,pcre2_auto_possess.c,\utils\http_parser.c,\pcre2-10.32\src\pcre2_auto_possess.c,d09d117e8f6d43dee97217c802830c00,fc744ff997c149fdcc6a3f0dbe123d79,5728845967956424919,1117441424505747670,3,N,1850,842,185
+http_parser.c,pcre2_compile.c,\utils\http_parser.c,\pcre2-10.32\src\pcre2_compile.c,d09d117e8f6d43dee97217c802830c00,ecaf7c02bdc44580cae6aa39d1da87c2,5728845967956424919,5729408986663205015,6,N,1850,6006,485
+http_parser.c,pcre2_dfa_match.c,\utils\http_parser.c,\pcre2-10.32\src\pcre2_dfa_match.c,d09d117e8f6d43dee97217c802830c00,99abc0dd1121c97cbed498ec531c50ba,5728845967956424919,5734756942467348695,3,N,1850,2764,469
+http_parser.c,pcre2_pattern_info.c,\utils\http_parser.c,\pcre2-10.32\src\pcre2_pattern_info.c,d09d117e8f6d43dee97217c802830c00,784ee0b7bc5371a257fff21e0cf23c71,5728845967956424919,5440897066781423829,3,N,1850,294,59
+http_parser.c,pcre2_printint.c,\utils\http_parser.c,\pcre2-10.32\src\pcre2_printint.c,d09d117e8f6d43dee97217c802830c00,fb3a5560ac372aab5292c508b84badd4,5728845967956424919,1119416149536192983,6,N,1850,569,145
+http_parser.c,pcre2_study.c,\utils\http_parser.c,\pcre2-10.32\src\pcre2_study.c,d09d117e8f6d43dee97217c802830c00,e8b2a2697f795e25c7f1ef603c23b5b9,5728845967956424919,1045102355491371230,5,N,1850,1046,201
+fmacros.h,fallback.h,\depends\hiredis\fmacros.h,\src\fallback.h,fa39b5b5c7b057e483d5dce607e953a2,7d4055698e8c91d9fd4be969475abb0c,-7226589390687643492,-8023446699022952292,8,N,17,118,5
+fmacros.h,signal.cpp,\depends\hiredis\fmacros.h,\src\signal.cpp,fa39b5b5c7b057e483d5dce607e953a2,2e09e582bf373788324ac911fde75809,-7226589390687643492,-8023445049755510632,7,N,17,322,4
+fmacros.h,sljitConfig.h,\depends\hiredis\fmacros.h,\pcre2-10.32\src\sljit\sljitConfig.h,fa39b5b5c7b057e483d5dce607e953a2,4670eeabf25cc1becfd2eb7244181998,-7226589390687643492,-8023445049755445096,8,N,17,33,4
+fmacros.h,sljitConfigInternal.h,\depends\hiredis\fmacros.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,fa39b5b5c7b057e483d5dce607e953a2,fd5d86ef9f2b9d9589cb00af7963629f,-7226589390687643492,-8023515418499688420,8,N,17,429,5
+win32.h,signal.cpp,\depends\hiredis\win32.h,\src\signal.cpp,0ec99e391511695a9d7ef00f6d95b969,2e09e582bf373788324ac911fde75809,-7880077529720759656,-8023445049755510632,7,N,32,322,7
+win32.h,sljitConfig.h,\depends\hiredis\win32.h,\pcre2-10.32\src\sljit\sljitConfig.h,0ec99e391511695a9d7ef00f6d95b969,4670eeabf25cc1becfd2eb7244181998,-7880077529720759656,-8023445049755445096,8,N,32,33,5

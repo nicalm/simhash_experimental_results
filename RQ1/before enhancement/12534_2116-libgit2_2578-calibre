@@ -1,0 +1,16 @@
+2116-libgit2,2578-calibre
+posix.h,lzxc.c,\src\posix.h,\src\calibre\utils\lzx\lzxc.c,5939a6412855eb77bc24c53a476d1930,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,122,1033,31
+posix.h,msstdint.h,\src\posix.h,\src\calibre\utils\lzx\msstdint.h,5939a6412855eb77bc24c53a476d1930,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,122,138,20
+compat.h,lzxc.c,\deps\ntlmclient\compat.h,\src\calibre\utils\lzx\lzxc.c,5b06983268d133b177cf5b90fa9da075,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510626,-8059473846773950244,4,N,21,1033,7
+compat.h,msstdint.h,\deps\ntlmclient\compat.h,\src\calibre\utils\lzx\msstdint.h,5b06983268d133b177cf5b90fa9da075,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510626,-2830794129776780644,8,N,21,138,7
+gzguts.h,lzxc.c,\deps\zlib\gzguts.h,\src\calibre\utils\lzx\lzxc.c,d71e3535b6b87307b4104a15791be071,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,157,1033,44
+gzguts.h,msstdint.h,\deps\zlib\gzguts.h,\src\calibre\utils\lzx\msstdint.h,d71e3535b6b87307b4104a15791be071,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,157,138,20
+zconf.h,lzxc.c,\deps\zlib\zconf.h,\src\calibre\utils\lzx\lzxc.c,ccd97cbc26c511a318aa46f8e6df51a6,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,427,1033,49
+zconf.h,msstdint.h,\deps\zlib\zconf.h,\src\calibre\utils\lzx\msstdint.h,ccd97cbc26c511a318aa46f8e6df51a6,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,427,138,20
+zutil.c,lzxc.c,\deps\zlib\zutil.c,\src\calibre\utils\lzx\lzxc.c,4a4179f332d9d5e26199eb2b75c7b632,5148bebfcfad4cb4119b4e362bc0686f,-8023445049754986340,-8059473846773950244,2,N,245,1033,72
+zutil.c,msstdint.h,\deps\zlib\zutil.c,\src\calibre\utils\lzx\msstdint.h,4a4179f332d9d5e26199eb2b75c7b632,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049754986340,-2830794129776780644,8,N,245,138,18
+zutil.h,lzxc.c,\deps\zlib\zutil.h,\src\calibre\utils\lzx\lzxc.c,e7909d2ab25406cac90461dc9c664a01,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,196,1033,51
+zutil.h,msstdint.h,\deps\zlib\zutil.h,\src\calibre\utils\lzx\msstdint.h,e7909d2ab25406cac90461dc9c664a01,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,196,138,19
+stdint.h,msstdint.h,\include\git2\stdint.h,\src\calibre\utils\lzx\msstdint.h,0a9faad66f590c9572581753d453013e,2dacb8ee9f393a22b1266f714d3efcd6,-8018800163019237220,-2830794129776780644,5,N,152,138,129
+sha1.c,lzxc.c,\src\hash\sha1\sha1dc\sha1.c,\src\calibre\utils\lzx\lzxc.c,6347de19da23b6072273f8c2426ff3b6,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,1597,1033,100
+sha1.c,msstdint.h,\src\hash\sha1\sha1dc\sha1.c,\src\calibre\utils\lzx\msstdint.h,6347de19da23b6072273f8c2426ff3b6,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,1597,138,18

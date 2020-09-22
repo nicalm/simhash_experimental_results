@@ -1,0 +1,5 @@
+1193-mpv,14790-sleuthkit
+io.h,regex_internal.h,\osdep\io.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,1e5b614f4ca8f110251d3d969bd9fa84,478b58ddf6d6e1e730d1b30c2f09b9d2,-5573522037410505572,-8023445051928094564,8,N,147,587,23
+stream_dvdnav.c,usnjls_lib.c,\stream\stream_dvdnav.c,\tsk\fs\usnjls_lib.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,48e95a276115acd301ddb5b9726a7100,1119693774075239127,5729127445080619223,6,N,595,267,63
+stream_dvdnav.c,dos.c,\stream\stream_dvdnav.c,\tsk\vs\dos.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,87019305b1f4020a75d7e674cebe6f30,1119693774075239127,5729127442933135575,5,N,595,850,101
+stream_dvdnav.c,softmagic.c,\stream\stream_dvdnav.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,c9a5bb85f007b34bfa13df4253839c91,1119693774075239127,5152631506249235159,7,N,595,1731,147

@@ -1,0 +1,6 @@
+13956-dolibarr,2578-calibre
+document_actions_post_headers.tpl.php,freetype.cpp,\htdocs\core\tpl\document_actions_post_headers.tpl.php,\src\calibre\utils\fonts\freetype.cpp,8a1acd3a8333953699e9d69b3d22550b,ce45c5119568c18bcc4b88728e2ae53e,6293718714924899819,6293727511001139579,6,N,68,285,15
+document_actions_post_headers.tpl.php,outline.cpp,\htdocs\core\tpl\document_actions_post_headers.tpl.php,\src\calibre\utils\podofo\outline.cpp,8a1acd3a8333953699e9d69b3d22550b,580a07991153b8911ca19368156953d8,6293718714924899819,6293727511001139579,6,N,68,113,13
+document_actions_post_headers.tpl.php,hunspell_wrapper.cpp,\htdocs\core\tpl\document_actions_post_headers.tpl.php,\src\calibre\utils\spell\hunspell_wrapper.cpp,8a1acd3a8333953699e9d69b3d22550b,195a888d0e68116525f29c9a10a6a8ae,6293718714924899819,6293727511001139579,6,N,68,173,11
+document_actions_post_headers.tpl.php,device.cpp,\htdocs\core\tpl\document_actions_post_headers.tpl.php,\src\calibre\devices\mtp\windows\device.cpp,8a1acd3a8333953699e9d69b3d22550b,52fe950afa93fcd616d4241f58ddc10b,6293718714924899819,6293727510934030715,7,N,68,183,13
+document_actions_post_headers.tpl.php,html.c,\htdocs\core\tpl\document_actions_post_headers.tpl.php,\src\calibre\gui2\tweak_book\editor\syntax\html.c,8a1acd3a8333953699e9d69b3d22550b,f259b1a2bf100f044cdb9be8bdc7dd2e,6293718714924899819,6293762695373228411,7,N,68,467,15

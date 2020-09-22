@@ -1,0 +1,17 @@
+18-electron,702-swoole-src
+atom_main_delegate.cc,swoole.cc,\shell\app\atom_main_delegate.cc,\swoole.cc,6beb16be6a739f5598d443a18a5cbaa6,51095f5d0c729dc304ea7d3b74a45710,-4997025687846725476,-8023444500268134244,7,N,249,735,48
+atom_main_delegate.cc,swoole_socket_coro.cc,\shell\app\atom_main_delegate.cc,\swoole_socket_coro.cc,6beb16be6a739f5598d443a18a5cbaa6,8f05b0e20fc4d2f3859f5f9463ada7b1,-4997025687846725476,-5699587642032351076,7,N,249,1368,49
+atom_main_delegate.cc,context.h,\shell\app\atom_main_delegate.cc,\include\context.h,6beb16be6a739f5598d443a18a5cbaa6,1006969c83b25350b55292d6545acfc0,-4997025687846725476,-8019503850310051684,8,N,249,115,27
+atom_browser_main_parts.cc,swoole.cc,\shell\browser\atom_browser_main_parts.cc,\swoole.cc,4312360427f5f392ec4f692be2a7319a,51095f5d0c729dc304ea7d3b74a45710,-8023445187194455912,-8023444500268134244,6,N,375,735,70
+atom_browser_main_parts.cc,swoole_socket_coro.cc,\shell\browser\atom_browser_main_parts.cc,\swoole_socket_coro.cc,4312360427f5f392ec4f692be2a7319a,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023445187194455912,-5699587642032351076,6,N,375,1368,71
+atom_paths.h,swoole.cc,\shell\browser\atom_paths.h,\swoole.cc,f62403bf230108c707f5e1273fdb321d,51095f5d0c729dc304ea7d3b74a45710,-8023471436960835427,-8023444500268134244,7,N,33,735,9
+atom_paths.h,swoole_socket_coro.cc,\shell\browser\atom_paths.h,\swoole_socket_coro.cc,f62403bf230108c707f5e1273fdb321d,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023471436960835427,-5699587642032351076,7,N,33,1368,8
+atom_constants.h,swoole.cc,\shell\common\atom_constants.h,\swoole.cc,0413d754caa4e4d0755670d11164282c,51095f5d0c729dc304ea7d3b74a45710,-9176368753659307892,-8023444500268134244,8,N,31,735,5
+atom_constants.h,swoole_socket_coro.cc,\shell\common\atom_constants.h,\swoole_socket_coro.cc,0413d754caa4e4d0755670d11164282c,8f05b0e20fc4d2f3859f5f9463ada7b1,-9176368753659307892,-5699587642032351076,8,N,31,1368,5
+archive.cc,static_handler.cc,\shell\common\asar\archive.cc,\src\server\static_handler.cc,464e132ffa15bd4509ac3e161cd4ed09,2cc2fba0bd0e4ac06c6f2706f4e25e15,1404624550769740734,1440653386443543470,7,N,249,145,44
+linux_syscall_support.h,php_swoole.h,\vendor\third_party\lss\linux_syscall_support.h,\php_swoole.h,d7c4a715ebced0be3633fcfd349a02ff,337f462588e1c8f2aaeb066e066ab451,-8023445049755510628,-9176367098749461484,8,N,3833,961,157
+linux_syscall_support.h,swoole.cc,\vendor\third_party\lss\linux_syscall_support.h,\swoole.cc,d7c4a715ebced0be3633fcfd349a02ff,51095f5d0c729dc304ea7d3b74a45710,-8023445049755510628,-8023444500268134244,3,N,3833,735,104
+linux_syscall_support.h,swoole_socket_coro.cc,\vendor\third_party\lss\linux_syscall_support.h,\swoole_socket_coro.cc,d7c4a715ebced0be3633fcfd349a02ff,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023445049755510628,-5699587642032351076,3,N,3833,1368,269
+linux_syscall_support.h,context.h,\vendor\third_party\lss\linux_syscall_support.h,\include\context.h,d7c4a715ebced0be3633fcfd349a02ff,1006969c83b25350b55292d6545acfc0,-8023445049755510628,-8019503850310051684,6,N,3833,115,34
+linux_syscall_support.h,win32.h,\vendor\third_party\lss\linux_syscall_support.h,\thirdparty\hiredis\win32.h,d7c4a715ebced0be3633fcfd349a02ff,0ec99e391511695a9d7ef00f6d95b969,-8023445049755510628,-7880077529720759656,8,N,3833,32,11
+windows_toast_notification.cc,static_handler.cc,\shell\browser\notifications\win\windows_toast_notification.cc,\src\server\static_handler.cc,f9cde3587133a9adf94f59223efdc1b0,2cc2fba0bd0e4ac06c6f2706f4e25e15,1431083237210080174,1440653386443543470,6,N,338,145,39

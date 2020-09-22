@@ -1,0 +1,3 @@
+10248-vesta,10572-Openfire
+index.php,ProfiledConnection.java,\web\bulk\user\index.php,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,e63f54fde5aa69c0078f57a124201499,82b3cca56b0b2195d9beda1ef5898c9c,5729127442931036375,5747704796764879063,7,N,53,828,17
+index.php,GroupEventDispatcher.java,\web\bulk\user\index.php,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,e63f54fde5aa69c0078f57a124201499,68bd878d44b313df2afdd340fe0c0022,5729127442931036375,8016956053561850069,8,N,53,73,14

@@ -1,0 +1,6 @@
+11788-fbthrift,1193-mpv
+t_type.h,img_format.c,\thrift\compiler\ast\t_type.h,\video\img_format.c,b053db260acb5031648818344c9828ac,b8fb095981c27ffc17dd307c6a5fa95e,1431083237210080174,1647238422842852271,5,N,149,416,58
+t_type.h,drm_common.c,\thrift\compiler\ast\t_type.h,\video\out\drm_common.c,b053db260acb5031648818344c9828ac,0df8353aa2b80abf971abff1dbbaaab0,1431083237210080174,1196887191765928894,8,N,149,815,62
+thrift_config.h,io.h,\thrift\lib\cpp\thrift_config.h,\osdep\io.h,27c650bbff0590e9f2fafe163b055489,1e5b614f4ca8f110251d3d969bd9fa84,-8023445049755510628,-5573522037410505572,8,N,220,147,13
+thrift_config.h,context.c,\thrift\lib\cpp\thrift_config.h,\video\out\gpu\context.c,27c650bbff0590e9f2fafe163b055489,54249a4a32b8a7f1f708836246c0e394,-8023445049755510628,-9176401463991052147,8,N,220,162,16
+module_types.cpp,img_format.c,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\video\img_format.c,2db322d1052463c02d7e0a6bf32428e5,b8fb095981c27ffc17dd307c6a5fa95e,1395054440124007342,1647238422842852271,7,N,3515,416,95

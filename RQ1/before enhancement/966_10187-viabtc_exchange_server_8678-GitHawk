@@ -1,0 +1,9 @@
+10187-viabtc_exchange_server,8678-GitHawk
+http_parser.c,latex.c,\utils\http_parser.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,d09d117e8f6d43dee97217c802830c00,3b496090a1e3513cfad47cdb55fd9f13,5728845967956424919,5152666690361272567,5,N,1850,414,120
+http_parser.c,plaintext.c,\utils\http_parser.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,d09d117e8f6d43dee97217c802830c00,26e0294ebef318a7dde60887d309717f,5728845967956424919,5729127582519572639,5,N,1850,169,51
+fmacros.h,cmarkextensions_export.h,\depends\hiredis\fmacros.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,fa39b5b5c7b057e483d5dce607e953a2,252c50482fb9cc0b421251bbc1a8e0e6,-7226589390687643492,-8023480234127599460,7,N,17,32,5
+fmacros.h,cmark_export.h,\depends\hiredis\fmacros.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,fa39b5b5c7b057e483d5dce607e953a2,7d9a85e6bffd97dbcc67d0e392b8ead8,-7226589390687643492,-8023445049755510632,7,N,17,32,5
+win32.h,SDWebImageCompat.h,\depends\hiredis\win32.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,0ec99e391511695a9d7ef00f6d95b969,b0a5f204f5c6671d77ea59f8ffd5921c,-7880077529720759656,-7735249858110105444,7,N,32,80,6
+win32.h,cmarkextensions_export.h,\depends\hiredis\win32.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,0ec99e391511695a9d7ef00f6d95b969,252c50482fb9cc0b421251bbc1a8e0e6,-7880077529720759656,-8023480234127599460,7,N,32,32,5
+win32.h,cmark_export.h,\depends\hiredis\win32.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,0ec99e391511695a9d7ef00f6d95b969,7d9a85e6bffd97dbcc67d0e392b8ead8,-7880077529720759656,-8023445049755510632,7,N,32,32,5
+win32.h,config.h,\depends\hiredis\win32.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\config.h,0ec99e391511695a9d7ef00f6d95b969,21999a714e7db23ea0bfa6c4390e24b1,-7880077529720759656,-9039191486365378408,8,N,32,53,20

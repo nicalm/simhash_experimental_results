@@ -1,0 +1,8 @@
+2389-Pillow,8874-collectd
+outline.c,pyconfig.c,\src\outline.c,\src\pyconfig.c,3a28dd793909ad17fd4fe793c2c98f21,b3d2f7f228cf9a9b940e959dcb678f77,6149330847881464185,6293727511001139579,4,N,129,173,37
+outline.c,pyvalues.c,\src\outline.c,\src\pyvalues.c,3a28dd793909ad17fd4fe793c2c98f21,eef232aebcadaf8dedcb0b2de85cd554,6149330847881464185,6293727511001139323,5,N,129,1149,46
+_webp.c,pyconfig.c,\src\_webp.c,\src\pyconfig.c,a6a0ea6d234787d4b7b44eb1d91e9dd7,b3d2f7f228cf9a9b940e959dcb678f77,5140806040756132220,6293727511001139579,7,N,677,173,46
+_webp.c,pyvalues.c,\src\_webp.c,\src\pyvalues.c,a6a0ea6d234787d4b7b44eb1d91e9dd7,eef232aebcadaf8dedcb0b2de85cd554,5140806040756132220,6293727511001139323,8,N,677,1149,182
+ImPlatform.h,collectd.h,\src\libImaging\ImPlatform.h,\src\daemon\collectd.h,6670b4584189b95bdcaaa198dabbf5c8,2b583af2ee5d68797b260dc2234a9a80,-8024570949662353252,-8023445049755510628,1,N,58,198,14
+ImPlatform.h,stdendian.h,\src\libImaging\ImPlatform.h,\src\libcollectdclient\collectd\stdendian.h,6670b4584189b95bdcaaa198dabbf5c8,098cf6af06fc9530aaf9936b14d4d802,-8024570949662353252,-8032521930559661924,6,N,58,165,15
+ImPlatform.h,mount.h,\src\libImaging\ImPlatform.h,\src\utils\mount\mount.h,6670b4584189b95bdcaaa198dabbf5c8,8535c5ea598e2c2e046efd01984ce929,-8024570949662353252,-8023445049755510628,1,N,58,64,11

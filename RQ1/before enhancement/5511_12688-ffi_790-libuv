@@ -1,0 +1,16 @@
+12688-ffi,790-libuv
+compat.h,test-list.h,\ext\ffi_c\compat.h,\test\test-list.h,89860486007fe9b6739772aa0b042837,34c37e38fd3367fbe3d6e9280bf86a06,-8023447251463120740,-7374645228437448676,7,N,38,951,12
+compat.h,getaddrinfo.c,\ext\ffi_c\compat.h,\src\unix\getaddrinfo.c,89860486007fe9b6739772aa0b042837,e8e49cecf77e5d3f516ab013154bbd9c,-8023447251463120740,-8023444777025087336,4,N,38,188,12
+compat.h,internal.h,\ext\ffi_c\compat.h,\src\unix\internal.h,89860486007fe9b6739772aa0b042837,371ffd2ac622ba8f4ae44ae51c531f3d,-8023447251463120740,-8023445069074474788,5,N,38,209,12
+compat.h,linux-syscalls.c,\ext\ffi_c\compat.h,\src\unix\linux-syscalls.c,89860486007fe9b6739772aa0b042837,e03aa3ff0bab5e21466ddb93bc58c23e,-8023447251463120740,-8023444499991568996,8,N,38,292,12
+compat.h,winapi.h,\ext\ffi_c\compat.h,\src\win\winapi.h,89860486007fe9b6739772aa0b042837,4f2f56dcce5d652768e5e4cfcf6661be,-8023447251463120740,-8023445049755510628,3,N,38,3569,11
+DynamicLibrary.h,test-list.h,\ext\ffi_c\DynamicLibrary.h,\test\test-list.h,85bcc5d631466c02273f9899152b054b,34c37e38fd3367fbe3d6e9280bf86a06,-5753630837560780644,-7374645228437448676,6,N,49,951,15
+DynamicLibrary.h,getaddrinfo.c,\ext\ffi_c\DynamicLibrary.h,\src\unix\getaddrinfo.c,85bcc5d631466c02273f9899152b054b,e8e49cecf77e5d3f516ab013154bbd9c,-5753630837560780644,-8023444777025087336,5,N,49,188,16
+DynamicLibrary.h,internal.h,\ext\ffi_c\DynamicLibrary.h,\src\unix\internal.h,85bcc5d631466c02273f9899152b054b,371ffd2ac622ba8f4ae44ae51c531f3d,-5753630837560780644,-8023445069074474788,6,N,49,209,16
+DynamicLibrary.h,linux-syscalls.c,\ext\ffi_c\DynamicLibrary.h,\src\unix\linux-syscalls.c,85bcc5d631466c02273f9899152b054b,e03aa3ff0bab5e21466ddb93bc58c23e,-5753630837560780644,-8023444499991568996,7,N,49,292,16
+DynamicLibrary.h,winapi.h,\ext\ffi_c\DynamicLibrary.h,\src\win\winapi.h,85bcc5d631466c02273f9899152b054b,4f2f56dcce5d652768e5e4cfcf6661be,-5753630837560780644,-8023445049755510628,2,N,49,3569,15
+rbffi_endian.h,test-list.h,\ext\ffi_c\rbffi_endian.h,\test\test-list.h,f869d8d0ddc657c2a3138058f91acb6c,34c37e38fd3367fbe3d6e9280bf86a06,-8023445049822619428,-7374645228437448676,6,N,50,951,14
+rbffi_endian.h,getaddrinfo.c,\ext\ffi_c\rbffi_endian.h,\src\unix\getaddrinfo.c,f869d8d0ddc657c2a3138058f91acb6c,e8e49cecf77e5d3f516ab013154bbd9c,-8023445049822619428,-8023444777025087336,5,N,50,188,13
+rbffi_endian.h,internal.h,\ext\ffi_c\rbffi_endian.h,\src\unix\internal.h,f869d8d0ddc657c2a3138058f91acb6c,371ffd2ac622ba8f4ae44ae51c531f3d,-8023445049822619428,-8023445069074474788,4,N,50,209,14
+rbffi_endian.h,linux-syscalls.c,\ext\ffi_c\rbffi_endian.h,\src\unix\linux-syscalls.c,f869d8d0ddc657c2a3138058f91acb6c,e03aa3ff0bab5e21466ddb93bc58c23e,-8023445049822619428,-8023444499991568996,7,N,50,292,15
+rbffi_endian.h,winapi.h,\ext\ffi_c\rbffi_endian.h,\src\win\winapi.h,f869d8d0ddc657c2a3138058f91acb6c,4f2f56dcce5d652768e5e4cfcf6661be,-8023445049822619428,-8023445049755510628,2,N,50,3569,12

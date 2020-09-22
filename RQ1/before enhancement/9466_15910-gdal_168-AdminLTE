@@ -1,0 +1,8 @@
+15910-gdal,168-AdminLTE
+swq_op_general.cpp,inputmask.js,\gdal\ogr\swq_op_general.cpp,\plugins\inputmask\inputmask.js,9a46e71d5126a97b05924e4d46123f6b,57d26571eeeb528dfa6b0195cfa1b5d0,5729127511652612311,5728986778392393927,6,N,1338,2703,234
+cpl_virtualmem.cpp,inputmask.js,\gdal\port\cpl_virtualmem.cpp,\plugins\inputmask\inputmask.js,c1486bac5c48334f402b7cad9321078e,57d26571eeeb528dfa6b0195cfa1b5d0,5729127649091827926,5728986778392393927,7,N,1826,2703,219
+pcrasterutil.cpp,inputmask.js,\gdal\frmts\pcraster\pcrasterutil.cpp,\plugins\inputmask\inputmask.js,e859d72f54bbc5ffafa4fb95c5478cac,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442933135575,5728986778392393927,7,N,552,2703,176
+gif_err.c,inputmask.js,\gdal\frmts\gif\giflib\gif_err.c,\plugins\inputmask\inputmask.js,ae184d827961b2dcfd4874276b74052e,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442933135575,5728986778392393927,7,N,96,2703,28
+tif_dir.c,inputmask.js,\gdal\frmts\gtiff\libtiff\tif_dir.c,\plugins\inputmask\inputmask.js,4f501baa598e4ce669a2ec5827ef519c,57d26571eeeb528dfa6b0195cfa1b5d0,5733631042560506071,5728986778392393927,8,N,1433,2703,188
+ogrdxf_leader.cpp,inputmask.js,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\plugins\inputmask\inputmask.js,4848c0c5b772127cd6203813cdb66178,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442933135607,5728986778392393927,8,N,967,2703,140
+geoconcept_syscoord.c,inputmask.js,\gdal\ogr\ogrsf_frmts\geoconcept\geoconcept_syscoord.c,\plugins\inputmask\inputmask.js,9af5d9460fe3d4d2b5e65f025d620176,57d26571eeeb528dfa6b0195cfa1b5d0,5729127442866286807,5728986778392393927,6,N,873,2703,112

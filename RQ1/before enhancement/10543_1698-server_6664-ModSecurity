@@ -1,0 +1,5 @@
+1698-server,6664-ModSecurity
+MDB2SchemaReader.php,seclang-parser.cc,\lib\private\DB\MDB2SchemaReader.php,\src\parser\seclang-parser.cc,d647cd0d11a5a459553ceaf5b5657b44,c95834041ac82565ed4d4a4bccd1b864,5731379242742884567,5729127442933135575,4,N,240,6079,76
+MDB2SchemaReader.php,phase.h,\lib\private\DB\MDB2SchemaReader.php,\src\utils\phase.h,d647cd0d11a5a459553ceaf5b5657b44,a09f3ae3e8191f752c4eb96a4ac598b6,5731379242742884567,-1170387186198464297,7,N,240,38,11
+NullCache.php,severity.cc,\lib\private\Memcache\NullCache.php,\src\actions\severity.cc,439c16ff64dec5dbdd54b6fe3f48bdf5,497d4e061fc56cdefb643c5f6d57a643,6086521499029436825,6717025446861306266,5,N,37,62,17
+RemoteShare.php,severity.cc,\apps\files_sharing\lib\Activity\Settings\RemoteShare.php,\src\actions\severity.cc,b688e7840f7fbf1fd6457354676b1055,497d4e061fc56cdefb643c5f6d57a643,9022693086117845144,6717025446861306266,8,N,31,62,11

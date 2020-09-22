@@ -1,0 +1,11 @@
+1541-h2o,2389-Pillow
+fmacros.h,ImPlatform.h,\deps\hiredis\fmacros.h,\src\libImaging\ImPlatform.h,9d6fd32f84c9d0377076a4587579ec51,6670b4584189b95bdcaaa198dabbf5c8,-8023515419036559204,-8024570949662353252,3,N,20,58,7
+_brotli.cc,_webp.c,\deps\brotli\python\_brotli.cc,\src\_webp.c,376b2fb27dc97d420b1312da4818f5be,a6a0ea6d234787d4b7b44eb1d91e9dd7,529120021252901755,5140806040756132220,8,N,639,677,155
+mrbconf.h,ImPlatform.h,\deps\mruby\include\mrbconf.h,\src\libImaging\ImPlatform.h,b30b9460d209b1cc68a61c5604bdd5a1,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,43,58,13
+mruby.h,ImPlatform.h,\deps\mruby\include\mruby.h,\src\libImaging\ImPlatform.h,919df8d515b52adcdfa92f19037768c8,6670b4584189b95bdcaaa198dabbf5c8,-9176366554362357572,-8024570949662353252,3,N,440,58,16
+codedump.c,FliDecode.c,\deps\mruby\src\codedump.c,\src\libImaging\FliDecode.c,7fda31add2a50b1a066d625a7cb020c0,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,525,160,39
+port.h,ImPlatform.h,\deps\brotli\c\dec\port.h,\src\libImaging\ImPlatform.h,40b2fd74ac0fb05b9b3137ca6adfdec5,6670b4584189b95bdcaaa198dabbf5c8,-8023163576927266084,-8024570949662353252,7,N,121,58,15
+types.h,ImPlatform.h,\deps\picotls\deps\micro-ecc\types.h,\src\libImaging\ImPlatform.h,d0ccddb6a5d5d18dbed2dc07299a4b3d,6670b4584189b95bdcaaa198dabbf5c8,-8023445049757607011,-8024570949662353252,5,N,87,58,15
+uECC.h,ImPlatform.h,\deps\picotls\deps\micro-ecc\uECC.h,\src\libImaging\ImPlatform.h,e777f21ea5ae63708919f7e3ba1592f7,6670b4584189b95bdcaaa198dabbf5c8,1199926987099265180,-8024570949662353252,2,N,105,58,11
+wincompat.h,ImPlatform.h,\deps\picotls\picotlsvs\picotls\wincompat.h,\src\libImaging\ImPlatform.h,7c4e1724c3a0beeaea1e4c416d606c60,6670b4584189b95bdcaaa198dabbf5c8,-8041318848215590756,-8024570949662353252,6,N,28,58,6
+port.h,ImPlatform.h,\deps\brotli\c\include\brotli\port.h,\src\libImaging\ImPlatform.h,350994917b4cef7e95001ccfdd8a21d9,6670b4584189b95bdcaaa198dabbf5c8,-9031978687939553124,-8024570949662353252,7,N,102,58,15

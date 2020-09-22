@@ -1,0 +1,7 @@
+12758-znc,4984-jerryscript
+version.h,config.h,\include\znc\version.h,\jerry-core\config.h,d05809c29f032c998a444139c4f0d9ce,1610ce5e32380b97834532a2439ffb00,-8023445187195380516,-8023445049755510628,5,N,43,338,9
+version.h,jerryscript-compiler.h,\include\znc\version.h,\jerry-core\include\jerryscript-compiler.h,d05809c29f032c998a444139c4f0d9ce,6dc57bc479adf16d2b42cadd27f2edd3,-8023445187195380516,-8023445049755510628,5,N,43,73,8
+version.h,jcontext.h,\include\znc\version.h,\jerry-core\jcontext\jcontext.h,d05809c29f032c998a444139c4f0d9ce,4de6c82710d6de4c90b38b2414b9953a,-8023445187195380516,-9176367654679291684,8,N,43,162,10
+version.h,lit-magic-strings.inc.h,\include\znc\version.h,\jerry-core\lit\lit-magic-strings.inc.h,d05809c29f032c998a444139c4f0d9ce,d156bf64086a4a370f1f54301148fe60,-8023445187195380516,-8023445049755510628,5,N,43,920,13
+version.h,ecma-builtin-helpers-macro-defines.inc.h,\include\znc\version.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,d05809c29f032c998a444139c4f0d9ce,0dde8629af7a79ff0576269e0d239a88,-8023445187195380516,-8023445084115248996,6,N,43,32,8
+version.h,js-parser-limits.h,\include\znc\version.h,\jerry-core\parser\js\js-parser-limits.h,d05809c29f032c998a444139c4f0d9ce,656369309984980286cea2eff0cb4741,-8023445187195380516,-8023445049755510628,5,N,43,51,9

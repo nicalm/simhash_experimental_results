@@ -1,0 +1,3 @@
+6714-cryptography,702-swoole-src
+osrandom_engine.h,php_swoole.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\php_swoole.h,5faed825e57102494d64f41f67417150,337f462588e1c8f2aaeb066e066ab451,-9176392388590904164,-9176367098749461484,7,N,80,961,16
+osrandom_engine.h,swoole.cc,\src\_cffi_src\openssl\src\osrandom_engine.h,\swoole.cc,5faed825e57102494d64f41f67417150,51095f5d0c729dc304ea7d3b74a45710,-9176392388590904164,-8023444500268134244,8,N,80,735,15

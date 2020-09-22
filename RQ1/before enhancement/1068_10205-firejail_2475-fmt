@@ -1,0 +1,3 @@
+10205-firejail,2475-fmt
+print.c,chrono_duration.cpp,\src\fsec-print\print.c,\test\fuzzing\chrono_duration.cpp,a532e1235b05a01261ed4f8b4b722622,72440fd90a0d01848031589bb2a841a9,-8096923412020553513,5729127447228102871,6,N,257,129,28
+print.c,one_arg.cpp,\src\fsec-print\print.c,\test\fuzzing\one_arg.cpp,a532e1235b05a01261ed4f8b4b722622,883cdbba8da3fa541c4927e1ea02ff22,-8096923412020553513,2270360721499404501,8,N,257,117,25

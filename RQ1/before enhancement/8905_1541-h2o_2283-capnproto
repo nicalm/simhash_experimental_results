@@ -1,0 +1,7 @@
+1541-h2o,2283-capnproto
+fmacros.h,miniposix.h,\deps\hiredis\fmacros.h,\c++\src\kj\miniposix.h,9d6fd32f84c9d0377076a4587579ec51,43597d9a9103c02dbbe46d2c58ecc748,-8023515419036559204,-7455991496707810916,7,N,20,84,7
+mrbconf.h,miniposix.h,\deps\mruby\include\mrbconf.h,\c++\src\kj\miniposix.h,b30b9460d209b1cc68a61c5604bdd5a1,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,43,84,15
+mruby.h,miniposix.h,\deps\mruby\include\mruby.h,\c++\src\kj\miniposix.h,919df8d515b52adcdfa92f19037768c8,43597d9a9103c02dbbe46d2c58ecc748,-9176366554362357572,-7455991496707810916,7,N,440,84,23
+port.h,miniposix.h,\deps\brotli\c\dec\port.h,\c++\src\kj\miniposix.h,40b2fd74ac0fb05b9b3137ca6adfdec5,43597d9a9103c02dbbe46d2c58ecc748,-8023163576927266084,-7455991496707810916,7,N,121,84,20
+types.h,miniposix.h,\deps\picotls\deps\micro-ecc\types.h,\c++\src\kj\miniposix.h,d0ccddb6a5d5d18dbed2dc07299a4b3d,43597d9a9103c02dbbe46d2c58ecc748,-8023445049757607011,-7455991496707810916,7,N,87,84,16
+uECC.h,miniposix.h,\deps\picotls\deps\micro-ecc\uECC.h,\c++\src\kj\miniposix.h,e777f21ea5ae63708919f7e3ba1592f7,43597d9a9103c02dbbe46d2c58ecc748,1199926987099265180,-7455991496707810916,6,N,105,84,13

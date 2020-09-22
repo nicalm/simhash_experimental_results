@@ -1,0 +1,11 @@
+4790-node-opencv,6347-librealsense
+init.cc,glext.h,\src\init.cc,\third-party\glad\glext.h,ac230f241e7062df9add8317bcf2a3be,b47c3053eb61af62c08dd7e6f45631ce,-8032663355242784612,-8023445049755510628,3,N,67,12110,11
+init.cc,easylogging++.h,\src\init.cc,\third-party\easyloggingpp\src\easylogging++.h,ac230f241e7062df9add8317bcf2a3be,a5e6b54e91368f83f029eaf8a7a4ca68,-8032663355242784612,-8023445049756558632,7,N,67,3696,12
+init.cc,tinycthread.h,\src\init.cc,\third-party\glfw\deps\tinycthread.h,ac230f241e7062df9add8317bcf2a3be,d64af4e68966d2e35effa48ebd7b3c79,-8032663355242784612,-8023444774877636452,5,N,67,138,12
+init.cc,win32_platform.h,\src\init.cc,\third-party\glfw\src\win32_platform.h,ac230f241e7062df9add8317bcf2a3be,2445649aade285164b3f3df9cb6b0b9c,-8032663355242784612,-8023445049755510628,3,N,67,324,11
+init.cc,_mingw_dxhelper.h,\src\init.cc,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,ac230f241e7062df9add8317bcf2a3be,5423da3108dd32be383352d8d6c55edb,-8032663355242784612,-9185092003762480996,5,N,67,102,11
+init.cc,stdint.h,\src\init.cc,\third-party\glfw\deps\vs2008\stdint.h,ac230f241e7062df9add8317bcf2a3be,0a9faad66f590c9572581753d453013e,-8032663355242784612,-8018800163019237220,7,N,67,152,11
+init.cc,vulkan.h,\src\init.cc,\third-party\glfw\deps\vulkan\vulkan.h,ac230f241e7062df9add8317bcf2a3be,368be8e566768753806bdc8cc0052fc3,-8032663355242784612,1163898190080301212,5,N,67,38,10
+init.cc,glfw3native.h,\src\init.cc,\third-party\glfw\include\GLFW\glfw3native.h,ac230f241e7062df9add8317bcf2a3be,c5d9fae34608972236a415167b8ed590,-8032663355242784612,-8023445051902996324,5,N,67,83,11
+init.cc,chunked_file.cpp,\src\init.cc,\third-party\realsense-file\rosbag\rosbag_storage\src\chunked_file.cpp,ac230f241e7062df9add8317bcf2a3be,c7d13ab2746f722a327d897f9e4e7b0b,-8032663355242784612,-8028195079640950626,8,N,67,145,6
+init.cc,platform.h,\src\init.cc,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,ac230f241e7062df9add8317bcf2a3be,4f1f8bbdad0dc57a2bc7530ddc22297a,-8032663355242784612,-7879409026516887396,5,N,67,37,7

@@ -1,0 +1,4 @@
+63613-KunstmaanBundlesCMS,6664-ModSecurity
+StringFilterType.php,seclang-parser.cc,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,\src\parser\seclang-parser.cc,da41db0764b2bc6ea750e9ab6c21973a,c95834041ac82565ed4d4a4bccd1b864,5729413307097985239,5729127442933135575,6,N,54,6079,17
+NumberFilterType.php,phase.h,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\ORM\NumberFilterType.php,\src\utils\phase.h,423d4159f49c0d6b56922a98de9393ee,a09f3ae3e8191f752c4eb96a4ac598b6,-1184179468722718253,-1170387186198464297,8,N,47,38,10
+StringFilterType.php,seclang-parser.cc,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\ORM\StringFilterType.php,\src\parser\seclang-parser.cc,cc9f7e3b468f7a06a05fbec8ff53e364,c95834041ac82565ed4d4a4bccd1b864,5729408874691727575,5729127442933135575,7,N,54,6079,17

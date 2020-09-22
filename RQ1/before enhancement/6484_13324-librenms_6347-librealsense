@@ -1,0 +1,10 @@
+13324-librenms,6347-librealsense
+rewrites.php,uvc-parser.cpp,\includes\rewrites.php,\src\uvc\uvc-parser.cpp,5389d55c6eafa211ede2994f342bca9b,ec225d2799af25e9be4a1b255aa81ded,5729127442933135575,1011606833287673943,8,N,1602,310,95
+rewrites.php,iconify.c,\includes\rewrites.php,\third-party\glfw\tests\iconify.c,5389d55c6eafa211ede2994f342bca9b,4383e5e5067c1f0471c630b863bae2d6,5729127442933135575,5755937900105083095,6,N,1602,219,69
+DeviceGroupPolicy.php,resolver.h,\app\Policies\DeviceGroupPolicy.php,\src\pipeline\resolver.h,3e370a08c1ce39bc8142215a13a42cf8,1f362b3f9e9547ed48bbb9da7c99a13e,1431065645024035756,1392802623197565838,7,N,43,378,27
+DeviceGroupPolicy.php,win-helpers.cpp,\app\Policies\DeviceGroupPolicy.php,\src\win\win-helpers.cpp,3e370a08c1ce39bc8142215a13a42cf8,8c8bc33100d821f444c03e660052ed39,1431065645024035756,1395177581198528942,7,N,43,799,27
+DeviceGroupPolicy.php,validate_face.h,\app\Policies\DeviceGroupPolicy.php,\wrappers\dlib\face\validate_face.h,3e370a08c1ce39bc8142215a13a42cf8,b5d0b4d6660310a322b59b410744d0ed,1431065645024035756,-7792288799644695634,3,N,43,75,14
+libvirt-vminfo.inc.php,iconify.c,\includes\discovery\libvirt-vminfo.inc.php,\third-party\glfw\tests\iconify.c,bb4b3773cf786ace10a58f9ec481435e,4383e5e5067c1f0471c630b863bae2d6,5730182974087411863,5755937900105083095,8,N,112,219,28
+ports.csv.inc.php,iconify.c,\includes\html\reports\ports.csv.inc.php,\third-party\glfw\tests\iconify.c,363f50b93f6f3f7b86ed810c407bde48,4383e5e5067c1f0471c630b863bae2d6,5729127512726350071,5755937900105083095,8,N,140,219,28
+viptela.inc.php,iconify.c,\includes\polling\os\viptela.inc.php,\third-party\glfw\tests\iconify.c,c64de710870736d919a9de98ce834a46,4383e5e5067c1f0471c630b863bae2d6,5729127442928941271,5755937900105083095,7,N,48,219,15
+linux.inc.php,iconify.c,\includes\discovery\sensors\state\linux.inc.php,\third-party\glfw\tests\iconify.c,f9f2f629ba22b31deca0a4fa8d6f22cc,4383e5e5067c1f0471c630b863bae2d6,5747071472597776631,5755937900105083095,7,N,39,219,11

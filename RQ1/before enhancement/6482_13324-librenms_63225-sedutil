@@ -1,0 +1,9 @@
+13324-librenms,63225-sedutil
+rewrites.php,sedutil.cpp,\includes\rewrites.php,\Common\sedutil.cpp,5389d55c6eafa211ede2994f342bca9b,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,1602,243,53
+libvirt-vminfo.inc.php,sedutil.cpp,\includes\discovery\libvirt-vminfo.inc.php,\Common\sedutil.cpp,bb4b3773cf786ace10a58f9ec481435e,d52e516d82c7919c579e6283c901df60,5730182974087411863,5693098645914171606,6,N,112,243,21
+ports.csv.inc.php,sedutil.cpp,\includes\html\reports\ports.csv.inc.php,\Common\sedutil.cpp,363f50b93f6f3f7b86ed810c407bde48,d52e516d82c7919c579e6283c901df60,5729127512726350071,5693098645914171606,6,N,140,243,31
+viptela.inc.php,sedutil.cpp,\includes\polling\os\viptela.inc.php,\Common\sedutil.cpp,c64de710870736d919a9de98ce834a46,d52e516d82c7919c579e6283c901df60,5729127442928941271,5693098645914171606,3,N,48,243,15
+AdvaSysAlmTrap.php,sedutil.cpp,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,\Common\sedutil.cpp,56f813b9379330897dbc82d45cf9f46e,d52e516d82c7919c579e6283c901df60,1121945025240414455,5693098645914171606,7,N,32,243,11
+linux.inc.php,sedutil.cpp,\includes\discovery\sensors\state\linux.inc.php,\Common\sedutil.cpp,f9f2f629ba22b31deca0a4fa8d6f22cc,d52e516d82c7919c579e6283c901df60,5747071472597776631,5693098645914171606,7,N,39,243,11
+toner.inc.php,sedutil.cpp,\includes\html\graphs\device\toner.inc.php,\Common\sedutil.cpp,14df19f7caa79129a9551c99a2471503,d52e516d82c7919c579e6283c901df60,5731379235161422023,5693098645914171606,8,N,45,243,11
+sensors.inc.php,sedutil.cpp,\includes\html\pages\health\sensors.inc.php,\Common\sedutil.cpp,9bd00fc9a64f40b2fc247e4ec5f2b56a,d52e516d82c7919c579e6283c901df60,5440897599356385494,5693098645914171606,6,N,98,243,18

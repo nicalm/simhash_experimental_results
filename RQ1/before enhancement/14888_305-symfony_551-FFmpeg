@@ -1,0 +1,8 @@
+305-symfony,551-FFmpeg
+IpValidator.php,dds.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libavcodec\dds.c,7ca48c5d09328c72e03da3c6a432f9bf,44ed87717f6320243295b32b6ad74a67,5746860357875939543,8052984850656305399,7,N,69,614,23
+IpValidator.php,microdvddec.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libavcodec\microdvddec.c,7ca48c5d09328c72e03da3c6a432f9bf,6b8538c47d69e8430f45a7f00d38ff01,5746860357875939543,5729092258292611287,6,N,69,285,24
+IpValidator.php,pcm.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libavcodec\pcm.c,7ca48c5d09328c72e03da3c6a432f9bf,37664aa1805e5b8a6fd6444e25ca5398,5746860357875939543,5728845967956424919,3,N,69,537,23
+IpValidator.php,electronicarts.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libavformat\electronicarts.c,7ca48c5d09328c72e03da3c6a432f9bf,ff9f06888cfea7376ae205c5fe364062,5746860357875939543,6882048947539982559,6,N,69,637,23
+IpValidator.php,ipmovie.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libavformat\ipmovie.c,7ca48c5d09328c72e03da3c6a432f9bf,8ce1110719f18ab4ea6326f6d2ec3971,5746860357875939543,5657069840338827415,6,N,69,555,23
+IpValidator.php,yuv4mpegenc.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libavformat\yuv4mpegenc.c,7ca48c5d09328c72e03da3c6a432f9bf,c4140fda683fb3c45997517c0394f389,5746860357875939543,5729125243909880051,7,N,69,303,23
+IpValidator.php,input.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libswscale\input.c,7ca48c5d09328c72e03da3c6a432f9bf,f5fd4c22afbeba816cbd53aa0171507b,5746860357875939543,5729127442928941270,6,N,69,1488,22

@@ -1,0 +1,10 @@
+2202-qBittorrent,6664-ModSecurity
+application.cpp,check_config.h,\src\app\application.cpp,\others\mbedtls\check_config.h,1769f1c34b2b51e4c126498e3a0b5a58,306e92b56ac8d1b085c9f72fb65f46a7,-7445858400229599076,-8023445049755510628,5,N,573,402,33
+application.cpp,platform.h,\src\app\application.cpp,\others\mbedtls\platform.h,1769f1c34b2b51e4c126498e3a0b5a58,d00d535ad1c35ca86d366afc8578c1ab,-7445858400229599076,-7879409027045336932,8,N,573,106,30
+main.cpp,unique_id.cc,\src\app\main.cpp,\src\unique_id.cc,0ab876c235d091cc9321f5b26945d353,7c20c0dbffc732616cd5e43c73b8087b,-8023445118508476260,1199926922539489428,7,N,324,177,36
+main.cpp,check_config.h,\src\app\main.cpp,\others\mbedtls\check_config.h,0ab876c235d091cc9321f5b26945d353,306e92b56ac8d1b085c9f72fb65f46a7,-8023445118508476260,-8023445049755510628,3,N,324,402,34
+main.cpp,platform.h,\src\app\main.cpp,\others\mbedtls\platform.h,0ab876c235d091cc9321f5b26945d353,d00d535ad1c35ca86d366afc8578c1ab,-8023445118508476260,-7879409027045336932,8,N,324,106,34
+mainwindow.cpp,check_config.h,\src\gui\mainwindow.cpp,\others\mbedtls\check_config.h,5cd96cef67869a501be59f5996fcb554,306e92b56ac8d1b085c9f72fb65f46a7,-9032396158224000868,-8023445049755510628,8,N,1634,402,50
+session.cpp,seclang-parser.cc,\src\base\bittorrent\session.cpp,\src\parser\seclang-parser.cc,ca3fc73b6732798b8724618e8c3fec27,c95834041ac82565ed4d4a4bccd1b864,6881978578661030105,5729127442933135575,8,N,3742,6079,1002
+proplistdelegate.cpp,seclang-parser.cc,\src\gui\properties\proplistdelegate.cpp,\src\parser\seclang-parser.cc,4de60f6b36141f92c2bc5ba3d77471db,c95834041ac82565ed4d4a4bccd1b864,-3494526068898088747,5729127442933135575,4,N,172,6079,54
+proplistdelegate.cpp,phase.h,\src\gui\properties\proplistdelegate.cpp,\src\utils\phase.h,4de60f6b36141f92c2bc5ba3d77471db,a09f3ae3e8191f752c4eb96a4ac598b6,-3494526068898088747,-1170387186198464297,5,N,172,38,12

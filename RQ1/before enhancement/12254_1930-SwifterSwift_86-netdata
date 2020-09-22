@@ -1,0 +1,4 @@
+1930-SwifterSwift,86-netdata
+CGColorExtensions.swift,libnetdata.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\libnetdata\libnetdata.h,13a384d167268ac57b0c34b9cb13ed0f,b36073eea8dc836d3f37e426aebdabda,1189793885789145236,-8023445049755510628,7,N,21,248,5
+NSAttributedStringExtensions.swift,libnetdata.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\libnetdata\libnetdata.h,682db1376e5e9e45d24a9e1b1ad3e9f8,b36073eea8dc836d3f37e426aebdabda,-9174114755220842340,-8023445049755510628,6,N,87,248,11
+StringExtensions.swift,libnetdata.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\libnetdata\libnetdata.h,d53332d341abeff92e3d2d2ce16a4d0a,b36073eea8dc836d3f37e426aebdabda,-3051550226512422756,-8023445049755510628,7,N,650,248,35

@@ -1,0 +1,3 @@
+12891-libjpeg-turbo,9023-zoneminder
+jmorecfg.h,zm_ffmpeg.h,\jmorecfg.h,\src\zm_ffmpeg.h,1469bb97fe30335d1c73bd97389298b2,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023517342645037028,-8023445049755510628,4,N,162,281,30
+jccolext-altivec.c,zm_ffmpeg.h,\simd\powerpc\jccolext-altivec.c,\src\zm_ffmpeg.h,f35971d8d3460ef5abe9dca10e095ed1,7e2fcd3ba00999285d6aaf2ef78cc14d,-3267362370959935348,-8023445049755510628,8,N,174,281,18

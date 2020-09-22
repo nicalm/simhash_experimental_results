@@ -1,0 +1,7 @@
+4014-kanboard,6285-ImageMagick
+changes.php,svg.c,\app\Template\task\changes.php,\coders\svg.c,9d43fb3e19ac004f3873770dd9bbbfde,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5729127648822069494,5729127442933135575,8,N,75,4691,19
+changes.php,composite.c,\app\Template\task\changes.php,\MagickCore\composite.c,9d43fb3e19ac004f3873770dd9bbbfde,340d5a0c7006a0824a2a7fe9aab13822,5729127648822069494,5729127511652874455,8,N,75,2158,19
+changes.php,widget.c,\app\Template\task\changes.php,\MagickCore\widget.c,9d43fb3e19ac004f3873770dd9bbbfde,f0e9f521bef825c5e27b767db6566d31,5729127648822069494,5729127442933135575,8,N,75,7134,19
+changes.php,mogrify.c,\app\Template\task\changes.php,\MagickWand\mogrify.c,9d43fb3e19ac004f3873770dd9bbbfde,40ce227d8d84162c170d4ac9ed9ebc51,5729127648822069494,5729127442933135575,8,N,75,8560,19
+NumberComparator.php,gray.c,\vendor\symfony\finder\Comparator\NumberComparator.php,\coders\gray.c,d227698b7f899a149f72d00907f80dbd,bd9aadd8c069b6b1a0eb0e68d7bc8280,5656999445754853599,1045382696595405015,8,N,39,837,14
+NumberComparator.php,miff.c,\vendor\symfony\finder\Comparator\NumberComparator.php,\coders\miff.c,d227698b7f899a149f72d00907f80dbd,eb048844ba749cb188f12a545d5a3a14,5656999445754853599,5729127442933397727,7,N,39,2414,16

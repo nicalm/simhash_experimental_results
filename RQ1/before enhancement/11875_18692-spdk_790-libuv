@@ -1,0 +1,6 @@
+18692-spdk,790-libuv
+queue.h,winapi.h,\include\spdk\queue.h,\src\win\winapi.h,ec100905d717ef23a63f758030236499,4f2f56dcce5d652768e5e4cfcf6661be,-9212465172521363396,-8023445049755510628,8,N,30,3569,5
+assert.h,test-list.h,\include\spdk_internal\assert.h,\test\test-list.h,340c3c292f11b3661cb114f5fb4a2722,34c37e38fd3367fbe3d6e9280bf86a06,-7384004271941560100,-7374645228437448676,7,N,16,951,5
+assert.h,test-uname.c,\include\spdk_internal\assert.h,\test\test-uname.c,340c3c292f11b3661cb114f5fb4a2722,e4168fcb68ae66e9d30927d67519b6fb,-7384004271941560100,-7455991513878439779,8,N,16,37,6
+assert.h,internal.h,\include\spdk_internal\assert.h,\src\unix\internal.h,340c3c292f11b3661cb114f5fb4a2722,371ffd2ac622ba8f4ae44ae51c531f3d,-7384004271941560100,-8023445069074474788,7,N,16,209,6
+assert.h,winapi.h,\include\spdk_internal\assert.h,\src\win\winapi.h,340c3c292f11b3661cb114f5fb4a2722,4f2f56dcce5d652768e5e4cfcf6661be,-7384004271941560100,-8023445049755510628,7,N,16,3569,4

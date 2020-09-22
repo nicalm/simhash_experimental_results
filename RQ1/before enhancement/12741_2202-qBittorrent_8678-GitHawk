@@ -1,0 +1,9 @@
+2202-qBittorrent,8678-GitHawk
+application.cpp,SDWebImageCompat.h,\src\app\application.cpp,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,1769f1c34b2b51e4c126498e3a0b5a58,b0a5f204f5c6671d77ea59f8ffd5921c,-7445858400229599076,-7735249858110105444,8,N,573,80,23
+application.cpp,cmarkextensions_export.h,\src\app\application.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,1769f1c34b2b51e4c126498e3a0b5a58,252c50482fb9cc0b421251bbc1a8e0e6,-7445858400229599076,-8023480234127599460,6,N,573,32,12
+application.cpp,cmark_export.h,\src\app\application.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,1769f1c34b2b51e4c126498e3a0b5a58,7d9a85e6bffd97dbcc67d0e392b8ead8,-7445858400229599076,-8023445049755510632,6,N,573,32,12
+main.cpp,SDWebImageCompat.h,\src\app\main.cpp,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,0ab876c235d091cc9321f5b26945d353,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445118508476260,-7735249858110105444,6,N,324,80,25
+main.cpp,cmarkextensions_export.h,\src\app\main.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,0ab876c235d091cc9321f5b26945d353,252c50482fb9cc0b421251bbc1a8e0e6,-8023445118508476260,-8023480234127599460,4,N,324,32,12
+main.cpp,cmark_export.h,\src\app\main.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,0ab876c235d091cc9321f5b26945d353,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445118508476260,-8023445049755510632,4,N,324,32,12
+proplistdelegate.cpp,latex.c,\src\gui\properties\proplistdelegate.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,4de60f6b36141f92c2bc5ba3d77471db,3b496090a1e3513cfad47cdb55fd9f13,-3494526068898088747,5152666690361272567,8,N,172,414,42
+proplistdelegate.cpp,plaintext.c,\src\gui\properties\proplistdelegate.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,4de60f6b36141f92c2bc5ba3d77471db,26e0294ebef318a7dde60887d309717f,-3494526068898088747,5729127582519572639,8,N,172,169,39

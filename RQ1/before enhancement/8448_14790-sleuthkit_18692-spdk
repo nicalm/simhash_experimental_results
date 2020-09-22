@@ -1,0 +1,3 @@
+14790-sleuthkit,18692-spdk
+dos.c,scsi_bdev.c,\tsk\vs\dos.c,\lib\scsi\scsi_bdev.c,87019305b1f4020a75d7e674cebe6f30,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,5729127442933135575,6752569358741453045,8,N,850,1475,181
+file.h,assert.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\include\spdk_internal\assert.h,d22799caeaddf83c099f19cf401487da,340c3c292f11b3661cb114f5fb4a2722,-8023445049755510568,-7384004271941560100,7,N,402,16,7

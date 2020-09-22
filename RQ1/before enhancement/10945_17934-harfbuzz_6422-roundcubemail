@@ -1,0 +1,5 @@
+17934-harfbuzz,6422-roundcubemail
+hb-ot-shape-complex-vowel-constraints.cc,rcube_tnef_decoder.php,\src\hb-ot-shape-complex-vowel-constraints.cc,\program\lib\Roundcube\rcube_tnef_decoder.php,af3b5cee198ad0cdcf32177f2059763e,8ca46cd084af91332151df25d1c4bd66,5729127511516264663,5729127442933266647,5,N,420,520,112
+hb-ot-shape-complex-vowel-constraints.cc,rcube_sieve_script.php,\src\hb-ot-shape-complex-vowel-constraints.cc,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,af3b5cee198ad0cdcf32177f2059763e,3c3c719b9a27e12464461daf90f00d1d,5729127511516264663,5153229640599894231,7,N,420,1009,135
+hb-subset.cc,rcube_tnef_decoder.php,\src\hb-subset.cc,\program\lib\Roundcube\rcube_tnef_decoder.php,8cd5ec526a4232f06c744be9b77a51bc,8ca46cd084af91332151df25d1c4bd66,5170681089138145431,5729127442933266647,5,N,256,520,54
+hb-subset.cc,rcube_sieve_script.php,\src\hb-subset.cc,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,8cd5ec526a4232f06c744be9b77a51bc,3c3c719b9a27e12464461daf90f00d1d,5170681089138145431,5153229640599894231,7,N,256,1009,56

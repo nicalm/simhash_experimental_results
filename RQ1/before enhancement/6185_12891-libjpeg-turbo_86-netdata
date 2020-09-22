@@ -1,0 +1,3 @@
+12891-libjpeg-turbo,86-netdata
+jmorecfg.h,libnetdata.h,\jmorecfg.h,\libnetdata\libnetdata.h,1469bb97fe30335d1c73bd97389298b2,b36073eea8dc836d3f37e426aebdabda,-8023517342645037028,-8023445049755510628,4,N,162,248,30
+jccolext-altivec.c,libnetdata.h,\simd\powerpc\jccolext-altivec.c,\libnetdata\libnetdata.h,f35971d8d3460ef5abe9dca10e095ed1,b36073eea8dc836d3f37e426aebdabda,-3267362370959935348,-8023445049755510628,8,N,174,248,14

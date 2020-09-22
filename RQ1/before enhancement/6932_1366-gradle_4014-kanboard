@@ -1,0 +1,3 @@
+1366-gradle,4014-kanboard
+StandardJavadocDocletOptions.java,dom.js,\subprojects\language-java\src\main\java\org\gradle\external\javadoc\StandardJavadocDocletOptions.java,\assets\js\core\dom.js,9318e856ac6f4246727daccfa399231a,54c3f42675b481e378fde97b2aa5710c,-6848455119807773525,2519032038550734059,6,N,640,161,36
+VisualStudioMetadataBuilder.java,dom.js,\subprojects\platform-native\src\main\java\org\gradle\nativeplatform\toolchain\internal\msvcpp\version\VisualStudioMetadataBuilder.java,\assets\js\core\dom.js,7ff954f346f653af4c138894bbf9a466,54c3f42675b481e378fde97b2aa5710c,2521284384899073259,2519032038550734059,6,N,34,161,12

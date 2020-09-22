@@ -1,0 +1,9 @@
+10549-luci,4420-zcash
+axhttp.h,byteswap.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\compat\byteswap.h,15eb217d5f5922cce10b8494e4915b7f,c8049a65823175e0cb720f771bece0d5,-7491774003658044260,-8032452249010186084,8,N,101,36,9
+axhttp.h,endian.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\compat\endian.h,15eb217d5f5922cce10b8494e4915b7f,b0a1e77bc71959182a3b0854e64e46ad,-7491774003658044260,-8023445049755510628,8,N,101,160,14
+axhttp.h,thread_annotations.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\leveldb\port\thread_annotations.h,15eb217d5f5922cce10b8494e4915b7f,af9eee1ca47192126580ea56af3a4865,-7491774003658044260,-8023445049755510628,8,N,101,39,9
+axssl.c,byteswap.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\compat\byteswap.h,f2b0cb059db544f4352723a1918a2843,c8049a65823175e0cb720f771bece0d5,-8030199623489105704,-8032452249010186084,8,N,686,36,12
+axssl.c,endian.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\compat\endian.h,f2b0cb059db544f4352723a1918a2843,b0a1e77bc71959182a3b0854e64e46ad,-8030199623489105704,-8023445049755510628,8,N,686,160,75
+axssl.c,thread_annotations.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\leveldb\port\thread_annotations.h,f2b0cb059db544f4352723a1918a2843,af9eee1ca47192126580ea56af3a4865,-8030199623489105704,-8023445049755510628,8,N,686,39,13
+dialog.h,endian.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\compat\endian.h,65291cd84768397473c02d7325db3d87,b0a1e77bc71959182a3b0854e64e46ad,-7933373057317024612,-8023445049755510628,8,N,128,160,16
+dialog.h,thread_annotations.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\leveldb\port\thread_annotations.h,65291cd84768397473c02d7325db3d87,af9eee1ca47192126580ea56af3a4865,-7933373057317024612,-8023445049755510628,8,N,128,39,13

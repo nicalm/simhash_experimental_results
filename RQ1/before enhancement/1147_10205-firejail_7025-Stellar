@@ -1,0 +1,6 @@
+10205-firejail,7025-Stellar
+caps.c,Stellar-Swift.h,\src\firejail\caps.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,0b9d72adabe6b183bf9a7948ffeb2934,fafe37ab4771e0a9586e17224fcc7041,-5717602040541816676,-7743940123003924324,6,N,334,231,32
+checkcfg.c,Stellar-Swift.h,\src\firejail\checkcfg.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4289795bd3a0d9e4cc4faa2da19263f6,fafe37ab4771e0a9586e17224fcc7041,-7167514830009232996,-7743940123003924324,7,N,272,231,22
+sbox.c,Stellar-Swift.h,\src\firejail\sbox.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,8a6f9f9ce42bcca368916f82519b79d6,fafe37ab4771e0a9586e17224fcc7041,-8024007999708931940,-7743940123003924324,6,N,190,231,22
+syscall.c,Stellar-Swift.h,\src\fseccomp\syscall.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,bf0ef0cc7976e59f6ac60c1a011c8188,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,1564,231,29
+syscall.h,Stellar-Swift.h,\src\include\syscall.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e5d70ee64e8335903c40165f92bcb3a5,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,5186,231,29

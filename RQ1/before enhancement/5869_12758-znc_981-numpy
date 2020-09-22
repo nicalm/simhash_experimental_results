@@ -1,0 +1,3 @@
+12758-znc,981-numpy
+version.h,npy_common.h,\include\znc\version.h,\numpy\core\include\numpy\npy_common.h,d05809c29f032c998a444139c4f0d9ce,a173a9479ba36f92005f6b19e1c98ca6,-8023445187195380516,-8023445066935379812,6,N,43,951,13
+znc.py,test_matrix_linalg.py,\modules\modpython\znc.py,\numpy\matrixlib\tests\test_matrix_linalg.py,4a5b1d05db940e699bac8d83cbaf501d,54a57c0139bb930af3d55b231bfeaa89,9217320431243133317,9217329227336156549,2,N,722,55,12

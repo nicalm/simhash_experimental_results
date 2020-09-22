@@ -1,0 +1,4 @@
+11604-pdns,6714-cryptography
+threadname.cc,osrandom_engine.h,\pdns\threadname.cc,\src\_cffi_src\openssl\src\osrandom_engine.h,5b915147d70647a42e05b4e28ce34c57,5faed825e57102494d64f41f67417150,-8023445049889728356,-9176392388590904164,8,N,39,80,11
+version.cc,osrandom_engine.h,\pdns\version.cc,\src\_cffi_src\openssl\src\osrandom_engine.h,2d47bb8e09166cdc8de706154500a37c,5faed825e57102494d64f41f67417150,-8023445049755379556,-9176392388590904164,8,N,141,80,14
+murmur3.h,osrandom_engine.h,\ext\probds\murmur3.h,\src\_cffi_src\openssl\src\osrandom_engine.h,02ac5aff2e57a41f9dc94781ccd8d595,5faed825e57102494d64f41f67417150,-9176375350707038052,-9176392388590904164,7,N,46,80,10

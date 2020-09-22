@@ -1,0 +1,5 @@
+2475-fmt,618-jq
+chrono_duration.cpp,parser.c,\test\fuzzing\chrono_duration.cpp,\src\parser.c,72440fd90a0d01848031589bb2a841a9,a9e23cec6f740c2c216ed7e38fa76eaa,5729127447228102871,5729127442933135575,1,N,129,3339,59
+one_arg.cpp,parser.c,\test\fuzzing\one_arg.cpp,\src\parser.c,883cdbba8da3fa541c4927e1ea02ff22,a9e23cec6f740c2c216ed7e38fa76eaa,2270360721499404501,5729127442933135575,5,N,117,3339,48
+sprintf.cpp,parser.c,\test\fuzzing\sprintf.cpp,\src\parser.c,c2ddd179a4100129a6f72f09df658863,a9e23cec6f740c2c216ed7e38fa76eaa,1117439216892295391,5729127442933135575,6,N,101,3339,40
+two_args.cpp,parser.c,\test\fuzzing\two_args.cpp,\src\parser.c,c159700c6123fdba738f71e168dab048,a9e23cec6f740c2c216ed7e38fa76eaa,1117439216892295391,5729127442933135575,6,N,97,3339,38

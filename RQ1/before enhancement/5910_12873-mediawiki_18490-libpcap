@@ -1,0 +1,7 @@
+12873-mediawiki,18490-libpcap
+LogFormatter.php,bpf_image.c,\includes\logging\LogFormatter.php,\bpf_image.c,1a5b87b8ddd192cf448a8d7e785d9d75,99ceffd8ab29eb82c05e7820ae003afe,5729127442933127383,5450185741013137623,6,N,551,328,53
+FormatMetadata.php,bpf_image.c,\includes\media\FormatMetadata.php,\bpf_image.c,d4c424b998a37738addfaa8660b2d286,99ceffd8ab29eb82c05e7820ae003afe,5729109850747091159,5450185741013137623,6,N,1326,328,55
+IPTC.php,bpf_image.c,\includes\media\IPTC.php,\bpf_image.c,5acd3160fef09ca8547c657db582b971,99ceffd8ab29eb82c05e7820ae003afe,5729127442933135575,5450185741013137623,5,N,377,328,55
+ExtensionDependencyError.php,bpf_image.c,\includes\registration\ExtensionDependencyError.php,\bpf_image.c,f7bb90c1ca9716b4c4e940b5871755aa,99ceffd8ab29eb82c05e7820ae003afe,5729126334831573079,5450185741013137623,8,N,44,328,12
+LanguageOs.php,bpf_image.c,\languages\classes\LanguageOs.php,\bpf_image.c,1d4803307d9f6c2785f6821207e47529,99ceffd8ab29eb82c05e7820ae003afe,5729672800631306455,5450185741013137623,7,N,55,328,13
+bench_if_switch.php,bpf_image.c,\maintenance\benchmarks\bench_if_switch.php,\bpf_image.c,ebc9d6c5664eaffdc591b48a194dced3,99ceffd8ab29eb82c05e7820ae003afe,5729127442933135575,5450185741013137623,5,N,73,328,21

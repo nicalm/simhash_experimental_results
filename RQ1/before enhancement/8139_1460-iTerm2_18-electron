@@ -1,0 +1,10 @@
+1460-iTerm2,18-electron
+ini.h,atom_main_delegate.cc,\ThirdParty\inih\ini.h,\shell\app\atom_main_delegate.cc,3cf89cb2c107d2c3cb0a3bf2fcf603a1,6beb16be6a739f5598d443a18a5cbaa6,-8023445049755510564,-4997025687846725476,7,N,57,249,17
+ini.h,atom_browser_main_parts.cc,\ThirdParty\inih\ini.h,\shell\browser\atom_browser_main_parts.cc,3cf89cb2c107d2c3cb0a3bf2fcf603a1,4312360427f5f392ec4f692be2a7319a,-8023445049755510564,-8023445187194455912,4,N,57,375,17
+ini.h,atom_paths.h,\ThirdParty\inih\ini.h,\shell\browser\atom_paths.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,f62403bf230108c707f5e1273fdb321d,-8023445049755510564,-8023471436960835427,5,N,57,33,8
+ini.h,atom_constants.h,\ThirdParty\inih\ini.h,\shell\common\atom_constants.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,0413d754caa4e4d0755670d11164282c,-8023445049755510564,-9176368753659307892,8,N,57,31,5
+ini.h,renderer_client_base.cc,\ThirdParty\inih\ini.h,\shell\renderer\renderer_client_base.cc,3cf89cb2c107d2c3cb0a3bf2fcf603a1,d0d5771f27ecde6d75b1cf2555ca2003,-8023445049755510564,-8023449518660068932,8,N,57,308,17
+ini.h,linux_syscall_support.h,\ThirdParty\inih\ini.h,\vendor\third_party\lss\linux_syscall_support.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,d7c4a715ebced0be3633fcfd349a02ff,-8023445049755510564,-8023445049755510628,1,N,57,3833,19
+BetterFontPicker-Swift.h,atom_browser_main_parts.cc,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\shell\browser\atom_browser_main_parts.cc,9cdfc1f6cb7907e29a4e6b2cf0041946,4312360427f5f392ec4f692be2a7319a,-8023479959251789668,-8023445187194455912,6,N,335,375,33
+BetterFontPicker-Swift.h,atom_paths.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\shell\browser\atom_paths.h,9cdfc1f6cb7907e29a4e6b2cf0041946,f62403bf230108c707f5e1273fdb321d,-8023479959251789668,-8023471436960835427,7,N,335,33,8
+BetterFontPicker-Swift.h,linux_syscall_support.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\vendor\third_party\lss\linux_syscall_support.h,9cdfc1f6cb7907e29a4e6b2cf0041946,d7c4a715ebced0be3633fcfd349a02ff,-8023479959251789668,-8023445049755510628,3,N,335,3833,61

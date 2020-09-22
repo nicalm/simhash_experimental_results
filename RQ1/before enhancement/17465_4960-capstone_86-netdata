@@ -1,0 +1,6 @@
+4960-capstone,86-netdata
+cs.c,libnetdata.h,\cs.c,\libnetdata\libnetdata.h,28b740cedafbc72ff6d105bcf67b66ec,b36073eea8dc836d3f37e426aebdabda,-8024007991656916772,-8023445049755510628,5,N,1274,248,49
+test_basic.c,libnetdata.h,\tests\test_basic.c,\libnetdata\libnetdata.h,a31ca8d3bb8a75874920d317a6ad1579,b36073eea8dc836d3f37e426aebdabda,-8018942549639704420,-8023445049755510628,4,N,357,248,28
+test_detail.c,libnetdata.h,\tests\test_detail.c,\libnetdata\libnetdata.h,3d78601cdc003b4b4483b95018434b0a,b36073eea8dc836d3f37e426aebdabda,-7442486195382783844,-8023445049755510628,7,N,333,248,24
+test_iter.c,libnetdata.h,\tests\test_iter.c,\libnetdata\libnetdata.h,25690cf4ebb5bd2f561bd05964d131ee,b36073eea8dc836d3f37e426aebdabda,-8023446149267066732,-8023445049755510628,5,N,274,248,22
+platform.h,libnetdata.h,\include\capstone\platform.h,\libnetdata\libnetdata.h,87c94f9792ec4d53e7f2f9ad601a5e7b,b36073eea8dc836d3f37e426aebdabda,-5717320686361065444,-8023445049755510628,8,N,88,248,17

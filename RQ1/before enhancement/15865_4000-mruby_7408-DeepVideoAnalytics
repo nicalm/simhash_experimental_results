@@ -1,0 +1,12 @@
+4000-mruby,7408-DeepVideoAnalytics
+mrbconf.h,bbox.c,\include\mrbconf.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,0fa5612f8872c2c08d3897c6c4be5559,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,81,5912,28
+mrbconf.h,cython_nms.c,\include\mrbconf.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,0fa5612f8872c2c08d3897c6c4be5559,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,81,6623,28
+mrbconf.h,gpu_nms.c,\include\mrbconf.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,0fa5612f8872c2c08d3897c6c4be5559,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,81,5655,28
+mrbconf.h,gpu_nms.cpp,\include\mrbconf.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,0fa5612f8872c2c08d3897c6c4be5559,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,81,4948,27
+mruby.h,bbox.c,\include\mruby.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,4213b2c560539512862346f6eb8f4225,b42f28bb593ba51126ab3c36f2280e44,-9185390796047329124,-7735003018152322916,7,N,460,5912,63
+mruby.h,cython_nms.c,\include\mruby.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,4213b2c560539512862346f6eb8f4225,340c61e73ba74d7820ff458fae32d716,-9185390796047329124,-7735003018152322916,7,N,460,6623,63
+mruby.h,gpu_nms.c,\include\mruby.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,4213b2c560539512862346f6eb8f4225,c5f744cc55310f8443ffae08bc289c17,-9185390796047329124,-7735003018152322916,7,N,460,5655,63
+value.h,bbox.c,\include\mruby\value.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,f71a5a47635a7a4d552564f252a74db2,b42f28bb593ba51126ab3c36f2280e44,-7879329861679654756,-7735003018152322916,6,N,308,5912,75
+value.h,cython_nms.c,\include\mruby\value.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,f71a5a47635a7a4d552564f252a74db2,340c61e73ba74d7820ff458fae32d716,-7879329861679654756,-7735003018152322916,6,N,308,6623,75
+value.h,gpu_nms.c,\include\mruby\value.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,f71a5a47635a7a4d552564f252a74db2,c5f744cc55310f8443ffae08bc289c17,-7879329861679654756,-7735003018152322916,6,N,308,5655,75
+value.h,gpu_nms.cpp,\include\mruby\value.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,f71a5a47635a7a4d552564f252a74db2,2472408016d358310deb015143185fa8,-7879329861679654756,-7590887830068078436,6,N,308,4948,75

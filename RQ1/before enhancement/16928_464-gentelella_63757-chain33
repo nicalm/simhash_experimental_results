@@ -1,0 +1,4 @@
+464-gentelella,63757-chain33
+moment.js,mock_blockchain_test.go,\vendors\moment\moment.js,\client\mock_blockchain_test.go,f1cd5bdc747c20c6de4210e68b539782,4e4c701560aa28eb9a3010bdd07dabec,3455852176007088830,6916869039464235710,7,N,3064,210,66
+Chart.bundle.js,mock_blockchain_test.go,\vendors\Chart.js\dist\Chart.bundle.js,\client\mock_blockchain_test.go,cfc5e4a7c6088708fef9f9875b492230,4e4c701560aa28eb9a3010bdd07dabec,2302930534028395198,6916869039464235710,4,N,10705,210,68
+Chart.js,mock_blockchain_test.go,\vendors\Chart.js\dist\Chart.js,\client\mock_blockchain_test.go,44a5ce609087b5fb15d160b53432ab9b,4e4c701560aa28eb9a3010bdd07dabec,2296034913032028862,6916869039464235710,8,N,7641,210,68

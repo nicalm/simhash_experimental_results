@@ -1,0 +1,5 @@
+12688-ffi,981-numpy
+compat.h,npy_common.h,\ext\ffi_c\compat.h,\numpy\core\include\numpy\npy_common.h,89860486007fe9b6739772aa0b042837,a173a9479ba36f92005f6b19e1c98ca6,-8023447251463120740,-8023445066935379812,4,N,38,951,12
+DynamicLibrary.h,npy_common.h,\ext\ffi_c\DynamicLibrary.h,\numpy\core\include\numpy\npy_common.h,85bcc5d631466c02273f9899152b054b,a173a9479ba36f92005f6b19e1c98ca6,-5753630837560780644,-8023445066935379812,3,N,49,951,15
+rbffi_endian.h,npy_common.h,\ext\ffi_c\rbffi_endian.h,\numpy\core\include\numpy\npy_common.h,f869d8d0ddc657c2a3138058f91acb6c,a173a9479ba36f92005f6b19e1c98ca6,-8023445049822619428,-8023445066935379812,3,N,50,951,15
+Thread.h,halffloat.c,\ext\ffi_c\Thread.h,\numpy\core\src\npymath\halffloat.c,a24130d1ce1ae8c120ebdc7697ed91f8,ef51f96bed34da332dff14350df06f56,-6293860517199620072,-6293895143763945316,8,N,45,386,12

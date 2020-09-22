@@ -1,0 +1,2 @@
+11788-fbthrift,63613-KunstmaanBundlesCMS
+TProtocolUtil.java,StringFilterType.php,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,ca4aaa19ebede5914601c81d8f142ced,da41db0764b2bc6ea750e9ab6c21973a,5729127434368628951,5729413307097985239,8,N,125,54,17

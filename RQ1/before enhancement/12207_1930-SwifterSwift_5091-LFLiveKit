@@ -1,0 +1,4 @@
+1930-SwifterSwift,5091-LFLiveKit
+CGColorExtensions.swift,bytes.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\LFLiveKit\Vendor\pili-librtmp\bytes.h,13a384d167268ac57b0c34b9cb13ed0f,27e627df8a5d4ca5b8f515c9651ea6ad,1189793885789145236,-8023445049755527012,8,N,21,45,5
+NSAttributedStringExtensions.swift,bytes.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\LFLiveKit\Vendor\pili-librtmp\bytes.h,682db1376e5e9e45d24a9e1b1ad3e9f8,27e627df8a5d4ca5b8f515c9651ea6ad,-9174114755220842340,-8023445049755527012,7,N,87,45,11
+StringExtensions.swift,bytes.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\LFLiveKit\Vendor\pili-librtmp\bytes.h,d53332d341abeff92e3d2d2ce16a4d0a,27e627df8a5d4ca5b8f515c9651ea6ad,-3051550226512422756,-8023445049755527012,8,N,650,45,13

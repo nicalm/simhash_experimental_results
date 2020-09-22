@@ -1,0 +1,7 @@
+13470-tigervnc,91-bitcoin
+PixelFormat.java,policy.cpp,\java\com\tigervnc\rfb\PixelFormat.java,\src\policy\policy.cpp,dd900564b212909764b7b426a7a2714e,b881c016071c59e2e2c79de956074e58,1431083237210081710,1719313613361791918,3,N,528,158,66
+PixelFormat.java,crypter.cpp,\java\com\tigervnc\rfb\PixelFormat.java,\src\wallet\crypter.cpp,dd900564b212909764b7b426a7a2714e,477375626dc80d156be0000fb0078c6a,1431083237210081710,1431645620206985646,8,N,528,99,33
+xvnc.c,compat.h,\unix\xserver\hw\vnc\xvnc.c,\src\compat.h,64de174f413a46b56c689e3d2f0ca711,e406a80a1784994699c1b4a1bc6005d3,-7955908787655354212,-8023445187194464104,8,N,1442,87,26
+xvnc.c,randomenv.cpp,\unix\xserver\hw\vnc\xvnc.c,\src\randomenv.cpp,64de174f413a46b56c689e3d2f0ca711,8eefeb3e04f7f52be719a9efdd732606,-7955908787655354212,-8023445049755510628,8,N,1442,439,103
+xvnc.c,endian.h,\unix\xserver\hw\vnc\xvnc.c,\src\compat\endian.h,64de174f413a46b56c689e3d2f0ca711,5c16422e6448c8f31356121158773761,-7955908787655354212,-8023445049755510628,8,N,1442,198,90
+xvnc.c,thread_annotations.h,\unix\xserver\hw\vnc\xvnc.c,\src\leveldb\port\thread_annotations.h,64de174f413a46b56c689e3d2f0ca711,af9eee1ca47192126580ea56af3a4865,-7955908787655354212,-8023445049755510628,8,N,1442,39,13

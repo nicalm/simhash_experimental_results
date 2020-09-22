@@ -1,0 +1,3 @@
+13536-activemq,60276-esp-homekit-devices
+StubX509Certificate.java,ssl-dummy.c,\activemq-unit-tests\src\test\java\org\apache\activemq\transport\tcp\StubX509Certificate.java,\external_libs\wolfssl\wolfssl-3.13.0-stable\IDE\MDK5-ARM\Src\ssl-dummy.c,6125c697a55e7c5b9214c4dccd12749e,867546084f880f8060e194f656f4730f,-4294591263518695700,-4294591332238172436,1,N,89,25,5
+StubX509Certificate.java,ssl-dummy.c,\activemq-unit-tests\src\test\java\org\apache\activemq\transport\tcp\StubX509Certificate.java,\devices\HAA_LCM\esp-wolfssl\wolfssl-3.13.0-stable\IDE\MDK5-ARM\Src\ssl-dummy.c,6125c697a55e7c5b9214c4dccd12749e,867546084f880f8060e194f656f4730f,-4294591263518695700,-4294591332238172436,1,N,89,25,5

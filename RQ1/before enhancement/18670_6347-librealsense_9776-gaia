@@ -1,0 +1,3 @@
+6347-librealsense,9776-gaia
+uvc-parser.cpp,orientation.js,\src\uvc\uvc-parser.cpp,\dev_apps\uitest\js\API\orientation.js,ec225d2799af25e9be4a1b255aa81ded,7f674abe2d64a83f3c5f7fc6b2372c43,1011606833287673943,5729127442933135575,8,N,310,55,18
+iconify.c,orientation.js,\third-party\glfw\tests\iconify.c,\dev_apps\uitest\js\API\orientation.js,4383e5e5067c1f0471c630b863bae2d6,7f674abe2d64a83f3c5f7fc6b2372c43,5755937900105083095,5729127442933135575,6,N,219,55,17

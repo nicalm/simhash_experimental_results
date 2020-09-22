@@ -1,0 +1,10 @@
+551-FFmpeg,62850-ADOdb
+ansi.c,adodb-pdo_firebird.inc.php,\libavcodec\ansi.c,\drivers\adodb-pdo_firebird.inc.php,fe7e6c6bb03826e2b0bc818c18bbefd2,9495b386496271e4936472af040fd5ea,5729690394954610903,5738134642182631639,8,N,418,333,71
+dds.c,adodb-pdo_firebird.inc.php,\libavcodec\dds.c,\drivers\adodb-pdo_firebird.inc.php,44ed87717f6320243295b32b6ad74a67,9495b386496271e4936472af040fd5ea,8052984850656305399,5738134642182631639,7,N,614,333,68
+microdvddec.c,adodb-pdo_firebird.inc.php,\libavcodec\microdvddec.c,\drivers\adodb-pdo_firebird.inc.php,6b8538c47d69e8430f45a7f00d38ff01,9495b386496271e4936472af040fd5ea,5729092258292611287,5738134642182631639,6,N,285,333,61
+pcm.c,adodb-pdo_firebird.inc.php,\libavcodec\pcm.c,\drivers\adodb-pdo_firebird.inc.php,37664aa1805e5b8a6fd6444e25ca5398,9495b386496271e4936472af040fd5ea,5728845967956424919,5738134642182631639,5,N,537,333,67
+electronicarts.c,adodb-pdo_firebird.inc.php,\libavformat\electronicarts.c,\drivers\adodb-pdo_firebird.inc.php,ff9f06888cfea7376ae205c5fe364062,9495b386496271e4936472af040fd5ea,6882048947539982559,5738134642182631639,6,N,637,333,92
+ipmovie.c,adodb-pdo_firebird.inc.php,\libavformat\ipmovie.c,\drivers\adodb-pdo_firebird.inc.php,8ce1110719f18ab4ea6326f6d2ec3971,9495b386496271e4936472af040fd5ea,5657069840338827415,5738134642182631639,8,N,555,333,71
+rtpenc.c,adodb-pdo_firebird.inc.php,\libavformat\rtpenc.c,\drivers\adodb-pdo_firebird.inc.php,46ab7d3c6ded0b6e5da648ac88218979,9495b386496271e4936472af040fd5ea,5742321582465790675,5738134642182631639,8,N,546,333,88
+yuv4mpegenc.c,adodb-pdo_firebird.inc.php,\libavformat\yuv4mpegenc.c,\drivers\adodb-pdo_firebird.inc.php,c4140fda683fb3c45997517c0394f389,9495b386496271e4936472af040fd5ea,5729125243909880051,5738134642182631639,7,N,303,333,47
+input.c,adodb-pdo_firebird.inc.php,\libswscale\input.c,\drivers\adodb-pdo_firebird.inc.php,f5fd4c22afbeba816cbd53aa0171507b,9495b386496271e4936472af040fd5ea,5729127442928941270,5738134642182631639,4,N,1488,333,94

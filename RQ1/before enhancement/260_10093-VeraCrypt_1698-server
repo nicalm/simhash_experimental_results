@@ -1,0 +1,5 @@
+10093-VeraCrypt,1698-server
+zip_open.c,LDAPGroupPluginDummy.php,\src\Common\libzip\zip_open.c,\apps\user_ldap\tests\LDAPGroupPluginDummy.php,43a29ee9d8dbaa1d106ae225be596f01,26a5afd9c3536463fb319ba9abfaff9b,-4294520895311388948,-4295717163425538324,3,N,631,26,8
+zip_open.c,LDAPUserPluginDummy.php,\src\Common\libzip\zip_open.c,\apps\user_ldap\tests\LDAPUserPluginDummy.php,43a29ee9d8dbaa1d106ae225be596f01,8b6e431f683efb521c30bcd6c476cd18,-4294520895311388948,-4294591813274509588,3,N,631,29,9
+zip_source_zip_new.c,LDAPGroupPluginDummy.php,\src\Common\libzip\zip_source_zip_new.c,\apps\user_ldap\tests\LDAPGroupPluginDummy.php,9b20c3ae981b66152bf4998311eece72,26a5afd9c3536463fb319ba9abfaff9b,-8904168425086460692,-4295717163425538324,8,N,113,26,8
+zip_source_zip_new.c,LDAPUserPluginDummy.php,\src\Common\libzip\zip_source_zip_new.c,\apps\user_ldap\tests\LDAPUserPluginDummy.php,9b20c3ae981b66152bf4998311eece72,8b6e431f683efb521c30bcd6c476cd18,-8904168425086460692,-4294591813274509588,8,N,113,29,9

@@ -1,0 +1,4 @@
+1366-gradle,2475-fmt
+gtest-spi.h,gtest-spi.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,c1b2df0336821610c380ccaf057a8867,c1b2df0336821610c380ccaf057a8867,2316074171267063501,2316074171267063501,0,Y,97,97,97
+gtest-spi.h,gtest-spi.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\gtest-spi.h,\test\gtest\gtest-spi.h,c1b2df0336821610c380ccaf057a8867,c1b2df0336821610c380ccaf057a8867,2316074171267063501,2316074171267063501,0,Y,97,97,97
+GradleModuleMetadataParser.java,chrono_duration.cpp,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,\test\fuzzing\chrono_duration.cpp,73716c770f089fa732a0b2ac81bfe437,72440fd90a0d01848031589bb2a841a9,-3476265378978940713,5729127447228102871,6,N,607,129,38

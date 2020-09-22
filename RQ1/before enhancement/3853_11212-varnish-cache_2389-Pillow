@@ -1,0 +1,7 @@
+11212-varnish-cache,2389-Pillow
+h2_frames.h,outline.c,\include\tbl\h2_frames.h,\src\outline.c,c66c1d606ac2823d1177e0b229c99e56,3a28dd793909ad17fd4fe793c2c98f21,6293727511001139579,6149330847881464185,4,N,108,129,24
+h2_frames.h,_webp.c,\include\tbl\h2_frames.h,\src\_webp.c,c66c1d606ac2823d1177e0b229c99e56,a6a0ea6d234787d4b7b44eb1d91e9dd7,6293727511001139579,5140806040756132220,7,N,108,677,36
+gzguts.h,ImPlatform.h,\lib\libvgz\gzguts.h,\src\libImaging\ImPlatform.h,7127325d12a1c60eed486f9681b3a149,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,157,58,16
+zconf.h,ImPlatform.h,\lib\libvgz\zconf.h,\src\libImaging\ImPlatform.h,ca00915f6353095e76b1240157dc32b6,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,431,58,17
+zutil.c,ImPlatform.h,\lib\libvgz\zutil.c,\src\libImaging\ImPlatform.h,80cacf0c2fdd6f41f0562b27c2041b64,6670b4584189b95bdcaaa198dabbf5c8,-8023445049754986340,-8024570949662353252,2,N,247,58,14
+zutil.h,ImPlatform.h,\lib\libvgz\zutil.h,\src\libImaging\ImPlatform.h,af5aab860ef07102ffcf6fab7fd2e544,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,196,58,15

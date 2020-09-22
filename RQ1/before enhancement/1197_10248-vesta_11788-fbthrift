@@ -1,0 +1,5 @@
+10248-vesta,11788-fbthrift
+index.php,utils.cpp,\web\bulk\user\index.php,\thrift\compiler\mustache\utils.cpp,e63f54fde5aa69c0078f57a124201499,f81369ebbd5b5b4e75b8cfa4a6ac85b3,5729127442931036375,5729127445028712533,8,N,53,63,13
+index.php,AsyncClientWorker2.cpp,\web\bulk\user\index.php,\thrift\perf\cpp\AsyncClientWorker2.cpp,e63f54fde5aa69c0078f57a124201499,3ebd76a0981e9c53ea752af30db30be5,5729127442931036375,5738134641844205783,7,N,53,387,18
+index.php,Operation.h,\web\bulk\user\index.php,\thrift\perf\cpp2\util\Operation.h,e63f54fde5aa69c0078f57a124201499,1cf81f674cd6bb613346f9badee172d4,5729127442931036375,-3493118691867313953,6,N,53,152,17
+index.php,TProtocolUtil.java,\web\bulk\user\index.php,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,e63f54fde5aa69c0078f57a124201499,ca4aaa19ebede5914601c81d8f142ced,5729127442931036375,5729127434368628951,6,N,53,125,17

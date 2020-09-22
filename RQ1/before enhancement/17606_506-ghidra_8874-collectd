@@ -1,0 +1,7 @@
+506-ghidra,8874-collectd
+types.h,collectd.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\src\daemon\collectd.h,cc1a30d590b235c7ea93b0e1d1549a93,2b583af2ee5d68797b260dc2234a9a80,-8023445206521817060,-8023445049755510628,4,N,280,198,46
+types.h,stdendian.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\src\libcollectdclient\collectd\stdendian.h,cc1a30d590b235c7ea93b0e1d1549a93,098cf6af06fc9530aaf9936b14d4d802,-8023445206521817060,-8032521930559661924,7,N,280,165,31
+types.h,mount.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\src\utils\mount\mount.h,cc1a30d590b235c7ea93b0e1d1549a93,8535c5ea598e2c2e046efd01984ce929,-8023445206521817060,-8023445049755510628,4,N,280,64,15
+ansidecl.h,collectd.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\src\daemon\collectd.h,4e4a2dda74fbf81b9297e96b5756c8ac,2b583af2ee5d68797b260dc2234a9a80,-8023444774877602148,-8023445049755510628,3,N,213,198,46
+ansidecl.h,stdendian.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\src\libcollectdclient\collectd\stdendian.h,4e4a2dda74fbf81b9297e96b5756c8ac,098cf6af06fc9530aaf9936b14d4d802,-8023444774877602148,-8032521930559661924,6,N,213,165,31
+ansidecl.h,mount.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\src\utils\mount\mount.h,4e4a2dda74fbf81b9297e96b5756c8ac,8535c5ea598e2c2e046efd01984ce929,-8023444774877602148,-8023445049755510628,3,N,213,64,14

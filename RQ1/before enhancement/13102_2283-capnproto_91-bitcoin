@@ -1,0 +1,7 @@
+2283-capnproto,91-bitcoin
+miniposix.h,attributes.h,\c++\src\kj\miniposix.h,\src\attributes.h,43597d9a9103c02dbbe46d2c58ecc748,1d61566702a36bfdc0abbfcd3b918b11,-7455991496707810916,-8023445049755378532,7,N,84,15,6
+miniposix.h,compat.h,\c++\src\kj\miniposix.h,\src\compat.h,43597d9a9103c02dbbe46d2c58ecc748,e406a80a1784994699c1b4a1bc6005d3,-7455991496707810916,-8023445187194464104,7,N,84,87,22
+miniposix.h,randomenv.cpp,\c++\src\kj\miniposix.h,\src\randomenv.cpp,43597d9a9103c02dbbe46d2c58ecc748,8eefeb3e04f7f52be719a9efdd732606,-7455991496707810916,-8023445049755510628,5,N,84,439,29
+miniposix.h,byteswap.h,\c++\src\kj\miniposix.h,\src\compat\byteswap.h,43597d9a9103c02dbbe46d2c58ecc748,88acd785d1d6b57506d4fdd472a4a790,-7455991496707810916,-7744221872858473316,5,N,84,43,11
+miniposix.h,endian.h,\c++\src\kj\miniposix.h,\src\compat\endian.h,43597d9a9103c02dbbe46d2c58ecc748,5c16422e6448c8f31356121158773761,-7455991496707810916,-8023445049755510628,5,N,84,198,22
+miniposix.h,thread_annotations.h,\c++\src\kj\miniposix.h,\src\leveldb\port\thread_annotations.h,43597d9a9103c02dbbe46d2c58ecc748,af9eee1ca47192126580ea56af3a4865,-7455991496707810916,-8023445049755510628,5,N,84,39,12

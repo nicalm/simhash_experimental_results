@@ -1,0 +1,4 @@
+6664-ModSecurity,67679-k8s-multicluster-ingress
+seclang-parser.cc,handlebars-1.0.0.js,\src\parser\seclang-parser.cc,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,c95834041ac82565ed4d4a4bccd1b864,74916c394efe99b4c752280dde5428fa,5729127442933135575,5729131840979646718,4,N,6079,1719,273
+phase.h,handlebars-1.0.0.js,\src\utils\phase.h,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,a09f3ae3e8191f752c4eb96a4ac598b6,74916c394efe99b4c752280dde5428fa,-1170387186198464297,5729131840979646718,7,N,38,1719,11
+escape_seq_decode.cc,handlebars-1.0.0.js,\src\actions\transformations\escape_seq_decode.cc,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,b8692d2d5e6a4258b9b1b9bda49e6fca,74916c394efe99b4c752280dde5428fa,5458916000809007318,5729131840979646718,8,N,118,1719,32

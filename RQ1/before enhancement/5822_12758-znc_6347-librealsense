@@ -1,0 +1,9 @@
+12758-znc,6347-librealsense
+znc.cpp,win-helpers.cpp,\src\znc.cpp,\src\win\win-helpers.cpp,d5cdf0084974a39502b7410578dff912,8c8bc33100d821f444c03e660052ed39,1395476652689473967,1395177581198528942,8,N,1700,799,197
+znc.cpp,validate_face.h,\src\znc.cpp,\wrappers\dlib\face\validate_face.h,d5cdf0084974a39502b7410578dff912,b5d0b4d6660310a322b59b410744d0ed,1395476652689473967,-7792288799644695634,8,N,1700,75,20
+version.h,glext.h,\include\znc\version.h,\third-party\glad\glext.h,d05809c29f032c998a444139c4f0d9ce,b47c3053eb61af62c08dd7e6f45631ce,-8023445187195380516,-8023445049755510628,5,N,43,12110,11
+version.h,easylogging++.h,\include\znc\version.h,\third-party\easyloggingpp\src\easylogging++.h,d05809c29f032c998a444139c4f0d9ce,a5e6b54e91368f83f029eaf8a7a4ca68,-8023445187195380516,-8023445049756558632,5,N,43,3696,13
+version.h,tinycthread.h,\include\znc\version.h,\third-party\glfw\deps\tinycthread.h,d05809c29f032c998a444139c4f0d9ce,d64af4e68966d2e35effa48ebd7b3c79,-8023445187195380516,-8023444774877636452,7,N,43,138,13
+version.h,win32_platform.h,\include\znc\version.h,\third-party\glfw\src\win32_platform.h,d05809c29f032c998a444139c4f0d9ce,2445649aade285164b3f3df9cb6b0b9c,-8023445187195380516,-8023445049755510628,5,N,43,324,9
+version.h,vulkan.h,\include\znc\version.h,\third-party\glfw\deps\vulkan\vulkan.h,d05809c29f032c998a444139c4f0d9ce,368be8e566768753806bdc8cc0052fc3,-8023445187195380516,1163898190080301212,7,N,43,38,8
+version.h,glfw3native.h,\include\znc\version.h,\third-party\glfw\include\GLFW\glfw3native.h,d05809c29f032c998a444139c4f0d9ce,c5d9fae34608972236a415167b8ed590,-8023445187195380516,-8023445051902996324,7,N,43,83,9

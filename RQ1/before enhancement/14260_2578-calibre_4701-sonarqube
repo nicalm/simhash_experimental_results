@@ -1,0 +1,2 @@
+2578-calibre,4701-sonarqube
+imghdr.py,ActiveRuleDaoTest.java,\src\calibre\utils\imghdr.py,\server\sonar-db-dao\src\test\java\org\sonar\db\qualityprofile\ActiveRuleDaoTest.java,125fa67c6579a4aa5c8fcc38a616b254,dd5eba90c438f584080c0de1d246de86,2146666960530043887,-7148340182751251505,7,N,174,580,0

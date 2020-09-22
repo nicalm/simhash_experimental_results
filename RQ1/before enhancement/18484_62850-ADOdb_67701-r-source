@@ -1,0 +1,3 @@
+62850-ADOdb,67701-r-source
+adodb-pdo_firebird.inc.php,Rstrptime.h,\drivers\adodb-pdo_firebird.inc.php,\src\main\Rstrptime.h,9495b386496271e4936472af040fd5ea,407931813825b80d1daf2fc23d1841da,5738134642182631639,5585012323576749271,8,N,333,1001,94
+adodb-pdo_firebird.inc.php,printf-args.c,\drivers\adodb-pdo_firebird.inc.php,\src\extra\intl\printf-args.c,9495b386496271e4936472af040fd5ea,32e9cc807cac7369c6c119a76b828fae,5738134642182631639,6882048947539982551,5,N,333,141,38

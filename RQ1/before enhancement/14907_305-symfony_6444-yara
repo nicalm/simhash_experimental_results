@@ -1,0 +1,3 @@
+305-symfony,6444-yara
+IpValidator.php,grammar.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libyara\grammar.c,7ca48c5d09328c72e03da3c6a432f9bf,306ae4ed5d0a265782bc5a130c6f342f,5746860357875939543,5730252312047818967,8,N,69,3301,24
+IpValidator.php,pe_utils.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\libyara\modules\pe\pe_utils.c,7ca48c5d09328c72e03da3c6a432f9bf,85b3b0e9639ebe8f194fd360aa44aa10,5746860357875939543,5729127442933135575,4,N,69,1795,23

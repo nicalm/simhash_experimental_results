@@ -1,0 +1,4 @@
+12688-ffi,4477-libsass
+compat.h,base.h,\ext\ffi_c\compat.h,\include\sass\base.h,89860486007fe9b6739772aa0b042837,26dfd0d8cb029fd73ca71c0971ecc070,-8023447251463120740,-8023163575290504548,6,N,38,63,13
+DynamicLibrary.h,base.h,\ext\ffi_c\DynamicLibrary.h,\include\sass\base.h,85bcc5d631466c02273f9899152b054b,26dfd0d8cb029fd73ca71c0971ecc070,-5753630837560780644,-8023163575290504548,7,N,49,63,15
+rbffi_endian.h,base.h,\ext\ffi_c\rbffi_endian.h,\include\sass\base.h,f869d8d0ddc657c2a3138058f91acb6c,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049822619428,-8023163575290504548,7,N,50,63,13

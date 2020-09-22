@@ -1,0 +1,4 @@
+4477-libsass,8678-GitHawk
+base.h,SDWebImageCompat.h,\include\sass\base.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,26dfd0d8cb029fd73ca71c0971ecc070,b0a5f204f5c6671d77ea59f8ffd5921c,-8023163575290504548,-7735249858110105444,8,N,63,80,15
+base.h,cmarkextensions_export.h,\include\sass\base.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,26dfd0d8cb029fd73ca71c0971ecc070,252c50482fb9cc0b421251bbc1a8e0e6,-8023163575290504548,-8023480234127599460,6,N,63,32,12
+base.h,cmark_export.h,\include\sass\base.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,26dfd0d8cb029fd73ca71c0971ecc070,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023163575290504548,-8023445049755510632,6,N,63,32,12

@@ -1,0 +1,5 @@
+5271-CouchPotatoServer,682-curl
+tree_index.py,smbserver.py,\libs\CodernityDB\tree_index.py,\tests\python_dependencies\impacket\smbserver.py,207fc273dc154a42d1db2621246175c5,ea8b2264e17253e341c97c08dc4be37f,7717521010291572847,6294383528042692975,8,N,1778,3044,140
+tz.py,smbserver.py,\libs\dateutil\tz.py,\tests\python_dependencies\impacket\smbserver.py,a3540cbe9043d33c8e0b07d5002ac368,ea8b2264e17253e341c97c08dc4be37f,8582212140625953150,6294383528042692975,6,N,684,3044,72
+etree.py,smbserver.py,\libs\html5lib\treewalkers\etree.py,\tests\python_dependencies\impacket\smbserver.py,a780515f48bd56e4fa0fffac53531dec,ea8b2264e17253e341c97c08dc4be37f,7428745276238463335,6294383528042692975,7,N,103,3044,18
+univ.py,smbserver.py,\libs\pyasn1\type\univ.py,\tests\python_dependencies\impacket\smbserver.py,c0ff0d53ef023b2668a5c1df868c3954,ea8b2264e17253e341c97c08dc4be37f,-641159893812903554,6294383528042692975,6,N,1031,3044,85

@@ -1,0 +1,4 @@
+305-symfony,702-swoole-src
+IpValidator.php,swoole_http_parser.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\thirdparty\swoole_http_parser.c,7ca48c5d09328c72e03da3c6a432f9bf,d155f3ba8a7cdb53f79f34af305581eb,5746860357875939543,5729127442933135575,4,N,69,1234,23
+IpValidator.php,log.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\core\log.c,7ca48c5d09328c72e03da3c6a432f9bf,fcd6d98ec4555c3e125d89e154fba5fa,5746860357875939543,5693098645905783253,8,N,69,114,23
+IpValidator.php,get.php,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\tests\include\lib\src\responder\get.php,7ca48c5d09328c72e03da3c6a432f9bf,0e93a44800862fa891e9d4a8bd016ee0,5746860357875939543,8034970456441796823,6,N,69,71,16

@@ -1,0 +1,7 @@
+10365-flatpak,11788-fbthrift
+flatpak-builtins-build-bundle.c,t_type.h,\app\flatpak-builtins-build-bundle.c,\thrift\compiler\ast\t_type.h,d95e4e4e863eac020ecab93a61c5685a,b053db260acb5031648818344c9828ac,1395036985477628846,1431083237210080174,6,N,540,149,34
+flatpak-builtins-build-bundle.c,module_types.cpp,\app\flatpak-builtins-build-bundle.c,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,d95e4e4e863eac020ecab93a61c5685a,2db322d1052463c02d7e0a6bf32428e5,1395036985477628846,1395054440124007342,6,N,540,3515,70
+flatpak-builtins-build-bundle.c,module_types.cpp,\app\flatpak-builtins-build-bundle.c,\thrift\compiler\test\fixtures\templated-deserialize\gen-cpp2\module_types.cpp,d95e4e4e863eac020ecab93a61c5685a,8271a999c012ffe48f4162929d03afce,1395036985477628846,1431083237243705130,8,N,540,629,34
+flatpak-builtins-build-init.c,t_type.h,\app\flatpak-builtins-build-init.c,\thrift\compiler\ast\t_type.h,e403fd252ea1b2c23f8407626f390409,b053db260acb5031648818344c9828ac,4313386448417723310,1431083237210080174,7,N,454,149,34
+flatpak-builtins-create-usb.c,t_type.h,\app\flatpak-builtins-create-usb.c,\thrift\compiler\ast\t_type.h,80417f1a7bf4fc73ef8c0c77b4dfde80,b053db260acb5031648818344c9828ac,1440090432169608108,1431083237210080174,6,N,594,149,34
+flatpak-builtins-create-usb.c,module_types.cpp,\app\flatpak-builtins-create-usb.c,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,80417f1a7bf4fc73ef8c0c77b4dfde80,2db322d1052463c02d7e0a6bf32428e5,1440090432169608108,1395054440124007342,8,N,594,3515,99

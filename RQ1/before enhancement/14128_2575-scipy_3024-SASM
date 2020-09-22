@@ -1,0 +1,4 @@
+2575-scipy,3024-SASM
+quadpack.py,ntpath.py,\scipy\integrate\quadpack.py,\Windows\MinGW64\opt\lib\python2.7\ntpath.py,42c24145da738e9f617fcfe8f3fddf31,5b771f83e0334ea1481debfcd587bdb2,8582214337770160622,7429290496734710126,8,N,255,303,24
+interpolative.py,ntpath.py,\scipy\linalg\interpolative.py,\Windows\MinGW64\opt\lib\python2.7\ntpath.py,6eac74d20ca75836c33bda28db75906a,5b771f83e0334ea1481debfcd587bdb2,8582212689576460654,7429290496734710126,8,N,197,303,21
+optimize.py,ntpath.py,\scipy\optimize\optimize.py,\Windows\MinGW64\opt\lib\python2.7\ntpath.py,9b8746048992d02fcb003d33dfc878ec,5b771f83e0334ea1481debfcd587bdb2,8439222850577893740,7429290496734710126,8,N,1509,303,34

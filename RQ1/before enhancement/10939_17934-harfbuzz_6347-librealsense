@@ -1,0 +1,15 @@
+17934-harfbuzz,6347-librealsense
+hb-subset.cc,iconify.c,\src\hb-subset.cc,\third-party\glfw\tests\iconify.c,8cd5ec526a4232f06c744be9b77a51bc,4383e5e5067c1f0471c630b863bae2d6,5170681089138145431,5755937900105083095,8,N,256,219,50
+hb-fc-list.c,glext.h,\util\hb-fc-list.c,\third-party\glad\glext.h,c27d8fd53993dc1d7a624ea1ec1d10a6,b47c3053eb61af62c08dd7e6f45631ce,1199786163039426780,-8023445049755510628,8,N,178,12110,14
+hb-fc-list.c,easylogging++.h,\util\hb-fc-list.c,\third-party\easyloggingpp\src\easylogging++.h,c27d8fd53993dc1d7a624ea1ec1d10a6,a5e6b54e91368f83f029eaf8a7a4ca68,1199786163039426780,-8023445049756558632,8,N,178,3696,37
+hb-fc-list.c,win32_platform.h,\util\hb-fc-list.c,\third-party\glfw\src\win32_platform.h,c27d8fd53993dc1d7a624ea1ec1d10a6,2445649aade285164b3f3df9cb6b0b9c,1199786163039426780,-8023445049755510628,8,N,178,324,22
+hb-fc-list.c,stdint.h,\util\hb-fc-list.c,\third-party\glfw\deps\vs2008\stdint.h,c27d8fd53993dc1d7a624ea1ec1d10a6,0a9faad66f590c9572581753d453013e,1199786163039426780,-8018800163019237220,8,N,178,152,17
+hb-fc-list.c,vulkan.h,\util\hb-fc-list.c,\third-party\glfw\deps\vulkan\vulkan.h,c27d8fd53993dc1d7a624ea1ec1d10a6,368be8e566768753806bdc8cc0052fc3,1199786163039426780,1163898190080301212,8,N,178,38,10
+test-c.c,glext.h,\test\api\test-c.c,\third-party\glad\glext.h,40a532b71e6242f205df120cc480a67e,b47c3053eb61af62c08dd7e6f45631ce,-8023445049757468516,-8023445049755510628,3,N,26,12110,7
+test-c.c,easylogging++.h,\test\api\test-c.c,\third-party\easyloggingpp\src\easylogging++.h,40a532b71e6242f205df120cc480a67e,a5e6b54e91368f83f029eaf8a7a4ca68,-8023445049757468516,-8023445049756558632,7,N,26,3696,8
+test-c.c,tinycthread.h,\test\api\test-c.c,\third-party\glfw\deps\tinycthread.h,40a532b71e6242f205df120cc480a67e,d64af4e68966d2e35effa48ebd7b3c79,-8023445049757468516,-8023444774877636452,5,N,26,138,6
+test-c.c,win32_platform.h,\test\api\test-c.c,\third-party\glfw\src\win32_platform.h,40a532b71e6242f205df120cc480a67e,2445649aade285164b3f3df9cb6b0b9c,-8023445049757468516,-8023445049755510628,3,N,26,324,7
+test-c.c,_mingw_dxhelper.h,\test\api\test-c.c,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,40a532b71e6242f205df120cc480a67e,5423da3108dd32be383352d8d6c55edb,-8023445049757468516,-9185092003762480996,7,N,26,102,6
+test-c.c,vulkan.h,\test\api\test-c.c,\third-party\glfw\deps\vulkan\vulkan.h,40a532b71e6242f205df120cc480a67e,368be8e566768753806bdc8cc0052fc3,-8023445049757468516,1163898190080301212,5,N,26,38,6
+test-c.c,glfw3native.h,\test\api\test-c.c,\third-party\glfw\include\GLFW\glfw3native.h,40a532b71e6242f205df120cc480a67e,c5d9fae34608972236a415167b8ed590,-8023445049757468516,-8023445051902996324,5,N,26,83,7
+test-c.c,platform.h,\test\api\test-c.c,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,40a532b71e6242f205df120cc480a67e,4f1f8bbdad0dc57a2bc7530ddc22297a,-8023445049757468516,-7879409026516887396,7,N,26,37,7

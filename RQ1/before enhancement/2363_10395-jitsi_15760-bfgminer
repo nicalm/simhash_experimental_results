@@ -1,0 +1,10 @@
+10395-jitsi,15760-bfgminer
+lzma.h,compat.h,\src\native\windows\setup\include\lzma.h,\compat.h,4ce48c8f939c04739c2c0b8409ca662f,6f280ac9c52face753ea81ae98cfe95d,-8023445049755510628,-8014437852681811908,7,N,121,164,18
+lzma.h,driver-cpu.c,\src\native\windows\setup\include\lzma.h,\driver-cpu.c,4ce48c8f939c04739c2c0b8409ca662f,be0f700b73a52208dd53210582876f9e,-8023445049755510628,-7807272267641726562,4,N,121,682,35
+lzma.h,driver-cpu.h,\src\native\windows\setup\include\lzma.h,\driver-cpu.h,4ce48c8f939c04739c2c0b8409ca662f,092bcdcc676bceef9c2bba9e9b4bfe90,-8023445049755510628,-7446984297678579684,6,N,121,62,13
+lzma.h,miner.h,\src\native\windows\setup\include\lzma.h,\miner.h,4ce48c8f939c04739c2c0b8409ca662f,2a2a55093078b0e951ca70e852eb3abc,-8023445049755510628,-8021228434313848776,6,N,121,1425,40
+lzma.h,cl_platform.h,\src\native\windows\setup\include\lzma.h,\CL\cl_platform.h,4ce48c8f939c04739c2c0b8409ca662f,fc86a2210e718fbcf95aabcf0efa129a,-8023445049755510628,-8023445049755510564,1,N,121,935,44
+lzma.h,signal.in.h,\src\native\windows\setup\include\lzma.h,\lib\signal.in.h,4ce48c8f939c04739c2c0b8409ca662f,ab5029c765029582a72eaf9ee25fe736,-8023445049755510628,-8023445049755510628,0,N,121,258,45
+lzma.h,stddef.in.h,\src\native\windows\setup\include\lzma.h,\lib\stddef.in.h,4ce48c8f939c04739c2c0b8409ca662f,51fb0aab8a1f88b1353623a5d3ebf080,-8023445049755510628,-7446702960451199844,5,N,121,37,15
+lzma.h,stdint.in.h,\src\native\windows\setup\include\lzma.h,\lib\stdint.in.h,4ce48c8f939c04739c2c0b8409ca662f,cae8be4f2dc822552d990c5e166b9add,-8023445049755510628,-8023455787174799140,6,N,121,383,43
+lzma.h,string.in.h,\src\native\windows\setup\include\lzma.h,\lib\string.in.h,4ce48c8f939c04739c2c0b8409ca662f,79edfbf7ab10d649596b9a9e586671ee,-8023445049755510628,-8023445049755510628,0,N,121,697,41

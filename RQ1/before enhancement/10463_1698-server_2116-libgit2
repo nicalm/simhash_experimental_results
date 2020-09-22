@@ -1,0 +1,4 @@
+1698-server,2116-libgit2
+MDB2SchemaReader.php,settings.c,\lib\private\DB\MDB2SchemaReader.php,\src\settings.c,d647cd0d11a5a459553ceaf5b5657b44,718930b70d05c094a268632a2f1ec06a,5731379242742884567,6882048947539982549,6,N,240,238,47
+MDB2SchemaReader.php,http_parser.c,\lib\private\DB\MDB2SchemaReader.php,\deps\http-parser\http_parser.c,d647cd0d11a5a459553ceaf5b5657b44,624ed39402aecf1d658c88ffcffaee6d,5731379242742884567,5728845967956424919,5,N,240,1620,76
+MDB2SchemaReader.php,pcre_fullinfo.c,\lib\private\DB\MDB2SchemaReader.php,\deps\pcre\pcre_fullinfo.c,d647cd0d11a5a459553ceaf5b5657b44,8923cc431580197b3e121f54e41dba57,5731379242742884567,5729127442933135575,4,N,240,135,28

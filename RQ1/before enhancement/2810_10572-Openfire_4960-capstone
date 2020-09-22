@@ -1,0 +1,6 @@
+10572-Openfire,4960-capstone
+ProfiledConnection.java,cstool_arm64.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\cstool\cstool_arm64.c,82b3cca56b0b2195d9beda1ef5898c9c,846ffa7b48a0f0b4b91af38d55f637ad,5747704796764879063,5729127445080684759,7,N,828,117,29
+ProfiledConnection.java,ocaml.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\bindings\ocaml\ocaml.c,82b3cca56b0b2195d9beda1ef5898c9c,4ff3aa66dfcf3a89c8d9c731dacee422,5747704796764879063,5729127442933135575,5,N,828,960,130
+ProfiledConnection.java,arm64_detail.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\suite\cstest\src\arm64_detail.c,82b3cca56b0b2195d9beda1ef5898c9c,273ab6bb0b91884b4d970b6b567bf652,5747704796764879063,5729109850747353287,8,N,828,112,30
+GroupEventDispatcher.java,cstool_arm64.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\cstool\cstool_arm64.c,68bd878d44b313df2afdd340fe0c0022,846ffa7b48a0f0b4b91af38d55f637ad,8016956053561850069,5729127445080684759,8,N,73,117,18
+GroupEventDispatcher.java,ocaml.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\bindings\ocaml\ocaml.c,68bd878d44b313df2afdd340fe0c0022,4ff3aa66dfcf3a89c8d9c731dacee422,8016956053561850069,5729127442933135575,6,N,73,960,27

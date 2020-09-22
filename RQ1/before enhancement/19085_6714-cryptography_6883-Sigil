@@ -1,0 +1,9 @@
+6714-cryptography,6883-Sigil
+osrandom_engine.h,gzguts.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\zlib\gzguts.h,5faed825e57102494d64f41f67417150,0c76633a99d58c8a7920b78989126acd,-9176392388590904164,-8023445049755510628,7,N,80,154,16
+osrandom_engine.h,zconf.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\zlib\zconf.h,5faed825e57102494d64f41f67417150,c89ff94ee23d020c7c9976f48a098fa0,-9176392388590904164,-8023445049755510628,7,N,80,403,15
+osrandom_engine.h,zutil.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\zlib\zutil.c,5faed825e57102494d64f41f67417150,d62c1317e7969756f542daacf0d4ba54,-9176392388590904164,-8023445084115248996,8,N,80,245,13
+osrandom_engine.h,zutil.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\zlib\zutil.h,5faed825e57102494d64f41f67417150,278c42fe50334e51a072b9e9539f1a94,-9176392388590904164,-8023445049755510628,7,N,80,183,13
+osrandom_engine.h,dcigettext.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\hunspell\intl\dcigettext.c,5faed825e57102494d64f41f67417150,d3bb499e6a515c1052d491a7d39e4803,-9176392388590904164,-8023445049755445092,8,N,80,1207,17
+osrandom_engine.h,localename.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\hunspell\intl\localename.c,5faed825e57102494d64f41f67417150,8dae1c46d7f3b38c1490ba3c3553cb05,-9176392388590904164,-8023445049755510628,7,N,80,1228,15
+osrandom_engine.h,relocatable.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\hunspell\intl\relocatable.c,5faed825e57102494d64f41f67417150,53c1749225040b971ef2dc568f95ddf0,-9176392388590904164,-9176375350455379300,6,N,80,307,13
+osrandom_engine.h,sljitConfigInternal.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\3rdparty\pcre\sljit\sljitConfigInternal.h,5faed825e57102494d64f41f67417150,fb64cb97a3a14369e6bfd1dd34984a80,-9176392388590904164,-8023445049755510756,8,N,80,400,14

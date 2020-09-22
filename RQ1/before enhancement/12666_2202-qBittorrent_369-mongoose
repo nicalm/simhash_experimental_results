@@ -1,0 +1,3 @@
+2202-qBittorrent,369-mongoose
+session.cpp,ReadPreference.js,\src\base\bittorrent\session.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,ca3fc73b6732798b8724618e8c3fec27,72ad104b2d3e1cc34b02578eb97d2c64,6881978578661030105,5440897058057271519,8,N,3742,30,9
+proplistdelegate.cpp,ReadPreference.js,\src\gui\properties\proplistdelegate.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,4de60f6b36141f92c2bc5ba3d77471db,72ad104b2d3e1cc34b02578eb97d2c64,-3494526068898088747,5440897058057271519,8,N,172,30,8

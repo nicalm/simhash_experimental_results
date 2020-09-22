@@ -1,0 +1,10 @@
+3405-libevent,754-folly
+arc4random.c,CPortability.h,\arc4random.c,\folly\CPortability.h,950a4559e0e53b137b11ce81b6658ae4,2071cc58e111b1fb40fa47a9161f5356,-7302974662493545740,-8023445049756493156,8,N,389,137,26
+arc4random.c,Portability.h,\arc4random.c,\folly\Portability.h,950a4559e0e53b137b11ce81b6658ae4,4a7decd5a24ba7fccd761801e3ef4412,-7302974662493545740,-7447019619264177960,7,N,389,392,35
+ipv6-internal.h,CPortability.h,\ipv6-internal.h,\folly\CPortability.h,dabb7bfd8d8b28692ca1940f37c14cce,2071cc58e111b1fb40fa47a9161f5356,-8005606573110671204,-8023445049756493156,8,N,37,137,9
+ipv6-internal.h,Windows.h,\ipv6-internal.h,\folly\portability\Windows.h,dabb7bfd8d8b28692ca1940f37c14cce,8d255d6eb746df0dd20db480cd3643e5,-8005606573110671204,-8023516518011316068,7,N,37,48,9
+time-internal.h,Windows.h,\time-internal.h,\folly\portability\Windows.h,9bf6e1db3b1c4f27e264cb8439fab1f7,8d255d6eb746df0dd20db480cd3643e5,-7994243137613279076,-8023516518011316068,6,N,56,48,11
+event.h,CPortability.h,\include\event.h,\folly\CPortability.h,74155744f6c5bd2476d644b3e62572b7,2071cc58e111b1fb40fa47a9161f5356,-8005430651917121316,-8023445049756493156,8,N,39,137,8
+event.h,Windows.h,\include\event.h,\folly\portability\Windows.h,74155744f6c5bd2476d644b3e62572b7,8d255d6eb746df0dd20db480cd3643e5,-8005430651917121316,-8023516518011316068,7,N,39,48,9
+http-server.c,CPortability.h,\sample\http-server.c,\folly\CPortability.h,fa428fd17afc5f667039f0c4a610bee6,2071cc58e111b1fb40fa47a9161f5356,-3420695858081572708,-8023445049756493156,8,N,481,137,32
+keyvalq_struct.h,Windows.h,\include\event2\keyvalq_struct.h,\folly\portability\Windows.h,6cfad2c2ff1e3aee7e4d7e3ad4535d29,8d255d6eb746df0dd20db480cd3643e5,-8024086342059894627,-8023516518011316068,7,N,37,48,7

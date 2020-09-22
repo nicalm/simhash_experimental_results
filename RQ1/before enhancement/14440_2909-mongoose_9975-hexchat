@@ -1,0 +1,7 @@
+2909-mongoose,9975-hexchat
+mongoose.h,typedef.h,\mongoose.h,\src\common\typedef.h,2d0665a2e8d3cf0feb3b958a851f071d,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,3259,20,7
+mg_features.h,typedef.h,\src\mg_features.h,\src\common\typedef.h,f465b98573fad4b5e022cec4075e3e67,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,130,20,7
+mg_mem.h,typedef.h,\src\common\mg_mem.h,\src\common\typedef.h,eb1e1ae46ae1bc1797e63b3f784aef13,ad3525a10e4064f94c5205693b6e1c78,1163898190080301212,-8059473984749774204,7,N,21,20,6
+platform_unix.h,typedef.h,\src\common\platforms\platform_unix.h,\src\common\typedef.h,baebcbb3950c55896dce83ea69594fdd,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,111,20,7
+platform_wince.h,typedef.h,\src\common\platforms\platform_wince.h,\src\common\typedef.h,551934bdf0092886b7a2f9895977d52b,ad3525a10e4064f94c5205693b6e1c78,-8023445049757607780,-8059473984749774204,8,N,138,20,7
+platform_windows.h,typedef.h,\src\common\platforms\platform_windows.h,\src\common\typedef.h,1642514a47bfd6eb32ee42269aa3c12d,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,147,20,7

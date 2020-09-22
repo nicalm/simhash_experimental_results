@@ -1,0 +1,2 @@
+11788-fbthrift,1194-salt
+structs.py,test_immutabletypes.py,\thrift\lib\py3\test\structs.py,\tests\unit\utils\test_immutabletypes.py,44c30b1d32e1d2ed61e115af1f896b50,33ec63d53087ebc4542deb73db3b2b31,-9183995202707453955,615846382508115837,6,N,166,55,8

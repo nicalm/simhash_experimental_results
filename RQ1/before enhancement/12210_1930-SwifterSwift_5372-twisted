@@ -1,0 +1,5 @@
+1930-SwifterSwift,5372-twisted
+CGColorExtensions.swift,raiser.c,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\twisted\test\raiser.c,13a384d167268ac57b0c34b9cb13ed0f,03329048f02326320ae3e07a7faee64c,1189793885789145236,-8023445050292381540,8,N,21,3117,8
+NSAttributedStringExtensions.swift,raiser.c,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\twisted\test\raiser.c,682db1376e5e9e45d24a9e1b1ad3e9f8,03329048f02326320ae3e07a7faee64c,-9174114755220842340,-8023445050292381540,5,N,87,3117,28
+StringExtensions.swift,raiser.c,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\twisted\test\raiser.c,d53332d341abeff92e3d2d2ce16a4d0a,03329048f02326320ae3e07a7faee64c,-3051550226512422756,-8023445050292381540,6,N,650,3117,186
+StringExtensions.swift,iocpsupport.c,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,d53332d341abeff92e3d2d2ce16a4d0a,6f126cf6c7552cdc709488795a6bc165,-3051550226512422756,-7590887830076270404,8,N,650,8738,188

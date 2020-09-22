@@ -1,0 +1,4 @@
+63613-KunstmaanBundlesCMS,702-swoole-src
+StringFilterType.php,swoole_http_parser.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,\thirdparty\swoole_http_parser.c,da41db0764b2bc6ea750e9ab6c21973a,d155f3ba8a7cdb53f79f34af305581eb,5729413307097985239,5729127442933135575,6,N,54,1234,17
+StringFilterType.php,get.php,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,\tests\include\lib\src\responder\get.php,da41db0764b2bc6ea750e9ab6c21973a,0e93a44800862fa891e9d4a8bd016ee0,5729413307097985239,8034970456441796823,8,N,54,71,10
+StringFilterType.php,swoole_http_parser.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\ORM\StringFilterType.php,\thirdparty\swoole_http_parser.c,cc9f7e3b468f7a06a05fbec8ff53e364,d155f3ba8a7cdb53f79f34af305581eb,5729408874691727575,5729127442933135575,7,N,54,1234,17

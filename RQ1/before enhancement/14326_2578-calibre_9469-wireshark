@@ -1,0 +1,16 @@
+2578-calibre,9469-wireshark
+lzc.c,arch.h,\src\calibre\utils\lzx\lzc.c,\speexdsp\arch.h,11c9898842951150dfc62541ffe887ae,7bd9f03a8b05e96ab303ecf68fd17137,-7987982500153223011,-7951950405671003748,8,N,333,154,17
+lzxc.c,ws_diag_control.h,\src\calibre\utils\lzx\lzxc.c,\ws_diag_control.h,5148bebfcfad4cb4119b4e362bc0686f,d810c0c27e643580faca0b397cc27bd0,-8059473846773950244,-8059693337320040228,7,N,1033,93,19
+lzxc.c,capture-wpcap.c,\src\calibre\utils\lzx\lzxc.c,\caputils\capture-wpcap.c,5148bebfcfad4cb4119b4e362bc0686f,4465a5891dcd863bd7471ed05fb6730b,-8059473846773950244,-8018941440464332644,7,N,1033,903,172
+lzxc.c,etypes.h,\src\calibre\utils\lzx\lzxc.c,\epan\etypes.h,5148bebfcfad4cb4119b4e362bc0686f,3c7973fde48d4ae5033b9c2baa52599a,-8059473846773950244,-8023445049755510628,3,N,1033,437,41
+lzxc.c,secrets.h,\src\calibre\utils\lzx\lzxc.c,\epan\secrets.h,5148bebfcfad4cb4119b4e362bc0686f,504328c75133bb2bf912e60d72c22f21,-8059473846773950244,-7483787150690563940,8,N,1033,38,9
+lzxc.c,arch.h,\src\calibre\utils\lzx\lzxc.c,\speexdsp\arch.h,5148bebfcfad4cb4119b4e362bc0686f,7bd9f03a8b05e96ab303ecf68fd17137,-8059473846773950244,-7951950405671003748,6,N,1033,154,20
+lzxc.c,iface_lists.h,\src\calibre\utils\lzx\lzxc.c,\ui\iface_lists.h,5148bebfcfad4cb4119b4e362bc0686f,fb074d786200a9bd1618662864d247fa,-8059473846773950244,-8055146169007552363,8,N,1033,15,5
+lzxc.c,wsgetopt.h,\src\calibre\utils\lzx\lzxc.c,\wsutil\wsgetopt.h,5148bebfcfad4cb4119b4e362bc0686f,cac8543e0a5fa9f39bf8ae2cb6135ae2,-8059473846773950244,-7888381196018329380,8,N,1033,68,18
+lzxc.c,dot11decrypt_interop.h,\src\calibre\utils\lzx\lzxc.c,\epan\crypt\dot11decrypt_interop.h,5148bebfcfad4cb4119b4e362bc0686f,d7564edce1a33aac85261f4db23df308,-8059473846773950244,-8023445049755510644,4,N,1033,38,13
+lzxc.c,lempar.c,\src\calibre\utils\lzx\lzxc.c,\tools\lemon\lempar.c,5148bebfcfad4cb4119b4e362bc0686f,05ab4abcab36d427f4565bdd5793be05,-8059473846773950244,-7879329861679654756,4,N,1033,624,132
+lzxc.c,main.cpp,\src\calibre\utils\lzx\lzxc.c,\ui\qt\main.cpp,5148bebfcfad4cb4119b4e362bc0686f,c5f031e07e57fe84d2e1a91122b033e3,-8059473846773950244,-8023445050023946084,4,N,1033,650,123
+msstdint.h,etypes.h,\src\calibre\utils\lzx\msstdint.h,\epan\etypes.h,2dacb8ee9f393a22b1266f714d3efcd6,3c7973fde48d4ae5033b9c2baa52599a,-2830794129776780644,-8023445049755510628,7,N,138,437,15
+msstdint.h,dot11decrypt_interop.h,\src\calibre\utils\lzx\msstdint.h,\epan\crypt\dot11decrypt_interop.h,2dacb8ee9f393a22b1266f714d3efcd6,d7564edce1a33aac85261f4db23df308,-2830794129776780644,-8023445049755510644,8,N,138,38,12
+msstdint.h,lempar.c,\src\calibre\utils\lzx\msstdint.h,\tools\lemon\lempar.c,2dacb8ee9f393a22b1266f714d3efcd6,05ab4abcab36d427f4565bdd5793be05,-2830794129776780644,-7879329861679654756,8,N,138,624,20
+msstdint.h,main.cpp,\src\calibre\utils\lzx\msstdint.h,\ui\qt\main.cpp,2dacb8ee9f393a22b1266f714d3efcd6,c5f031e07e57fe84d2e1a91122b033e3,-2830794129776780644,-8023445050023946084,8,N,138,650,21

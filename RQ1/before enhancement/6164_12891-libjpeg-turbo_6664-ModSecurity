@@ -1,0 +1,4 @@
+12891-libjpeg-turbo,6664-ModSecurity
+jmorecfg.h,check_config.h,\jmorecfg.h,\others\mbedtls\check_config.h,1469bb97fe30335d1c73bd97389298b2,306e92b56ac8d1b085c9f72fb65f46a7,-8023517342645037028,-8023445049755510628,4,N,162,402,22
+jmorecfg.h,platform.h,\jmorecfg.h,\others\mbedtls\platform.h,1469bb97fe30335d1c73bd97389298b2,d00d535ad1c35ca86d366afc8578c1ab,-8023517342645037028,-7879409027045336932,7,N,162,106,30
+jccolext-altivec.c,check_config.h,\simd\powerpc\jccolext-altivec.c,\others\mbedtls\check_config.h,f35971d8d3460ef5abe9dca10e095ed1,306e92b56ac8d1b085c9f72fb65f46a7,-3267362370959935348,-8023445049755510628,8,N,174,402,12

@@ -1,0 +1,5 @@
+11788-fbthrift,63225-sedutil
+AsyncClientWorker2.cpp,sedutil.cpp,\thrift\perf\cpp\AsyncClientWorker2.cpp,\Common\sedutil.cpp,3ebd76a0981e9c53ea752af30db30be5,d52e516d82c7919c579e6283c901df60,5738134641844205783,5693098645914171606,7,N,387,243,32
+ThriftSerializationHelper.php,sedutil.cpp,\thrift\lib\hack\src\ThriftSerializationHelper.php,\Common\sedutil.cpp,2a3a53fb5528c98aad1178c305be0463,d52e516d82c7919c579e6283c901df60,-3512346884650260265,5693098645914171606,8,N,377,243,40
+Operation.h,sedutil.cpp,\thrift\perf\cpp2\util\Operation.h,\Common\sedutil.cpp,1cf81f674cd6bb613346f9badee172d4,d52e516d82c7919c579e6283c901df60,-3493118691867313953,5693098645914171606,6,N,152,243,34
+TProtocolUtil.java,sedutil.cpp,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\Common\sedutil.cpp,ca4aaa19ebede5914601c81d8f142ced,d52e516d82c7919c579e6283c901df60,5729127434368628951,5693098645914171606,6,N,125,243,27

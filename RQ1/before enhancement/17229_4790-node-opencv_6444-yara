@@ -1,0 +1,6 @@
+4790-node-opencv,6444-yara
+init.cc,hex_grammar.c,\src\init.cc,\libyara\hex_grammar.c,ac230f241e7062df9add8317bcf2a3be,29c757a687084bfae5a2dc6bb31b05e5,-8032663355242784612,-9185373754145580836,6,N,67,1251,12
+init.cc,endian.h,\src\init.cc,\libyara\include\yara\endian.h,ac230f241e7062df9add8317bcf2a3be,f44500c257dc9e47f34b1473280aea77,-8032663355242784612,-8023445049755510628,3,N,67,55,11
+init.cc,integers.h,\src\init.cc,\libyara\include\yara\integers.h,ac230f241e7062df9add8317bcf2a3be,f8e220916ba72c943da73bf32049b841,-8032663355242784612,-8023445049755510628,3,N,67,57,11
+init.cc,limits.h,\src\init.cc,\libyara\include\yara\limits.h,ac230f241e7062df9add8317bcf2a3be,1b76e5cbfb6a87b1b52e9aef743d23ec,-8032663355242784612,-8023445049755510628,3,N,67,77,11
+init.cc,strutils.h,\src\init.cc,\libyara\include\yara\strutils.h,ac230f241e7062df9add8317bcf2a3be,62646260db13811e153f2c59cbdfb33a,-8032663355242784612,-8023518717034571368,6,N,67,59,11

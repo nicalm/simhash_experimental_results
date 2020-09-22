@@ -1,0 +1,10 @@
+1460-iTerm2,3405-libevent
+ini.h,arc4random.c,\ThirdParty\inih\ini.h,\arc4random.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,950a4559e0e53b137b11ce81b6658ae4,-8023445049755510564,-7302974662493545740,8,N,57,389,17
+ini.h,ipv6-internal.h,\ThirdParty\inih\ini.h,\ipv6-internal.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,dabb7bfd8d8b28692ca1940f37c14cce,-8023445049755510564,-8005606573110671204,6,N,57,37,13
+ini.h,strlcpy-internal.h,\ThirdParty\inih\ini.h,\strlcpy-internal.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,467ca41fc4bea3adc64b4e368f7cade3,-8023445049755510564,-7987415705132410795,8,N,57,18,8
+ini.h,event.h,\ThirdParty\inih\ini.h,\include\event.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,74155744f6c5bd2476d644b3e62572b7,-8023445049755510564,-8005430651917121316,4,N,57,39,12
+ini.h,dns_struct.h,\ThirdParty\inih\ini.h,\include\event2\dns_struct.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,666004cf63ea0bf834f3327e53994765,-8023445049755510564,-8032733723986968355,6,N,57,32,11
+ini.h,keyvalq_struct.h,\ThirdParty\inih\ini.h,\include\event2\keyvalq_struct.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,6cfad2c2ff1e3aee7e4d7e3ad4535d29,-8023445049755510564,-8024086342059894627,8,N,57,37,11
+BetterFontPicker-Swift.h,ipv6-internal.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\ipv6-internal.h,9cdfc1f6cb7907e29a4e6b2cf0041946,dabb7bfd8d8b28692ca1940f37c14cce,-8023479959251789668,-8005606573110671204,6,N,335,37,10
+BetterFontPicker-Swift.h,event.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\include\event.h,9cdfc1f6cb7907e29a4e6b2cf0041946,74155744f6c5bd2476d644b3e62572b7,-8023479959251789668,-8005430651917121316,8,N,335,39,9
+BetterFontPicker-Swift.h,keyvalq_struct.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\include\event2\keyvalq_struct.h,9cdfc1f6cb7907e29a4e6b2cf0041946,6cfad2c2ff1e3aee7e4d7e3ad4535d29,-8023479959251789668,-8024086342059894627,8,N,335,37,8

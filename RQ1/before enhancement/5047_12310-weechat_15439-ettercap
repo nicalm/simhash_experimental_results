@@ -1,0 +1,10 @@
+12310-weechat,15439-ettercap
+wee-url.c,ec.h,\src\core\wee-url.c,\include\ec.h,2182536a79bada4949d9bc0483b5da6d,dae7f0b56b398c721ccdc8ddfd52a66f,-8023445049755510628,-9176375350522685416,7,N,1111,132,22
+wee-url.c,ec_os_mingw.h,\src\core\wee-url.c,\include\ec_os_mingw.h,2182536a79bada4949d9bc0483b5da6d,a35507e5684e934f2f3961ea9d733813,-8023445049755510628,-8023445049755510628,0,N,1111,184,31
+wee-url.c,ec_stdint.h,\src\core\wee-url.c,\include\ec_stdint.h,2182536a79bada4949d9bc0483b5da6d,6aec3e3181000888a59234edbdd91364,-8023445049755510628,-8023445049755510628,0,N,1111,70,17
+wee-url.c,ec_strings.h,\src\core\wee-url.c,\include\ec_strings.h,2182536a79bada4949d9bc0483b5da6d,de354113240928e149f745107db6f7bb,-8023445049755510628,-7879329861738243684,5,N,1111,54,13
+wee-url.c,ec_signals.c,\src\core\wee-url.c,\src\ec_signals.c,2182536a79bada4949d9bc0483b5da6d,0eaf3035a675ff4e3e837f495b81415f,-8023445049755510628,1776388288554523804,6,N,1111,166,39
+gui-curses-term.c,ec_os_mingw.h,\src\gui\curses\gui-curses-term.c,\include\ec_os_mingw.h,12c6b2e5780349c1e6b15f2a0f08c5ca,a35507e5684e934f2f3961ea9d733813,-7447028277908808228,-8023445049755510628,7,N,23,184,6
+gui-curses-term.c,ec_stdint.h,\src\gui\curses\gui-curses-term.c,\include\ec_stdint.h,12c6b2e5780349c1e6b15f2a0f08c5ca,6aec3e3181000888a59234edbdd91364,-7447028277908808228,-8023445049755510628,7,N,23,70,7
+gui-curses-term.c,ec_strings.h,\src\gui\curses\gui-curses-term.c,\include\ec_strings.h,12c6b2e5780349c1e6b15f2a0f08c5ca,de354113240928e149f745107db6f7bb,-7447028277908808228,-7879329861738243684,8,N,23,54,8
+irc-info.c,ec_pop.c,\src\plugins\irc\irc-info.c,\src\dissectors\ec_pop.c,136ffd7712d2b0cd68a4bcf1bdc3c855,aa0c8c64d030b4f03a0a7ad1859b031d,-4303528094029250580,-3727148705519183124,8,N,955,200,45

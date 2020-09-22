@@ -1,0 +1,12 @@
+14790-sleuthkit,2202-qBittorrent
+usnjls_lib.c,proplistdelegate.cpp,\tsk\fs\usnjls_lib.c,\src\gui\properties\proplistdelegate.cpp,48e95a276115acd301ddb5b9726a7100,4de60f6b36141f92c2bc5ba3d77471db,5729127445080619223,-3494526068898088747,5,N,267,172,46
+dos.c,session.cpp,\tsk\vs\dos.c,\src\base\bittorrent\session.cpp,87019305b1f4020a75d7e674cebe6f30,ca3fc73b6732798b8724618e8c3fec27,5729127442933135575,6881978578661030105,8,N,850,3742,130
+dos.c,proplistdelegate.cpp,\tsk\vs\dos.c,\src\gui\properties\proplistdelegate.cpp,87019305b1f4020a75d7e674cebe6f30,4de60f6b36141f92c2bc5ba3d77471db,5729127442933135575,-3494526068898088747,4,N,850,172,47
+dfxml.cpp,application.cpp,\tools\fiwalk\src\dfxml.cpp,\src\app\application.cpp,eb50b8530f9308f16c36524fddd2f5b8,1769f1c34b2b51e4c126498e3a0b5a58,-8023587986267121524,-7445858400229599076,8,N,386,573,100
+dfxml.cpp,main.cpp,\tools\fiwalk\src\dfxml.cpp,\src\app\main.cpp,eb50b8530f9308f16c36524fddd2f5b8,0ab876c235d091cc9321f5b26945d353,-8023587986267121524,-8023445118508476260,6,N,386,324,74
+fiwalk.h,main.cpp,\tools\fiwalk\src\fiwalk.h,\src\app\main.cpp,039566552f931dc82d647dc4de6b0327,0ab876c235d091cc9321f5b26945d353,-8023585796102236012,-8023445118508476260,8,N,114,324,18
+regex_internal.h,application.cpp,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\src\app\application.cpp,478b58ddf6d6e1e730d1b30c2f09b9d2,1769f1c34b2b51e4c126498e3a0b5a58,-8023445051928094564,-7445858400229599076,7,N,587,573,79
+regex_internal.h,main.cpp,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\src\app\main.cpp,478b58ddf6d6e1e730d1b30c2f09b9d2,0ab876c235d091cc9321f5b26945d353,-8023445051928094564,-8023445118508476260,3,N,587,324,61
+file.h,application.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\src\app\application.cpp,d22799caeaddf83c099f19cf401487da,1769f1c34b2b51e4c126498e3a0b5a58,-8023445049755510568,-7445858400229599076,7,N,402,573,40
+file.h,main.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\src\app\main.cpp,d22799caeaddf83c099f19cf401487da,0ab876c235d091cc9321f5b26945d353,-8023445049755510568,-8023445118508476260,5,N,402,324,44
+softmagic.c,proplistdelegate.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\src\gui\properties\proplistdelegate.cpp,c9a5bb85f007b34bfa13df4253839c91,4de60f6b36141f92c2bc5ba3d77471db,5152631506249235159,-3494526068898088747,8,N,1731,172,56

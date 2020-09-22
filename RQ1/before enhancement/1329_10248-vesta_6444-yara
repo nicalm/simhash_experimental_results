@@ -1,0 +1,3 @@
+10248-vesta,6444-yara
+index.php,grammar.c,\web\bulk\user\index.php,\libyara\grammar.c,e63f54fde5aa69c0078f57a124201499,306ae4ed5d0a265782bc5a130c6f342f,5729127442931036375,5730252312047818967,6,N,53,3301,17
+index.php,pe_utils.c,\web\bulk\user\index.php,\libyara\modules\pe\pe_utils.c,e63f54fde5aa69c0078f57a124201499,85b3b0e9639ebe8f194fd360aa44aa10,5729127442931036375,5729127442933135575,2,N,53,1795,17

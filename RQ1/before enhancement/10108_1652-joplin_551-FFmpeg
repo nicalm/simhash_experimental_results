@@ -1,0 +1,4 @@
+1652-joplin,551-FFmpeg
+reducer.js,pcm.c,\ReactNativeClient\lib\reducer.js,\libavcodec\pcm.c,cfb01146b60f71f219c7ac6dd67d6dc3,37664aa1805e5b8a6fd6444e25ca5398,5729128095763970230,5728845967956424919,8,N,610,537,88
+reducer.js,yuv4mpegenc.c,\ReactNativeClient\lib\reducer.js,\libavformat\yuv4mpegenc.c,cfb01146b60f71f219c7ac6dd67d6dc3,c4140fda683fb3c45997517c0394f389,5729128095763970230,5729125243909880051,8,N,610,303,57
+reducer.js,input.c,\ReactNativeClient\lib\reducer.js,\libswscale\input.c,cfb01146b60f71f219c7ac6dd67d6dc3,f5fd4c22afbeba816cbd53aa0171507b,5729128095763970230,5729127442928941270,5,N,610,1488,130

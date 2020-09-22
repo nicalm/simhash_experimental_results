@@ -1,0 +1,6 @@
+551-FFmpeg,7747-Attendize
+h264_mvpred.h,simplemde.debug.js,\libavcodec\h264_mvpred.h,\public\vendor\simplemde\debug\simplemde.debug.js,3771384d56c9105f5592bf2416f735da,0142e94ed73f2277addf48ef55e1fac4,4611023831365698222,4034560881112763118,6,N,673,11274,130
+h264_mvpred.h,simplemde.js,\libavcodec\h264_mvpred.h,\public\vendor\simplemde\debug\simplemde.js,3771384d56c9105f5592bf2416f735da,0142e94ed73f2277addf48ef55e1fac4,4611023831365698222,4034560881112763118,6,N,673,11274,130
+vp9block.c,moment.js,\libavcodec\vp9block.c,\public\vendor\moment\moment.js,70e1349173cd4670ae460ef7cef42629,f1cd5bdc747c20c6de4210e68b539782,2264650624390515390,3455852176007088830,7,N,1295,3064,222
+vp9block.c,vue.common.js,\libavcodec\vp9block.c,\public\vendor\vue\dist\vue.common.js,70e1349173cd4670ae460ef7cef42629,b41a7aa3e707c5697f6901b13a597c1b,2264650624390515390,2305182884135815930,7,N,1295,5960,237
+signature_lookup.c,vue.common.js,\libavfilter\signature_lookup.c,\public\vendor\vue\dist\vue.common.js,5fb55324f1667dc11712c30e62c1e991,b41a7aa3e707c5697f6901b13a597c1b,2304057121129999102,2305182884135815930,7,N,467,5960,123

@@ -1,0 +1,4 @@
+1698-server,1916-robomongo
+MDB2SchemaReader.php,BsonUtils.cpp,\lib\private\DB\MDB2SchemaReader.php,\src\robomongo\core\utils\BsonUtils.cpp,d647cd0d11a5a459553ceaf5b5657b44,debf75f981000bc99bd9efe7cb6eb327,5731379242742884567,5091868095651821783,7,N,240,682,73
+MDB2SchemaReader.php,LexKVIrc.cpp,\lib\private\DB\MDB2SchemaReader.php,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,d647cd0d11a5a459553ceaf5b5657b44,6343dba2bf0e94906c7e4f0cda130ffe,5731379242742884567,5729131843127130311,7,N,240,248,58
+MDB2SchemaReader.php,ScintillaQt.cpp,\lib\private\DB\MDB2SchemaReader.php,\src\third-party\qscintilla\sources\Qt4Qt5\ScintillaQt.cpp,d647cd0d11a5a459553ceaf5b5657b44,3923e72d8e490bfa249b1c3facf7b01e,5731379242742884567,5152596321881340367,8,N,240,405,66

@@ -1,0 +1,7 @@
+10249-pycrypto,2575-scipy
+_counter.c,_uarray_dispatch.cxx,\src\_counter.c,\scipy\_lib\_uarray\_uarray_dispatch.cxx,dfb40b63358dfd434ec4ef5b2715afad,517a74bdda9e353a592adcb197b2d1ae,6293725329159854459,6293723112954628475,5,N,388,892,110
+_counter.c,_superlu_utils.c,\src\_counter.c,\scipy\sparse\linalg\dsolve\_superlu_utils.c,dfb40b63358dfd434ec4ef5b2715afad,11d1140a0eaaa5df0bcd678283a02bb7,6293725329159854459,6293727511001139579,4,N,388,201,85
+tomcrypt_cfg.h,msc_stdint.h,\src\libtom\tomcrypt_cfg.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,5d86f6872e15c2873979e3c177860d1d,0a9faad66f590c9572581753d453013e,-8023445049755510052,-8018800163019237220,8,N,79,152,19
+tomcrypt_cipher.h,msc_stdint.h,\src\libtom\tomcrypt_cipher.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,e7e3cfbb6946c3245a4035941fbfd0d9,0a9faad66f590c9572581753d453013e,-8023445049755512676,-8018800163019237220,7,N,592,152,18
+tomcrypt_custom.h,msc_stdint.h,\src\libtom\tomcrypt_custom.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,9ae4ff77d7091871a62aaa3fd1f90225,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,245,152,19
+tomcrypt_hash.h,msc_stdint.h,\src\libtom\tomcrypt_hash.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,0a9faad66f590c9572581753d453013e,-8023480251307468644,-8018800163019237220,8,N,310,152,18

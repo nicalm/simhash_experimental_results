@@ -1,0 +1,10 @@
+11604-pdns,7408-DeepVideoAnalytics
+threadname.cc,bbox.c,\pdns\threadname.cc,\repos\tf_ctpn_cpu\lib\utils\bbox.c,5b915147d70647a42e05b4e28ce34c57,b42f28bb593ba51126ab3c36f2280e44,-8023445049889728356,-7735003018152322916,6,N,39,5912,14
+threadname.cc,cython_nms.c,\pdns\threadname.cc,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,5b915147d70647a42e05b4e28ce34c57,340c61e73ba74d7820ff458fae32d716,-8023445049889728356,-7735003018152322916,6,N,39,6623,14
+threadname.cc,gpu_nms.c,\pdns\threadname.cc,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,5b915147d70647a42e05b4e28ce34c57,c5f744cc55310f8443ffae08bc289c17,-8023445049889728356,-7735003018152322916,6,N,39,5655,14
+threadname.cc,gpu_nms.cpp,\pdns\threadname.cc,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,5b915147d70647a42e05b4e28ce34c57,2472408016d358310deb015143185fa8,-8023445049889728356,-7590887830068078436,8,N,39,4948,13
+version.cc,bbox.c,\pdns\version.cc,\repos\tf_ctpn_cpu\lib\utils\bbox.c,2d47bb8e09166cdc8de706154500a37c,b42f28bb593ba51126ab3c36f2280e44,-8023445049755379556,-7735003018152322916,6,N,141,5912,46
+version.cc,cython_nms.c,\pdns\version.cc,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,2d47bb8e09166cdc8de706154500a37c,340c61e73ba74d7820ff458fae32d716,-8023445049755379556,-7735003018152322916,6,N,141,6623,46
+version.cc,gpu_nms.c,\pdns\version.cc,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,2d47bb8e09166cdc8de706154500a37c,c5f744cc55310f8443ffae08bc289c17,-8023445049755379556,-7735003018152322916,6,N,141,5655,46
+version.cc,gpu_nms.cpp,\pdns\version.cc,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,2d47bb8e09166cdc8de706154500a37c,2472408016d358310deb015143185fa8,-8023445049755379556,-7590887830068078436,8,N,141,4948,45
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\server\dvaapp\static\plugins\daterangepicker\moment.js,f08218e77cec98df2514eb024690c2c0,ef61841d0586e287f80409df12b98be0,4032312790871033534,1690506955340205759,8,N,2690,2305,2104

@@ -1,0 +1,6 @@
+15760-bfgminer,2283-capnproto
+driver-cpu.c,miniposix.h,\driver-cpu.c,\c++\src\kj\miniposix.h,be0f700b73a52208dd53210582876f9e,43597d9a9103c02dbbe46d2c58ecc748,-7807272267641726562,-7455991496707810916,7,N,682,84,30
+cl_platform.h,miniposix.h,\CL\cl_platform.h,\c++\src\kj\miniposix.h,fc86a2210e718fbcf95aabcf0efa129a,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510564,-7455991496707810916,6,N,935,84,17
+signal.in.h,miniposix.h,\lib\signal.in.h,\c++\src\kj\miniposix.h,ab5029c765029582a72eaf9ee25fe736,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,258,84,19
+stddef.in.h,miniposix.h,\lib\stddef.in.h,\c++\src\kj\miniposix.h,51fb0aab8a1f88b1353623a5d3ebf080,43597d9a9103c02dbbe46d2c58ecc748,-7446702960451199844,-7455991496707810916,8,N,37,84,13
+string.in.h,miniposix.h,\lib\string.in.h,\c++\src\kj\miniposix.h,79edfbf7ab10d649596b9a9e586671ee,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,697,84,17

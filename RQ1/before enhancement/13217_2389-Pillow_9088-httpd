@@ -1,0 +1,14 @@
+2389-Pillow,9088-httpd
+ImPlatform.h,ap_config.h,\src\libImaging\ImPlatform.h,\include\ap_config.h,6670b4584189b95bdcaaa198dabbf5c8,1c6218d5baff469e646feb980b44217c,-8024570949662353252,-7735214690977654116,8,N,58,119,15
+ImPlatform.h,main.c,\src\libImaging\ImPlatform.h,\server\main.c,6670b4584189b95bdcaaa198dabbf5c8,806e4cdb67ce91fe6e7126212948f521,-8024570949662353252,-8897143515441211364,7,N,58,643,15
+ImPlatform.h,util_mutex.c,\src\libImaging\ImPlatform.h,\server\util_mutex.c,6670b4584189b95bdcaaa198dabbf5c8,f4916caecb015e61f0afc2234fe5e1a2,-8024570949662353252,-8023462641941751720,7,N,58,432,11
+ImPlatform.h,suexec.c,\src\libImaging\ImPlatform.h,\support\suexec.c,6670b4584189b95bdcaaa198dabbf5c8,dc41e91d254d4024cb333da882ce1872,-8024570949662353252,-7735355153394115556,7,N,58,463,15
+ImPlatform.h,suexec.h,\src\libImaging\ImPlatform.h,\support\suexec.h,6670b4584189b95bdcaaa198dabbf5c8,424eed5ca72dc5978fc0252bd3f51645,-8024570949662353252,-8023480233053857636,3,N,58,25,8
+ImPlatform.h,mod_syslog.c,\src\libImaging\ImPlatform.h,\modules\loggers\mod_syslog.c,6670b4584189b95bdcaaa198dabbf5c8,2d0861d0af354091bfd725e954827d0b,-8024570949662353252,-8023444500272326500,4,N,58,161,11
+ImPlatform.h,ssl_private.h,\src\libImaging\ImPlatform.h,\modules\ssl\ssl_private.h,6670b4584189b95bdcaaa198dabbf5c8,36249a7b93b6c6da74f16ab00ce94b9b,-8024570949662353252,-8023445049755510628,1,N,58,736,15
+ImPlatform.h,unixd.c,\src\libImaging\ImPlatform.h,\os\unix\unixd.c,6670b4584189b95bdcaaa198dabbf5c8,4641aa5ffe292dda86bf90bcfac2c838,-8024570949662353252,-8023462641975109476,3,N,58,524,14
+ImPlatform.h,unixd.h,\src\libImaging\ImPlatform.h,\os\unix\unixd.h,6670b4584189b95bdcaaa198dabbf5c8,1e97048310750a93e48c88da2a05a891,-8024570949662353252,1198801087192387632,7,N,58,81,12
+ImPlatform.h,mpm_default.h,\src\libImaging\ImPlatform.h,\server\mpm\event\mpm_default.h,6670b4584189b95bdcaaa198dabbf5c8,7247b1ebbef7874ca0c5121dfc7b2020,-8024570949662353252,-8024010198733260644,6,N,58,15,5
+ImPlatform.h,mpm_default.h,\src\libImaging\ImPlatform.h,\server\mpm\mpmt_os2\mpm_default.h,6670b4584189b95bdcaaa198dabbf5c8,0023769f864cdaeabb7f82ad5c66ec3d,-8024570949662353252,-8023480233053857636,3,N,58,15,5
+ImPlatform.h,mpm_default.h,\src\libImaging\ImPlatform.h,\server\mpm\netware\mpm_default.h,6670b4584189b95bdcaaa198dabbf5c8,cda6f6973e85bdbe7e47a6014176c375,-8024570949662353252,-8023458243899238244,4,N,58,24,8
+ImPlatform.h,mpm_default.h,\src\libImaging\ImPlatform.h,\server\mpm\worker\mpm_default.h,6670b4584189b95bdcaaa198dabbf5c8,7247b1ebbef7874ca0c5121dfc7b2020,-8024570949662353252,-8024010198733260644,6,N,58,15,5

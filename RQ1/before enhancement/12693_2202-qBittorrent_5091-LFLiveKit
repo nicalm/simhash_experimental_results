@@ -1,0 +1,4 @@
+2202-qBittorrent,5091-LFLiveKit
+application.cpp,bytes.h,\src\app\application.cpp,\LFLiveKit\Vendor\pili-librtmp\bytes.h,1769f1c34b2b51e4c126498e3a0b5a58,27e627df8a5d4ca5b8f515c9651ea6ad,-7445858400229599076,-8023445049755527012,6,N,573,45,13
+main.cpp,bytes.h,\src\app\main.cpp,\LFLiveKit\Vendor\pili-librtmp\bytes.h,0ab876c235d091cc9321f5b26945d353,27e627df8a5d4ca5b8f515c9651ea6ad,-8023445118508476260,-8023445049755527012,4,N,324,45,13
+mainwindow.cpp,bytes.h,\src\gui\mainwindow.cpp,\LFLiveKit\Vendor\pili-librtmp\bytes.h,5cd96cef67869a501be59f5996fcb554,27e627df8a5d4ca5b8f515c9651ea6ad,-9032396158224000868,-8023445049755527012,7,N,1634,45,13

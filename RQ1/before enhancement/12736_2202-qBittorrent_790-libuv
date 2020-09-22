@@ -1,0 +1,13 @@
+2202-qBittorrent,790-libuv
+application.cpp,test-list.h,\src\app\application.cpp,\test\test-list.h,1769f1c34b2b51e4c126498e3a0b5a58,34c37e38fd3367fbe3d6e9280bf86a06,-7445858400229599076,-7374645228437448676,7,N,573,951,36
+application.cpp,getaddrinfo.c,\src\app\application.cpp,\src\unix\getaddrinfo.c,1769f1c34b2b51e4c126498e3a0b5a58,e8e49cecf77e5d3f516ab013154bbd9c,-7445858400229599076,-8023444777025087336,6,N,573,188,35
+application.cpp,internal.h,\src\app\application.cpp,\src\unix\internal.h,1769f1c34b2b51e4c126498e3a0b5a58,371ffd2ac622ba8f4ae44ae51c531f3d,-7445858400229599076,-8023445069074474788,7,N,573,209,27
+application.cpp,winapi.h,\src\app\application.cpp,\src\win\winapi.h,1769f1c34b2b51e4c126498e3a0b5a58,4f2f56dcce5d652768e5e4cfcf6661be,-7445858400229599076,-8023445049755510628,5,N,573,3569,34
+main.cpp,test-list.h,\src\app\main.cpp,\test\test-list.h,0ab876c235d091cc9321f5b26945d353,34c37e38fd3367fbe3d6e9280bf86a06,-8023445118508476260,-7374645228437448676,7,N,324,951,37
+main.cpp,getaddrinfo.c,\src\app\main.cpp,\src\unix\getaddrinfo.c,0ab876c235d091cc9321f5b26945d353,e8e49cecf77e5d3f516ab013154bbd9c,-8023445118508476260,-8023444777025087336,6,N,324,188,35
+main.cpp,internal.h,\src\app\main.cpp,\src\unix\internal.h,0ab876c235d091cc9321f5b26945d353,371ffd2ac622ba8f4ae44ae51c531f3d,-8023445118508476260,-8023445069074474788,7,N,324,209,29
+main.cpp,linux-syscalls.c,\src\app\main.cpp,\src\unix\linux-syscalls.c,0ab876c235d091cc9321f5b26945d353,e03aa3ff0bab5e21466ddb93bc58c23e,-8023445118508476260,-8023444499991568996,8,N,324,292,58
+main.cpp,winapi.h,\src\app\main.cpp,\src\win\winapi.h,0ab876c235d091cc9321f5b26945d353,4f2f56dcce5d652768e5e4cfcf6661be,-8023445118508476260,-8023445049755510628,3,N,324,3569,35
+mainwindow.cpp,winapi.h,\src\gui\mainwindow.cpp,\src\win\winapi.h,5cd96cef67869a501be59f5996fcb554,4f2f56dcce5d652768e5e4cfcf6661be,-9032396158224000868,-8023445049755510628,8,N,1634,3569,50
+session.cpp,handle-inl.h,\src\base\bittorrent\session.cpp,\src\win\handle-inl.h,ca3fc73b6732798b8724618e8c3fec27,34080acd31e6a3b5bf545c24c6e85c3f,6881978578661030105,5729127442933135571,7,N,3742,110,19
+proplistdelegate.cpp,handle-inl.h,\src\gui\properties\proplistdelegate.cpp,\src\win\handle-inl.h,4de60f6b36141f92c2bc5ba3d77471db,34080acd31e6a3b5bf545c24c6e85c3f,-3494526068898088747,5729127442933135571,5,N,172,110,19

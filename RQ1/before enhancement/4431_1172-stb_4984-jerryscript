@@ -1,0 +1,12 @@
+1172-stb,4984-jerryscript
+stb_voxel_render.h,config.h,\stb_voxel_render.h,\jerry-core\config.h,e185ad843cb8b3f858b2f0f59163bf0c,1610ce5e32380b97834532a2439ffb00,-8168131434121996068,-8023445049755510628,8,N,2286,338,81
+stb_voxel_render.h,jerryscript-compiler.h,\stb_voxel_render.h,\jerry-core\include\jerryscript-compiler.h,e185ad843cb8b3f858b2f0f59163bf0c,6dc57bc479adf16d2b42cadd27f2edd3,-8168131434121996068,-8023445049755510628,8,N,2286,73,24
+stb_voxel_render.h,lit-magic-strings.inc.h,\stb_voxel_render.h,\jerry-core\lit\lit-magic-strings.inc.h,e185ad843cb8b3f858b2f0f59163bf0c,d156bf64086a4a370f1f54301148fe60,-8168131434121996068,-8023445049755510628,8,N,2286,920,93
+stb_voxel_render.h,js-parser-limits.h,\stb_voxel_render.h,\jerry-core\parser\js\js-parser-limits.h,e185ad843cb8b3f858b2f0f59163bf0c,656369309984980286cea2eff0cb4741,-8168131434121996068,-8023445049755510628,8,N,2286,51,17
+glext.h,config.h,\tests\caveview\glext.h,\jerry-core\config.h,0aa24209e6e9c1ceb2e18188dfcd425b,1610ce5e32380b97834532a2439ffb00,-8023445049755510628,-8023445049755510628,0,N,10581,338,98
+glext.h,jerryscript-compiler.h,\tests\caveview\glext.h,\jerry-core\include\jerryscript-compiler.h,0aa24209e6e9c1ceb2e18188dfcd425b,6dc57bc479adf16d2b42cadd27f2edd3,-8023445049755510628,-8023445049755510628,0,N,10581,73,22
+glext.h,jcontext.h,\tests\caveview\glext.h,\jerry-core\jcontext\jcontext.h,0aa24209e6e9c1ceb2e18188dfcd425b,4de6c82710d6de4c90b38b2414b9953a,-8023445049755510628,-9176367654679291684,5,N,10581,162,24
+glext.h,lit-magic-strings.inc.h,\tests\caveview\glext.h,\jerry-core\lit\lit-magic-strings.inc.h,0aa24209e6e9c1ceb2e18188dfcd425b,d156bf64086a4a370f1f54301148fe60,-8023445049755510628,-8023445049755510628,0,N,10581,920,220
+glext.h,ecma-builtin-helpers-macro-defines.inc.h,\tests\caveview\glext.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,0aa24209e6e9c1ceb2e18188dfcd425b,0dde8629af7a79ff0576269e0d239a88,-8023445049755510628,-8023445084115248996,1,N,10581,32,11
+glext.h,js-parser-limits.h,\tests\caveview\glext.h,\jerry-core\parser\js\js-parser-limits.h,0aa24209e6e9c1ceb2e18188dfcd425b,656369309984980286cea2eff0cb4741,-8023445049755510628,-8023445049755510628,0,N,10581,51,17
+glext.h,js-parser.c,\tests\caveview\glext.h,\jerry-core\parser\js\js-parser.c,0aa24209e6e9c1ceb2e18188dfcd425b,a37c1b49591f7b4e0cdbefd7e9e81be6,-8023445049755510628,-7879893920254732130,8,N,10581,2081,90

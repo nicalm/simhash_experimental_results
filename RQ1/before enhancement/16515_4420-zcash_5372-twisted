@@ -1,0 +1,8 @@
+4420-zcash,5372-twisted
+compat.h,raiser.c,\src\compat.h,\src\twisted\test\raiser.c,edca1c84c422d3accf71cf028f56730c,03329048f02326320ae3e07a7faee64c,-8023445189341947748,-8023445050292381540,3,N,86,3117,20
+byteswap.h,raiser.c,\src\compat\byteswap.h,\src\twisted\test\raiser.c,c8049a65823175e0cb720f771bece0d5,03329048f02326320ae3e07a7faee64c,-8032452249010186084,-8023445050292381540,3,N,36,3117,13
+endian.h,raiser.c,\src\compat\endian.h,\src\twisted\test\raiser.c,b0a1e77bc71959182a3b0854e64e46ad,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,160,3117,70
+zcashconsensus.h,raiser.c,\src\script\zcashconsensus.h,\src\twisted\test\raiser.c,9ba7ca783c191e34d1020f0ee0c759f5,03329048f02326320ae3e07a7faee64c,-9171898141824989028,-8023445050292381540,6,N,48,3117,15
+port_posix.h,raiser.c,\src\leveldb\port\port_posix.h,\src\twisted\test\raiser.c,d5a83a65b2dd5184b4c812843c400a16,03329048f02326320ae3e07a7faee64c,-8032804092731401572,-8023445050292381540,7,N,121,3117,26
+thread_annotations.h,raiser.c,\src\leveldb\port\thread_annotations.h,\src\twisted\test\raiser.c,af9eee1ca47192126580ea56af3a4865,03329048f02326320ae3e07a7faee64c,-8023445049755510628,-8023445050292381540,1,N,39,3117,13
+equi_miner.h,raiser.c,\src\pow\tromp\equi_miner.h,\src\twisted\test\raiser.c,5e4ca816970a572d06589cc05bb752c4,03329048f02326320ae3e07a7faee64c,-8608912864478570468,-8023445050292381540,8,N,554,3117,127

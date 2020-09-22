@@ -1,0 +1,3 @@
+1366-gradle,1698-server
+XmlValidation.java,NullCache.php,\subprojects\core\src\main\java\org\gradle\internal\xml\XmlValidation.java,\lib\private\Memcache\NullCache.php,53066109707e089b56b520a1867c3d2b,439c16ff64dec5dbdd54b6fe3f48bdf5,6644967921542855097,6086521499029436825,4,N,122,37,22
+CustomTaglet.java,SMB.php,\subprojects\language-java\src\integTest\resources\org\gradle\javadoc\JavadocIntegrationTest\handlesTagsAndTaglets\src\taglet\java\CustomTaglet.java,\apps\files_external\lib\Lib\Storage\SMB.php,e7a115a6a5004a46ec4f9fa5e92a0720,b66e512599a7e6ce94036d52a7150ef2,1440090436464823213,1719314850312373182,8,N,39,454,19

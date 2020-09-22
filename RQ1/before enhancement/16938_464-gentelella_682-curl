@@ -1,0 +1,11 @@
+464-gentelella,682-curl
+globalize.js,getinfo.c,\vendors\Flot\lib\globalize.js,\lib\getinfo.c,5859e34a6af3806758409c1cf6b6a681,e4b1b98ba03c964ba505b6b062b00050,5728855313755060435,5729127442933135575,7,N,1177,405,81
+globalize.js,setopt.c,\vendors\Flot\lib\globalize.js,\lib\setopt.c,5859e34a6af3806758409c1cf6b6a681,bf2b060076537e339e4760d60bc6e95d,5728855313755060435,5729127442933135575,7,N,1177,1759,147
+globalize.js,telnet.c,\vendors\Flot\lib\globalize.js,\lib\telnet.c,5859e34a6af3806758409c1cf6b6a681,61f2737780988e684ee1746bbaceed3f,5728855313755060435,5729127442933135575,7,N,1177,1332,233
+globalize.js,tool_getparam.c,\vendors\Flot\lib\globalize.js,\src\tool_getparam.c,5859e34a6af3806758409c1cf6b6a681,a22f253f803124394e83cb5791f88233,5728855313755060435,5729127442933135575,7,N,1177,1940,207
+globalize.js,sectransp.c,\vendors\Flot\lib\globalize.js,\lib\vtls\sectransp.c,5859e34a6af3806758409c1cf6b6a681,19c48e3eed312fd3d5b47ad6a8263888,5728855313755060435,5729127442933135575,7,N,1177,2690,239
+pathSvgToVml.js,getinfo.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\lib\getinfo.c,33048ad2c45faa5606888ee3add887d1,e4b1b98ba03c964ba505b6b062b00050,5730112596751329503,5729127442933135575,8,N,86,405,18
+pathSvgToVml.js,setopt.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\lib\setopt.c,33048ad2c45faa5606888ee3add887d1,bf2b060076537e339e4760d60bc6e95d,5730112596751329503,5729127442933135575,8,N,86,1759,18
+pathSvgToVml.js,telnet.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\lib\telnet.c,33048ad2c45faa5606888ee3add887d1,61f2737780988e684ee1746bbaceed3f,5730112596751329503,5729127442933135575,8,N,86,1332,19
+pathSvgToVml.js,tool_getparam.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\src\tool_getparam.c,33048ad2c45faa5606888ee3add887d1,a22f253f803124394e83cb5791f88233,5730112596751329503,5729127442933135575,8,N,86,1940,32
+pathSvgToVml.js,sectransp.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\lib\vtls\sectransp.c,33048ad2c45faa5606888ee3add887d1,19c48e3eed312fd3d5b47ad6a8263888,5730112596751329503,5729127442933135575,8,N,86,2690,19

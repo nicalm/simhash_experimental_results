@@ -1,0 +1,14 @@
+15780-OpenJK,2257-core
+cg_event.cpp,appconfig.php,\code\cgame\cg_event.cpp,\core\ajax\appconfig.php,191fe31a41d45e7efbf90723e529525a,031cdb064a8d37cd4b40af5d608c8543,5729127442933135575,5152665582536538583,6,N,838,37,11
+cg_event.cpp,MDB2SchemaReader.php,\code\cgame\cg_event.cpp,\lib\private\DB\MDB2SchemaReader.php,191fe31a41d45e7efbf90723e529525a,d8397eafd4a2b3b1ab041811b2ffbaec,5729127442933135575,5731379242747078871,3,N,838,238,73
+cl_cgame.cpp,MDB2SchemaReader.php,\code\client\cl_cgame.cpp,\lib\private\DB\MDB2SchemaReader.php,c3a042356c5b42e32e9ff84c92c8d2b9,d8397eafd4a2b3b1ab041811b2ffbaec,1693902245528643807,5731379242747078871,7,N,1173,238,71
+ui_saber.cpp,MDB2SchemaReader.php,\code\ui\ui_saber.cpp,\lib\private\DB\MDB2SchemaReader.php,9039f84962d47fb0e00d314ab3574b77,d8397eafd4a2b3b1ab041811b2ffbaec,5740104967024816375,5731379242747078871,7,N,773,238,68
+cg_effects.cpp,MDB2SchemaReader.php,\codeJK2\cgame\cg_effects.cpp,\lib\private\DB\MDB2SchemaReader.php,ccbed89223f3252ddea393c86de8ea57,d8397eafd4a2b3b1ab041811b2ffbaec,5695077751543085271,5731379242747078871,8,N,559,238,70
+cg_event.cpp,appconfig.php,\codeJK2\cgame\cg_event.cpp,\core\ajax\appconfig.php,9838700c0fd7963df66b73449d8cfb38,031cdb064a8d37cd4b40af5d608c8543,5729127442933135575,5152665582536538583,6,N,795,37,11
+cg_event.cpp,MDB2SchemaReader.php,\codeJK2\cgame\cg_event.cpp,\lib\private\DB\MDB2SchemaReader.php,9838700c0fd7963df66b73449d8cfb38,d8397eafd4a2b3b1ab041811b2ffbaec,5729127442933135575,5731379242747078871,3,N,795,238,73
+cg_event.c,appconfig.php,\codemp\cgame\cg_event.c,\core\ajax\appconfig.php,9aeab967431d65151304e0217ee67743,031cdb064a8d37cd4b40af5d608c8543,5729127442933135575,5152665582536538583,6,N,2847,37,11
+cg_event.c,MDB2SchemaReader.php,\codemp\cgame\cg_event.c,\lib\private\DB\MDB2SchemaReader.php,9aeab967431d65151304e0217ee67743,d8397eafd4a2b3b1ab041811b2ffbaec,5729127442933135575,5731379242747078871,3,N,2847,238,77
+cg_newDraw.c,appconfig.php,\codemp\cgame\cg_newDraw.c,\core\ajax\appconfig.php,7361f5d64da86f1669d178776bce91ba,031cdb064a8d37cd4b40af5d608c8543,5729127442924746967,5152665582536538583,5,N,705,37,11
+cg_newDraw.c,MDB2SchemaReader.php,\codemp\cgame\cg_newDraw.c,\lib\private\DB\MDB2SchemaReader.php,7361f5d64da86f1669d178776bce91ba,d8397eafd4a2b3b1ab041811b2ffbaec,5729127442924746967,5731379242747078871,4,N,705,238,74
+cl_lan.cpp,MDB2SchemaReader.php,\codemp\client\cl_lan.cpp,\lib\private\DB\MDB2SchemaReader.php,94dc664e55b1be048d30f3828b028840,d8397eafd4a2b3b1ab041811b2ffbaec,-8141955028484577065,5731379242747078871,8,N,434,238,70
+ui_saber.c,MDB2SchemaReader.php,\codemp\ui\ui_saber.c,\lib\private\DB\MDB2SchemaReader.php,3416c596f4ae39e2af5bca012fd29c7f,d8397eafd4a2b3b1ab041811b2ffbaec,5737853167211131127,5731379242747078871,8,N,643,238,69

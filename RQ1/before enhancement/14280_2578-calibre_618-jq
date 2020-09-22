@@ -1,0 +1,6 @@
+2578-calibre,618-jq
+lzxc.c,jv_dtoa.c,\src\calibre\utils\lzx\lzxc.c,\src\jv_dtoa.c,5148bebfcfad4cb4119b4e362bc0686f,e22c5b05bfd24415a3e8d8da3f8791ac,-8059473846773950244,-8023445049755510756,4,N,1033,3652,235
+lzxc.c,lexer.h,\src\calibre\utils\lzx\lzxc.c,\src\lexer.h,5148bebfcfad4cb4119b4e362bc0686f,da2a1a7176c85a8ba5c6ad487a6476ec,-8059473846773950244,-8023445049755510628,3,N,1033,554,53
+lzxc.c,libm.h,\src\calibre\utils\lzx\lzxc.c,\src\libm.h,5148bebfcfad4cb4119b4e362bc0686f,2cd1e495bcbe77e741569181c2fbb01b,-8059473846773950244,-8032452266248775464,8,N,1033,291,48
+msstdint.h,jv_dtoa.c,\src\calibre\utils\lzx\msstdint.h,\src\jv_dtoa.c,2dacb8ee9f393a22b1266f714d3efcd6,e22c5b05bfd24415a3e8d8da3f8791ac,-2830794129776780644,-8023445049755510756,8,N,138,3652,20
+msstdint.h,lexer.h,\src\calibre\utils\lzx\msstdint.h,\src\lexer.h,2dacb8ee9f393a22b1266f714d3efcd6,da2a1a7176c85a8ba5c6ad487a6476ec,-2830794129776780644,-8023445049755510628,7,N,138,554,20

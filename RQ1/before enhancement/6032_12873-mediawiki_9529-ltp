@@ -1,0 +1,8 @@
+12873-mediawiki,9529-ltp
+LogFormatter.php,json_writer.cpp,\includes\logging\LogFormatter.php,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,1a5b87b8ddd192cf448a8d7e785d9d75,b6ab383125673428393a9226be5df7ad,5729127442933127383,973042564577409238,7,N,551,1063,142
+FormatMetadata.php,json_writer.cpp,\includes\media\FormatMetadata.php,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,d4c424b998a37738addfaa8660b2d286,b6ab383125673428393a9226be5df7ad,5729109850747091159,973042564577409238,7,N,1326,1063,196
+IPTC.php,json_reader.cpp,\includes\media\IPTC.php,\thirdparty\jsoncpp\src\lib_json\json_reader.cpp,5acd3160fef09ca8547c657db582b971,76bf98ba073ac08c1332f620f5bff065,5729127442933135575,6814424653137246423,8,N,377,1814,117
+IPTC.php,json_writer.cpp,\includes\media\IPTC.php,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,5acd3160fef09ca8547c657db582b971,b6ab383125673428393a9226be5df7ad,5729127442933135575,973042564577409238,6,N,377,1063,95
+bench_if_switch.php,json_reader.cpp,\maintenance\benchmarks\bench_if_switch.php,\thirdparty\jsoncpp\src\lib_json\json_reader.cpp,ebc9d6c5664eaffdc591b48a194dced3,76bf98ba073ac08c1332f620f5bff065,5729127442933135575,6814424653137246423,8,N,73,1814,27
+bench_if_switch.php,json_writer.cpp,\maintenance\benchmarks\bench_if_switch.php,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,ebc9d6c5664eaffdc591b48a194dced3,b6ab383125673428393a9226be5df7ad,5729127442933135575,973042564577409238,6,N,73,1063,24
+DiscordianDateTimeFormatter.js,json_writer.cpp,\resources\src\mediawiki.widgets.datetime\DiscordianDateTimeFormatter.js,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,e5fb70604ffca02318e9ccef1c63882a,b6ab383125673428393a9226be5df7ad,5729107653737097943,973042564577409238,8,N,445,1063,82

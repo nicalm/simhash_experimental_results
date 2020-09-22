@@ -1,0 +1,8 @@
+13324-librenms,2909-mongoose
+rewrites.php,main.c,\includes\rewrites.php,\examples\STM32F4_CC3100\main.c,5389d55c6eafa211ede2994f342bca9b,15dc0f0244c4743afaf0aa2621563edc,5729127442933135575,784173954716186839,7,N,1602,124,32
+rewrites.php,app.c,\includes\rewrites.php,\examples\PIC32\mqtt_client\firmware\src\app.c,5389d55c6eafa211ede2994f342bca9b,dc194e59405b227b41c71648ad3b810e,5729127442933135575,5675084247136270494,7,N,1602,145,44
+rewrites.php,drv_usart_mapping.c,\includes\rewrites.php,\examples\PIC32\mqtt_client\firmware\src\system_config\mx795_CC3100_e16\framework\driver\usart\src\drv_usart_mapping.c,5389d55c6eafa211ede2994f342bca9b,6db6768bb9f8442b262aaa5571de2592,5729127442933135575,5677283270660241875,7,N,1602,331,129
+DeviceGroupPolicy.php,wifi.c,\app\Policies\DeviceGroupPolicy.php,\examples\MSP432\ccs\MSP432_MG_hello\wifi.c,3e370a08c1ce39bc8142215a13a42cf8,a565f223dd5979f5fe7136237016c763,1431065645024035756,1431364162414207406,7,N,43,108,20
+viptela.inc.php,main.c,\includes\polling\os\viptela.inc.php,\examples\STM32F4_CC3100\main.c,c64de710870736d919a9de98ce834a46,15dc0f0244c4743afaf0aa2621563edc,5729127442928941271,784173954716186839,8,N,48,124,13
+viptela.inc.php,app.c,\includes\polling\os\viptela.inc.php,\examples\PIC32\mqtt_client\firmware\src\app.c,c64de710870736d919a9de98ce834a46,dc194e59405b227b41c71648ad3b810e,5729127442928941271,5675084247136270494,8,N,48,145,15
+viptela.inc.php,drv_usart_mapping.c,\includes\polling\os\viptela.inc.php,\examples\PIC32\mqtt_client\firmware\src\system_config\mx795_CC3100_e16\framework\driver\usart\src\drv_usart_mapping.c,c64de710870736d919a9de98ce834a46,6db6768bb9f8442b262aaa5571de2592,5729127442928941271,5677283270660241875,8,N,48,331,15

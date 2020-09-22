@@ -1,0 +1,14 @@
+2909-mongoose,4477-libsass
+mongoose.c,base.h,\mongoose.c,\include\sass\base.h,bb26ef6c18547f7fea15fb29572c30d7,26dfd0d8cb029fd73ca71c0971ecc070,-7951396243220670308,-8023163575290504548,8,N,12838,63,22
+mongoose.h,base.h,\mongoose.h,\include\sass\base.h,2d0665a2e8d3cf0feb3b958a851f071d,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,3259,63,26
+mg_features.h,base.h,\src\mg_features.h,\include\sass\base.h,f465b98573fad4b5e022cec4075e3e67,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,130,63,14
+cs_dbg.h,base.h,\examples\CC3200\cs_dbg.h,\include\sass\base.h,cf16deae79500e73991cf8234e29e27a,26dfd0d8cb029fd73ca71c0971ecc070,-7447169015934035812,-8023163575290504548,7,N,58,63,18
+cs_dbg.h,base.h,\src\common\cs_dbg.h,\include\sass\base.h,cf16deae79500e73991cf8234e29e27a,26dfd0d8cb029fd73ca71c0971ecc070,-7447169015934035812,-8023163575290504548,7,N,58,63,18
+mg_mem.h,base.h,\src\common\mg_mem.h,\include\sass\base.h,eb1e1ae46ae1bc1797e63b3f784aef13,26dfd0d8cb029fd73ca71c0971ecc070,1163898190080301212,-8023163575290504548,7,N,21,63,11
+platform.h,base.h,\src\common\platform.h,\include\sass\base.h,467a3289a3b49bcd67021f48eba8df56,26dfd0d8cb029fd73ca71c0971ecc070,-8023242739592931176,-8023163575290504548,6,N,118,63,15
+stdafx.h,base.h,\examples\WinCE\http_server\stdafx.h,\include\sass\base.h,33142f3ad78ef23b3e6f2a718c5fbeb6,26dfd0d8cb029fd73ca71c0971ecc070,-3411480854886295396,-8023163575290504548,7,N,36,63,9
+platform_unix.h,base.h,\src\common\platforms\platform_unix.h,\include\sass\base.h,baebcbb3950c55896dce83ea69594fdd,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,111,63,13
+platform_wince.h,base.h,\src\common\platforms\platform_wince.h,\include\sass\base.h,551934bdf0092886b7a2f9895977d52b,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049757607780,-8023163575290504548,6,N,138,63,17
+platform_windows.h,base.h,\src\common\platforms\platform_windows.h,\include\sass\base.h,1642514a47bfd6eb32ee42269aa3c12d,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,147,63,19
+nrf_drv_config.h,base.h,\examples\nRF52\http\config\nrf_drv_config.h,\include\sass\base.h,73cecf83b90880bd616841c3810ace37,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049889730404,-8023163575290504548,7,N,220,63,11
+mg_lwip.h,base.h,\src\common\platforms\lwip\mg_lwip.h,\include\sass\base.h,11b79956ecf8353c59ad314eaeda883f,26dfd0d8cb029fd73ca71c0971ecc070,-8018941450128140260,-8023163575290504548,7,N,41,63,9

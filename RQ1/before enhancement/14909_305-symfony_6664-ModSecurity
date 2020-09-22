@@ -1,0 +1,5 @@
+305-symfony,6664-ModSecurity
+IpValidator.php,rbl.cc,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\operators\rbl.cc,7ca48c5d09328c72e03da3c6a432f9bf,f5e38e024eae4da010e654d26348ad95,5746860357875939543,5747072022722656727,7,N,69,186,22
+IpValidator.php,seclang-parser.cc,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\parser\seclang-parser.cc,7ca48c5d09328c72e03da3c6a432f9bf,c95834041ac82565ed4d4a4bccd1b864,5746860357875939543,5729127442933135575,4,N,69,6079,23
+IpValidator.php,phase.h,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\utils\phase.h,7ca48c5d09328c72e03da3c6a432f9bf,a09f3ae3e8191f752c4eb96a4ac598b6,5746860357875939543,-1170387186198464297,5,N,69,38,11
+NullSessionHandler.php,severity.cc,\src\Symfony\Component\HttpFoundation\Session\Storage\Handler\NullSessionHandler.php,\src\actions\severity.cc,786ac9eab0af66dd6bfb8d6cb6efe2be,497d4e061fc56cdefb643c5f6d57a643,6662982251064424857,6717025446861306266,5,N,33,62,13

@@ -1,0 +1,15 @@
+15910-gdal,9975-hexchat
+gdalallregister.cpp,typedef.h,\gdal\frmts\gdalallregister.cpp,\src\common\typedef.h,a365e5452ddce806794149da67d50455,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,413,20,6
+cpl_port.h,typedef.h,\gdal\port\cpl_port.h,\src\common\typedef.h,71330006573f1521e264070303affea4,ad3525a10e4064f94c5205693b6e1c78,-8023445049755445092,-8059473984749774204,8,N,741,20,7
+cpl_vsil_unix_stdio_64.cpp,typedef.h,\gdal\port\cpl_vsil_unix_stdio_64.cpp,\src\common\typedef.h,e1ba4ac8e66258d902b54051498b258c,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510626,-8059473984749774204,8,N,571,20,7
+ecwsdk_headers.h,typedef.h,\gdal\frmts\ecw\ecwsdk_headers.h,\src\common\typedef.h,e2b797641ece6760a86943232bb5879d,ad3525a10e4064f94c5205693b6e1c78,-8023445051902994276,-8059473984749774204,8,N,59,20,7
+zconf.h,typedef.h,\gdal\frmts\zlib\zconf.h,\src\common\typedef.h,b93889c9aa614e0a60701177e6b473f5,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,252,20,8
+zutil.h,typedef.h,\gdal\frmts\zlib\zutil.h,\src\common\typedef.h,a577c96943bc2ad9b2466928935525fc,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,181,20,8
+tif_codec.c,typedef.h,\gdal\frmts\gtiff\libtiff\tif_codec.c,\src\common\typedef.h,0e23c03d7d1683bda021c05ce2b55128,ad3525a10e4064f94c5205693b6e1c78,-7735214673670907236,-8059473984749774204,8,N,111,20,7
+jmorecfg.h,typedef.h,\gdal\frmts\jpeg\libjpeg\jmorecfg.h,\src\common\typedef.h,902a410cdfe1a865671d97c677149edf,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,134,20,7
+png.h,typedef.h,\gdal\frmts\png\libpng\png.h,\src\common\typedef.h,7b894aa1099d1e0ad880045d7a4111ce,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,2159,20,7
+pngconf.h,typedef.h,\gdal\frmts\png\libpng\pngconf.h,\src\common\typedef.h,0cad71cd1915fe307a98f5d32048e125,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1093,20,7
+pngread.c,typedef.h,\gdal\frmts\png\libpng\pngread.c,\src\common\typedef.h,a11dde060d3d3d72a709ee090f8d90d4,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1213,20,7
+pngwrite.c,typedef.h,\gdal\frmts\png\libpng\pngwrite.c,\src\common\typedef.h,d2a3eadf424ef5068f24d7d4025a0a66,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510564,-8059473984749774204,8,N,1163,20,7
+ogrregisterall.cpp,typedef.h,\gdal\ogr\ogrsf_frmts\generic\ogrregisterall.cpp,\src\common\typedef.h,2768e06ddf3a752aacbcf09032e5a66f,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,279,20,6
+base.h,typedef.h,\gdal\ogr\ogrsf_frmts\flatgeobuf\flatbuffers\base.h,\src\common\typedef.h,9bd277ca10ab12686b502819c20d28b0,ad3525a10e4064f94c5205693b6e1c78,-9176366691801311076,-8059473984749774204,7,N,280,20,7

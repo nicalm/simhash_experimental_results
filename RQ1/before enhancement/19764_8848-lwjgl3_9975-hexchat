@@ -1,0 +1,9 @@
+8848-lwjgl3,9975-hexchat
+Remotery.h,typedef.h,\modules\lwjgl\remotery\src\main\c\Remotery.h,\src\common\typedef.h,12e50b2dc5c0c2bdbc5358b702b71df0,ad3525a10e4064f94c5205693b6e1c78,-8023445049755509604,-8059473984749774204,8,N,373,20,7
+vulkan.h,typedef.h,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,\src\common\typedef.h,a7ae20d678df3f06a86ce72d995f40ae,ad3525a10e4064f94c5205693b6e1c78,1163898190080301212,-8059473984749774204,7,N,49,20,6
+glew.c,typedef.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\src\glew.c,\src\common\typedef.h,b1947b9acdf4519fc27c6bbcd5781bdc,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,25609,20,8
+eglew.h,typedef.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\eglew.h,\src\common\typedef.h,ecc2eb96c703f86dbe9c6bf13607881a,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1617,20,6
+glcorearb.h,typedef.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glcorearb.h,\src\common\typedef.h,c374a6cfc3a7513bdf7894a715b8f505,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,3418,20,7
+glew.h,typedef.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glew.h,\src\common\typedef.h,402cf29ca4f1c6a6736874597458a5f1,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,17894,20,8
+glxew.h,typedef.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glxew.h,\src\common\typedef.h,f9dc87406573632578b48da4cf5fa041,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1145,20,7
+wglew.h,typedef.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\wglew.h,\src\common\typedef.h,f4b78ad73084060b622a4b7e766fe2cb,ad3525a10e4064f94c5205693b6e1c78,-8023445049759704932,-8059473984749774204,8,N,952,20,7

@@ -1,0 +1,5 @@
+12658-Espruino,1698-server
+usbd_cdc_if_template.c,MDB2SchemaReader.php,\targetlibs\stm32f2\usblib\usbd_cdc_if_template.c,\lib\private\DB\MDB2SchemaReader.php,fc746828c603b8a415ff05fad2b3a4af,d647cd0d11a5a459553ceaf5b5657b44,5729092258560261335,5731379242742884567,6,N,74,240,20
+stm32l4xx_ll_rcc.c,MDB2SchemaReader.php,\targetlibs\stm32l4\lib\STM32L4xx_HAL_Driver\Src\stm32l4xx_ll_rcc.c,\lib\private\DB\MDB2SchemaReader.php,28b935e43623e03a5b5c20596c5c31b1,d647cd0d11a5a459553ceaf5b5657b44,5733631042552117463,5731379242742884567,6,N,1201,240,72
+comparisons.cc,MDB2SchemaReader.php,\libs\tensorflow\tensorflow\lite\experimental\micro\kernels\comparisons.cc,\lib\private\DB\MDB2SchemaReader.php,e10daaec22513239d0abf46ffeb354d3,d647cd0d11a5a459553ceaf5b5657b44,7998941655127865495,5731379242742884567,7,N,303,240,59
+app_usbd_hid.c,MDB2SchemaReader.php,\targetlibs\nrf5x_12\components\libraries\usbd\class\hid\app_usbd_hid.c,\lib\private\DB\MDB2SchemaReader.php,17c29ab1450feea705229c4697cfae20,d647cd0d11a5a459553ceaf5b5657b44,6846020219240753399,5731379242742884567,6,N,294,240,67

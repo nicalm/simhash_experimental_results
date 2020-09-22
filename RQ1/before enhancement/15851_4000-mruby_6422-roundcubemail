@@ -1,0 +1,5 @@
+4000-mruby,6422-roundcubemail
+proto_to_ruby.cpp,rcube_tnef_decoder.php,\oss-fuzz\proto_to_ruby.cpp,\program\lib\Roundcube\rcube_tnef_decoder.php,343a45cf3c8497b45182f0170dd23cc0,8ca46cd084af91332151df25d1c4bd66,5729127442933135575,5729127442933266647,1,N,431,520,104
+proto_to_ruby.cpp,rcube_sieve_script.php,\oss-fuzz\proto_to_ruby.cpp,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,343a45cf3c8497b45182f0170dd23cc0,3c3c719b9a27e12464461daf90f00d1d,5729127442933135575,5153229640599894231,5,N,431,1009,122
+codedump.c,rcube_tnef_decoder.php,\src\codedump.c,\program\lib\Roundcube\rcube_tnef_decoder.php,838fd904bb528b1b9ebdfc72d4fd5069,8ca46cd084af91332151df25d1c4bd66,5729127442933135575,5729127442933266647,1,N,525,520,84
+codedump.c,rcube_sieve_script.php,\src\codedump.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,838fd904bb528b1b9ebdfc72d4fd5069,3c3c719b9a27e12464461daf90f00d1d,5729127442933135575,5153229640599894231,5,N,525,1009,94

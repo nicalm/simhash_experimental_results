@@ -1,0 +1,7 @@
+11788-fbthrift,7408-DeepVideoAnalytics
+thrift_config.h,bbox.c,\thrift\lib\cpp\thrift_config.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,27c650bbff0590e9f2fafe163b055489,b42f28bb593ba51126ab3c36f2280e44,-8023445049755510628,-7735003018152322916,5,N,220,5912,75
+thrift_config.h,cython_nms.c,\thrift\lib\cpp\thrift_config.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,27c650bbff0590e9f2fafe163b055489,340c61e73ba74d7820ff458fae32d716,-8023445049755510628,-7735003018152322916,5,N,220,6623,75
+thrift_config.h,gpu_nms.c,\thrift\lib\cpp\thrift_config.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,27c650bbff0590e9f2fafe163b055489,c5f744cc55310f8443ffae08bc289c17,-8023445049755510628,-7735003018152322916,5,N,220,5655,75
+thrift_config.h,gpu_nms.cpp,\thrift\lib\cpp\thrift_config.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,27c650bbff0590e9f2fafe163b055489,2472408016d358310deb015143185fa8,-8023445049755510628,-7590887830068078436,7,N,220,4948,76
+load_handler.py,admin.py,\thrift\perf\py3\load_handler.py,\server\dvaapp\admin.py,528cdb851b28e6a7a3f170f5a957043b,f0db44fda07145839decb1bbed4578ed,9214514486163703191,9217329227336156549,7,N,67,76,8
+TProtocol.py,admin.py,\thrift\lib\py\protocol\TProtocol.py,\server\dvaapp\admin.py,535e11dd2c7d17509b8d6e04dcf37f02,f0db44fda07145839decb1bbed4578ed,9217329227336156549,9217329227336156549,0,N,175,76,24

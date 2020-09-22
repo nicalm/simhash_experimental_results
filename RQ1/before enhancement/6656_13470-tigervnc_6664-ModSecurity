@@ -1,0 +1,5 @@
+13470-tigervnc,6664-ModSecurity
+SSLEngineManager.java,seclang-parser.cc,\java\com\tigervnc\network\SSLEngineManager.java,\src\parser\seclang-parser.cc,39e909ecd9ccf04cb9bad885f45ab7de,c95834041ac82565ed4d4a4bccd1b864,3423284433716820183,5729127442933135575,4,N,127,6079,29
+SSLEngineManager.java,phase.h,\java\com\tigervnc\network\SSLEngineManager.java,\src\utils\phase.h,39e909ecd9ccf04cb9bad885f45ab7de,a09f3ae3e8191f752c4eb96a4ac598b6,3423284433716820183,-1170387186198464297,5,N,127,38,11
+ServerParams.java,seclang-parser.cc,\java\com\tigervnc\rfb\ServerParams.java,\src\parser\seclang-parser.cc,81f51e625e63390d7951b591bd25df78,c95834041ac82565ed4d4a4bccd1b864,6881714696003043031,5729127442933135575,7,N,184,6079,37
+xvnc.c,check_config.h,\unix\xserver\hw\vnc\xvnc.c,\others\mbedtls\check_config.h,64de174f413a46b56c689e3d2f0ca711,306e92b56ac8d1b085c9f72fb65f46a7,-7955908787655354212,-8023445049755510628,8,N,1442,402,54

@@ -1,0 +1,5 @@
+6422-roundcubemail,67701-r-source
+rcube_tnef_decoder.php,Rstrptime.h,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\main\Rstrptime.h,8ca46cd084af91332151df25d1c4bd66,407931813825b80d1daf2fc23d1841da,5729127442933266647,5585012323576749271,5,N,520,1001,122
+rcube_tnef_decoder.php,printf-args.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\extra\intl\printf-args.c,8ca46cd084af91332151df25d1c4bd66,32e9cc807cac7369c6c119a76b828fae,5729127442933266647,6882048947539982551,2,N,520,141,39
+rcube_tnef_decoder.php,gramRd.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\library\tools\src\gramRd.c,8ca46cd084af91332151df25d1c4bd66,2b9b861b2d2889b8b1da360bdc301c6f,5729127442933266647,5728845959400298719,7,N,520,3354,132
+rcube_sieve_script.php,printf-args.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\src\extra\intl\printf-args.c,3c3c719b9a27e12464461daf90f00d1d,32e9cc807cac7369c6c119a76b828fae,5153229640599894231,6882048947539982551,6,N,1009,141,39

@@ -1,0 +1,7 @@
+702-swoole-src,86-netdata
+php_swoole.h,libnetdata.h,\php_swoole.h,\libnetdata\libnetdata.h,337f462588e1c8f2aaeb066e066ab451,b36073eea8dc836d3f37e426aebdabda,-9176367098749461484,-8023445049755510628,8,N,961,248,45
+swoole.cc,libnetdata.h,\swoole.cc,\libnetdata\libnetdata.h,51095f5d0c729dc304ea7d3b74a45710,b36073eea8dc836d3f37e426aebdabda,-8023444500268134244,-8023445049755510628,3,N,735,248,43
+swoole.cc,clocks.h,\swoole.cc,\libnetdata\clocks\clocks.h,51095f5d0c729dc304ea7d3b74a45710,817f185c065ee719f0a0f5d506401b1f,-8023444500268134244,-7879330084279756644,8,N,735,66,12
+swoole_socket_coro.cc,libnetdata.h,\swoole_socket_coro.cc,\libnetdata\libnetdata.h,8f05b0e20fc4d2f3859f5f9463ada7b1,b36073eea8dc836d3f37e426aebdabda,-5699587642032351076,-8023445049755510628,3,N,1368,248,35
+context.h,libnetdata.h,\include\context.h,\libnetdata\libnetdata.h,1006969c83b25350b55292d6545acfc0,b36073eea8dc836d3f37e426aebdabda,-8019503850310051684,-8023445049755510628,6,N,115,248,15
+win32.h,libnetdata.h,\thirdparty\hiredis\win32.h,\libnetdata\libnetdata.h,0ec99e391511695a9d7ef00f6d95b969,b36073eea8dc836d3f37e426aebdabda,-7880077529720759656,-8023445049755510628,8,N,32,248,5

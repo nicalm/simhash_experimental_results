@@ -1,0 +1,2 @@
+12891-libjpeg-turbo,1818-SignalR
+jsimd.c,NoOpPerformanceCounter.cs,\simd\powerpc\jsimd.c,\src\Microsoft.AspNet.SignalR.Core\Infrastructure\NoOpPerformanceCounter.cs,ba0a6531fb787ea48ed0da5d49d2faf9,a1a30aedcbb32f41647f23dcee223957,-7529345340363773229,-7529341973109474638,8,N,696,42,25

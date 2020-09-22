@@ -1,0 +1,4 @@
+211-cpython,6422-roundcubemail
+ast_opt.c,rcube_tnef_decoder.php,\Python\ast_opt.c,\program\lib\Roundcube\rcube_tnef_decoder.php,0f0937406669337c16f02a758000b618,8ca46cd084af91332151df25d1c4bd66,5747141845603367111,5729127442933266647,5,N,686,520,131
+structmember.c,rcube_tnef_decoder.php,\Python\structmember.c,\program\lib\Roundcube\rcube_tnef_decoder.php,c7a45e587f12849d05de4ab18b2e3e51,8ca46cd084af91332151df25d1c4bd66,1117422732808075383,5729127442933266647,6,N,272,520,68
+util.c,rcube_tnef_decoder.php,\Modules\_sqlite\util.c,\program\lib\Roundcube\rcube_tnef_decoder.php,1a59c3c35b81c3b98a8e33c77497e6bd,8ca46cd084af91332151df25d1c4bd66,5732505692266838743,5729127442933266647,8,N,93,520,22

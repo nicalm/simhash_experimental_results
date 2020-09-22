@@ -1,0 +1,15 @@
+790-libuv,9023-zoneminder
+test-list.h,zm_ffmpeg.h,\test\test-list.h,\src\zm_ffmpeg.h,34c37e38fd3367fbe3d6e9280bf86a06,7e2fcd3ba00999285d6aaf2ef78cc14d,-7374645228437448676,-8023445049755510628,4,N,951,281,40
+test-uname.c,zm_ffmpeg.h,\test\test-uname.c,\src\zm_ffmpeg.h,e4168fcb68ae66e9d30927d67519b6fb,7e2fcd3ba00999285d6aaf2ef78cc14d,-7455991513878439779,-8023445049755510628,7,N,37,281,9
+unix.h,zm_ffmpeg.h,\include\uv\unix.h,\src\zm_ffmpeg.h,c02256e5f7072f506a6fff7eb786b911,7e2fcd3ba00999285d6aaf2ef78cc14d,-7735320089281110756,-8023445049755510628,8,N,394,281,48
+getaddrinfo.c,zm_ffmpeg.h,\src\unix\getaddrinfo.c,\src\zm_ffmpeg.h,e8e49cecf77e5d3f516ab013154bbd9c,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023444777025087336,-8023445049755510628,3,N,188,281,23
+getaddrinfo.c,zm_signal.h,\src\unix\getaddrinfo.c,\src\zm_signal.h,e8e49cecf77e5d3f516ab013154bbd9c,95bf5749d181b4fa528e43c6e262e7a0,-8023444777025087336,-8057222049236199396,8,N,188,27,5
+internal.h,zm_ffmpeg.h,\src\unix\internal.h,\src\zm_ffmpeg.h,371ffd2ac622ba8f4ae44ae51c531f3d,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445069074474788,-8023445049755510628,4,N,209,281,28
+internal.h,zm_signal.h,\src\unix\internal.h,\src\zm_signal.h,371ffd2ac622ba8f4ae44ae51c531f3d,95bf5749d181b4fa528e43c6e262e7a0,-8023445069074474788,-8057222049236199396,7,N,209,27,5
+linux-syscalls.c,zm_ffmpeg.h,\src\unix\linux-syscalls.c,\src\zm_ffmpeg.h,e03aa3ff0bab5e21466ddb93bc58c23e,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023444499991568996,-8023445049755510628,5,N,292,281,52
+handle-inl.h,stream.php,\src\win\handle-inl.h,\web\ajax\stream.php,34080acd31e6a3b5bf545c24c6e85c3f,2de755109bc4d6ef819757d397d0693e,5729127442933135571,8056925500321870547,8,N,110,145,17
+handle-inl.h,control_functions.php,\src\win\handle-inl.h,\web\includes\control_functions.php,34080acd31e6a3b5bf545c24c6e85c3f,c1201120aa45568b6a8a04c25886293a,5729127442933135571,-3494240195874867113,5,N,110,715,17
+winapi.h,zm_ffmpeg.h,\src\win\winapi.h,\src\zm_ffmpeg.h,4f2f56dcce5d652768e5e4cfcf6661be,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,3569,281,39
+winapi.h,zm_signal.h,\src\win\winapi.h,\src\zm_signal.h,4f2f56dcce5d652768e5e4cfcf6661be,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,3569,27,4
+winapi.h,ow-crypt.h,\src\win\winapi.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,4f2f56dcce5d652768e5e4cfcf6661be,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,3569,23,4
+winsock.c,stream.php,\src\win\winsock.c,\web\ajax\stream.php,45bd538605438271bac4b00e72b2329a,2de755109bc4d6ef819757d397d0693e,5717274707594097363,8056925500321870547,7,N,426,145,36

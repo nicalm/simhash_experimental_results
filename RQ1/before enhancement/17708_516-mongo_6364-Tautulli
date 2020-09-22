@@ -1,0 +1,7 @@
+516-mongo,6364-Tautulli
+errors.py,exceptions.py,\buildscripts\resmokelib\errors.py,\lib\jwt\exceptions.py,a7e57c04ed80ab4af1b3af6dacea3f0a,d0847e435d570a4733ae168ba489349f,9217329227336156577,9217320431243134341,3,N,16,26,6
+errors.py,exceptions.py,\buildscripts\resmokelib\errors.py,\lib\urllib3\exceptions.py,a7e57c04ed80ab4af1b3af6dacea3f0a,25ddb32d1336bad7af00549477feb5f7,9217329227336156577,9217330326845687173,4,N,16,128,6
+Environment.py,users.py,\src\third_party\scons-3.1.2\scons-local-3.1.2\SCons\Environment.py,\plexpy\users.py,7bfa45b5f7598d506c6ab085c493186c,ab8cab562d2b41135a71eddc8c881713,9014623535428927850,9010119867617509867,8,N,1560,750,62
+Environment.py,rrule.py,\src\third_party\scons-3.1.2\scons-local-3.1.2\SCons\Environment.py,\lib\dateutil\rrule.py,7bfa45b5f7598d506c6ab085c493186c,ae14d13c1254723cddb30fd1ca6bae71,9014623535428927850,8005751385906610542,8,N,1560,1022,85
+Warnings.py,exceptions.py,\src\third_party\scons-3.1.2\scons-local-3.1.2\SCons\Warnings.py,\lib\jwt\exceptions.py,36c1226f9b629c5cd0d0facab0d27b0b,d0847e435d570a4733ae168ba489349f,9217329227336156549,9217320431243134341,1,N,114,26,9
+Warnings.py,exceptions.py,\src\third_party\scons-3.1.2\scons-local-3.1.2\SCons\Warnings.py,\lib\urllib3\exceptions.py,36c1226f9b629c5cd0d0facab0d27b0b,25ddb32d1336bad7af00549477feb5f7,9217329227336156549,9217330326845687173,2,N,114,128,25

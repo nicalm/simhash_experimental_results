@@ -1,0 +1,12 @@
+1460-iTerm2,18490-libpcap
+ini.h,ethertype.h,\ThirdParty\inih\ini.h,\ethertype.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,5246502b0d1f4ddb65891829be60f5ec,-8023445049755510564,-8023445049755510628,1,N,57,90,15
+ini.h,fad-getad.c,\ThirdParty\inih\ini.h,\fad-getad.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,9c64c9481787651e104cab2074b25048,-8023445049755510564,-8023445049889728356,2,N,57,123,14
+ini.h,llc.h,\ThirdParty\inih\ini.h,\llc.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,10c1e28c5565502bc994541ef75544ce,-8023445049755510564,-8023453845848565604,3,N,57,64,14
+ini.h,nlpid.h,\ThirdParty\inih\ini.h,\nlpid.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,b63e6f75fb9eead35eba6d0af2aa019a,-8023445049755510564,-8000927047593178980,7,N,57,27,6
+ini.h,pcap-dos.h,\ThirdParty\inih\ini.h,\pcap-dos.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,c61d652370686a7d724284128012b7b8,-8023445049755510564,-8005430668425897828,3,N,57,171,16
+ini.h,portability.h,\ThirdParty\inih\ini.h,\portability.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,8986c6d4c1ff178921bc3ac8607e4b52,-8023445049755510564,-9176120264294606692,5,N,57,61,20
+BetterFontPicker-Swift.h,ethertype.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\ethertype.h,9cdfc1f6cb7907e29a4e6b2cf0041946,5246502b0d1f4ddb65891829be60f5ec,-8023479959251789668,-8023445049755510628,3,N,335,90,30
+BetterFontPicker-Swift.h,fad-getad.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\fad-getad.c,9cdfc1f6cb7907e29a4e6b2cf0041946,9c64c9481787651e104cab2074b25048,-8023479959251789668,-8023445049889728356,4,N,335,123,15
+BetterFontPicker-Swift.h,llc.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\llc.h,9cdfc1f6cb7907e29a4e6b2cf0041946,10c1e28c5565502bc994541ef75544ce,-8023479959251789668,-8023453845848565604,5,N,335,64,14
+BetterFontPicker-Swift.h,pcap-dos.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\pcap-dos.h,9cdfc1f6cb7907e29a4e6b2cf0041946,c61d652370686a7d724284128012b7b8,-8023479959251789668,-8005430668425897828,5,N,335,171,23
+BetterFontPicker-Swift.h,portability.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\portability.h,9cdfc1f6cb7907e29a4e6b2cf0041946,8986c6d4c1ff178921bc3ac8607e4b52,-8023479959251789668,-9176120264294606692,5,N,335,61,23

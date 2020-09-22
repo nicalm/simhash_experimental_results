@@ -1,0 +1,7 @@
+10841-gimp,464-gentelella
+language.c,globalize.js,\app\language.c,\vendors\Flot\lib\globalize.js,4139ff31319ee41dc528275c17de6aaa,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,699,1177,59
+language.c,pathSvgToVml.js,\app\language.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,4139ff31319ee41dc528275c17de6aaa,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,699,86,17
+gimpcoreconfig.c,globalize.js,\app\config\gimpcoreconfig.c,\vendors\Flot\lib\globalize.js,60331a7dddac7aef0155c034ea225f13,5859e34a6af3806758409c1cf6b6a681,5729127442933135559,5728855313755060435,8,N,1172,1177,72
+gimpdialogconfig.c,globalize.js,\app\config\gimpdialogconfig.c,\vendors\Flot\lib\globalize.js,3820fc02cf2195589ecaca19c1f1acba,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,821,1177,69
+gimpdialogconfig.c,pathSvgToVml.js,\app\config\gimpdialogconfig.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,3820fc02cf2195589ecaca19c1f1acba,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,821,86,18
+gimpdisplayshell-title.c,globalize.js,\app\display\gimpdisplayshell-title.c,\vendors\Flot\lib\globalize.js,c3eb1838970cef0deeb23eaf230888b6,5859e34a6af3806758409c1cf6b6a681,5738134642187876567,5728855313755060435,8,N,408,1177,84

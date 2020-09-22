@@ -1,0 +1,4 @@
+1615-rufus,2496-proxygen
+rufus.c,HTTPEvent.cpp,\src\rufus.c,\proxygen\lib\http\session\HTTPEvent.cpp,d19095261b720a37c948c7a870511e62,f531f441ddbf402ce38379a73fb55e94,2198305334806247646,5729127442933135573,8,N,2906,33,11
+rufus.c,HTTPTransactionEgressSM.cpp,\src\rufus.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,d19095261b720a37c948c7a870511e62,efc78e843307fbae0fa015e7df0a883b,2198305334806247646,5729127442933135575,7,N,2906,102,24
+rufus.c,HTTPTransactionIngressSM.cpp,\src\rufus.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,d19095261b720a37c948c7a870511e62,da1ef343309f9dc24e096acd73b993d0,2198305334806247646,5729127442933135575,7,N,2906,110,27

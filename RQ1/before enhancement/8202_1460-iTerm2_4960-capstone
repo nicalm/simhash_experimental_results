@@ -1,0 +1,10 @@
+1460-iTerm2,4960-capstone
+iTermMetalGlyphKey.h,cstool_arm64.c,\sources\iTermMetalGlyphKey.h,\cstool\cstool_arm64.c,ec93bd52c1bfb24f6f1a8d5c07191b02,846ffa7b48a0f0b4b91af38d55f637ad,5729057074222575775,5729127445080684759,6,N,92,117,17
+iTermMetalGlyphKey.h,ocaml.c,\sources\iTermMetalGlyphKey.h,\bindings\ocaml\ocaml.c,ec93bd52c1bfb24f6f1a8d5c07191b02,4ff3aa66dfcf3a89c8d9c731dacee422,5729057074222575775,5729127442933135575,6,N,92,960,17
+ini.h,cs.c,\ThirdParty\inih\ini.h,\cs.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,28b740cedafbc72ff6d105bcf67b66ec,-8023445049755510564,-8024007991656916772,4,N,57,1274,18
+ini.h,test_basic.c,\ThirdParty\inih\ini.h,\tests\test_basic.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,a31ca8d3bb8a75874920d317a6ad1579,-8023445049755510564,-8018942549639704420,5,N,57,357,17
+ini.h,test_detail.c,\ThirdParty\inih\ini.h,\tests\test_detail.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,3d78601cdc003b4b4483b95018434b0a,-8023445049755510564,-7442486195382783844,8,N,57,333,17
+ini.h,test_iter.c,\ThirdParty\inih\ini.h,\tests\test_iter.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,25690cf4ebb5bd2f561bd05964d131ee,-8023445049755510564,-8023446149267066732,6,N,57,274,17
+BetterFontPicker-Swift.h,cs.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\cs.c,9cdfc1f6cb7907e29a4e6b2cf0041946,28b740cedafbc72ff6d105bcf67b66ec,-8023479959251789668,-8024007991656916772,8,N,335,1274,60
+BetterFontPicker-Swift.h,test_basic.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\tests\test_basic.c,9cdfc1f6cb7907e29a4e6b2cf0041946,a31ca8d3bb8a75874920d317a6ad1579,-8023479959251789668,-8018942549639704420,7,N,335,357,27
+BetterFontPicker-Swift.h,test_iter.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\tests\test_iter.c,9cdfc1f6cb7907e29a4e6b2cf0041946,25690cf4ebb5bd2f561bd05964d131ee,-8023479959251789668,-8023446149267066732,8,N,335,274,21

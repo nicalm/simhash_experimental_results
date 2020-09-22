@@ -1,0 +1,8 @@
+13324-librenms,2575-scipy
+rewrites.php,global_r.c,\includes\rewrites.php,\scipy\spatial\qhull_src\src\global_r.c,5389d55c6eafa211ede2994f342bca9b,641bed4871fe8d8a5f4a033a6bf195ca,5729127442933135575,5729109988184996087,4,N,1602,1830,146
+libvirt-vminfo.inc.php,global_r.c,\includes\discovery\libvirt-vminfo.inc.php,\scipy\spatial\qhull_src\src\global_r.c,bb4b3773cf786ace10a58f9ec481435e,641bed4871fe8d8a5f4a033a6bf195ca,5730182974087411863,5729109988184996087,8,N,112,1830,34
+ports.csv.inc.php,global_r.c,\includes\html\reports\ports.csv.inc.php,\scipy\spatial\qhull_src\src\global_r.c,363f50b93f6f3f7b86ed810c407bde48,641bed4871fe8d8a5f4a033a6bf195ca,5729127512726350071,5729109988184996087,6,N,140,1830,34
+viptela.inc.php,global_r.c,\includes\polling\os\viptela.inc.php,\scipy\spatial\qhull_src\src\global_r.c,c64de710870736d919a9de98ce834a46,641bed4871fe8d8a5f4a033a6bf195ca,5729127442928941271,5729109988184996087,5,N,48,1830,15
+AdvaSysAlmTrap.php,global_r.c,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,\scipy\spatial\qhull_src\src\global_r.c,56f813b9379330897dbc82d45cf9f46e,641bed4871fe8d8a5f4a033a6bf195ca,1121945025240414455,5729109988184996087,7,N,32,1830,11
+linux.inc.php,global_r.c,\includes\discovery\sensors\state\linux.inc.php,\scipy\spatial\qhull_src\src\global_r.c,f9f2f629ba22b31deca0a4fa8d6f22cc,641bed4871fe8d8a5f4a033a6bf195ca,5747071472597776631,5729109988184996087,7,N,39,1830,12
+sensors.inc.php,global_r.c,\includes\html\pages\health\sensors.inc.php,\scipy\spatial\qhull_src\src\global_r.c,9bd00fc9a64f40b2fc247e4ec5f2b56a,641bed4871fe8d8a5f4a033a6bf195ca,5440897599356385494,5729109988184996087,8,N,98,1830,18

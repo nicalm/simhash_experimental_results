@@ -1,0 +1,12 @@
+3405-libevent,790-libuv
+ipv6-internal.h,getaddrinfo.c,\ipv6-internal.h,\src\unix\getaddrinfo.c,dabb7bfd8d8b28692ca1940f37c14cce,e8e49cecf77e5d3f516ab013154bbd9c,-8005606573110671204,-8023444777025087336,8,N,37,188,10
+ipv6-internal.h,winapi.h,\ipv6-internal.h,\src\win\winapi.h,dabb7bfd8d8b28692ca1940f37c14cce,4f2f56dcce5d652768e5e4cfcf6661be,-8005606573110671204,-8023445049755510628,5,N,37,3569,11
+signal.c,test-list.h,\signal.c,\test\test-list.h,cd60905330865d56b4b56f45de1462bd,34c37e38fd3367fbe3d6e9280bf86a06,-7446784324177307620,-7374645228437448676,8,N,348,951,30
+time-internal.h,winapi.h,\time-internal.h,\src\win\winapi.h,9bf6e1db3b1c4f27e264cb8439fab1f7,4f2f56dcce5d652768e5e4cfcf6661be,-7994243137613279076,-8023445049755510628,8,N,56,3569,10
+event.h,getaddrinfo.c,\include\event.h,\src\unix\getaddrinfo.c,74155744f6c5bd2476d644b3e62572b7,e8e49cecf77e5d3f516ab013154bbd9c,-8005430651917121316,-8023444777025087336,8,N,39,188,9
+event.h,internal.h,\include\event.h,\src\unix\internal.h,74155744f6c5bd2476d644b3e62572b7,371ffd2ac622ba8f4ae44ae51c531f3d,-8005430651917121316,-8023445069074474788,7,N,39,209,9
+event.h,winapi.h,\include\event.h,\src\win\winapi.h,74155744f6c5bd2476d644b3e62572b7,4f2f56dcce5d652768e5e4cfcf6661be,-8005430651917121316,-8023445049755510628,5,N,39,3569,9
+tree.h,tree.h,\WIN32-Code\tree.h,\include\uv\tree.h,e3e8e793f9ff0a835f1e5f81a1adb27c,4a20e8038964a2904ca41b822527a8e1,-3729185376694604742,-3729467380958925766,6,N,580,666,552
+dns_struct.h,winapi.h,\include\event2\dns_struct.h,\src\win\winapi.h,666004cf63ea0bf834f3327e53994765,4f2f56dcce5d652768e5e4cfcf6661be,-8032733723986968355,-8023445049755510628,7,N,32,3569,8
+keyvalq_struct.h,getaddrinfo.c,\include\event2\keyvalq_struct.h,\src\unix\getaddrinfo.c,6cfad2c2ff1e3aee7e4d7e3ad4535d29,e8e49cecf77e5d3f516ab013154bbd9c,-8024086342059894627,-8023444777025087336,6,N,37,188,10
+keyvalq_struct.h,winapi.h,\include\event2\keyvalq_struct.h,\src\win\winapi.h,6cfad2c2ff1e3aee7e4d7e3ad4535d29,4f2f56dcce5d652768e5e4cfcf6661be,-8024086342059894627,-8023445049755510628,7,N,37,3569,8

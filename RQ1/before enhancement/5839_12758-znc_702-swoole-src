@@ -1,0 +1,3 @@
+12758-znc,702-swoole-src
+version.h,swoole.cc,\include\znc\version.h,\swoole.cc,d05809c29f032c998a444139c4f0d9ce,51095f5d0c729dc304ea7d3b74a45710,-8023445187195380516,-8023444500268134244,8,N,43,735,12
+version.h,swoole_socket_coro.cc,\include\znc\version.h,\swoole_socket_coro.cc,d05809c29f032c998a444139c4f0d9ce,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023445187195380516,-5699587642032351076,8,N,43,1368,8

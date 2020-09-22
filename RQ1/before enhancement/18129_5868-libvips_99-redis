@@ -1,0 +1,11 @@
+5868-libvips,99-redis
+buffer.c,config.h,\libvips\iofuncs\buffer.c,\src\config.h,7574cb2d8655be6f6b1d83b926fa5645,fe9fefbbc117a00a89d3fa3a9678435a,-7744230673238075236,-8023445049755510628,8,N,447,149,22
+init.c,config.h,\libvips\iofuncs\init.c,\src\config.h,e400d93356240e897bbc32ba27bdcd3b,fe9fefbbc117a00a89d3fa3a9678435a,-9176930621544019780,-8023445049755510628,8,N,636,149,34
+init.c,jemalloc_internal_decls.h,\libvips\iofuncs\init.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,e400d93356240e897bbc32ba27bdcd3b,b10ad6415790176a35be7bbab7206d99,-9176930621544019780,-9176366554630793060,8,N,636,85,28
+vector.c,config.h,\libvips\iofuncs\vector.c,\src\config.h,055954f4e165b83818f7e8bd6db904ec,fe9fefbbc117a00a89d3fa3a9678435a,-8023484632710850404,-8023445049755510628,4,N,400,149,41
+vector.c,lzfP.h,\libvips\iofuncs\vector.c,\src\lzfP.h,055954f4e165b83818f7e8bd6db904ec,a8a99ddcfb21b5d90efea295fa1823be,-8023484632710850404,-7879329861679654756,5,N,400,77,23
+vector.c,sz.c,\libvips\iofuncs\vector.c,\deps\jemalloc\src\sz.c,055954f4e165b83818f7e8bd6db904ec,f9960e2b44b2f65f49d69f46a60a1ac3,-8023484632710850404,-8060636030565050340,8,N,400,103,13
+vector.c,llimits.h,\libvips\iofuncs\vector.c,\deps\lua\src\llimits.h,055954f4e165b83818f7e8bd6db904ec,0990f1abc3ce4ed347a3373a88d7961e,-8023484632710850404,-8023163574778799972,5,N,400,53,11
+vector.c,luaconf.h,\libvips\iofuncs\vector.c,\deps\lua\src\luaconf.h,055954f4e165b83818f7e8bd6db904ec,d1c2f2f3de3ece96d5376352c357d46d,-8023484632710850404,-8023488772522582372,8,N,400,252,31
+vector.c,jemalloc_internal_decls.h,\libvips\iofuncs\vector.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,055954f4e165b83818f7e8bd6db904ec,b10ad6415790176a35be7bbab7206d99,-8023484632710850404,-9176366554630793060,6,N,400,85,22
+vector.c,jemalloc_internal_types.h,\libvips\iofuncs\vector.c,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,055954f4e165b83818f7e8bd6db904ec,980de9a5931b9a6fb54cf696652d614a,-8023484632710850404,-8032452249077360612,7,N,400,129,28

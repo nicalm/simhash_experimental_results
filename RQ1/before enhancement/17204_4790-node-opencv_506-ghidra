@@ -1,0 +1,4 @@
+4790-node-opencv,506-ghidra
+init.cc,types.h,\src\init.cc,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,ac230f241e7062df9add8317bcf2a3be,cc1a30d590b235c7ea93b0e1d1549a93,-8032663355242784612,-8023445206521817060,7,N,67,280,11
+init.cc,ansidecl.h,\src\init.cc,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,ac230f241e7062df9add8317bcf2a3be,4e4a2dda74fbf81b9297e96b5756c8ac,-8032663355242784612,-8023444774877602148,6,N,67,213,11
+init.cc,libiberty.h,\src\init.cc,\GPL\DemanglerGnu\src\demangler_gnu\headers\libiberty.h,ac230f241e7062df9add8317bcf2a3be,7f4b925d254aa287e1e2867d2ae90602,-8032663355242784612,-7960605761397795684,6,N,67,202,12

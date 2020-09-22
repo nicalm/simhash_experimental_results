@@ -1,0 +1,11 @@
+2283-capnproto,6285-ImageMagick
+miniposix.h,coders-list.h,\c++\src\kj\miniposix.h,\coders\coders-list.h,43597d9a9103c02dbbe46d2c58ecc748,da2167028ce6417787bcd9607b33ade8,-7455991496707810916,-7952513354550683492,8,N,84,173,12
+miniposix.h,coders.h,\c++\src\kj\miniposix.h,\coders\coders.h,43597d9a9103c02dbbe46d2c58ecc748,e381af91df37f3ca92c725e4d44a0aae,-7455991496707810916,-3411759031362725731,7,N,84,172,12
+miniposix.h,animate-private.h,\c++\src\kj\miniposix.h,\MagickCore\animate-private.h,43597d9a9103c02dbbe46d2c58ecc748,d4819217e3565dd01efc90635d9a2319,-7455991496707810916,-7771252266715785060,8,N,84,19,6
+miniposix.h,gem.h,\c++\src\kj\miniposix.h,\MagickCore\gem.h,43597d9a9103c02dbbe46d2c58ecc748,de9ea2b870f189e34af388f50982d9de,-7455991496707810916,-2845430845611386852,7,N,84,18,4
+miniposix.h,magick-config.h,\c++\src\kj\miniposix.h,\MagickCore\magick-config.h,43597d9a9103c02dbbe46d2c58ecc748,e63d3d83696985be12017660c957883e,-7455991496707810916,-8023445049755510628,5,N,84,185,17
+miniposix.h,nt-base.h,\c++\src\kj\miniposix.h,\MagickCore\nt-base.h,43597d9a9103c02dbbe46d2c58ecc748,6845456c26530905ede972637f7495b1,-7455991496707810916,-8023445049755510628,5,N,84,282,20
+miniposix.h,studio.h,\c++\src\kj\miniposix.h,\MagickCore\studio.h,43597d9a9103c02dbbe46d2c58ecc748,46305552c943ef349fb6bb741ecb832b,-7455991496707810916,-8023445049755510628,5,N,84,303,27
+miniposix.h,version.c,\c++\src\kj\miniposix.h,\MagickCore\version.c,43597d9a9103c02dbbe46d2c58ecc748,8294bca6e82e31c9d2d2bf5ed7898873,-7455991496707810916,-8023445049755510628,5,N,84,351,22
+miniposix.h,studio.h,\c++\src\kj\miniposix.h,\MagickWand\studio.h,43597d9a9103c02dbbe46d2c58ecc748,3315059cc1afe634209d06d5c6f78f4e,-7455991496707810916,-8023445049755510628,5,N,84,267,27
+miniposix.h,Include.h,\c++\src\kj\miniposix.h,\Magick++\lib\Magick++\Include.h,43597d9a9103c02dbbe46d2c58ecc748,d559a3b26c6dd77eb96cece9b06c01de,-7455991496707810916,-8023445049755510628,5,N,84,1393,20

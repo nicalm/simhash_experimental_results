@@ -1,0 +1,9 @@
+4477-libsass,91-bitcoin
+ast_sel_super.cpp,policy.cpp,\src\ast_sel_super.cpp,\src\policy\policy.cpp,ffef62efd83b8d29b2b0c7a2ff9681d7,b881c016071c59e2e2c79de956074e58,1431225074243617162,1719313613361791918,7,N,350,158,67
+test_util_string.cpp,net_processing.cpp,\test\test_util_string.cpp,\src\net_processing.cpp,293237612e9a005f6e81aaeb65e422d6,7eb2766edacef53009c5302be38edb19,6645038221030685080,2123354376699247032,8,N,190,2805,41
+base.h,attributes.h,\include\sass\base.h,\src\attributes.h,26dfd0d8cb029fd73ca71c0971ecc070,1d61566702a36bfdc0abbfcd3b918b11,-8023163575290504548,-8023445049755378532,7,N,63,15,6
+base.h,compat.h,\include\sass\base.h,\src\compat.h,26dfd0d8cb029fd73ca71c0971ecc070,e406a80a1784994699c1b4a1bc6005d3,-8023163575290504548,-8023445187194464104,7,N,63,87,16
+base.h,randomenv.cpp,\include\sass\base.h,\src\randomenv.cpp,26dfd0d8cb029fd73ca71c0971ecc070,8eefeb3e04f7f52be719a9efdd732606,-8023163575290504548,-8023445049755510628,5,N,63,439,16
+base.h,endian.h,\include\sass\base.h,\src\compat\endian.h,26dfd0d8cb029fd73ca71c0971ecc070,5c16422e6448c8f31356121158773761,-8023163575290504548,-8023445049755510628,5,N,63,198,13
+base.h,port_posix.h,\include\sass\base.h,\src\leveldb\port\port_posix.h,26dfd0d8cb029fd73ca71c0971ecc070,19a3c705798d84488cb4a2943d225851,-8023163575290504548,-8032804092731434340,8,N,63,123,16
+base.h,thread_annotations.h,\include\sass\base.h,\src\leveldb\port\thread_annotations.h,26dfd0d8cb029fd73ca71c0971ecc070,af9eee1ca47192126580ea56af3a4865,-8023163575290504548,-8023445049755510628,5,N,63,39,11

@@ -1,0 +1,14 @@
+11788-fbthrift,15760-bfgminer
+thrift_config.h,compat.h,\thrift\lib\cpp\thrift_config.h,\compat.h,27c650bbff0590e9f2fafe163b055489,6f280ac9c52face753ea81ae98cfe95d,-8023445049755510628,-8014437852681811908,7,N,220,164,17
+thrift_config.h,driver-cpu.c,\thrift\lib\cpp\thrift_config.h,\driver-cpu.c,27c650bbff0590e9f2fafe163b055489,be0f700b73a52208dd53210582876f9e,-8023445049755510628,-7807272267641726562,4,N,220,682,40
+thrift_config.h,driver-cpu.h,\thrift\lib\cpp\thrift_config.h,\driver-cpu.h,27c650bbff0590e9f2fafe163b055489,092bcdcc676bceef9c2bba9e9b4bfe90,-8023445049755510628,-7446984297678579684,6,N,220,62,13
+thrift_config.h,miner.h,\thrift\lib\cpp\thrift_config.h,\miner.h,27c650bbff0590e9f2fafe163b055489,2a2a55093078b0e951ca70e852eb3abc,-8023445049755510628,-8021228434313848776,6,N,220,1425,53
+thrift_config.h,cl_platform.h,\thrift\lib\cpp\thrift_config.h,\CL\cl_platform.h,27c650bbff0590e9f2fafe163b055489,fc86a2210e718fbcf95aabcf0efa129a,-8023445049755510628,-8023445049755510564,1,N,220,935,75
+thrift_config.h,signal.in.h,\thrift\lib\cpp\thrift_config.h,\lib\signal.in.h,27c650bbff0590e9f2fafe163b055489,ab5029c765029582a72eaf9ee25fe736,-8023445049755510628,-8023445049755510628,0,N,220,258,53
+thrift_config.h,stddef.in.h,\thrift\lib\cpp\thrift_config.h,\lib\stddef.in.h,27c650bbff0590e9f2fafe163b055489,51fb0aab8a1f88b1353623a5d3ebf080,-8023445049755510628,-7446702960451199844,5,N,220,37,10
+thrift_config.h,stdint.in.h,\thrift\lib\cpp\thrift_config.h,\lib\stdint.in.h,27c650bbff0590e9f2fafe163b055489,cae8be4f2dc822552d990c5e166b9add,-8023445049755510628,-8023455787174799140,6,N,220,383,39
+thrift_config.h,string.in.h,\thrift\lib\cpp\thrift_config.h,\lib\string.in.h,27c650bbff0590e9f2fafe163b055489,79edfbf7ab10d649596b9a9e586671ee,-8023445049755510628,-8023445049755510628,0,N,220,697,75
+macros.h,compat.h,\thrift\lib\rb\ext\macros.h,\compat.h,30f9d8d804dd66b382db54f2861518aa,6f280ac9c52face753ea81ae98cfe95d,-8032469861362509668,-8014437852681811908,8,N,18,164,4
+macros.h,cl_platform.h,\thrift\lib\rb\ext\macros.h,\CL\cl_platform.h,30f9d8d804dd66b382db54f2861518aa,fc86a2210e718fbcf95aabcf0efa129a,-8032469861362509668,-8023445049755510564,8,N,18,935,4
+macros.h,signal.in.h,\thrift\lib\rb\ext\macros.h,\lib\signal.in.h,30f9d8d804dd66b382db54f2861518aa,ab5029c765029582a72eaf9ee25fe736,-8032469861362509668,-8023445049755510628,7,N,18,258,4
+macros.h,string.in.h,\thrift\lib\rb\ext\macros.h,\lib\string.in.h,30f9d8d804dd66b382db54f2861518aa,79edfbf7ab10d649596b9a9e586671ee,-8032469861362509668,-8023445049755510628,7,N,18,697,4

@@ -1,0 +1,11 @@
+14790-sleuthkit,5868-libvips
+tsk_os.h,vector.c,\tsk\base\tsk_os.h,\libvips\iofuncs\vector.c,fb10549d476c4733b848a15bf274eecd,055954f4e165b83818f7e8bd6db904ec,-7717763362486560548,-8023484632710850404,8,N,145,400,20
+usnjls_lib.c,composite.cpp,\tsk\fs\usnjls_lib.c,\libvips\conversion\composite.cpp,48e95a276115acd301ddb5b9726a7100,1073a16ac3f3888e7e8384f333542daa,5729127445080619223,-3566301638204286473,8,N,267,1177,77
+aff.h,jpeg.h,\tsk\img\aff.h,\libvips\foreign\jpeg.h,4388e839229d61f93a1112ac98f30b73,1ef578a1ab652a18512993720e194d74,-8059799439789469540,-9212685830896428900,7,N,27,28,10
+dos.c,composite.cpp,\tsk\vs\dos.c,\libvips\conversion\composite.cpp,87019305b1f4020a75d7e674cebe6f30,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,850,1177,125
+base64.cpp,vips2webp.c,\tools\fiwalk\src\base64.cpp,\libvips\foreign\vips2webp.c,1a57fb128bb1b6f6d41a94d2c5b5cfbb,2e96225244f7fbdd332eaea1972b70e1,5580491683655806901,-4219340933703717067,7,N,175,378,42
+dfxml.cpp,vector.c,\tools\fiwalk\src\dfxml.cpp,\libvips\iofuncs\vector.c,eb50b8530f9308f16c36524fddd2f5b8,055954f4e165b83818f7e8bd6db904ec,-8023587986267121524,-8023484632710850404,7,N,386,400,91
+utils.h,vector.c,\tools\fiwalk\src\utils.h,\libvips\iofuncs\vector.c,e6ab32b13676a61b654ad5e51f15827a,055954f4e165b83818f7e8bd6db904ec,-7600106410441515876,-8023484632710850404,7,N,33,400,9
+regex_internal.h,buffer.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\libvips\iofuncs\buffer.c,478b58ddf6d6e1e730d1b30c2f09b9d2,7574cb2d8655be6f6b1d83b926fa5645,-8023445051928094564,-7744230673238075236,8,N,587,447,55
+regex_internal.h,vector.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\libvips\iofuncs\vector.c,478b58ddf6d6e1e730d1b30c2f09b9d2,055954f4e165b83818f7e8bd6db904ec,-8023445051928094564,-8023484632710850404,8,N,587,400,76
+file.h,vector.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\libvips\iofuncs\vector.c,d22799caeaddf83c099f19cf401487da,055954f4e165b83818f7e8bd6db904ec,-8023445049755510568,-8023484632710850404,6,N,402,400,42

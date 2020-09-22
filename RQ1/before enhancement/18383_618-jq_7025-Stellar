@@ -1,0 +1,3 @@
+618-jq,7025-Stellar
+jv_dtoa.c,Stellar-Swift.h,\src\jv_dtoa.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e22c5b05bfd24415a3e8d8da3f8791ac,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510756,-7743940123003924324,6,N,3652,231,38
+lexer.h,Stellar-Swift.h,\src\lexer.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,da2a1a7176c85a8ba5c6ad487a6476ec,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,554,231,38

@@ -1,0 +1,8 @@
+2578-calibre,4420-zcash
+swig_chm.c,byteswap.h,\src\calibre\utils\chm\swig_chm.c,\src\compat\byteswap.h,a737d5a4a187ff74ead9fe9d6b3333a7,c8049a65823175e0cb720f771bece0d5,-7523272253887883108,-8032452249010186084,8,N,5011,36,12
+lzxc.c,compat.h,\src\calibre\utils\lzx\lzxc.c,\src\compat.h,5148bebfcfad4cb4119b4e362bc0686f,edca1c84c422d3accf71cf028f56730c,-8059473846773950244,-8023445189341947748,5,N,1033,86,20
+lzxc.c,byteswap.h,\src\calibre\utils\lzx\lzxc.c,\src\compat\byteswap.h,5148bebfcfad4cb4119b4e362bc0686f,c8049a65823175e0cb720f771bece0d5,-8059473846773950244,-8032452249010186084,5,N,1033,36,13
+lzxc.c,endian.h,\src\calibre\utils\lzx\lzxc.c,\src\compat\endian.h,5148bebfcfad4cb4119b4e362bc0686f,b0a1e77bc71959182a3b0854e64e46ad,-8059473846773950244,-8023445049755510628,3,N,1033,160,75
+lzxc.c,thread_annotations.h,\src\calibre\utils\lzx\lzxc.c,\src\leveldb\port\thread_annotations.h,5148bebfcfad4cb4119b4e362bc0686f,af9eee1ca47192126580ea56af3a4865,-8059473846773950244,-8023445049755510628,3,N,1033,39,13
+msstdint.h,endian.h,\src\calibre\utils\lzx\msstdint.h,\src\compat\endian.h,2dacb8ee9f393a22b1266f714d3efcd6,b0a1e77bc71959182a3b0854e64e46ad,-2830794129776780644,-8023445049755510628,7,N,138,160,16
+msstdint.h,thread_annotations.h,\src\calibre\utils\lzx\msstdint.h,\src\leveldb\port\thread_annotations.h,2dacb8ee9f393a22b1266f714d3efcd6,af9eee1ca47192126580ea56af3a4865,-2830794129776780644,-8023445049755510628,7,N,138,39,13

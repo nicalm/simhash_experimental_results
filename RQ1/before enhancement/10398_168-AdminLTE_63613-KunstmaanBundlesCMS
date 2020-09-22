@@ -1,0 +1,4 @@
+168-AdminLTE,63613-KunstmaanBundlesCMS
+raphael.js,raphael-2.1.2.js,\plugins\raphael\raphael.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\libs\raphael-2.1.2.js,eb1cf5bd4a4f25bb9d0b25d94bb8691e,b58f680e4c485c24be9c6d7b631a251b,2861442789917919419,2861442789917919483,1,N,6072,6002,5719
+raphael.no-deps.js,raphael-2.1.2.js,\plugins\raphael\raphael.no-deps.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\libs\raphael-2.1.2.js,24ba502f970b922bb221925e3c4c18d6,b58f680e4c485c24be9c6d7b631a251b,3437903542221342971,2861442789917919483,1,N,5812,6002,5548
+raphael.core.js,raphael-2.1.2.js,\plugins\raphael\dev\raphael.core.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\libs\raphael-2.1.2.js,9724627757bb0277b871376fe7ab2b23,b58f680e4c485c24be9c6d7b631a251b,2861443339638098173,2861442789917919483,6,N,3495,6002,3432

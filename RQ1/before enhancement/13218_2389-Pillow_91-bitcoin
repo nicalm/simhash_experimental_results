@@ -1,0 +1,8 @@
+2389-Pillow,91-bitcoin
+ImPlatform.h,attributes.h,\src\libImaging\ImPlatform.h,\src\attributes.h,6670b4584189b95bdcaaa198dabbf5c8,1d61566702a36bfdc0abbfcd3b918b11,-8024570949662353252,-8023445049755378532,3,N,58,15,6
+ImPlatform.h,compat.h,\src\libImaging\ImPlatform.h,\src\compat.h,6670b4584189b95bdcaaa198dabbf5c8,e406a80a1784994699c1b4a1bc6005d3,-8024570949662353252,-8023445187194464104,3,N,58,87,16
+ImPlatform.h,randomenv.cpp,\src\libImaging\ImPlatform.h,\src\randomenv.cpp,6670b4584189b95bdcaaa198dabbf5c8,8eefeb3e04f7f52be719a9efdd732606,-8024570949662353252,-8023445049755510628,1,N,58,439,15
+ImPlatform.h,byteswap.h,\src\libImaging\ImPlatform.h,\src\compat\byteswap.h,6670b4584189b95bdcaaa198dabbf5c8,88acd785d1d6b57506d4fdd472a4a790,-8024570949662353252,-7744221872858473316,5,N,58,43,8
+ImPlatform.h,endian.h,\src\libImaging\ImPlatform.h,\src\compat\endian.h,6670b4584189b95bdcaaa198dabbf5c8,5c16422e6448c8f31356121158773761,-8024570949662353252,-8023445049755510628,1,N,58,198,12
+ImPlatform.h,port_posix.h,\src\libImaging\ImPlatform.h,\src\leveldb\port\port_posix.h,6670b4584189b95bdcaaa198dabbf5c8,19a3c705798d84488cb4a2943d225851,-8024570949662353252,-8032804092731434340,8,N,58,123,15
+ImPlatform.h,thread_annotations.h,\src\libImaging\ImPlatform.h,\src\leveldb\port\thread_annotations.h,6670b4584189b95bdcaaa198dabbf5c8,af9eee1ca47192126580ea56af3a4865,-8024570949662353252,-8023445049755510628,1,N,58,39,11

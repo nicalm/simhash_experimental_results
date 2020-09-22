@@ -1,0 +1,7 @@
+14790-sleuthkit,2575-scipy
+usnjls_lib.c,global_r.c,\tsk\fs\usnjls_lib.c,\scipy\spatial\qhull_src\src\global_r.c,48e95a276115acd301ddb5b9726a7100,641bed4871fe8d8a5f4a033a6bf195ca,5729127445080619223,5729109988184996087,5,N,267,1830,66
+dos.c,global_r.c,\tsk\vs\dos.c,\scipy\spatial\qhull_src\src\global_r.c,87019305b1f4020a75d7e674cebe6f30,641bed4871fe8d8a5f4a033a6bf195ca,5729127442933135575,5729109988184996087,4,N,850,1830,186
+dfxml.cpp,msc_stdint.h,\tools\fiwalk\src\dfxml.cpp,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,eb50b8530f9308f16c36524fddd2f5b8,0a9faad66f590c9572581753d453013e,-8023587986267121524,-8018800163019237220,7,N,386,152,23
+file.h,msc_stdint.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,d22799caeaddf83c099f19cf401487da,0a9faad66f590c9572581753d453013e,-8023445049755510568,-8018800163019237220,8,N,402,152,26
+softmagic.c,global_r.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\scipy\spatial\qhull_src\src\global_r.c,c9a5bb85f007b34bfa13df4253839c91,641bed4871fe8d8a5f4a033a6bf195ca,5152631506249235159,5729109988184996087,8,N,1731,1830,288
+exif-entry.c,global_r.c,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,\scipy\spatial\qhull_src\src\global_r.c,59a2ae3931934cc319eb1524994842bc,641bed4871fe8d8a5f4a033a6bf195ca,5729109833566304343,5729109988184996087,5,N,1444,1830,199

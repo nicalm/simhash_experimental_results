@@ -1,0 +1,8 @@
+2509-Twig,506-ghidra
+Token.php,LookupSwitchHex.java,\src\Token.php,\Ghidra\Processors\JVM\resources\LookupSwitchHex.java,be39a6f847016874e81d99d0ceda815a,377274e12df35eadec91bc71d4492bb1,5731379380185772127,6882048947539982551,6,N,142,75,21
+Token.php,prettyprint.cc,\src\Token.php,\Ghidra\Features\Decompiler\src\decompile\cpp\prettyprint.cc,be39a6f847016874e81d99d0ceda815a,d46c6f23b689ff0cc654147dd4f37b4d,5731379380185772127,5693098628733778139,8,N,142,903,36
+Token.php,err.cpp,\src\Token.php,\Ghidra\Features\PDB\src\pdb\cpp\err.cpp,be39a6f847016874e81d99d0ceda815a,46841a859e8c35503858ce04519ad0e3,5731379380185772127,5729127442933135574,6,N,142,48,16
+Token.php,MDDataTypeParser.java,\src\Token.php,\Ghidra\Features\MicrosoftDmang\src\main\java\mdemangler\datatype\MDDataTypeParser.java,be39a6f847016874e81d99d0ceda815a,cb54f1dba1356f93c69309c5519443d4,5731379380185772127,5729127442933135511,6,N,142,276,28
+Token.php,OmfRecord.java,\src\Token.php,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\omf\OmfRecord.java,be39a6f847016874e81d99d0ceda815a,6c7282feea605e33060c74cfd0d7a317,5731379380185772127,5728986708129134807,8,N,142,135,27
+Token.php,DebugDirectoryParser.java,\src\Token.php,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\pe\debug\DebugDirectoryParser.java,be39a6f847016874e81d99d0ceda815a,32028ff45774affe600273e068c0fa8a,5731379380185772127,5587827004624386295,7,N,142,109,26
+Token.php,BindProcessor.java,\src\Token.php,\Ghidra\Features\Base\src\main\java\ghidra\app\util\bin\format\macho\commands\dyld\BindProcessor.java,be39a6f847016874e81d99d0ceda815a,db0abbee03957eac97445c23a7bc38bf,5731379380185772127,-1188403783731201833,8,N,142,114,26

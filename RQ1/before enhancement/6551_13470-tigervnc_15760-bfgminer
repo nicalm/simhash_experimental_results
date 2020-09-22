@@ -1,0 +1,4 @@
+13470-tigervnc,15760-bfgminer
+pam.h,cl_platform.h,\common\rfb\pam.h,\CL\cl_platform.h,2716e1b86f479bfe7a97074c5b5e4cdd,fc86a2210e718fbcf95aabcf0efa129a,-7352549511467837220,-8023445049755510564,8,N,16,935,9
+xvnc.c,signal.in.h,\unix\xserver\hw\vnc\xvnc.c,\lib\signal.in.h,64de174f413a46b56c689e3d2f0ca711,ab5029c765029582a72eaf9ee25fe736,-7955908787655354212,-8023445049755510628,8,N,1442,258,71
+xvnc.c,string.in.h,\unix\xserver\hw\vnc\xvnc.c,\lib\string.in.h,64de174f413a46b56c689e3d2f0ca711,79edfbf7ab10d649596b9a9e586671ee,-7955908787655354212,-8023445049755510628,8,N,1442,697,74

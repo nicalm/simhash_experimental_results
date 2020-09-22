@@ -1,0 +1,6 @@
+10205-firejail,13470-tigervnc
+caps.c,RandomStream.h,\src\firejail\caps.c,\common\rdr\RandomStream.h,0b9d72adabe6b183bf9a7948ffeb2934,be77b62dfa170b65c76802c399ff8c7e,-5717602040541816676,-6762472338480571236,8,N,334,32,7
+caps.c,util.h,\src\firejail\caps.c,\common\rfb\util.h,0b9d72adabe6b183bf9a7948ffeb2934,0a1c52a323601dcfc6bdaa272c09d2ee,-5717602040541816676,3505770528368794252,8,N,334,75,13
+print.c,SSLEngineManager.java,\src\fsec-print\print.c,\java\com\tigervnc\network\SSLEngineManager.java,a532e1235b05a01261ed4f8b4b722622,39e909ecd9ccf04cb9bad885f45ab7de,-8096923412020553513,3423284433716820183,7,N,257,127,28
+syscall.c,xvnc.c,\src\fseccomp\syscall.c,\unix\xserver\hw\vnc\xvnc.c,bf0ef0cc7976e59f6ac60c1a011c8188,64de174f413a46b56c689e3d2f0ca711,-8023445049755510628,-7955908787655354212,8,N,1564,1442,103
+syscall.h,xvnc.c,\src\include\syscall.h,\unix\xserver\hw\vnc\xvnc.c,e5d70ee64e8335903c40165f92bcb3a5,64de174f413a46b56c689e3d2f0ca711,-8023445049755510628,-7955908787655354212,8,N,5186,1442,54

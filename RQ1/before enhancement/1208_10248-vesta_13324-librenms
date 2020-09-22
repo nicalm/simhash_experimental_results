@@ -1,0 +1,11 @@
+10248-vesta,13324-librenms
+fm_api.php,viptela.inc.php,\web\file_manager\fm_api.php,\includes\polling\os\viptela.inc.php,f28c3f3d080e49cefd17574830e9bd7e,c64de710870736d919a9de98ce834a46,-4358935735400089451,5729127442928941271,8,N,105,48,16
+index.php,rewrites.php,\web\bulk\user\index.php,\includes\rewrites.php,e63f54fde5aa69c0078f57a124201499,5389d55c6eafa211ede2994f342bca9b,5729127442931036375,5729127442933135575,2,N,53,1602,19
+index.php,libvirt-vminfo.inc.php,\web\bulk\user\index.php,\includes\discovery\libvirt-vminfo.inc.php,e63f54fde5aa69c0078f57a124201499,bb4b3773cf786ace10a58f9ec481435e,5729127442931036375,5730182974087411863,6,N,53,112,18
+index.php,ports.csv.inc.php,\web\bulk\user\index.php,\includes\html\reports\ports.csv.inc.php,e63f54fde5aa69c0078f57a124201499,363f50b93f6f3f7b86ed810c407bde48,5729127442931036375,5729127512726350071,6,N,53,140,18
+index.php,viptela.inc.php,\web\bulk\user\index.php,\includes\polling\os\viptela.inc.php,e63f54fde5aa69c0078f57a124201499,c64de710870736d919a9de98ce834a46,5729127442931036375,5729127442928941271,3,N,53,48,13
+index.php,AdvaSysAlmTrap.php,\web\bulk\user\index.php,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,e63f54fde5aa69c0078f57a124201499,56f813b9379330897dbc82d45cf9f46e,5729127442931036375,1121945025240414455,7,N,53,32,9
+index.php,linux.inc.php,\web\bulk\user\index.php,\includes\discovery\sensors\state\linux.inc.php,e63f54fde5aa69c0078f57a124201499,f9f2f629ba22b31deca0a4fa8d6f22cc,5729127442931036375,5747071472597776631,7,N,53,39,13
+index.php,toner.inc.php,\web\bulk\user\index.php,\includes\html\graphs\device\toner.inc.php,e63f54fde5aa69c0078f57a124201499,14df19f7caa79129a9551c99a2471503,5729127442931036375,5731379235161422023,6,N,53,45,11
+index.php,sensors.inc.php,\web\bulk\user\index.php,\includes\html\pages\health\sensors.inc.php,e63f54fde5aa69c0078f57a124201499,9bd00fc9a64f40b2fc247e4ec5f2b56a,5729127442931036375,5440897599356385494,8,N,53,98,13
+edit_server.js,delete-service.inc.php,\web\js\pages\edit_server.js,\includes\html\forms\delete-service.inc.php,75c485f473ca3154556391d41764160a,30da6e84d1d382888382593560c4fa18,2296755660087984830,2224117675845075646,8,N,30,16,6

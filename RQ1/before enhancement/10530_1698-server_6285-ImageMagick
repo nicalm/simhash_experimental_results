@@ -1,0 +1,16 @@
+1698-server,6285-ImageMagick
+Repair.php,display.c,\core\Command\Maintenance\Repair.php,\MagickCore\display.c,30f95053385fdea01d8d36d0c6decb58,58fbcf695a02c8617f1d6816e49799cf,5118608179801536727,5692817170937460951,8,N,107,12792,24
+MDB2SchemaReader.php,bgr.c,\lib\private\DB\MDB2SchemaReader.php,\coders\bgr.c,d647cd0d11a5a459553ceaf5b5657b44,c2ad992f3d07a8b726061a19916c7cab,5731379242742884567,1045382730955143383,8,N,240,1217,69
+MDB2SchemaReader.php,cmyk.c,\lib\private\DB\MDB2SchemaReader.php,\coders\cmyk.c,d647cd0d11a5a459553ceaf5b5657b44,033a163bed59e34827023fd6c1f70c6a,5731379242742884567,1045382730955143383,8,N,240,1358,69
+MDB2SchemaReader.php,miff.c,\lib\private\DB\MDB2SchemaReader.php,\coders\miff.c,d647cd0d11a5a459553ceaf5b5657b44,eb048844ba749cb188f12a545d5a3a14,5731379242742884567,5729127442933397727,4,N,240,2414,73
+MDB2SchemaReader.php,msl.c,\lib\private\DB\MDB2SchemaReader.php,\coders\msl.c,d647cd0d11a5a459553ceaf5b5657b44,564294d28d18518091363153d2c379e8,5731379242742884567,5729127445078517975,5,N,240,7592,73
+MDB2SchemaReader.php,rgb.c,\lib\private\DB\MDB2SchemaReader.php,\coders\rgb.c,d647cd0d11a5a459553ceaf5b5657b44,88d75de525f47b8269acb5295b49667f,5731379242742884567,1045382730955143383,8,N,240,1389,69
+MDB2SchemaReader.php,svg.c,\lib\private\DB\MDB2SchemaReader.php,\coders\svg.c,d647cd0d11a5a459553ceaf5b5657b44,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5731379242742884567,5729127442933135575,4,N,240,4691,73
+MDB2SchemaReader.php,composite.c,\lib\private\DB\MDB2SchemaReader.php,\MagickCore\composite.c,d647cd0d11a5a459553ceaf5b5657b44,340d5a0c7006a0824a2a7fe9aab13822,5731379242742884567,5729127511652874455,4,N,240,2158,72
+MDB2SchemaReader.php,display.c,\lib\private\DB\MDB2SchemaReader.php,\MagickCore\display.c,d647cd0d11a5a459553ceaf5b5657b44,58fbcf695a02c8617f1d6816e49799cf,5731379242742884567,5692817170937460951,6,N,240,12792,73
+MDB2SchemaReader.php,widget.c,\lib\private\DB\MDB2SchemaReader.php,\MagickCore\widget.c,d647cd0d11a5a459553ceaf5b5657b44,f0e9f521bef825c5e27b767db6566d31,5731379242742884567,5729127442933135575,4,N,240,7134,73
+MDB2SchemaReader.php,animate.c,\lib\private\DB\MDB2SchemaReader.php,\MagickWand\animate.c,d647cd0d11a5a459553ceaf5b5657b44,193f5dd04f24c5acd06e3aa1464f670b,5731379242742884567,5657052256709425847,8,N,240,1290,67
+MDB2SchemaReader.php,identify.c,\lib\private\DB\MDB2SchemaReader.php,\MagickWand\identify.c,d647cd0d11a5a459553ceaf5b5657b44,75148e667f677bcb2010bd43f674e879,5731379242742884567,5729101054654068983,7,N,240,793,67
+MDB2SchemaReader.php,import.c,\lib\private\DB\MDB2SchemaReader.php,\MagickWand\import.c,d647cd0d11a5a459553ceaf5b5657b44,d07cb72be3f30cc13453dbfdeebb26a8,5731379242742884567,5657052256709163191,8,N,240,1145,67
+MDB2SchemaReader.php,mogrify.c,\lib\private\DB\MDB2SchemaReader.php,\MagickWand\mogrify.c,d647cd0d11a5a459553ceaf5b5657b44,40ce227d8d84162c170d4ac9ed9ebc51,5731379242742884567,5729127442933135575,4,N,240,8560,72
+MDB2SchemaReader.php,operation.c,\lib\private\DB\MDB2SchemaReader.php,\MagickWand\operation.c,d647cd0d11a5a459553ceaf5b5657b44,5188f5c0cfb10bb3579b5a2c7dc8bc5d,5731379242742884567,5730262138933065951,8,N,240,4396,72

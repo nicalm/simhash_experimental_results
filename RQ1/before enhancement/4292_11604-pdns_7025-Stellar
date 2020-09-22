@@ -1,0 +1,3 @@
+11604-pdns,7025-Stellar
+threadname.cc,Stellar-Swift.h,\pdns\threadname.cc,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5b915147d70647a42e05b4e28ce34c57,fafe37ab4771e0a9586e17224fcc7041,-8023445049889728356,-7743940123003924324,6,N,39,231,11
+version.cc,Stellar-Swift.h,\pdns\version.cc,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,2d47bb8e09166cdc8de706154500a37c,fafe37ab4771e0a9586e17224fcc7041,-8023445049755379556,-7743940123003924324,6,N,141,231,26

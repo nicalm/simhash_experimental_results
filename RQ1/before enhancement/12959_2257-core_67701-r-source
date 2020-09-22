@@ -1,0 +1,5 @@
+2257-core,67701-r-source
+appconfig.php,printf-args.c,\core\ajax\appconfig.php,\src\extra\intl\printf-args.c,031cdb064a8d37cd4b40af5d608c8543,32e9cc807cac7369c6c119a76b828fae,5152665582536538583,6882048947539982551,7,N,37,141,10
+MDB2SchemaReader.php,Rstrptime.h,\lib\private\DB\MDB2SchemaReader.php,\src\main\Rstrptime.h,d8397eafd4a2b3b1ab041811b2ffbaec,407931813825b80d1daf2fc23d1841da,5731379242747078871,5585012323576749271,7,N,238,1001,70
+MDB2SchemaReader.php,printf-args.c,\lib\private\DB\MDB2SchemaReader.php,\src\extra\intl\printf-args.c,d8397eafd4a2b3b1ab041811b2ffbaec,32e9cc807cac7369c6c119a76b828fae,5731379242747078871,6882048947539982551,4,N,238,141,32
+MDB2SchemaReader.php,gramRd.c,\lib\private\DB\MDB2SchemaReader.php,\src\library\tools\src\gramRd.c,d8397eafd4a2b3b1ab041811b2ffbaec,2b9b861b2d2889b8b1da360bdc301c6f,5731379242747078871,5728845959400298719,7,N,238,3354,73

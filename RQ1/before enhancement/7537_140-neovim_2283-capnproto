@@ -1,0 +1,3 @@
+140-neovim,2283-capnproto
+func_attr.h,miniposix.h,\src\nvim\func_attr.h,\c++\src\kj\miniposix.h,09c1a1629d6fa1c24e2cb5acdc7bfde8,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,159,84,12
+win_defs.h,miniposix.h,\src\nvim\os\win_defs.h,\c++\src\kj\miniposix.h,559a6dc04630310a39a09d004fb6797d,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,84,84,21

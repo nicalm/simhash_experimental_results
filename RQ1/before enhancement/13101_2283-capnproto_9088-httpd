@@ -1,0 +1,9 @@
+2283-capnproto,9088-httpd
+miniposix.h,suexec.h,\c++\src\kj\miniposix.h,\support\suexec.h,43597d9a9103c02dbbe46d2c58ecc748,424eed5ca72dc5978fc0252bd3f51645,-7455991496707810916,-8023480233053857636,7,N,84,25,8
+miniposix.h,mod_syslog.c,\c++\src\kj\miniposix.h,\modules\loggers\mod_syslog.c,43597d9a9103c02dbbe46d2c58ecc748,2d0861d0af354091bfd725e954827d0b,-7455991496707810916,-8023444500272326500,8,N,84,161,23
+miniposix.h,ssl_private.h,\c++\src\kj\miniposix.h,\modules\ssl\ssl_private.h,43597d9a9103c02dbbe46d2c58ecc748,36249a7b93b6c6da74f16ab00ce94b9b,-7455991496707810916,-8023445049755510628,5,N,84,736,18
+miniposix.h,unixd.c,\c++\src\kj\miniposix.h,\os\unix\unixd.c,43597d9a9103c02dbbe46d2c58ecc748,4641aa5ffe292dda86bf90bcfac2c838,-7455991496707810916,-8023462641975109476,7,N,84,524,26
+miniposix.h,mpm_default.h,\c++\src\kj\miniposix.h,\server\mpm\event\mpm_default.h,43597d9a9103c02dbbe46d2c58ecc748,7247b1ebbef7874ca0c5121dfc7b2020,-7455991496707810916,-8024010198733260644,8,N,84,15,5
+miniposix.h,mpm_default.h,\c++\src\kj\miniposix.h,\server\mpm\mpmt_os2\mpm_default.h,43597d9a9103c02dbbe46d2c58ecc748,0023769f864cdaeabb7f82ad5c66ec3d,-7455991496707810916,-8023480233053857636,7,N,84,15,5
+miniposix.h,mpm_default.h,\c++\src\kj\miniposix.h,\server\mpm\netware\mpm_default.h,43597d9a9103c02dbbe46d2c58ecc748,cda6f6973e85bdbe7e47a6014176c375,-7455991496707810916,-8023458243899238244,8,N,84,24,8
+miniposix.h,mpm_default.h,\c++\src\kj\miniposix.h,\server\mpm\worker\mpm_default.h,43597d9a9103c02dbbe46d2c58ecc748,7247b1ebbef7874ca0c5121dfc7b2020,-7455991496707810916,-8024010198733260644,8,N,84,15,5

@@ -1,0 +1,10 @@
+242-php-src,62850-ADOdb
+com_variant.c,adodb-pdo_firebird.inc.php,\ext\com_dotnet\com_variant.c,\drivers\adodb-pdo_firebird.inc.php,8cc1d969830285306cb98cfbe0332de9,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,840,333,104
+domexception.c,adodb-pdo_firebird.inc.php,\ext\dom\domexception.c,\drivers\adodb-pdo_firebird.inc.php,99fc4111c0afb3d46504c745c26ac181,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,77,333,25
+php_http_parser.c,adodb-pdo_firebird.inc.php,\sapi\cli\php_http_parser.c,\drivers\adodb-pdo_firebird.inc.php,1cb8682c3e456c12782ef52aaf04c34e,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,1221,333,107
+phpdbg_cmd.c,adodb-pdo_firebird.inc.php,\sapi\phpdbg\phpdbg_cmd.c,\drivers\adodb-pdo_firebird.inc.php,c3faf149557bf1d65c779588fc2ea157,9495b386496271e4936472af040fd5ea,5728986709773301975,5738134642182631639,7,N,651,333,97
+zend_optimizer.c,adodb-pdo_firebird.inc.php,\ext\opcache\Optimizer\zend_optimizer.c,\drivers\adodb-pdo_firebird.inc.php,79fb43bcd2f55501d75e9b982bb1e00d,9495b386496271e4936472af040fd5ea,6891342019816892631,5738134642182631639,7,N,1354,333,104
+pcre2_auto_possess.c,adodb-pdo_firebird.inc.php,\ext\pcre\pcre2lib\pcre2_auto_possess.c,\drivers\adodb-pdo_firebird.inc.php,14eaa46e5fa5413a14462276ea25c3b4,9495b386496271e4936472af040fd5ea,1117441424505747670,5738134642182631639,6,N,846,333,101
+pcre2_dfa_match.c,adodb-pdo_firebird.inc.php,\ext\pcre\pcre2lib\pcre2_dfa_match.c,\drivers\adodb-pdo_firebird.inc.php,ea41d1c512748c30b8ca9a2f4690cf30,9495b386496271e4936472af040fd5ea,5734757011186825431,5738134642182631639,7,N,2792,333,94
+pcre2_pattern_info.c,adodb-pdo_firebird.inc.php,\ext\pcre\pcre2lib\pcre2_pattern_info.c,\drivers\adodb-pdo_firebird.inc.php,784ee0b7bc5371a257fff21e0cf23c71,9495b386496271e4936472af040fd5ea,5440897066781423829,5738134642182631639,6,N,294,333,39
+decode.c,adodb-pdo_firebird.inc.php,\ext\opcache\jit\libudis86\decode.c,\drivers\adodb-pdo_firebird.inc.php,33d315cb180b8d8d627a394354724f16,9495b386496271e4936472af040fd5ea,5730253892594809047,5738134642182631639,6,N,958,333,107

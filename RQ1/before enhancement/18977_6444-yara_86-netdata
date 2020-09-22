@@ -1,0 +1,11 @@
+6444-yara,86-netdata
+hex_grammar.c,libnetdata.h,\libyara\hex_grammar.c,\libnetdata\libnetdata.h,29c757a687084bfae5a2dc6bb31b05e5,b36073eea8dc836d3f37e426aebdabda,-9185373754145580836,-8023445049755510628,5,N,1251,248,52
+hex_grammar.h,libnetdata.h,\libyara\hex_grammar.h,\libnetdata\libnetdata.h,04125316d53f72e519fcbfea7d139d22,b36073eea8dc836d3f37e426aebdabda,-7168891418501121892,-8023445049755510628,8,N,34,248,5
+re_grammar.c,libnetdata.h,\libyara\re_grammar.c,\libnetdata\libnetdata.h,f5548efe67856a9e3ce0e59a2574092d,b36073eea8dc836d3f37e426aebdabda,-4204392720934578020,-8023445049755510628,8,N,1367,248,50
+endian.h,libnetdata.h,\libyara\include\yara\endian.h,\libnetdata\libnetdata.h,f44500c257dc9e47f34b1473280aea77,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,55,248,15
+endian.h,clocks.h,\libyara\include\yara\endian.h,\libnetdata\clocks\clocks.h,f44500c257dc9e47f34b1473280aea77,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,55,66,10
+integers.h,libnetdata.h,\libyara\include\yara\integers.h,\libnetdata\libnetdata.h,f8e220916ba72c943da73bf32049b841,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,57,248,18
+integers.h,clocks.h,\libyara\include\yara\integers.h,\libnetdata\clocks\clocks.h,f8e220916ba72c943da73bf32049b841,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,57,66,10
+limits.h,libnetdata.h,\libyara\include\yara\limits.h,\libnetdata\libnetdata.h,1b76e5cbfb6a87b1b52e9aef743d23ec,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,77,248,25
+limits.h,clocks.h,\libyara\include\yara\limits.h,\libnetdata\clocks\clocks.h,1b76e5cbfb6a87b1b52e9aef743d23ec,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,77,66,9
+strutils.h,libnetdata.h,\libyara\include\yara\strutils.h,\libnetdata\libnetdata.h,62646260db13811e153f2c59cbdfb33a,b36073eea8dc836d3f37e426aebdabda,-8023518717034571368,-8023445049755510628,5,N,59,248,16

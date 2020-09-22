@@ -1,0 +1,5 @@
+10572-Openfire,14239-neomutt
+ProfiledConnection.java,index.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\index.c,82b3cca56b0b2195d9beda1ef5898c9c,7c4455a78525c3f7c899c3c99f65abdb,5747704796764879063,5152385215651952855,8,N,828,3369,243
+ProfiledConnection.java,makedoc.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\doc\makedoc.c,82b3cca56b0b2195d9beda1ef5898c9c,d63c7815bb9dd918fbdba186cb042cd0,5747704796764879063,5729109850747091199,8,N,828,1236,248
+ProfiledConnection.java,gnupgparse.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\ncrypt\gnupgparse.c,82b3cca56b0b2195d9beda1ef5898c9c,f75870fa20165e3fdeb846c65685b7e2,5747704796764879063,5170681089130805703,8,N,828,338,77
+GroupEventDispatcher.java,gnupgparse.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\ncrypt\gnupgparse.c,68bd878d44b313df2afdd340fe0c0022,f75870fa20165e3fdeb846c65685b7e2,8016956053561850069,5170681089130805703,7,N,73,338,27

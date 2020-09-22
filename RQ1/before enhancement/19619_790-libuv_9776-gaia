@@ -1,0 +1,12 @@
+790-libuv,9776-gaia
+s5.c,orientation.js,\samples\socks5-proxy\s5.c,\dev_apps\uitest\js\API\orientation.js,cc133e56e5a931d4f7019c3ac0e6fcc9,7f674abe2d64a83f3c5f7fc6b2372c43,6846020141864235479,5729127442933135575,7,N,221,55,18
+handle-inl.h,orientation.js,\src\win\handle-inl.h,\dev_apps\uitest\js\API\orientation.js,34080acd31e6a3b5bf545c24c6e85c3f,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135571,5729127442933135575,1,N,110,55,15
+handle-inl.h,lcd.js,\src\win\handle-inl.h,\dev_apps\uitest\js\HW\lcd.js,34080acd31e6a3b5bf545c24c6e85c3f,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135571,973255871980679315,6,N,110,62,8
+handle-inl.h,pdf.worker.js,\src\win\handle-inl.h,\disabled_apps\pdfjs\content\build\pdf.worker.js,34080acd31e6a3b5bf545c24c6e85c3f,0b5f788a191b12bb182b6955242c5ffb,5729127442933135571,6899975385106659575,8,N,110,37193,18
+handle.c,window.js,\src\win\handle.c,\apps\homescreen\js\window.js,ffaba150ba89c73bb6731c32d6bd3fcf,3ab8d3e4adbe810ee06488664272d8e9,3769521997419383153,3841649693917710705,5,N,95,151,25
+handle.c,notifications_system_message.js,\src\win\handle.c,\apps\system\js\notifications_system_message.js,ffaba150ba89c73bb6731c32d6bd3fcf,c29bdbf475e82af7707d85a35077c1dc,3769521997419383153,3481292793793612144,7,N,95,121,19
+handle.c,settings.js,\src\win\handle.c,\disabled_apps\bluetooth\js\settings.js,ffaba150ba89c73bb6731c32d6bd3fcf,354fe890d308b19bbff5a5f99ae18ecf,3769521997419383153,3770085770931738993,6,N,95,713,25
+handle.c,console.js,\src\win\handle.c,\apps\keyboard\js\keyboard\console.js,ffaba150ba89c73bb6731c32d6bd3fcf,0b7d6c291c67a696df251c6c2405fc72,3769521997419383153,3553340419178785137,8,N,95,48,12
+handle.c,cache.js,\src\win\handle.c,\disabled_apps\communications\contacts\js\cache.js,ffaba150ba89c73bb6731c32d6bd3fcf,96ac3db1e87e4683114ad864f6fd4477,3769521997419383153,3841579599509064048,6,N,95,360,24
+handle.c,list.js,\src\win\handle.c,\disabled_apps\communications\contacts\js\views\list.js,ffaba150ba89c73bb6731c32d6bd3fcf,50cc036de8a84d7a28bd4a131ca04afe,3769521997419383153,3769557757320235379,7,N,95,1751,26
+req-inl.h,orientation.js,\src\win\req-inl.h,\dev_apps\uitest\js\API\orientation.js,8f8490b9a2a16c0821fd15a0612918a2,7f674abe2d64a83f3c5f7fc6b2372c43,5729110126698821787,5729127442933135575,8,N,145,55,15

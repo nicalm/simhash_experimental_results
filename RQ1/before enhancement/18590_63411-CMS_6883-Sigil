@@ -1,0 +1,7 @@
+63411-CMS,6883-Sigil
+Config.php,ContentTab.h,\iu-system\core\Config.php,\src\Tabs\ContentTab.h,b7543ad40a0e7bf84eb7e0433269125b,2675c1f564ab450037b4790688d2f44e,1719297390733452206,1431083237210080174,7,N,176,167,37
+DB_driver.php,ContentTab.h,\iu-system\database\DB_driver.php,\src\Tabs\ContentTab.h,13826e9a6978c4af56e7af0bf5e691d2,2675c1f564ab450037b4790688d2f44e,1573228237887992750,1431083237210080174,8,N,712,167,38
+Upload.php,ContentTab.h,\iu-system\libraries\Upload.php,\src\Tabs\ContentTab.h,686371bca26f5fca2d3dbcdbd94d2442,2675c1f564ab450037b4790688d2f44e,575399239290220942,1431083237210080174,8,N,587,167,37
+JSMinPlus.php,pcre_fullinfo.c,\iu-resources\min\lib\JSMinPlus.php,\3rdparty\pcre\pcre_fullinfo.c,ada381ab05cfa7307d75a5e154803be9,8923cc431580197b3e121f54e41dba57,5735588175405398231,5729127442933135575,7,N,1637,135,30
+JSMinPlus.php,pcre_printint.c,\iu-resources\min\lib\JSMinPlus.php,\3rdparty\pcre\pcre_printint.c,ada381ab05cfa7307d75a5e154803be9,45da6b48d068b2a9be418b4e58f5dcbd,5735588175405398231,1119416149570533845,8,N,1637,591,139
+JSMinPlus.php,printf-args.c,\iu-resources\min\lib\JSMinPlus.php,\3rdparty\hunspell\intl\printf-args.c,ada381ab05cfa7307d75a5e154803be9,32e9cc807cac7369c6c119a76b828fae,5735588175405398231,6882048947539982551,8,N,1637,141,39

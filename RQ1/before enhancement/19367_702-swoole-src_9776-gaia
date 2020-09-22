@@ -1,0 +1,9 @@
+702-swoole-src,9776-gaia
+multipart_parser.c,orientation.js,\thirdparty\multipart_parser.c,\dev_apps\uitest\js\API\orientation.js,7f2f6adb3104232d3e7d7ffdbf0d2f1a,7f674abe2d64a83f3c5f7fc6b2372c43,5621032255581894871,5729127442933135575,6,N,243,55,18
+swoole_http_parser.c,orientation.js,\thirdparty\swoole_http_parser.c,\dev_apps\uitest\js\API\orientation.js,d155f3ba8a7cdb53f79f34af305581eb,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,1234,55,18
+swoole_http_parser.c,lcd.js,\thirdparty\swoole_http_parser.c,\dev_apps\uitest\js\HW\lcd.js,d155f3ba8a7cdb53f79f34af305581eb,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,1234,62,9
+swoole_http_parser.c,pdf.worker.js,\thirdparty\swoole_http_parser.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,d155f3ba8a7cdb53f79f34af305581eb,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,1234,37193,360
+shared_server.php,orientation.js,\examples\task\shared_server.php,\dev_apps\uitest\js\API\orientation.js,89d74cf619828e10fc034ee03643184a,7f674abe2d64a83f3c5f7fc6b2372c43,1135455896583321814,5729127442933135575,7,N,111,55,11
+log.c,orientation.js,\src\core\log.c,\dev_apps\uitest\js\API\orientation.js,fcd6d98ec4555c3e125d89e154fba5fa,7f674abe2d64a83f3c5f7fc6b2372c43,5693098645905783253,5729127442933135575,4,N,114,55,14
+get.php,orientation.js,\tests\include\lib\src\responder\get.php,\dev_apps\uitest\js\API\orientation.js,0e93a44800862fa891e9d4a8bd016ee0,7f674abe2d64a83f3c5f7fc6b2372c43,8034970456441796823,5729127442933135575,2,N,71,55,17
+get.php,lcd.js,\tests\include\lib\src\responder\get.php,\dev_apps\uitest\js\HW\lcd.js,0e93a44800862fa891e9d4a8bd016ee0,3ab7d944f9f63d991cca7c6b1fe0faa4,8034970456441796823,973255871980679315,7,N,71,62,8

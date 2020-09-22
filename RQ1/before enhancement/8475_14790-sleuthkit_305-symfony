@@ -1,0 +1,5 @@
+14790-sleuthkit,305-symfony
+usnjls_lib.c,PhpExtractor.php,\tsk\fs\usnjls_lib.c,\src\Symfony\Component\Translation\Extractor\PhpExtractor.php,48e95a276115acd301ddb5b9726a7100,3b69dbe310c3273ec2739c3cdb9673bb,5729127445080619223,5585012256735261395,8,N,267,161,37
+usnjls_lib.c,IpValidator.php,\tsk\fs\usnjls_lib.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,48e95a276115acd301ddb5b9726a7100,7ca48c5d09328c72e03da3c6a432f9bf,5729127445080619223,5746860357875939543,5,N,267,69,23
+dos.c,IpValidator.php,\tsk\vs\dos.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,87019305b1f4020a75d7e674cebe6f30,7ca48c5d09328c72e03da3c6a432f9bf,5729127442933135575,5746860357875939543,4,N,850,69,23
+softmagic.c,IpValidator.php,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,c9a5bb85f007b34bfa13df4253839c91,7ca48c5d09328c72e03da3c6a432f9bf,5152631506249235159,5746860357875939543,8,N,1731,69,23

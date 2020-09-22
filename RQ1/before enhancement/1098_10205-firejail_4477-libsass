@@ -1,0 +1,5 @@
+10205-firejail,4477-libsass
+caps.c,base.h,\src\firejail\caps.c,\include\sass\base.h,0b9d72adabe6b183bf9a7948ffeb2934,26dfd0d8cb029fd73ca71c0971ecc070,-5717602040541816676,-8023163575290504548,6,N,334,63,16
+sbox.c,base.h,\src\firejail\sbox.c,\include\sass\base.h,8a6f9f9ce42bcca368916f82519b79d6,26dfd0d8cb029fd73ca71c0971ecc070,-8024007999708931940,-8023163575290504548,6,N,190,63,13
+syscall.c,base.h,\src\fseccomp\syscall.c,\include\sass\base.h,bf0ef0cc7976e59f6ac60c1a011c8188,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,1564,63,13
+syscall.h,base.h,\src\include\syscall.h,\include\sass\base.h,e5d70ee64e8335903c40165f92bcb3a5,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,5186,63,11

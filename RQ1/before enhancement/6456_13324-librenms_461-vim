@@ -1,0 +1,13 @@
+13324-librenms,461-vim
+rewrites.php,regexp_bt.c,\includes\rewrites.php,\src\regexp_bt.c,5389d55c6eafa211ede2994f342bca9b,742bccef44abc3e4675f541514311c5a,5729127442933135575,5747071474845923799,4,N,1602,4250,172
+rewrites.php,OleAut.cpp,\includes\rewrites.php,\src\VisVim\OleAut.cpp,5389d55c6eafa211ede2994f342bca9b,0226285743e6bdb095a2a0482d468239,5729127442933135575,5152666690529049037,7,N,1602,612,111
+rewrites.php,state.c,\includes\rewrites.php,\src\libvterm\src\state.c,5389d55c6eafa211ede2994f342bca9b,63c747323ec753db949ffd5310779779,5729127442933135575,1117159949461403859,5,N,1602,1575,176
+libvirt-vminfo.inc.php,regexp_bt.c,\includes\discovery\libvirt-vminfo.inc.php,\src\regexp_bt.c,bb4b3773cf786ace10a58f9ec481435e,742bccef44abc3e4675f541514311c5a,5730182974087411863,5747071474845923799,6,N,112,4250,28
+ports.csv.inc.php,regexp_bt.c,\includes\html\reports\ports.csv.inc.php,\src\regexp_bt.c,363f50b93f6f3f7b86ed810c407bde48,742bccef44abc3e4675f541514311c5a,5729127512726350071,5747071474845923799,8,N,140,4250,34
+viptela.inc.php,regexp_bt.c,\includes\polling\os\viptela.inc.php,\src\regexp_bt.c,c64de710870736d919a9de98ce834a46,742bccef44abc3e4675f541514311c5a,5729127442928941271,5747071474845923799,5,N,48,4250,15
+viptela.inc.php,OleAut.cpp,\includes\polling\os\viptela.inc.php,\src\VisVim\OleAut.cpp,c64de710870736d919a9de98ce834a46,0226285743e6bdb095a2a0482d468239,5729127442928941271,5152666690529049037,8,N,48,612,15
+viptela.inc.php,parser.c,\includes\polling\os\viptela.inc.php,\src\libvterm\src\parser.c,c64de710870736d919a9de98ce834a46,8a5d788e5734e49b50e677cd92231b62,5729127442928941271,3386921385161406677,8,N,48,294,15
+viptela.inc.php,state.c,\includes\polling\os\viptela.inc.php,\src\libvterm\src\state.c,c64de710870736d919a9de98ce834a46,63c747323ec753db949ffd5310779779,5729127442928941271,1117159949461403859,6,N,48,1575,24
+AdvaSysAlmTrap.php,state.c,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,\src\libvterm\src\state.c,56f813b9379330897dbc82d45cf9f46e,63c747323ec753db949ffd5310779779,1121945025240414455,1117159949461403859,8,N,32,1575,11
+linux.inc.php,regexp_bt.c,\includes\discovery\sensors\state\linux.inc.php,\src\regexp_bt.c,f9f2f629ba22b31deca0a4fa8d6f22cc,742bccef44abc3e4675f541514311c5a,5747071472597776631,5747071474845923799,5,N,39,4250,11
+linux.inc.php,OleAut.cpp,\includes\discovery\sensors\state\linux.inc.php,\src\VisVim\OleAut.cpp,f9f2f629ba22b31deca0a4fa8d6f22cc,0226285743e6bdb095a2a0482d468239,5747071472597776631,5152666690529049037,8,N,39,612,11

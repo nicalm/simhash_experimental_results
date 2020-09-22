@@ -1,0 +1,5 @@
+5271-CouchPotatoServer,7408-DeepVideoAnalytics
+plugin.py,admin.py,\libs\suds\plugin.py,\server\dvaapp\admin.py,a94baf44383cd4aee9c3127eed4bd6f3,f0db44fda07145839decb1bbed4578ed,9217329227369710981,9217329227336156549,1,N,72,76,13
+etree.py,task_shared.py,\libs\html5lib\treewalkers\etree.py,\server\dvaapp\task_shared.py,a780515f48bd56e4fa0fffac53531dec,61a9613ea8cc5bfba0befa6caaf95b1c,7428745276238463335,8581720656646111591,6,N,103,311,19
+fastclick.js,fastclick.js,\couchpotato\static\scripts\vendor\fastclick.js,\server\dvaapp\static\plugins\fastclick\fastclick.js,10e704e561b407955f273819d083b958,10e704e561b407955f273819d083b958,6644123427968739771,6644123427968739771,0,Y,400,400,400
+exceptions.py,admin.py,\libs\requests\packages\urllib3\exceptions.py,\server\dvaapp\admin.py,398c4b8bafe797e796cc6aea31e535b3,f0db44fda07145839decb1bbed4578ed,4610147908045669765,9217329227336156549,4,N,89,76,18

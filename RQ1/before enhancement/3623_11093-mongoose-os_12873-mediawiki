@@ -1,0 +1,7 @@
+11093-mongoose-os,12873-mediawiki
+stm32_gpio.c,IPTC.php,\platforms\stm32\src\stm32_gpio.c,\includes\media\IPTC.php,e200da8a2025b3d7ac8ebf6bb2f0807c,5acd3160fef09ca8547c657db582b971,6739068456009267415,5729127442933135575,8,N,404,377,74
+stm32_gpio.c,bench_if_switch.php,\platforms\stm32\src\stm32_gpio.c,\maintenance\benchmarks\bench_if_switch.php,e200da8a2025b3d7ac8ebf6bb2f0807c,ebc9d6c5664eaffdc591b48a194dced3,6739068456009267415,5729127442933135575,8,N,404,73,24
+sockets.c,LogFormatter.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\includes\logging\LogFormatter.php,b526977271e8df660051cad38636f3c4,1a5b87b8ddd192cf448a8d7e785d9d75,830341896054814943,5729127442933127383,8,N,1856,551,151
+sockets.c,FormatMetadata.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\includes\media\FormatMetadata.php,b526977271e8df660051cad38636f3c4,d4c424b998a37738addfaa8660b2d286,830341896054814943,5729109850747091159,8,N,1856,1326,321
+sockets.c,IPTC.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\includes\media\IPTC.php,b526977271e8df660051cad38636f3c4,5acd3160fef09ca8547c657db582b971,830341896054814943,5729127442933135575,7,N,1856,377,117
+sockets.c,bench_if_switch.php,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,\maintenance\benchmarks\bench_if_switch.php,b526977271e8df660051cad38636f3c4,ebc9d6c5664eaffdc591b48a194dced3,830341896054814943,5729127442933135575,7,N,1856,73,24

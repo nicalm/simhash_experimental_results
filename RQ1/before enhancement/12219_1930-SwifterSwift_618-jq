@@ -1,0 +1,8 @@
+1930-SwifterSwift,618-jq
+CGColorExtensions.swift,jv_dtoa.c,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\jv_dtoa.c,13a384d167268ac57b0c34b9cb13ed0f,e22c5b05bfd24415a3e8d8da3f8791ac,1189793885789145236,-8023445049755510756,8,N,21,3652,8
+CGColorExtensions.swift,lexer.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\lexer.h,13a384d167268ac57b0c34b9cb13ed0f,da2a1a7176c85a8ba5c6ad487a6476ec,1189793885789145236,-8023445049755510628,7,N,21,554,5
+NSAttributedStringExtensions.swift,jv_dtoa.c,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\jv_dtoa.c,682db1376e5e9e45d24a9e1b1ad3e9f8,e22c5b05bfd24415a3e8d8da3f8791ac,-9174114755220842340,-8023445049755510756,7,N,87,3652,28
+NSAttributedStringExtensions.swift,lexer.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\lexer.h,682db1376e5e9e45d24a9e1b1ad3e9f8,da2a1a7176c85a8ba5c6ad487a6476ec,-9174114755220842340,-8023445049755510628,6,N,87,554,11
+NSAttributedStringExtensions.swift,util.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\util.h,682db1376e5e9e45d24a9e1b1ad3e9f8,c0e2f00907bef80727b12e6e43b86952,-9174114755220842340,-9171862957553610562,8,N,87,42,7
+StringExtensions.swift,jv_dtoa.c,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\jv_dtoa.c,d53332d341abeff92e3d2d2ce16a4d0a,e22c5b05bfd24415a3e8d8da3f8791ac,-3051550226512422756,-8023445049755510756,8,N,650,3652,187
+StringExtensions.swift,lexer.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\lexer.h,d53332d341abeff92e3d2d2ce16a4d0a,da2a1a7176c85a8ba5c6ad487a6476ec,-3051550226512422756,-8023445049755510628,7,N,650,554,56

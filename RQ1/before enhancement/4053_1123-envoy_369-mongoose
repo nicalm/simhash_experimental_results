@@ -1,0 +1,5 @@
+1123-envoy,369-mongoose
+buffer_fuzz.cc,ReadPreference.js,\test\common\buffer\buffer_fuzz.cc,\lib\drivers\node-mongodb-native\ReadPreference.js,7151b07959a8cacb8c82ff437756a1c7,72ad104b2d3e1cc34b02578eb97d2c64,1117441974261557335,5440897058057271519,8,N,401,30,9
+header_map_impl_fuzz_test.cc,ReadPreference.js,\test\common\http\header_map_impl_fuzz_test.cc,\lib\drivers\node-mongodb-native\ReadPreference.js,2cd640c272d9bb6db5693ff62858ef92,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,173,30,8
+tap_config_base.cc,ReadPreference.js,\source\extensions\common\tap\tap_config_base.cc,\lib\drivers\node-mongodb-native\ReadPreference.js,3e951364e0bf73ec7b131db5be14b0f0,72ad104b2d3e1cc34b02578eb97d2c64,1121945015543183603,5440897058057271519,7,N,174,30,8
+codec_impl.cc,ReadPreference.js,\source\extensions\filters\network\common\redis\codec_impl.cc,\lib\drivers\node-mongodb-native\ReadPreference.js,47c279138a906bf61f0065115ca3b2c6,72ad104b2d3e1cc34b02578eb97d2c64,5747141981029054675,5440897058057271519,8,N,585,30,8

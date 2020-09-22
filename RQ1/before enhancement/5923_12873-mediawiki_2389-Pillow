@@ -1,0 +1,4 @@
+12873-mediawiki,2389-Pillow
+FormatMetadata.php,FliDecode.c,\includes\media\FormatMetadata.php,\src\libImaging\FliDecode.c,d4c424b998a37738addfaa8660b2d286,93128dc18746c911ae74ad9f56192e4b,5729109850747091159,5153458476439616215,7,N,1326,160,47
+IPTC.php,FliDecode.c,\includes\media\IPTC.php,\src\libImaging\FliDecode.c,5acd3160fef09ca8547c657db582b971,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,377,160,42
+bench_if_switch.php,FliDecode.c,\maintenance\benchmarks\bench_if_switch.php,\src\libImaging\FliDecode.c,ebc9d6c5664eaffdc591b48a194dced3,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,73,160,24

@@ -1,0 +1,3 @@
+140-neovim,7025-Stellar
+func_attr.h,Stellar-Swift.h,\src\nvim\func_attr.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,09c1a1629d6fa1c24e2cb5acdc7bfde8,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,159,231,29
+win_defs.h,Stellar-Swift.h,\src\nvim\os\win_defs.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,559a6dc04630310a39a09d004fb6797d,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,84,231,24

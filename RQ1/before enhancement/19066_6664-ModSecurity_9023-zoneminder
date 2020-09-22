@@ -1,0 +1,14 @@
+6664-ModSecurity,9023-zoneminder
+unique_id.cc,zm_ffmpeg.h,\src\unique_id.cc,\src\zm_ffmpeg.h,7c20c0dbffc732616cd5e43c73b8087b,7e2fcd3ba00999285d6aaf2ef78cc14d,1199926922539489428,-8023445049755510628,6,N,177,281,17
+check_config.h,zm_ffmpeg.h,\others\mbedtls\check_config.h,\src\zm_ffmpeg.h,306e92b56ac8d1b085c9f72fb65f46a7,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,402,281,37
+check_config.h,zm_signal.h,\others\mbedtls\check_config.h,\src\zm_signal.h,306e92b56ac8d1b085c9f72fb65f46a7,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,402,27,4
+check_config.h,ow-crypt.h,\others\mbedtls\check_config.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,306e92b56ac8d1b085c9f72fb65f46a7,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,402,23,4
+platform.h,zm_ffmpeg.h,\others\mbedtls\platform.h,\src\zm_ffmpeg.h,d00d535ad1c35ca86d366afc8578c1ab,7e2fcd3ba00999285d6aaf2ef78cc14d,-7879409027045336932,-8023445049755510628,5,N,106,281,40
+severity.cc,TestAppLibSession.php,\src\actions\severity.cc,\web\api\lib\Cake\Test\test_app\Model\Datasource\Session\TestAppLibSession.php,497d4e061fc56cdefb643c5f6d57a643,32c509f69603825d44507f7d307bbdb0,6717025446861306266,6644967852822854041,4,N,62,22,12
+severity.cc,TestPluginSession.php,\src\actions\severity.cc,\web\api\lib\Cake\Test\test_app\Plugin\TestPlugin\Model\Datasource\Session\TestPluginSession.php,497d4e061fc56cdefb643c5f6d57a643,8694a3e19a7d5adeeb2bdcbd710b83af,6717025446861306266,6644967990261807513,5,N,62,22,12
+seclang-parser.cc,control_functions.php,\src\parser\seclang-parser.cc,\web\includes\control_functions.php,c95834041ac82565ed4d4a4bccd1b864,c1201120aa45568b6a8a04c25886293a,5729127442933135575,-3494240195874867113,4,N,6079,715,166
+seclang-parser.cc,timeline_functions.php,\src\parser\seclang-parser.cc,\web\skins\classic\includes\timeline_functions.php,c95834041ac82565ed4d4a4bccd1b864,742f3a99e9a4fd354674e33b3997d940,5729127442933135575,6882031355077310614,8,N,6079,499,169
+geo_lookup.h,zm_ffmpeg.h,\src\utils\geo_lookup.h,\src\zm_ffmpeg.h,7f149a21d7e38ffd2ba73078cb8e9c82,7e2fcd3ba00999285d6aaf2ef78cc14d,1830428735907880156,-8023445049755510628,8,N,50,281,9
+phase.h,stream.php,\src\utils\phase.h,\web\ajax\stream.php,a09f3ae3e8191f752c4eb96a4ac598b6,2de755109bc4d6ef819757d397d0693e,-1170387186198464297,8056925500321870547,8,N,38,145,11
+phase.h,control_functions.php,\src\utils\phase.h,\web\includes\control_functions.php,a09f3ae3e8191f752c4eb96a4ac598b6,c1201120aa45568b6a8a04c25886293a,-1170387186198464297,-3494240195874867113,5,N,38,715,11
+escape_seq_decode.cc,zmu.cpp,\src\actions\transformations\escape_seq_decode.cc,\src\zmu.cpp,b8692d2d5e6a4258b9b1b9bda49e6fca,a0bffa70dfc4066f7976aa2edb26d062,5458916000809007318,5458634527711295702,6,N,118,649,39

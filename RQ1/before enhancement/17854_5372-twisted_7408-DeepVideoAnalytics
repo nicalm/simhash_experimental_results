@@ -1,0 +1,17 @@
+5372-twisted,7408-DeepVideoAnalytics
+imap4.py,task_shared.py,\src\twisted\mail\imap4.py,\server\dvaapp\task_shared.py,5f9b8f231768a1528765e3f9a2d6ca11,61a9613ea8cc5bfba0befa6caaf95b1c,8438098050182676846,8581720656646111591,8,N,3336,311,39
+_except.py,admin.py,\src\twisted\mail\_except.py,\server\dvaapp\admin.py,47457bf33ce2d4c44a4ebbe34ae214a3,f0db44fda07145839decb1bbed4578ed,9216062555581220629,9217329227336156549,7,N,129,76,14
+raiser.c,bbox.c,\src\twisted\test\raiser.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,03329048f02326320ae3e07a7faee64c,b42f28bb593ba51126ab3c36f2280e44,-8023445050292381540,-7735003018152322916,4,N,3117,5912,2210
+raiser.c,cython_nms.c,\src\twisted\test\raiser.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,03329048f02326320ae3e07a7faee64c,340c61e73ba74d7820ff458fae32d716,-8023445050292381540,-7735003018152322916,4,N,3117,6623,2320
+raiser.c,gpu_nms.c,\src\twisted\test\raiser.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,03329048f02326320ae3e07a7faee64c,c5f744cc55310f8443ffae08bc289c17,-8023445050292381540,-7735003018152322916,4,N,3117,5655,2329
+raiser.c,gpu_nms.cpp,\src\twisted\test\raiser.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,03329048f02326320ae3e07a7faee64c,2472408016d358310deb015143185fa8,-8023445050292381540,-7590887830068078436,6,N,3117,4948,2075
+ewords.py,admin.py,\src\twisted\words\ewords.py,\server\dvaapp\admin.py,fe29f91f5764d6495de4e2c8e7b3f374,f0db44fda07145839decb1bbed4578ed,9215081825569112453,9217329227336156549,5,N,17,76,5
+erroneous.py,admin.py,\src\twisted\trial\test\erroneous.py,\server\dvaapp\admin.py,c153be690ca58f7546c1eade0fbe77a3,f0db44fda07145839decb1bbed4578ed,-8223141076499195,9217329227336156549,5,N,95,76,12
+ordertests.py,admin.py,\src\twisted\trial\test\ordertests.py,\server\dvaapp\admin.py,940294d34b85dc8b1f67177bdd9e8414,f0db44fda07145839decb1bbed4578ed,9217329227336156549,9217329227336156549,0,N,16,76,6
+skipping.py,admin.py,\src\twisted\trial\test\skipping.py,\server\dvaapp\admin.py,2672a1a89f384c1daa7d8541fe68fc07,f0db44fda07145839decb1bbed4578ed,9217346828111103109,9217329227336156549,5,N,147,76,24
+suppression.py,admin.py,\src\twisted\trial\test\suppression.py,\server\dvaapp\admin.py,f7be548a2e1484eab91d4ed2ab16c89f,f0db44fda07145839decb1bbed4578ed,9217400695625516421,9217329227336156549,3,N,53,76,11
+iocpsupport.c,bbox.c,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,6f126cf6c7552cdc709488795a6bc165,b42f28bb593ba51126ab3c36f2280e44,-7590887830076270404,-7735003018152322916,4,N,8738,5912,3434
+iocpsupport.c,cython_nms.c,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,6f126cf6c7552cdc709488795a6bc165,340c61e73ba74d7820ff458fae32d716,-7590887830076270404,-7735003018152322916,4,N,8738,6623,3635
+iocpsupport.c,gpu_nms.c,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,6f126cf6c7552cdc709488795a6bc165,c5f744cc55310f8443ffae08bc289c17,-7590887830076270404,-7735003018152322916,4,N,8738,5655,3634
+iocpsupport.c,gpu_nms.cpp,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,6f126cf6c7552cdc709488795a6bc165,2472408016d358310deb015143185fa8,-7590887830076270404,-7590887830068078436,4,N,8738,4948,3086
+jid.py,task_shared.py,\src\twisted\words\protocols\jabber\jid.py,\server\dvaapp\task_shared.py,4da72a5b62a1bceaa459e938d616bd46,61a9613ea8cc5bfba0befa6caaf95b1c,7429363201639055727,8581720656646111591,7,N,113,311,19

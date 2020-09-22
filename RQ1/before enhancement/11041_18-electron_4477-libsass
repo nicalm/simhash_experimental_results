@@ -1,0 +1,4 @@
+18-electron,4477-libsass
+atom_browser_main_parts.cc,base.h,\shell\browser\atom_browser_main_parts.cc,\include\sass\base.h,4312360427f5f392ec4f692be2a7319a,26dfd0d8cb029fd73ca71c0971ecc070,-8023445187194455912,-8023163575290504548,8,N,375,63,14
+linux_syscall_support.h,base.h,\vendor\third_party\lss\linux_syscall_support.h,\include\sass\base.h,d7c4a715ebced0be3633fcfd349a02ff,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,3833,63,19
+windows_toast_notification.cc,ast_sel_super.cpp,\shell\browser\notifications\win\windows_toast_notification.cc,\src\ast_sel_super.cpp,f9cde3587133a9adf94f59223efdc1b0,ffef62efd83b8d29b2b0c7a2ff9681d7,1431083237210080174,1431225074243617162,6,N,338,350,60

@@ -1,0 +1,11 @@
+491-hub,7242-Sia
+client.go,currency.go,\github\client.go,\types\currency.go,9d114bf67a10c38538e4fd37812fad55,df20c85cbb4cc6bce9bdc03bac57ed46,-1213426939858291577,-1213418109677898617,6,N,1068,119,45
+client.go,wallet.go,\github\client.go,\node\api\wallet.go,9d114bf67a10c38538e4fd37812fad55,5165362a68e5da6a3fa803aab145a734,-1213426939858291577,-1213690807620504409,7,N,1068,537,227
+client.go,miner.go,\github\client.go,\node\api\client\miner.go,9d114bf67a10c38538e4fd37812fad55,93632f99f25277b85752586231fdb005,-1213426939858291577,-1212279049919957874,8,N,1068,30,14
+zsyscall_aix_ppc.go,currency.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc.go,\types\currency.go,71be12e0574c0517f0cf7efb343d30af,df20c85cbb4cc6bce9bdc03bac57ed46,-1213347742473028537,-1213418109677898617,8,N,992,119,40
+zsyscall_aix_ppc64_gc.go,currency.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\types\currency.go,32a63f12a9be52b4ba8a69abafc38526,df20c85cbb4cc6bce9bdc03bac57ed46,-1213409347940420473,-1213418109677898617,3,N,594,119,42
+zsyscall_aix_ppc64_gc.go,renter.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\node\api\renter.go,32a63f12a9be52b4ba8a69abafc38526,ce7b7b2fb040a0a3b5116595d5688f90,-1213409347940420473,-1213405000728890233,8,N,594,551,136
+zsyscall_aix_ppc64_gc.go,wallet.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\node\api\wallet.go,32a63f12a9be52b4ba8a69abafc38526,5165362a68e5da6a3fa803aab145a734,-1213409347940420473,-1213690807620504409,6,N,594,537,174
+zsyscall_aix_ppc64_gc.go,miner.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\node\api\client\miner.go,32a63f12a9be52b4ba8a69abafc38526,93632f99f25277b85752586231fdb005,-1213409347940420473,-1212279049919957874,5,N,594,30,13
+zsyscall_aix_ppc64_gc.go,renter.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\node\api\client\renter.go,32a63f12a9be52b4ba8a69abafc38526,ca55118ba7554614ce07819c1bd618ac,-1213409347940420473,-3521503059604703737,7,N,594,151,51
+zsyscall_aix_ppc64_gc.go,wallet.go,\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\node\api\client\wallet.go,32a63f12a9be52b4ba8a69abafc38526,1850f0023b23cf739ff8d55ed7a5db59,-1213409347940420473,-1208905750468934523,6,N,594,117,39

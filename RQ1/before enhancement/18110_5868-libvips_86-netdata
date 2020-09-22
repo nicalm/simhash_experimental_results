@@ -1,0 +1,4 @@
+5868-libvips,86-netdata
+buffer.c,libnetdata.h,\libvips\iofuncs\buffer.c,\libnetdata\libnetdata.h,7574cb2d8655be6f6b1d83b926fa5645,b36073eea8dc836d3f37e426aebdabda,-7744230673238075236,-8023445049755510628,8,N,447,248,26
+init.c,libnetdata.h,\libvips\iofuncs\init.c,\libnetdata\libnetdata.h,e400d93356240e897bbc32ba27bdcd3b,b36073eea8dc836d3f37e426aebdabda,-9176930621544019780,-8023445049755510628,8,N,636,248,42
+vector.c,libnetdata.h,\libvips\iofuncs\vector.c,\libnetdata\libnetdata.h,055954f4e165b83818f7e8bd6db904ec,b36073eea8dc836d3f37e426aebdabda,-8023484632710850404,-8023445049755510628,4,N,400,248,41

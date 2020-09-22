@@ -1,0 +1,5 @@
+10081-irssi,2257-core
+otr-ops.c,appconfig.php,\src\otr\otr-ops.c,\core\ajax\appconfig.php,78f1f6c5943450ae1c92e51ced46839e,031cdb064a8d37cd4b40af5d608c8543,1117440324994119895,5152665582536538583,6,N,248,37,11
+otr-ops.c,MDB2SchemaReader.php,\src\otr\otr-ops.c,\lib\private\DB\MDB2SchemaReader.php,78f1f6c5943450ae1c92e51ced46839e,d8397eafd4a2b3b1ab041811b2ffbaec,1117440324994119895,5731379242747078871,5,N,248,238,53
+formats.c,appconfig.php,\src\fe-common\core\formats.c,\core\ajax\appconfig.php,81ad733fd560a7711254766564a4d1b4,031cdb064a8d37cd4b40af5d608c8543,5729127511652612311,5152665582536538583,7,N,1160,37,11
+formats.c,MDB2SchemaReader.php,\src\fe-common\core\formats.c,\lib\private\DB\MDB2SchemaReader.php,81ad733fd560a7711254766564a4d1b4,d8397eafd4a2b3b1ab041811b2ffbaec,5729127511652612311,5731379242747078871,4,N,1160,238,74

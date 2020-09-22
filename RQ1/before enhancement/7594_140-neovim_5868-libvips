@@ -1,0 +1,9 @@
+140-neovim,5868-libvips
+func_attr.h,buffer.c,\src\nvim\func_attr.h,\libvips\iofuncs\buffer.c,09c1a1629d6fa1c24e2cb5acdc7bfde8,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,159,447,21
+func_attr.h,init.c,\src\nvim\func_attr.h,\libvips\iofuncs\init.c,09c1a1629d6fa1c24e2cb5acdc7bfde8,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,159,636,32
+func_attr.h,vector.c,\src\nvim\func_attr.h,\libvips\iofuncs\vector.c,09c1a1629d6fa1c24e2cb5acdc7bfde8,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,159,400,36
+regexp_nfa.c,composite.cpp,\src\nvim\regexp_nfa.c,\libvips\conversion\composite.cpp,60f0050c891f0a1452121882a2c3026d,1073a16ac3f3888e7e8384f333542daa,5729127442949388502,-3566301638204286473,8,N,5234,1177,218
+signal.c,vector.c,\src\nvim\os\signal.c,\libvips\iofuncs\vector.c,fb1b9787087855284d84fda5e08694ba,055954f4e165b83818f7e8bd6db904ec,-8023445041727612780,-8023484632710850404,7,N,160,400,41
+win_defs.h,buffer.c,\src\nvim\os\win_defs.h,\libvips\iofuncs\buffer.c,559a6dc04630310a39a09d004fb6797d,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,84,447,23
+win_defs.h,init.c,\src\nvim\os\win_defs.h,\libvips\iofuncs\init.c,559a6dc04630310a39a09d004fb6797d,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,84,636,25
+win_defs.h,vector.c,\src\nvim\os\win_defs.h,\libvips\iofuncs\vector.c,559a6dc04630310a39a09d004fb6797d,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,84,400,24

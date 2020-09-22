@@ -1,0 +1,16 @@
+1541-h2o,17934-harfbuzz
+fmacros.h,hb-fc-list.c,\deps\hiredis\fmacros.h,\util\hb-fc-list.c,9d6fd32f84c9d0377076a4587579ec51,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023515419036559204,1199786163039426780,8,N,20,178,7
+fmacros.h,test-c.c,\deps\hiredis\fmacros.h,\test\api\test-c.c,9d6fd32f84c9d0377076a4587579ec51,40a532b71e6242f205df120cc480a67e,-8023515419036559204,-8023445049757468516,5,N,20,26,6
+logconf.c,hb-ot-shape-complex-vowel-constraints.cc,\lib\core\logconf.c,\src\hb-ot-shape-complex-vowel-constraints.cc,938552448ad917655fb38241a71d87b8,af3b5cee198ad0cdcf32177f2059763e,5693098645914163415,5729127511516264663,6,N,766,420,120
+logconf.c,hb-subset.cc,\lib\core\logconf.c,\src\hb-subset.cc,938552448ad917655fb38241a71d87b8,8cd5ec526a4232f06c744be9b77a51bc,5693098645914163415,5170681089138145431,6,N,766,256,54
+expires.c,hb-ot-shape-complex-vowel-constraints.cc,\lib\handler\expires.c,\src\hb-ot-shape-complex-vowel-constraints.cc,d35b403dc7aa28628e3b34f30d194ae7,af3b5cee198ad0cdcf32177f2059763e,5694222348808923351,5729127511516264663,7,N,58,420,16
+mrbconf.h,hb-fc-list.c,\deps\mruby\include\mrbconf.h,\util\hb-fc-list.c,b30b9460d209b1cc68a61c5604bdd5a1,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510628,1199786163039426780,8,N,43,178,13
+mrbconf.h,test-c.c,\deps\mruby\include\mrbconf.h,\test\api\test-c.c,b30b9460d209b1cc68a61c5604bdd5a1,40a532b71e6242f205df120cc480a67e,-8023445049755510628,-8023445049757468516,3,N,43,26,6
+mruby.h,test-c.c,\deps\mruby\include\mruby.h,\test\api\test-c.c,919df8d515b52adcdfa92f19037768c8,40a532b71e6242f205df120cc480a67e,-9176366554362357572,-8023445049757468516,5,N,440,26,8
+codedump.c,hb-ot-shape-complex-vowel-constraints.cc,\deps\mruby\src\codedump.c,\src\hb-ot-shape-complex-vowel-constraints.cc,7fda31add2a50b1a066d625a7cb020c0,af3b5cee198ad0cdcf32177f2059763e,5729127442933135575,5729127511516264663,4,N,525,420,110
+codedump.c,hb-subset.cc,\deps\mruby\src\codedump.c,\src\hb-subset.cc,7fda31add2a50b1a066d625a7cb020c0,8cd5ec526a4232f06c744be9b77a51bc,5729127442933135575,5170681089138145431,4,N,525,256,50
+types.h,test-c.c,\deps\picotls\deps\micro-ecc\types.h,\test\api\test-c.c,d0ccddb6a5d5d18dbed2dc07299a4b3d,40a532b71e6242f205df120cc480a67e,-8023445049757607011,-8023445049757468516,5,N,87,26,6
+uECC.h,hb-fc-list.c,\deps\picotls\deps\micro-ecc\uECC.h,\util\hb-fc-list.c,e777f21ea5ae63708919f7e3ba1592f7,c27d8fd53993dc1d7a624ea1ec1d10a6,1199926987099265180,1199786163039426780,7,N,105,178,12
+uECC.h,test-c.c,\deps\picotls\deps\micro-ecc\uECC.h,\test\api\test-c.c,e777f21ea5ae63708919f7e3ba1592f7,40a532b71e6242f205df120cc480a67e,1199926987099265180,-8023445049757468516,4,N,105,26,8
+wincompat.h,test-c.c,\deps\picotls\picotlsvs\picotls\wincompat.h,\test\api\test-c.c,7c4e1724c3a0beeaea1e4c416d606c60,40a532b71e6242f205df120cc480a67e,-8041318848215590756,-8023445049757468516,8,N,28,26,7
+port.h,test-c.c,\deps\brotli\c\include\brotli\port.h,\test\api\test-c.c,350994917b4cef7e95001ccfdd8a21d9,40a532b71e6242f205df120cc480a67e,-9031978687939553124,-8023445049757468516,7,N,102,26,6

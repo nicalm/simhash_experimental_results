@@ -1,0 +1,5 @@
+1460-iTerm2,2202-qBittorrent
+ini.h,application.cpp,\ThirdParty\inih\ini.h,\src\app\application.cpp,3cf89cb2c107d2c3cb0a3bf2fcf603a1,1769f1c34b2b51e4c126498e3a0b5a58,-8023445049755510564,-7445858400229599076,6,N,57,573,17
+ini.h,main.cpp,\ThirdParty\inih\ini.h,\src\app\main.cpp,3cf89cb2c107d2c3cb0a3bf2fcf603a1,0ab876c235d091cc9321f5b26945d353,-8023445049755510564,-8023445118508476260,4,N,57,324,17
+BetterFontPicker-Swift.h,application.cpp,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\app\application.cpp,9cdfc1f6cb7907e29a4e6b2cf0041946,1769f1c34b2b51e4c126498e3a0b5a58,-8023479959251789668,-7445858400229599076,8,N,335,573,39
+BetterFontPicker-Swift.h,main.cpp,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\app\main.cpp,9cdfc1f6cb7907e29a4e6b2cf0041946,0ab876c235d091cc9321f5b26945d353,-8023479959251789668,-8023445118508476260,6,N,335,324,44

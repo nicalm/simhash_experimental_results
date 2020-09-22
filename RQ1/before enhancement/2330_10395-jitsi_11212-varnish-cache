@@ -1,0 +1,5 @@
+10395-jitsi,11212-varnish-cache
+lzma.h,gzguts.h,\src\native\windows\setup\include\lzma.h,\lib\libvgz\gzguts.h,4ce48c8f939c04739c2c0b8409ca662f,7127325d12a1c60eed486f9681b3a149,-8023445049755510628,-8023445049755510628,0,N,121,157,38
+lzma.h,zconf.h,\src\native\windows\setup\include\lzma.h,\lib\libvgz\zconf.h,4ce48c8f939c04739c2c0b8409ca662f,ca00915f6353095e76b1240157dc32b6,-8023445049755510628,-8023445049755510628,0,N,121,431,41
+lzma.h,zutil.c,\src\native\windows\setup\include\lzma.h,\lib\libvgz\zutil.c,4ce48c8f939c04739c2c0b8409ca662f,80cacf0c2fdd6f41f0562b27c2041b64,-8023445049755510628,-8023445049754986340,1,N,121,247,33
+lzma.h,zutil.h,\src\native\windows\setup\include\lzma.h,\lib\libvgz\zutil.h,4ce48c8f939c04739c2c0b8409ca662f,af5aab860ef07102ffcf6fab7fd2e544,-8023445049755510628,-8023445049755510628,0,N,121,196,40

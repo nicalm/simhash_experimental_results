@@ -1,0 +1,5 @@
+11604-pdns,5372-twisted
+threadname.cc,raiser.c,\pdns\threadname.cc,\src\twisted\test\raiser.c,5b915147d70647a42e05b4e28ce34c57,03329048f02326320ae3e07a7faee64c,-8023445049889728356,-8023445050292381540,2,N,39,3117,13
+version.cc,raiser.c,\pdns\version.cc,\src\twisted\test\raiser.c,2d47bb8e09166cdc8de706154500a37c,03329048f02326320ae3e07a7faee64c,-8023445049755379556,-8023445050292381540,2,N,141,3117,46
+version.cc,iocpsupport.c,\pdns\version.cc,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,2d47bb8e09166cdc8de706154500a37c,6f126cf6c7552cdc709488795a6bc165,-8023445049755379556,-7590887830076270404,8,N,141,8738,46
+murmur3.h,raiser.c,\ext\probds\murmur3.h,\src\twisted\test\raiser.c,02ac5aff2e57a41f9dc94781ccd8d595,03329048f02326320ae3e07a7faee64c,-9176375350707038052,-8023445050292381540,5,N,46,3117,15

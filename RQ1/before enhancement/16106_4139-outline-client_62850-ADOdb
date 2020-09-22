@@ -1,0 +1,4 @@
+4139-outline-client,62850-ADOdb
+pcre_fullinfo.c,adodb-pdo_firebird.inc.php,\third_party\pcre\pcre_fullinfo.c,\drivers\adodb-pdo_firebird.inc.php,8923cc431580197b3e121f54e41dba57,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,135,333,28
+ncd_tokenizer_test.c,adodb-pdo_firebird.inc.php,\third_party\badvpn\examples\ncd_tokenizer_test.c,\drivers\adodb-pdo_firebird.inc.php,809950a2bfada58b600886b8876d3ef5,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,108,333,33
+oidrequest.c,adodb-pdo_firebird.inc.php,\third_party\tap-windows6\src\oidrequest.c,\drivers\adodb-pdo_firebird.inc.php,002c163e640287d2c51baba214ecdaa8,9495b386496271e4936472af040fd5ea,1118567324412590303,5738134642182631639,7,N,493,333,70

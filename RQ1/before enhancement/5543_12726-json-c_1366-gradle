@@ -1,0 +1,5 @@
+12726-json-c,1366-gradle
+debug.h,gtest-port.h,\debug.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,9485e3ba51f6b887d7f314a17084403b,23446e26c2aacb9eb58191ae642bfa7a,-8023445049889727851,-7879329861679654756,5,N,51,906,13
+debug.h,gtest-port.h,\debug.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,9485e3ba51f6b887d7f314a17084403b,23446e26c2aacb9eb58191ae642bfa7a,-8023445049889727851,-7879329861679654756,5,N,51,906,13
+math_compat.h,gtest-port.h,\math_compat.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,4357c12e0501613ef23237ebf196e67e,23446e26c2aacb9eb58191ae642bfa7a,-8021193387649222628,-7879329861679654756,7,N,24,906,7
+math_compat.h,gtest-port.h,\math_compat.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,4357c12e0501613ef23237ebf196e67e,23446e26c2aacb9eb58191ae642bfa7a,-8021193387649222628,-7879329861679654756,7,N,24,906,7

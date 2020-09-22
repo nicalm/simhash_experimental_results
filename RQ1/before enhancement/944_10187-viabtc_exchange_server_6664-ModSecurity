@@ -1,0 +1,6 @@
+10187-viabtc_exchange_server,6664-ModSecurity
+http_parser.c,rbl.cc,\utils\http_parser.c,\src\operators\rbl.cc,d09d117e8f6d43dee97217c802830c00,f5e38e024eae4da010e654d26348ad95,5728845967956424919,5747072022722656727,8,N,1850,186,50
+http_parser.c,seclang-parser.cc,\utils\http_parser.c,\src\parser\seclang-parser.cc,d09d117e8f6d43dee97217c802830c00,c95834041ac82565ed4d4a4bccd1b864,5728845967956424919,5729127442933135575,1,N,1850,6079,473
+http_parser.c,phase.h,\utils\http_parser.c,\src\utils\phase.h,d09d117e8f6d43dee97217c802830c00,a09f3ae3e8191f752c4eb96a4ac598b6,5728845967956424919,-1170387186198464297,4,N,1850,38,12
+fmacros.h,check_config.h,\depends\hiredis\fmacros.h,\others\mbedtls\check_config.h,fa39b5b5c7b057e483d5dce607e953a2,306e92b56ac8d1b085c9f72fb65f46a7,-7226589390687643492,-8023445049755510628,6,N,17,402,4
+win32.h,check_config.h,\depends\hiredis\win32.h,\others\mbedtls\check_config.h,0ec99e391511695a9d7ef00f6d95b969,306e92b56ac8d1b085c9f72fb65f46a7,-7880077529720759656,-8023445049755510628,8,N,32,402,5

@@ -1,0 +1,4 @@
+5868-libvips,981-numpy
+buffer.c,npy_common.h,\libvips\iofuncs\buffer.c,\numpy\core\include\numpy\npy_common.h,7574cb2d8655be6f6b1d83b926fa5645,a173a9479ba36f92005f6b19e1c98ca6,-7744230673238075236,-8023445066935379812,7,N,447,951,22
+init.c,npy_common.h,\libvips\iofuncs\init.c,\numpy\core\include\numpy\npy_common.h,e400d93356240e897bbc32ba27bdcd3b,a173a9479ba36f92005f6b19e1c98ca6,-9176930621544019780,-8023445066935379812,7,N,636,951,36
+vector.c,npy_common.h,\libvips\iofuncs\vector.c,\numpy\core\include\numpy\npy_common.h,055954f4e165b83818f7e8bd6db904ec,a173a9479ba36f92005f6b19e1c98ca6,-8023484632710850404,-8023445066935379812,5,N,400,951,41

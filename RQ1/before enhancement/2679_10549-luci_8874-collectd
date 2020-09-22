@@ -1,0 +1,9 @@
+10549-luci,8874-collectd
+axhttp.h,collectd.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\daemon\collectd.h,15eb217d5f5922cce10b8494e4915b7f,2b583af2ee5d68797b260dc2234a9a80,-7491774003658044260,-8023445049755510628,8,N,101,198,11
+axhttp.h,globals.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\daemon\globals.h,15eb217d5f5922cce10b8494e4915b7f,feeaafb2ae305aa928fec04d3d81224e,-7491774003658044260,-9221158476939214692,8,N,101,20,6
+axhttp.h,mount.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\utils\mount\mount.h,15eb217d5f5922cce10b8494e4915b7f,8535c5ea598e2c2e046efd01984ce929,-7491774003658044260,-8023445049755510628,8,N,101,64,10
+axssl.c,collectd.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\daemon\collectd.h,f2b0cb059db544f4352723a1918a2843,2b583af2ee5d68797b260dc2234a9a80,-8030199623489105704,-8023445049755510628,8,N,686,198,33
+axssl.c,stdendian.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\libcollectdclient\collectd\stdendian.h,f2b0cb059db544f4352723a1918a2843,098cf6af06fc9530aaf9936b14d4d802,-8030199623489105704,-8032521930559661924,7,N,686,165,29
+axssl.c,mount.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\utils\mount\mount.h,f2b0cb059db544f4352723a1918a2843,8535c5ea598e2c2e046efd01984ce929,-8030199623489105704,-8023445049755510628,8,N,686,64,15
+dialog.h,collectd.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\daemon\collectd.h,65291cd84768397473c02d7325db3d87,2b583af2ee5d68797b260dc2234a9a80,-7933373057317024612,-8023445049755510628,8,N,128,198,22
+dialog.h,mount.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\utils\mount\mount.h,65291cd84768397473c02d7325db3d87,8535c5ea598e2c2e046efd01984ce929,-7933373057317024612,-8023445049755510628,8,N,128,64,15

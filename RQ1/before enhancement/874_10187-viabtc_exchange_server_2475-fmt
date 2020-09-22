@@ -1,0 +1,6 @@
+10187-viabtc_exchange_server,2475-fmt
+http_parser.c,chrono_duration.cpp,\utils\http_parser.c,\test\fuzzing\chrono_duration.cpp,d09d117e8f6d43dee97217c802830c00,72440fd90a0d01848031589bb2a841a9,5728845967956424919,5729127447228102871,2,N,1850,129,42
+http_parser.c,one_arg.cpp,\utils\http_parser.c,\test\fuzzing\one_arg.cpp,d09d117e8f6d43dee97217c802830c00,883cdbba8da3fa541c4927e1ea02ff22,5728845967956424919,2270360721499404501,6,N,1850,117,38
+http_parser.c,sprintf.cpp,\utils\http_parser.c,\test\fuzzing\sprintf.cpp,d09d117e8f6d43dee97217c802830c00,c2ddd179a4100129a6f72f09df658863,5728845967956424919,1117439216892295391,7,N,1850,101,30
+http_parser.c,two_args.cpp,\utils\http_parser.c,\test\fuzzing\two_args.cpp,d09d117e8f6d43dee97217c802830c00,c159700c6123fdba738f71e168dab048,5728845967956424919,1117439216892295391,7,N,1850,97,29
+fmacros.h,gmock-gtest-all.cc,\depends\hiredis\fmacros.h,\test\gmock-gtest-all.cc,fa39b5b5c7b057e483d5dce607e953a2,176a284cd66ba91697e35520bb8dadd6,-7226589390687643492,1992841858525747416,8,N,17,6485,5

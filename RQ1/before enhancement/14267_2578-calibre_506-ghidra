@@ -1,0 +1,4 @@
+2578-calibre,506-ghidra
+lzxc.c,types.h,\src\calibre\utils\lzx\lzxc.c,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,5148bebfcfad4cb4119b4e362bc0686f,cc1a30d590b235c7ea93b0e1d1549a93,-8059473846773950244,-8023445206521817060,7,N,1033,280,49
+lzxc.c,ansidecl.h,\src\calibre\utils\lzx\lzxc.c,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,5148bebfcfad4cb4119b4e362bc0686f,4e4a2dda74fbf81b9297e96b5756c8ac,-8059473846773950244,-8023444774877602148,6,N,1033,213,49
+msstdint.h,ansidecl.h,\src\calibre\utils\lzx\msstdint.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,2dacb8ee9f393a22b1266f714d3efcd6,4e4a2dda74fbf81b9297e96b5756c8ac,-2830794129776780644,-8023444774877602148,8,N,138,213,20

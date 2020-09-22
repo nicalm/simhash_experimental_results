@@ -1,0 +1,5 @@
+4790-node-opencv,7408-DeepVideoAnalytics
+init.cc,bbox.c,\src\init.cc,\repos\tf_ctpn_cpu\lib\utils\bbox.c,ac230f241e7062df9add8317bcf2a3be,b42f28bb593ba51126ab3c36f2280e44,-8032663355242784612,-7735003018152322916,6,N,67,5912,12
+init.cc,cython_nms.c,\src\init.cc,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,ac230f241e7062df9add8317bcf2a3be,340c61e73ba74d7820ff458fae32d716,-8032663355242784612,-7735003018152322916,6,N,67,6623,12
+init.cc,gpu_nms.c,\src\init.cc,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,ac230f241e7062df9add8317bcf2a3be,c5f744cc55310f8443ffae08bc289c17,-8032663355242784612,-7735003018152322916,6,N,67,5655,12
+init.cc,gpu_nms.cpp,\src\init.cc,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,ac230f241e7062df9add8317bcf2a3be,2472408016d358310deb015143185fa8,-8032663355242784612,-7590887830068078436,8,N,67,4948,12

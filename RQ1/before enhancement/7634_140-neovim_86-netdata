@@ -1,0 +1,9 @@
+140-neovim,86-netdata
+func_attr.h,libnetdata.h,\src\nvim\func_attr.h,\libnetdata\libnetdata.h,09c1a1629d6fa1c24e2cb5acdc7bfde8,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,159,248,35
+func_attr.h,clocks.h,\src\nvim\func_attr.h,\libnetdata\clocks\clocks.h,09c1a1629d6fa1c24e2cb5acdc7bfde8,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,159,66,9
+math.c,libnetdata.h,\src\nvim\math.c,\libnetdata\libnetdata.h,75df7c69ecc2b1ec74564c3c1f542f23,b36073eea8dc836d3f37e426aebdabda,1202161192041503380,-8023445049755510628,8,N,32,248,8
+vim.h,libnetdata.h,\src\nvim\vim.h,\libnetdata\libnetdata.h,063f51630c5bc51971152a00ff86b82c,b36073eea8dc836d3f37e426aebdabda,-8059237438889600868,-8023445049755510628,7,N,196,248,15
+signal.c,libnetdata.h,\src\nvim\os\signal.c,\libnetdata\libnetdata.h,fb1b9787087855284d84fda5e08694ba,b36073eea8dc836d3f37e426aebdabda,-8023445041727612780,-8023445049755510628,5,N,160,248,23
+win_defs.h,libnetdata.h,\src\nvim\os\win_defs.h,\libnetdata\libnetdata.h,559a6dc04630310a39a09d004fb6797d,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,84,248,27
+win_defs.h,clocks.h,\src\nvim\os\win_defs.h,\libnetdata\clocks\clocks.h,559a6dc04630310a39a09d004fb6797d,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,84,66,10
+xinclude.h,libnetdata.h,\src\nvim\xdiff\xinclude.h,\libnetdata\libnetdata.h,6073b44455df689e1e6cb206f6008b71,b36073eea8dc836d3f37e426aebdabda,1199922588581689500,-8023445049755510628,8,N,29,248,13

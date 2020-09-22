@@ -1,0 +1,9 @@
+1193-mpv,6444-yara
+io.h,endian.h,\osdep\io.h,\libyara\include\yara\endian.h,1e5b614f4ca8f110251d3d969bd9fa84,f44500c257dc9e47f34b1473280aea77,-5573522037410505572,-8023445049755510628,8,N,147,55,14
+io.h,integers.h,\osdep\io.h,\libyara\include\yara\integers.h,1e5b614f4ca8f110251d3d969bd9fa84,f8e220916ba72c943da73bf32049b841,-5573522037410505572,-8023445049755510628,8,N,147,57,16
+io.h,limits.h,\osdep\io.h,\libyara\include\yara\limits.h,1e5b614f4ca8f110251d3d969bd9fa84,1b76e5cbfb6a87b1b52e9aef743d23ec,-5573522037410505572,-8023445049755510628,8,N,147,77,13
+stream_dvdnav.c,grammar.c,\stream\stream_dvdnav.c,\libyara\grammar.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,306ae4ed5d0a265782bc5a130c6f342f,1119693774075239127,5730252312047818967,7,N,595,3301,131
+stream_dvdnav.c,pe_utils.c,\stream\stream_dvdnav.c,\libyara\modules\pe\pe_utils.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,85b3b0e9639ebe8f194fd360aa44aa10,1119693774075239127,5729127442933135575,5,N,595,1795,87
+context.c,endian.h,\video\out\gpu\context.c,\libyara\include\yara\endian.h,54249a4a32b8a7f1f708836246c0e394,f44500c257dc9e47f34b1473280aea77,-9176401463991052147,-8023445049755510628,8,N,162,55,14
+context.c,integers.h,\video\out\gpu\context.c,\libyara\include\yara\integers.h,54249a4a32b8a7f1f708836246c0e394,f8e220916ba72c943da73bf32049b841,-9176401463991052147,-8023445049755510628,8,N,162,57,17
+context.c,limits.h,\video\out\gpu\context.c,\libyara\include\yara\limits.h,54249a4a32b8a7f1f708836246c0e394,1b76e5cbfb6a87b1b52e9aef743d23ec,-9176401463991052147,-8023445049755510628,8,N,162,77,16

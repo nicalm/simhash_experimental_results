@@ -1,0 +1,5 @@
+464-gentelella,753-fish-shell
+moment.js,angular.js,\vendors\moment\moment.js,\share\tools\web_config\js\angular.js,f1cd5bdc747c20c6de4210e68b539782,1faa983a73524b130e6ca277c082797d,3455852176007088830,2305183019023581886,8,N,3064,6550,751
+Chart.bundle.js,angular.js,\vendors\Chart.js\dist\Chart.bundle.js,\share\tools\web_config\js\angular.js,cfc5e4a7c6088708fef9f9875b492230,1faa983a73524b130e6ca277c082797d,2302930534028395198,2305183019023581886,5,N,10705,6550,1672
+jquery.vmap.js,fish_key_reader.cpp,\vendors\jqvmap\dist\jquery.vmap.js,\src\fish_key_reader.cpp,ea44438e2ee9298ce038276342abba8f,428044dfdbd53dd3503b4b9ebb6acfbb,9204556912793258174,6889714400940032446,8,N,1046,332,86
+pathSvgToVml.js,pcre2_dfa_match.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\pcre2-10.32\src\pcre2_dfa_match.c,33048ad2c45faa5606888ee3add887d1,99abc0dd1121c97cbed498ec531c50ba,5730112596751329503,5734756942467348695,8,N,86,2764,18

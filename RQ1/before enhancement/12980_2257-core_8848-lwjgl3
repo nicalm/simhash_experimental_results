@@ -1,0 +1,3 @@
+2257-core,8848-lwjgl3
+appconfig.php,CGLLog.cpp,\core\ajax\appconfig.php,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,031cdb064a8d37cd4b40af5d608c8543,8ed8843634d29dc9d42c00e6488ff838,5152665582536538583,6882048947539982551,7,N,37,80,10
+MDB2SchemaReader.php,CGLLog.cpp,\lib\private\DB\MDB2SchemaReader.php,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,8ed8843634d29dc9d42c00e6488ff838,5731379242747078871,6882048947539982551,4,N,238,80,22

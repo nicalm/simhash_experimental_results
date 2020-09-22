@@ -1,0 +1,4 @@
+10549-luci,11788-fbthrift
+axhttp.h,thrift_config.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\thrift\lib\cpp\thrift_config.h,15eb217d5f5922cce10b8494e4915b7f,27c650bbff0590e9f2fafe163b055489,-7491774003658044260,-8023445049755510628,8,N,101,220,9
+axssl.c,thrift_config.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\thrift\lib\cpp\thrift_config.h,f2b0cb059db544f4352723a1918a2843,27c650bbff0590e9f2fafe163b055489,-8030199623489105704,-8023445049755510628,8,N,686,220,26
+dialog.h,thrift_config.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\thrift\lib\cpp\thrift_config.h,65291cd84768397473c02d7325db3d87,27c650bbff0590e9f2fafe163b055489,-7933373057317024612,-8023445049755510628,8,N,128,220,15

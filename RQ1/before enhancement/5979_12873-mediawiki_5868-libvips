@@ -1,0 +1,5 @@
+12873-mediawiki,5868-libvips
+LogFormatter.php,composite.cpp,\includes\logging\LogFormatter.php,\libvips\conversion\composite.cpp,1a5b87b8ddd192cf448a8d7e785d9d75,1073a16ac3f3888e7e8384f333542daa,5729127442933127383,-3566301638204286473,6,N,551,1177,127
+FormatMetadata.php,composite.cpp,\includes\media\FormatMetadata.php,\libvips\conversion\composite.cpp,d4c424b998a37738addfaa8660b2d286,1073a16ac3f3888e7e8384f333542daa,5729109850747091159,-3566301638204286473,8,N,1326,1177,158
+IPTC.php,composite.cpp,\includes\media\IPTC.php,\libvips\conversion\composite.cpp,5acd3160fef09ca8547c657db582b971,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,377,1177,109
+bench_if_switch.php,composite.cpp,\maintenance\benchmarks\bench_if_switch.php,\libvips\conversion\composite.cpp,ebc9d6c5664eaffdc591b48a194dced3,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,73,1177,23

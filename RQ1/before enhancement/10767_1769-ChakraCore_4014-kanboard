@@ -1,0 +1,9 @@
+1769-ChakraCore,4014-kanboard
+SCADeserialization.cpp,NumberComparator.php,\lib\SCACore\SCADeserialization.cpp,\vendor\symfony\finder\Comparator\NumberComparator.php,e7cec4a1a6f8f1c7678bf5f1f9a1c3ca,d227698b7f899a149f72d00907f80dbd,5657069848895469783,5656999445754853599,7,N,433,39,14
+allIIntCases.js,changes.php,\test\switchStatement\allIIntCases.js,\app\Template\task\changes.php,3c6ea8759efeb49539ccb710edff423d,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,156,75,19
+moreSwitches1.js,changes.php,\test\switchStatement\moreSwitches1.js,\app\Template\task\changes.php,bbf6e484ff026e5192b94a5e80e5b80c,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,89,75,17
+switchMathExp.js,changes.php,\test\switchStatement\switchMathExp.js,\app\Template\task\changes.php,11de62aefaef8ca5e5c1ce8e90e7463b,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,121,75,18
+expr-visitor.cc,changes.php,\lib\wabt\src\expr-visitor.cc,\app\Template\task\changes.php,4abc7e5040ae1441ebf128deb5224a1d,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,317,75,21
+interp.cc,changes.php,\lib\wabt\src\interp\interp.cc,\app\Template\task\changes.php,cbdeb4a0122375b3a2f4a23aee775ddf,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,2636,75,22
+opcode.js,changes.php,\test\benchmarks\ARES-6\Air\opcode.js,\app\Template\task\changes.php,72ced3de3f5de3211272927ad7bbad3f,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,1654,75,19
+inspector-blob.js,NumberComparator.php,\test\benchmarks\ARES-6\Babylon\inspector-blob.js,\vendor\symfony\finder\Comparator\NumberComparator.php,288cddec9da70af2f8d763d44e4aea4a,d227698b7f899a149f72d00907f80dbd,5657069848895467735,5656999445754853599,8,N,1030,39,14

@@ -1,0 +1,8 @@
+6883-Sigil,9776-gaia
+pcre_dfa_exec.c,orientation.js,\3rdparty\pcre\pcre_dfa_exec.c,\dev_apps\uitest\js\API\orientation.js,038ae7ba3ce3df1eb98c7ef1c1515fee,7f674abe2d64a83f3c5f7fc6b2372c43,5734765807279847671,5729127442933135575,5,N,2709,55,18
+pcre_fullinfo.c,orientation.js,\3rdparty\pcre\pcre_fullinfo.c,\dev_apps\uitest\js\API\orientation.js,8923cc431580197b3e121f54e41dba57,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,135,55,17
+pcre_fullinfo.c,lcd.js,\3rdparty\pcre\pcre_fullinfo.c,\dev_apps\uitest\js\HW\lcd.js,8923cc431580197b3e121f54e41dba57,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,135,62,8
+pcre_fullinfo.c,pdf.worker.js,\3rdparty\pcre\pcre_fullinfo.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,8923cc431580197b3e121f54e41dba57,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,135,37193,31
+printf-args.c,orientation.js,\3rdparty\hunspell\intl\printf-args.c,\dev_apps\uitest\js\API\orientation.js,32e9cc807cac7369c6c119a76b828fae,7f674abe2d64a83f3c5f7fc6b2372c43,6882048947539982551,5729127442933135575,1,N,141,55,18
+printf-args.c,lcd.js,\3rdparty\hunspell\intl\printf-args.c,\dev_apps\uitest\js\HW\lcd.js,32e9cc807cac7369c6c119a76b828fae,3ab7d944f9f63d991cca7c6b1fe0faa4,6882048947539982551,973255871980679315,8,N,141,62,9
+printf-args.c,pdf.worker.js,\3rdparty\hunspell\intl\printf-args.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,32e9cc807cac7369c6c119a76b828fae,0b5f788a191b12bb182b6955242c5ffb,6882048947539982551,6899975385106659575,6,N,141,37193,42

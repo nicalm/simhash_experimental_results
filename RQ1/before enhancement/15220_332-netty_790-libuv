@@ -1,0 +1,3 @@
+332-netty,790-libuv
+XmlDecoder.java,handle-inl.h,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\src\win\handle-inl.h,19ac8fd899723cb5b1efea0f9d7dc639,34080acd31e6a3b5bf545c24c6e85c3f,5729694790866091155,5729127442933135571,6,N,87,110,16
+AbstractInternalLogger.java,handle-inl.h,\common\src\main\java\io\netty\util\internal\logging\AbstractInternalLogger.java,\src\win\handle-inl.h,5259416e9e57298a7e2d676548160a9f,34080acd31e6a3b5bf545c24c6e85c3f,5730253312699972305,5729127442933135571,8,N,194,110,18

@@ -1,0 +1,9 @@
+11604-pdns,6664-ModSecurity
+threadname.cc,unique_id.cc,\pdns\threadname.cc,\src\unique_id.cc,5b915147d70647a42e05b4e28ce34c57,7c20c0dbffc732616cd5e43c73b8087b,-8023445049889728356,1199926922539489428,5,N,39,177,12
+threadname.cc,check_config.h,\pdns\threadname.cc,\others\mbedtls\check_config.h,5b915147d70647a42e05b4e28ce34c57,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049889728356,-8023445049755510628,1,N,39,402,9
+threadname.cc,platform.h,\pdns\threadname.cc,\others\mbedtls\platform.h,5b915147d70647a42e05b4e28ce34c57,d00d535ad1c35ca86d366afc8578c1ab,-8023445049889728356,-7879409027045336932,6,N,39,106,13
+version.cc,unique_id.cc,\pdns\version.cc,\src\unique_id.cc,2d47bb8e09166cdc8de706154500a37c,7c20c0dbffc732616cd5e43c73b8087b,-8023445049755379556,1199926922539489428,7,N,141,177,23
+version.cc,check_config.h,\pdns\version.cc,\others\mbedtls\check_config.h,2d47bb8e09166cdc8de706154500a37c,306e92b56ac8d1b085c9f72fb65f46a7,-8023445049755379556,-8023445049755510628,1,N,141,402,25
+version.cc,platform.h,\pdns\version.cc,\others\mbedtls\platform.h,2d47bb8e09166cdc8de706154500a37c,d00d535ad1c35ca86d366afc8578c1ab,-8023445049755379556,-7879409027045336932,6,N,141,106,27
+murmur3.h,check_config.h,\ext\probds\murmur3.h,\others\mbedtls\check_config.h,02ac5aff2e57a41f9dc94781ccd8d595,306e92b56ac8d1b085c9f72fb65f46a7,-9176375350707038052,-8023445049755510628,4,N,46,402,8
+murmur3.h,platform.h,\ext\probds\murmur3.h,\others\mbedtls\platform.h,02ac5aff2e57a41f9dc94781ccd8d595,d00d535ad1c35ca86d366afc8578c1ab,-9176375350707038052,-7879409027045336932,7,N,46,106,12

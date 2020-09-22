@@ -1,0 +1,4 @@
+12310-weechat,1930-SwifterSwift
+wee-url.c,CGColorExtensions.swift,\src\core\wee-url.c,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,2182536a79bada4949d9bc0483b5da6d,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,1111,21,8
+wee-url.c,NSAttributedStringExtensions.swift,\src\core\wee-url.c,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,2182536a79bada4949d9bc0483b5da6d,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,1111,87,28
+wee-url.c,StringExtensions.swift,\src\core\wee-url.c,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,2182536a79bada4949d9bc0483b5da6d,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,1111,650,103

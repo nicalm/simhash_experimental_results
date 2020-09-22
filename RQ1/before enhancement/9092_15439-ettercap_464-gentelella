@@ -1,0 +1,6 @@
+15439-ettercap,464-gentelella
+ec_filter.c,globalize.js,\src\ec_filter.c,\vendors\Flot\lib\globalize.js,93d0ed8de4c0c08c76b8fb5f7787aef5,5859e34a6af3806758409c1cf6b6a681,5729127442664700119,5728855313755060435,8,N,799,1177,143
+ef_test.c,globalize.js,\utils\etterfilter\ef_test.c,\vendors\Flot\lib\globalize.js,fa7fc65cd5f440dd843abbe86d1716e4,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,181,1177,45
+ef_test.c,pathSvgToVml.js,\utils\etterfilter\ef_test.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,fa7fc65cd5f440dd843abbe86d1716e4,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,181,86,17
+el_parser.c,globalize.js,\utils\etterlog\el_parser.c,\vendors\Flot\lib\globalize.js,e965aa39918fe671682ccf0efa3de321,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,230,1177,43
+el_parser.c,pathSvgToVml.js,\utils\etterlog\el_parser.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,e965aa39918fe671682ccf0efa3de321,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,230,86,26

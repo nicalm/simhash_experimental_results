@@ -1,0 +1,14 @@
+10081-irssi,1916-robomongo
+otr-ops.c,BsonUtils.cpp,\src\otr\otr-ops.c,\src\robomongo\core\utils\BsonUtils.cpp,78f1f6c5943450ae1c92e51ced46839e,debf75f981000bc99bd9efe7cb6eb327,1117440324994119895,5091868095651821783,7,N,248,682,69
+otr-ops.c,LexKVIrc.cpp,\src\otr\otr-ops.c,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,78f1f6c5943450ae1c92e51ced46839e,6343dba2bf0e94906c7e4f0cda130ffe,1117440324994119895,5729131843127130311,5,N,248,248,69
+otr-ops.c,LexPB.cpp,\src\otr\otr-ops.c,\src\third-party\qscintilla\sources\lexers\LexPB.cpp,78f1f6c5943450ae1c92e51ced46839e,efda66a3866f1596c6af9ad95b6dd757,1117440324994119895,5693111841932753367,8,N,248,303,62
+otr-ops.c,ScintillaQt.cpp,\src\otr\otr-ops.c,\src\third-party\qscintilla\sources\Qt3\ScintillaQt.cpp,78f1f6c5943450ae1c92e51ced46839e,b241763f79971cf66a08a89789e4e8c1,1117440324994119895,5152595222365518287,7,N,248,417,67
+otr-ops.c,ScintillaQt.cpp,\src\otr\otr-ops.c,\src\third-party\qscintilla\sources\Qt4Qt5\ScintillaQt.cpp,78f1f6c5943450ae1c92e51ced46839e,3923e72d8e490bfa249b1c3facf7b01e,1117440324994119895,5152596321881340367,8,N,248,405,67
+otr-ops.c,Editor.cpp,\src\otr\otr-ops.c,\src\third-party\qscintilla\sources\src\Editor.cpp,78f1f6c5943450ae1c92e51ced46839e,5e15ea74873c3aae6687a3b702329ea3,1117440324994119895,1117353463583905951,8,N,248,8023,59
+otr-ops.c,ScintillaBase.cpp,\src\otr\otr-ops.c,\src\third-party\qscintilla\sources\src\ScintillaBase.cpp,78f1f6c5943450ae1c92e51ced46839e,8670cdbb881ae80d3cbf590a8cd308a9,1117440324994119895,2270362928835770623,6,N,248,842,56
+formats.c,BsonUtils.cpp,\src\fe-common\core\formats.c,\src\robomongo\core\utils\BsonUtils.cpp,81ad733fd560a7711254766564a4d1b4,debf75f981000bc99bd9efe7cb6eb327,5729127511652612311,5091868095651821783,6,N,1160,682,224
+formats.c,LexKVIrc.cpp,\src\fe-common\core\formats.c,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,81ad733fd560a7711254766564a4d1b4,6343dba2bf0e94906c7e4f0cda130ffe,5729127511652612311,5729131843127130311,4,N,1160,248,94
+formats.c,LexPB.cpp,\src\fe-common\core\formats.c,\src\third-party\qscintilla\sources\lexers\LexPB.cpp,81ad733fd560a7711254766564a4d1b4,efda66a3866f1596c6af9ad95b6dd757,5729127511652612311,5693111841932753367,7,N,1160,303,122
+formats.c,ScintillaQt.cpp,\src\fe-common\core\formats.c,\src\third-party\qscintilla\sources\Qt3\ScintillaQt.cpp,81ad733fd560a7711254766564a4d1b4,b241763f79971cf66a08a89789e4e8c1,5729127511652612311,5152595222365518287,8,N,1160,417,110
+formats.c,ScintillaQt.cpp,\src\fe-common\core\formats.c,\src\third-party\qscintilla\sources\Qt4Qt5\ScintillaQt.cpp,81ad733fd560a7711254766564a4d1b4,3923e72d8e490bfa249b1c3facf7b01e,5729127511652612311,5152596321881340367,7,N,1160,405,110
+formats.c,ScintillaBase.cpp,\src\fe-common\core\formats.c,\src\third-party\qscintilla\sources\src\ScintillaBase.cpp,81ad733fd560a7711254766564a4d1b4,8670cdbb881ae80d3cbf590a8cd308a9,5729127511652612311,2270362928835770623,7,N,1160,842,177

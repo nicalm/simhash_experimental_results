@@ -1,0 +1,10 @@
+15760-bfgminer,981-numpy
+compat.h,npy_common.h,\compat.h,\numpy\core\include\numpy\npy_common.h,6f280ac9c52face753ea81ae98cfe95d,a173a9479ba36f92005f6b19e1c98ca6,-8014437852681811908,-8023445066935379812,8,N,164,951,19
+driver-cpu.c,npy_common.h,\driver-cpu.c,\numpy\core\include\numpy\npy_common.h,be0f700b73a52208dd53210582876f9e,a173a9479ba36f92005f6b19e1c98ca6,-7807272267641726562,-8023445066935379812,5,N,682,951,45
+driver-cpu.h,npy_common.h,\driver-cpu.h,\numpy\core\include\numpy\npy_common.h,092bcdcc676bceef9c2bba9e9b4bfe90,a173a9479ba36f92005f6b19e1c98ca6,-7446984297678579684,-8023445066935379812,7,N,62,951,14
+miner.h,npy_common.h,\miner.h,\numpy\core\include\numpy\npy_common.h,2a2a55093078b0e951ca70e852eb3abc,a173a9479ba36f92005f6b19e1c98ca6,-8021228434313848776,-8023445066935379812,7,N,1425,951,62
+cl_platform.h,npy_common.h,\CL\cl_platform.h,\numpy\core\include\numpy\npy_common.h,fc86a2210e718fbcf95aabcf0efa129a,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510564,-8023445066935379812,2,N,935,951,102
+signal.in.h,npy_common.h,\lib\signal.in.h,\numpy\core\include\numpy\npy_common.h,ab5029c765029582a72eaf9ee25fe736,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,258,951,63
+stddef.in.h,npy_common.h,\lib\stddef.in.h,\numpy\core\include\numpy\npy_common.h,51fb0aab8a1f88b1353623a5d3ebf080,a173a9479ba36f92005f6b19e1c98ca6,-7446702960451199844,-8023445066935379812,6,N,37,951,13
+stdint.in.h,npy_common.h,\lib\stdint.in.h,\numpy\core\include\numpy\npy_common.h,cae8be4f2dc822552d990c5e166b9add,a173a9479ba36f92005f6b19e1c98ca6,-8023455787174799140,-8023445066935379812,5,N,383,951,55
+string.in.h,npy_common.h,\lib\string.in.h,\numpy\core\include\numpy\npy_common.h,79edfbf7ab10d649596b9a9e586671ee,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,697,951,116

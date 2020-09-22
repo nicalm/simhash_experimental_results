@@ -1,0 +1,8 @@
+18692-spdk,99-redis
+queue.h,config.h,\include\spdk\queue.h,\src\config.h,ec100905d717ef23a63f758030236499,fe9fefbbc117a00a89d3fa3a9678435a,-9212465172521363396,-8023445049755510628,8,N,30,149,5
+queue.h,jemalloc_internal_decls.h,\include\spdk\queue.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,ec100905d717ef23a63f758030236499,b10ad6415790176a35be7bbab7206d99,-9212465172521363396,-9176366554630793060,8,N,30,85,6
+assert.h,config.h,\include\spdk_internal\assert.h,\src\config.h,340c3c292f11b3661cb114f5fb4a2722,fe9fefbbc117a00a89d3fa3a9678435a,-7384004271941560100,-8023445049755510628,7,N,16,149,5
+assert.h,fmacros.h,\include\spdk_internal\assert.h,\src\fmacros.h,340c3c292f11b3661cb114f5fb4a2722,296af6888322e71e6db95d8256ce3f2f,-7384004271941560100,-7374944295726034788,7,N,16,21,4
+assert.h,lzfP.h,\include\spdk_internal\assert.h,\src\lzfP.h,340c3c292f11b3661cb114f5fb4a2722,a8a99ddcfb21b5d90efea295fa1823be,-7384004271941560100,-7879329861679654756,8,N,16,77,6
+assert.h,llimits.h,\include\spdk_internal\assert.h,\deps\lua\src\llimits.h,340c3c292f11b3661cb114f5fb4a2722,0990f1abc3ce4ed347a3373a88d7961e,-7384004271941560100,-8023163574778799972,8,N,16,53,5
+assert.h,jemalloc_internal_types.h,\include\spdk_internal\assert.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,340c3c292f11b3661cb114f5fb4a2722,980de9a5931b9a6fb54cf696652d614a,-7384004271941560100,-8032452249077360612,8,N,16,129,5

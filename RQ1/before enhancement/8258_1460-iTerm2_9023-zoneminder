@@ -1,0 +1,6 @@
+1460-iTerm2,9023-zoneminder
+ini.h,zm_ffmpeg.h,\ThirdParty\inih\ini.h,\src\zm_ffmpeg.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510564,-8023445049755510628,1,N,57,281,20
+ini.h,zm_signal.h,\ThirdParty\inih\ini.h,\src\zm_signal.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510564,-8057222049236199396,8,N,57,27,5
+ini.h,ow-crypt.h,\ThirdParty\inih\ini.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510564,-5429384857455895396,7,N,57,23,4
+BetterFontPicker-Swift.h,zm_ffmpeg.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\zm_ffmpeg.h,9cdfc1f6cb7907e29a4e6b2cf0041946,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023479959251789668,-8023445049755510628,3,N,335,281,50
+BetterFontPicker-Swift.h,zm_signal.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\zm_signal.h,9cdfc1f6cb7907e29a4e6b2cf0041946,95bf5749d181b4fa528e43c6e262e7a0,-8023479959251789668,-8057222049236199396,8,N,335,27,5

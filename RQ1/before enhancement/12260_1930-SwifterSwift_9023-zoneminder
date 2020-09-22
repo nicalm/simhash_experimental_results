@@ -1,0 +1,4 @@
+1930-SwifterSwift,9023-zoneminder
+CGColorExtensions.swift,zm_ffmpeg.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\zm_ffmpeg.h,13a384d167268ac57b0c34b9cb13ed0f,7e2fcd3ba00999285d6aaf2ef78cc14d,1189793885789145236,-8023445049755510628,7,N,21,281,8
+NSAttributedStringExtensions.swift,zm_ffmpeg.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\zm_ffmpeg.h,682db1376e5e9e45d24a9e1b1ad3e9f8,7e2fcd3ba00999285d6aaf2ef78cc14d,-9174114755220842340,-8023445049755510628,6,N,87,281,14
+StringExtensions.swift,zm_ffmpeg.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\zm_ffmpeg.h,d53332d341abeff92e3d2d2ce16a4d0a,7e2fcd3ba00999285d6aaf2ef78cc14d,-3051550226512422756,-8023445049755510628,7,N,650,281,41

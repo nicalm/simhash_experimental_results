@@ -1,0 +1,3 @@
+10081-irssi,1366-gradle
+otr-ops.c,GradleModuleMetadataParser.java,\src\otr\otr-ops.c,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,78f1f6c5943450ae1c92e51ced46839e,73716c770f089fa732a0b2ac81bfe437,1117440324994119895,-3476265378978940713,7,N,248,607,55
+formats.c,GradleModuleMetadataParser.java,\src\fe-common\core\formats.c,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,81ad733fd560a7711254766564a4d1b4,73716c770f089fa732a0b2ac81bfe437,5729127511652612311,-3476265378978940713,6,N,1160,607,144

@@ -1,0 +1,4 @@
+10365-flatpak,1769-ChakraCore
+flatpak-builtins-build-bundle.c,DefaultCommonExternalApi.cpp,\app\flatpak-builtins-build-bundle.c,\lib\Common\DefaultCommonExternalApi.cpp,d95e4e4e863eac020ecab93a61c5685a,c37a54d31ce9b59258089faa5466d161,1395036985477628846,-7864275891760921682,7,N,540,39,18
+flatpak-builtins-build-init.c,GlobOpt.cpp,\app\flatpak-builtins-build-init.c,\lib\Backend\GlobOpt.cpp,e403fd252ea1b2c23f8407626f390409,fb265a755ae1e0d14049c9835d69a791,4313386448417723310,566391554150513070,8,N,454,14656,79
+flatpak-system-helper.c,VerifyMarkFalseReference.cpp,\system-helper\flatpak-system-helper.c,\lib\Runtime\Library\VerifyMarkFalseReference.cpp,f449b856cd257976e34a61e4f14e5686,04c995a0cad7e6534081bf9596bb8cae,6647219652632865177,6644967852823378329,3,N,1897,49,20

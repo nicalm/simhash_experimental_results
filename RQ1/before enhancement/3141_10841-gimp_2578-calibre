@@ -1,0 +1,17 @@
+10841-gimp,2578-calibre
+gimpwin32-io.h,lzxc.c,\libgimpbase\gimpwin32-io.h,\src\calibre\utils\lzx\lzxc.c,56ef6d63cf2566b506fd29ef2a5dcc22,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,58,1033,18
+gimpwin32-io.h,msstdint.h,\libgimpbase\gimpwin32-io.h,\src\calibre\utils\lzx\msstdint.h,56ef6d63cf2566b506fd29ef2a5dcc22,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,58,138,14
+globals.c,freetype.cpp,\plug-ins\gimpressionist\globals.c,\src\calibre\utils\fonts\freetype.cpp,d1e3b98001da64c239bf4920ef4caf5a,ce45c5119568c18bcc4b88728e2ae53e,6302752302258423931,6293727511001139579,8,N,58,285,15
+globals.c,outline.cpp,\plug-ins\gimpressionist\globals.c,\src\calibre\utils\podofo\outline.cpp,d1e3b98001da64c239bf4920ef4caf5a,580a07991153b8911ca19368156953d8,6302752302258423931,6293727511001139579,8,N,58,113,15
+globals.c,hunspell_wrapper.cpp,\plug-ins\gimpressionist\globals.c,\src\calibre\utils\spell\hunspell_wrapper.cpp,d1e3b98001da64c239bf4920ef4caf5a,195a888d0e68116525f29c9a10a6a8ae,6302752302258423931,6293727511001139579,8,N,58,173,14
+globals.c,device.cpp,\plug-ins\gimpressionist\globals.c,\src\calibre\devices\mtp\windows\device.cpp,d1e3b98001da64c239bf4920ef4caf5a,52fe950afa93fcd616d4241f58ddc10b,6302752302258423931,6293727510934030715,7,N,58,183,15
+imap_cern_parse.h,lzxc.c,\plug-ins\imagemap\imap_cern_parse.h,\src\calibre\utils\lzx\lzxc.c,af25bf3cfc37bc3ffcbfe1812577e007,5148bebfcfad4cb4119b4e362bc0686f,-8023444912450709284,-8059473846773950244,6,N,61,1033,13
+imap_csim_parse.c,lzxc.c,\plug-ins\imagemap\imap_csim_parse.c,\src\calibre\utils\lzx\lzxc.c,6c0fd8dae4d7bb8f472f756f2edb786f,5148bebfcfad4cb4119b4e362bc0686f,-8888144974840538916,-8059473846773950244,6,N,1468,1033,167
+imap_ncsa_parse.c,lzxc.c,\plug-ins\imagemap\imap_ncsa_parse.c,\src\calibre\utils\lzx\lzxc.c,77d25a2cd7957fe736c5a4a3beae98fb,5148bebfcfad4cb4119b4e362bc0686f,-9176377550015506276,-8059473846773950244,7,N,1212,1033,149
+pygimp-display.c,zlib2.c,\plug-ins\pygimp\pygimp-display.c,\src\calibre\utils\zlib2.c,bf0bdd67764f863f310cc5ab204b6052,b45b229c624773b0ee6327bc091f714d,6302734729516140923,5151853916344977787,8,N,98,340,33
+pygimp-display.c,freetype.cpp,\plug-ins\pygimp\pygimp-display.c,\src\calibre\utils\fonts\freetype.cpp,bf0bdd67764f863f310cc5ab204b6052,ce45c5119568c18bcc4b88728e2ae53e,6302734729516140923,6293727511001139579,5,N,98,285,33
+pygimp-display.c,outline.cpp,\plug-ins\pygimp\pygimp-display.c,\src\calibre\utils\podofo\outline.cpp,bf0bdd67764f863f310cc5ab204b6052,580a07991153b8911ca19368156953d8,6302734729516140923,6293727511001139579,5,N,98,113,28
+pygimp-display.c,hunspell_wrapper.cpp,\plug-ins\pygimp\pygimp-display.c,\src\calibre\utils\spell\hunspell_wrapper.cpp,bf0bdd67764f863f310cc5ab204b6052,195a888d0e68116525f29c9a10a6a8ae,6302734729516140923,6293727511001139579,5,N,98,173,27
+pygimp-display.c,device.cpp,\plug-ins\pygimp\pygimp-display.c,\src\calibre\devices\mtp\windows\device.cpp,bf0bdd67764f863f310cc5ab204b6052,52fe950afa93fcd616d4241f58ddc10b,6302734729516140923,6293727510934030715,4,N,98,183,27
+pygimp-display.c,html.c,\plug-ins\pygimp\pygimp-display.c,\src\calibre\gui2\tweak_book\editor\syntax\html.c,bf0bdd67764f863f310cc5ab204b6052,f259b1a2bf100f044cdb9be8bdc7dd2e,6302734729516140923,6293762695373228411,6,N,98,467,32
+scheme.h,lzxc.c,\plug-ins\script-fu\tinyscheme\scheme.h,\src\calibre\utils\lzx\lzxc.c,e1ad4e8baad0fc63b3202d6b0eae8777,5148bebfcfad4cb4119b4e362bc0686f,-7805161205316396900,-8059473846773950244,7,N,211,1033,32

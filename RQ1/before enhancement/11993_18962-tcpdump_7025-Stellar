@@ -1,0 +1,11 @@
+18962-tcpdump,7025-Stellar
+ethertype.h,Stellar-Swift.h,\ethertype.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,12c16532c3da4c413edcfc65891bd9b5,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,167,231,29
+interface.h,Stellar-Swift.h,\interface.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5d8888f994f03641fa94eb1412366235,fafe37ab4771e0a9586e17224fcc7041,-3411759031330219892,-7743940123003924324,8,N,29,231,9
+ipproto.h,Stellar-Swift.h,\ipproto.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,8e04a5db042fb8373937c90d777a4591,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,95,231,29
+llc.h,Stellar-Swift.h,\llc.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,97242c4aec13f3c4543095f5289d9021,fafe37ab4771e0a9586e17224fcc7041,-8024573148685608548,-7743940123003924324,8,N,84,231,15
+netdissect-stdinc.h,Stellar-Swift.h,\netdissect-stdinc.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,029375b89bf02b68779db58b8825061e,fafe37ab4771e0a9586e17224fcc7041,-8023444912316557156,-7743940123003924324,5,N,186,231,37
+print.c,Stellar-Swift.h,\print.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,977fd8cca13e04ed8f9061bd297adea7,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,418,231,29
+tcp.h,Stellar-Swift.h,\tcp.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ea3a79d208bd5a14473a14d68f00ce02,fafe37ab4771e0a9586e17224fcc7041,-8023594583336888164,-7743940123003924324,7,N,113,231,22
+tcpdump.c,Stellar-Swift.h,\tcpdump.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,28a163ac44624a6f0cfb1bdac133fb51,fafe37ab4771e0a9586e17224fcc7041,-9176366554899228516,-7743940123003924324,7,N,2195,231,38
+udp.h,Stellar-Swift.h,\udp.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,de46f5a1fa86436278d3bd5854c5d630,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,201,231,29
+dlnames.c,Stellar-Swift.h,\missing\dlnames.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,95c78cc6416cba63958876f0ea3e2fec,fafe37ab4771e0a9586e17224fcc7041,-8023445049759704932,-7743940123003924324,6,N,126,231,24

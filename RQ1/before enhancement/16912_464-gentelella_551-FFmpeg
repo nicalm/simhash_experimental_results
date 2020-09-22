@@ -1,0 +1,9 @@
+464-gentelella,551-FFmpeg
+moment.js,vp9block.c,\vendors\moment\moment.js,\libavcodec\vp9block.c,f1cd5bdc747c20c6de4210e68b539782,70e1349173cd4670ae460ef7cef42629,3455852176007088830,2264650624390515390,7,N,3064,1295,222
+Chart.bundle.js,h264_mvpred.h,\vendors\Chart.js\dist\Chart.bundle.js,\libavcodec\h264_mvpred.h,cfc5e4a7c6088708fef9f9875b492230,3771384d56c9105f5592bf2416f735da,2302930534028395198,4611023831365698222,8,N,10705,673,129
+Chart.bundle.js,vp9block.c,\vendors\Chart.js\dist\Chart.bundle.js,\libavcodec\vp9block.c,cfc5e4a7c6088708fef9f9875b492230,70e1349173cd4670ae460ef7cef42629,2302930534028395198,2264650624390515390,6,N,10705,1295,249
+Chart.bundle.js,signature_lookup.c,\vendors\Chart.js\dist\Chart.bundle.js,\libavfilter\signature_lookup.c,cfc5e4a7c6088708fef9f9875b492230,5fb55324f1667dc11712c30e62c1e991,2302930534028395198,2304057121129999102,8,N,10705,467,126
+globalize.js,pcm.c,\vendors\Flot\lib\globalize.js,\libavcodec\pcm.c,5859e34a6af3806758409c1cf6b6a681,37664aa1805e5b8a6fd6444e25ca5398,5728855313755060435,5728845967956424919,6,N,1177,537,100
+globalize.js,yuv4mpegenc.c,\vendors\Flot\lib\globalize.js,\libavformat\yuv4mpegenc.c,5859e34a6af3806758409c1cf6b6a681,c4140fda683fb3c45997517c0394f389,5728855313755060435,5729125243909880051,8,N,1177,303,60
+pathSvgToVml.js,electronicarts.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\libavformat\electronicarts.c,33048ad2c45faa5606888ee3add887d1,ff9f06888cfea7376ae205c5fe364062,5730112596751329503,6882048947539982559,8,N,86,637,18
+jquery-1.7.2.js,signature_lookup.c,\vendors\select2\tests\vendor\jquery-1.7.2.js,\libavfilter\signature_lookup.c,48ded5591a87f928a060b93215fb53ca,5fb55324f1667dc11712c30e62c1e991,2287168623332919551,2304057121129999102,8,N,6491,467,127

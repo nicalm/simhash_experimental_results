@@ -1,0 +1,3 @@
+17934-harfbuzz,9776-gaia
+hb-ot-shape-complex-vowel-constraints.cc,orientation.js,\src\hb-ot-shape-complex-vowel-constraints.cc,\dev_apps\uitest\js\API\orientation.js,af3b5cee198ad0cdcf32177f2059763e,7f674abe2d64a83f3c5f7fc6b2372c43,5729127511516264663,5729127442933135575,4,N,420,55,18
+hb-subset.cc,orientation.js,\src\hb-subset.cc,\dev_apps\uitest\js\API\orientation.js,8cd5ec526a4232f06c744be9b77a51bc,7f674abe2d64a83f3c5f7fc6b2372c43,5170681089138145431,5729127442933135575,4,N,256,55,18

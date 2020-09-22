@@ -1,0 +1,4 @@
+10395-jitsi,2389-Pillow
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,FliDecode.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,\src\libImaging\FliDecode.c,b777786e5dc2dbfda20f2e6ab1b6e3d1,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,851,160,39
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,FliDecode.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,\src\libImaging\FliDecode.c,463ade7b00f34e712a6606ace511d963,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,949,160,42
+lzma.h,ImPlatform.h,\src\native\windows\setup\include\lzma.h,\src\libImaging\ImPlatform.h,4ce48c8f939c04739c2c0b8409ca662f,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,121,58,15

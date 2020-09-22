@@ -1,0 +1,12 @@
+13324-librenms,790-libuv
+rewrites.php,s5.c,\includes\rewrites.php,\samples\socks5-proxy\s5.c,5389d55c6eafa211ede2994f342bca9b,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442933135575,6846020141864235479,7,N,1602,221,51
+rewrites.php,handle-inl.h,\includes\rewrites.php,\src\win\handle-inl.h,5389d55c6eafa211ede2994f342bca9b,34080acd31e6a3b5bf545c24c6e85c3f,5729127442933135575,5729127442933135571,1,N,1602,110,18
+rewrites.php,req-inl.h,\includes\rewrites.php,\src\win\req-inl.h,5389d55c6eafa211ede2994f342bca9b,8f8490b9a2a16c0821fd15a0612918a2,5729127442933135575,5729110126698821787,8,N,1602,145,22
+libvirt-vminfo.inc.php,handle-inl.h,\includes\discovery\libvirt-vminfo.inc.php,\src\win\handle-inl.h,bb4b3773cf786ace10a58f9ec481435e,34080acd31e6a3b5bf545c24c6e85c3f,5730182974087411863,5729127442933135571,5,N,112,110,16
+ports.csv.inc.php,handle-inl.h,\includes\html\reports\ports.csv.inc.php,\src\win\handle-inl.h,363f50b93f6f3f7b86ed810c407bde48,34080acd31e6a3b5bf545c24c6e85c3f,5729127512726350071,5729127442933135571,5,N,140,110,18
+viptela.inc.php,s5.c,\includes\polling\os\viptela.inc.php,\samples\socks5-proxy\s5.c,c64de710870736d919a9de98ce834a46,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442928941271,6846020141864235479,8,N,48,221,19
+viptela.inc.php,handle-inl.h,\includes\polling\os\viptela.inc.php,\src\win\handle-inl.h,c64de710870736d919a9de98ce834a46,34080acd31e6a3b5bf545c24c6e85c3f,5729127442928941271,5729127442933135571,2,N,48,110,13
+AdvaSysAlmTrap.php,handle-inl.h,\LibreNMS\Snmptrap\Handlers\AdvaSysAlmTrap.php,\src\win\handle-inl.h,56f813b9379330897dbc82d45cf9f46e,34080acd31e6a3b5bf545c24c6e85c3f,1121945025240414455,5729127442933135571,6,N,32,110,9
+linux.inc.php,handle-inl.h,\includes\discovery\sensors\state\linux.inc.php,\src\win\handle-inl.h,f9f2f629ba22b31deca0a4fa8d6f22cc,34080acd31e6a3b5bf545c24c6e85c3f,5747071472597776631,5729127442933135571,6,N,39,110,11
+toner.inc.php,handle-inl.h,\includes\html\graphs\device\toner.inc.php,\src\win\handle-inl.h,14df19f7caa79129a9551c99a2471503,34080acd31e6a3b5bf545c24c6e85c3f,5731379235161422023,5729127442933135571,7,N,45,110,11
+sensors.inc.php,handle-inl.h,\includes\html\pages\health\sensors.inc.php,\src\win\handle-inl.h,9bd00fc9a64f40b2fc247e4ec5f2b56a,34080acd31e6a3b5bf545c24c6e85c3f,5440897599356385494,5729127442933135571,7,N,98,110,13

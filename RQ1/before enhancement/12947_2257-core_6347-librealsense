@@ -1,0 +1,4 @@
+2257-core,6347-librealsense
+MDB2SchemaReader.php,iconify.c,\lib\private\DB\MDB2SchemaReader.php,\third-party\glfw\tests\iconify.c,d8397eafd4a2b3b1ab041811b2ffbaec,4383e5e5067c1f0471c630b863bae2d6,5731379242747078871,5755937900105083095,7,N,238,219,43
+Extension.php,validate_face.h,\apps\comments\lib\Activity\Extension.php,\wrappers\dlib\face\validate_face.h,7bf3ac8a3df9c8e9abf06e33cde08300,b5d0b4d6660310a322b59b410744d0ed,6005605212527281070,-7792288799644695634,8,N,147,75,12
+CacheParser.php,validate_face.h,\apps\files_external\3rdparty\google-api-php-client\src\Google\Http\CacheParser.php,\wrappers\dlib\face\validate_face.h,3e390e20c57d0aef0b081d37520fcc57,b5d0b4d6660310a322b59b410744d0ed,2223716221837984686,-7792288799644695634,8,N,87,75,16

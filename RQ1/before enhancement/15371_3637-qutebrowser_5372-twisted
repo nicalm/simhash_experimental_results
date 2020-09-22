@@ -1,0 +1,4 @@
+3637-qutebrowser,5372-twisted
+utils.py,imap4.py,\qutebrowser\utils\utils.py,\src\twisted\mail\imap4.py,95e3b7d013d5c1ab823100df70a67f33,5f9b8f231768a1528765e3f9a2d6ca11,7285135863650845038,8438098050182676846,6,N,406,3336,38
+utils.py,postfix.py,\qutebrowser\utils\utils.py,\src\twisted\protocols\postfix.py,95e3b7d013d5c1ab823100df70a67f33,bdecb9fbd0e8ab34b2aa8027a30860a4,7285135863650845038,7862763747541909870,8,N,406,84,13
+utils.py,insults.py,\qutebrowser\utils\utils.py,\src\twisted\conch\insults\insults.py,95e3b7d013d5c1ab823100df70a67f33,3b7273cbbc10aa10dffe1b8ab9594ca9,7285135863650845038,8582216536524980586,8,N,406,704,27

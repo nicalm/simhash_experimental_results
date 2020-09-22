@@ -1,0 +1,3 @@
+1930-SwifterSwift,2565-runc
+NSAttributedStringExtensions.swift,namespace.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\libcontainer\nsenter\namespace.h,682db1376e5e9e45d24a9e1b1ad3e9f8,07ed105206852e8f50b78f5b916a9de5,-9174114755220842340,-7951950405671004004,8,N,87,28,9
+StringExtensions.swift,namespace.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\libcontainer\nsenter\namespace.h,d53332d341abeff92e3d2d2ce16a4d0a,07ed105206852e8f50b78f5b916a9de5,-3051550226512422756,-7951950405671004004,7,N,650,28,9

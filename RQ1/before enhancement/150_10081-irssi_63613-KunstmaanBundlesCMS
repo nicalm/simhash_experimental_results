@@ -1,0 +1,4 @@
+10081-irssi,63613-KunstmaanBundlesCMS
+otr-ops.c,StringFilterType.php,\src\otr\otr-ops.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,78f1f6c5943450ae1c92e51ced46839e,da41db0764b2bc6ea750e9ab6c21973a,1117440324994119895,5729413307097985239,8,N,248,54,17
+formats.c,StringFilterType.php,\src\fe-common\core\formats.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,81ad733fd560a7711254766564a4d1b4,da41db0764b2bc6ea750e9ab6c21973a,5729127511652612311,5729413307097985239,7,N,1160,54,17
+formats.c,StringFilterType.php,\src\fe-common\core\formats.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\ORM\StringFilterType.php,81ad733fd560a7711254766564a4d1b4,cc9f7e3b468f7a06a05fbec8ff53e364,5729127511652612311,5729408874691727575,8,N,1160,54,17

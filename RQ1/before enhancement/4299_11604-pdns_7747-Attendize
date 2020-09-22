@@ -1,0 +1,4 @@
+11604-pdns,7747-Attendize
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\public\vendor\jquery\dist\jquery.js,ed0016acf848db02c57ce7eb3cc49676,cdac12a7fb68d67386ca31654c9a68f9,2287167437921927934,2286112319076122876,7,N,7102,6188,5385
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\public\vendor\moment\moment.js,f08218e77cec98df2514eb024690c2c0,f1cd5bdc747c20c6de4210e68b539782,4032312790871033534,3455852176007088830,6,N,2690,3064,2628
+jquery-1.8.3.js,jquery.js,\pdns\recursordist\html\js\jquery-1.8.3.js,\public\vendor\jquery-backstretch\libs\jquery\jquery.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2304056349881632954,2304056349881632954,0,Y,6563,6563,6563

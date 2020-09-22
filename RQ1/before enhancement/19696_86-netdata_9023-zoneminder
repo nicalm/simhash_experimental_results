@@ -1,0 +1,5 @@
+86-netdata,9023-zoneminder
+libnetdata.h,zm_ffmpeg.h,\libnetdata\libnetdata.h,\src\zm_ffmpeg.h,b36073eea8dc836d3f37e426aebdabda,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,248,281,47
+libnetdata.h,zm_signal.h,\libnetdata\libnetdata.h,\src\zm_signal.h,b36073eea8dc836d3f37e426aebdabda,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,248,27,6
+libnetdata.h,ow-crypt.h,\libnetdata\libnetdata.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,b36073eea8dc836d3f37e426aebdabda,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,248,23,4
+clocks.h,zm_ffmpeg.h,\libnetdata\clocks\clocks.h,\src\zm_ffmpeg.h,817f185c065ee719f0a0f5d506401b1f,7e2fcd3ba00999285d6aaf2ef78cc14d,-7879330084279756644,-8023445049755510628,7,N,66,281,11

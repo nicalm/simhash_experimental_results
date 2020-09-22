@@ -1,0 +1,4 @@
+2578-calibre,9023-zoneminder
+lzxc.c,zm_ffmpeg.h,\src\calibre\utils\lzx\lzxc.c,\src\zm_ffmpeg.h,5148bebfcfad4cb4119b4e362bc0686f,7e2fcd3ba00999285d6aaf2ef78cc14d,-8059473846773950244,-8023445049755510628,3,N,1033,281,52
+lzxc.c,zm_signal.h,\src\calibre\utils\lzx\lzxc.c,\src\zm_signal.h,5148bebfcfad4cb4119b4e362bc0686f,95bf5749d181b4fa528e43c6e262e7a0,-8059473846773950244,-8057222049236199396,8,N,1033,27,5
+msstdint.h,zm_ffmpeg.h,\src\calibre\utils\lzx\msstdint.h,\src\zm_ffmpeg.h,2dacb8ee9f393a22b1266f714d3efcd6,7e2fcd3ba00999285d6aaf2ef78cc14d,-2830794129776780644,-8023445049755510628,7,N,138,281,20

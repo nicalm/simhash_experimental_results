@@ -1,0 +1,6 @@
+1652-joplin,6285-ImageMagick
+reducer.js,svg.c,\ReactNativeClient\lib\reducer.js,\coders\svg.c,cfb01146b60f71f219c7ac6dd67d6dc3,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5729128095763970230,5729127442933135575,7,N,610,4691,130
+reducer.js,widget.c,\ReactNativeClient\lib\reducer.js,\MagickCore\widget.c,cfb01146b60f71f219c7ac6dd67d6dc3,f0e9f521bef825c5e27b767db6566d31,5729128095763970230,5729127442933135575,7,N,610,7134,135
+reducer.js,identify.c,\ReactNativeClient\lib\reducer.js,\MagickWand\identify.c,cfb01146b60f71f219c7ac6dd67d6dc3,75148e667f677bcb2010bd43f674e879,5729128095763970230,5729101054654068983,8,N,610,793,130
+reducer.js,import.c,\ReactNativeClient\lib\reducer.js,\MagickWand\import.c,cfb01146b60f71f219c7ac6dd67d6dc3,d07cb72be3f30cc13453dbfdeebb26a8,5729128095763970230,5657052256709163191,7,N,610,1145,130
+reducer.js,mogrify.c,\ReactNativeClient\lib\reducer.js,\MagickWand\mogrify.c,cfb01146b60f71f219c7ac6dd67d6dc3,40ce227d8d84162c170d4ac9ed9ebc51,5729128095763970230,5729127442933135575,7,N,610,8560,131

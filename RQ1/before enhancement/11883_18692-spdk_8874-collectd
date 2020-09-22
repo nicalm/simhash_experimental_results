@@ -1,0 +1,6 @@
+18692-spdk,8874-collectd
+queue.h,collectd.h,\include\spdk\queue.h,\src\daemon\collectd.h,ec100905d717ef23a63f758030236499,2b583af2ee5d68797b260dc2234a9a80,-9212465172521363396,-8023445049755510628,8,N,30,198,5
+queue.h,mount.h,\include\spdk\queue.h,\src\utils\mount\mount.h,ec100905d717ef23a63f758030236499,8535c5ea598e2c2e046efd01984ce929,-9212465172521363396,-8023445049755510628,8,N,30,64,5
+assert.h,collectd.h,\include\spdk_internal\assert.h,\src\daemon\collectd.h,340c3c292f11b3661cb114f5fb4a2722,2b583af2ee5d68797b260dc2234a9a80,-7384004271941560100,-8023445049755510628,7,N,16,198,5
+assert.h,stdendian.h,\include\spdk_internal\assert.h,\src\libcollectdclient\collectd\stdendian.h,340c3c292f11b3661cb114f5fb4a2722,098cf6af06fc9530aaf9936b14d4d802,-7384004271941560100,-8032521930559661924,8,N,16,165,5
+assert.h,mount.h,\include\spdk_internal\assert.h,\src\utils\mount\mount.h,340c3c292f11b3661cb114f5fb4a2722,8535c5ea598e2c2e046efd01984ce929,-7384004271941560100,-8023445049755510628,7,N,16,64,4

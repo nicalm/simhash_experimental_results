@@ -1,0 +1,7 @@
+4014-kanboard,682-curl
+changes.php,getinfo.c,\app\Template\task\changes.php,\lib\getinfo.c,9d43fb3e19ac004f3873770dd9bbbfde,e4b1b98ba03c964ba505b6b062b00050,5729127648822069494,5729127442933135575,8,N,75,405,19
+changes.php,setopt.c,\app\Template\task\changes.php,\lib\setopt.c,9d43fb3e19ac004f3873770dd9bbbfde,bf2b060076537e339e4760d60bc6e95d,5729127648822069494,5729127442933135575,8,N,75,1759,19
+changes.php,telnet.c,\app\Template\task\changes.php,\lib\telnet.c,9d43fb3e19ac004f3873770dd9bbbfde,61f2737780988e684ee1746bbaceed3f,5729127648822069494,5729127442933135575,8,N,75,1332,19
+changes.php,tool_getparam.c,\app\Template\task\changes.php,\src\tool_getparam.c,9d43fb3e19ac004f3873770dd9bbbfde,a22f253f803124394e83cb5791f88233,5729127648822069494,5729127442933135575,8,N,75,1940,19
+changes.php,sectransp.c,\app\Template\task\changes.php,\lib\vtls\sectransp.c,9d43fb3e19ac004f3873770dd9bbbfde,19c48e3eed312fd3d5b47ad6a8263888,5729127648822069494,5729127442933135575,8,N,75,2690,19
+NumberComparator.php,strerror.c,\vendor\symfony\finder\Comparator\NumberComparator.php,\lib\strerror.c,d227698b7f899a149f72d00907f80dbd,f4541cfa3fbbf8e4dfe35ebb2042df2c,5656999445754853599,5666077048183503063,8,N,39,743,14

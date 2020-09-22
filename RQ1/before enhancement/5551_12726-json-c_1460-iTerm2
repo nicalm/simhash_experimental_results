@@ -1,0 +1,4 @@
+12726-json-c,1460-iTerm2
+debug.h,ini.h,\debug.h,\ThirdParty\inih\ini.h,9485e3ba51f6b887d7f314a17084403b,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049889727851,-8023445049755510564,5,N,51,57,13
+debug.h,BetterFontPicker-Swift.h,\debug.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,9485e3ba51f6b887d7f314a17084403b,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049889727851,-8023479959251789668,7,N,51,335,11
+math_compat.h,ini.h,\math_compat.h,\ThirdParty\inih\ini.h,4357c12e0501613ef23237ebf196e67e,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8021193387649222628,-8023445049755510564,7,N,24,57,7

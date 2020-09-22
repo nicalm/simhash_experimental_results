@@ -1,0 +1,14 @@
+1541-h2o,5868-libvips
+fmacros.h,init.c,\deps\hiredis\fmacros.h,\libvips\iofuncs\init.c,9d6fd32f84c9d0377076a4587579ec51,e400d93356240e897bbc32ba27bdcd3b,-8023515419036559204,-9176930621544019780,8,N,20,636,7
+fmacros.h,vector.c,\deps\hiredis\fmacros.h,\libvips\iofuncs\vector.c,9d6fd32f84c9d0377076a4587579ec51,055954f4e165b83818f7e8bd6db904ec,-8023515419036559204,-8023484632710850404,4,N,20,400,7
+logconf.c,composite.cpp,\lib\core\logconf.c,\libvips\conversion\composite.cpp,938552448ad917655fb38241a71d87b8,1073a16ac3f3888e7e8384f333542daa,5693098645914163415,-3566301638204286473,7,N,766,1177,126
+mrbconf.h,buffer.c,\deps\mruby\include\mrbconf.h,\libvips\iofuncs\buffer.c,b30b9460d209b1cc68a61c5604bdd5a1,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,43,447,15
+mrbconf.h,init.c,\deps\mruby\include\mrbconf.h,\libvips\iofuncs\init.c,b30b9460d209b1cc68a61c5604bdd5a1,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,43,636,17
+mrbconf.h,vector.c,\deps\mruby\include\mrbconf.h,\libvips\iofuncs\vector.c,b30b9460d209b1cc68a61c5604bdd5a1,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,43,400,15
+mruby.h,init.c,\deps\mruby\include\mruby.h,\libvips\iofuncs\init.c,919df8d515b52adcdfa92f19037768c8,e400d93356240e897bbc32ba27bdcd3b,-9176366554362357572,-9176930621544019780,6,N,440,636,44
+mruby.h,vector.c,\deps\mruby\include\mruby.h,\libvips\iofuncs\vector.c,919df8d515b52adcdfa92f19037768c8,055954f4e165b83818f7e8bd6db904ec,-9176366554362357572,-8023484632710850404,6,N,440,400,44
+codedump.c,composite.cpp,\deps\mruby\src\codedump.c,\libvips\conversion\composite.cpp,7fda31add2a50b1a066d625a7cb020c0,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,525,1177,118
+types.h,vector.c,\deps\picotls\deps\micro-ecc\types.h,\libvips\iofuncs\vector.c,d0ccddb6a5d5d18dbed2dc07299a4b3d,055954f4e165b83818f7e8bd6db904ec,-8023445049757607011,-8023484632710850404,8,N,87,400,17
+uECC.h,vector.c,\deps\picotls\deps\micro-ecc\uECC.h,\libvips\iofuncs\vector.c,e777f21ea5ae63708919f7e3ba1592f7,055954f4e165b83818f7e8bd6db904ec,1199926987099265180,-8023484632710850404,5,N,105,400,20
+port.h,init.c,\deps\brotli\c\include\brotli\port.h,\libvips\iofuncs\init.c,350994917b4cef7e95001ccfdd8a21d9,e400d93356240e897bbc32ba27bdcd3b,-9031978687939553124,-9176930621544019780,8,N,102,636,22
+port.h,vector.c,\deps\brotli\c\include\brotli\port.h,\libvips\iofuncs\vector.c,350994917b4cef7e95001ccfdd8a21d9,055954f4e165b83818f7e8bd6db904ec,-9031978687939553124,-8023484632710850404,6,N,102,400,24

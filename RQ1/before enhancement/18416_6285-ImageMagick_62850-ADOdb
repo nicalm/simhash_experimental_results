@@ -1,0 +1,17 @@
+6285-ImageMagick,62850-ADOdb
+bgr.c,adodb-pdo_firebird.inc.php,\coders\bgr.c,\drivers\adodb-pdo_firebird.inc.php,c2ad992f3d07a8b726061a19916c7cab,9495b386496271e4936472af040fd5ea,1045382730955143383,5738134642182631639,6,N,1217,333,94
+cmyk.c,adodb-pdo_firebird.inc.php,\coders\cmyk.c,\drivers\adodb-pdo_firebird.inc.php,033a163bed59e34827023fd6c1f70c6a,9495b386496271e4936472af040fd5ea,1045382730955143383,5738134642182631639,6,N,1358,333,94
+gray.c,adodb-pdo_firebird.inc.php,\coders\gray.c,\drivers\adodb-pdo_firebird.inc.php,bd9aadd8c069b6b1a0eb0e68d7bc8280,9495b386496271e4936472af040fd5ea,1045382696595405015,5738134642182631639,7,N,837,333,94
+miff.c,adodb-pdo_firebird.inc.php,\coders\miff.c,\drivers\adodb-pdo_firebird.inc.php,eb048844ba749cb188f12a545d5a3a14,9495b386496271e4936472af040fd5ea,5729127442933397727,5738134642182631639,6,N,2414,333,96
+msl.c,adodb-pdo_firebird.inc.php,\coders\msl.c,\drivers\adodb-pdo_firebird.inc.php,564294d28d18518091363153d2c379e8,9495b386496271e4936472af040fd5ea,5729127445078517975,5738134642182631639,7,N,7592,333,94
+rgb.c,adodb-pdo_firebird.inc.php,\coders\rgb.c,\drivers\adodb-pdo_firebird.inc.php,88d75de525f47b8269acb5295b49667f,9495b386496271e4936472af040fd5ea,1045382730955143383,5738134642182631639,6,N,1389,333,94
+svg.c,adodb-pdo_firebird.inc.php,\coders\svg.c,\drivers\adodb-pdo_firebird.inc.php,8e66b84fbb1ad58c3e7c4f6cb7f6aced,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,4691,333,94
+ycbcr.c,adodb-pdo_firebird.inc.php,\coders\ycbcr.c,\drivers\adodb-pdo_firebird.inc.php,07526adfe600bd06fa89a2c26951e36a,9495b386496271e4936472af040fd5ea,1045382730955143895,5738134642182631639,7,N,1171,333,94
+animate.c,adodb-pdo_firebird.inc.php,\MagickCore\animate.c,\drivers\adodb-pdo_firebird.inc.php,c5dcb3f63624121a3f1f1761921d5dc4,9495b386496271e4936472af040fd5ea,5621041326754148565,5738134642182631639,7,N,2413,333,94
+composite.c,adodb-pdo_firebird.inc.php,\MagickCore\composite.c,\drivers\adodb-pdo_firebird.inc.php,340d5a0c7006a0824a2a7fe9aab13822,9495b386496271e4936472af040fd5ea,5729127511652874455,5738134642182631639,6,N,2158,333,94
+display.c,adodb-pdo_firebird.inc.php,\MagickCore\display.c,\drivers\adodb-pdo_firebird.inc.php,58fbcf695a02c8617f1d6816e49799cf,9495b386496271e4936472af040fd5ea,5692817170937460951,5738134642182631639,6,N,12792,333,100
+widget.c,adodb-pdo_firebird.inc.php,\MagickCore\widget.c,\drivers\adodb-pdo_firebird.inc.php,f0e9f521bef825c5e27b767db6566d31,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,7134,333,94
+identify.c,adodb-pdo_firebird.inc.php,\MagickWand\identify.c,\drivers\adodb-pdo_firebird.inc.php,75148e667f677bcb2010bd43f674e879,9495b386496271e4936472af040fd5ea,5729101054654068983,5738134642182631639,7,N,793,333,93
+import.c,adodb-pdo_firebird.inc.php,\MagickWand\import.c,\drivers\adodb-pdo_firebird.inc.php,d07cb72be3f30cc13453dbfdeebb26a8,9495b386496271e4936472af040fd5ea,5657052256709163191,5738134642182631639,8,N,1145,333,93
+mogrify.c,adodb-pdo_firebird.inc.php,\MagickWand\mogrify.c,\drivers\adodb-pdo_firebird.inc.php,40ce227d8d84162c170d4ac9ed9ebc51,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,8560,333,94
+operation.c,adodb-pdo_firebird.inc.php,\MagickWand\operation.c,\drivers\adodb-pdo_firebird.inc.php,5188f5c0cfb10bb3579b5a2c7dc8bc5d,9495b386496271e4936472af040fd5ea,5730262138933065951,5738134642182631639,8,N,4396,333,94

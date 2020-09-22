@@ -1,0 +1,5 @@
+2578-calibre,7408-DeepVideoAnalytics
+mobiml.py,task_shared.py,\src\calibre\ebooks\mobi\mobiml.py,\server\dvaapp\task_shared.py,5dcc257f70c4f939b09b727a17e858c0,61a9613ea8cc5bfba0befa6caaf95b1c,8581649121827094903,8581720656646111591,8,N,556,311,35
+lzxc.c,bbox.c,\src\calibre\utils\lzx\lzxc.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,5148bebfcfad4cb4119b4e362bc0686f,b42f28bb593ba51126ab3c36f2280e44,-8059473846773950244,-7735003018152322916,8,N,1033,5912,224
+lzxc.c,cython_nms.c,\src\calibre\utils\lzx\lzxc.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,5148bebfcfad4cb4119b4e362bc0686f,340c61e73ba74d7820ff458fae32d716,-8059473846773950244,-7735003018152322916,8,N,1033,6623,226
+lzxc.c,gpu_nms.c,\src\calibre\utils\lzx\lzxc.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,5148bebfcfad4cb4119b4e362bc0686f,c5f744cc55310f8443ffae08bc289c17,-8059473846773950244,-7735003018152322916,8,N,1033,5655,225

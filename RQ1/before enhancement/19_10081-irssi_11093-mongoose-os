@@ -1,0 +1,3 @@
+10081-irssi,11093-mongoose-os
+otr-ops.c,sockets.c,\src\otr\otr-ops.c,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,78f1f6c5943450ae1c92e51ced46839e,b526977271e8df660051cad38636f3c4,1117440324994119895,830341896054814943,7,N,248,1856,60
+formats.c,sockets.c,\src\fe-common\core\formats.c,\tools\docker\esp8266\cs_lwip\src\api\sockets.c,81ad733fd560a7711254766564a4d1b4,b526977271e8df660051cad38636f3c4,5729127511652612311,830341896054814943,8,N,1160,1856,243

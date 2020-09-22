@@ -1,0 +1,4 @@
+12726-json-c,86-netdata
+debug.h,libnetdata.h,\debug.h,\libnetdata\libnetdata.h,9485e3ba51f6b887d7f314a17084403b,b36073eea8dc836d3f37e426aebdabda,-8023445049889727851,-8023445049755510628,4,N,51,248,12
+math_compat.h,libnetdata.h,\math_compat.h,\libnetdata\libnetdata.h,4357c12e0501613ef23237ebf196e67e,b36073eea8dc836d3f37e426aebdabda,-8021193387649222628,-8023445049755510628,6,N,24,248,8
+random_seed.c,libnetdata.h,\random_seed.c,\libnetdata\libnetdata.h,bd76daf7352b5719534d91abc930c885,b36073eea8dc836d3f37e426aebdabda,-8023454396409656420,-8023445049755510628,8,N,155,248,24

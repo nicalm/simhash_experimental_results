@@ -1,0 +1,13 @@
+2578-calibre,3761-lepton
+lzxc.c,test_harness.cc,\src\calibre\utils\lzx\lzxc.c,\test_suite\test_harness.cc,5148bebfcfad4cb4119b4e362bc0686f,e289d2ef5a4a7ed63cb361e61d2bb017,-8059473846773950244,-8023445050292381540,4,N,1033,121,32
+lzxc.c,gzguts.h,\src\calibre\utils\lzx\lzxc.c,\dependencies\zlib\gzguts.h,5148bebfcfad4cb4119b4e362bc0686f,481fcd67c1a74813d1e18ea86b0fb735,-8059473846773950244,-8023445049755510628,3,N,1033,151,43
+lzxc.c,zconf.h,\src\calibre\utils\lzx\lzxc.c,\dependencies\zlib\zconf.h,5148bebfcfad4cb4119b4e362bc0686f,c89ff94ee23d020c7c9976f48a098fa0,-8059473846773950244,-8023445049755510628,3,N,1033,403,49
+lzxc.c,zutil.c,\src\calibre\utils\lzx\lzxc.c,\dependencies\zlib\zutil.c,5148bebfcfad4cb4119b4e362bc0686f,d62c1317e7969756f542daacf0d4ba54,-8059473846773950244,-8023445084115248996,4,N,1033,245,71
+lzxc.c,zutil.h,\src\calibre\utils\lzx\lzxc.c,\dependencies\zlib\zutil.h,5148bebfcfad4cb4119b4e362bc0686f,278c42fe50334e51a072b9e9539f1a94,-8059473846773950244,-8023445049755510628,3,N,1033,183,51
+lzxc.c,MemMgrAllocator.cc,\src\calibre\utils\lzx\lzxc.c,\src\io\MemMgrAllocator.cc,5148bebfcfad4cb4119b4e362bc0686f,4081710108ae4d92c75a204cde67b037,-8059473846773950244,-7771243495318824804,6,N,1033,422,119
+lzxc.c,port.h,\src\calibre\utils\lzx\lzxc.c,\dependencies\brotli\c\dec\port.h,5148bebfcfad4cb4119b4e362bc0686f,40b2fd74ac0fb05b9b3137ca6adfdec5,-8059473846773950244,-8023163576927266084,7,N,1033,121,33
+msstdint.h,test_harness.cc,\src\calibre\utils\lzx\msstdint.h,\test_suite\test_harness.cc,2dacb8ee9f393a22b1266f714d3efcd6,e289d2ef5a4a7ed63cb361e61d2bb017,-2830794129776780644,-8023445050292381540,8,N,138,121,16
+msstdint.h,gzguts.h,\src\calibre\utils\lzx\msstdint.h,\dependencies\zlib\gzguts.h,2dacb8ee9f393a22b1266f714d3efcd6,481fcd67c1a74813d1e18ea86b0fb735,-2830794129776780644,-8023445049755510628,7,N,138,151,20
+msstdint.h,zconf.h,\src\calibre\utils\lzx\msstdint.h,\dependencies\zlib\zconf.h,2dacb8ee9f393a22b1266f714d3efcd6,c89ff94ee23d020c7c9976f48a098fa0,-2830794129776780644,-8023445049755510628,7,N,138,403,20
+msstdint.h,zutil.c,\src\calibre\utils\lzx\msstdint.h,\dependencies\zlib\zutil.c,2dacb8ee9f393a22b1266f714d3efcd6,d62c1317e7969756f542daacf0d4ba54,-2830794129776780644,-8023445084115248996,8,N,138,245,18
+msstdint.h,zutil.h,\src\calibre\utils\lzx\msstdint.h,\dependencies\zlib\zutil.h,2dacb8ee9f393a22b1266f714d3efcd6,278c42fe50334e51a072b9e9539f1a94,-2830794129776780644,-8023445049755510628,7,N,138,183,19

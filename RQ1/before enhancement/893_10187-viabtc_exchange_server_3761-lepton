@@ -1,0 +1,10 @@
+10187-viabtc_exchange_server,3761-lepton
+fmacros.h,test_harness.cc,\depends\hiredis\fmacros.h,\test_suite\test_harness.cc,fa39b5b5c7b057e483d5dce607e953a2,e289d2ef5a4a7ed63cb361e61d2bb017,-7226589390687643492,-8023445050292381540,7,N,17,121,5
+fmacros.h,gzguts.h,\depends\hiredis\fmacros.h,\dependencies\zlib\gzguts.h,fa39b5b5c7b057e483d5dce607e953a2,481fcd67c1a74813d1e18ea86b0fb735,-7226589390687643492,-8023445049755510628,6,N,17,151,5
+fmacros.h,zconf.h,\depends\hiredis\fmacros.h,\dependencies\zlib\zconf.h,fa39b5b5c7b057e483d5dce607e953a2,c89ff94ee23d020c7c9976f48a098fa0,-7226589390687643492,-8023445049755510628,6,N,17,403,5
+fmacros.h,zutil.c,\depends\hiredis\fmacros.h,\dependencies\zlib\zutil.c,fa39b5b5c7b057e483d5dce607e953a2,d62c1317e7969756f542daacf0d4ba54,-7226589390687643492,-8023445084115248996,7,N,17,245,5
+fmacros.h,zutil.h,\depends\hiredis\fmacros.h,\dependencies\zlib\zutil.h,fa39b5b5c7b057e483d5dce607e953a2,278c42fe50334e51a072b9e9539f1a94,-7226589390687643492,-8023445049755510628,6,N,17,183,5
+fmacros.h,port.h,\depends\hiredis\fmacros.h,\dependencies\brotli\c\include\brotli\port.h,fa39b5b5c7b057e483d5dce607e953a2,350994917b4cef7e95001ccfdd8a21d9,-7226589390687643492,-9031978687939553124,8,N,17,102,5
+win32.h,gzguts.h,\depends\hiredis\win32.h,\dependencies\zlib\gzguts.h,0ec99e391511695a9d7ef00f6d95b969,481fcd67c1a74813d1e18ea86b0fb735,-7880077529720759656,-8023445049755510628,8,N,32,151,6
+win32.h,zconf.h,\depends\hiredis\win32.h,\dependencies\zlib\zconf.h,0ec99e391511695a9d7ef00f6d95b969,c89ff94ee23d020c7c9976f48a098fa0,-7880077529720759656,-8023445049755510628,8,N,32,403,6
+win32.h,zutil.h,\depends\hiredis\win32.h,\dependencies\zlib\zutil.h,0ec99e391511695a9d7ef00f6d95b969,278c42fe50334e51a072b9e9539f1a94,-7880077529720759656,-8023445049755510628,8,N,32,183,5

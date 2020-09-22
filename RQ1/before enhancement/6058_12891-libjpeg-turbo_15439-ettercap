@@ -1,0 +1,5 @@
+12891-libjpeg-turbo,15439-ettercap
+jmorecfg.h,ec_os_mingw.h,\jmorecfg.h,\include\ec_os_mingw.h,1469bb97fe30335d1c73bd97389298b2,a35507e5684e934f2f3961ea9d733813,-8023517342645037028,-8023445049755510628,4,N,162,184,26
+jmorecfg.h,ec_stdint.h,\jmorecfg.h,\include\ec_stdint.h,1469bb97fe30335d1c73bd97389298b2,6aec3e3181000888a59234edbdd91364,-8023517342645037028,-8023445049755510628,4,N,162,70,18
+jccolext-altivec.c,ec_os_mingw.h,\simd\powerpc\jccolext-altivec.c,\include\ec_os_mingw.h,f35971d8d3460ef5abe9dca10e095ed1,a35507e5684e934f2f3961ea9d733813,-3267362370959935348,-8023445049755510628,8,N,174,184,13
+jccolext-altivec.c,ec_stdint.h,\simd\powerpc\jccolext-altivec.c,\include\ec_stdint.h,f35971d8d3460ef5abe9dca10e095ed1,6aec3e3181000888a59234edbdd91364,-3267362370959935348,-8023445049755510628,8,N,174,70,14

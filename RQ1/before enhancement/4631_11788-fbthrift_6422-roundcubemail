@@ -1,0 +1,4 @@
+11788-fbthrift,6422-roundcubemail
+AsyncClientWorker2.cpp,rcube_tnef_decoder.php,\thrift\perf\cpp\AsyncClientWorker2.cpp,\program\lib\Roundcube\rcube_tnef_decoder.php,3ebd76a0981e9c53ea752af30db30be5,8ca46cd084af91332151df25d1c4bd66,5738134641844205783,5729127442933266647,6,N,387,520,68
+Operation.h,rcube_tnef_decoder.php,\thrift\perf\cpp2\util\Operation.h,\program\lib\Roundcube\rcube_tnef_decoder.php,1cf81f674cd6bb613346f9badee172d4,8ca46cd084af91332151df25d1c4bd66,-3493118691867313953,5729127442933266647,5,N,152,520,36
+TProtocolUtil.java,rcube_tnef_decoder.php,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\program\lib\Roundcube\rcube_tnef_decoder.php,ca4aaa19ebede5914601c81d8f142ced,8ca46cd084af91332151df25d1c4bd66,5729127434368628951,5729127442933266647,5,N,125,520,57

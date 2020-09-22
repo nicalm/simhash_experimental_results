@@ -1,0 +1,4 @@
+305-symfony,461-vim
+CheckTypeDeclarationsPass.php,textprop.c,\src\Symfony\Component\DependencyInjection\Compiler\CheckTypeDeclarationsPass.php,\src\textprop.c,7e16454f202d40466277e58f455ab962,00b5fee4d022e9493a66f1d11783ed19,3841579589309827441,364835863767947633,8,N,160,992,62
+IpValidator.php,regexp_bt.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\regexp_bt.c,7ca48c5d09328c72e03da3c6a432f9bf,742bccef44abc3e4675f541514311c5a,5746860357875939543,5747071474845923799,6,N,69,4250,24
+IpValidator.php,state.c,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\src\libvterm\src\state.c,7ca48c5d09328c72e03da3c6a432f9bf,63c747323ec753db949ffd5310779779,5746860357875939543,1117159949461403859,7,N,69,1575,24

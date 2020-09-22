@@ -1,0 +1,9 @@
+2578-calibre,4597-openvpn
+lzxc.c,compat-daemon.c,\src\calibre\utils\lzx\lzxc.c,\src\compat\compat-daemon.c,5148bebfcfad4cb4119b4e362bc0686f,0d136dfb81c34352c7392199d98ff301,-8059473846773950244,-8023445050292265828,7,N,1033,70,29
+lzxc.c,compat.h,\src\calibre\utils\lzx\lzxc.c,\src\compat\compat.h,5148bebfcfad4cb4119b4e362bc0686f,3812851a47b57d8107c0e85fd4d4141d,-8059473846773950244,-8023445049755510628,3,N,1033,33,11
+lzxc.c,memdbg.h,\src\calibre\utils\lzx\lzxc.c,\src\openvpn\memdbg.h,5148bebfcfad4cb4119b4e362bc0686f,8885dc47740888fa09f9b0f336970660,-8059473846773950244,1199926987095035102,8,N,1033,17,6
+lzxc.c,openssl_compat.h,\src\calibre\utils\lzx\lzxc.c,\src\openvpn\openssl_compat.h,5148bebfcfad4cb4119b4e362bc0686f,15330dbd054480181c41c71ba1a19956,-8059473846773950244,-9174114754550706020,8,N,1033,487,139
+lzxc.c,syshead.h,\src\calibre\utils\lzx\lzxc.c,\src\openvpn\syshead.h,5148bebfcfad4cb4119b4e362bc0686f,92a98cf72c56d6b9077b4f73e35f791f,-8059473846773950244,-8023445049755510628,3,N,1033,414,57
+lzxc.c,basic.h,\src\calibre\utils\lzx\lzxc.c,\src\tapctl\basic.h,5148bebfcfad4cb4119b4e362bc0686f,188d18cf376b3d3b9399e86ca0e91a73,-8059473846773950244,-8023480234119210852,5,N,1033,31,10
+msstdint.h,compat.h,\src\calibre\utils\lzx\msstdint.h,\src\compat\compat.h,2dacb8ee9f393a22b1266f714d3efcd6,3812851a47b57d8107c0e85fd4d4141d,-2830794129776780644,-8023445049755510628,7,N,138,33,11
+msstdint.h,syshead.h,\src\calibre\utils\lzx\msstdint.h,\src\openvpn\syshead.h,2dacb8ee9f393a22b1266f714d3efcd6,92a98cf72c56d6b9077b4f73e35f791f,-2830794129776780644,-8023445049755510628,7,N,138,414,21

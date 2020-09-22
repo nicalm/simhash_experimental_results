@@ -1,0 +1,5 @@
+18-electron,2565-runc
+atom_main_delegate.cc,namespace.h,\shell\app\atom_main_delegate.cc,\libcontainer\nsenter\namespace.h,6beb16be6a739f5598d443a18a5cbaa6,07ed105206852e8f50b78f5b916a9de5,-4997025687846725476,-7951950405671004004,8,N,249,28,9
+atom_browser_main_parts.cc,namespace.h,\shell\browser\atom_browser_main_parts.cc,\libcontainer\nsenter\namespace.h,4312360427f5f392ec4f692be2a7319a,07ed105206852e8f50b78f5b916a9de5,-8023445187194455912,-7951950405671004004,5,N,375,28,9
+atom_paths.h,namespace.h,\shell\browser\atom_paths.h,\libcontainer\nsenter\namespace.h,f62403bf230108c707f5e1273fdb321d,07ed105206852e8f50b78f5b916a9de5,-8023471436960835427,-7951950405671004004,6,N,33,28,6
+linux_syscall_support.h,namespace.h,\vendor\third_party\lss\linux_syscall_support.h,\libcontainer\nsenter\namespace.h,d7c4a715ebced0be3633fcfd349a02ff,07ed105206852e8f50b78f5b916a9de5,-8023445049755510628,-7951950405671004004,2,N,3833,28,10

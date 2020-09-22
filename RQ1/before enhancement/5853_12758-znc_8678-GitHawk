@@ -1,0 +1,4 @@
+12758-znc,8678-GitHawk
+version.h,SDWebImageCompat.h,\include\znc\version.h,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,d05809c29f032c998a444139c4f0d9ce,b0a5f204f5c6671d77ea59f8ffd5921c,-8023445187195380516,-7735249858110105444,8,N,43,80,13
+version.h,cmarkextensions_export.h,\include\znc\version.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,d05809c29f032c998a444139c4f0d9ce,252c50482fb9cc0b421251bbc1a8e0e6,-8023445187195380516,-8023480234127599460,6,N,43,32,10
+version.h,cmark_export.h,\include\znc\version.h,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,d05809c29f032c998a444139c4f0d9ce,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023445187195380516,-8023445049755510632,6,N,43,32,10

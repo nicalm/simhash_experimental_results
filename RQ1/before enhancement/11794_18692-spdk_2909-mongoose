@@ -1,0 +1,17 @@
+18692-spdk,2909-mongoose
+queue.h,mongoose.h,\include\spdk\queue.h,\mongoose.h,ec100905d717ef23a63f758030236499,2d0665a2e8d3cf0feb3b958a851f071d,-9212465172521363396,-8023445049755510628,8,N,30,3259,15
+queue.h,mg_features.h,\include\spdk\queue.h,\src\mg_features.h,ec100905d717ef23a63f758030236499,f465b98573fad4b5e022cec4075e3e67,-9212465172521363396,-8023445049755510628,8,N,30,130,5
+queue.h,mg_mem.h,\include\spdk\queue.h,\src\common\mg_mem.h,ec100905d717ef23a63f758030236499,eb1e1ae46ae1bc1797e63b3f784aef13,-9212465172521363396,1163898190080301212,8,N,30,21,9
+queue.h,platform_tm4c129.h,\include\spdk\queue.h,\src\common\platforms\platform_tm4c129.h,ec100905d717ef23a63f758030236499,ec7a6d4ed7c352190be37dc2c31db2a1,-9212465172521363396,-8059473848926676772,8,N,30,43,7
+queue.h,platform_unix.h,\include\spdk\queue.h,\src\common\platforms\platform_unix.h,ec100905d717ef23a63f758030236499,baebcbb3950c55896dce83ea69594fdd,-9212465172521363396,-8023445049755510628,8,N,30,111,5
+queue.h,platform_windows.h,\include\spdk\queue.h,\src\common\platforms\platform_windows.h,ec100905d717ef23a63f758030236499,1642514a47bfd6eb32ee42269aa3c12d,-9212465172521363396,-8023445049755510628,8,N,30,147,6
+queue.h,mg_lwip.h,\include\spdk\queue.h,\src\common\platforms\lwip\mg_lwip.h,ec100905d717ef23a63f758030236499,11b79956ecf8353c59ad314eaeda883f,-9212465172521363396,-8018941450128140260,8,N,30,41,5
+assert.h,mongoose.c,\include\spdk_internal\assert.h,\mongoose.c,340c3c292f11b3661cb114f5fb4a2722,bb26ef6c18547f7fea15fb29572c30d7,-7384004271941560100,-7951396243220670308,8,N,16,12838,9
+assert.h,mongoose.h,\include\spdk_internal\assert.h,\mongoose.h,340c3c292f11b3661cb114f5fb4a2722,2d0665a2e8d3cf0feb3b958a851f071d,-7384004271941560100,-8023445049755510628,7,N,16,3259,9
+assert.h,mg_features.h,\include\spdk_internal\assert.h,\src\mg_features.h,340c3c292f11b3661cb114f5fb4a2722,f465b98573fad4b5e022cec4075e3e67,-7384004271941560100,-8023445049755510628,7,N,16,130,5
+assert.h,cs_dbg.h,\include\spdk_internal\assert.h,\examples\CC3200\cs_dbg.h,340c3c292f11b3661cb114f5fb4a2722,cf16deae79500e73991cf8234e29e27a,-7384004271941560100,-7447169015934035812,7,N,16,58,9
+assert.h,cs_dbg.h,\include\spdk_internal\assert.h,\src\common\cs_dbg.h,340c3c292f11b3661cb114f5fb4a2722,cf16deae79500e73991cf8234e29e27a,-7384004271941560100,-7447169015934035812,7,N,16,58,9
+assert.h,platform_unix.h,\include\spdk_internal\assert.h,\src\common\platforms\platform_unix.h,340c3c292f11b3661cb114f5fb4a2722,baebcbb3950c55896dce83ea69594fdd,-7384004271941560100,-8023445049755510628,7,N,16,111,5
+assert.h,platform_wince.h,\include\spdk_internal\assert.h,\src\common\platforms\platform_wince.h,340c3c292f11b3661cb114f5fb4a2722,551934bdf0092886b7a2f9895977d52b,-7384004271941560100,-8023445049757607780,8,N,16,138,5
+assert.h,platform_windows.h,\include\spdk_internal\assert.h,\src\common\platforms\platform_windows.h,340c3c292f11b3661cb114f5fb4a2722,1642514a47bfd6eb32ee42269aa3c12d,-7384004271941560100,-8023445049755510628,7,N,16,147,5
+assert.h,cs_dbg.h,\include\spdk_internal\assert.h,\examples\MSP432\ccs\MSP432_MG_hello\cs_dbg.h,340c3c292f11b3661cb114f5fb4a2722,01e0ff4537886b7a941368c4966acfdf,-7384004271941560100,-8604550156346140452,7,N,16,52,9

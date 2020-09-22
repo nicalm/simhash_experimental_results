@@ -1,0 +1,13 @@
+2202-qBittorrent,4960-capstone
+application.cpp,cs.c,\src\app\application.cpp,\cs.c,1769f1c34b2b51e4c126498e3a0b5a58,28b740cedafbc72ff6d105bcf67b66ec,-7445858400229599076,-8024007991656916772,8,N,573,1274,128
+main.cpp,cs.c,\src\app\main.cpp,\cs.c,0ab876c235d091cc9321f5b26945d353,28b740cedafbc72ff6d105bcf67b66ec,-8023445118508476260,-8024007991656916772,8,N,324,1274,83
+main.cpp,test_basic.c,\src\app\main.cpp,\tests\test_basic.c,0ab876c235d091cc9321f5b26945d353,a31ca8d3bb8a75874920d317a6ad1579,-8023445118508476260,-8018942549639704420,5,N,324,357,44
+main.cpp,test_detail.c,\src\app\main.cpp,\tests\test_detail.c,0ab876c235d091cc9321f5b26945d353,3d78601cdc003b4b4483b95018434b0a,-8023445118508476260,-7442486195382783844,8,N,324,333,46
+main.cpp,test_iter.c,\src\app\main.cpp,\tests\test_iter.c,0ab876c235d091cc9321f5b26945d353,25690cf4ebb5bd2f561bd05964d131ee,-8023445118508476260,-8023446149267066732,6,N,324,274,43
+session.cpp,ocaml.c,\src\base\bittorrent\session.cpp,\bindings\ocaml\ocaml.c,ca3fc73b6732798b8724618e8c3fec27,4ff3aa66dfcf3a89c8d9c731dacee422,6881978578661030105,5729127442933135575,8,N,3742,960,145
+proplistdelegate.cpp,cstool_arm64.c,\src\gui\properties\proplistdelegate.cpp,\cstool\cstool_arm64.c,4de60f6b36141f92c2bc5ba3d77471db,846ffa7b48a0f0b4b91af38d55f637ad,-3494526068898088747,5729127445080684759,6,N,172,117,30
+proplistdelegate.cpp,cstool_tms320c64x.c,\src\gui\properties\proplistdelegate.cpp,\cstool\cstool_tms320c64x.c,4de60f6b36141f92c2bc5ba3d77471db,1d77daddd0cded4d6bfcffa04374ca73,-3494526068898088747,5693098637861337175,8,N,172,93,21
+proplistdelegate.cpp,ocaml.c,\src\gui\properties\proplistdelegate.cpp,\bindings\ocaml\ocaml.c,4de60f6b36141f92c2bc5ba3d77471db,4ff3aa66dfcf3a89c8d9c731dacee422,-3494526068898088747,5729127442933135575,4,N,172,960,53
+proplistdelegate.cpp,arm64_detail.c,\src\gui\properties\proplistdelegate.cpp,\suite\cstest\src\arm64_detail.c,4de60f6b36141f92c2bc5ba3d77471db,273ab6bb0b91884b4d970b6b567bf652,-3494526068898088747,5729109850747353287,5,N,172,112,30
+proplistdelegate.cpp,arm_detail.c,\src\gui\properties\proplistdelegate.cpp,\suite\cstest\src\arm_detail.c,4de60f6b36141f92c2bc5ba3d77471db,15dacc93833d9260f16616b1522e208b,-3494526068898088747,4864154839501027735,7,N,172,121,30
+proplistdelegate.cpp,tms320c64x_detail.c,\src\gui\properties\proplistdelegate.cpp,\suite\cstest\src\tms320c64x_detail.c,4de60f6b36141f92c2bc5ba3d77471db,05f09a3e85c5bcda6fb9a22ad11a4d73,-3494526068898088747,5729127439173204215,8,N,172,93,21

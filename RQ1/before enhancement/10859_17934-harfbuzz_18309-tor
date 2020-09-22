@@ -1,0 +1,10 @@
+17934-harfbuzz,18309-tor
+hb-fc-list.c,compat_compiler.h,\util\hb-fc-list.c,\src\lib\cc\compat_compiler.h,c27d8fd53993dc1d7a624ea1ec1d10a6,4fda4875c0f6db2fda2057a47aa6fc8f,1199786163039426780,-8023445050293299044,7,N,178,128,16
+hb-fc-list.c,ed25519-donna-portable-identify.h,\util\hb-fc-list.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,c27d8fd53993dc1d7a624ea1ec1d10a6,36a4efc8ce95d16532d64be30ece0f36,1199786163039426780,-8023445066935379812,7,N,178,87,14
+test-c.c,timeout.c,\test\api\test-c.c,\src\ext\timeouts\timeout.c,40a532b71e6242f205df120cc480a67e,b607f1c129ce5e3aacea62c7cd85ad65,-8023445049757468516,-8018941171223955304,8,N,26,428,8
+test-c.c,compat_compiler.h,\test\api\test-c.c,\src\lib\cc\compat_compiler.h,40a532b71e6242f205df120cc480a67e,4fda4875c0f6db2fda2057a47aa6fc8f,-8023445049757468516,-8023445050293299044,4,N,26,128,6
+test-c.c,torint.h,\test\api\test-c.c,\src\lib\cc\torint.h,40a532b71e6242f205df120cc480a67e,f9bd1774a6cabce5324bfd6779020def,-8023445049757468516,-8023198759150888804,5,N,26,101,6
+test-c.c,fdio.c,\test\api\test-c.c,\src\lib\fdio\fdio.c,40a532b71e6242f205df120cc480a67e,f7cc52832a8d31f8234387c9640d45fa,-8023445049757468516,-7735214673874331620,5,N,26,80,9
+test-c.c,inaddr_st.h,\test\api\test-c.c,\src\lib\net\inaddr_st.h,40a532b71e6242f205df120cc480a67e,62efbf41d2e5c9c5c910850b9ac27f2c,-8023445049757468516,-8023445049755509604,4,N,26,69,7
+test-c.c,nettypes.h,\test\api\test-c.c,\src\lib\net\nettypes.h,40a532b71e6242f205df120cc480a67e,5dc6cbfbef80e86b6ed991e81ad60883,-8023445049757468516,-8033015199603320676,8,N,26,24,5
+test-c.c,ed25519-donna-portable-identify.h,\test\api\test-c.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,40a532b71e6242f205df120cc480a67e,36a4efc8ce95d16532d64be30ece0f36,-8023445049757468516,-8023445066935379812,4,N,26,87,6

@@ -1,0 +1,8 @@
+1193-mpv,12873-mediawiki
+stream_dvdnav.c,LogFormatter.php,\stream\stream_dvdnav.c,\includes\logging\LogFormatter.php,f72cbb2ffa3a3fbdd3531c8498b0a46a,1a5b87b8ddd192cf448a8d7e785d9d75,1119693774075239127,5729127442933127383,4,N,595,551,101
+stream_dvdnav.c,FormatMetadata.php,\stream\stream_dvdnav.c,\includes\media\FormatMetadata.php,f72cbb2ffa3a3fbdd3531c8498b0a46a,d4c424b998a37738addfaa8660b2d286,1119693774075239127,5729109850747091159,6,N,595,1326,104
+stream_dvdnav.c,IPTC.php,\stream\stream_dvdnav.c,\includes\media\IPTC.php,f72cbb2ffa3a3fbdd3531c8498b0a46a,5acd3160fef09ca8547c657db582b971,1119693774075239127,5729127442933135575,5,N,595,377,76
+stream_dvdnav.c,ExtensionDependencyError.php,\stream\stream_dvdnav.c,\includes\registration\ExtensionDependencyError.php,f72cbb2ffa3a3fbdd3531c8498b0a46a,f7bb90c1ca9716b4c4e940b5871755aa,1119693774075239127,5729126334831573079,8,N,595,44,12
+stream_dvdnav.c,bench_if_switch.php,\stream\stream_dvdnav.c,\maintenance\benchmarks\bench_if_switch.php,f72cbb2ffa3a3fbdd3531c8498b0a46a,ebc9d6c5664eaffdc591b48a194dced3,1119693774075239127,5729127442933135575,5,N,595,73,24
+stream_dvdnav.c,fi.js,\stream\stream_dvdnav.c,\resources\src\mediawiki.language\languages\fi.js,f72cbb2ffa3a3fbdd3531c8498b0a46a,3c85a98c46d022c8ff97288c16dfe428,1119693774075239127,5660448098369583319,7,N,595,36,12
+stream_dvdnav.c,ga.js,\stream\stream_dvdnav.c,\resources\lib\jquery.i18n\src\languages\ga.js,f72cbb2ffa3a3fbdd3531c8498b0a46a,7427a3d627903337481ce4a93b84ae3c,1119693774075239127,5753615765906950359,7,N,595,33,10

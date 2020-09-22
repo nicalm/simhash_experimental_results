@@ -1,0 +1,4 @@
+11788-fbthrift,1930-SwifterSwift
+thrift_config.h,CGColorExtensions.swift,\thrift\lib\cpp\thrift_config.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,27c650bbff0590e9f2fafe163b055489,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,220,21,5
+thrift_config.h,NSAttributedStringExtensions.swift,\thrift\lib\cpp\thrift_config.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,27c650bbff0590e9f2fafe163b055489,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,220,87,11
+thrift_config.h,StringExtensions.swift,\thrift\lib\cpp\thrift_config.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,27c650bbff0590e9f2fafe163b055489,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,220,650,55

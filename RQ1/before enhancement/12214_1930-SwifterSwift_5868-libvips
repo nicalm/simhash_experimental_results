@@ -1,0 +1,3 @@
+1930-SwifterSwift,5868-libvips
+NSAttributedStringExtensions.swift,vector.c,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\libvips\iofuncs\vector.c,682db1376e5e9e45d24a9e1b1ad3e9f8,055954f4e165b83818f7e8bd6db904ec,-9174114755220842340,-8023484632710850404,8,N,87,400,28
+StringExtensions.swift,vector.c,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\libvips\iofuncs\vector.c,d53332d341abeff92e3d2d2ce16a4d0a,055954f4e165b83818f7e8bd6db904ec,-3051550226512422756,-8023484632710850404,7,N,650,400,68

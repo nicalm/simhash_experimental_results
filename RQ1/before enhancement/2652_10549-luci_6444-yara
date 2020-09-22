@@ -1,0 +1,10 @@
+10549-luci,6444-yara
+axhttp.h,endian.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\libyara\include\yara\endian.h,15eb217d5f5922cce10b8494e4915b7f,f44500c257dc9e47f34b1473280aea77,-7491774003658044260,-8023445049755510628,8,N,101,55,10
+axhttp.h,integers.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\libyara\include\yara\integers.h,15eb217d5f5922cce10b8494e4915b7f,f8e220916ba72c943da73bf32049b841,-7491774003658044260,-8023445049755510628,8,N,101,57,10
+axhttp.h,limits.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\libyara\include\yara\limits.h,15eb217d5f5922cce10b8494e4915b7f,1b76e5cbfb6a87b1b52e9aef743d23ec,-7491774003658044260,-8023445049755510628,8,N,101,77,9
+axssl.c,endian.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\libyara\include\yara\endian.h,f2b0cb059db544f4352723a1918a2843,f44500c257dc9e47f34b1473280aea77,-8030199623489105704,-8023445049755510628,8,N,686,55,15
+axssl.c,integers.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\libyara\include\yara\integers.h,f2b0cb059db544f4352723a1918a2843,f8e220916ba72c943da73bf32049b841,-8030199623489105704,-8023445049755510628,8,N,686,57,18
+axssl.c,limits.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\libyara\include\yara\limits.h,f2b0cb059db544f4352723a1918a2843,1b76e5cbfb6a87b1b52e9aef743d23ec,-8030199623489105704,-8023445049755510628,8,N,686,77,25
+dialog.h,endian.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\libyara\include\yara\endian.h,65291cd84768397473c02d7325db3d87,f44500c257dc9e47f34b1473280aea77,-7933373057317024612,-8023445049755510628,8,N,128,55,15
+dialog.h,integers.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\libyara\include\yara\integers.h,65291cd84768397473c02d7325db3d87,f8e220916ba72c943da73bf32049b841,-7933373057317024612,-8023445049755510628,8,N,128,57,16
+dialog.h,limits.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\libyara\include\yara\limits.h,65291cd84768397473c02d7325db3d87,1b76e5cbfb6a87b1b52e9aef743d23ec,-7933373057317024612,-8023445049755510628,8,N,128,77,15

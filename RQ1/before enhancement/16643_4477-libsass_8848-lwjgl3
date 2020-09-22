@@ -1,0 +1,10 @@
+4477-libsass,8848-lwjgl3
+environment.cpp,meshoptimizer.h,\src\environment.cpp,\modules\lwjgl\meshoptimizer\src\main\c\meshoptimizer.h,a2620909cd2a8a59374fd8bda58a2d2a,bbb0d0a9f0e484e21b157f6082766e28,4085038658899284632,-6291250484587130184,6,N,194,404,75
+base.h,Remotery.h,\include\sass\base.h,\modules\lwjgl\remotery\src\main\c\Remotery.h,26dfd0d8cb029fd73ca71c0971ecc070,12e50b2dc5c0c2bdbc5358b702b71df0,-8023163575290504548,-8023445049755509604,6,N,63,373,19
+base.h,vulkan.h,\include\sass\base.h,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,26dfd0d8cb029fd73ca71c0971ecc070,a7ae20d678df3f06a86ce72d995f40ae,-8023163575290504548,1163898190080301212,7,N,63,49,11
+base.h,glew.c,\include\sass\base.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\src\glew.c,26dfd0d8cb029fd73ca71c0971ecc070,b1947b9acdf4519fc27c6bbcd5781bdc,-8023163575290504548,-8023445049755510628,5,N,63,25609,18
+base.h,eglew.h,\include\sass\base.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\eglew.h,26dfd0d8cb029fd73ca71c0971ecc070,ecc2eb96c703f86dbe9c6bf13607881a,-8023163575290504548,-8023445049755510628,5,N,63,1617,15
+base.h,glcorearb.h,\include\sass\base.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glcorearb.h,26dfd0d8cb029fd73ca71c0971ecc070,c374a6cfc3a7513bdf7894a715b8f505,-8023163575290504548,-8023445049755510628,5,N,63,3418,18
+base.h,glew.h,\include\sass\base.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glew.h,26dfd0d8cb029fd73ca71c0971ecc070,402cf29ca4f1c6a6736874597458a5f1,-8023163575290504548,-8023445049755510628,5,N,63,17894,19
+base.h,glxew.h,\include\sass\base.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glxew.h,26dfd0d8cb029fd73ca71c0971ecc070,f9dc87406573632578b48da4cf5fa041,-8023163575290504548,-8023445049755510628,5,N,63,1145,16
+base.h,wglew.h,\include\sass\base.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\wglew.h,26dfd0d8cb029fd73ca71c0971ecc070,f4b78ad73084060b622a4b7e766fe2cb,-8023163575290504548,-8023445049759704932,6,N,63,952,17

@@ -1,0 +1,10 @@
+17934-harfbuzz,4000-mruby
+hb-ot-shape-complex-vowel-constraints.cc,proto_to_ruby.cpp,\src\hb-ot-shape-complex-vowel-constraints.cc,\oss-fuzz\proto_to_ruby.cpp,af3b5cee198ad0cdcf32177f2059763e,343a45cf3c8497b45182f0170dd23cc0,5729127511516264663,5729127442933135575,4,N,420,431,131
+hb-ot-shape-complex-vowel-constraints.cc,codedump.c,\src\hb-ot-shape-complex-vowel-constraints.cc,\src\codedump.c,af3b5cee198ad0cdcf32177f2059763e,838fd904bb528b1b9ebdfc72d4fd5069,5729127511516264663,5729127442933135575,4,N,420,525,110
+hb-subset.cc,proto_to_ruby.cpp,\src\hb-subset.cc,\oss-fuzz\proto_to_ruby.cpp,8cd5ec526a4232f06c744be9b77a51bc,343a45cf3c8497b45182f0170dd23cc0,5170681089138145431,5729127442933135575,4,N,256,431,52
+hb-subset.cc,codedump.c,\src\hb-subset.cc,\src\codedump.c,8cd5ec526a4232f06c744be9b77a51bc,838fd904bb528b1b9ebdfc72d4fd5069,5170681089138145431,5729127442933135575,4,N,256,525,50
+hb-fc-list.c,mrbconf.h,\util\hb-fc-list.c,\include\mrbconf.h,c27d8fd53993dc1d7a624ea1ec1d10a6,0fa5612f8872c2c08d3897c6c4be5559,1199786163039426780,-8023445049755510628,8,N,178,81,13
+test-c.c,mrbconf.h,\test\api\test-c.c,\include\mrbconf.h,40a532b71e6242f205df120cc480a67e,0fa5612f8872c2c08d3897c6c4be5559,-8023445049757468516,-8023445049755510628,3,N,26,81,6
+test-c.c,mruby.h,\test\api\test-c.c,\include\mruby.h,40a532b71e6242f205df120cc480a67e,4213b2c560539512862346f6eb8f4225,-8023445049757468516,-9185390796047329124,7,N,26,460,8
+test-c.c,common.h,\test\api\test-c.c,\include\mruby\common.h,40a532b71e6242f205df120cc480a67e,a84b59436b58d29e1f0bfb2dbe2e629f,-8023445049757468516,-7446984299733788004,7,N,26,55,6
+test-c.c,value.h,\test\api\test-c.c,\include\mruby\value.h,40a532b71e6242f205df120cc480a67e,f71a5a47635a7a4d552564f252a74db2,-8023445049757468516,-7879329861679654756,4,N,26,308,8

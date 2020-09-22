@@ -1,0 +1,3 @@
+1460-iTerm2,7025-Stellar
+ini.h,Stellar-Swift.h,\ThirdParty\inih\ini.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510564,-7743940123003924324,6,N,57,231,16
+BetterFontPicker-Swift.h,Stellar-Swift.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,9cdfc1f6cb7907e29a4e6b2cf0041946,fafe37ab4771e0a9586e17224fcc7041,-8023479959251789668,-7743940123003924324,6,N,335,231,123

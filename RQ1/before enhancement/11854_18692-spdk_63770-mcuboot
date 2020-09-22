@@ -1,0 +1,12 @@
+18692-spdk,63770-mcuboot
+queue.h,cycfg_system.c,\include\spdk\queue.h,\boot\cypress\platforms\cycfg_system.c,ec100905d717ef23a63f758030236499,bff349da7cac11bb28ca6bbaf8ddf706,-9212465172521363396,-8023445049755510628,8,N,30,457,6
+queue.h,mcuboot_config.h,\include\spdk\queue.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,ec100905d717ef23a63f758030236499,f0392b66843115fde20da54437ca8d50,-9212465172521363396,-8023445049755510628,8,N,30,88,7
+queue.h,check_config.h,\include\spdk\queue.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,ec100905d717ef23a63f758030236499,c07b8c175b56fe517779021d20b47123,-9212465172521363396,-8023445049755510628,8,N,30,525,5
+assert.h,caps.c,\include\spdk_internal\assert.h,\boot\bootutil\src\caps.c,340c3c292f11b3661cb114f5fb4a2722,b8912a794ee2ea692ac2e6b647d02bde,-7384004271941560100,-8032452249010251620,6,N,16,57,6
+assert.h,cycfg_system.c,\include\spdk_internal\assert.h,\boot\cypress\platforms\cycfg_system.c,340c3c292f11b3661cb114f5fb4a2722,bff349da7cac11bb28ca6bbaf8ddf706,-7384004271941560100,-8023445049755510628,7,N,16,457,6
+assert.h,enc_key.h,\include\spdk_internal\assert.h,\boot\bootutil\include\bootutil\enc_key.h,340c3c292f11b3661cb114f5fb4a2722,e7664b0cde0146e73fd9e33a08af62d8,-7384004271941560100,-7230882015615854564,8,N,16,58,9
+assert.h,sysflash.h,\include\spdk_internal\assert.h,\boot\cypress\MCUBootApp\sysflash\sysflash.h,340c3c292f11b3661cb114f5fb4a2722,031f4d9374fdf511d149ea2fe5aea078,-7384004271941560100,-8023515419036493668,6,N,16,56,5
+assert.h,mcuboot_config.h,\include\spdk_internal\assert.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,340c3c292f11b3661cb114f5fb4a2722,f0392b66843115fde20da54437ca8d50,-7384004271941560100,-8023445049755510628,7,N,16,88,5
+assert.h,check_config.h,\include\spdk_internal\assert.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,340c3c292f11b3661cb114f5fb4a2722,c07b8c175b56fe517779021d20b47123,-7384004271941560100,-8023445049755510628,7,N,16,525,4
+assert.h,platform.h,\include\spdk_internal\assert.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,340c3c292f11b3661cb114f5fb4a2722,34692dfb5da8e14debc74cc2e5c30a29,-7384004271941560100,-8023445049747122020,6,N,16,176,9
+assert.h,mcuboot_config.h,\include\spdk_internal\assert.h,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,340c3c292f11b3661cb114f5fb4a2722,ffa22f89edc78dfefd358c72c702e248,-7384004271941560100,-8023445050292381540,6,N,16,81,5

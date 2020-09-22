@@ -1,0 +1,17 @@
+63225-sedutil,8063-CMake
+sedutil.cpp,cmInstallGenerator.cxx,\Common\sedutil.cpp,\Source\cmInstallGenerator.cxx,d52e516d82c7919c579e6283c901df60,ffc83b5ec4af4d4c58685a6e382041bd,5693098645914171606,5443078497850964695,8,N,243,182,24
+sedutil.cpp,Terminal.c,\Common\sedutil.cpp,\Source\kwsys\Terminal.c,d52e516d82c7919c579e6283c901df60,129f6277b3b26df7c69f393b3ab15cb6,5693098645914171606,540699197225089239,6,N,243,362,50
+sedutil.cpp,getinfo.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\getinfo.c,d52e516d82c7919c579e6283c901df60,e4b1b98ba03c964ba505b6b062b00050,5693098645914171606,5729127442933135575,2,N,243,405,54
+sedutil.cpp,setopt.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\setopt.c,d52e516d82c7919c579e6283c901df60,c32f321618c395772c3eb5151b798824,5693098645914171606,5729127442933135575,2,N,243,1762,56
+sedutil.cpp,strerror.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\strerror.c,d52e516d82c7919c579e6283c901df60,5ba5713bfd998aa32c44de73d8fc545e,5693098645914171606,5666077050330986710,5,N,243,750,56
+sedutil.cpp,telnet.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\telnet.c,d52e516d82c7919c579e6283c901df60,61f2737780988e684ee1746bbaceed3f,5693098645914171606,5729127442933135575,2,N,243,1332,56
+sedutil.cpp,archive_acl.c,\Common\sedutil.cpp,\Utilities\cmlibarchive\libarchive\archive_acl.c,d52e516d82c7919c579e6283c901df60,1b46efa83d81ab20e324d06eb3acb5fb,5693098645914171606,5730253342838929623,4,N,243,1656,56
+sedutil.cpp,archive_read_set_format.c,\Common\sedutil.cpp,\Utilities\cmlibarchive\libarchive\archive_read_set_format.c,d52e516d82c7919c579e6283c901df60,44a41a5dca49f92d5c396c4e99eabec5,5693098645914171606,5729127994567997655,5,N,243,76,21
+sedutil.cpp,archive_read_support_format_by_code.c,\Common\sedutil.cpp,\Utilities\cmlibarchive\libarchive\archive_read_support_format_by_code.c,d52e516d82c7919c579e6283c901df60,c8d06533cdd2283f80838c043976c9df,5693098645914171606,5693096449038397655,4,N,243,49,15
+sedutil.cpp,archive_read_support_format_xar.c,\Common\sedutil.cpp,\Utilities\cmlibarchive\libarchive\archive_read_support_format_xar.c,d52e516d82c7919c579e6283c901df60,3eabab0ec2b09d315c80fb090b161f73,5693098645914171606,5729127445080611031,4,N,243,2974,56
+sedutil.cpp,nghttp2_outbound_item.c,\Common\sedutil.cpp,\Utilities\cmnghttp2\lib\nghttp2_outbound_item.c,d52e516d82c7919c579e6283c901df60,24e1abc56cc23759e4bc0b1ded17d147,5693098645914171606,5693085451505154261,6,N,243,90,24
+sedutil.cpp,libssh.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\vssh\libssh.c,d52e516d82c7919c579e6283c901df60,4e316d70908f2ed1ef883c20d958c50b,5693098645914171606,549706396471965907,8,N,243,2139,57
+sedutil.cpp,libssh2.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\vssh\libssh2.c,d52e516d82c7919c579e6283c901df60,61277890c31307a28e8fdfa57cb10027,5693098645914171606,549992269495187671,7,N,243,2686,56
+sedutil.cpp,sectransp.c,\Common\sedutil.cpp,\Utilities\cmcurl\lib\vtls\sectransp.c,d52e516d82c7919c579e6283c901df60,19c48e3eed312fd3d5b47ad6a8263888,5693098645914171606,5729127442933135575,2,N,243,2690,58
+sedutil.cpp,json_writer.cpp,\Common\sedutil.cpp,\Utilities\cmjsoncpp\src\lib_json\json_writer.cpp,d52e516d82c7919c579e6283c901df60,5f09003ea80f40eaa82cedc2520d66ab,5693098645914171606,973042564576884948,8,N,243,1090,56
+sedutil.cpp,handle-inl.h,\Common\sedutil.cpp,\Utilities\cmlibuv\src\win\handle-inl.h,d52e516d82c7919c579e6283c901df60,74bf88c3c5dd5fbc15e104fd6fcb492e,5693098645914171606,5747146239489128663,4,N,243,120,21

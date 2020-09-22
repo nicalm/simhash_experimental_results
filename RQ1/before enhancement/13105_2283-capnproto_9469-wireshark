@@ -1,0 +1,8 @@
+2283-capnproto,9469-wireshark
+miniposix.h,capture-pcap-util-unix.c,\c++\src\kj\miniposix.h,\caputils\capture-pcap-util-unix.c,43597d9a9103c02dbbe46d2c58ecc748,732164ad7968090c687f684a8d22ddf4,-7455991496707810916,-7447089852715705444,8,N,84,342,28
+miniposix.h,capture-pcap-util.c,\c++\src\kj\miniposix.h,\caputils\capture-pcap-util.c,43597d9a9103c02dbbe46d2c58ecc748,71dc5c1c8a55b98bd9d034b437971398,-7455991496707810916,-7447053832973592387,8,N,84,1012,30
+miniposix.h,etypes.h,\c++\src\kj\miniposix.h,\epan\etypes.h,43597d9a9103c02dbbe46d2c58ecc748,3c7973fde48d4ae5033b9c2baa52599a,-7455991496707810916,-8023445049755510628,5,N,84,437,13
+miniposix.h,arch.h,\c++\src\kj\miniposix.h,\speexdsp\arch.h,43597d9a9103c02dbbe46d2c58ecc748,7bd9f03a8b05e96ab303ecf68fd17137,-7455991496707810916,-7951950405671003748,6,N,84,154,16
+miniposix.h,dot11decrypt_interop.h,\c++\src\kj\miniposix.h,\epan\crypt\dot11decrypt_interop.h,43597d9a9103c02dbbe46d2c58ecc748,d7564edce1a33aac85261f4db23df308,-7455991496707810916,-8023445049755510644,6,N,84,38,12
+miniposix.h,lempar.c,\c++\src\kj\miniposix.h,\tools\lemon\lempar.c,43597d9a9103c02dbbe46d2c58ecc748,05ab4abcab36d427f4565bdd5793be05,-7455991496707810916,-7879329861679654756,6,N,84,624,26
+miniposix.h,main.cpp,\c++\src\kj\miniposix.h,\ui\qt\main.cpp,43597d9a9103c02dbbe46d2c58ecc748,c5f031e07e57fe84d2e1a91122b033e3,-7455991496707810916,-8023445050023946084,6,N,84,650,26

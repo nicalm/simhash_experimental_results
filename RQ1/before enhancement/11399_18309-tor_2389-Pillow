@@ -1,0 +1,10 @@
+18309-tor,2389-Pillow
+timeout.c,ImPlatform.h,\src\ext\timeouts\timeout.c,\src\libImaging\ImPlatform.h,b607f1c129ce5e3aacea62c7cd85ad65,6670b4584189b95bdcaaa198dabbf5c8,-8018941171223955304,-8024570949662353252,8,N,428,58,14
+compat_compiler.h,ImPlatform.h,\src\lib\cc\compat_compiler.h,\src\libImaging\ImPlatform.h,4fda4875c0f6db2fda2057a47aa6fc8f,6670b4584189b95bdcaaa198dabbf5c8,-8023445050293299044,-8024570949662353252,4,N,128,58,18
+torint.h,ImPlatform.h,\src\lib\cc\torint.h,\src\libImaging\ImPlatform.h,f9bd1774a6cabce5324bfd6779020def,6670b4584189b95bdcaaa198dabbf5c8,-8023198759150888804,-8024570949662353252,3,N,101,58,16
+fdio.c,ImPlatform.h,\src\lib\fdio\fdio.c,\src\libImaging\ImPlatform.h,f7cc52832a8d31f8234387c9640d45fa,6670b4584189b95bdcaaa198dabbf5c8,-7735214673874331620,-8024570949662353252,5,N,80,58,16
+inaddr_st.h,ImPlatform.h,\src\lib\net\inaddr_st.h,\src\libImaging\ImPlatform.h,62efbf41d2e5c9c5c910850b9ac27f2c,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755509604,-8024570949662353252,2,N,69,58,14
+nettypes.h,ImPlatform.h,\src\lib\net\nettypes.h,\src\libImaging\ImPlatform.h,5dc6cbfbef80e86b6ed991e81ad60883,6670b4584189b95bdcaaa198dabbf5c8,-8033015199603320676,-8024570949662353252,8,N,24,58,7
+compat_string.h,ImPlatform.h,\src\lib\string\compat_string.h,\src\libImaging\ImPlatform.h,ee5d4f16d6a1a17e897c0a516337b508,6670b4584189b95bdcaaa198dabbf5c8,-8023198751131381604,-8024570949662353252,7,N,36,58,10
+ed25519-donna-portable-identify.h,ImPlatform.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\src\libImaging\ImPlatform.h,36a4efc8ce95d16532d64be30ece0f36,6670b4584189b95bdcaaa198dabbf5c8,-8023445066935379812,-8024570949662353252,2,N,87,58,16
+ed25519-donna.h,ImPlatform.h,\src\ext\ed25519\donna\ed25519-donna.h,\src\libImaging\ImPlatform.h,2aae98d5c016419bee5a3b1b0fb3adb9,6670b4584189b95bdcaaa198dabbf5c8,-7447028278034638372,-8024570949662353252,8,N,84,58,15

@@ -1,0 +1,8 @@
+2283-capnproto,3761-lepton
+miniposix.h,test_harness.cc,\c++\src\kj\miniposix.h,\test_suite\test_harness.cc,43597d9a9103c02dbbe46d2c58ecc748,e289d2ef5a4a7ed63cb361e61d2bb017,-7455991496707810916,-8023445050292381540,6,N,84,121,23
+miniposix.h,gzguts.h,\c++\src\kj\miniposix.h,\dependencies\zlib\gzguts.h,43597d9a9103c02dbbe46d2c58ecc748,481fcd67c1a74813d1e18ea86b0fb735,-7455991496707810916,-8023445049755510628,5,N,84,151,20
+miniposix.h,zconf.h,\c++\src\kj\miniposix.h,\dependencies\zlib\zconf.h,43597d9a9103c02dbbe46d2c58ecc748,c89ff94ee23d020c7c9976f48a098fa0,-7455991496707810916,-8023445049755510628,5,N,84,403,19
+miniposix.h,zutil.c,\c++\src\kj\miniposix.h,\dependencies\zlib\zutil.c,43597d9a9103c02dbbe46d2c58ecc748,d62c1317e7969756f542daacf0d4ba54,-7455991496707810916,-8023445084115248996,6,N,84,245,25
+miniposix.h,zutil.h,\c++\src\kj\miniposix.h,\dependencies\zlib\zutil.h,43597d9a9103c02dbbe46d2c58ecc748,278c42fe50334e51a072b9e9539f1a94,-7455991496707810916,-8023445049755510628,5,N,84,183,16
+miniposix.h,Seccomp.cc,\c++\src\kj\miniposix.h,\src\io\Seccomp.cc,43597d9a9103c02dbbe46d2c58ecc748,fcf3311a0f327ceb4d649c91ce709b07,-7455991496707810916,-7302948413792462692,8,N,84,124,25
+miniposix.h,port.h,\c++\src\kj\miniposix.h,\dependencies\brotli\c\dec\port.h,43597d9a9103c02dbbe46d2c58ecc748,40b2fd74ac0fb05b9b3137ca6adfdec5,-7455991496707810916,-8023163576927266084,7,N,84,121,20

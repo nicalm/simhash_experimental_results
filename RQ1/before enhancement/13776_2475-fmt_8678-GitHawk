@@ -1,0 +1,5 @@
+2475-fmt,8678-GitHawk
+chrono_duration.cpp,latex.c,\test\fuzzing\chrono_duration.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,72440fd90a0d01848031589bb2a841a9,3b496090a1e3513cfad47cdb55fd9f13,5729127447228102871,5152666690361272567,5,N,129,414,44
+chrono_duration.cpp,plaintext.c,\test\fuzzing\chrono_duration.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,72440fd90a0d01848031589bb2a841a9,26e0294ebef318a7dde60887d309717f,5729127447228102871,5729127582519572639,5,N,129,169,30
+sprintf.cpp,plaintext.c,\test\fuzzing\sprintf.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,c2ddd179a4100129a6f72f09df658863,26e0294ebef318a7dde60887d309717f,1117439216892295391,5729127582519572639,8,N,101,169,21
+two_args.cpp,plaintext.c,\test\fuzzing\two_args.cpp,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,c159700c6123fdba738f71e168dab048,26e0294ebef318a7dde60887d309717f,1117439216892295391,5729127582519572639,8,N,97,169,20

@@ -1,0 +1,4 @@
+2257-core,8678-GitHawk
+appconfig.php,latex.c,\core\ajax\appconfig.php,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,031cdb064a8d37cd4b40af5d608c8543,3b496090a1e3513cfad47cdb55fd9f13,5152665582536538583,5152666690361272567,8,N,37,414,11
+MDB2SchemaReader.php,latex.c,\lib\private\DB\MDB2SchemaReader.php,\Pods\cmark-gfm-swift\Source\cmark_gfm\latex.c,d8397eafd4a2b3b1ab041811b2ffbaec,3b496090a1e3513cfad47cdb55fd9f13,5731379242747078871,5152666690361272567,5,N,238,414,73
+MDB2SchemaReader.php,plaintext.c,\lib\private\DB\MDB2SchemaReader.php,\Pods\cmark-gfm-swift\Source\cmark_gfm\plaintext.c,d8397eafd4a2b3b1ab041811b2ffbaec,26e0294ebef318a7dde60887d309717f,5731379242747078871,5729127582519572639,7,N,238,169,47

@@ -1,0 +1,9 @@
+63757-chain33,7242-Sia
+blockstore.go,json.go,\blockchain\blockstore.go,\persist\json.go,44b82a8d1af5187f0865bafef5a037d8,9e80dc3a4393ab2f5a01f5c7c341a587,7999741576095143160,7999741852583556600,7,N,1225,175,67
+blockstore.go,negotiateformcontract.go,\blockchain\blockstore.go,\modules\host\negotiateformcontract.go,44b82a8d1af5187f0865bafef5a037d8,42645ed7213fae7f6f31dfdb5b474a2d,7999741576095143160,7423209888120247800,6,N,1225,200,69
+blockstore.go,negotiaterenewcontract.go,\blockchain\blockstore.go,\modules\host\negotiaterenewcontract.go,44b82a8d1af5187f0865bafef5a037d8,05b0a1652d6e545715f05461c441c6ba,7999741576095143160,7423281098669626872,3,N,1225,227,75
+blockstore.go,wallet_test.go,\blockchain\blockstore.go,\modules\wallet\wallet_test.go,44b82a8d1af5187f0865bafef5a037d8,c1edd737c823b81f23d80d9617525f77,7999741576095143160,7423285773741528572,7,N,1225,521,195
+rollback.go,update.go,\blockchain\rollback.go,\modules\host\update.go,8ce6313ad228e90a15fbe9b6f1fbb246,3204ea03ce2201443d76eb7727f588fa,-1800087107063837384,7423214561036567928,8,N,104,206,37
+queueprotocol_test.go,negotiateformcontract.go,\client\queueprotocol_test.go,\modules\host\negotiateformcontract.go,16388ee18e04a80ca32b270959d1656d,42645ed7213fae7f6f31dfdb5b474a2d,-4105582928302762503,7423209888120247800,7,N,1131,200,67
+client.go,json.go,\rpc\client.go,\persist\json.go,0a51fe5578409dfa94de5ccc295b16ca,9e80dc3a4393ab2f5a01f5c7c341a587,7999776973067981308,7999741852583556600,8,N,351,175,52
+client.go,negotiaterenewcontract.go,\rpc\client.go,\modules\host\negotiaterenewcontract.go,0a51fe5578409dfa94de5ccc295b16ca,05b0a1652d6e545715f05461c441c6ba,7999776973067981308,7423281098669626872,8,N,351,227,70

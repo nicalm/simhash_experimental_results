@@ -1,0 +1,6 @@
+1194-salt,464-gentelella
+debian_ip.py,jqvmap.py,\salt\modules\debian_ip.py,\vendors\jqvmap\create\jqvmap.py,f1a5f70af13348cb4e4aad27a71ed465,cb9204a3ee7c190b675604315969a989,8435840752810852718,3986565797018730858,7,N,1372,487,36
+jquery-1.9.1.js,jquery-2.1.0.js,\doc\_themes\saltstack\static\js\vendor\jquery-1.9.1.js,\vendors\select2\vendor\jquery-2.1.0.js,f7a92132165aa6a0cfd4d24bf43f2936,453e197f463fe25ee985390798d5b89a,2283790837713010942,2286112319076123390,6,N,6587,6138,5049
+jquery-1.9.1.js,jquery-1.7.2.js,\doc\_themes\saltstack\static\js\vendor\jquery-1.9.1.js,\vendors\select2\tests\vendor\jquery-1.7.2.js,f7a92132165aa6a0cfd4d24bf43f2936,48ded5591a87f928a060b93215fb53ca,2283790837713010942,2287168623332919551,7,N,6587,6491,3932
+jquery-1.9.1.js,jquery.js,\doc\_themes\saltstack\static\js\vendor\jquery-1.9.1.js,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,f7a92132165aa6a0cfd4d24bf43f2936,2d87ba23383f782ee174b1e96d92f56a,2283790837713010942,2287238992077113598,8,N,6587,6390,3801
+jquery-1.9.1.js,jquery.js,\doc\_themes\saltstack\static\js\vendor\jquery-1.9.1.js,\vendors\parsleyjs\bower_components\jquery\dist\jquery.js,f7a92132165aa6a0cfd4d24bf43f2936,cdac12a7fb68d67386ca31654c9a68f9,2283790837713010942,2286112319076122876,6,N,6587,6188,5010

@@ -1,0 +1,4 @@
+2575-scipy,3637-qutebrowser
+quadpack.py,utils.py,\scipy\integrate\quadpack.py,\qutebrowser\utils\utils.py,42c24145da738e9f617fcfe8f3fddf31,95e3b7d013d5c1ab823100df70a67f33,8582214337770160622,7285135863650845038,8,N,255,406,20
+interpolative.py,utils.py,\scipy\linalg\interpolative.py,\qutebrowser\utils\utils.py,6eac74d20ca75836c33bda28db75906a,95e3b7d013d5c1ab823100df70a67f33,8582212689576460654,7285135863650845038,8,N,197,406,23
+optimize.py,utils.py,\scipy\optimize\optimize.py,\qutebrowser\utils\utils.py,9b8746048992d02fcb003d33dfc878ec,95e3b7d013d5c1ab823100df70a67f33,8439222850577893740,7285135863650845038,8,N,1509,406,31

@@ -1,0 +1,5 @@
+12758-znc,18-electron
+znc.cpp,windows_toast_notification.cc,\src\znc.cpp,\shell\browser\notifications\win\windows_toast_notification.cc,d5cdf0084974a39502b7410578dff912,f9cde3587133a9adf94f59223efdc1b0,1395476652689473967,1431083237210080174,7,N,1700,338,85
+version.h,atom_main_delegate.cc,\include\znc\version.h,\shell\app\atom_main_delegate.cc,d05809c29f032c998a444139c4f0d9ce,6beb16be6a739f5598d443a18a5cbaa6,-8023445187195380516,-4997025687846725476,7,N,43,249,11
+version.h,atom_browser_main_parts.cc,\include\znc\version.h,\shell\browser\atom_browser_main_parts.cc,d05809c29f032c998a444139c4f0d9ce,4312360427f5f392ec4f692be2a7319a,-8023445187195380516,-8023445187194455912,6,N,43,375,10
+version.h,linux_syscall_support.h,\include\znc\version.h,\vendor\third_party\lss\linux_syscall_support.h,d05809c29f032c998a444139c4f0d9ce,d7c4a715ebced0be3633fcfd349a02ff,-8023445187195380516,-8023445049755510628,5,N,43,3833,13

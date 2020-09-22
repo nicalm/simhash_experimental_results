@@ -1,0 +1,3 @@
+10395-jitsi,1172-stb
+lzma.h,stb_voxel_render.h,\src\native\windows\setup\include\lzma.h,\stb_voxel_render.h,4ce48c8f939c04739c2c0b8409ca662f,e185ad843cb8b3f858b2f0f59163bf0c,-8023445049755510628,-8168131434121996068,8,N,121,2286,43
+lzma.h,glext.h,\src\native\windows\setup\include\lzma.h,\tests\caveview\glext.h,4ce48c8f939c04739c2c0b8409ca662f,0aa24209e6e9c1ceb2e18188dfcd425b,-8023445049755510628,-8023445049755510628,0,N,121,10581,41

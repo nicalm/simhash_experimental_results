@@ -1,0 +1,5 @@
+548-ruby,6422-roundcubemail
+addr2line.c,rcube_tnef_decoder.php,\addr2line.c,\program\lib\Roundcube\rcube_tnef_decoder.php,fc7560fdad1a6d0ec4929d7c254a229e,8ca46cd084af91332151df25d1c4bd66,540949885910300886,5729127442933266647,7,N,2262,520,136
+mktable.c,rcube_tnef_decoder.php,\enc\mktable.c,\program\lib\Roundcube\rcube_tnef_decoder.php,6e80fd9ac3332b04543cc42590b0f38e,8ca46cd084af91332151df25d1c4bd66,5728846242565896439,5729127442933266647,5,N,984,520,102
+closure.c,rcube_tnef_decoder.php,\ext\fiddle\closure.c,\program\lib\Roundcube\rcube_tnef_decoder.php,3d04248ca021f7b04c57c8fc682a56a1,8ca46cd084af91332151df25d1c4bd66,5729127442932611285,5729127442933266647,3,N,259,520,48
+closure.c,rcube_sieve_script.php,\ext\fiddle\closure.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,3d04248ca021f7b04c57c8fc682a56a1,3c3c719b9a27e12464461daf90f00d1d,5729127442932611285,5153229640599894231,7,N,259,1009,47

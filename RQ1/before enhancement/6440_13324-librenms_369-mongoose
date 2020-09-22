@@ -1,0 +1,8 @@
+13324-librenms,369-mongoose
+rewrites.php,ReadPreference.js,\includes\rewrites.php,\lib\drivers\node-mongodb-native\ReadPreference.js,5389d55c6eafa211ede2994f342bca9b,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,1602,30,8
+libvirt-vminfo.inc.php,ReadPreference.js,\includes\discovery\libvirt-vminfo.inc.php,\lib\drivers\node-mongodb-native\ReadPreference.js,bb4b3773cf786ace10a58f9ec481435e,72ad104b2d3e1cc34b02578eb97d2c64,5730182974087411863,5440897058057271519,8,N,112,30,8
+ports.csv.inc.php,ReadPreference.js,\includes\html\reports\ports.csv.inc.php,\lib\drivers\node-mongodb-native\ReadPreference.js,363f50b93f6f3f7b86ed810c407bde48,72ad104b2d3e1cc34b02578eb97d2c64,5729127512726350071,5440897058057271519,8,N,140,30,8
+viptela.inc.php,ReadPreference.js,\includes\polling\os\viptela.inc.php,\lib\drivers\node-mongodb-native\ReadPreference.js,c64de710870736d919a9de98ce834a46,72ad104b2d3e1cc34b02578eb97d2c64,5729127442928941271,5440897058057271519,5,N,48,30,6
+linux.inc.php,ReadPreference.js,\includes\discovery\sensors\state\linux.inc.php,\lib\drivers\node-mongodb-native\ReadPreference.js,f9f2f629ba22b31deca0a4fa8d6f22cc,72ad104b2d3e1cc34b02578eb97d2c64,5747071472597776631,5440897058057271519,7,N,39,30,8
+toner.inc.php,ReadPreference.js,\includes\html\graphs\device\toner.inc.php,\lib\drivers\node-mongodb-native\ReadPreference.js,14df19f7caa79129a9551c99a2471503,72ad104b2d3e1cc34b02578eb97d2c64,5731379235161422023,5440897058057271519,8,N,45,30,8
+sensors.inc.php,ReadPreference.js,\includes\html\pages\health\sensors.inc.php,\lib\drivers\node-mongodb-native\ReadPreference.js,9bd00fc9a64f40b2fc247e4ec5f2b56a,72ad104b2d3e1cc34b02578eb97d2c64,5440897599356385494,5440897058057271519,8,N,98,30,7

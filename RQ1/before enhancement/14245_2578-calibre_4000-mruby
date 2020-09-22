@@ -1,0 +1,9 @@
+2578-calibre,4000-mruby
+icu_calibre_utils.h,common.h,\src\calibre\utils\icu_calibre_utils.h,\include\mruby\common.h,3a63b39b6c2e73ad84e1ccdd8548a328,a84b59436b58d29e1f0bfb2dbe2e629f,-8870192150794150948,-7446984299733788004,8,N,188,55,16
+lzxc.c,mrbconf.h,\src\calibre\utils\lzx\lzxc.c,\include\mrbconf.h,5148bebfcfad4cb4119b4e362bc0686f,0fa5612f8872c2c08d3897c6c4be5559,-8059473846773950244,-8023445049755510628,3,N,1033,81,29
+lzxc.c,mruby.h,\src\calibre\utils\lzx\lzxc.c,\include\mruby.h,5148bebfcfad4cb4119b4e362bc0686f,4213b2c560539512862346f6eb8f4225,-8059473846773950244,-9185390796047329124,7,N,1033,460,55
+lzxc.c,common.h,\src\calibre\utils\lzx\lzxc.c,\include\mruby\common.h,5148bebfcfad4cb4119b4e362bc0686f,a84b59436b58d29e1f0bfb2dbe2e629f,-8059473846773950244,-7446984299733788004,7,N,1033,55,18
+lzxc.c,value.h,\src\calibre\utils\lzx\lzxc.c,\include\mruby\value.h,5148bebfcfad4cb4119b4e362bc0686f,f71a5a47635a7a4d552564f252a74db2,-8059473846773950244,-7879329861679654756,4,N,1033,308,70
+msstdint.h,mrbconf.h,\src\calibre\utils\lzx\msstdint.h,\include\mrbconf.h,2dacb8ee9f393a22b1266f714d3efcd6,0fa5612f8872c2c08d3897c6c4be5559,-2830794129776780644,-8023445049755510628,7,N,138,81,17
+msstdint.h,common.h,\src\calibre\utils\lzx\msstdint.h,\include\mruby\common.h,2dacb8ee9f393a22b1266f714d3efcd6,a84b59436b58d29e1f0bfb2dbe2e629f,-2830794129776780644,-7446984299733788004,5,N,138,55,17
+msstdint.h,value.h,\src\calibre\utils\lzx\msstdint.h,\include\mruby\value.h,2dacb8ee9f393a22b1266f714d3efcd6,f71a5a47635a7a4d552564f252a74db2,-2830794129776780644,-7879329861679654756,8,N,138,308,20

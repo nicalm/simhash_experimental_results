@@ -1,0 +1,5 @@
+2389-Pillow,6664-ModSecurity
+FliDecode.c,seclang-parser.cc,\src\libImaging\FliDecode.c,\src\parser\seclang-parser.cc,93128dc18746c911ae74ad9f56192e4b,c95834041ac82565ed4d4a4bccd1b864,5153458476439616215,5729127442933135575,8,N,160,6079,51
+ImPlatform.h,unique_id.cc,\src\libImaging\ImPlatform.h,\src\unique_id.cc,6670b4584189b95bdcaaa198dabbf5c8,7c20c0dbffc732616cd5e43c73b8087b,-8024570949662353252,1199926922539489428,7,N,58,177,11
+ImPlatform.h,check_config.h,\src\libImaging\ImPlatform.h,\others\mbedtls\check_config.h,6670b4584189b95bdcaaa198dabbf5c8,306e92b56ac8d1b085c9f72fb65f46a7,-8024570949662353252,-8023445049755510628,1,N,58,402,11
+ImPlatform.h,platform.h,\src\libImaging\ImPlatform.h,\others\mbedtls\platform.h,6670b4584189b95bdcaaa198dabbf5c8,d00d535ad1c35ca86d366afc8578c1ab,-8024570949662353252,-7879409027045336932,6,N,58,106,15

@@ -1,0 +1,6 @@
+10205-firejail,2565-runc
+caps.c,namespace.h,\src\firejail\caps.c,\libcontainer\nsenter\namespace.h,0b9d72adabe6b183bf9a7948ffeb2934,07ed105206852e8f50b78f5b916a9de5,-5717602040541816676,-7951950405671004004,3,N,334,28,9
+sbox.c,namespace.h,\src\firejail\sbox.c,\libcontainer\nsenter\namespace.h,8a6f9f9ce42bcca368916f82519b79d6,07ed105206852e8f50b78f5b916a9de5,-8024007999708931940,-7951950405671004004,1,N,190,28,9
+syscall.c,namespace.h,\src\fseccomp\syscall.c,\libcontainer\nsenter\namespace.h,bf0ef0cc7976e59f6ac60c1a011c8188,07ed105206852e8f50b78f5b916a9de5,-8023445049755510628,-7951950405671004004,2,N,1564,28,10
+syscall.h,namespace.h,\src\include\syscall.h,\libcontainer\nsenter\namespace.h,e5d70ee64e8335903c40165f92bcb3a5,07ed105206852e8f50b78f5b916a9de5,-8023445049755510628,-7951950405671004004,2,N,5186,28,9
+libtrace.c,namespace.h,\src\libtrace\libtrace.c,\libcontainer\nsenter\namespace.h,e75ec9f98f403929994ba2e9b45b7b14,07ed105206852e8f50b78f5b916a9de5,-7663159407438177892,-7951950405671004004,7,N,558,28,10

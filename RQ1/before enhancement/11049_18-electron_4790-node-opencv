@@ -1,0 +1,4 @@
+18-electron,4790-node-opencv
+atom_browser_main_parts.cc,init.cc,\shell\browser\atom_browser_main_parts.cc,\src\init.cc,4312360427f5f392ec4f692be2a7319a,ac230f241e7062df9add8317bcf2a3be,-8023445187194455912,-8032663355242784612,6,N,375,67,11
+atom_paths.h,init.cc,\shell\browser\atom_paths.h,\src\init.cc,f62403bf230108c707f5e1273fdb321d,ac230f241e7062df9add8317bcf2a3be,-8023471436960835427,-8032663355242784612,7,N,33,67,7
+linux_syscall_support.h,init.cc,\vendor\third_party\lss\linux_syscall_support.h,\src\init.cc,d7c4a715ebced0be3633fcfd349a02ff,ac230f241e7062df9add8317bcf2a3be,-8023445049755510628,-8032663355242784612,3,N,3833,67,12

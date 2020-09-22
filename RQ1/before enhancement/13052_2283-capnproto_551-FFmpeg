@@ -1,0 +1,13 @@
+2283-capnproto,551-FFmpeg
+miniposix.h,mathops.h,\c++\src\kj\miniposix.h,\libavcodec\mathops.h,43597d9a9103c02dbbe46d2c58ecc748,344039313cbfdff89651a60fb7cae397,-7455991496707810916,-8023445049755510628,5,N,84,193,23
+miniposix.h,v4l2_fmt.c,\c++\src\kj\miniposix.h,\libavcodec\v4l2_fmt.c,43597d9a9103c02dbbe46d2c58ecc748,f540880dcab7df156781604d9eadc71b,-7455991496707810916,-8023445049755543400,7,N,84,113,18
+miniposix.h,version.h,\c++\src\kj\miniposix.h,\libavcodec\version.h,43597d9a9103c02dbbe46d2c58ecc748,8e0c33770d8426d02ab9fc15a77357e0,-7455991496707810916,-8023445049755510628,5,N,84,99,12
+miniposix.h,network.h,\c++\src\kj\miniposix.h,\libavformat\network.h,43597d9a9103c02dbbe46d2c58ecc748,cc395bf8b9ba56d398634fea6575af55,-7455991496707810916,-8023445049755510628,5,N,84,189,17
+miniposix.h,os_support.h,\c++\src\kj\miniposix.h,\libavformat\os_support.h,43597d9a9103c02dbbe46d2c58ecc748,ab4981c0d97f1ccc54bf9866897a371f,-7455991496707810916,-8023489030220621668,7,N,84,182,25
+miniposix.h,version.h,\c++\src\kj\miniposix.h,\libavformat\version.h,43597d9a9103c02dbbe46d2c58ecc748,9d24a4269f8762af48a1f17f71047651,-7455991496707810916,-8023445049755510628,5,N,84,69,12
+miniposix.h,intmath.h,\c++\src\kj\miniposix.h,\libavutil\intmath.h,43597d9a9103c02dbbe46d2c58ecc748,a96ead4fcc37ac8e2c6559e00c8c2efd,-7455991496707810916,-8023445049755543396,6,N,84,109,21
+miniposix.h,intreadwrite.h,\c++\src\kj\miniposix.h,\libavutil\intreadwrite.h,43597d9a9103c02dbbe46d2c58ecc748,3eb093abdbab1ad237ca6b8847c52d26,-7455991496707810916,-8023445049755510628,5,N,84,493,16
+miniposix.h,mathematics.h,\c++\src\kj\miniposix.h,\libavutil\mathematics.h,43597d9a9103c02dbbe46d2c58ecc748,d77e7a13468232c39750bb59bc26333c,-7455991496707810916,-8023445049759704932,6,N,84,59,12
+miniposix.h,intmath.h,\c++\src\kj\miniposix.h,\libavutil\x86\intmath.h,43597d9a9103c02dbbe46d2c58ecc748,26aaca2cfbff1a2efbd3e2bff65eff91,-7455991496707810916,-8023445066935641960,8,N,84,93,20
+miniposix.h,checkasm.c,\c++\src\kj\miniposix.h,\tests\checkasm\checkasm.c,43597d9a9103c02dbbe46d2c58ecc748,db398a317911a0b1b8c12cb363cb6948,-7455991496707810916,-8023444774877603684,6,N,84,671,28
+miniposix.h,dct.c,\c++\src\kj\miniposix.h,\libavcodec\tests\x86\dct.c,43597d9a9103c02dbbe46d2c58ecc748,e63123ba09303abdfae8e2c3f1ad88a6,-7455991496707810916,-8023445051886155620,7,N,84,104,15

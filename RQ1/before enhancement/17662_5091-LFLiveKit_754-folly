@@ -1,0 +1,6 @@
+5091-LFLiveKit,754-folly
+bytes.h,CPortability.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\folly\CPortability.h,27e627df8a5d4ca5b8f515c9651ea6ad,2071cc58e111b1fb40fa47a9161f5356,-8023445049755527012,-8023445049756493156,4,N,45,137,13
+bytes.h,Portability.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\folly\Portability.h,27e627df8a5d4ca5b8f515c9651ea6ad,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755527012,-7447019619264177960,7,N,45,392,13
+bytes.h,Config.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\folly\portability\Config.h,27e627df8a5d4ca5b8f515c9651ea6ad,a5be13d038f6f1ed74f7f738d2c00e52,-8023445049755527012,-9171865188386433004,7,N,45,16,5
+bytes.h,Stdlib.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\folly\portability\Stdlib.h,27e627df8a5d4ca5b8f515c9651ea6ad,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049755527012,-8028512836321486692,8,N,45,31,7
+bytes.h,Windows.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\folly\portability\Windows.h,27e627df8a5d4ca5b8f515c9651ea6ad,8d255d6eb746df0dd20db480cd3643e5,-8023445049755527012,-8023516518011316068,3,N,45,48,14

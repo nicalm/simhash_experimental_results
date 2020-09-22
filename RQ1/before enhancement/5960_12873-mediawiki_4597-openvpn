@@ -1,0 +1,12 @@
+12873-mediawiki,4597-openvpn
+LogFormatter.php,occ.c,\includes\logging\LogFormatter.php,\src\openvpn\occ.c,1a5b87b8ddd192cf448a8d7e785d9d75,708c182a111ae62474140b8b10a13f29,5729127442933127383,5729107651585416407,5,N,551,332,61
+LogFormatter.php,log.c,\includes\logging\LogFormatter.php,\sample\sample-plugins\log\log.c,1a5b87b8ddd192cf448a8d7e785d9d75,c9cfd293d5cfab61fc694f047589083f,5729127442933127383,5729127446955735799,7,N,551,130,28
+FormatMetadata.php,occ.c,\includes\media\FormatMetadata.php,\src\openvpn\occ.c,d4c424b998a37738addfaa8660b2d286,708c182a111ae62474140b8b10a13f29,5729109850747091159,5729107651585416407,5,N,1326,332,61
+FormatMetadata.php,log.c,\includes\media\FormatMetadata.php,\sample\sample-plugins\log\log.c,d4c424b998a37738addfaa8660b2d286,c9cfd293d5cfab61fc694f047589083f,5729109850747091159,5729127446955735799,7,N,1326,130,28
+IPTC.php,occ.c,\includes\media\IPTC.php,\src\openvpn\occ.c,5acd3160fef09ca8547c657db582b971,708c182a111ae62474140b8b10a13f29,5729127442933135575,5729107651585416407,6,N,377,332,61
+IPTC.php,log.c,\includes\media\IPTC.php,\sample\sample-plugins\log\log.c,5acd3160fef09ca8547c657db582b971,c9cfd293d5cfab61fc694f047589083f,5729127442933135575,5729127446955735799,6,N,377,130,28
+LanguageGa.php,log.c,\languages\classes\LanguageGa.php,\sample\sample-plugins\log\log.c,04d0499b9cc1cedee645951038d7a892,c9cfd293d5cfab61fc694f047589083f,5152671088609114359,5729127446955735799,8,N,36,130,12
+LanguageOs.php,occ.c,\languages\classes\LanguageOs.php,\src\openvpn\occ.c,1d4803307d9f6c2785f6821207e47529,708c182a111ae62474140b8b10a13f29,5729672800631306455,5729107651585416407,8,N,55,332,15
+bench_if_switch.php,occ.c,\maintenance\benchmarks\bench_if_switch.php,\src\openvpn\occ.c,ebc9d6c5664eaffdc591b48a194dced3,708c182a111ae62474140b8b10a13f29,5729127442933135575,5729107651585416407,6,N,73,332,22
+bench_if_switch.php,log.c,\maintenance\benchmarks\bench_if_switch.php,\sample\sample-plugins\log\log.c,ebc9d6c5664eaffdc591b48a194dced3,c9cfd293d5cfab61fc694f047589083f,5729127442933135575,5729127446955735799,6,N,73,130,19
+DiscordianDateTimeFormatter.js,occ.c,\resources\src\mediawiki.widgets.datetime\DiscordianDateTimeFormatter.js,\src\openvpn\occ.c,e5fb70604ffca02318e9ccef1c63882a,708c182a111ae62474140b8b10a13f29,5729107653737097943,5729107651585416407,6,N,445,332,61

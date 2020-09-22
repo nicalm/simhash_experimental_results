@@ -1,0 +1,9 @@
+12310-weechat,4420-zcash
+wee-url.c,compat.h,\src\core\wee-url.c,\src\compat.h,2182536a79bada4949d9bc0483b5da6d,edca1c84c422d3accf71cf028f56730c,-8023445049755510628,-8023445189341947748,2,N,1111,86,17
+wee-url.c,byteswap.h,\src\core\wee-url.c,\src\compat\byteswap.h,2182536a79bada4949d9bc0483b5da6d,c8049a65823175e0cb720f771bece0d5,-8023445049755510628,-8032452249010186084,2,N,1111,36,12
+wee-url.c,endian.h,\src\core\wee-url.c,\src\compat\endian.h,2182536a79bada4949d9bc0483b5da6d,b0a1e77bc71959182a3b0854e64e46ad,-8023445049755510628,-8023445049755510628,0,N,1111,160,77
+wee-url.c,zcashconsensus.h,\src\core\wee-url.c,\src\script\zcashconsensus.h,2182536a79bada4949d9bc0483b5da6d,9ba7ca783c191e34d1020f0ee0c759f5,-8023445049755510628,-9171898141824989028,7,N,1111,48,13
+wee-url.c,port_posix.h,\src\core\wee-url.c,\src\leveldb\port\port_posix.h,2182536a79bada4949d9bc0483b5da6d,d5a83a65b2dd5184b4c812843c400a16,-8023445049755510628,-8032804092731401572,6,N,1111,121,22
+wee-url.c,thread_annotations.h,\src\core\wee-url.c,\src\leveldb\port\thread_annotations.h,2182536a79bada4949d9bc0483b5da6d,af9eee1ca47192126580ea56af3a4865,-8023445049755510628,-8023445049755510628,0,N,1111,39,13
+gui-curses-term.c,endian.h,\src\gui\curses\gui-curses-term.c,\src\compat\endian.h,12c6b2e5780349c1e6b15f2a0f08c5ca,b0a1e77bc71959182a3b0854e64e46ad,-7447028277908808228,-8023445049755510628,7,N,23,160,8
+gui-curses-term.c,thread_annotations.h,\src\gui\curses\gui-curses-term.c,\src\leveldb\port\thread_annotations.h,12c6b2e5780349c1e6b15f2a0f08c5ca,af9eee1ca47192126580ea56af3a4865,-7447028277908808228,-8023445049755510628,7,N,23,39,5

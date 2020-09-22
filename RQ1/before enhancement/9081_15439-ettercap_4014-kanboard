@@ -1,0 +1,6 @@
+15439-ettercap,4014-kanboard
+ec_filter.c,changes.php,\src\ec_filter.c,\app\Template\task\changes.php,93d0ed8de4c0c08c76b8fb5f7787aef5,9d43fb3e19ac004f3873770dd9bbbfde,5729127442664700119,5729127648822069494,7,N,799,75,19
+ec_filter.c,JsonEncodingValidator.php,\src\ec_filter.c,\libs\jsonrpc\src\JsonRPC\Validator\JsonEncodingValidator.php,93d0ed8de4c0c08c76b8fb5f7787aef5,eed9775d43155ee449543409642197bd,5729127442664700119,6887115488296022103,8,N,799,33,13
+ec_parser.c,changes.php,\src\ec_parser.c,\app\Template\task\changes.php,a95da67ae2615afb320cafe15fbcbfd2,9d43fb3e19ac004f3873770dd9bbbfde,5729127571782408407,5729127648822069494,8,N,364,75,18
+ef_test.c,changes.php,\utils\etterfilter\ef_test.c,\app\Template\task\changes.php,fa7fc65cd5f440dd843abbe86d1716e4,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,181,75,19
+el_parser.c,changes.php,\utils\etterlog\el_parser.c,\app\Template\task\changes.php,e965aa39918fe671682ccf0efa3de321,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,230,75,17

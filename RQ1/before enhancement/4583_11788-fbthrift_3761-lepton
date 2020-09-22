@@ -1,0 +1,16 @@
+11788-fbthrift,3761-lepton
+thrift_config.h,test_harness.cc,\thrift\lib\cpp\thrift_config.h,\test_suite\test_harness.cc,27c650bbff0590e9f2fafe163b055489,e289d2ef5a4a7ed63cb361e61d2bb017,-8023445049755510628,-8023445050292381540,1,N,220,121,20
+thrift_config.h,gzguts.h,\thrift\lib\cpp\thrift_config.h,\dependencies\zlib\gzguts.h,27c650bbff0590e9f2fafe163b055489,481fcd67c1a74813d1e18ea86b0fb735,-8023445049755510628,-8023445049755510628,0,N,220,151,34
+thrift_config.h,zconf.h,\thrift\lib\cpp\thrift_config.h,\dependencies\zlib\zconf.h,27c650bbff0590e9f2fafe163b055489,c89ff94ee23d020c7c9976f48a098fa0,-8023445049755510628,-8023445049755510628,0,N,220,403,75
+thrift_config.h,zutil.c,\thrift\lib\cpp\thrift_config.h,\dependencies\zlib\zutil.c,27c650bbff0590e9f2fafe163b055489,d62c1317e7969756f542daacf0d4ba54,-8023445049755510628,-8023445084115248996,1,N,220,245,29
+thrift_config.h,zutil.h,\thrift\lib\cpp\thrift_config.h,\dependencies\zlib\zutil.h,27c650bbff0590e9f2fafe163b055489,278c42fe50334e51a072b9e9539f1a94,-8023445049755510628,-8023445049755510628,0,N,220,183,40
+thrift_config.h,MemMgrAllocator.cc,\thrift\lib\cpp\thrift_config.h,\src\io\MemMgrAllocator.cc,27c650bbff0590e9f2fafe163b055489,4081710108ae4d92c75a204cde67b037,-8023445049755510628,-7771243495318824804,5,N,220,422,21
+thrift_config.h,model.cc,\thrift\lib\cpp\thrift_config.h,\src\vp8\model\model.cc,27c650bbff0590e9f2fafe163b055489,51516a58a4d201a162390ca9ecf9ca48,-8023445049755510628,-7446993091381110596,7,N,220,395,22
+thrift_config.h,port.h,\thrift\lib\cpp\thrift_config.h,\dependencies\brotli\c\dec\port.h,27c650bbff0590e9f2fafe163b055489,40b2fd74ac0fb05b9b3137ca6adfdec5,-8023445049755510628,-8023163576927266084,6,N,220,121,19
+thrift_config.h,memory.h,\thrift\lib\cpp\thrift_config.h,\dependencies\brotli\c\enc\memory.h,27c650bbff0590e9f2fafe163b055489,7b7c326cb6f93d50dd06a9d313779e53,-8023445049755510628,-8023473654774578788,8,N,220,44,6
+thrift_config.h,port.h,\thrift\lib\cpp\thrift_config.h,\dependencies\brotli\c\include\brotli\port.h,27c650bbff0590e9f2fafe163b055489,350994917b4cef7e95001ccfdd8a21d9,-8023445049755510628,-9031978687939553124,6,N,220,102,21
+macros.h,test_harness.cc,\thrift\lib\rb\ext\macros.h,\test_suite\test_harness.cc,30f9d8d804dd66b382db54f2861518aa,e289d2ef5a4a7ed63cb361e61d2bb017,-8032469861362509668,-8023445050292381540,6,N,18,121,4
+macros.h,gzguts.h,\thrift\lib\rb\ext\macros.h,\dependencies\zlib\gzguts.h,30f9d8d804dd66b382db54f2861518aa,481fcd67c1a74813d1e18ea86b0fb735,-8032469861362509668,-8023445049755510628,7,N,18,151,4
+macros.h,zconf.h,\thrift\lib\rb\ext\macros.h,\dependencies\zlib\zconf.h,30f9d8d804dd66b382db54f2861518aa,c89ff94ee23d020c7c9976f48a098fa0,-8032469861362509668,-8023445049755510628,7,N,18,403,4
+macros.h,zutil.c,\thrift\lib\rb\ext\macros.h,\dependencies\zlib\zutil.c,30f9d8d804dd66b382db54f2861518aa,d62c1317e7969756f542daacf0d4ba54,-8032469861362509668,-8023445084115248996,8,N,18,245,4
+macros.h,zutil.h,\thrift\lib\rb\ext\macros.h,\dependencies\zlib\zutil.h,30f9d8d804dd66b382db54f2861518aa,278c42fe50334e51a072b9e9539f1a94,-8032469861362509668,-8023445049755510628,7,N,18,183,4

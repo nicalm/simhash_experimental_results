@@ -1,0 +1,4 @@
+2909-mongoose,9776-gaia
+main.c,orientation.js,\examples\STM32F4_CC3100\main.c,\dev_apps\uitest\js\API\orientation.js,15dc0f0244c4743afaf0aa2621563edc,7f674abe2d64a83f3c5f7fc6b2372c43,784173954716186839,5729127442933135575,7,N,124,55,15
+app.c,orientation.js,\examples\PIC32\mqtt_client\firmware\src\app.c,\dev_apps\uitest\js\API\orientation.js,dc194e59405b227b41c71648ad3b810e,7f674abe2d64a83f3c5f7fc6b2372c43,5675084247136270494,5729127442933135575,7,N,145,55,18
+drv_usart_mapping.c,orientation.js,\examples\PIC32\mqtt_client\firmware\src\system_config\mx795_CC3100_e16\framework\driver\usart\src\drv_usart_mapping.c,\dev_apps\uitest\js\API\orientation.js,6db6768bb9f8442b262aaa5571de2592,7f674abe2d64a83f3c5f7fc6b2372c43,5677283270660241875,5729127442933135575,7,N,331,55,18

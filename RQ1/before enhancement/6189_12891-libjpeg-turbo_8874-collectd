@@ -1,0 +1,6 @@
+12891-libjpeg-turbo,8874-collectd
+jmorecfg.h,collectd.h,\jmorecfg.h,\src\daemon\collectd.h,1469bb97fe30335d1c73bd97389298b2,2b583af2ee5d68797b260dc2234a9a80,-8023517342645037028,-8023445049755510628,4,N,162,198,25
+jmorecfg.h,stdendian.h,\jmorecfg.h,\src\libcollectdclient\collectd\stdendian.h,1469bb97fe30335d1c73bd97389298b2,098cf6af06fc9530aaf9936b14d4d802,-8023517342645037028,-8032521930559661924,5,N,162,165,27
+jmorecfg.h,mount.h,\jmorecfg.h,\src\utils\mount\mount.h,1469bb97fe30335d1c73bd97389298b2,8535c5ea598e2c2e046efd01984ce929,-8023517342645037028,-8023445049755510628,4,N,162,64,15
+jccolext-altivec.c,collectd.h,\simd\powerpc\jccolext-altivec.c,\src\daemon\collectd.h,f35971d8d3460ef5abe9dca10e095ed1,2b583af2ee5d68797b260dc2234a9a80,-3267362370959935348,-8023445049755510628,8,N,174,198,14
+jccolext-altivec.c,mount.h,\simd\powerpc\jccolext-altivec.c,\src\utils\mount\mount.h,f35971d8d3460ef5abe9dca10e095ed1,8535c5ea598e2c2e046efd01984ce929,-3267362370959935348,-8023445049755510628,8,N,174,64,12

@@ -1,0 +1,15 @@
+1460-iTerm2,790-libuv
+iTermMetalGlyphKey.h,handle-inl.h,\sources\iTermMetalGlyphKey.h,\src\win\handle-inl.h,ec93bd52c1bfb24f6f1a8d5c07191b02,34080acd31e6a3b5bf545c24c6e85c3f,5729057074222575775,5729127442933135571,7,N,92,110,13
+iTermMetalGlyphKey.h,req-inl.h,\sources\iTermMetalGlyphKey.h,\src\win\req-inl.h,ec93bd52c1bfb24f6f1a8d5c07191b02,8f8490b9a2a16c0821fd15a0612918a2,5729057074222575775,5729110126698821787,8,N,92,145,15
+ini.h,test-list.h,\ThirdParty\inih\ini.h,\test\test-list.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,34c37e38fd3367fbe3d6e9280bf86a06,-8023445049755510564,-7374645228437448676,5,N,57,951,16
+ini.h,test-uname.c,\ThirdParty\inih\ini.h,\test\test-uname.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,e4168fcb68ae66e9d30927d67519b6fb,-8023445049755510564,-7455991513878439779,8,N,57,37,8
+ini.h,getaddrinfo.c,\ThirdParty\inih\ini.h,\src\unix\getaddrinfo.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,e8e49cecf77e5d3f516ab013154bbd9c,-8023445049755510564,-8023444777025087336,4,N,57,188,17
+ini.h,internal.h,\ThirdParty\inih\ini.h,\src\unix\internal.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,371ffd2ac622ba8f4ae44ae51c531f3d,-8023445049755510564,-8023445069074474788,3,N,57,209,18
+ini.h,linux-syscalls.c,\ThirdParty\inih\ini.h,\src\unix\linux-syscalls.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,e03aa3ff0bab5e21466ddb93bc58c23e,-8023445049755510564,-8023444499991568996,6,N,57,292,17
+ini.h,winapi.h,\ThirdParty\inih\ini.h,\src\win\winapi.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,4f2f56dcce5d652768e5e4cfcf6661be,-8023445049755510564,-8023445049755510628,1,N,57,3569,15
+BetterFontPicker-Swift.h,test-list.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\test\test-list.h,9cdfc1f6cb7907e29a4e6b2cf0041946,34c37e38fd3367fbe3d6e9280bf86a06,-8023479959251789668,-7374645228437448676,7,N,335,951,48
+BetterFontPicker-Swift.h,unix.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\include\uv\unix.h,9cdfc1f6cb7907e29a4e6b2cf0041946,c02256e5f7072f506a6fff7eb786b911,-8023479959251789668,-7735320089281110756,7,N,335,394,50
+BetterFontPicker-Swift.h,getaddrinfo.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\unix\getaddrinfo.c,9cdfc1f6cb7907e29a4e6b2cf0041946,e8e49cecf77e5d3f516ab013154bbd9c,-8023479959251789668,-8023444777025087336,4,N,335,188,21
+BetterFontPicker-Swift.h,internal.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\unix\internal.h,9cdfc1f6cb7907e29a4e6b2cf0041946,371ffd2ac622ba8f4ae44ae51c531f3d,-8023479959251789668,-8023445069074474788,7,N,335,209,27
+BetterFontPicker-Swift.h,linux-syscalls.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\unix\linux-syscalls.c,9cdfc1f6cb7907e29a4e6b2cf0041946,e03aa3ff0bab5e21466ddb93bc58c23e,-8023479959251789668,-8023444499991568996,8,N,335,292,58
+BetterFontPicker-Swift.h,winapi.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\win\winapi.h,9cdfc1f6cb7907e29a4e6b2cf0041946,4f2f56dcce5d652768e5e4cfcf6661be,-8023479959251789668,-8023445049755510628,3,N,335,3569,46

@@ -1,0 +1,5 @@
+11788-fbthrift,62850-ADOdb
+utils.cpp,adodb-pdo_firebird.inc.php,\thrift\compiler\mustache\utils.cpp,\drivers\adodb-pdo_firebird.inc.php,f81369ebbd5b5b4e75b8cfa4a6ac85b3,9495b386496271e4936472af040fd5ea,5729127445028712533,5738134642182631639,8,N,63,333,22
+AsyncClientWorker2.cpp,adodb-pdo_firebird.inc.php,\thrift\perf\cpp\AsyncClientWorker2.cpp,\drivers\adodb-pdo_firebird.inc.php,3ebd76a0981e9c53ea752af30db30be5,9495b386496271e4936472af040fd5ea,5738134641844205783,5738134642182631639,7,N,387,333,70
+Operation.h,adodb-pdo_firebird.inc.php,\thrift\perf\cpp2\util\Operation.h,\drivers\adodb-pdo_firebird.inc.php,1cf81f674cd6bb613346f9badee172d4,9495b386496271e4936472af040fd5ea,-3493118691867313953,5738134642182631639,8,N,152,333,35
+TProtocolUtil.java,adodb-pdo_firebird.inc.php,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\drivers\adodb-pdo_firebird.inc.php,ca4aaa19ebede5914601c81d8f142ced,9495b386496271e4936472af040fd5ea,5729127434368628951,5738134642182631639,8,N,125,333,57

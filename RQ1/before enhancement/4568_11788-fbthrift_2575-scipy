@@ -1,0 +1,5 @@
+11788-fbthrift,2575-scipy
+thrift_config.h,msc_stdint.h,\thrift\lib\cpp\thrift_config.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,27c650bbff0590e9f2fafe163b055489,0a9faad66f590c9572581753d453013e,-8023445049755510628,-8018800163019237220,6,N,220,152,18
+SerializableDynamic.h,global_r.c,\thrift\lib\thrift\SerializableDynamic.h,\scipy\spatial\qhull_src\src\global_r.c,e864bd079ca5ebfb14de2021912c9661,641bed4871fe8d8a5f4a033a6bf195ca,7890838361256540375,5729109988184996087,8,N,370,1830,101
+Operation.h,global_r.c,\thrift\perf\cpp2\util\Operation.h,\scipy\spatial\qhull_src\src\global_r.c,1cf81f674cd6bb613346f9badee172d4,641bed4871fe8d8a5f4a033a6bf195ca,-3493118691867313953,5729109988184996087,8,N,152,1830,43
+TProtocolUtil.java,global_r.c,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\scipy\spatial\qhull_src\src\global_r.c,ca4aaa19ebede5914601c81d8f142ced,641bed4871fe8d8a5f4a033a6bf195ca,5729127434368628951,5729109988184996087,8,N,125,1830,46

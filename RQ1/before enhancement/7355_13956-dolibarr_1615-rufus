@@ -1,0 +1,17 @@
+13956-dolibarr,1615-rufus
+mode-jsoniq.js,rufus.c,\htdocs\includes\ace\mode-jsoniq.js,\src\rufus.c,37f1d23156f57463f77c9617d82b6c79,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,2456,2906,270
+mode-xquery.js,rufus.c,\htdocs\includes\ace\mode-xquery.js,\src\rufus.c,766b4d399e9a1542f921d9fbf7d11e34,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,2465,2906,271
+worker-xquery.js,rufus.c,\htdocs\includes\ace\worker-xquery.js,\src\rufus.c,e75b1566057234cf35013b5e440360f6,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,55380,2906,538
+timezone.php,rufus.c,\htdocs\includes\geoip\timezone.php,\src\rufus.c,e2e2aa858af909359ad7e2a518530710,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,2236,2906,124
+jpicker-1.1.6.js,rufus.c,\htdocs\includes\jquery\plugins\jpicker\jpicker-1.1.6.js,\src\rufus.c,e9a4c9e247223777907355c4f897fb2a,d19095261b720a37c948c7a870511e62,5729127447228102871,2198305334806247646,8,N,2051,2906,260
+Gnumeric.php,rufus.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Gnumeric.php,\src\rufus.c,c6e1ba54482dcbe391dc296bdd4ced2e,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,667,2906,188
+Xls.php,rufus.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Xls.php,\src\rufus.c,38181ae7a7702b3147c1db4505f2cca7,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,4711,2906,523
+Xml.php,rufus.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Xml.php,\src\rufus.c,9f1172571bbd0b98038930a7a6580210,d19095261b720a37c948c7a870511e62,5729127442933135583,2198305334806247646,6,N,601,2906,175
+Font.php,rufus.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Shared\Font.php,\src\rufus.c,505f8c94fb1ac90baa813bce8c8bde18,d19095261b720a37c948c7a870511e62,5729127992688949463,2198305334806247646,8,N,466,2906,111
+tcpdf_static.php,rufus.c,\htdocs\includes\tecnickcom\tcpdf\include\tcpdf_static.php,\src\rufus.c,fa13ec80fba64e6f90d0c76f588795d7,d19095261b720a37c948c7a870511e62,5729127580372089078,2198305334806247646,8,N,1763,2906,423
+Worksheet.php,rufus.c,\htdocs\includes\phpoffice\PhpSpreadsheet\Writer\Xls\Worksheet.php,\src\rufus.c,e79ec4c5b71b2dd77d534a5bf5116181,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,2752,2906,438
+Excel2003XML.php,rufus.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\Excel2003XML.php,\src\rufus.c,11e507f784247b28705fb1e39e9e2f57,d19095261b720a37c948c7a870511e62,5729127442933135583,2198305334806247646,6,N,550,2906,155
+Gnumeric.php,rufus.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\Gnumeric.php,\src\rufus.c,f2dc63a454a4194615d8215a3f130fac,d19095261b720a37c948c7a870511e62,5729127442933135575,2198305334806247646,7,N,664,2906,188
+SYLK.php,rufus.c,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\SYLK.php,\src\rufus.c,78e73625ab16621f946eb9c153022919,d19095261b720a37c948c7a870511e62,5152666690629712087,2198305334806247646,8,N,265,2906,84
+handlebars-1.0.0.js,rufus.c,\htdocs\includes\restler\framework\Luracast\Restler\explorer\lib\handlebars-1.0.0.js,\src\rufus.c,74916c394efe99b4c752280dde5428fa,d19095261b720a37c948c7a870511e62,5729131840979646718,2198305334806247646,7,N,1719,2906,300
+TestUtil.php,rufus.c,\htdocs\includes\sabre\sabre\dav\tests\Sabre\CalDAV\TestUtil.php,\src\rufus.c,50f13aeac2f6573ecb127d4a6acdd9a2,d19095261b720a37c948c7a870511e62,5729127442928941271,2198305334806247646,8,N,167,2906,34

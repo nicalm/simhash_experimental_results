@@ -1,0 +1,14 @@
+10248-vesta,12873-mediawiki
+index.php,FormatJson.php,\web\bulk\user\index.php,\includes\json\FormatJson.php,e63f54fde5aa69c0078f57a124201499,2791e3b22656d78e316abf94db96bae5,5729127442931036375,5728881212390947031,8,N,53,140,17
+index.php,LogFormatter.php,\web\bulk\user\index.php,\includes\logging\LogFormatter.php,e63f54fde5aa69c0078f57a124201499,1a5b87b8ddd192cf448a8d7e785d9d75,5729127442931036375,5729127442933127383,3,N,53,551,19
+index.php,FormatMetadata.php,\web\bulk\user\index.php,\includes\media\FormatMetadata.php,e63f54fde5aa69c0078f57a124201499,d4c424b998a37738addfaa8660b2d286,5729127442931036375,5729109850747091159,3,N,53,1326,19
+index.php,IPTC.php,\web\bulk\user\index.php,\includes\media\IPTC.php,e63f54fde5aa69c0078f57a124201499,5acd3160fef09ca8547c657db582b971,5729127442931036375,5729127442933135575,2,N,53,377,19
+index.php,ExtensionDependencyError.php,\web\bulk\user\index.php,\includes\registration\ExtensionDependencyError.php,e63f54fde5aa69c0078f57a124201499,f7bb90c1ca9716b4c4e940b5871755aa,5729127442931036375,5729126334831573079,5,N,53,44,13
+index.php,LanguageGa.php,\web\bulk\user\index.php,\languages\classes\LanguageGa.php,e63f54fde5aa69c0078f57a124201499,04d0499b9cc1cedee645951038d7a892,5729127442931036375,5152671088609114359,6,N,53,36,13
+index.php,LanguageOs.php,\web\bulk\user\index.php,\languages\classes\LanguageOs.php,e63f54fde5aa69c0078f57a124201499,1d4803307d9f6c2785f6821207e47529,5729127442931036375,5729672800631306455,4,N,53,55,16
+index.php,bench_if_switch.php,\web\bulk\user\index.php,\maintenance\benchmarks\bench_if_switch.php,e63f54fde5aa69c0078f57a124201499,ebc9d6c5664eaffdc591b48a194dced3,5729127442931036375,5729127442933135575,2,N,53,73,19
+index.php,DiscordianDateTimeFormatter.js,\web\bulk\user\index.php,\resources\src\mediawiki.widgets.datetime\DiscordianDateTimeFormatter.js,e63f54fde5aa69c0078f57a124201499,e5fb70604ffca02318e9ccef1c63882a,5729127442931036375,5729107653737097943,8,N,53,445,18
+index.php,fi.js,\web\bulk\user\index.php,\resources\src\mediawiki.language\languages\fi.js,e63f54fde5aa69c0078f57a124201499,3c85a98c46d022c8ff97288c16dfe428,5729127442931036375,5660448098369583319,6,N,53,36,10
+index.php,ga.js,\web\bulk\user\index.php,\resources\src\mediawiki.language\languages\ga.js,e63f54fde5aa69c0078f57a124201499,a78a0511c47b30e7032d8e10647da8b7,5729127442931036375,5152389613697534167,7,N,53,33,10
+index.php,os.js,\web\bulk\user\index.php,\resources\src\mediawiki.language\languages\os.js,e63f54fde5aa69c0078f57a124201499,dc5fe4fb59cfbd5cc2b4418cf6924aa3,5729127442931036375,6882031355083405463,5,N,53,50,13
+index.php,ga.js,\web\bulk\user\index.php,\resources\lib\jquery.i18n\src\languages\ga.js,e63f54fde5aa69c0078f57a124201499,7427a3d627903337481ce4a93b84ae3c,5729127442931036375,5753615765906950359,8,N,53,33,10

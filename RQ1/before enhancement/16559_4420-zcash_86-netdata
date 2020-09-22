@@ -1,0 +1,10 @@
+4420-zcash,86-netdata
+compat.h,libnetdata.h,\src\compat.h,\libnetdata\libnetdata.h,edca1c84c422d3accf71cf028f56730c,b36073eea8dc836d3f37e426aebdabda,-8023445189341947748,-8023445049755510628,2,N,86,248,30
+compat.h,clocks.h,\src\compat.h,\libnetdata\clocks\clocks.h,edca1c84c422d3accf71cf028f56730c,817f185c065ee719f0a0f5d506401b1f,-8023445189341947748,-7879330084279756644,7,N,86,66,11
+byteswap.h,libnetdata.h,\src\compat\byteswap.h,\libnetdata\libnetdata.h,c8049a65823175e0cb720f771bece0d5,b36073eea8dc836d3f37e426aebdabda,-8032452249010186084,-8023445049755510628,2,N,36,248,7
+endian.h,libnetdata.h,\src\compat\endian.h,\libnetdata\libnetdata.h,b0a1e77bc71959182a3b0854e64e46ad,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,160,248,30
+endian.h,clocks.h,\src\compat\endian.h,\libnetdata\clocks\clocks.h,b0a1e77bc71959182a3b0854e64e46ad,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,160,66,10
+zcashconsensus.h,libnetdata.h,\src\script\zcashconsensus.h,\libnetdata\libnetdata.h,9ba7ca783c191e34d1020f0ee0c759f5,b36073eea8dc836d3f37e426aebdabda,-9171898141824989028,-8023445049755510628,7,N,48,248,10
+port_posix.h,libnetdata.h,\src\leveldb\port\port_posix.h,\libnetdata\libnetdata.h,d5a83a65b2dd5184b4c812843c400a16,b36073eea8dc836d3f37e426aebdabda,-8032804092731401572,-8023445049755510628,6,N,121,248,20
+thread_annotations.h,libnetdata.h,\src\leveldb\port\thread_annotations.h,\libnetdata\libnetdata.h,af9eee1ca47192126580ea56af3a4865,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,39,248,13
+thread_annotations.h,clocks.h,\src\leveldb\port\thread_annotations.h,\libnetdata\clocks\clocks.h,af9eee1ca47192126580ea56af3a4865,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,39,66,9

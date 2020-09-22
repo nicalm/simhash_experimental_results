@@ -1,0 +1,3 @@
+168-AdminLTE,551-FFmpeg
+inputmask.js,pcm.c,\plugins\inputmask\inputmask.js,\libavcodec\pcm.c,57d26571eeeb528dfa6b0195cfa1b5d0,37664aa1805e5b8a6fd6444e25ca5398,5728986778392393927,5728845967956424919,8,N,2703,537,90
+inputmask.js,spdifdec.c,\plugins\inputmask\inputmask.js,\libavformat\spdifdec.c,57d26571eeeb528dfa6b0195cfa1b5d0,35c15acd938467c21c7098b039a23d56,5728986778392393927,5733349567248660935,8,N,2703,177,31

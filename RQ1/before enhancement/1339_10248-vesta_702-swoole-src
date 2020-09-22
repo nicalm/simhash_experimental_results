@@ -1,0 +1,5 @@
+10248-vesta,702-swoole-src
+index.php,multipart_parser.c,\web\bulk\user\index.php,\thirdparty\multipart_parser.c,e63f54fde5aa69c0078f57a124201499,7f2f6adb3104232d3e7d7ffdbf0d2f1a,5729127442931036375,5621032255581894871,8,N,53,243,17
+index.php,swoole_http_parser.c,\web\bulk\user\index.php,\thirdparty\swoole_http_parser.c,e63f54fde5aa69c0078f57a124201499,d155f3ba8a7cdb53f79f34af305581eb,5729127442931036375,5729127442933135575,2,N,53,1234,18
+index.php,log.c,\web\bulk\user\index.php,\src\core\log.c,e63f54fde5aa69c0078f57a124201499,fcd6d98ec4555c3e125d89e154fba5fa,5729127442931036375,5693098645905783253,6,N,53,114,17
+index.php,get.php,\web\bulk\user\index.php,\tests\include\lib\src\responder\get.php,e63f54fde5aa69c0078f57a124201499,0e93a44800862fa891e9d4a8bd016ee0,5729127442931036375,8034970456441796823,4,N,53,71,14

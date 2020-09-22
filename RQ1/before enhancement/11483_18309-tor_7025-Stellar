@@ -1,0 +1,7 @@
+18309-tor,7025-Stellar
+compat_compiler.h,Stellar-Swift.h,\src\lib\cc\compat_compiler.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4fda4875c0f6db2fda2057a47aa6fc8f,fafe37ab4771e0a9586e17224fcc7041,-8023445050293299044,-7743940123003924324,8,N,128,231,29
+torint.h,Stellar-Swift.h,\src\lib\cc\torint.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,f9bd1774a6cabce5324bfd6779020def,fafe37ab4771e0a9586e17224fcc7041,-8023198759150888804,-7743940123003924324,5,N,101,231,33
+fdio.c,Stellar-Swift.h,\src\lib\fdio\fdio.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,f7cc52832a8d31f8234387c9640d45fa,fafe37ab4771e0a9586e17224fcc7041,-7735214673874331620,-7743940123003924324,7,N,80,231,15
+inaddr_st.h,Stellar-Swift.h,\src\lib\net\inaddr_st.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,62efbf41d2e5c9c5c910850b9ac27f2c,fafe37ab4771e0a9586e17224fcc7041,-8023445049755509604,-7743940123003924324,6,N,69,231,18
+compat_string.h,Stellar-Swift.h,\src\lib\string\compat_string.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ee5d4f16d6a1a17e897c0a516337b508,fafe37ab4771e0a9586e17224fcc7041,-8023198751131381604,-7743940123003924324,7,N,36,231,10
+ed25519-donna-portable-identify.h,Stellar-Swift.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,36a4efc8ce95d16532d64be30ece0f36,fafe37ab4771e0a9586e17224fcc7041,-8023445066935379812,-7743940123003924324,6,N,87,231,23

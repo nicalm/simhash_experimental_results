@@ -1,0 +1,7 @@
+15439-ettercap,18692-spdk
+ec_os_mingw.h,queue.h,\include\ec_os_mingw.h,\include\spdk\queue.h,a35507e5684e934f2f3961ea9d733813,ec100905d717ef23a63f758030236499,-8023445049755510628,-9212465172521363396,8,N,184,30,6
+ec_os_mingw.h,assert.h,\include\ec_os_mingw.h,\include\spdk_internal\assert.h,a35507e5684e934f2f3961ea9d733813,340c3c292f11b3661cb114f5fb4a2722,-8023445049755510628,-7384004271941560100,7,N,184,16,5
+ec_stdint.h,queue.h,\include\ec_stdint.h,\include\spdk\queue.h,6aec3e3181000888a59234edbdd91364,ec100905d717ef23a63f758030236499,-8023445049755510628,-9212465172521363396,8,N,70,30,5
+ec_stdint.h,assert.h,\include\ec_stdint.h,\include\spdk_internal\assert.h,6aec3e3181000888a59234edbdd91364,340c3c292f11b3661cb114f5fb4a2722,-8023445049755510628,-7384004271941560100,7,N,70,16,5
+ef_test.c,scsi_bdev.c,\utils\etterfilter\ef_test.c,\lib\scsi\scsi_bdev.c,fa7fc65cd5f440dd843abbe86d1716e4,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,5729127442933135575,6752569358741453045,8,N,181,1475,51
+el_parser.c,scsi_bdev.c,\utils\etterlog\el_parser.c,\lib\scsi\scsi_bdev.c,e965aa39918fe671682ccf0efa3de321,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,5729127442933135575,6752569358741453045,8,N,230,1475,44

@@ -1,0 +1,7 @@
+10081-irssi,6883-Sigil
+otr-ops.c,pcre_dfa_exec.c,\src\otr\otr-ops.c,\3rdparty\pcre\pcre_dfa_exec.c,78f1f6c5943450ae1c92e51ced46839e,038ae7ba3ce3df1eb98c7ef1c1515fee,1117440324994119895,5734765807279847671,7,N,248,2709,70
+otr-ops.c,pcre_fullinfo.c,\src\otr\otr-ops.c,\3rdparty\pcre\pcre_fullinfo.c,78f1f6c5943450ae1c92e51ced46839e,8923cc431580197b3e121f54e41dba57,1117440324994119895,5729127442933135575,2,N,248,135,30
+otr-ops.c,printf-args.c,\src\otr\otr-ops.c,\3rdparty\hunspell\intl\printf-args.c,78f1f6c5943450ae1c92e51ced46839e,32e9cc807cac7369c6c119a76b828fae,1117440324994119895,6882048947539982551,3,N,248,141,40
+formats.c,pcre_dfa_exec.c,\src\fe-common\core\formats.c,\3rdparty\pcre\pcre_dfa_exec.c,81ad733fd560a7711254766564a4d1b4,038ae7ba3ce3df1eb98c7ef1c1515fee,5729127511652612311,5734765807279847671,4,N,1160,2709,265
+formats.c,pcre_fullinfo.c,\src\fe-common\core\formats.c,\3rdparty\pcre\pcre_fullinfo.c,81ad733fd560a7711254766564a4d1b4,8923cc431580197b3e121f54e41dba57,5729127511652612311,5729127442933135575,1,N,1160,135,34
+formats.c,printf-args.c,\src\fe-common\core\formats.c,\3rdparty\hunspell\intl\printf-args.c,81ad733fd560a7711254766564a4d1b4,32e9cc807cac7369c6c119a76b828fae,5729127511652612311,6882048947539982551,2,N,1160,141,47

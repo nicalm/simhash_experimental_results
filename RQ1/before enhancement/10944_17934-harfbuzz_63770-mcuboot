@@ -1,0 +1,17 @@
+17934-harfbuzz,63770-mcuboot
+hb-fc-list.c,cycfg_system.c,\util\hb-fc-list.c,\boot\cypress\platforms\cycfg_system.c,c27d8fd53993dc1d7a624ea1ec1d10a6,bff349da7cac11bb28ca6bbaf8ddf706,1199786163039426780,-8023445049755510628,8,N,178,457,38
+hb-fc-list.c,platform_util.c,\util\hb-fc-list.c,\ext\mbedtls-asn1\src\platform_util.c,c27d8fd53993dc1d7a624ea1ec1d10a6,1a96fe113f6869ebb4da6ffc51af89b9,1199786163039426780,-7446984314768271204,8,N,178,59,20
+hb-fc-list.c,mcuboot_config.h,\util\hb-fc-list.c,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,c27d8fd53993dc1d7a624ea1ec1d10a6,f0392b66843115fde20da54437ca8d50,1199786163039426780,-8023445049755510628,8,N,178,88,12
+hb-fc-list.c,check_config.h,\util\hb-fc-list.c,\ext\mbedtls-asn1\include\mbedtls\check_config.h,c27d8fd53993dc1d7a624ea1ec1d10a6,c07b8c175b56fe517779021d20b47123,1199786163039426780,-8023445049755510628,8,N,178,525,10
+hb-fc-list.c,mcuboot_config.h,\util\hb-fc-list.c,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,c27d8fd53993dc1d7a624ea1ec1d10a6,ffa22f89edc78dfefd358c72c702e248,1199786163039426780,-8023445050292381540,7,N,178,81,12
+test-c.c,main.c,\test\api\test-c.c,\boot\zephyr\main.c,40a532b71e6242f205df120cc480a67e,1ebdf919b7fef8caa6fca7fc2b3bf067,-8023445049757468516,-8960193774395958884,8,N,26,250,8
+test-c.c,caps.c,\test\api\test-c.c,\boot\bootutil\src\caps.c,40a532b71e6242f205df120cc480a67e,b8912a794ee2ea692ac2e6b647d02bde,-8023445049757468516,-8032452249010251620,4,N,26,57,8
+test-c.c,cycfg_system.c,\test\api\test-c.c,\boot\cypress\platforms\cycfg_system.c,40a532b71e6242f205df120cc480a67e,bff349da7cac11bb28ca6bbaf8ddf706,-8023445049757468516,-8023445049755510628,3,N,26,457,8
+test-c.c,main.c,\test\api\test-c.c,\boot\mynewt\src\main.c,40a532b71e6242f205df120cc480a67e,5913dad0ba4e9899e581db97a83f7441,-8023445049757468516,-8023515555938543464,6,N,26,164,10
+test-c.c,platform_util.c,\test\api\test-c.c,\ext\mbedtls-asn1\src\platform_util.c,40a532b71e6242f205df120cc480a67e,1a96fe113f6869ebb4da6ffc51af89b9,-8023445049757468516,-7446984314768271204,5,N,26,59,8
+test-c.c,sysflash.h,\test\api\test-c.c,\boot\cypress\MCUBootApp\sysflash\sysflash.h,40a532b71e6242f205df120cc480a67e,031f4d9374fdf511d149ea2fe5aea078,-8023445049757468516,-8023515419036493668,6,N,26,56,6
+test-c.c,mcuboot_config.h,\test\api\test-c.c,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,40a532b71e6242f205df120cc480a67e,f0392b66843115fde20da54437ca8d50,-8023445049757468516,-8023445049755510628,3,N,26,88,6
+test-c.c,check_config.h,\test\api\test-c.c,\ext\mbedtls-asn1\include\mbedtls\check_config.h,40a532b71e6242f205df120cc480a67e,c07b8c175b56fe517779021d20b47123,-8023445049757468516,-8023445049755510628,3,N,26,525,6
+test-c.c,pk.h,\test\api\test-c.c,\ext\mbedtls-asn1\include\mbedtls\pk.h,40a532b71e6242f205df120cc480a67e,f5806369c5dff9e3ba7f61c76a8cf1c2,-8023445049757468516,-8023172095993915236,6,N,26,192,8
+test-c.c,platform.h,\test\api\test-c.c,\ext\mbedtls-asn1\include\mbedtls\platform.h,40a532b71e6242f205df120cc480a67e,34692dfb5da8e14debc74cc2e5c30a29,-8023445049757468516,-8023445049747122020,4,N,26,176,8
+test-c.c,mcuboot_config.h,\test\api\test-c.c,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,40a532b71e6242f205df120cc480a67e,ffa22f89edc78dfefd358c72c702e248,-8023445049757468516,-8023445050292381540,4,N,26,81,6

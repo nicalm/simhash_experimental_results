@@ -1,0 +1,9 @@
+2475-fmt,4000-mruby
+chrono_duration.cpp,proto_to_ruby.cpp,\test\fuzzing\chrono_duration.cpp,\oss-fuzz\proto_to_ruby.cpp,72440fd90a0d01848031589bb2a841a9,343a45cf3c8497b45182f0170dd23cc0,5729127447228102871,5729127442933135575,1,N,129,431,35
+chrono_duration.cpp,codedump.c,\test\fuzzing\chrono_duration.cpp,\src\codedump.c,72440fd90a0d01848031589bb2a841a9,838fd904bb528b1b9ebdfc72d4fd5069,5729127447228102871,5729127442933135575,1,N,129,525,38
+one_arg.cpp,proto_to_ruby.cpp,\test\fuzzing\one_arg.cpp,\oss-fuzz\proto_to_ruby.cpp,883cdbba8da3fa541c4927e1ea02ff22,343a45cf3c8497b45182f0170dd23cc0,2270360721499404501,5729127442933135575,5,N,117,431,24
+one_arg.cpp,codedump.c,\test\fuzzing\one_arg.cpp,\src\codedump.c,883cdbba8da3fa541c4927e1ea02ff22,838fd904bb528b1b9ebdfc72d4fd5069,2270360721499404501,5729127442933135575,5,N,117,525,29
+sprintf.cpp,proto_to_ruby.cpp,\test\fuzzing\sprintf.cpp,\oss-fuzz\proto_to_ruby.cpp,c2ddd179a4100129a6f72f09df658863,343a45cf3c8497b45182f0170dd23cc0,1117439216892295391,5729127442933135575,6,N,101,431,21
+sprintf.cpp,codedump.c,\test\fuzzing\sprintf.cpp,\src\codedump.c,c2ddd179a4100129a6f72f09df658863,838fd904bb528b1b9ebdfc72d4fd5069,1117439216892295391,5729127442933135575,6,N,101,525,23
+two_args.cpp,proto_to_ruby.cpp,\test\fuzzing\two_args.cpp,\oss-fuzz\proto_to_ruby.cpp,c159700c6123fdba738f71e168dab048,343a45cf3c8497b45182f0170dd23cc0,1117439216892295391,5729127442933135575,6,N,97,431,20
+two_args.cpp,codedump.c,\test\fuzzing\two_args.cpp,\src\codedump.c,c159700c6123fdba738f71e168dab048,838fd904bb528b1b9ebdfc72d4fd5069,1117439216892295391,5729127442933135575,6,N,97,525,22

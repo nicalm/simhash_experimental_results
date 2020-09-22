@@ -1,0 +1,5 @@
+2283-capnproto,4960-capstone
+miniposix.h,cs.c,\c++\src\kj\miniposix.h,\cs.c,43597d9a9103c02dbbe46d2c58ecc748,28b740cedafbc72ff6d105bcf67b66ec,-7455991496707810916,-8024007991656916772,8,N,84,1274,26
+miniposix.h,test_basic.c,\c++\src\kj\miniposix.h,\tests\test_basic.c,43597d9a9103c02dbbe46d2c58ecc748,a31ca8d3bb8a75874920d317a6ad1579,-7455991496707810916,-8018942549639704420,7,N,84,357,21
+miniposix.h,test_detail.c,\c++\src\kj\miniposix.h,\tests\test_detail.c,43597d9a9103c02dbbe46d2c58ecc748,3d78601cdc003b4b4483b95018434b0a,-7455991496707810916,-7442486195382783844,8,N,84,333,22
+miniposix.h,test_iter.c,\c++\src\kj\miniposix.h,\tests\test_iter.c,43597d9a9103c02dbbe46d2c58ecc748,25690cf4ebb5bd2f561bd05964d131ee,-7455991496707810916,-8023446149267066732,8,N,84,274,21

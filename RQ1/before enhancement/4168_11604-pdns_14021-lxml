@@ -1,0 +1,4 @@
+11604-pdns,14021-lxml
+threadname.cc,etree_defs.h,\pdns\threadname.cc,\src\lxml\includes\etree_defs.h,5b915147d70647a42e05b4e28ce34c57,77e60df86f933a8497d9a006ac09a2c9,-8023445049889728356,-8023482433217963876,4,N,39,319,13
+version.cc,etree_defs.h,\pdns\version.cc,\src\lxml\includes\etree_defs.h,2d47bb8e09166cdc8de706154500a37c,77e60df86f933a8497d9a006ac09a2c9,-8023445049755379556,-8023482433217963876,4,N,141,319,35
+murmur3.h,etree_defs.h,\ext\probds\murmur3.h,\src\lxml\includes\etree_defs.h,02ac5aff2e57a41f9dc94781ccd8d595,77e60df86f933a8497d9a006ac09a2c9,-9176375350707038052,-8023482433217963876,7,N,46,319,11

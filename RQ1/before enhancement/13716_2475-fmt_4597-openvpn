@@ -1,0 +1,3 @@
+2475-fmt,4597-openvpn
+chrono_duration.cpp,occ.c,\test\fuzzing\chrono_duration.cpp,\src\openvpn\occ.c,72440fd90a0d01848031589bb2a841a9,708c182a111ae62474140b8b10a13f29,5729127447228102871,5729107651585416407,7,N,129,332,36
+chrono_duration.cpp,log.c,\test\fuzzing\chrono_duration.cpp,\sample\sample-plugins\log\log.c,72440fd90a0d01848031589bb2a841a9,c9cfd293d5cfab61fc694f047589083f,5729127447228102871,5729127446955735799,5,N,129,130,20

@@ -1,0 +1,5 @@
+13956-dolibarr,1529-harbor
+class.soap_server.php,suite.go,\htdocs\includes\nusoap\lib\class.soap_server.php,\src\testing\apitests\api-testing\tests\suites\suite01\suite.go,74ab1fe2489dd8dbb1788501ee32d4c5,faa214c9100a75cf1f698acf3d888535,2305191817129870014,2302913629037118062,7,N,707,79,26
+class.wsdl.php,suite.go,\htdocs\includes\nusoap\lib\class.wsdl.php,\src\testing\apitests\api-testing\tests\suites\suite01\suite.go,cb6eae491870806aedc3cbe67d59d6d6,faa214c9100a75cf1f698acf3d888535,1152278969037996718,2302913629037118062,8,N,1508,79,26
+nusoap.php,suite.go,\htdocs\includes\nusoap\lib\nusoap.php,\src\testing\apitests\api-testing\tests\suites\suite01\suite.go,a5b56b42e353f4503ff948a3ca1278cc,faa214c9100a75cf1f698acf3d888535,2305183021036847806,2302913629037118062,6,N,5368,79,26
+nusoap.php,suite.go,\htdocs\includes\nusoap\lib\nusoap.php,\src\testing\apitests\api-testing\tests\suites\suite02\suite.go,a5b56b42e353f4503ff948a3ca1278cc,4fa5d8802f88a8ee76000f524417c75d,2305183021036847806,2302984272659202670,8,N,5368,68,22

@@ -1,0 +1,6 @@
+10395-jitsi,5868-libvips
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,composite.cpp,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,\libvips\conversion\composite.cpp,b777786e5dc2dbfda20f2e6ab1b6e3d1,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,851,1177,161
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,composite.cpp,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,\libvips\conversion\composite.cpp,463ade7b00f34e712a6606ace511d963,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,949,1177,178
+lzma.h,buffer.c,\src\native\windows\setup\include\lzma.h,\libvips\iofuncs\buffer.c,4ce48c8f939c04739c2c0b8409ca662f,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,121,447,23
+lzma.h,init.c,\src\native\windows\setup\include\lzma.h,\libvips\iofuncs\init.c,4ce48c8f939c04739c2c0b8409ca662f,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,121,636,35
+lzma.h,vector.c,\src\native\windows\setup\include\lzma.h,\libvips\iofuncs\vector.c,4ce48c8f939c04739c2c0b8409ca662f,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,121,400,36

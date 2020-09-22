@@ -1,0 +1,3 @@
+12891-libjpeg-turbo,5372-twisted
+jmorecfg.h,raiser.c,\jmorecfg.h,\src\twisted\test\raiser.c,1469bb97fe30335d1c73bd97389298b2,03329048f02326320ae3e07a7faee64c,-8023517342645037028,-8023445050292381540,5,N,162,3117,34
+jccolext-altivec.c,raiser.c,\simd\powerpc\jccolext-altivec.c,\src\twisted\test\raiser.c,f35971d8d3460ef5abe9dca10e095ed1,03329048f02326320ae3e07a7faee64c,-3267362370959935348,-8023445050292381540,7,N,174,3117,25

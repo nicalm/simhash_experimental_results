@@ -1,0 +1,12 @@
+1460-iTerm2,15439-ettercap
+iTermMetalGlyphKey.h,ec_filter.c,\sources\iTermMetalGlyphKey.h,\src\ec_filter.c,ec93bd52c1bfb24f6f1a8d5c07191b02,93d0ed8de4c0c08c76b8fb5f7787aef5,5729057074222575775,5729127442664700119,7,N,92,799,17
+iTermMetalGlyphKey.h,ef_test.c,\sources\iTermMetalGlyphKey.h,\utils\etterfilter\ef_test.c,ec93bd52c1bfb24f6f1a8d5c07191b02,fa7fc65cd5f440dd843abbe86d1716e4,5729057074222575775,5729127442933135575,6,N,92,181,17
+iTermMetalGlyphKey.h,el_parser.c,\sources\iTermMetalGlyphKey.h,\utils\etterlog\el_parser.c,ec93bd52c1bfb24f6f1a8d5c07191b02,e965aa39918fe671682ccf0efa3de321,5729057074222575775,5729127442933135575,6,N,92,230,15
+ini.h,ec.h,\ThirdParty\inih\ini.h,\include\ec.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,dae7f0b56b398c721ccdc8ddfd52a66f,-8023445049755510564,-9176375350522685416,8,N,57,132,17
+ini.h,ec_os_mingw.h,\ThirdParty\inih\ini.h,\include\ec_os_mingw.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,a35507e5684e934f2f3961ea9d733813,-8023445049755510564,-8023445049755510628,1,N,57,184,16
+ini.h,ec_stdint.h,\ThirdParty\inih\ini.h,\include\ec_stdint.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,6aec3e3181000888a59234edbdd91364,-8023445049755510564,-8023445049755510628,1,N,57,70,16
+ini.h,ec_strings.h,\ThirdParty\inih\ini.h,\include\ec_strings.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,de354113240928e149f745107db6f7bb,-8023445049755510564,-7879329861738243684,6,N,57,54,12
+ini.h,ec_signals.c,\ThirdParty\inih\ini.h,\src\ec_signals.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,0eaf3035a675ff4e3e837f495b81415f,-8023445049755510564,1776388288554523804,7,N,57,166,17
+BetterFontPicker-Swift.h,ec_os_mingw.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\include\ec_os_mingw.h,9cdfc1f6cb7907e29a4e6b2cf0041946,a35507e5684e934f2f3961ea9d733813,-8023479959251789668,-8023445049755510628,3,N,335,184,29
+BetterFontPicker-Swift.h,ec_stdint.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\include\ec_stdint.h,9cdfc1f6cb7907e29a4e6b2cf0041946,6aec3e3181000888a59234edbdd91364,-8023479959251789668,-8023445049755510628,3,N,335,70,19
+BetterFontPicker-Swift.h,ec_strings.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\include\ec_strings.h,9cdfc1f6cb7907e29a4e6b2cf0041946,de354113240928e149f745107db6f7bb,-8023479959251789668,-7879329861738243684,8,N,335,54,16

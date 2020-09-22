@@ -1,0 +1,13 @@
+15760-bfgminer,86-netdata
+compat.h,libnetdata.h,\compat.h,\libnetdata\libnetdata.h,6f280ac9c52face753ea81ae98cfe95d,b36073eea8dc836d3f37e426aebdabda,-8014437852681811908,-8023445049755510628,7,N,164,248,23
+driver-cpu.c,libnetdata.h,\driver-cpu.c,\libnetdata\libnetdata.h,be0f700b73a52208dd53210582876f9e,b36073eea8dc836d3f37e426aebdabda,-7807272267641726562,-8023445049755510628,4,N,682,248,51
+driver-cpu.h,libnetdata.h,\driver-cpu.h,\libnetdata\libnetdata.h,092bcdcc676bceef9c2bba9e9b4bfe90,b36073eea8dc836d3f37e426aebdabda,-7446984297678579684,-8023445049755510628,6,N,62,248,13
+miner.h,libnetdata.h,\miner.h,\libnetdata\libnetdata.h,2a2a55093078b0e951ca70e852eb3abc,b36073eea8dc836d3f37e426aebdabda,-8021228434313848776,-8023445049755510628,6,N,1425,248,48
+cl_platform.h,libnetdata.h,\CL\cl_platform.h,\libnetdata\libnetdata.h,fc86a2210e718fbcf95aabcf0efa129a,b36073eea8dc836d3f37e426aebdabda,-8023445049755510564,-8023445049755510628,1,N,935,248,47
+cl_platform.h,clocks.h,\CL\cl_platform.h,\libnetdata\clocks\clocks.h,fc86a2210e718fbcf95aabcf0efa129a,817f185c065ee719f0a0f5d506401b1f,-8023445049755510564,-7879330084279756644,8,N,935,66,11
+signal.in.h,libnetdata.h,\lib\signal.in.h,\libnetdata\libnetdata.h,ab5029c765029582a72eaf9ee25fe736,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,258,248,43
+signal.in.h,clocks.h,\lib\signal.in.h,\libnetdata\clocks\clocks.h,ab5029c765029582a72eaf9ee25fe736,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,258,66,12
+stddef.in.h,libnetdata.h,\lib\stddef.in.h,\libnetdata\libnetdata.h,51fb0aab8a1f88b1353623a5d3ebf080,b36073eea8dc836d3f37e426aebdabda,-7446702960451199844,-8023445049755510628,5,N,37,248,13
+stdint.in.h,libnetdata.h,\lib\stdint.in.h,\libnetdata\libnetdata.h,cae8be4f2dc822552d990c5e166b9add,b36073eea8dc836d3f37e426aebdabda,-8023455787174799140,-8023445049755510628,6,N,383,248,51
+string.in.h,libnetdata.h,\lib\string.in.h,\libnetdata\libnetdata.h,79edfbf7ab10d649596b9a9e586671ee,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,697,248,47
+string.in.h,clocks.h,\lib\string.in.h,\libnetdata\clocks\clocks.h,79edfbf7ab10d649596b9a9e586671ee,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,697,66,11

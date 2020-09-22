@@ -1,0 +1,11 @@
+13956-dolibarr,4420-zcash
+functions_openid.php,policy.cpp,\htdocs\core\login\functions_openid.php,\src\policy\policy.cpp,3f0557c9c413d2debd2228beb84b9e0e,b49cba2f0f54de3a01a53927cb03014b,278724678296409006,1431083237210080174,8,N,65,121,26
+mode-jsoniq.js,status.cc,\htdocs\includes\ace\mode-jsoniq.js,\src\leveldb\util\status.cc,37f1d23156f57463f77c9617d82b6c79,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,2456,66,16
+mode-xquery.js,status.cc,\htdocs\includes\ace\mode-xquery.js,\src\leveldb\util\status.cc,766b4d399e9a1542f921d9fbf7d11e34,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,2465,66,16
+worker-xquery.js,status.cc,\htdocs\includes\ace\worker-xquery.js,\src\leveldb\util\status.cc,e75b1566057234cf35013b5e440360f6,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,55380,66,18
+timezone.php,status.cc,\htdocs\includes\geoip\timezone.php,\src\leveldb\util\status.cc,e2e2aa858af909359ad7e2a518530710,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,2236,66,14
+Gnumeric.php,status.cc,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Gnumeric.php,\src\leveldb\util\status.cc,c6e1ba54482dcbe391dc296bdd4ced2e,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,667,66,16
+Xls.php,status.cc,\htdocs\includes\phpoffice\PhpSpreadsheet\Reader\Xls.php,\src\leveldb\util\status.cc,38181ae7a7702b3147c1db4505f2cca7,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,4711,66,16
+Worksheet.php,status.cc,\htdocs\includes\phpoffice\PhpSpreadsheet\Writer\Xls\Worksheet.php,\src\leveldb\util\status.cc,e79ec4c5b71b2dd77d534a5bf5116181,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,2752,66,16
+Gnumeric.php,status.cc,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\Gnumeric.php,\src\leveldb\util\status.cc,f2dc63a454a4194615d8215a3f130fac,2b713c39c19d3813022c826c61e796d9,5729127442933135575,7927447011076978885,8,N,664,66,16
+File.php,univalue_escapes.h,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Shared\OLE\PPS\File.php,\src\univalue\lib\univalue_escapes.h,65041a8f69fed8112dc978e0e74c9884,64fb239740dea1d1eb69383d70c69b2c,-8976278116319818929,-8976280315343074481,1,N,30,261,0

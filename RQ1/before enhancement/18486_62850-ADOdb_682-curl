@@ -1,0 +1,9 @@
+62850-ADOdb,682-curl
+adodb-pdo_firebird.inc.php,getinfo.c,\drivers\adodb-pdo_firebird.inc.php,\lib\getinfo.c,9495b386496271e4936472af040fd5ea,e4b1b98ba03c964ba505b6b062b00050,5738134642182631639,5729127442933135575,4,N,333,405,56
+adodb-pdo_firebird.inc.php,setopt.c,\drivers\adodb-pdo_firebird.inc.php,\lib\setopt.c,9495b386496271e4936472af040fd5ea,bf2b060076537e339e4760d60bc6e95d,5738134642182631639,5729127442933135575,4,N,333,1759,93
+adodb-pdo_firebird.inc.php,strerror.c,\drivers\adodb-pdo_firebird.inc.php,\lib\strerror.c,9495b386496271e4936472af040fd5ea,f4541cfa3fbbf8e4dfe35ebb2042df2c,5738134642182631639,5666077048183503063,5,N,333,743,67
+adodb-pdo_firebird.inc.php,telnet.c,\drivers\adodb-pdo_firebird.inc.php,\lib\telnet.c,9495b386496271e4936472af040fd5ea,61f2737780988e684ee1746bbaceed3f,5738134642182631639,5729127442933135575,4,N,333,1332,96
+adodb-pdo_firebird.inc.php,tool_getparam.c,\drivers\adodb-pdo_firebird.inc.php,\src\tool_getparam.c,9495b386496271e4936472af040fd5ea,a22f253f803124394e83cb5791f88233,5738134642182631639,5729127442933135575,4,N,333,1940,94
+adodb-pdo_firebird.inc.php,libssh.c,\drivers\adodb-pdo_firebird.inc.php,\lib\vssh\libssh.c,9495b386496271e4936472af040fd5ea,5dd9bb787afed82eab3eb1014db77206,5738134642182631639,549706396471965907,8,N,333,2062,99
+adodb-pdo_firebird.inc.php,libssh2.c,\drivers\adodb-pdo_firebird.inc.php,\lib\vssh\libssh2.c,9495b386496271e4936472af040fd5ea,c042413a3573a9da75c80699f25a1a40,5738134642182631639,549992269495187671,7,N,333,2574,94
+adodb-pdo_firebird.inc.php,sectransp.c,\drivers\adodb-pdo_firebird.inc.php,\lib\vtls\sectransp.c,9495b386496271e4936472af040fd5ea,19c48e3eed312fd3d5b47ad6a8263888,5738134642182631639,5729127442933135575,4,N,333,2690,98

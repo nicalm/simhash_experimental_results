@@ -1,0 +1,11 @@
+5868-libvips,9088-httpd
+buffer.c,ssl_private.h,\libvips\iofuncs\buffer.c,\modules\ssl\ssl_private.h,7574cb2d8655be6f6b1d83b926fa5645,36249a7b93b6c6da74f16ab00ce94b9b,-7744230673238075236,-8023445049755510628,8,N,447,736,23
+init.c,ssl_private.h,\libvips\iofuncs\init.c,\modules\ssl\ssl_private.h,e400d93356240e897bbc32ba27bdcd3b,36249a7b93b6c6da74f16ab00ce94b9b,-9176930621544019780,-8023445049755510628,8,N,636,736,39
+vector.c,main.c,\libvips\iofuncs\vector.c,\server\main.c,055954f4e165b83818f7e8bd6db904ec,806e4cdb67ce91fe6e7126212948f521,-8023484632710850404,-8897143515441211364,8,N,400,643,84
+vector.c,util_expr_parse.h,\libvips\iofuncs\vector.c,\server\util_expr_parse.h,055954f4e165b83818f7e8bd6db904ec,467ceef22a7acb29cc60597f3daac53d,-8023484632710850404,-8032456639398881252,8,N,400,84,12
+vector.c,suexec.h,\libvips\iofuncs\vector.c,\support\suexec.h,055954f4e165b83818f7e8bd6db904ec,424eed5ca72dc5978fc0252bd3f51645,-8023484632710850404,-8023480233053857636,4,N,400,25,8
+vector.c,mod_syslog.c,\libvips\iofuncs\vector.c,\modules\loggers\mod_syslog.c,055954f4e165b83818f7e8bd6db904ec,2d0861d0af354091bfd725e954827d0b,-8023484632710850404,-8023444500272326500,7,N,400,161,39
+vector.c,ssl_private.h,\libvips\iofuncs\vector.c,\modules\ssl\ssl_private.h,055954f4e165b83818f7e8bd6db904ec,36249a7b93b6c6da74f16ab00ce94b9b,-8023484632710850404,-8023445049755510628,4,N,400,736,42
+vector.c,unixd.c,\libvips\iofuncs\vector.c,\os\unix\unixd.c,055954f4e165b83818f7e8bd6db904ec,4641aa5ffe292dda86bf90bcfac2c838,-8023484632710850404,-8023462641975109476,6,N,400,524,94
+vector.c,mpm_default.h,\libvips\iofuncs\vector.c,\server\mpm\mpmt_os2\mpm_default.h,055954f4e165b83818f7e8bd6db904ec,0023769f864cdaeabb7f82ad5c66ec3d,-8023484632710850404,-8023480233053857636,4,N,400,15,5
+vector.c,mpm_default.h,\libvips\iofuncs\vector.c,\server\mpm\netware\mpm_default.h,055954f4e165b83818f7e8bd6db904ec,cda6f6973e85bdbe7e47a6014176c375,-8023484632710850404,-8023458243899238244,5,N,400,24,8

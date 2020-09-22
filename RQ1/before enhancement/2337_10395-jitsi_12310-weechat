@@ -1,0 +1,3 @@
+10395-jitsi,12310-weechat
+lzma.h,wee-url.c,\src\native\windows\setup\include\lzma.h,\src\core\wee-url.c,4ce48c8f939c04739c2c0b8409ca662f,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,121,1111,33
+lzma.h,gui-curses-term.c,\src\native\windows\setup\include\lzma.h,\src\gui\curses\gui-curses-term.c,4ce48c8f939c04739c2c0b8409ca662f,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,121,23,9

@@ -1,0 +1,4 @@
+1366-gradle,17934-harfbuzz
+gtest-port.h,test-c.c,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\test\api\test-c.c,23446e26c2aacb9eb58191ae642bfa7a,40a532b71e6242f205df120cc480a67e,-7879329861679654756,-8023445049757468516,4,N,906,26,7
+gtest-port.h,test-c.c,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\test\api\test-c.c,23446e26c2aacb9eb58191ae642bfa7a,40a532b71e6242f205df120cc480a67e,-7879329861679654756,-8023445049757468516,4,N,906,26,7
+GradleModuleMetadataParser.java,hb-subset.cc,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,\src\hb-subset.cc,73716c770f089fa732a0b2ac81bfe437,8cd5ec526a4232f06c744be9b77a51bc,-3476265378978940713,5170681089138145431,7,N,607,256,39

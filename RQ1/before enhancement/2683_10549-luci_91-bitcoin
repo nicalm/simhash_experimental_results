@@ -1,0 +1,14 @@
+10549-luci,91-bitcoin
+axhttp.h,attributes.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\attributes.h,15eb217d5f5922cce10b8494e4915b7f,1d61566702a36bfdc0abbfcd3b918b11,-7491774003658044260,-8023445049755378532,8,N,101,15,6
+axhttp.h,randomenv.cpp,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\randomenv.cpp,15eb217d5f5922cce10b8494e4915b7f,8eefeb3e04f7f52be719a9efdd732606,-7491774003658044260,-8023445049755510628,8,N,101,439,15
+axhttp.h,byteswap.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\compat\byteswap.h,15eb217d5f5922cce10b8494e4915b7f,88acd785d1d6b57506d4fdd472a4a790,-7491774003658044260,-7744221872858473316,8,N,101,43,11
+axhttp.h,endian.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\compat\endian.h,15eb217d5f5922cce10b8494e4915b7f,5c16422e6448c8f31356121158773761,-7491774003658044260,-8023445049755510628,8,N,101,198,14
+axhttp.h,thread_annotations.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\src\leveldb\port\thread_annotations.h,15eb217d5f5922cce10b8494e4915b7f,af9eee1ca47192126580ea56af3a4865,-7491774003658044260,-8023445049755510628,8,N,101,39,9
+axssl.c,compat.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\compat.h,f2b0cb059db544f4352723a1918a2843,e406a80a1784994699c1b4a1bc6005d3,-8030199623489105704,-8023445187194464104,8,N,686,87,24
+axssl.c,randomenv.cpp,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\randomenv.cpp,f2b0cb059db544f4352723a1918a2843,8eefeb3e04f7f52be719a9efdd732606,-8030199623489105704,-8023445049755510628,8,N,686,439,77
+axssl.c,endian.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\compat\endian.h,f2b0cb059db544f4352723a1918a2843,5c16422e6448c8f31356121158773761,-8030199623489105704,-8023445049755510628,8,N,686,198,75
+axssl.c,thread_annotations.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\src\leveldb\port\thread_annotations.h,f2b0cb059db544f4352723a1918a2843,af9eee1ca47192126580ea56af3a4865,-8030199623489105704,-8023445049755510628,8,N,686,39,13
+dialog.h,attributes.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\attributes.h,65291cd84768397473c02d7325db3d87,1d61566702a36bfdc0abbfcd3b918b11,-7933373057317024612,-8023445049755378532,6,N,128,15,6
+dialog.h,randomenv.cpp,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\randomenv.cpp,65291cd84768397473c02d7325db3d87,8eefeb3e04f7f52be719a9efdd732606,-7933373057317024612,-8023445049755510628,8,N,128,439,20
+dialog.h,endian.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\compat\endian.h,65291cd84768397473c02d7325db3d87,5c16422e6448c8f31356121158773761,-7933373057317024612,-8023445049755510628,8,N,128,198,16
+dialog.h,thread_annotations.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\src\leveldb\port\thread_annotations.h,65291cd84768397473c02d7325db3d87,af9eee1ca47192126580ea56af3a4865,-7933373057317024612,-8023445049755510628,8,N,128,39,13

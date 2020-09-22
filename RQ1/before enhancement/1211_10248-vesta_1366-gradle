@@ -1,0 +1,3 @@
+10248-vesta,1366-gradle
+index.php,TemplateValue.java,\web\bulk\user\index.php,\subprojects\build-init\src\main\java\org\gradle\buildinit\plugins\internal\TemplateValue.java,e63f54fde5aa69c0078f57a124201499,f8813fbc6d92610fb6ad19b8f945f912,5729127442931036375,5730222539349211271,8,N,53,64,14
+index.php,GradleModuleMetadataParser.java,\web\bulk\user\index.php,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,e63f54fde5aa69c0078f57a124201499,73716c770f089fa732a0b2ac81bfe437,5729127442931036375,-3476265378978940713,7,N,53,607,18

@@ -1,0 +1,8 @@
+10249-pycrypto,17934-harfbuzz
+tomcrypt_cfg.h,hb-fc-list.c,\src\libtom\tomcrypt_cfg.h,\util\hb-fc-list.c,5d86f6872e15c2873979e3c177860d1d,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510052,1199786163039426780,8,N,79,178,12
+tomcrypt_cfg.h,test-c.c,\src\libtom\tomcrypt_cfg.h,\test\api\test-c.c,5d86f6872e15c2873979e3c177860d1d,40a532b71e6242f205df120cc480a67e,-8023445049755510052,-8023445049757468516,5,N,79,26,6
+tomcrypt_cipher.h,test-c.c,\src\libtom\tomcrypt_cipher.h,\test\api\test-c.c,e7e3cfbb6946c3245a4035941fbfd0d9,40a532b71e6242f205df120cc480a67e,-8023445049755512676,-8023445049757468516,4,N,592,26,6
+tomcrypt_custom.h,hb-fc-list.c,\src\libtom\tomcrypt_custom.h,\util\hb-fc-list.c,9ae4ff77d7091871a62aaa3fd1f90225,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510628,1199786163039426780,8,N,245,178,12
+tomcrypt_custom.h,test-c.c,\src\libtom\tomcrypt_custom.h,\test\api\test-c.c,9ae4ff77d7091871a62aaa3fd1f90225,40a532b71e6242f205df120cc480a67e,-8023445049755510628,-8023445049757468516,3,N,245,26,6
+tomcrypt_hash.h,hb-fc-list.c,\src\libtom\tomcrypt_hash.h,\util\hb-fc-list.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023480251307468644,1199786163039426780,8,N,310,178,12
+tomcrypt_hash.h,test-c.c,\src\libtom\tomcrypt_hash.h,\test\api\test-c.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,40a532b71e6242f205df120cc480a67e,-8023480251307468644,-8023445049757468516,5,N,310,26,7

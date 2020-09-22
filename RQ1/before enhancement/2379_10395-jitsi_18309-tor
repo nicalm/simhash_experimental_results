@@ -1,0 +1,13 @@
+10395-jitsi,18309-tor
+lzma.h,timeout.c,\src\native\windows\setup\include\lzma.h,\src\ext\timeouts\timeout.c,4ce48c8f939c04739c2c0b8409ca662f,b607f1c129ce5e3aacea62c7cd85ad65,-8023445049755510628,-8018941171223955304,7,N,121,428,25
+lzma.h,compat_compiler.h,\src\native\windows\setup\include\lzma.h,\src\lib\cc\compat_compiler.h,4ce48c8f939c04739c2c0b8409ca662f,4fda4875c0f6db2fda2057a47aa6fc8f,-8023445049755510628,-8023445050293299044,3,N,121,128,29
+lzma.h,torint.h,\src\native\windows\setup\include\lzma.h,\src\lib\cc\torint.h,4ce48c8f939c04739c2c0b8409ca662f,f9bd1774a6cabce5324bfd6779020def,-8023445049755510628,-8023198759150888804,2,N,121,101,31
+lzma.h,fdio.c,\src\native\windows\setup\include\lzma.h,\src\lib\fdio\fdio.c,4ce48c8f939c04739c2c0b8409ca662f,f7cc52832a8d31f8234387c9640d45fa,-8023445049755510628,-7735214673874331620,4,N,121,80,16
+lzma.h,files.h,\src\native\windows\setup\include\lzma.h,\src\lib\fs\files.h,4ce48c8f939c04739c2c0b8409ca662f,9902cb2ff95e1c0ddbbb1305db85279c,-8023445049755510628,-7735241062016951204,8,N,121,88,13
+lzma.h,compat_mutex.h,\src\native\windows\setup\include\lzma.h,\src\lib\lock\compat_mutex.h,4ce48c8f939c04739c2c0b8409ca662f,fa68dd4d4892b507f32337ac922e8a83,-8023445049755510628,-8023445241286304612,8,N,121,38,7
+lzma.h,inaddr_st.h,\src\native\windows\setup\include\lzma.h,\src\lib\net\inaddr_st.h,4ce48c8f939c04739c2c0b8409ca662f,62efbf41d2e5c9c5c910850b9ac27f2c,-8023445049755510628,-8023445049755509604,1,N,121,69,18
+lzma.h,nettypes.h,\src\native\windows\setup\include\lzma.h,\src\lib\net\nettypes.h,4ce48c8f939c04739c2c0b8409ca662f,5dc6cbfbef80e86b6ed991e81ad60883,-8023445049755510628,-8033015199603320676,7,N,121,24,6
+lzma.h,compat_string.h,\src\native\windows\setup\include\lzma.h,\src\lib\string\compat_string.h,4ce48c8f939c04739c2c0b8409ca662f,ee5d4f16d6a1a17e897c0a516337b508,-8023445049755510628,-8023198751131381604,6,N,121,36,11
+lzma.h,ed25519-donna-portable-identify.h,\src\native\windows\setup\include\lzma.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,4ce48c8f939c04739c2c0b8409ca662f,36a4efc8ce95d16532d64be30ece0f36,-8023445049755510628,-8023445066935379812,1,N,121,87,23
+lzma.h,ed25519-donna-portable.h,\src\native\windows\setup\include\lzma.h,\src\ext\ed25519\donna\ed25519-donna-portable.h,4ce48c8f939c04739c2c0b8409ca662f,0a91169843a4cccde8a438c807c01a70,-8023445049755510628,-8023166323558924140,8,N,121,135,16
+lzma.h,ed25519-donna.h,\src\native\windows\setup\include\lzma.h,\src\ext\ed25519\donna\ed25519-donna.h,4ce48c8f939c04739c2c0b8409ca662f,2aae98d5c016419bee5a3b1b0fb3adb9,-8023445049755510628,-7447028278034638372,7,N,121,84,23

@@ -1,0 +1,10 @@
+2389-Pillow,3761-lepton
+ImPlatform.h,test_harness.cc,\src\libImaging\ImPlatform.h,\test_suite\test_harness.cc,6670b4584189b95bdcaaa198dabbf5c8,e289d2ef5a4a7ed63cb361e61d2bb017,-8024570949662353252,-8023445050292381540,2,N,58,121,12
+ImPlatform.h,gzguts.h,\src\libImaging\ImPlatform.h,\dependencies\zlib\gzguts.h,6670b4584189b95bdcaaa198dabbf5c8,481fcd67c1a74813d1e18ea86b0fb735,-8024570949662353252,-8023445049755510628,1,N,58,151,17
+ImPlatform.h,zconf.h,\src\libImaging\ImPlatform.h,\dependencies\zlib\zconf.h,6670b4584189b95bdcaaa198dabbf5c8,c89ff94ee23d020c7c9976f48a098fa0,-8024570949662353252,-8023445049755510628,1,N,58,403,17
+ImPlatform.h,zutil.c,\src\libImaging\ImPlatform.h,\dependencies\zlib\zutil.c,6670b4584189b95bdcaaa198dabbf5c8,d62c1317e7969756f542daacf0d4ba54,-8024570949662353252,-8023445084115248996,2,N,58,245,14
+ImPlatform.h,zutil.h,\src\libImaging\ImPlatform.h,\dependencies\zlib\zutil.h,6670b4584189b95bdcaaa198dabbf5c8,278c42fe50334e51a072b9e9539f1a94,-8024570949662353252,-8023445049755510628,1,N,58,183,15
+ImPlatform.h,MemMgrAllocator.cc,\src\libImaging\ImPlatform.h,\src\io\MemMgrAllocator.cc,6670b4584189b95bdcaaa198dabbf5c8,4081710108ae4d92c75a204cde67b037,-8024570949662353252,-7771243495318824804,6,N,58,422,14
+ImPlatform.h,model.cc,\src\libImaging\ImPlatform.h,\src\vp8\model\model.cc,6670b4584189b95bdcaaa198dabbf5c8,51516a58a4d201a162390ca9ecf9ca48,-8024570949662353252,-7446993091381110596,8,N,58,395,15
+ImPlatform.h,port.h,\src\libImaging\ImPlatform.h,\dependencies\brotli\c\dec\port.h,6670b4584189b95bdcaaa198dabbf5c8,40b2fd74ac0fb05b9b3137ca6adfdec5,-8024570949662353252,-8023163576927266084,7,N,58,121,15
+ImPlatform.h,port.h,\src\libImaging\ImPlatform.h,\dependencies\brotli\c\include\brotli\port.h,6670b4584189b95bdcaaa198dabbf5c8,350994917b4cef7e95001ccfdd8a21d9,-8024570949662353252,-9031978687939553124,7,N,58,102,15

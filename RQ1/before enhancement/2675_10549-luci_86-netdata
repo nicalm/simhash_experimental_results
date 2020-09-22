@@ -1,0 +1,4 @@
+10549-luci,86-netdata
+axhttp.h,libnetdata.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\libnetdata\libnetdata.h,15eb217d5f5922cce10b8494e4915b7f,b36073eea8dc836d3f37e426aebdabda,-7491774003658044260,-8023445049755510628,8,N,101,248,10
+axssl.c,libnetdata.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\libnetdata\libnetdata.h,f2b0cb059db544f4352723a1918a2843,b36073eea8dc836d3f37e426aebdabda,-8030199623489105704,-8023445049755510628,8,N,686,248,32
+dialog.h,libnetdata.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\libnetdata\libnetdata.h,65291cd84768397473c02d7325db3d87,b36073eea8dc836d3f37e426aebdabda,-7933373057317024612,-8023445049755510628,8,N,128,248,22

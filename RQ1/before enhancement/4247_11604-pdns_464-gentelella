@@ -1,0 +1,9 @@
+11604-pdns,464-gentelella
+jquery.js,jquery-2.1.0.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\select2\vendor\jquery-2.1.0.js,ed0016acf848db02c57ce7eb3cc49676,453e197f463fe25ee985390798d5b89a,2287167437921927934,2286112319076123390,5,N,7102,6138,5268
+jquery.js,jquery-1.7.2.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\select2\tests\vendor\jquery-1.7.2.js,ed0016acf848db02c57ce7eb3cc49676,48ded5591a87f928a060b93215fb53ca,2287167437921927934,2287168623332919551,8,N,7102,6491,3507
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,ed0016acf848db02c57ce7eb3cc49676,2d87ba23383f782ee174b1e96d92f56a,2287167437921927934,2287238992077113598,7,N,7102,6390,3396
+jquery.js,jquery.js,\pdns\dnsdistdist\src_js\jquery.js,\vendors\parsleyjs\bower_components\jquery\dist\jquery.js,ed0016acf848db02c57ce7eb3cc49676,cdac12a7fb68d67386ca31654c9a68f9,2287167437921927934,2286112319076122876,7,N,7102,6188,5385
+moment.js,moment.js,\pdns\dnsdistdist\src_js\moment.js,\vendors\moment\moment.js,f08218e77cec98df2514eb024690c2c0,f1cd5bdc747c20c6de4210e68b539782,4032312790871033534,3455852176007088830,6,N,2690,3064,2628
+moment.js,Chart.bundle.js,\pdns\dnsdistdist\src_js\moment.js,\vendors\Chart.js\dist\Chart.bundle.js,f08218e77cec98df2514eb024690c2c0,cfc5e4a7c6088708fef9f9875b492230,4032312790871033534,2302930534028395198,5,N,2690,10705,2628
+jquery-1.8.3.js,jquery.js,\pdns\recursordist\html\js\jquery-1.8.3.js,\vendors\Flot\jquery.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2304056349881632954,2304056349881632954,0,Y,6563,6563,6563
+jquery-1.8.3.js,jquery.js,\pdns\recursordist\html\js\jquery-1.8.3.js,\vendors\Flot\source\jquery.js,c6dfc9f4a01de6e0c943f4af4cdb1dd8,c6dfc9f4a01de6e0c943f4af4cdb1dd8,2304056349881632954,2304056349881632954,0,Y,6563,6563,6563

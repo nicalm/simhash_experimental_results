@@ -1,0 +1,3 @@
+10841-gimp,2283-capnproto
+gimpwin32-io.h,miniposix.h,\libgimpbase\gimpwin32-io.h,\c++\src\kj\miniposix.h,56ef6d63cf2566b506fd29ef2a5dcc22,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,58,84,18
+imap_cern_parse.h,miniposix.h,\plug-ins\imagemap\imap_cern_parse.h,\c++\src\kj\miniposix.h,af25bf3cfc37bc3ffcbfe1812577e007,43597d9a9103c02dbbe46d2c58ecc748,-8023444912450709284,-7455991496707810916,8,N,61,84,11

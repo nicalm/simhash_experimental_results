@@ -1,0 +1,9 @@
+1698-server,4139-outline-client
+AppTest.php,ProtoParser.php,\tests\lib\AppTest.php,\third_party\badvpn\bproto_generator\ProtoParser.php,073ae66999ced9e77c5289f202a55b9c,16a248c1c7de4a860786e679a441e5e9,-6560432941931953160,359367608012702714,8,N,510,428,129
+OwnCloudFunctionsTest.php,ProtoParser.php,\apps\files_external\tests\OwnCloudFunctionsTest.php,\third_party\badvpn\bproto_generator\ProtoParser.php,386320b39cb1247feb8a5d641902f2ef,16a248c1c7de4a860786e679a441e5e9,-6558181691874016294,359367608012702714,7,N,78,428,37
+MDB2SchemaReader.php,pcre_fullinfo.c,\lib\private\DB\MDB2SchemaReader.php,\third_party\pcre\pcre_fullinfo.c,d647cd0d11a5a459553ceaf5b5657b44,8923cc431580197b3e121f54e41dba57,5731379242742884567,5729127442933135575,4,N,240,135,28
+MDB2SchemaReader.php,ncd_tokenizer_test.c,\lib\private\DB\MDB2SchemaReader.php,\third_party\badvpn\examples\ncd_tokenizer_test.c,d647cd0d11a5a459553ceaf5b5657b44,809950a2bfada58b600886b8876d3ef5,5731379242742884567,5729127442933135575,4,N,240,108,31
+MDB2SchemaReader.php,oidrequest.c,\lib\private\DB\MDB2SchemaReader.php,\third_party\tap-windows6\src\oidrequest.c,d647cd0d11a5a459553ceaf5b5657b44,002c163e640287d2c51baba214ecdaa8,5731379242742884567,1118567324412590303,7,N,240,493,65
+Share.php,LinkedList1.h,\lib\private\Share\Share.php,\third_party\badvpn\structure\LinkedList1.h,f83961b3ecbe4c2cc88d442d41edbfcf,2fe4bda36e82b6f9b70e9d1e421a00c2,2305182970570982126,2305183003823425470,7,N,1033,128,29
+Share.php,LinkedList1.h,\lib\private\Share\Share.php,\third_party\Potatso\PacketProcessor\tun2socks\structure\LinkedList1.h,f83961b3ecbe4c2cc88d442d41edbfcf,3a979b03e40b5e7005b3a80a7c626afb,2305182970570982126,2305181904311796670,7,N,1033,128,29
+AppFetcherTest.php,ProtoParser.php,\tests\lib\App\AppStore\Fetcher\AppFetcherTest.php,\third_party\badvpn\bproto_generator\ProtoParser.php,3e42111e9d4f8f28cd4f8bacaabb6bba,16a248c1c7de4a860786e679a441e5e9,-6558181142118202373,359367608012702714,6,N,1908,428,145

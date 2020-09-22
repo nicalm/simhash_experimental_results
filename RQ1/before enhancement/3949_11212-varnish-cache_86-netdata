@@ -1,0 +1,9 @@
+11212-varnish-cache,86-netdata
+gzguts.h,libnetdata.h,\lib\libvgz\gzguts.h,\libnetdata\libnetdata.h,7127325d12a1c60eed486f9681b3a149,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,157,248,46
+gzguts.h,clocks.h,\lib\libvgz\gzguts.h,\libnetdata\clocks\clocks.h,7127325d12a1c60eed486f9681b3a149,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,157,66,11
+zconf.h,libnetdata.h,\lib\libvgz\zconf.h,\libnetdata\libnetdata.h,ca00915f6353095e76b1240157dc32b6,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,431,248,50
+zconf.h,clocks.h,\lib\libvgz\zconf.h,\libnetdata\clocks\clocks.h,ca00915f6353095e76b1240157dc32b6,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,431,66,11
+zutil.c,libnetdata.h,\lib\libvgz\zutil.c,\libnetdata\libnetdata.h,80cacf0c2fdd6f41f0562b27c2041b64,b36073eea8dc836d3f37e426aebdabda,-8023445049754986340,-8023445049755510628,1,N,247,248,33
+zutil.c,clocks.h,\lib\libvgz\zutil.c,\libnetdata\clocks\clocks.h,80cacf0c2fdd6f41f0562b27c2041b64,817f185c065ee719f0a0f5d506401b1f,-8023445049754986340,-7879330084279756644,8,N,247,66,12
+zutil.h,libnetdata.h,\lib\libvgz\zutil.h,\libnetdata\libnetdata.h,af5aab860ef07102ffcf6fab7fd2e544,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,196,248,50
+zutil.h,clocks.h,\lib\libvgz\zutil.h,\libnetdata\clocks\clocks.h,af5aab860ef07102ffcf6fab7fd2e544,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,196,66,11

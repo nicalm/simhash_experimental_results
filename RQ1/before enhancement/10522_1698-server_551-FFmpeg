@@ -1,0 +1,13 @@
+1698-server,551-FFmpeg
+MDB2SchemaReader.php,ansi.c,\lib\private\DB\MDB2SchemaReader.php,\libavcodec\ansi.c,d647cd0d11a5a459553ceaf5b5657b44,fe7e6c6bb03826e2b0bc818c18bbefd2,5731379242742884567,5729690394954610903,6,N,240,418,62
+MDB2SchemaReader.php,dds.c,\lib\private\DB\MDB2SchemaReader.php,\libavcodec\dds.c,d647cd0d11a5a459553ceaf5b5657b44,44ed87717f6320243295b32b6ad74a67,5731379242742884567,8052984850656305399,7,N,240,614,66
+MDB2SchemaReader.php,microdvddec.c,\lib\private\DB\MDB2SchemaReader.php,\libavcodec\microdvddec.c,d647cd0d11a5a459553ceaf5b5657b44,6b8538c47d69e8430f45a7f00d38ff01,5731379242742884567,5729092258292611287,6,N,240,285,58
+MDB2SchemaReader.php,pcm.c,\lib\private\DB\MDB2SchemaReader.php,\libavcodec\pcm.c,d647cd0d11a5a459553ceaf5b5657b44,37664aa1805e5b8a6fd6444e25ca5398,5731379242742884567,5728845967956424919,5,N,240,537,67
+MDB2SchemaReader.php,vf_stereo3d.c,\lib\private\DB\MDB2SchemaReader.php,\libavfilter\vf_stereo3d.c,d647cd0d11a5a459553ceaf5b5657b44,cd1fdbeaf8391f52e5e871d6d0cf82d2,5731379242742884567,5695355393463466183,8,N,240,1037,76
+MDB2SchemaReader.php,electronicarts.c,\lib\private\DB\MDB2SchemaReader.php,\libavformat\electronicarts.c,d647cd0d11a5a459553ceaf5b5657b44,ff9f06888cfea7376ae205c5fe364062,5731379242742884567,6882048947539982559,6,N,240,637,72
+MDB2SchemaReader.php,ipmovie.c,\lib\private\DB\MDB2SchemaReader.php,\libavformat\ipmovie.c,d647cd0d11a5a459553ceaf5b5657b44,8ce1110719f18ab4ea6326f6d2ec3971,5731379242742884567,5657069840338827415,8,N,240,555,71
+MDB2SchemaReader.php,yuv4mpegenc.c,\lib\private\DB\MDB2SchemaReader.php,\libavformat\yuv4mpegenc.c,d647cd0d11a5a459553ceaf5b5657b44,c4140fda683fb3c45997517c0394f389,5731379242742884567,5729125243909880051,7,N,240,303,49
+MDB2SchemaReader.php,input.c,\lib\private\DB\MDB2SchemaReader.php,\libswscale\input.c,d647cd0d11a5a459553ceaf5b5657b44,f5fd4c22afbeba816cbd53aa0171507b,5731379242742884567,5729127442928941270,4,N,240,1488,68
+Share.php,h264_mvpred.h,\lib\private\Share\Share.php,\libavcodec\h264_mvpred.h,f83961b3ecbe4c2cc88d442d41edbfcf,3771384d56c9105f5592bf2416f735da,2305182970570982126,4611023831365698222,8,N,1033,673,120
+Share.php,vp9block.c,\lib\private\Share\Share.php,\libavcodec\vp9block.c,f83961b3ecbe4c2cc88d442d41edbfcf,70e1349173cd4670ae460ef7cef42629,2305182970570982126,2264650624390515390,8,N,1033,1295,185
+Share.php,signature_lookup.c,\lib\private\Share\Share.php,\libavfilter\signature_lookup.c,f83961b3ecbe4c2cc88d442d41edbfcf,5fb55324f1667dc11712c30e62c1e991,2305182970570982126,2304057121129999102,8,N,1033,467,117

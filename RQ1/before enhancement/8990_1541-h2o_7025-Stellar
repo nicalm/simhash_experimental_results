@@ -1,0 +1,6 @@
+1541-h2o,7025-Stellar
+fmacros.h,Stellar-Swift.h,\deps\hiredis\fmacros.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,9d6fd32f84c9d0377076a4587579ec51,fafe37ab4771e0a9586e17224fcc7041,-8023515419036559204,-7743940123003924324,7,N,20,231,7
+mrbconf.h,Stellar-Swift.h,\deps\mruby\include\mrbconf.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,b30b9460d209b1cc68a61c5604bdd5a1,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,43,231,16
+mruby.h,Stellar-Swift.h,\deps\mruby\include\mruby.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,919df8d515b52adcdfa92f19037768c8,fafe37ab4771e0a9586e17224fcc7041,-9176366554362357572,-7743940123003924324,7,N,440,231,38
+uECC.h,Stellar-Swift.h,\deps\picotls\deps\micro-ecc\uECC.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e777f21ea5ae63708919f7e3ba1592f7,fafe37ab4771e0a9586e17224fcc7041,1199926987099265180,-7743940123003924324,6,N,105,231,19
+wincompat.h,Stellar-Swift.h,\deps\picotls\picotlsvs\picotls\wincompat.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,7c4e1724c3a0beeaea1e4c416d606c60,fafe37ab4771e0a9586e17224fcc7041,-8041318848215590756,-7743940123003924324,8,N,28,231,7

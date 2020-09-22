@@ -1,0 +1,7 @@
+18692-spdk,6347-librealsense
+queue.h,glext.h,\include\spdk\queue.h,\third-party\glad\glext.h,ec100905d717ef23a63f758030236499,b47c3053eb61af62c08dd7e6f45631ce,-9212465172521363396,-8023445049755510628,8,N,30,12110,9
+queue.h,win32_platform.h,\include\spdk\queue.h,\third-party\glfw\src\win32_platform.h,ec100905d717ef23a63f758030236499,2445649aade285164b3f3df9cb6b0b9c,-9212465172521363396,-8023445049755510628,8,N,30,324,5
+queue.h,vulkan.h,\include\spdk\queue.h,\third-party\glfw\deps\vulkan\vulkan.h,ec100905d717ef23a63f758030236499,368be8e566768753806bdc8cc0052fc3,-9212465172521363396,1163898190080301212,8,N,30,38,5
+queue.h,glfw3native.h,\include\spdk\queue.h,\third-party\glfw\include\GLFW\glfw3native.h,ec100905d717ef23a63f758030236499,c5d9fae34608972236a415167b8ed590,-9212465172521363396,-8023445051902996324,8,N,30,83,9
+assert.h,glext.h,\include\spdk_internal\assert.h,\third-party\glad\glext.h,340c3c292f11b3661cb114f5fb4a2722,b47c3053eb61af62c08dd7e6f45631ce,-7384004271941560100,-8023445049755510628,7,N,16,12110,9
+assert.h,win32_platform.h,\include\spdk_internal\assert.h,\third-party\glfw\src\win32_platform.h,340c3c292f11b3661cb114f5fb4a2722,2445649aade285164b3f3df9cb6b0b9c,-7384004271941560100,-8023445049755510628,7,N,16,324,5

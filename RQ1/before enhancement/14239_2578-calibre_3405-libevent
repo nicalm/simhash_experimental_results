@@ -1,0 +1,5 @@
+2578-calibre,3405-libevent
+lzxc.c,ipv6-internal.h,\src\calibre\utils\lzx\lzxc.c,\ipv6-internal.h,5148bebfcfad4cb4119b4e362bc0686f,dabb7bfd8d8b28692ca1940f37c14cce,-8059473846773950244,-8005606573110671204,8,N,1033,37,11
+lzxc.c,strlcpy-internal.h,\src\calibre\utils\lzx\lzxc.c,\strlcpy-internal.h,5148bebfcfad4cb4119b4e362bc0686f,467ca41fc4bea3adc64b4e368f7cade3,-8059473846773950244,-7987415705132410795,8,N,1033,18,6
+lzxc.c,event.h,\src\calibre\utils\lzx\lzxc.c,\include\event.h,5148bebfcfad4cb4119b4e362bc0686f,74155744f6c5bd2476d644b3e62572b7,-8059473846773950244,-8005430651917121316,6,N,1033,39,10
+lzxc.c,dns_struct.h,\src\calibre\utils\lzx\lzxc.c,\include\event2\dns_struct.h,5148bebfcfad4cb4119b4e362bc0686f,666004cf63ea0bf834f3327e53994765,-8059473846773950244,-8032733723986968355,8,N,1033,32,9

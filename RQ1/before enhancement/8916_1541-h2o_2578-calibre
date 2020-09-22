@@ -1,0 +1,17 @@
+1541-h2o,2578-calibre
+fmacros.h,lzxc.c,\deps\hiredis\fmacros.h,\src\calibre\utils\lzx\lzxc.c,9d6fd32f84c9d0377076a4587579ec51,5148bebfcfad4cb4119b4e362bc0686f,-8023515419036559204,-8059473846773950244,5,N,20,1033,7
+_brotli.cc,icu.c,\deps\brotli\python\_brotli.cc,\src\calibre\utils\icu.c,376b2fb27dc97d420b1312da4818f5be,cd37a588d72dc650b1605652a98cdbbf,529120021252901755,6293481254691244923,7,N,639,1035,179
+_brotli.cc,freetype.cpp,\deps\brotli\python\_brotli.cc,\src\calibre\utils\fonts\freetype.cpp,376b2fb27dc97d420b1312da4818f5be,ce45c5119568c18bcc4b88728e2ae53e,529120021252901755,6293727511001139579,5,N,639,285,115
+_brotli.cc,outline.cpp,\deps\brotli\python\_brotli.cc,\src\calibre\utils\podofo\outline.cpp,376b2fb27dc97d420b1312da4818f5be,580a07991153b8911ca19368156953d8,529120021252901755,6293727511001139579,5,N,639,113,47
+_brotli.cc,hunspell_wrapper.cpp,\deps\brotli\python\_brotli.cc,\src\calibre\utils\spell\hunspell_wrapper.cpp,376b2fb27dc97d420b1312da4818f5be,195a888d0e68116525f29c9a10a6a8ae,529120021252901755,6293727511001139579,5,N,639,173,66
+_brotli.cc,device.cpp,\deps\brotli\python\_brotli.cc,\src\calibre\devices\mtp\windows\device.cpp,376b2fb27dc97d420b1312da4818f5be,52fe950afa93fcd616d4241f58ddc10b,529120021252901755,6293727510934030715,6,N,639,183,55
+_brotli.cc,html.c,\deps\brotli\python\_brotli.cc,\src\calibre\gui2\tweak_book\editor\syntax\html.c,376b2fb27dc97d420b1312da4818f5be,f259b1a2bf100f044cdb9be8bdc7dd2e,529120021252901755,6293762695373228411,6,N,639,467,139
+mrbconf.h,lzxc.c,\deps\mruby\include\mrbconf.h,\src\calibre\utils\lzx\lzxc.c,b30b9460d209b1cc68a61c5604bdd5a1,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,43,1033,17
+mrbconf.h,msstdint.h,\deps\mruby\include\mrbconf.h,\src\calibre\utils\lzx\msstdint.h,b30b9460d209b1cc68a61c5604bdd5a1,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,43,138,16
+mruby.h,lzxc.c,\deps\mruby\include\mruby.h,\src\calibre\utils\lzx\lzxc.c,919df8d515b52adcdfa92f19037768c8,5148bebfcfad4cb4119b4e362bc0686f,-9176366554362357572,-8059473846773950244,5,N,440,1033,52
+port.h,lzxc.c,\deps\brotli\c\dec\port.h,\src\calibre\utils\lzx\lzxc.c,40b2fd74ac0fb05b9b3137ca6adfdec5,5148bebfcfad4cb4119b4e362bc0686f,-8023163576927266084,-8059473846773950244,7,N,121,1033,33
+common.h,msstdint.h,\deps\mruby\include\mruby\common.h,\src\calibre\utils\lzx\msstdint.h,0825c5eb9f97ed05daa7893cfba2ca13,2dacb8ee9f393a22b1266f714d3efcd6,-8599905941780637092,-2830794129776780644,8,N,52,138,15
+types.h,lzxc.c,\deps\picotls\deps\micro-ecc\types.h,\src\calibre\utils\lzx\lzxc.c,d0ccddb6a5d5d18dbed2dc07299a4b3d,5148bebfcfad4cb4119b4e362bc0686f,-8023445049757607011,-8059473846773950244,7,N,87,1033,17
+uECC.h,lzxc.c,\deps\picotls\deps\micro-ecc\uECC.h,\src\calibre\utils\lzx\lzxc.c,e777f21ea5ae63708919f7e3ba1592f7,5148bebfcfad4cb4119b4e362bc0686f,1199926987099265180,-8059473846773950244,4,N,105,1033,21
+uECC.h,msstdint.h,\deps\picotls\deps\micro-ecc\uECC.h,\src\calibre\utils\lzx\msstdint.h,e777f21ea5ae63708919f7e3ba1592f7,2dacb8ee9f393a22b1266f714d3efcd6,1199926987099265180,-2830794129776780644,8,N,105,138,15
+wincompat.h,lzxc.c,\deps\picotls\picotlsvs\picotls\wincompat.h,\src\calibre\utils\lzx\lzxc.c,7c4e1724c3a0beeaea1e4c416d606c60,5148bebfcfad4cb4119b4e362bc0686f,-8041318848215590756,-8059473846773950244,6,N,28,1033,9

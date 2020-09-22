@@ -1,0 +1,16 @@
+5372-twisted,6285-ImageMagick
+raiser.c,coders-list.h,\src\twisted\test\raiser.c,\coders\coders-list.h,03329048f02326320ae3e07a7faee64c,da2167028ce6417787bcd9607b33ade8,-8023445050292381540,-7952513354550683492,4,N,3117,173,21
+raiser.c,coders.h,\src\twisted\test\raiser.c,\coders\coders.h,03329048f02326320ae3e07a7faee64c,e381af91df37f3ca92c725e4d44a0aae,-8023445050292381540,-3411759031362725731,5,N,3117,172,20
+raiser.c,animate-private.h,\src\twisted\test\raiser.c,\MagickCore\animate-private.h,03329048f02326320ae3e07a7faee64c,d4819217e3565dd01efc90635d9a2319,-8023445050292381540,-7771252266715785060,4,N,3117,19,6
+raiser.c,display-private.h,\src\twisted\test\raiser.c,\MagickCore\display-private.h,03329048f02326320ae3e07a7faee64c,4852aa2ce07ea57f4ee9ee630e4cfd38,-8023445050292381540,-7988542152911859556,7,N,3117,19,6
+raiser.c,magick-config.h,\src\twisted\test\raiser.c,\MagickCore\magick-config.h,03329048f02326320ae3e07a7faee64c,e63d3d83696985be12017660c957883e,-8023445050292381540,-8023445049755510628,1,N,3117,185,57
+raiser.c,method-attribute.h,\src\twisted\test\raiser.c,\MagickCore\method-attribute.h,03329048f02326320ae3e07a7faee64c,a93ad40feb4595496f371596bf1bffbf,-8023445050292381540,-7879083588791576100,8,N,3117,103,31
+raiser.c,nt-base.h,\src\twisted\test\raiser.c,\MagickCore\nt-base.h,03329048f02326320ae3e07a7faee64c,6845456c26530905ede972637f7495b1,-8023445050292381540,-8023445049755510628,1,N,3117,282,81
+raiser.c,studio.h,\src\twisted\test\raiser.c,\MagickCore\studio.h,03329048f02326320ae3e07a7faee64c,46305552c943ef349fb6bb741ecb832b,-8023445050292381540,-8023445049755510628,1,N,3117,303,84
+raiser.c,thread_.h,\src\twisted\test\raiser.c,\MagickCore\thread_.h,03329048f02326320ae3e07a7faee64c,ef3560f67fdebe9502b0ba64c8325694,-8023445050292381540,-3051472848381683556,7,N,3117,32,9
+raiser.c,version.c,\src\twisted\test\raiser.c,\MagickCore\version.c,03329048f02326320ae3e07a7faee64c,8294bca6e82e31c9d2d2bf5ed7898873,-8023445050292381540,-8023445049755510628,1,N,3117,351,83
+raiser.c,MagickWand.h,\src\twisted\test\raiser.c,\MagickWand\MagickWand.h,03329048f02326320ae3e07a7faee64c,26ce920da0c602cb29591dbca84b672f,-8023445050292381540,-8024007999705787748,7,N,3117,101,17
+raiser.c,method-attribute.h,\src\twisted\test\raiser.c,\MagickWand\method-attribute.h,03329048f02326320ae3e07a7faee64c,401f0f6cfb93462bcb77f5d65eeefc09,-8023445050292381540,-9176084254743471908,8,N,3117,92,27
+raiser.c,studio.h,\src\twisted\test\raiser.c,\MagickWand\studio.h,03329048f02326320ae3e07a7faee64c,3315059cc1afe634209d06d5c6f78f4e,-8023445050292381540,-8023445049755510628,1,N,3117,267,78
+raiser.c,Include.h,\src\twisted\test\raiser.c,\Magick++\lib\Magick++\Include.h,03329048f02326320ae3e07a7faee64c,d559a3b26c6dd77eb96cece9b06c01de,-8023445050292381540,-8023445049755510628,1,N,3117,1393,80
+iocpsupport.c,method-attribute.h,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,\MagickCore\method-attribute.h,6f126cf6c7552cdc709488795a6bc165,a93ad40feb4595496f371596bf1bffbf,-7590887830076270404,-7879083588791576100,8,N,8738,103,31

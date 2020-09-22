@@ -1,0 +1,7 @@
+2575-scipy,8874-collectd
+_uarray_dispatch.cxx,pyconfig.c,\scipy\_lib\_uarray\_uarray_dispatch.cxx,\src\pyconfig.c,517a74bdda9e353a592adcb197b2d1ae,b3d2f7f228cf9a9b940e959dcb678f77,6293723112954628475,6293727511001139579,1,N,892,173,48
+_uarray_dispatch.cxx,pyvalues.c,\scipy\_lib\_uarray\_uarray_dispatch.cxx,\src\pyvalues.c,517a74bdda9e353a592adcb197b2d1ae,eef232aebcadaf8dedcb0b2de85cd554,6293723112954628475,6293727511001139323,2,N,892,1149,200
+_superlu_utils.c,pyconfig.c,\scipy\sparse\linalg\dsolve\_superlu_utils.c,\src\pyconfig.c,11d1140a0eaaa5df0bcd678283a02bb7,b3d2f7f228cf9a9b940e959dcb678f77,6293727511001139579,6293727511001139579,0,N,201,173,43
+_superlu_utils.c,pyvalues.c,\scipy\sparse\linalg\dsolve\_superlu_utils.c,\src\pyvalues.c,11d1140a0eaaa5df0bcd678283a02bb7,eef232aebcadaf8dedcb0b2de85cd554,6293727511001139579,6293727511001139323,1,N,201,1149,72
+msc_stdint.h,collectd.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\src\daemon\collectd.h,0a9faad66f590c9572581753d453013e,2b583af2ee5d68797b260dc2234a9a80,-8018800163019237220,-8023445049755510628,6,N,152,198,21
+msc_stdint.h,mount.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\src\utils\mount\mount.h,0a9faad66f590c9572581753d453013e,8535c5ea598e2c2e046efd01984ce929,-8018800163019237220,-8023445049755510628,6,N,152,64,14

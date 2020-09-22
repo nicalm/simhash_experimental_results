@@ -1,0 +1,4 @@
+10395-jitsi,12688-ffi
+lzma.h,compat.h,\src\native\windows\setup\include\lzma.h,\ext\ffi_c\compat.h,4ce48c8f939c04739c2c0b8409ca662f,89860486007fe9b6739772aa0b042837,-8023445049755510628,-8023447251463120740,3,N,121,38,12
+lzma.h,DynamicLibrary.h,\src\native\windows\setup\include\lzma.h,\ext\ffi_c\DynamicLibrary.h,4ce48c8f939c04739c2c0b8409ca662f,85bcc5d631466c02273f9899152b054b,-8023445049755510628,-5753630837560780644,2,N,121,49,19
+lzma.h,rbffi_endian.h,\src\native\windows\setup\include\lzma.h,\ext\ffi_c\rbffi_endian.h,4ce48c8f939c04739c2c0b8409ca662f,f869d8d0ddc657c2a3138058f91acb6c,-8023445049755510628,-8023445049822619428,2,N,121,50,14

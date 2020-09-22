@@ -1,0 +1,4 @@
+5868-libvips,8678-GitHawk
+vector.c,SDWebImageCompat.h,\libvips\iofuncs\vector.c,\Pods\SDWebImage\SDWebImage\SDWebImageCompat.h,055954f4e165b83818f7e8bd6db904ec,b0a5f204f5c6671d77ea59f8ffd5921c,-8023484632710850404,-7735249858110105444,5,N,400,80,22
+vector.c,cmarkextensions_export.h,\libvips\iofuncs\vector.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmarkextensions_export.h,055954f4e165b83818f7e8bd6db904ec,252c50482fb9cc0b421251bbc1a8e0e6,-8023484632710850404,-8023480234127599460,3,N,400,32,12
+vector.c,cmark_export.h,\libvips\iofuncs\vector.c,\Pods\cmark-gfm-swift\Source\cmark_gfm\include\cmark_export.h,055954f4e165b83818f7e8bd6db904ec,7d9a85e6bffd97dbcc67d0e392b8ead8,-8023484632710850404,-8023445049755510632,5,N,400,32,12

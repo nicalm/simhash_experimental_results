@@ -1,0 +1,5 @@
+11788-fbthrift,63411-CMS
+t_type.h,Config.php,\thrift\compiler\ast\t_type.h,\iu-system\core\Config.php,b053db260acb5031648818344c9828ac,b7543ad40a0e7bf84eb7e0433269125b,1431083237210080174,1719297390733452206,7,N,149,176,33
+t_type.h,DB_driver.php,\thrift\compiler\ast\t_type.h,\iu-system\database\DB_driver.php,b053db260acb5031648818344c9828ac,13826e9a6978c4af56e7af0bf5e691d2,1431083237210080174,1573228237887992750,8,N,149,712,34
+t_type.h,Upload.php,\thrift\compiler\ast\t_type.h,\iu-system\libraries\Upload.php,b053db260acb5031648818344c9828ac,686371bca26f5fca2d3dbcdbd94d2442,1431083237210080174,575399239290220942,8,N,149,587,33
+fastproto.cpp,Config.php,\thrift\lib\py\protocol\fastproto.cpp,\iu-system\core\Config.php,c1bccad7773c2493eb4cf8a3003e0912,b7543ad40a0e7bf84eb7e0433269125b,1431084332443525822,1719297390733452206,8,N,1017,176,42

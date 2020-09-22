@@ -1,0 +1,7 @@
+12873-mediawiki,2509-Twig
+Language.php,Token.php,\languages\Language.php,\src\Token.php,14bc0195e1df5601a0a07e3a9e473e72,be39a6f847016874e81d99d0ceda815a,6906801290776982743,5731379380185772127,8,N,2563,142,29
+LogFormatter.php,Token.php,\includes\logging\LogFormatter.php,\src\Token.php,1a5b87b8ddd192cf448a8d7e785d9d75,be39a6f847016874e81d99d0ceda815a,5729127442933127383,5731379380185772127,6,N,551,142,31
+FormatMetadata.php,Token.php,\includes\media\FormatMetadata.php,\src\Token.php,d4c424b998a37738addfaa8660b2d286,be39a6f847016874e81d99d0ceda815a,5729109850747091159,5731379380185772127,6,N,1326,142,31
+IPTC.php,Token.php,\includes\media\IPTC.php,\src\Token.php,5acd3160fef09ca8547c657db582b971,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,377,142,29
+ExtensionDependencyError.php,Token.php,\includes\registration\ExtensionDependencyError.php,\src\Token.php,f7bb90c1ca9716b4c4e940b5871755aa,be39a6f847016874e81d99d0ceda815a,5729126334831573079,5731379380185772127,6,N,44,142,13
+bench_if_switch.php,Token.php,\maintenance\benchmarks\bench_if_switch.php,\src\Token.php,ebc9d6c5664eaffdc591b48a194dced3,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,73,142,23

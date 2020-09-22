@@ -1,0 +1,4 @@
+13324-librenms,9529-ltp
+rewrites.php,json_reader.cpp,\includes\rewrites.php,\thirdparty\jsoncpp\src\lib_json\json_reader.cpp,5389d55c6eafa211ede2994f342bca9b,76bf98ba073ac08c1332f620f5bff065,5729127442933135575,6814424653137246423,8,N,1602,1814,163
+rewrites.php,json_writer.cpp,\includes\rewrites.php,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,5389d55c6eafa211ede2994f342bca9b,b6ab383125673428393a9226be5df7ad,5729127442933135575,973042564577409238,6,N,1602,1063,136
+viptela.inc.php,json_writer.cpp,\includes\polling\os\viptela.inc.php,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,c64de710870736d919a9de98ce834a46,b6ab383125673428393a9226be5df7ad,5729127442928941271,973042564577409238,7,N,48,1063,15

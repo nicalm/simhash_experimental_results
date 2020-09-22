@@ -1,0 +1,3 @@
+63225-sedutil,6347-librealsense
+sedutil.cpp,uvc-parser.cpp,\Common\sedutil.cpp,\src\uvc\uvc-parser.cpp,d52e516d82c7919c579e6283c901df60,ec225d2799af25e9be4a1b255aa81ded,5693098645914171606,1011606833287673943,8,N,243,310,38
+sedutil.cpp,iconify.c,\Common\sedutil.cpp,\third-party\glfw\tests\iconify.c,d52e516d82c7919c579e6283c901df60,4383e5e5067c1f0471c630b863bae2d6,5693098645914171606,5755937900105083095,8,N,243,219,32

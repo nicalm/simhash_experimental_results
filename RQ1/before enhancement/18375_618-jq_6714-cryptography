@@ -1,0 +1,3 @@
+618-jq,6714-cryptography
+jv_dtoa.c,osrandom_engine.h,\src\jv_dtoa.c,\src\_cffi_src\openssl\src\osrandom_engine.h,e22c5b05bfd24415a3e8d8da3f8791ac,5faed825e57102494d64f41f67417150,-8023445049755510756,-9176392388590904164,8,N,3652,80,17
+lexer.h,osrandom_engine.h,\src\lexer.h,\src\_cffi_src\openssl\src\osrandom_engine.h,da2a1a7176c85a8ba5c6ad487a6476ec,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,554,80,15

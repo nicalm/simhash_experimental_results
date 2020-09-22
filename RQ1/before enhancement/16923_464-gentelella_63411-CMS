@@ -1,0 +1,4 @@
+464-gentelella,63411-CMS
+jquery.mousewheel.js,jquery.mousewheel.js,\vendors\Flot\lib\jquery.mousewheel.js,\iu-application\views\administration\js\plugins\spinner\jquery.mousewheel.js,d54b3f6dc6e9b510fb9c45144a12598b,d54b3f6dc6e9b510fb9c45144a12598b,6723187308222327056,6723187308222327056,0,Y,52,52,52
+jquery.flot.orderBars.js,jquery.flot.orderBars.js,\vendors\flot.orderbars\js\jquery.flot.orderBars.js,\iu-application\views\administration\js\plugins\charts\jquery.flot.orderBars.js,b16afbaab7ce848837d4de022dbf91e5,e58260c708792ecc1b75d65c7d28784a,-7987533459583057774,-7951504387719789930,8,N,134,127,120
+flot.js,jquery.flot.js,\vendors\flot.orderbars\examples\js\flot\flot.js,\iu-application\views\administration\js\plugins\charts\jquery.flot.js,d606aa4a59356de66ea65c29f4e04e59,5b96159794a8b50012e0186ef1ff7db4,3844044591051643030,3826022779428477078,7,N,2000,1973,1951

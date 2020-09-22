@@ -1,0 +1,6 @@
+4014-kanboard,506-ghidra
+AvatarFileModel.php,GoToQuery.java,\app\Model\AvatarFileModel.php,\Ghidra\Features\Base\src\main\java\ghidra\app\util\navigation\GoToQuery.java,9a564b09445991033b9566f73118ab2a,34c439077ee99becc6d3e5a43e1dd513,1995585065352718732,1672447411188681100,8,N,66,522,19
+changes.php,err.cpp,\app\Template\task\changes.php,\Ghidra\Features\PDB\src\pdb\cpp\err.cpp,9d43fb3e19ac004f3873770dd9bbbfde,46841a859e8c35503858ce04519ad0e3,5729127648822069494,5729127442933135574,7,N,75,48,14
+dom.js,OptionDialogBuilder.java,\assets\js\core\dom.js,\Ghidra\Framework\Docking\src\main\java\docking\widgets\OptionDialogBuilder.java,54c3f42675b481e378fde97b2aa5710c,c7c4023841ce980ad35211a12de57991,2519032038550734059,2355776549978309739,7,N,161,85,25
+JsonEncodingValidator.php,LookupSwitchHex.java,\libs\jsonrpc\src\JsonRPC\Validator\JsonEncodingValidator.php,\Ghidra\Processors\JVM\resources\LookupSwitchHex.java,eed9775d43155ee449543409642197bd,377274e12df35eadec91bc71d4492bb1,6887115488296022103,6882048947539982551,8,N,33,75,11
+JsonEncodingValidator.php,MDString.java,\libs\jsonrpc\src\JsonRPC\Validator\JsonEncodingValidator.php,\Ghidra\Features\MicrosoftDmang\src\main\java\mdemangler\MDString.java,eed9775d43155ee449543409642197bd,7f513b593f4bb728cc87d01a9f6d7fee,6887115488296022103,6882611897493469395,7,N,33,230,11

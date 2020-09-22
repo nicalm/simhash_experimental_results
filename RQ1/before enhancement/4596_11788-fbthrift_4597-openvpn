@@ -1,0 +1,14 @@
+11788-fbthrift,4597-openvpn
+thrift_config.h,compat-daemon.c,\thrift\lib\cpp\thrift_config.h,\src\compat\compat-daemon.c,27c650bbff0590e9f2fafe163b055489,0d136dfb81c34352c7392199d98ff301,-8023445049755510628,-8023445050292265828,4,N,220,70,10
+thrift_config.h,compat.h,\thrift\lib\cpp\thrift_config.h,\src\compat\compat.h,27c650bbff0590e9f2fafe163b055489,3812851a47b57d8107c0e85fd4d4141d,-8023445049755510628,-8023445049755510628,0,N,220,33,11
+thrift_config.h,init.c,\thrift\lib\cpp\thrift_config.h,\src\openvpn\init.c,27c650bbff0590e9f2fafe163b055489,4608ded2c280400927a1252688d420dc,-8023445049755510628,-9104871910815770212,6,N,220,3572,75
+thrift_config.h,memdbg.h,\thrift\lib\cpp\thrift_config.h,\src\openvpn\memdbg.h,27c650bbff0590e9f2fafe163b055489,8885dc47740888fa09f9b0f336970660,-8023445049755510628,1199926987095035102,7,N,220,17,4
+thrift_config.h,openssl_compat.h,\thrift\lib\cpp\thrift_config.h,\src\openvpn\openssl_compat.h,27c650bbff0590e9f2fafe163b055489,15330dbd054480181c41c71ba1a19956,-8023445049755510628,-9174114754550706020,5,N,220,487,50
+thrift_config.h,openvpn.h,\thrift\lib\cpp\thrift_config.h,\src\openvpn\openvpn.h,27c650bbff0590e9f2fafe163b055489,c74ae8265368564c13112e3caf4b16a8,-8023445049755510628,-8023447249308292972,7,N,220,279,20
+thrift_config.h,platform.h,\thrift\lib\cpp\thrift_config.h,\src\openvpn\platform.h,27c650bbff0590e9f2fafe163b055489,55f59e2403dda5dc249b6645448cdffc,-8023445049755510628,-8816219322197813092,6,N,220,90,12
+thrift_config.h,syshead.h,\thrift\lib\cpp\thrift_config.h,\src\openvpn\syshead.h,27c650bbff0590e9f2fafe163b055489,92a98cf72c56d6b9077b4f73e35f791f,-8023445049755510628,-8023445049755510628,0,N,220,414,75
+thrift_config.h,basic.h,\thrift\lib\cpp\thrift_config.h,\src\tapctl\basic.h,27c650bbff0590e9f2fafe163b055489,188d18cf376b3d3b9399e86ca0e91a73,-8023445049755510628,-8023480234119210852,2,N,220,31,9
+AsyncClientWorker2.cpp,log.c,\thrift\perf\cpp\AsyncClientWorker2.cpp,\sample\sample-plugins\log\log.c,3ebd76a0981e9c53ea752af30db30be5,c9cfd293d5cfab61fc694f047589083f,5738134641844205783,5729127446955735799,7,N,387,130,28
+macros.h,compat.h,\thrift\lib\rb\ext\macros.h,\src\compat\compat.h,30f9d8d804dd66b382db54f2861518aa,3812851a47b57d8107c0e85fd4d4141d,-8032469861362509668,-8023445049755510628,7,N,18,33,4
+macros.h,syshead.h,\thrift\lib\rb\ext\macros.h,\src\openvpn\syshead.h,30f9d8d804dd66b382db54f2861518aa,92a98cf72c56d6b9077b4f73e35f791f,-8032469861362509668,-8023445049755510628,7,N,18,414,4
+TProtocolUtil.java,log.c,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\sample\sample-plugins\log\log.c,ca4aaa19ebede5914601c81d8f142ced,c9cfd293d5cfab61fc694f047589083f,5729127434368628951,5729127446955735799,8,N,125,130,41

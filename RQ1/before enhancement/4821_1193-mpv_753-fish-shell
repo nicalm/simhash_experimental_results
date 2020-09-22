@@ -1,0 +1,8 @@
+1193-mpv,753-fish-shell
+compiler.h,fallback.h,\osdep\compiler.h,\src\fallback.h,b67ad9eeefd9950bd47205a4fac19e42,7d4055698e8c91d9fd4be969475abb0c,-7735225136714557420,-8023446699022952292,7,N,20,118,6
+io.h,sljitConfig.h,\osdep\io.h,\pcre2-10.32\src\sljit\sljitConfig.h,1e5b614f4ca8f110251d3d969bd9fa84,4670eeabf25cc1becfd2eb7244181998,-5573522037410505572,-8023445049755445096,8,N,147,33,11
+stream_dvdnav.c,highlight.cpp,\stream\stream_dvdnav.c,\src\highlight.cpp,f72cbb2ffa3a3fbdd3531c8498b0a46a,5fe15b68b951a0169550b5cd01343514,1119693774075239127,5738134092431014111,8,N,595,1102,109
+stream_dvdnav.c,pcre2_auto_possess.c,\stream\stream_dvdnav.c,\pcre2-10.32\src\pcre2_auto_possess.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,fc744ff997c149fdcc6a3f0dbe123d79,1119693774075239127,1117441424505747670,5,N,595,842,120
+stream_dvdnav.c,pcre2_dfa_match.c,\stream\stream_dvdnav.c,\pcre2-10.32\src\pcre2_dfa_match.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,99abc0dd1121c97cbed498ec531c50ba,1119693774075239127,5734756942467348695,7,N,595,2764,127
+stream_dvdnav.c,pcre2_pattern_info.c,\stream\stream_dvdnav.c,\pcre2-10.32\src\pcre2_pattern_info.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,784ee0b7bc5371a257fff21e0cf23c71,1119693774075239127,5440897066781423829,7,N,595,294,55
+stream_dvdnav.c,pcre2_printint.c,\stream\stream_dvdnav.c,\pcre2-10.32\src\pcre2_printint.c,f72cbb2ffa3a3fbdd3531c8498b0a46a,fb3a5560ac372aab5292c508b84badd4,1119693774075239127,1119416149536192983,8,N,595,569,108

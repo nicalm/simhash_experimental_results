@@ -1,0 +1,3 @@
+1463-highcharts,332-netty
+mootools-1.2.5-core-nc.js,MqttMessageBuilders.java,\vendor\mootools-1.2.5-core-nc.js,\codec-mqtt\src\main\java\io\netty\handler\codec\mqtt\MqttMessageBuilders.java,d4b7283f2ab33ff757ec3c992da22431,163bcc3ae4873f755420c52a39ad203b,1654342007426323691,2519032036403385579,5,N,3100,227,76
+mootools-1.2.5-core-nc.js,CorsConfigBuilder.java,\vendor\mootools-1.2.5-core-nc.js,\codec-http\src\main\java\io\netty\handler\codec\http\cors\CorsConfigBuilder.java,d4b7283f2ab33ff757ec3c992da22431,bf18420baf63d12a66ba680ac3cc86bb,1654342007426323691,2501018736869446891,8,N,3100,137,48

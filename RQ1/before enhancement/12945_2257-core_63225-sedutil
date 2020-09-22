@@ -1,0 +1,3 @@
+2257-core,63225-sedutil
+appconfig.php,sedutil.cpp,\core\ajax\appconfig.php,\Common\sedutil.cpp,031cdb064a8d37cd4b40af5d608c8543,d52e516d82c7919c579e6283c901df60,5152665582536538583,5693098645914171606,8,N,37,243,10
+MDB2SchemaReader.php,sedutil.cpp,\lib\private\DB\MDB2SchemaReader.php,\Common\sedutil.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,d52e516d82c7919c579e6283c901df60,5731379242747078871,5693098645914171606,5,N,238,243,39

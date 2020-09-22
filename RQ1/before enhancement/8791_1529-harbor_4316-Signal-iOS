@@ -1,0 +1,7 @@
+1529-harbor,4316-Signal-iOS
+label.go,CallService.swift,\src\core\api\label.go,\Signal\src\call\CallService.swift,a2a1cfc42c15fbf7012931869f820593,cee19a9e96778469d0879ef66551accd,-1213409347940420473,-4667881367678258041,8,N,257,1377,94
+notification_policy.go,CallService.swift,\src\core\api\notification_policy.go,\Signal\src\call\CallService.swift,2b477541b4b5f9521e82a34efc53bb6e,cee19a9e96778469d0879ef66551accd,-1213338910476766073,-4667881367678258041,8,N,304,1377,116
+replication_policy.go,CallService.swift,\src\core\api\replication_policy.go,\Signal\src\call\CallService.swift,6a3cbf611905fa3c601c58defcfb0faa,cee19a9e96778469d0879ef66551accd,-1213409347806202745,-4667881367678258041,7,N,216,1377,79
+usergroup.go,CallService.swift,\src\core\api\usergroup.go,\Signal\src\call\CallService.swift,131b639abb881e2418ff4dbbfcec58b3,cee19a9e96778469d0879ef66551accd,-1208835379568872253,-4667881367678258041,8,N,164,1377,56
+zsyscall_aix_ppc64_gc.go,CallService.swift,\src\vendor\golang.org\x\sys\unix\zsyscall_aix_ppc64_gc.go,\Signal\src\call\CallService.swift,18c24719c844527e7ffba2e95f47668a,cee19a9e96778469d0879ef66551accd,-1213409347940420473,-4667881367678258041,8,N,579,1377,210
+conversion.go,ConversationViewController+OWS.swift,\src\vendor\k8s.io\apimachinery\pkg\apis\meta\v1\conversion.go,\Signal\src\ViewControllers\ConversationView\ConversationViewController+OWS.swift,9e7772ac691186b396585c1e70969007,b3c32c3c3c00c6415a68a1044de75fe4,2242092197319341866,2257854796019332898,6,N,238,75,28

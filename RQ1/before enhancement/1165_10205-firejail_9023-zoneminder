@@ -1,0 +1,15 @@
+10205-firejail,9023-zoneminder
+caps.c,zm_ffmpeg.h,\src\firejail\caps.c,\src\zm_ffmpeg.h,0b9d72adabe6b183bf9a7948ffeb2934,7e2fcd3ba00999285d6aaf2ef78cc14d,-5717602040541816676,-8023445049755510628,1,N,334,281,42
+caps.c,zm_signal.h,\src\firejail\caps.c,\src\zm_signal.h,0b9d72adabe6b183bf9a7948ffeb2934,95bf5749d181b4fa528e43c6e262e7a0,-5717602040541816676,-8057222049236199396,8,N,334,27,5
+caps.c,ow-crypt.h,\src\firejail\caps.c,\src\libbcrypt\include\bcrypt\ow-crypt.h,0b9d72adabe6b183bf9a7948ffeb2934,0cee51bfed48b1ba46a8ed164a5e5017,-5717602040541816676,-5429384857455895396,5,N,334,23,4
+sbox.c,zm_ffmpeg.h,\src\firejail\sbox.c,\src\zm_ffmpeg.h,8a6f9f9ce42bcca368916f82519b79d6,7e2fcd3ba00999285d6aaf2ef78cc14d,-8024007999708931940,-8023445049755510628,1,N,190,281,25
+sbox.c,zm_signal.h,\src\firejail\sbox.c,\src\zm_signal.h,8a6f9f9ce42bcca368916f82519b79d6,95bf5749d181b4fa528e43c6e262e7a0,-8024007999708931940,-8057222049236199396,8,N,190,27,4
+sbox.c,ow-crypt.h,\src\firejail\sbox.c,\src\libbcrypt\include\bcrypt\ow-crypt.h,8a6f9f9ce42bcca368916f82519b79d6,0cee51bfed48b1ba46a8ed164a5e5017,-8024007999708931940,-5429384857455895396,7,N,190,23,4
+print.c,control_functions.php,\src\fsec-print\print.c,\web\includes\control_functions.php,a532e1235b05a01261ed4f8b4b722622,c1201120aa45568b6a8a04c25886293a,-8096923412020553513,-3494240195874867113,7,N,257,715,39
+syscall.c,zm_ffmpeg.h,\src\fseccomp\syscall.c,\src\zm_ffmpeg.h,bf0ef0cc7976e59f6ac60c1a011c8188,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,1564,281,40
+syscall.c,zm_signal.h,\src\fseccomp\syscall.c,\src\zm_signal.h,bf0ef0cc7976e59f6ac60c1a011c8188,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,1564,27,4
+syscall.c,ow-crypt.h,\src\fseccomp\syscall.c,\src\libbcrypt\include\bcrypt\ow-crypt.h,bf0ef0cc7976e59f6ac60c1a011c8188,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,1564,23,4
+syscall.h,zm_ffmpeg.h,\src\include\syscall.h,\src\zm_ffmpeg.h,e5d70ee64e8335903c40165f92bcb3a5,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,5186,281,37
+syscall.h,zm_signal.h,\src\include\syscall.h,\src\zm_signal.h,e5d70ee64e8335903c40165f92bcb3a5,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,5186,27,4
+syscall.h,ow-crypt.h,\src\include\syscall.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,e5d70ee64e8335903c40165f92bcb3a5,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,5186,23,4
+libtrace.c,zm_ffmpeg.h,\src\libtrace\libtrace.c,\src\zm_ffmpeg.h,e75ec9f98f403929994ba2e9b45b7b14,7e2fcd3ba00999285d6aaf2ef78cc14d,-7663159407438177892,-8023445049755510628,7,N,558,281,40

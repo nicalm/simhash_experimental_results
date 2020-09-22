@@ -1,0 +1,15 @@
+10187-viabtc_exchange_server,12873-mediawiki
+http_parser.c,FormatJson.php,\utils\http_parser.c,\includes\json\FormatJson.php,d09d117e8f6d43dee97217c802830c00,2791e3b22656d78e316abf94db96bae5,5728845967956424919,5728881212390947031,7,N,1850,140,33
+http_parser.c,jsminplus.php,\utils\http_parser.c,\includes\libs\jsminplus.php,d09d117e8f6d43dee97217c802830c00,0b1af14de85a9e3616290bef586fd92f,5728845967956424919,5736714075312240855,7,N,1850,1707,294
+http_parser.c,LogFormatter.php,\utils\http_parser.c,\includes\logging\LogFormatter.php,d09d117e8f6d43dee97217c802830c00,1a5b87b8ddd192cf448a8d7e785d9d75,5728845967956424919,5729127442933127383,2,N,1850,551,152
+http_parser.c,FormatMetadata.php,\utils\http_parser.c,\includes\media\FormatMetadata.php,d09d117e8f6d43dee97217c802830c00,d4c424b998a37738addfaa8660b2d286,5728845967956424919,5729109850747091159,2,N,1850,1326,360
+http_parser.c,IPTC.php,\utils\http_parser.c,\includes\media\IPTC.php,d09d117e8f6d43dee97217c802830c00,5acd3160fef09ca8547c657db582b971,5728845967956424919,5729127442933135575,1,N,1850,377,118
+http_parser.c,ExtensionDependencyError.php,\utils\http_parser.c,\includes\registration\ExtensionDependencyError.php,d09d117e8f6d43dee97217c802830c00,f7bb90c1ca9716b4c4e940b5871755aa,5728845967956424919,5729126334831573079,4,N,1850,44,12
+http_parser.c,LanguageGa.php,\utils\http_parser.c,\languages\classes\LanguageGa.php,d09d117e8f6d43dee97217c802830c00,04d0499b9cc1cedee645951038d7a892,5728845967956424919,5152671088609114359,5,N,1850,36,12
+http_parser.c,LanguageOs.php,\utils\http_parser.c,\languages\classes\LanguageOs.php,d09d117e8f6d43dee97217c802830c00,1d4803307d9f6c2785f6821207e47529,5728845967956424919,5729672800631306455,5,N,1850,55,16
+http_parser.c,bench_if_switch.php,\utils\http_parser.c,\maintenance\benchmarks\bench_if_switch.php,d09d117e8f6d43dee97217c802830c00,ebc9d6c5664eaffdc591b48a194dced3,5728845967956424919,5729127442933135575,1,N,1850,73,27
+http_parser.c,DiscordianDateTimeFormatter.js,\utils\http_parser.c,\resources\src\mediawiki.widgets.datetime\DiscordianDateTimeFormatter.js,d09d117e8f6d43dee97217c802830c00,e5fb70604ffca02318e9ccef1c63882a,5728845967956424919,5729107653737097943,7,N,1850,445,84
+http_parser.c,fi.js,\utils\http_parser.c,\resources\src\mediawiki.language\languages\fi.js,d09d117e8f6d43dee97217c802830c00,3c85a98c46d022c8ff97288c16dfe428,5728845967956424919,5660448098369583319,7,N,1850,36,12
+http_parser.c,ga.js,\utils\http_parser.c,\resources\src\mediawiki.language\languages\ga.js,d09d117e8f6d43dee97217c802830c00,a78a0511c47b30e7032d8e10647da8b7,5728845967956424919,5152389613697534167,6,N,1850,33,11
+http_parser.c,os.js,\utils\http_parser.c,\resources\src\mediawiki.language\languages\os.js,d09d117e8f6d43dee97217c802830c00,dc5fe4fb59cfbd5cc2b4418cf6924aa3,5728845967956424919,6882031355083405463,6,N,1850,50,14
+http_parser.c,ga.js,\utils\http_parser.c,\resources\lib\jquery.i18n\src\languages\ga.js,d09d117e8f6d43dee97217c802830c00,7427a3d627903337481ce4a93b84ae3c,5728845967956424919,5753615765906950359,5,N,1850,33,10

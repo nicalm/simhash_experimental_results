@@ -1,0 +1,8 @@
+7408-DeepVideoAnalytics,754-folly
+bbox.c,CPortability.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\folly\CPortability.h,b42f28bb593ba51126ab3c36f2280e44,2071cc58e111b1fb40fa47a9161f5356,-7735003018152322916,-8023445049756493156,8,N,5912,137,48
+bbox.c,Windows.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\folly\portability\Windows.h,b42f28bb593ba51126ab3c36f2280e44,8d255d6eb746df0dd20db480cd3643e5,-7735003018152322916,-8023516518011316068,5,N,5912,48,13
+cython_nms.c,CPortability.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\folly\CPortability.h,340c61e73ba74d7820ff458fae32d716,2071cc58e111b1fb40fa47a9161f5356,-7735003018152322916,-8023445049756493156,8,N,6623,137,48
+cython_nms.c,Windows.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\folly\portability\Windows.h,340c61e73ba74d7820ff458fae32d716,8d255d6eb746df0dd20db480cd3643e5,-7735003018152322916,-8023516518011316068,5,N,6623,48,13
+gpu_nms.c,CPortability.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\folly\CPortability.h,c5f744cc55310f8443ffae08bc289c17,2071cc58e111b1fb40fa47a9161f5356,-7735003018152322916,-8023445049756493156,8,N,5655,137,48
+gpu_nms.c,Windows.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\folly\portability\Windows.h,c5f744cc55310f8443ffae08bc289c17,8d255d6eb746df0dd20db480cd3643e5,-7735003018152322916,-8023516518011316068,5,N,5655,48,13
+gpu_nms.cpp,Windows.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,\folly\portability\Windows.h,2472408016d358310deb015143185fa8,8d255d6eb746df0dd20db480cd3643e5,-7590887830068078436,-8023516518011316068,7,N,4948,48,13

@@ -1,0 +1,12 @@
+4001-hello.js,464-gentelella
+index.js,index.js,\assets\expect\index.js,\vendors\parsleyjs\bower_components\expect.js\index.js,649f3db182fea577b792030cd2a17c2a,649f3db182fea577b792030cd2a17c2a,4016410071862822591,4016410071862822591,0,Y,806,806,806
+mocha.js,mocha.js,\assets\mocha\mocha.js,\vendors\mocha\mocha.js,1317c19efb4cff0139f2220d802c88c6,392e90abe56c355dcc9c1ff76de8f9f9,8213912923599757035,7061061786663344875,4,N,3831,3609,3504
+require.js,require.js,\assets\requirejs\require.js,\vendors\requirejs\require.js,c8f9ffe4b3fde3371eac3f3bea01bff6,282f35834595d79746b148b1aef0a56d,4572740489910534399,4572749281708859647,4,N,1564,1619,1550
+require.js,Chart.bundle.js,\assets\requirejs\require.js,\vendors\Chart.js\dist\Chart.bundle.js,c8f9ffe4b3fde3371eac3f3bea01bff6,cfc5e4a7c6088708fef9f9875b492230,4572740489910534399,2302930534028395198,8,N,1564,10705,350
+require.js,date-sq-AL.js,\assets\requirejs\require.js,\vendors\DateJS\build\date-sq-AL.js,c8f9ffe4b3fde3371eac3f3bea01bff6,019780191d48bf6411606fb99f80f96c,4572740489910534399,2302785540630366455,8,N,1564,3204,308
+sinon.js,sinon.js,\assets\sinonjs\sinon.js,\vendors\parsleyjs\bower_components\sinonjs\sinon.js,f65d8bf78db62d91dfbd2e2aefe28849,f302f47b8ae8522934711ea58e95c9b8,1565331886554694058,1565334153752166826,4,N,3714,3214,2849
+jquery.js,jquery-2.1.0.js,\assets\expect\support\jquery.js,\vendors\select2\vendor\jquery-2.1.0.js,2d87ba23383f782ee174b1e96d92f56a,453e197f463fe25ee985390798d5b89a,2287238992077113598,2286112319076123390,8,N,6390,6138,3097
+jquery.js,jquery-1.7.2.js,\assets\expect\support\jquery.js,\vendors\select2\tests\vendor\jquery-1.7.2.js,2d87ba23383f782ee174b1e96d92f56a,48ded5591a87f928a060b93215fb53ca,2287238992077113598,2287168623332919551,3,N,6390,6491,6171
+jquery.js,jquery.js,\assets\expect\support\jquery.js,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,2d87ba23383f782ee174b1e96d92f56a,2d87ba23383f782ee174b1e96d92f56a,2287238992077113598,2287238992077113598,0,Y,6390,6390,6390
+jquery.js,jquery.js,\assets\expect\support\jquery.js,\vendors\parsleyjs\bower_components\jquery\dist\jquery.js,2d87ba23383f782ee174b1e96d92f56a,cdac12a7fb68d67386ca31654c9a68f9,2287238992077113598,2286112319076122876,8,N,6390,6188,3099
+loaderRegistry.js,jquery.js,\assets\knockout\src\components\loaderRegistry.js,\vendors\parsleyjs\bower_components\expect.js\support\jquery.js,cf4180c06dac80481e82cbc645873707,2d87ba23383f782ee174b1e96d92f56a,2304971915047848630,2287238992077113598,8,N,96,6390,33

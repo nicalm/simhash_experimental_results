@@ -1,0 +1,5 @@
+6444-yara,67679-k8s-multicluster-ingress
+grammar.c,handlebars-1.0.0.js,\libyara\grammar.c,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,306ae4ed5d0a265782bc5a130c6f342f,74916c394efe99b4c752280dde5428fa,5730252312047818967,5729131840979646718,8,N,3301,1719,272
+blob.h,tables.go,\tests\blob.h,\vendor\golang.org\x\text\language\tables.go,f91c7b30705bb613a82e2a5d6d497689,702671c24832a14ccdb222345ebb967d,6641042363923268344,6642168280875761784,5,N,2709,3405,96
+blob.h,tables.go,\tests\blob.h,\vendor\golang.org\x\text\feature\plural\tables.go,f91c7b30705bb613a82e2a5d6d497689,beaeab9c465a7adb635621d3eaa1c60b,6641042363923268344,-2564332866608069896,3,N,2709,490,50
+pe_utils.c,handlebars-1.0.0.js,\libyara\modules\pe\pe_utils.c,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,85b3b0e9639ebe8f194fd360aa44aa10,74916c394efe99b4c752280dde5428fa,5729127442933135575,5729131840979646718,4,N,1795,1719,117

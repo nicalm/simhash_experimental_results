@@ -1,0 +1,5 @@
+1652-joplin,506-ghidra
+reducer.js,LookupSwitchHex.java,\ReactNativeClient\lib\reducer.js,\Ghidra\Processors\JVM\resources\LookupSwitchHex.java,cfb01146b60f71f219c7ac6dd67d6dc3,377274e12df35eadec91bc71d4492bb1,5729128095763970230,6882048947539982551,8,N,610,75,25
+reducer.js,err.cpp,\ReactNativeClient\lib\reducer.js,\Ghidra\Features\PDB\src\pdb\cpp\err.cpp,cfb01146b60f71f219c7ac6dd67d6dc3,46841a859e8c35503858ce04519ad0e3,5729128095763970230,5729127442933135574,6,N,610,48,16
+reducer.js,MDDataTypeParser.java,\ReactNativeClient\lib\reducer.js,\Ghidra\Features\MicrosoftDmang\src\main\java\mdemangler\datatype\MDDataTypeParser.java,cfb01146b60f71f219c7ac6dd67d6dc3,cb54f1dba1356f93c69309c5519443d4,5729128095763970230,5729127442933135511,6,N,610,276,65
+Readability-readerable.js,SearchOptions.java,\Clipper\joplin-webclipper\content_scripts\Readability-readerable.js,\Ghidra\Features\Base\src\main\java\ghidra\app\plugin\core\searchtext\SearchOptions.java,f8488a27abf6b5b5af8b63004c883d88,b621e2872f058c793a66666c3b47a7b2,1678764723973931918,1431647424047104942,8,N,46,160,15

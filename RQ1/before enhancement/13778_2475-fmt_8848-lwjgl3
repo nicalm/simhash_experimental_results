@@ -1,0 +1,7 @@
+2475-fmt,8848-lwjgl3
+chrono_duration.cpp,CGLLog.cpp,\test\fuzzing\chrono_duration.cpp,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,72440fd90a0d01848031589bb2a841a9,8ed8843634d29dc9d42c00e6488ff838,5729127447228102871,6882048947539982551,2,N,129,80,22
+chrono_duration.cpp,HelloTinyFD.java,\test\fuzzing\chrono_duration.cpp,\modules\samples\src\test\java\org\lwjgl\demo\util\tinyfd\HelloTinyFD.java,72440fd90a0d01848031589bb2a841a9,7e4d2c24f0f9282302d7bc1ac92e46d3,5729127447228102871,5589480944986274003,7,N,129,113,18
+named_arg.cpp,CGLLog.cpp,\test\fuzzing\named_arg.cpp,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,00aa34b86ac78c67b4d7e85b5321fbaf,8ed8843634d29dc9d42c00e6488ff838,2270327736013994197,6882048947539982551,8,N,108,80,17
+one_arg.cpp,CGLLog.cpp,\test\fuzzing\one_arg.cpp,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,883cdbba8da3fa541c4927e1ea02ff22,8ed8843634d29dc9d42c00e6488ff838,2270360721499404501,6882048947539982551,4,N,117,80,20
+sprintf.cpp,CGLLog.cpp,\test\fuzzing\sprintf.cpp,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,c2ddd179a4100129a6f72f09df658863,8ed8843634d29dc9d42c00e6488ff838,1117439216892295391,6882048947539982551,7,N,101,80,18
+two_args.cpp,CGLLog.cpp,\test\fuzzing\two_args.cpp,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,c159700c6123fdba738f71e168dab048,8ed8843634d29dc9d42c00e6488ff838,1117439216892295391,6882048947539982551,7,N,97,80,17

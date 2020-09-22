@@ -1,0 +1,6 @@
+3637-qutebrowser,6364-Tautulli
+downloads.py,net.py,\qutebrowser\browser\downloads.py,\lib\ipwhois\net.py,69046c7129075d03095cbe9294e614bc,c2cc25dd862ade49d5ebd29d36fa7a68,8374198832159129954,9024686197667430754,8,N,721,478,38
+crashsignal.py,_utils.py,\qutebrowser\misc\crashsignal.py,\lib\tqdm\_utils.py,8810d3f4271ad324c495a42fd358dfa5,8f034a29cfa3f2fe9e0bee3b07f48413,6719126312564064579,5563740802533590371,8,N,242,167,19
+utils.py,helpers.py,\qutebrowser\utils\utils.py,\plexpy\helpers.py,95e3b7d013d5c1ab823100df70a67f33,3f8f077fb1fc0a3c642d2f3c8a348550,7285135863650845038,8438093102115979631,7,N,406,958,40
+utils.py,rrule.py,\qutebrowser\utils\utils.py,\lib\dateutil\rrule.py,95e3b7d013d5c1ab823100df70a67f33,ae14d13c1254723cddb30fd1ca6bae71,7285135863650845038,8005751385906610542,7,N,406,1022,33
+utils.py,dom.py,\qutebrowser\utils\utils.py,\lib\html5lib\treebuilders\dom.py,95e3b7d013d5c1ab823100df70a67f33,a64f3d4e1e8047b4888452b49385b2c0,7285135863650845038,7430381349674553706,8,N,406,179,12

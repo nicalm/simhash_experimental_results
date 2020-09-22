@@ -1,0 +1,11 @@
+2116-libgit2,5991-cJSON
+cc-compat.h,unity_internals.h,\src\cc-compat.h,\tests\unity\src\unity_internals.h,ff1b760102b82cfad9d5a99c4b9ff694,c48f2ef9d57759a1fe49b445259832f1,-8888182357834278244,-8023445049755510628,8,N,74,652,23
+posix.h,unity_internals.h,\src\posix.h,\tests\unity\src\unity_internals.h,5939a6412855eb77bc24c53a476d1930,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,122,652,29
+thread-utils.c,unity_internals.h,\src\thread-utils.c,\tests\unity\src\unity_internals.h,8713652419d08023d42160956cf300e0,c48f2ef9d57759a1fe49b445259832f1,-8020067350305449316,-8023445049755510628,6,N,38,652,8
+compat.h,unity_internals.h,\deps\ntlmclient\compat.h,\tests\unity\src\unity_internals.h,5b06983268d133b177cf5b90fa9da075,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510626,-8023445049755510628,1,N,21,652,7
+gzguts.h,unity_internals.h,\deps\zlib\gzguts.h,\tests\unity\src\unity_internals.h,d71e3535b6b87307b4104a15791be071,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,157,652,43
+zconf.h,unity_internals.h,\deps\zlib\zconf.h,\tests\unity\src\unity_internals.h,ccd97cbc26c511a318aa46f8e6df51a6,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,427,652,95
+zutil.c,unity_internals.h,\deps\zlib\zutil.c,\tests\unity\src\unity_internals.h,4a4179f332d9d5e26199eb2b75c7b632,c48f2ef9d57759a1fe49b445259832f1,-8023445049754986340,-8023445049755510628,1,N,245,652,37
+zutil.h,unity_internals.h,\deps\zlib\zutil.h,\tests\unity\src\unity_internals.h,e7909d2ab25406cac90461dc9c664a01,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,196,652,54
+stdint.h,unity_internals.h,\include\git2\stdint.h,\tests\unity\src\unity_internals.h,0a9faad66f590c9572581753d453013e,c48f2ef9d57759a1fe49b445259832f1,-8018800163019237220,-8023445049755510628,6,N,152,652,24
+sha1.c,unity_internals.h,\src\hash\sha1\sha1dc\sha1.c,\tests\unity\src\unity_internals.h,6347de19da23b6072273f8c2426ff3b6,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,1597,652,86

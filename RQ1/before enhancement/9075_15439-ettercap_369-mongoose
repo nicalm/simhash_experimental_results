@@ -1,0 +1,6 @@
+15439-ettercap,369-mongoose
+ec_filter.c,ReadPreference.js,\src\ec_filter.c,\lib\drivers\node-mongodb-native\ReadPreference.js,93d0ed8de4c0c08c76b8fb5f7787aef5,72ad104b2d3e1cc34b02578eb97d2c64,5729127442664700119,5440897058057271519,5,N,799,30,8
+ec_parser.c,ReadPreference.js,\src\ec_parser.c,\lib\drivers\node-mongodb-native\ReadPreference.js,a95da67ae2615afb320cafe15fbcbfd2,72ad104b2d3e1cc34b02578eb97d2c64,5729127571782408407,5440897058057271519,6,N,364,30,12
+ef_parser.c,ReadPreference.js,\utils\etterfilter\ef_parser.c,\lib\drivers\node-mongodb-native\ReadPreference.js,03bcdfd07ab2de95c037f8b4f9170294,72ad104b2d3e1cc34b02578eb97d2c64,5441460008174270678,5440897058057271519,6,N,74,30,9
+ef_test.c,ReadPreference.js,\utils\etterfilter\ef_test.c,\lib\drivers\node-mongodb-native\ReadPreference.js,fa7fc65cd5f440dd843abbe86d1716e4,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,181,30,8
+el_parser.c,ReadPreference.js,\utils\etterlog\el_parser.c,\lib\drivers\node-mongodb-native\ReadPreference.js,e965aa39918fe671682ccf0efa3de321,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,230,30,12

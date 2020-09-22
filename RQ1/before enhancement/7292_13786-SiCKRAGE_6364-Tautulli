@@ -1,0 +1,4 @@
+13786-SiCKRAGE,6364-Tautulli
+exceptions.py,exceptions.py,\sickrage\indexers\thetvdb\exceptions.py,\lib\jwt\exceptions.py,ffdad8b9b7a7434d09fccdb03722ab0d,d0847e435d570a4733ae168ba489349f,9073214039260300677,9217320431243134341,2,N,20,26,8
+exceptions.py,exceptions.py,\sickrage\indexers\thetvdb\exceptions.py,\lib\urllib3\exceptions.py,ffdad8b9b7a7434d09fccdb03722ab0d,25ddb32d1336bad7af00549477feb5f7,9073214039260300677,9217330326845687173,3,N,20,128,8
+__init__.py,tz.py,\sickrage\core\tv\episode\__init__.py,\lib\dateutil\tz.py,34f86383a85d03e3d35506f01ad31353,8102a84918e32d079ef761d8c5e58ef1,8581931212971704646,8582493613706838398,8,N,760,695,48

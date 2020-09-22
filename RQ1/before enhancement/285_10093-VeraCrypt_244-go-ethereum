@@ -1,0 +1,2 @@
+10093-VeraCrypt,244-go-ethereum
+config.h,util.h,\src\Crypto\config.h,\crypto\secp256k1\libsecp256k1\src\util.h,13423c5b6ad2a323d89bac89524e5ee9,e4488743bea4b1f93a9b070b80768f00,-9032250816530687332,-8744029373978060264,6,N,152,92,21

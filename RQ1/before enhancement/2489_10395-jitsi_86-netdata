@@ -1,0 +1,3 @@
+10395-jitsi,86-netdata
+lzma.h,libnetdata.h,\src\native\windows\setup\include\lzma.h,\libnetdata\libnetdata.h,4ce48c8f939c04739c2c0b8409ca662f,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,121,248,42
+lzma.h,clocks.h,\src\native\windows\setup\include\lzma.h,\libnetdata\clocks\clocks.h,4ce48c8f939c04739c2c0b8409ca662f,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,121,66,11

@@ -1,0 +1,10 @@
+242-php-src,2509-Twig
+com_variant.c,Token.php,\ext\com_dotnet\com_variant.c,\src\Token.php,8cc1d969830285306cb98cfbe0332de9,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,840,142,37
+domexception.c,Token.php,\ext\dom\domexception.c,\src\Token.php,99fc4111c0afb3d46504c745c26ac181,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,77,142,22
+php_http_parser.c,Token.php,\sapi\cli\php_http_parser.c,\src\Token.php,1cb8682c3e456c12782ef52aaf04c34e,be39a6f847016874e81d99d0ceda815a,5729127442933135575,5731379380185772127,5,N,1221,142,37
+phpdbg_cmd.c,Token.php,\sapi\phpdbg\phpdbg_cmd.c,\src\Token.php,c3faf149557bf1d65c779588fc2ea157,be39a6f847016874e81d99d0ceda815a,5728986709773301975,5731379380185772127,8,N,651,142,37
+phpdbg_utils.c,Token.php,\sapi\phpdbg\phpdbg_utils.c,\src\Token.php,855555ac1fbad364d93aea1332cad35b,be39a6f847016874e81d99d0ceda815a,1052139367339692254,5731379380185772127,8,N,699,142,37
+zend_cfg.c,Token.php,\ext\opcache\Optimizer\zend_cfg.c,\src\Token.php,89e0e9ab337ed4f313d3926f0af9a9a3,be39a6f847016874e81d99d0ceda815a,543214879553138903,5731379380185772127,8,N,754,142,36
+pcre2_auto_possess.c,Token.php,\ext\pcre\pcre2lib\pcre2_auto_possess.c,\src\Token.php,14eaa46e5fa5413a14462276ea25c3b4,be39a6f847016874e81d99d0ceda815a,1117441424505747670,5731379380185772127,7,N,846,142,37
+pcre2_dfa_match.c,Token.php,\ext\pcre\pcre2lib\pcre2_dfa_match.c,\src\Token.php,ea41d1c512748c30b8ca9a2f4690cf30,be39a6f847016874e81d99d0ceda815a,5734757011186825431,5731379380185772127,8,N,2792,142,37
+pcre2_pattern_info.c,Token.php,\ext\pcre\pcre2lib\pcre2_pattern_info.c,\src\Token.php,784ee0b7bc5371a257fff21e0cf23c71,be39a6f847016874e81d99d0ceda815a,5440897066781423829,5731379380185772127,7,N,294,142,29

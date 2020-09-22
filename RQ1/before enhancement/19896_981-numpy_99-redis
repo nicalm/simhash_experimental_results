@@ -1,0 +1,11 @@
+981-numpy,99-redis
+npy_common.h,config.h,\numpy\core\include\numpy\npy_common.h,\src\config.h,a173a9479ba36f92005f6b19e1c98ca6,fe9fefbbc117a00a89d3fa3a9678435a,-8023445066935379812,-8023445049755510628,1,N,951,149,48
+npy_common.h,fmacros.h,\numpy\core\include\numpy\npy_common.h,\src\fmacros.h,a173a9479ba36f92005f6b19e1c98ca6,296af6888322e71e6db95d8256ce3f2f,-8023445066935379812,-7374944295726034788,7,N,951,21,5
+npy_common.h,lzfP.h,\numpy\core\include\numpy\npy_common.h,\src\lzfP.h,a173a9479ba36f92005f6b19e1c98ca6,a8a99ddcfb21b5d90efea295fa1823be,-8023445066935379812,-7879329861679654756,2,N,951,77,26
+npy_common.h,sz.c,\numpy\core\include\numpy\npy_common.h,\deps\jemalloc\src\sz.c,a173a9479ba36f92005f6b19e1c98ca6,f9960e2b44b2f65f49d69f46a60a1ac3,-8023445066935379812,-8060636030565050340,7,N,951,103,14
+npy_common.h,llimits.h,\numpy\core\include\numpy\npy_common.h,\deps\lua\src\llimits.h,a173a9479ba36f92005f6b19e1c98ca6,0990f1abc3ce4ed347a3373a88d7961e,-8023445066935379812,-8023163574778799972,2,N,951,53,12
+npy_common.h,luaconf.h,\numpy\core\include\numpy\npy_common.h,\deps\lua\src\luaconf.h,a173a9479ba36f92005f6b19e1c98ca6,d1c2f2f3de3ece96d5376352c357d46d,-8023445066935379812,-8023488772522582372,5,N,951,252,47
+npy_common.h,jemalloc_internal_decls.h,\numpy\core\include\numpy\npy_common.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,a173a9479ba36f92005f6b19e1c98ca6,b10ad6415790176a35be7bbab7206d99,-8023445066935379812,-9176366554630793060,3,N,951,85,24
+npy_common.h,jemalloc_internal_macros.h,\numpy\core\include\numpy\npy_common.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_macros.h,a173a9479ba36f92005f6b19e1c98ca6,7b4313956cecbe72ad11692ae8e9a192,-8023445066935379812,-7311885121904124964,8,N,951,33,9
+npy_common.h,jemalloc_internal_types.h,\numpy\core\include\numpy\npy_common.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,a173a9479ba36f92005f6b19e1c98ca6,980de9a5931b9a6fb54cf696652d614a,-8023445066935379812,-8032452249077360612,4,N,951,129,28
+npy_common.h,stdint.h,\numpy\core\include\numpy\npy_common.h,\deps\jemalloc\include\msvc_compat\C99\stdint.h,a173a9479ba36f92005f6b19e1c98ca6,0a9faad66f590c9572581753d453013e,-8023445066935379812,-8018800163019237220,7,N,951,152,24

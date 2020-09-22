@@ -1,0 +1,5 @@
+2475-fmt,2909-mongoose
+gmock-gtest-all.cc,sqlite3.c,\test\gmock-gtest-all.cc,\examples\api_server\sqlite3.c,176a284cd66ba91697e35520bb8dadd6,950e9895b1b15b52148d3d3e01035c1c,1992841858525747416,2280790905721247932,8,N,6485,84126,1348
+chrono_duration.cpp,main.c,\test\fuzzing\chrono_duration.cpp,\examples\STM32F4_CC3100\main.c,72440fd90a0d01848031589bb2a841a9,15dc0f0244c4743afaf0aa2621563edc,5729127447228102871,784173954716186839,8,N,129,124,21
+chrono_duration.cpp,app.c,\test\fuzzing\chrono_duration.cpp,\examples\PIC32\mqtt_client\firmware\src\app.c,72440fd90a0d01848031589bb2a841a9,dc194e59405b227b41c71648ad3b810e,5729127447228102871,5675084247136270494,8,N,129,145,27
+chrono_duration.cpp,drv_usart_mapping.c,\test\fuzzing\chrono_duration.cpp,\examples\PIC32\mqtt_client\firmware\src\system_config\mx795_CC3100_e16\framework\driver\usart\src\drv_usart_mapping.c,72440fd90a0d01848031589bb2a841a9,6db6768bb9f8442b262aaa5571de2592,5729127447228102871,5677283270660241875,8,N,129,331,36

@@ -1,0 +1,6 @@
+6285-ImageMagick,63411-CMS
+msl.c,JSMinPlus.php,\coders\msl.c,\iu-resources\min\lib\JSMinPlus.php,564294d28d18518091363153d2c379e8,ada381ab05cfa7307d75a5e154803be9,5729127445078517975,5735588175405398231,8,N,7592,1637,409
+svg.c,JSMinPlus.php,\coders\svg.c,\iu-resources\min\lib\JSMinPlus.php,8e66b84fbb1ad58c3e7c4f6cb7f6aced,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,4691,1637,417
+display.c,JSMinPlus.php,\MagickCore\display.c,\iu-resources\min\lib\JSMinPlus.php,58fbcf695a02c8617f1d6816e49799cf,ada381ab05cfa7307d75a5e154803be9,5692817170937460951,5735588175405398231,7,N,12792,1637,434
+widget.c,JSMinPlus.php,\MagickCore\widget.c,\iu-resources\min\lib\JSMinPlus.php,f0e9f521bef825c5e27b767db6566d31,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,7134,1637,434
+mogrify.c,JSMinPlus.php,\MagickWand\mogrify.c,\iu-resources\min\lib\JSMinPlus.php,40ce227d8d84162c170d4ac9ed9ebc51,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,8560,1637,430

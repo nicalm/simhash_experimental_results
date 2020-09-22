@@ -1,0 +1,6 @@
+2496-proxygen,618-jq
+http_parser_cpp.cpp,parser.c,\proxygen\external\http_parser\http_parser_cpp.cpp,\src\parser.c,3f30cfe00a1b12b06b5ae798a28cbb38,a9e23cec6f740c2c216ed7e38fa76eaa,5728846517712238791,5729127442933135575,3,N,1837,3339,484
+HQUnidirectionalCodec.cpp,parser.c,\proxygen\lib\http\codec\HQUnidirectionalCodec.cpp,\src\parser.c,c63a9db88da250e117ed0176a07b164b,a9e23cec6f740c2c216ed7e38fa76eaa,6901435530118478039,5729127442933135575,8,N,40,3339,14
+HTTPEvent.cpp,parser.c,\proxygen\lib\http\session\HTTPEvent.cpp,\src\parser.c,f531f441ddbf402ce38379a73fb55e94,a9e23cec6f740c2c216ed7e38fa76eaa,5729127442933135573,5729127442933135575,1,N,33,3339,11
+HTTPTransactionEgressSM.cpp,parser.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\src\parser.c,efc78e843307fbae0fa015e7df0a883b,a9e23cec6f740c2c216ed7e38fa76eaa,5729127442933135575,5729127442933135575,0,N,102,3339,24
+HTTPTransactionIngressSM.cpp,parser.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\src\parser.c,da1ef343309f9dc24e096acd73b993d0,a9e23cec6f740c2c216ed7e38fa76eaa,5729127442933135575,5729127442933135575,0,N,110,3339,27

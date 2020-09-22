@@ -1,0 +1,8 @@
+2578-calibre,5372-twisted
+pmlconverter.py,imap4.py,\src\calibre\ebooks\pml\pmlconverter.py,\src\twisted\mail\imap4.py,349dc8b31280641280407a3d08df79de,5f9b8f231768a1528765e3f9a2d6ca11,8636255338570318190,8438098050182676846,5,N,597,3336,64
+pmlconverter.py,compat.py,\src\calibre\ebooks\pml\pmlconverter.py,\src\twisted\python\compat.py,349dc8b31280641280407a3d08df79de,83ee1f2e680856eb3aa7a032f0288d62,8636255338570318190,6294385730841870830,8,N,597,461,35
+pmlconverter.py,insults.py,\src\calibre\ebooks\pml\pmlconverter.py,\src\twisted\conch\insults\insults.py,349dc8b31280641280407a3d08df79de,3b7273cbbc10aa10dffe1b8ab9594ca9,8636255338570318190,8582216536524980586,7,N,597,704,46
+pmlconverter.py,jid.py,\src\calibre\ebooks\pml\pmlconverter.py,\src\twisted\words\protocols\jabber\jid.py,349dc8b31280641280407a3d08df79de,4da72a5b62a1bceaa459e938d616bd46,8636255338570318190,7429363201639055727,8,N,597,113,16
+lzxc.c,raiser.c,\src\calibre\utils\lzx\lzxc.c,\src\twisted\test\raiser.c,5148bebfcfad4cb4119b4e362bc0686f,03329048f02326320ae3e07a7faee64c,-8059473846773950244,-8023445050292381540,4,N,1033,3117,213
+msstdint.h,raiser.c,\src\calibre\utils\lzx\msstdint.h,\src\twisted\test\raiser.c,2dacb8ee9f393a22b1266f714d3efcd6,03329048f02326320ae3e07a7faee64c,-2830794129776780644,-8023445050292381540,8,N,138,3117,25
+view.py,postfix.py,\src\calibre\gui2\tweak_book\diff\view.py,\src\twisted\protocols\postfix.py,e1c104f6ddab9407e7b58ecf4e3f6153,bdecb9fbd0e8ab34b2aa8027a30860a4,8005769494025609579,7862763747541909870,8,N,920,84,12

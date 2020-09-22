@@ -1,0 +1,9 @@
+12310-weechat,18-electron
+wee-url.c,atom_main_delegate.cc,\src\core\wee-url.c,\shell\app\atom_main_delegate.cc,2182536a79bada4949d9bc0483b5da6d,6beb16be6a739f5598d443a18a5cbaa6,-8023445049755510628,-4997025687846725476,6,N,1111,249,48
+wee-url.c,atom_browser_main_parts.cc,\src\core\wee-url.c,\shell\browser\atom_browser_main_parts.cc,2182536a79bada4949d9bc0483b5da6d,4312360427f5f392ec4f692be2a7319a,-8023445049755510628,-8023445187194455912,3,N,1111,375,75
+wee-url.c,atom_browser_main_parts.h,\src\core\wee-url.c,\shell\browser\atom_browser_main_parts.h,2182536a79bada4949d9bc0483b5da6d,5cc5d4232705ae3cd44e445899ce62f2,-8023445049755510628,-6870242070301451108,8,N,1111,105,14
+wee-url.c,atom_paths.h,\src\core\wee-url.c,\shell\browser\atom_paths.h,2182536a79bada4949d9bc0483b5da6d,f62403bf230108c707f5e1273fdb321d,-8023445049755510628,-8023471436960835427,4,N,1111,33,9
+wee-url.c,atom_constants.h,\src\core\wee-url.c,\shell\common\atom_constants.h,2182536a79bada4949d9bc0483b5da6d,0413d754caa4e4d0755670d11164282c,-8023445049755510628,-9176368753659307892,7,N,1111,31,5
+wee-url.c,renderer_client_base.cc,\src\core\wee-url.c,\shell\renderer\renderer_client_base.cc,2182536a79bada4949d9bc0483b5da6d,d0d5771f27ecde6d75b1cf2555ca2003,-8023445049755510628,-8023449518660068932,7,N,1111,308,53
+wee-url.c,linux_syscall_support.h,\src\core\wee-url.c,\vendor\third_party\lss\linux_syscall_support.h,2182536a79bada4949d9bc0483b5da6d,d7c4a715ebced0be3633fcfd349a02ff,-8023445049755510628,-8023445049755510628,0,N,1111,3833,259
+gui-curses-term.c,linux_syscall_support.h,\src\gui\curses\gui-curses-term.c,\vendor\third_party\lss\linux_syscall_support.h,12c6b2e5780349c1e6b15f2a0f08c5ca,d7c4a715ebced0be3633fcfd349a02ff,-7447028277908808228,-8023445049755510628,7,N,23,3833,10

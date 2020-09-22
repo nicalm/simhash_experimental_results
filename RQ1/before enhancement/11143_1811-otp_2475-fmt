@@ -1,0 +1,17 @@
+1811-otp,2475-fmt
+erl_fixed_size_int_types.h,gmock-gtest-all.cc,\erts\include\erl_fixed_size_int_types.h,\test\gmock-gtest-all.cc,58beccacc8fc85e8256af2096db240a3,176a284cd66ba91697e35520bb8dadd6,-8023445049747122024,1992841858525747416,8,N,114,6485,26
+pcre_dfa_exec.c,chrono_duration.cpp,\erts\emulator\pcre\pcre_dfa_exec.c,\test\fuzzing\chrono_duration.cpp,2db56498fddc7d9d25cfd669f1109d3a,72440fd90a0d01848031589bb2a841a9,5734484332303137015,5729127447228102871,7,N,2718,129,38
+pcre_fullinfo.c,chrono_duration.cpp,\erts\emulator\pcre\pcre_fullinfo.c,\test\fuzzing\chrono_duration.cpp,8559f3936b629a079a534ec222fdca88,72440fd90a0d01848031589bb2a841a9,5729127442933135575,5729127447228102871,1,N,141,129,31
+pcre_fullinfo.c,one_arg.cpp,\erts\emulator\pcre\pcre_fullinfo.c,\test\fuzzing\one_arg.cpp,8559f3936b629a079a534ec222fdca88,883cdbba8da3fa541c4927e1ea02ff22,5729127442933135575,2270360721499404501,5,N,141,117,24
+pcre_fullinfo.c,sprintf.cpp,\erts\emulator\pcre\pcre_fullinfo.c,\test\fuzzing\sprintf.cpp,8559f3936b629a079a534ec222fdca88,c2ddd179a4100129a6f72f09df658863,5729127442933135575,1117439216892295391,6,N,141,101,19
+pcre_fullinfo.c,two_args.cpp,\erts\emulator\pcre\pcre_fullinfo.c,\test\fuzzing\two_args.cpp,8559f3936b629a079a534ec222fdca88,c159700c6123fdba738f71e168dab048,5729127442933135575,1117439216892295391,6,N,141,97,18
+pcre_study.c,chrono.h,\erts\emulator\pcre\pcre_study.c,\include\fmt\chrono.h,395da3c8b610486c7c9df7d938e0824d,d7a659fa610972243b9336eeca91196e,1045115551778388188,1009636508425820364,7,N,1158,877,124
+decode_skip.c,chrono_duration.cpp,\lib\erl_interface\src\decode\decode_skip.c,\test\fuzzing\chrono_duration.cpp,4861963671a74c12f57a146f0e21fa29,72440fd90a0d01848031589bb2a841a9,5729109850747091157,5729127447228102871,3,N,83,129,19
+decode_skip.c,one_arg.cpp,\lib\erl_interface\src\decode\decode_skip.c,\test\fuzzing\one_arg.cpp,4861963671a74c12f57a146f0e21fa29,883cdbba8da3fa541c4927e1ea02ff22,5729109850747091157,2270360721499404501,5,N,83,117,19
+decode_skip.c,sprintf.cpp,\lib\erl_interface\src\decode\decode_skip.c,\test\fuzzing\sprintf.cpp,4861963671a74c12f57a146f0e21fa29,c2ddd179a4100129a6f72f09df658863,5729109850747091157,1117439216892295391,8,N,83,101,17
+decode_skip.c,two_args.cpp,\lib\erl_interface\src\decode\decode_skip.c,\test\fuzzing\two_args.cpp,4861963671a74c12f57a146f0e21fa29,c159700c6123fdba738f71e168dab048,5729109850747091157,1117439216892295391,8,N,83,97,16
+get_type.c,chrono_duration.cpp,\lib\erl_interface\src\misc\get_type.c,\test\fuzzing\chrono_duration.cpp,b33faf3d8daf23b13040d0a34c615788,72440fd90a0d01848031589bb2a841a9,1117424382075517015,5729127447228102871,5,N,52,129,14
+get_type.c,one_arg.cpp,\lib\erl_interface\src\misc\get_type.c,\test\fuzzing\one_arg.cpp,b33faf3d8daf23b13040d0a34c615788,883cdbba8da3fa541c4927e1ea02ff22,1117424382075517015,2270360721499404501,7,N,52,117,14
+get_type.c,sprintf.cpp,\lib\erl_interface\src\misc\get_type.c,\test\fuzzing\sprintf.cpp,b33faf3d8daf23b13040d0a34c615788,c2ddd179a4100129a6f72f09df658863,1117424382075517015,1117439216892295391,8,N,52,101,13
+get_type.c,two_args.cpp,\lib\erl_interface\src\misc\get_type.c,\test\fuzzing\two_args.cpp,b33faf3d8daf23b13040d0a34c615788,c159700c6123fdba738f71e168dab048,1117424382075517015,1117439216892295391,8,N,52,97,13
+show_msg.c,chrono_duration.cpp,\lib\erl_interface\src\misc\show_msg.c,\test\fuzzing\chrono_duration.cpp,50f560f81cb3ae065a03819a50693e7f,72440fd90a0d01848031589bb2a841a9,6892189743316646103,5729127447228102871,8,N,393,129,41

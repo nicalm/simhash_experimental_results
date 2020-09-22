@@ -1,0 +1,9 @@
+2257-core,9197-domoticz
+appconfig.php,mainworker.cpp,\core\ajax\appconfig.php,\main\mainworker.cpp,031cdb064a8d37cd4b40af5d608c8543,f4c4b426730e0f8963be06c217764882,5152665582536538583,5729136239026157783,7,N,37,12106,11
+ListUsers.php,xpath_processor.cpp,\core\Command\User\ListUsers.php,\tinyxpath\xpath_processor.cpp,1a42f314460c521f313e04e1147caa85,46c992ef05a1f80abafff69ee425bf9c,4864434667387400403,5729127995910174935,8,N,117,1762,20
+MDB2SchemaReader.php,MySensorsBase.cpp,\lib\private\DB\MDB2SchemaReader.php,\hardware\MySensorsBase.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,6cae5e3a1ab9ee7d8342dca148477146,5731379242747078871,7481027697980250327,8,N,238,2449,71
+MDB2SchemaReader.php,mainworker.cpp,\lib\private\DB\MDB2SchemaReader.php,\main\mainworker.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,f4c4b426730e0f8963be06c217764882,5731379242747078871,5729136239026157783,4,N,238,12106,73
+MDB2SchemaReader.php,RFXNames.cpp,\lib\private\DB\MDB2SchemaReader.php,\main\RFXNames.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,05aacb23294caf3c3e603f6de8b04624,5731379242747078871,5693098645906077919,7,N,238,3550,68
+MDB2SchemaReader.php,xpath_processor.cpp,\lib\private\DB\MDB2SchemaReader.php,\tinyxpath\xpath_processor.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,46c992ef05a1f80abafff69ee425bf9c,5731379242747078871,5729127995910174935,6,N,238,1762,73
+MDB2SchemaReader.php,lcode.c,\lib\private\DB\MDB2SchemaReader.php,\lua\src\lcode.c,d8397eafd4a2b3b1ab041811b2ffbaec,dbdd1d8df3be51314eee06b760f82ca8,5731379242747078871,5157179361228011607,8,N,238,726,67
+MDB2SchemaReader.php,luac.c,\lib\private\DB\MDB2SchemaReader.php,\lua\src\luac.c,d8397eafd4a2b3b1ab041811b2ffbaec,99d8d7525e1c748615ef56686101dd51,5731379242747078871,5695192167593326807,6,N,238,390,61

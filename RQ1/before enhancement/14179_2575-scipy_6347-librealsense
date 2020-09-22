@@ -1,0 +1,9 @@
+2575-scipy,6347-librealsense
+msc_stdint.h,glext.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glad\glext.h,0a9faad66f590c9572581753d453013e,b47c3053eb61af62c08dd7e6f45631ce,-8018800163019237220,-8023445049755510628,6,N,152,12110,25
+msc_stdint.h,easylogging++.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\easyloggingpp\src\easylogging++.h,0a9faad66f590c9572581753d453013e,a5e6b54e91368f83f029eaf8a7a4ca68,-8018800163019237220,-8023445049756558632,8,N,152,3696,24
+msc_stdint.h,tinycthread.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glfw\deps\tinycthread.h,0a9faad66f590c9572581753d453013e,d64af4e68966d2e35effa48ebd7b3c79,-8018800163019237220,-8023444774877636452,8,N,152,138,23
+msc_stdint.h,win32_platform.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glfw\src\win32_platform.h,0a9faad66f590c9572581753d453013e,2445649aade285164b3f3df9cb6b0b9c,-8018800163019237220,-8023445049755510628,6,N,152,324,18
+msc_stdint.h,_mingw_dxhelper.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,0a9faad66f590c9572581753d453013e,5423da3108dd32be383352d8d6c55edb,-8018800163019237220,-9185092003762480996,8,N,152,102,23
+msc_stdint.h,stdint.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glfw\deps\vs2008\stdint.h,0a9faad66f590c9572581753d453013e,0a9faad66f590c9572581753d453013e,-8018800163019237220,-8018800163019237220,0,Y,152,152,152
+msc_stdint.h,vulkan.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glfw\deps\vulkan\vulkan.h,0a9faad66f590c9572581753d453013e,368be8e566768753806bdc8cc0052fc3,-8018800163019237220,1163898190080301212,8,N,152,38,10
+msc_stdint.h,glfw3native.h,\scipy\sparse\linalg\dsolve\SuperLU\SRC\msc_stdint.h,\third-party\glfw\include\GLFW\glfw3native.h,0a9faad66f590c9572581753d453013e,c5d9fae34608972236a415167b8ed590,-8018800163019237220,-8023445051902996324,8,N,152,83,22

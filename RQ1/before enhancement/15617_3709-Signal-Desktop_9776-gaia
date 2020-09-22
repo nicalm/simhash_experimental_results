@@ -1,0 +1,3 @@
+3709-Signal-Desktop,9776-gaia
+qrcode.js,qrcode.js,\components\qrcode\qrcode.js,\tv_apps\remote-control\bower_components\qrcodejs\qrcode.js,5c2f8b1d7cd158584685c91eb15aed84,5e68bbceac89fc74fa58b63ea4efd1a9,-2563917255638453880,-2527888462914489974,4,N,410,414,407
+blanket_mocha.js,blanket.js,\libtextsecure\test\blanket_mocha.js,\dev_apps\test-agent\common\vendor\blanket\blanket.js,cbf86a9b6a8b39dee34e2417f6f778d4,c79545a79830e4239eb2a13b3c41ee04,859540528615170790,823511181941052071,8,N,4251,5850,3565

@@ -1,0 +1,4 @@
+11788-fbthrift,4287-cockpit
+t_type.h,utils.js,\thrift\compiler\ast\t_type.h,\pkg\machines\components\networks\utils.js,b053db260acb5031648818344c9828ac,dda688ac2bc7c2e31a19656c8e064951,1431083237210080174,1413069938203849646,5,N,149,110,28
+fastproto.cpp,utils.js,\thrift\lib\py\protocol\fastproto.cpp,\pkg\machines\components\networks\utils.js,c1bccad7773c2493eb4cf8a3003e0912,dda688ac2bc7c2e31a19656c8e064951,1431084332443525822,1413069938203849646,8,N,1017,110,34
+module_types.cpp,utils.js,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\pkg\machines\components\networks\utils.js,2db322d1052463c02d7e0a6bf32428e5,dda688ac2bc7c2e31a19656c8e064951,1395054440124007342,1413069938203849646,7,N,3515,110,32

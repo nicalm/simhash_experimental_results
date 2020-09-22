@@ -1,0 +1,14 @@
+369-mongoose,6285-ImageMagick
+ReadPreference.js,bgr.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\coders\bgr.c,72ad104b2d3e1cc34b02578eb97d2c64,c2ad992f3d07a8b726061a19916c7cab,5440897058057271519,1045382730955143383,8,N,30,1217,9
+ReadPreference.js,cmyk.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\coders\cmyk.c,72ad104b2d3e1cc34b02578eb97d2c64,033a163bed59e34827023fd6c1f70c6a,5440897058057271519,1045382730955143383,8,N,30,1358,9
+ReadPreference.js,miff.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\coders\miff.c,72ad104b2d3e1cc34b02578eb97d2c64,eb048844ba749cb188f12a545d5a3a14,5440897058057271519,5729127442933397727,4,N,30,2414,10
+ReadPreference.js,msl.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\coders\msl.c,72ad104b2d3e1cc34b02578eb97d2c64,564294d28d18518091363153d2c379e8,5440897058057271519,5729127445078517975,7,N,30,7592,11
+ReadPreference.js,rgb.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\coders\rgb.c,72ad104b2d3e1cc34b02578eb97d2c64,88d75de525f47b8269acb5295b49667f,5440897058057271519,1045382730955143383,8,N,30,1389,9
+ReadPreference.js,svg.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\coders\svg.c,72ad104b2d3e1cc34b02578eb97d2c64,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5440897058057271519,5729127442933135575,4,N,30,4691,10
+ReadPreference.js,composite.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickCore\composite.c,72ad104b2d3e1cc34b02578eb97d2c64,340d5a0c7006a0824a2a7fe9aab13822,5440897058057271519,5729127511652874455,6,N,30,2158,8
+ReadPreference.js,display.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickCore\display.c,72ad104b2d3e1cc34b02578eb97d2c64,58fbcf695a02c8617f1d6816e49799cf,5440897058057271519,5692817170937460951,6,N,30,12792,9
+ReadPreference.js,widget.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickCore\widget.c,72ad104b2d3e1cc34b02578eb97d2c64,f0e9f521bef825c5e27b767db6566d31,5440897058057271519,5729127442933135575,4,N,30,7134,9
+ReadPreference.js,identify.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickWand\identify.c,72ad104b2d3e1cc34b02578eb97d2c64,75148e667f677bcb2010bd43f674e879,5440897058057271519,5729101054654068983,7,N,30,793,11
+ReadPreference.js,import.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickWand\import.c,72ad104b2d3e1cc34b02578eb97d2c64,d07cb72be3f30cc13453dbfdeebb26a8,5440897058057271519,5657052256709163191,8,N,30,1145,11
+ReadPreference.js,mogrify.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickWand\mogrify.c,72ad104b2d3e1cc34b02578eb97d2c64,40ce227d8d84162c170d4ac9ed9ebc51,5440897058057271519,5729127442933135575,4,N,30,8560,11
+ReadPreference.js,operation.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\MagickWand\operation.c,72ad104b2d3e1cc34b02578eb97d2c64,5188f5c0cfb10bb3579b5a2c7dc8bc5d,5440897058057271519,5730262138933065951,6,N,30,4396,11

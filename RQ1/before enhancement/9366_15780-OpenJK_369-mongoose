@@ -1,0 +1,7 @@
+15780-OpenJK,369-mongoose
+cg_event.cpp,ReadPreference.js,\code\cgame\cg_event.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,191fe31a41d45e7efbf90723e529525a,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,838,30,8
+cl_cgame.cpp,ReadPreference.js,\code\client\cl_cgame.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,c3a042356c5b42e32e9ff84c92c8d2b9,72ad104b2d3e1cc34b02578eb97d2c64,1693902245528643807,5440897058057271519,8,N,1173,30,8
+cg_event.cpp,ReadPreference.js,\codeJK2\cgame\cg_event.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,9838700c0fd7963df66b73449d8cfb38,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,795,30,8
+cg_event.c,ReadPreference.js,\codemp\cgame\cg_event.c,\lib\drivers\node-mongodb-native\ReadPreference.js,9aeab967431d65151304e0217ee67743,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,2847,30,9
+cg_newDraw.c,ReadPreference.js,\codemp\cgame\cg_newDraw.c,\lib\drivers\node-mongodb-native\ReadPreference.js,7361f5d64da86f1669d178776bce91ba,72ad104b2d3e1cc34b02578eb97d2c64,5729127442924746967,5440897058057271519,5,N,705,30,8
+jcdctmgr.c,ReadPreference.js,\lib\jpeg-9a\jcdctmgr.c,\lib\drivers\node-mongodb-native\ReadPreference.js,01dc8a11d9a5782154c2cf1897cd86bc,72ad104b2d3e1cc34b02578eb97d2c64,5370528313904789719,5440897058057271519,7,N,347,30,9

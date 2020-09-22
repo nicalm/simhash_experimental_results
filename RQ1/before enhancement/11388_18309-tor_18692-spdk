@@ -1,0 +1,5 @@
+18309-tor,18692-spdk
+keccak-tiny-unrolled.c,utf.h,\src\ext\keccak-tiny\keccak-tiny-unrolled.c,\include\spdk_internal\utf.h,1407002e7db6b07a297516fd8a57d124,c7d11879cefd45468d9f9d53fdbbcc78,1884265658525032053,-7914441230995546571,8,N,309,208,69
+compat_compiler.h,assert.h,\src\lib\cc\compat_compiler.h,\include\spdk_internal\assert.h,4fda4875c0f6db2fda2057a47aa6fc8f,340c3c292f11b3661cb114f5fb4a2722,-8023445050293299044,-7384004271941560100,8,N,128,16,5
+inaddr_st.h,assert.h,\src\lib\net\inaddr_st.h,\include\spdk_internal\assert.h,62efbf41d2e5c9c5c910850b9ac27f2c,340c3c292f11b3661cb114f5fb4a2722,-8023445049755509604,-7384004271941560100,8,N,69,16,5
+ed25519-donna-portable-identify.h,assert.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\include\spdk_internal\assert.h,36a4efc8ce95d16532d64be30ece0f36,340c3c292f11b3661cb114f5fb4a2722,-8023445066935379812,-7384004271941560100,8,N,87,16,5

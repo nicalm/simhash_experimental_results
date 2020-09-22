@@ -1,0 +1,12 @@
+2578-calibre,4984-jerryscript
+lzxc.c,config.h,\src\calibre\utils\lzx\lzxc.c,\jerry-core\config.h,5148bebfcfad4cb4119b4e362bc0686f,1610ce5e32380b97834532a2439ffb00,-8059473846773950244,-8023445049755510628,3,N,1033,338,41
+lzxc.c,jerryscript-compiler.h,\src\calibre\utils\lzx\lzxc.c,\jerry-core\include\jerryscript-compiler.h,5148bebfcfad4cb4119b4e362bc0686f,6dc57bc479adf16d2b42cadd27f2edd3,-8059473846773950244,-8023445049755510628,3,N,1033,73,22
+lzxc.c,jcontext.h,\src\calibre\utils\lzx\lzxc.c,\jerry-core\jcontext\jcontext.h,5148bebfcfad4cb4119b4e362bc0686f,4de6c82710d6de4c90b38b2414b9953a,-8059473846773950244,-9176367654679291684,6,N,1033,162,30
+lzxc.c,lit-magic-strings.inc.h,\src\calibre\utils\lzx\lzxc.c,\jerry-core\lit\lit-magic-strings.inc.h,5148bebfcfad4cb4119b4e362bc0686f,d156bf64086a4a370f1f54301148fe60,-8059473846773950244,-8023445049755510628,3,N,1033,920,48
+lzxc.c,ecma-builtin-helpers-macro-defines.inc.h,\src\calibre\utils\lzx\lzxc.c,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,5148bebfcfad4cb4119b4e362bc0686f,0dde8629af7a79ff0576269e0d239a88,-8059473846773950244,-8023445084115248996,4,N,1033,32,11
+lzxc.c,js-parser-limits.h,\src\calibre\utils\lzx\lzxc.c,\jerry-core\parser\js\js-parser-limits.h,5148bebfcfad4cb4119b4e362bc0686f,656369309984980286cea2eff0cb4741,-8059473846773950244,-8023445049755510628,3,N,1033,51,17
+msstdint.h,config.h,\src\calibre\utils\lzx\msstdint.h,\jerry-core\config.h,2dacb8ee9f393a22b1266f714d3efcd6,1610ce5e32380b97834532a2439ffb00,-2830794129776780644,-8023445049755510628,7,N,138,338,15
+msstdint.h,jerryscript-compiler.h,\src\calibre\utils\lzx\msstdint.h,\jerry-core\include\jerryscript-compiler.h,2dacb8ee9f393a22b1266f714d3efcd6,6dc57bc479adf16d2b42cadd27f2edd3,-2830794129776780644,-8023445049755510628,7,N,138,73,15
+msstdint.h,lit-magic-strings.inc.h,\src\calibre\utils\lzx\msstdint.h,\jerry-core\lit\lit-magic-strings.inc.h,2dacb8ee9f393a22b1266f714d3efcd6,d156bf64086a4a370f1f54301148fe60,-2830794129776780644,-8023445049755510628,7,N,138,920,19
+msstdint.h,ecma-builtin-helpers-macro-defines.inc.h,\src\calibre\utils\lzx\msstdint.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,2dacb8ee9f393a22b1266f714d3efcd6,0dde8629af7a79ff0576269e0d239a88,-2830794129776780644,-8023445084115248996,8,N,138,32,11
+msstdint.h,js-parser-limits.h,\src\calibre\utils\lzx\msstdint.h,\jerry-core\parser\js\js-parser-limits.h,2dacb8ee9f393a22b1266f714d3efcd6,656369309984980286cea2eff0cb4741,-2830794129776780644,-8023445049755510628,7,N,138,51,15

@@ -1,0 +1,7 @@
+1615-rufus,2283-capnproto
+platform.h,miniposix.h,\src\bled\platform.h,\c++\src\kj\miniposix.h,4803e652bfbf4addc3c84e9e9999b1da,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,498,84,23
+xz_config.h,miniposix.h,\src\bled\xz_config.h,\c++\src\kj\miniposix.h,921cb7a03ced44fcd791cbdd6f4ead41,43597d9a9103c02dbbe46d2c58ecc748,-7446983747698374499,-7455991496707810916,8,N,72,84,16
+xz_private.h,miniposix.h,\src\bled\xz_private.h,\c++\src\kj\miniposix.h,db6ba9d9b9fa82c4cf6044eeacf20401,43597d9a9103c02dbbe46d2c58ecc748,-8023515418482911076,-7455991496707810916,7,N,89,84,16
+ext2_types.h,miniposix.h,\src\ext2fs\ext2_types.h,\c++\src\kj\miniposix.h,aa5bcf70705ef8ee9519acce6afc4f5c,43597d9a9103c02dbbe46d2c58ecc748,-8023462641941489508,-7455991496707810916,5,N,67,84,13
+filemode.h,miniposix.h,\src\libcdio\driver\filemode.h,\c++\src\kj\miniposix.h,06b5d0649b21446c0f1f114dfa58b605,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,105,84,17
+portable.h,miniposix.h,\src\libcdio\driver\portable.h,\c++\src\kj\miniposix.h,709f07965666c155709172c5f0830375,43597d9a9103c02dbbe46d2c58ecc748,-8023449447802021732,-7455991496707810916,6,N,26,84,9

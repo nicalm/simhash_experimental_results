@@ -1,0 +1,8 @@
+2283-capnproto,99-redis
+miniposix.h,config.h,\c++\src\kj\miniposix.h,\src\config.h,43597d9a9103c02dbbe46d2c58ecc748,fe9fefbbc117a00a89d3fa3a9678435a,-7455991496707810916,-8023445049755510628,5,N,84,149,17
+miniposix.h,lzfP.h,\c++\src\kj\miniposix.h,\src\lzfP.h,43597d9a9103c02dbbe46d2c58ecc748,a8a99ddcfb21b5d90efea295fa1823be,-7455991496707810916,-7879329861679654756,6,N,84,77,17
+miniposix.h,llimits.h,\c++\src\kj\miniposix.h,\deps\lua\src\llimits.h,43597d9a9103c02dbbe46d2c58ecc748,0990f1abc3ce4ed347a3373a88d7961e,-7455991496707810916,-8023163574778799972,6,N,84,53,12
+miniposix.h,jemalloc_internal_decls.h,\c++\src\kj\miniposix.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,43597d9a9103c02dbbe46d2c58ecc748,b10ad6415790176a35be7bbab7206d99,-7455991496707810916,-9176366554630793060,7,N,84,85,24
+miniposix.h,jemalloc_internal_macros.h,\c++\src\kj\miniposix.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_macros.h,43597d9a9103c02dbbe46d2c58ecc748,7b4313956cecbe72ad11692ae8e9a192,-7455991496707810916,-7311885121904124964,8,N,84,33,8
+miniposix.h,jemalloc_internal_types.h,\c++\src\kj\miniposix.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,43597d9a9103c02dbbe46d2c58ecc748,980de9a5931b9a6fb54cf696652d614a,-7455991496707810916,-8032452249077360612,6,N,84,129,15
+miniposix.h,rtree.h,\c++\src\kj\miniposix.h,\deps\jemalloc\include\jemalloc\internal\rtree.h,43597d9a9103c02dbbe46d2c58ecc748,29fc9bba3c2f2ac9a6173f9958d5959a,-7455991496707810916,-7312028043383613284,8,N,84,369,25

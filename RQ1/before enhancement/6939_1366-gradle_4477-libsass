@@ -1,0 +1,4 @@
+1366-gradle,4477-libsass
+XmlValidation.java,test_util_string.cpp,\subprojects\core\src\main\java\org\gradle\internal\xml\XmlValidation.java,\test\test_util_string.cpp,53066109707e089b56b520a1867c3d2b,293237612e9a005f6e81aaeb65e422d6,6644967921542855097,6645038221030685080,5,N,122,190,37
+gtest-port.h,base.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\include\sass\base.h,23446e26c2aacb9eb58191ae642bfa7a,26dfd0d8cb029fd73ca71c0971ecc070,-7879329861679654756,-8023163575290504548,6,N,906,63,20
+gtest-port.h,base.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\include\sass\base.h,23446e26c2aacb9eb58191ae642bfa7a,26dfd0d8cb029fd73ca71c0971ecc070,-7879329861679654756,-8023163575290504548,6,N,906,63,20

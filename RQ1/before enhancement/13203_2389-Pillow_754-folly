@@ -1,0 +1,5 @@
+2389-Pillow,754-folly
+ImPlatform.h,CPortability.h,\src\libImaging\ImPlatform.h,\folly\CPortability.h,6670b4584189b95bdcaaa198dabbf5c8,2071cc58e111b1fb40fa47a9161f5356,-8024570949662353252,-8023445049756493156,4,N,58,137,16
+ImPlatform.h,Portability.h,\src\libImaging\ImPlatform.h,\folly\Portability.h,6670b4584189b95bdcaaa198dabbf5c8,4a7decd5a24ba7fccd761801e3ef4412,-8024570949662353252,-7447019619264177960,7,N,58,392,16
+ImPlatform.h,Stdlib.h,\src\libImaging\ImPlatform.h,\folly\portability\Stdlib.h,6670b4584189b95bdcaaa198dabbf5c8,9adbc370aa00b92c0cbb5c0cf514b964,-8024570949662353252,-8028512836321486692,8,N,58,31,7
+ImPlatform.h,Windows.h,\src\libImaging\ImPlatform.h,\folly\portability\Windows.h,6670b4584189b95bdcaaa198dabbf5c8,8d255d6eb746df0dd20db480cd3643e5,-8024570949662353252,-8023516518011316068,3,N,58,48,14

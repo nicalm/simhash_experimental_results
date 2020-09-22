@@ -1,0 +1,10 @@
+15780-OpenJK,464-gentelella
+cg_event.cpp,globalize.js,\code\cgame\cg_event.cpp,\vendors\Flot\lib\globalize.js,191fe31a41d45e7efbf90723e529525a,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,838,1177,158
+cg_event.cpp,pathSvgToVml.js,\code\cgame\cg_event.cpp,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,191fe31a41d45e7efbf90723e529525a,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,838,86,17
+cg_event.cpp,globalize.js,\codeJK2\cgame\cg_event.cpp,\vendors\Flot\lib\globalize.js,9838700c0fd7963df66b73449d8cfb38,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,795,1177,152
+cg_event.cpp,pathSvgToVml.js,\codeJK2\cgame\cg_event.cpp,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,9838700c0fd7963df66b73449d8cfb38,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,795,86,17
+cg_event.c,globalize.js,\codemp\cgame\cg_event.c,\vendors\Flot\lib\globalize.js,9aeab967431d65151304e0217ee67743,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,2847,1177,222
+cg_event.c,pathSvgToVml.js,\codemp\cgame\cg_event.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,9aeab967431d65151304e0217ee67743,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,2847,86,18
+cg_newDraw.c,globalize.js,\codemp\cgame\cg_newDraw.c,\vendors\Flot\lib\globalize.js,7361f5d64da86f1669d178776bce91ba,5859e34a6af3806758409c1cf6b6a681,5729127442924746967,5728855313755060435,8,N,705,1177,175
+cg_newDraw.c,pathSvgToVml.js,\codemp\cgame\cg_newDraw.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,7361f5d64da86f1669d178776bce91ba,33048ad2c45faa5606888ee3add887d1,5729127442924746967,5730112596751329503,7,N,705,86,17
+huffman.cpp,Chart.bundle.js,\codemp\qcommon\huffman.cpp,\vendors\Chart.js\dist\Chart.bundle.js,1c1aedfac34e5dddb7e1d9f65d720c4c,cfc5e4a7c6088708fef9f9875b492230,2015684220783493822,2302930534028395198,7,N,334,10705,91

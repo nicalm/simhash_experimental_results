@@ -1,0 +1,7 @@
+2389-Pillow,4984-jerryscript
+ImPlatform.h,config.h,\src\libImaging\ImPlatform.h,\jerry-core\config.h,6670b4584189b95bdcaaa198dabbf5c8,1610ce5e32380b97834532a2439ffb00,-8024570949662353252,-8023445049755510628,1,N,58,338,12
+ImPlatform.h,jerryscript-compiler.h,\src\libImaging\ImPlatform.h,\jerry-core\include\jerryscript-compiler.h,6670b4584189b95bdcaaa198dabbf5c8,6dc57bc479adf16d2b42cadd27f2edd3,-8024570949662353252,-8023445049755510628,1,N,58,73,13
+ImPlatform.h,jcontext.h,\src\libImaging\ImPlatform.h,\jerry-core\jcontext\jcontext.h,6670b4584189b95bdcaaa198dabbf5c8,4de6c82710d6de4c90b38b2414b9953a,-8024570949662353252,-9176367654679291684,6,N,58,162,13
+ImPlatform.h,lit-magic-strings.inc.h,\src\libImaging\ImPlatform.h,\jerry-core\lit\lit-magic-strings.inc.h,6670b4584189b95bdcaaa198dabbf5c8,d156bf64086a4a370f1f54301148fe60,-8024570949662353252,-8023445049755510628,1,N,58,920,15
+ImPlatform.h,ecma-builtin-helpers-macro-defines.inc.h,\src\libImaging\ImPlatform.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,6670b4584189b95bdcaaa198dabbf5c8,0dde8629af7a79ff0576269e0d239a88,-8024570949662353252,-8023445084115248996,2,N,58,32,11
+ImPlatform.h,js-parser-limits.h,\src\libImaging\ImPlatform.h,\jerry-core\parser\js\js-parser-limits.h,6670b4584189b95bdcaaa198dabbf5c8,656369309984980286cea2eff0cb4741,-8024570949662353252,-8023445049755510628,1,N,58,51,12

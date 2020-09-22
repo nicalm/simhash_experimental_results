@@ -1,0 +1,4 @@
+2578-calibre,4960-capstone
+lzxc.c,cs.c,\src\calibre\utils\lzx\lzxc.c,\cs.c,5148bebfcfad4cb4119b4e362bc0686f,28b740cedafbc72ff6d105bcf67b66ec,-8059473846773950244,-8024007991656916772,6,N,1033,1274,195
+lzxc.c,test_basic.c,\src\calibre\utils\lzx\lzxc.c,\tests\test_basic.c,5148bebfcfad4cb4119b4e362bc0686f,a31ca8d3bb8a75874920d317a6ad1579,-8059473846773950244,-8018942549639704420,7,N,1033,357,60
+lzxc.c,test_iter.c,\src\calibre\utils\lzx\lzxc.c,\tests\test_iter.c,5148bebfcfad4cb4119b4e362bc0686f,25690cf4ebb5bd2f561bd05964d131ee,-8059473846773950244,-8023446149267066732,8,N,1033,274,60

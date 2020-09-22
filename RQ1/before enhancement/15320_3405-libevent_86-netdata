@@ -1,0 +1,6 @@
+3405-libevent,86-netdata
+ipv6-internal.h,libnetdata.h,\ipv6-internal.h,\libnetdata\libnetdata.h,dabb7bfd8d8b28692ca1940f37c14cce,b36073eea8dc836d3f37e426aebdabda,-8005606573110671204,-8023445049755510628,5,N,37,248,11
+time-internal.h,libnetdata.h,\time-internal.h,\libnetdata\libnetdata.h,9bf6e1db3b1c4f27e264cb8439fab1f7,b36073eea8dc836d3f37e426aebdabda,-7994243137613279076,-8023445049755510628,8,N,56,248,11
+event.h,libnetdata.h,\include\event.h,\libnetdata\libnetdata.h,74155744f6c5bd2476d644b3e62572b7,b36073eea8dc836d3f37e426aebdabda,-8005430651917121316,-8023445049755510628,5,N,39,248,12
+dns_struct.h,libnetdata.h,\include\event2\dns_struct.h,\libnetdata\libnetdata.h,666004cf63ea0bf834f3327e53994765,b36073eea8dc836d3f37e426aebdabda,-8032733723986968355,-8023445049755510628,7,N,32,248,9
+keyvalq_struct.h,libnetdata.h,\include\event2\keyvalq_struct.h,\libnetdata\libnetdata.h,6cfad2c2ff1e3aee7e4d7e3ad4535d29,b36073eea8dc836d3f37e426aebdabda,-8024086342059894627,-8023445049755510628,7,N,37,248,7

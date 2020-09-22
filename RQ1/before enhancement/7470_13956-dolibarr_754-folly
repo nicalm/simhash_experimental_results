@@ -1,0 +1,5 @@
+13956-dolibarr,754-folly
+PrintIPP.php,Varint.h,\htdocs\includes\printipp\PrintIPP.php,\folly\Varint.h,ba96bd5b1d8975d6966e4310acceb4c7,1aade617cb1d1aff80a613ab2633b963,5152385215652968663,4864436316619419862,8,N,1760,140,34
+nusoap.php,FBVector.h,\htdocs\includes\nusoap\lib\nusoap.php,\folly\FBVector.h,a5b56b42e353f4503ff948a3ca1278cc,b35a39c5d59f184dfbe7c7ca56d12e8c,2305183021036847806,2293884439516268215,8,N,5368,1239,314
+SYLK.php,Varint.h,\htdocs\includes\phpoffice\phpexcel\Classes\PHPExcel\Reader\SYLK.php,\folly\Varint.h,78e73625ab16621f946eb9c153022919,1aade617cb1d1aff80a613ab2633b963,5152666690629712087,4864436316619419862,8,N,265,140,37
+TestUtil.php,Varint.h,\htdocs\includes\sabre\sabre\dav\tests\Sabre\CalDAV\TestUtil.php,\folly\Varint.h,50f13aeac2f6573ecb127d4a6acdd9a2,1aade617cb1d1aff80a613ab2633b963,5729127442928941271,4864436316619419862,8,N,167,140,16

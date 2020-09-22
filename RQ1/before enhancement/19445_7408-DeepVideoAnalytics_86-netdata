@@ -1,0 +1,6 @@
+7408-DeepVideoAnalytics,86-netdata
+admin.py,exceptions.py,\server\dvaapp\admin.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,f0db44fda07145839decb1bbed4578ed,25ddb32d1336bad7af00549477feb5f7,9217329227336156549,9217330326845687173,2,N,76,128,24
+bbox.c,libnetdata.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,\libnetdata\libnetdata.h,b42f28bb593ba51126ab3c36f2280e44,b36073eea8dc836d3f37e426aebdabda,-7735003018152322916,-8023445049755510628,5,N,5912,248,51
+cython_nms.c,libnetdata.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,\libnetdata\libnetdata.h,340c61e73ba74d7820ff458fae32d716,b36073eea8dc836d3f37e426aebdabda,-7735003018152322916,-8023445049755510628,5,N,6623,248,51
+gpu_nms.c,libnetdata.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,\libnetdata\libnetdata.h,c5f744cc55310f8443ffae08bc289c17,b36073eea8dc836d3f37e426aebdabda,-7735003018152322916,-8023445049755510628,5,N,5655,248,51
+gpu_nms.cpp,libnetdata.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,\libnetdata\libnetdata.h,2472408016d358310deb015143185fa8,b36073eea8dc836d3f37e426aebdabda,-7590887830068078436,-8023445049755510628,7,N,4948,248,48

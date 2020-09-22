@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,18-electron
+fmacros.h,atom_main_delegate.cc,\depends\hiredis\fmacros.h,\shell\app\atom_main_delegate.cc,fa39b5b5c7b057e483d5dce607e953a2,6beb16be6a739f5598d443a18a5cbaa6,-7226589390687643492,-4997025687846725476,8,N,17,249,5
+fmacros.h,linux_syscall_support.h,\depends\hiredis\fmacros.h,\vendor\third_party\lss\linux_syscall_support.h,fa39b5b5c7b057e483d5dce607e953a2,d7c4a715ebced0be3633fcfd349a02ff,-7226589390687643492,-8023445049755510628,6,N,17,3833,5
+win32.h,linux_syscall_support.h,\depends\hiredis\win32.h,\vendor\third_party\lss\linux_syscall_support.h,0ec99e391511695a9d7ef00f6d95b969,d7c4a715ebced0be3633fcfd349a02ff,-7880077529720759656,-8023445049755510628,8,N,32,3833,11

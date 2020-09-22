@@ -1,0 +1,4 @@
+2283-capnproto,6974-openapi-generator
+any.h,PFXHelpers.h,\c++\src\capnp\any.h,\samples\client\petstore\cpp-qt5\client\PFXHelpers.h,80cc45e2cbeab872d76011865563d255,12314e52f0929bfa188ca3fba0e5cc4d,2355656541839700648,2427681156887351976,8,N,791,158,34
+any.h,ModelBase.h,\c++\src\capnp\any.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,80cc45e2cbeab872d76011865563d255,15aa37567b9579bbf56fd42cba846672,2355656541839700648,2933243054127977144,8,N,791,300,72
+async-prelude.h,ModelBase.h,\c++\src\kj\async-prelude.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,20a3464f8a3e970365d9904e3076d7b9,15aa37567b9579bbf56fd42cba846672,2932117154220872249,2933243054127977144,4,N,152,300,26

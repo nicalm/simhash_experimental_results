@@ -1,0 +1,10 @@
+2116-libgit2,9776-gaia
+settings.c,orientation.js,\src\settings.c,\dev_apps\uitest\js\API\orientation.js,718930b70d05c094a268632a2f1ec06a,7f674abe2d64a83f3c5f7fc6b2372c43,6882048947539982549,5729127442933135575,2,N,238,55,18
+settings.c,pdf.worker.js,\src\settings.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,718930b70d05c094a268632a2f1ec06a,0b5f788a191b12bb182b6955242c5ffb,6882048947539982549,6899975385106659575,7,N,238,37193,67
+http_parser.c,orientation.js,\deps\http-parser\http_parser.c,\dev_apps\uitest\js\API\orientation.js,624ed39402aecf1d658c88ffcffaee6d,7f674abe2d64a83f3c5f7fc6b2372c43,5728845967956424919,5729127442933135575,1,N,1620,55,18
+http_parser.c,lcd.js,\deps\http-parser\http_parser.c,\dev_apps\uitest\js\HW\lcd.js,624ed39402aecf1d658c88ffcffaee6d,3ab7d944f9f63d991cca7c6b1fe0faa4,5728845967956424919,973255871980679315,8,N,1620,62,9
+http_parser.c,pdf.worker.js,\deps\http-parser\http_parser.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,624ed39402aecf1d658c88ffcffaee6d,0b5f788a191b12bb182b6955242c5ffb,5728845967956424919,6899975385106659575,8,N,1620,37193,441
+pcre_dfa_exec.c,orientation.js,\deps\pcre\pcre_dfa_exec.c,\dev_apps\uitest\js\API\orientation.js,f03c3b607d6e42dce79c2eef8aca81da,7f674abe2d64a83f3c5f7fc6b2372c43,5734765807279847671,5729127442933135575,5,N,2711,55,18
+pcre_fullinfo.c,orientation.js,\deps\pcre\pcre_fullinfo.c,\dev_apps\uitest\js\API\orientation.js,8923cc431580197b3e121f54e41dba57,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,135,55,17
+pcre_fullinfo.c,lcd.js,\deps\pcre\pcre_fullinfo.c,\dev_apps\uitest\js\HW\lcd.js,8923cc431580197b3e121f54e41dba57,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,135,62,8
+pcre_fullinfo.c,pdf.worker.js,\deps\pcre\pcre_fullinfo.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,8923cc431580197b3e121f54e41dba57,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,135,37193,31

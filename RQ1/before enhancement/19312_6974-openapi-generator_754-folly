@@ -1,0 +1,7 @@
+6974-openapi-generator,754-folly
+ModelBase.h,Singleton-inl.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,\folly\Singleton-inl.h,15aa37567b9579bbf56fd42cba846672,d4ca9cd5f59f2f70fd66244bbcbc1bef,2933243054127977144,3222038890708603576,7,N,300,193,57
+ModelBase.h,AddTasks-inl.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,\folly\fibers\AddTasks-inl.h,15aa37567b9579bbf56fd42cba846672,d1fe39acf4c29f10d3422e35e0bfe18a,2933243054127977144,2941124353878528952,6,N,300,90,26
+ModelBase.h,MallctlHelper.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,\folly\memory\MallctlHelper.h,15aa37567b9579bbf56fd42cba846672,274c1f87a41337c4f58a92588b8beab7,2933243054127977144,3221473464637208216,7,N,300,35,13
+ModelBase.h,AtomicSharedPtr-detail.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,\folly\concurrency\detail\AtomicSharedPtr-detail.h,15aa37567b9579bbf56fd42cba846672,5a6299e806c669057cdb33e8c49af9b2,2933243054127977144,2932398939509228218,8,N,300,155,28
+ModelBase.h,Traits.h,\samples\client\petstore\cpp-restsdk\client\ModelBase.h,\folly\experimental\coro\detail\Traits.h,15aa37567b9579bbf56fd42cba846672,1d94e6ca29b229849a25628b2fe6bc53,2933243054127977144,2932117291525870264,3,N,300,26,10
+OAIHelpers.h,Traits.h,\samples\server\petstore\cpp-qt5-qhttpengine-server\server\src\models\OAIHelpers.h,\folly\experimental\coro\detail\Traits.h,9b12aa43f3ee100d301d2f7104c0be71,1d94e6ca29b229849a25628b2fe6bc53,3004141909744423608,2932117291525870264,7,N,158,26,9

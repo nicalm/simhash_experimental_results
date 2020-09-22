@@ -1,0 +1,13 @@
+12891-libjpeg-turbo,3761-lepton
+djpeg.c,port.h,\djpeg.c,\dependencies\brotli\c\include\brotli\port.h,f279aaae72fd4362da53b7707e37d114,350994917b4cef7e95001ccfdd8a21d9,-7447837519011981217,-9031978687939553124,8,N,566,102,24
+jcdctmgr.c,port.h,\jcdctmgr.c,\dependencies\brotli\c\include\brotli\port.h,56e04669656b24d4dff2211e451cb3d9,350994917b4cef7e95001ccfdd8a21d9,254452952107899036,-9031978687939553124,8,N,461,102,27
+jmorecfg.h,test_harness.cc,\jmorecfg.h,\test_suite\test_harness.cc,1469bb97fe30335d1c73bd97389298b2,e289d2ef5a4a7ed63cb361e61d2bb017,-8023517342645037028,-8023445050292381540,5,N,162,121,21
+jmorecfg.h,gzguts.h,\jmorecfg.h,\dependencies\zlib\gzguts.h,1469bb97fe30335d1c73bd97389298b2,481fcd67c1a74813d1e18ea86b0fb735,-8023517342645037028,-8023445049755510628,4,N,162,151,27
+jmorecfg.h,zconf.h,\jmorecfg.h,\dependencies\zlib\zconf.h,1469bb97fe30335d1c73bd97389298b2,c89ff94ee23d020c7c9976f48a098fa0,-8023517342645037028,-8023445049755510628,4,N,162,403,32
+jmorecfg.h,zutil.c,\jmorecfg.h,\dependencies\zlib\zutil.c,1469bb97fe30335d1c73bd97389298b2,d62c1317e7969756f542daacf0d4ba54,-8023517342645037028,-8023445084115248996,5,N,162,245,25
+jmorecfg.h,zutil.h,\jmorecfg.h,\dependencies\zlib\zutil.h,1469bb97fe30335d1c73bd97389298b2,278c42fe50334e51a072b9e9539f1a94,-8023517342645037028,-8023445049755510628,4,N,162,183,30
+jccolext-altivec.c,test_harness.cc,\simd\powerpc\jccolext-altivec.c,\test_suite\test_harness.cc,f35971d8d3460ef5abe9dca10e095ed1,e289d2ef5a4a7ed63cb361e61d2bb017,-3267362370959935348,-8023445050292381540,7,N,174,121,20
+jccolext-altivec.c,gzguts.h,\simd\powerpc\jccolext-altivec.c,\dependencies\zlib\gzguts.h,f35971d8d3460ef5abe9dca10e095ed1,481fcd67c1a74813d1e18ea86b0fb735,-3267362370959935348,-8023445049755510628,8,N,174,151,14
+jccolext-altivec.c,zconf.h,\simd\powerpc\jccolext-altivec.c,\dependencies\zlib\zconf.h,f35971d8d3460ef5abe9dca10e095ed1,c89ff94ee23d020c7c9976f48a098fa0,-3267362370959935348,-8023445049755510628,8,N,174,403,14
+jccolext-altivec.c,zutil.h,\simd\powerpc\jccolext-altivec.c,\dependencies\zlib\zutil.h,f35971d8d3460ef5abe9dca10e095ed1,278c42fe50334e51a072b9e9539f1a94,-3267362370959935348,-8023445049755510628,8,N,174,183,14
+jccolext-altivec.c,port.h,\simd\powerpc\jccolext-altivec.c,\dependencies\brotli\c\include\brotli\port.h,f35971d8d3460ef5abe9dca10e095ed1,350994917b4cef7e95001ccfdd8a21d9,-3267362370959935348,-9031978687939553124,8,N,174,102,14

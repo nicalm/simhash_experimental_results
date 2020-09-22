@@ -1,0 +1,5 @@
+6444-yara,9776-gaia
+grammar.c,orientation.js,\libyara\grammar.c,\dev_apps\uitest\js\API\orientation.js,306ae4ed5d0a265782bc5a130c6f342f,7f674abe2d64a83f3c5f7fc6b2372c43,5730252312047818967,5729127442933135575,4,N,3301,55,18
+pe_utils.c,orientation.js,\libyara\modules\pe\pe_utils.c,\dev_apps\uitest\js\API\orientation.js,85b3b0e9639ebe8f194fd360aa44aa10,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,1795,55,18
+pe_utils.c,lcd.js,\libyara\modules\pe\pe_utils.c,\dev_apps\uitest\js\HW\lcd.js,85b3b0e9639ebe8f194fd360aa44aa10,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,1795,62,8
+pe_utils.c,pdf.worker.js,\libyara\modules\pe\pe_utils.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,85b3b0e9639ebe8f194fd360aa44aa10,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,1795,37193,603

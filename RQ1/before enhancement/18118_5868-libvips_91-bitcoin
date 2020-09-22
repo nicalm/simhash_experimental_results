@@ -1,0 +1,15 @@
+5868-libvips,91-bitcoin
+buffer.c,randomenv.cpp,\libvips\iofuncs\buffer.c,\src\randomenv.cpp,7574cb2d8655be6f6b1d83b926fa5645,8eefeb3e04f7f52be719a9efdd732606,-7744230673238075236,-8023445049755510628,8,N,447,439,58
+buffer.c,byteswap.h,\libvips\iofuncs\buffer.c,\src\compat\byteswap.h,7574cb2d8655be6f6b1d83b926fa5645,88acd785d1d6b57506d4fdd472a4a790,-7744230673238075236,-7744221872858473316,6,N,447,43,14
+buffer.c,endian.h,\libvips\iofuncs\buffer.c,\src\compat\endian.h,7574cb2d8655be6f6b1d83b926fa5645,5c16422e6448c8f31356121158773761,-7744230673238075236,-8023445049755510628,8,N,447,198,67
+buffer.c,thread_annotations.h,\libvips\iofuncs\buffer.c,\src\leveldb\port\thread_annotations.h,7574cb2d8655be6f6b1d83b926fa5645,af9eee1ca47192126580ea56af3a4865,-7744230673238075236,-8023445049755510628,8,N,447,39,13
+init.c,attributes.h,\libvips\iofuncs\init.c,\src\attributes.h,e400d93356240e897bbc32ba27bdcd3b,1d61566702a36bfdc0abbfcd3b918b11,-9176930621544019780,-8023445049755378532,8,N,636,15,6
+init.c,randomenv.cpp,\libvips\iofuncs\init.c,\src\randomenv.cpp,e400d93356240e897bbc32ba27bdcd3b,8eefeb3e04f7f52be719a9efdd732606,-9176930621544019780,-8023445049755510628,8,N,636,439,73
+init.c,endian.h,\libvips\iofuncs\init.c,\src\compat\endian.h,e400d93356240e897bbc32ba27bdcd3b,5c16422e6448c8f31356121158773761,-9176930621544019780,-8023445049755510628,8,N,636,198,81
+init.c,thread_annotations.h,\libvips\iofuncs\init.c,\src\leveldb\port\thread_annotations.h,e400d93356240e897bbc32ba27bdcd3b,af9eee1ca47192126580ea56af3a4865,-9176930621544019780,-8023445049755510628,8,N,636,39,13
+vector.c,attributes.h,\libvips\iofuncs\vector.c,\src\attributes.h,055954f4e165b83818f7e8bd6db904ec,1d61566702a36bfdc0abbfcd3b918b11,-8023484632710850404,-8023445049755378532,4,N,400,15,6
+vector.c,compat.h,\libvips\iofuncs\vector.c,\src\compat.h,055954f4e165b83818f7e8bd6db904ec,e406a80a1784994699c1b4a1bc6005d3,-8023484632710850404,-8023445187194464104,6,N,400,87,21
+vector.c,randomenv.cpp,\libvips\iofuncs\vector.c,\src\randomenv.cpp,055954f4e165b83818f7e8bd6db904ec,8eefeb3e04f7f52be719a9efdd732606,-8023484632710850404,-8023445049755510628,4,N,400,439,78
+vector.c,byteswap.h,\libvips\iofuncs\vector.c,\src\compat\byteswap.h,055954f4e165b83818f7e8bd6db904ec,88acd785d1d6b57506d4fdd472a4a790,-8023484632710850404,-7744221872858473316,8,N,400,43,14
+vector.c,endian.h,\libvips\iofuncs\vector.c,\src\compat\endian.h,055954f4e165b83818f7e8bd6db904ec,5c16422e6448c8f31356121158773761,-8023484632710850404,-8023445049755510628,4,N,400,198,86
+vector.c,thread_annotations.h,\libvips\iofuncs\vector.c,\src\leveldb\port\thread_annotations.h,055954f4e165b83818f7e8bd6db904ec,af9eee1ca47192126580ea56af3a4865,-8023484632710850404,-8023445049755510628,4,N,400,39,13

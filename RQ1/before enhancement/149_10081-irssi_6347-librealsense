@@ -1,0 +1,4 @@
+10081-irssi,6347-librealsense
+otr-ops.c,uvc-parser.cpp,\src\otr\otr-ops.c,\src\uvc\uvc-parser.cpp,78f1f6c5943450ae1c92e51ced46839e,ec225d2799af25e9be4a1b255aa81ded,1117440324994119895,1011606833287673943,8,N,248,310,64
+otr-ops.c,iconify.c,\src\otr\otr-ops.c,\third-party\glfw\tests\iconify.c,78f1f6c5943450ae1c92e51ced46839e,4383e5e5067c1f0471c630b863bae2d6,1117440324994119895,5755937900105083095,8,N,248,219,53
+formats.c,iconify.c,\src\fe-common\core\formats.c,\third-party\glfw\tests\iconify.c,81ad733fd560a7711254766564a4d1b4,4383e5e5067c1f0471c630b863bae2d6,5729127511652612311,5755937900105083095,7,N,1160,219,74

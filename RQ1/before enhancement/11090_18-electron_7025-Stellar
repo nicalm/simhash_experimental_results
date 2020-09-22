@@ -1,0 +1,3 @@
+18-electron,7025-Stellar
+atom_browser_main_parts.cc,Stellar-Swift.h,\shell\browser\atom_browser_main_parts.cc,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4312360427f5f392ec4f692be2a7319a,fafe37ab4771e0a9586e17224fcc7041,-8023445187194455912,-7743940123003924324,8,N,375,231,31
+linux_syscall_support.h,Stellar-Swift.h,\vendor\third_party\lss\linux_syscall_support.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d7c4a715ebced0be3633fcfd349a02ff,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,3833,231,40

@@ -1,0 +1,9 @@
+2578-calibre,6444-yara
+lzxc.c,hex_grammar.c,\src\calibre\utils\lzx\lzxc.c,\libyara\hex_grammar.c,5148bebfcfad4cb4119b4e362bc0686f,29c757a687084bfae5a2dc6bb31b05e5,-8059473846773950244,-9185373754145580836,6,N,1033,1251,164
+lzxc.c,endian.h,\src\calibre\utils\lzx\lzxc.c,\libyara\include\yara\endian.h,5148bebfcfad4cb4119b4e362bc0686f,f44500c257dc9e47f34b1473280aea77,-8059473846773950244,-8023445049755510628,3,N,1033,55,15
+lzxc.c,integers.h,\src\calibre\utils\lzx\lzxc.c,\libyara\include\yara\integers.h,5148bebfcfad4cb4119b4e362bc0686f,f8e220916ba72c943da73bf32049b841,-8059473846773950244,-8023445049755510628,3,N,1033,57,19
+lzxc.c,limits.h,\src\calibre\utils\lzx\lzxc.c,\libyara\include\yara\limits.h,5148bebfcfad4cb4119b4e362bc0686f,1b76e5cbfb6a87b1b52e9aef743d23ec,-8059473846773950244,-8023445049755510628,3,N,1033,77,25
+lzxc.c,strutils.h,\src\calibre\utils\lzx\lzxc.c,\libyara\include\yara\strutils.h,5148bebfcfad4cb4119b4e362bc0686f,62646260db13811e153f2c59cbdfb33a,-8059473846773950244,-8023518717034571368,8,N,1033,59,15
+msstdint.h,endian.h,\src\calibre\utils\lzx\msstdint.h,\libyara\include\yara\endian.h,2dacb8ee9f393a22b1266f714d3efcd6,f44500c257dc9e47f34b1473280aea77,-2830794129776780644,-8023445049755510628,7,N,138,55,15
+msstdint.h,integers.h,\src\calibre\utils\lzx\msstdint.h,\libyara\include\yara\integers.h,2dacb8ee9f393a22b1266f714d3efcd6,f8e220916ba72c943da73bf32049b841,-2830794129776780644,-8023445049755510628,7,N,138,57,24
+msstdint.h,limits.h,\src\calibre\utils\lzx\msstdint.h,\libyara\include\yara\limits.h,2dacb8ee9f393a22b1266f714d3efcd6,1b76e5cbfb6a87b1b52e9aef743d23ec,-2830794129776780644,-8023445049755510628,7,N,138,77,14

@@ -1,0 +1,4 @@
+11604-pdns,12758-znc
+threadname.cc,version.h,\pdns\threadname.cc,\include\znc\version.h,5b915147d70647a42e05b4e28ce34c57,d05809c29f032c998a444139c4f0d9ce,-8023445049889728356,-8023445187195380516,6,N,39,43,10
+version.cc,version.h,\pdns\version.cc,\include\znc\version.h,2d47bb8e09166cdc8de706154500a37c,d05809c29f032c998a444139c4f0d9ce,-8023445049755379556,-8023445187195380516,4,N,141,43,9
+jquery.js,jquery-1.11.2.js,\pdns\dnsdistdist\src_js\jquery.js,\webskins\_default_\pub\jquery-1.11.2.js,ed0016acf848db02c57ce7eb3cc49676,bc6fe6d377bd192be22b5e0c93a2162b,2287167437921927934,1709580098516893948,6,N,7102,6867,6277

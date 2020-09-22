@@ -1,0 +1,10 @@
+10827-keepalived,12758-znc
+scheduler.h,version.h,\lib\scheduler.h,\include\znc\version.h,2648beb6c3fd6cbff2f2d00d659f4d34,d05809c29f032c998a444139c4f0d9ce,-8005149176269317956,-8023445187195380516,8,N,198,43,8
+check_daemon.c,version.h,\keepalived\check\check_daemon.c,\include\znc\version.h,aaec0049f5aeda6e722cd1822badd73b,d05809c29f032c998a444139c4f0d9ce,-8023445049755445028,-8023445187195380516,5,N,468,43,10
+global_data.c,version.h,\keepalived\core\global_data.c,\include\znc\version.h,94f8fa69fbfdea221a3ae57a538776e0,d05809c29f032c998a444139c4f0d9ce,-8018941467844880228,-8023445187195380516,8,N,581,43,8
+main.c,version.h,\keepalived\core\main.c,\include\znc\version.h,4a989f0c3700d01d4c2f706b6e6fd73e,d05809c29f032c998a444139c4f0d9ce,-8023445049755510628,-8023445187195380516,5,N,1950,43,13
+check_http.h,version.h,\keepalived\include\check_http.h,\include\znc\version.h,53e952ac27144f509f30ba9b24a9da95,d05809c29f032c998a444139c4f0d9ce,-7428970036381578084,-8023445187195380516,7,N,108,43,8
+global_data.h,version.h,\keepalived\include\global_data.h,\include\znc\version.h,9114fe42745bf28b60785d29f3f9b027,d05809c29f032c998a444139c4f0d9ce,-7735214673603798884,-8023445187195380516,6,N,238,43,8
+vrrp_iprule.h,version.h,\keepalived\include\vrrp_iprule.h,\include\znc\version.h,13163cfce3f6cc4dde48386fdf5a034e,d05809c29f032c998a444139c4f0d9ce,-8023163575449888612,-8023445187195380516,8,N,93,43,8
+vrrp_snmp.h,version.h,\keepalived\include\vrrp_snmp.h,\include\znc\version.h,fc1210c6d5b253840ad9e24fb8197a41,d05809c29f032c998a444139c4f0d9ce,-8023515435679548260,-8023445187195380516,7,N,49,43,8
+vrrp_daemon.c,version.h,\keepalived\vrrp\vrrp_daemon.c,\include\znc\version.h,d01de969883304fe61d29b40e40f56a2,d05809c29f032c998a444139c4f0d9ce,-8023447265958635364,-8023445187195380516,7,N,781,43,10

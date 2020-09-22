@@ -1,0 +1,10 @@
+12310-weechat,754-folly
+wee-url.c,CPortability.h,\src\core\wee-url.c,\folly\CPortability.h,2182536a79bada4949d9bc0483b5da6d,2071cc58e111b1fb40fa47a9161f5356,-8023445049755510628,-8023445049756493156,3,N,1111,137,31
+wee-url.c,Portability.h,\src\core\wee-url.c,\folly\Portability.h,2182536a79bada4949d9bc0483b5da6d,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755510628,-7447019619264177960,6,N,1111,392,75
+wee-url.c,Config.h,\src\core\wee-url.c,\folly\portability\Config.h,2182536a79bada4949d9bc0483b5da6d,a5be13d038f6f1ed74f7f738d2c00e52,-8023445049755510628,-9171865188386433004,8,N,1111,16,5
+wee-url.c,Stdlib.h,\src\core\wee-url.c,\folly\portability\Stdlib.h,2182536a79bada4949d9bc0483b5da6d,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049755510628,-8028512836321486692,7,N,1111,31,7
+wee-url.c,SysUio.h,\src\core\wee-url.c,\folly\portability\SysUio.h,2182536a79bada4949d9bc0483b5da6d,fd0233f243af7c24827c966c225b6eda,-8023445049755510628,-7744256783963336548,8,N,1111,21,6
+wee-url.c,Windows.h,\src\core\wee-url.c,\folly\portability\Windows.h,2182536a79bada4949d9bc0483b5da6d,8d255d6eb746df0dd20db480cd3643e5,-8023445049755510628,-8023516518011316068,2,N,1111,48,13
+wee-url.c,EventFDWrapper.h,\src\core\wee-url.c,\folly\io\async\EventFDWrapper.h,2182536a79bada4949d9bc0483b5da6d,442338be25f54c06750d74e9063379f7,-8023445049755510628,-8455834319570281315,8,N,1111,32,7
+gui-curses-term.c,Portability.h,\src\gui\curses\gui-curses-term.c,\folly\Portability.h,12c6b2e5780349c1e6b15f2a0f08c5ca,4a7decd5a24ba7fccd761801e3ef4412,-7447028277908808228,-7447019619264177960,7,N,23,392,9
+gui-curses-term.c,EventFDWrapper.h,\src\gui\curses\gui-curses-term.c,\folly\io\async\EventFDWrapper.h,12c6b2e5780349c1e6b15f2a0f08c5ca,442338be25f54c06750d74e9063379f7,-7447028277908808228,-8455834319570281315,7,N,23,32,7

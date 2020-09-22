@@ -1,0 +1,13 @@
+5091-LFLiveKit,6285-ImageMagick
+bytes.h,coders-list.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\coders\coders-list.h,27e627df8a5d4ca5b8f515c9651ea6ad,da2167028ce6417787bcd9607b33ade8,-8023445049755527012,-7952513354550683492,4,N,45,173,12
+bytes.h,coders.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\coders\coders.h,27e627df8a5d4ca5b8f515c9651ea6ad,e381af91df37f3ca92c725e4d44a0aae,-8023445049755527012,-3411759031362725731,5,N,45,172,12
+bytes.h,animate-private.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickCore\animate-private.h,27e627df8a5d4ca5b8f515c9651ea6ad,d4819217e3565dd01efc90635d9a2319,-8023445049755527012,-7771252266715785060,4,N,45,19,5
+bytes.h,display-private.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickCore\display-private.h,27e627df8a5d4ca5b8f515c9651ea6ad,4852aa2ce07ea57f4ee9ee630e4cfd38,-8023445049755527012,-7988542152911859556,7,N,45,19,5
+bytes.h,magick-config.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickCore\magick-config.h,27e627df8a5d4ca5b8f515c9651ea6ad,e63d3d83696985be12017660c957883e,-8023445049755527012,-8023445049755510628,1,N,45,185,13
+bytes.h,nt-base.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickCore\nt-base.h,27e627df8a5d4ca5b8f515c9651ea6ad,6845456c26530905ede972637f7495b1,-8023445049755527012,-8023445049755510628,1,N,45,282,13
+bytes.h,studio.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickCore\studio.h,27e627df8a5d4ca5b8f515c9651ea6ad,46305552c943ef349fb6bb741ecb832b,-8023445049755527012,-8023445049755510628,1,N,45,303,14
+bytes.h,version.c,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickCore\version.c,27e627df8a5d4ca5b8f515c9651ea6ad,8294bca6e82e31c9d2d2bf5ed7898873,-8023445049755527012,-8023445049755510628,1,N,45,351,13
+bytes.h,MagickWand.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickWand\MagickWand.h,27e627df8a5d4ca5b8f515c9651ea6ad,26ce920da0c602cb29591dbca84b672f,-8023445049755527012,-8024007999705787748,7,N,45,101,13
+bytes.h,method-attribute.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickWand\method-attribute.h,27e627df8a5d4ca5b8f515c9651ea6ad,401f0f6cfb93462bcb77f5d65eeefc09,-8023445049755527012,-9176084254743471908,8,N,45,92,13
+bytes.h,studio.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\MagickWand\studio.h,27e627df8a5d4ca5b8f515c9651ea6ad,3315059cc1afe634209d06d5c6f78f4e,-8023445049755527012,-8023445049755510628,1,N,45,267,14
+bytes.h,Include.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,\Magick++\lib\Magick++\Include.h,27e627df8a5d4ca5b8f515c9651ea6ad,d559a3b26c6dd77eb96cece9b06c01de,-8023445049755527012,-8023445049755510628,1,N,45,1393,14

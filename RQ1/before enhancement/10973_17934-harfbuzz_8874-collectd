@@ -1,0 +1,6 @@
+17934-harfbuzz,8874-collectd
+hb-fc-list.c,collectd.h,\util\hb-fc-list.c,\src\daemon\collectd.h,c27d8fd53993dc1d7a624ea1ec1d10a6,2b583af2ee5d68797b260dc2234a9a80,1199786163039426780,-8023445049755510628,8,N,178,198,17
+hb-fc-list.c,mount.h,\util\hb-fc-list.c,\src\utils\mount\mount.h,c27d8fd53993dc1d7a624ea1ec1d10a6,8535c5ea598e2c2e046efd01984ce929,1199786163039426780,-8023445049755510628,8,N,178,64,12
+test-c.c,collectd.h,\test\api\test-c.c,\src\daemon\collectd.h,40a532b71e6242f205df120cc480a67e,2b583af2ee5d68797b260dc2234a9a80,-8023445049757468516,-8023445049755510628,3,N,26,198,6
+test-c.c,stdendian.h,\test\api\test-c.c,\src\libcollectdclient\collectd\stdendian.h,40a532b71e6242f205df120cc480a67e,098cf6af06fc9530aaf9936b14d4d802,-8023445049757468516,-8032521930559661924,8,N,26,165,6
+test-c.c,mount.h,\test\api\test-c.c,\src\utils\mount\mount.h,40a532b71e6242f205df120cc480a67e,8535c5ea598e2c2e046efd01984ce929,-8023445049757468516,-8023445049755510628,3,N,26,64,6

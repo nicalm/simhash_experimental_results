@@ -1,0 +1,7 @@
+618-jq,86-netdata
+jv_dtoa.c,libnetdata.h,\src\jv_dtoa.c,\libnetdata\libnetdata.h,e22c5b05bfd24415a3e8d8da3f8791ac,b36073eea8dc836d3f37e426aebdabda,-8023445049755510756,-8023445049755510628,1,N,3652,248,45
+jv_dtoa.c,clocks.h,\src\jv_dtoa.c,\libnetdata\clocks\clocks.h,e22c5b05bfd24415a3e8d8da3f8791ac,817f185c065ee719f0a0f5d506401b1f,-8023445049755510756,-7879330084279756644,8,N,3652,66,12
+lexer.h,libnetdata.h,\src\lexer.h,\libnetdata\libnetdata.h,da2a1a7176c85a8ba5c6ad487a6476ec,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,554,248,51
+lexer.h,clocks.h,\src\lexer.h,\libnetdata\clocks\clocks.h,da2a1a7176c85a8ba5c6ad487a6476ec,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,554,66,12
+libm.h,libnetdata.h,\src\libm.h,\libnetdata\libnetdata.h,2cd1e495bcbe77e741569181c2fbb01b,b36073eea8dc836d3f37e426aebdabda,-8032452266248775464,-8023445049755510628,7,N,291,248,45
+decimal128.h,libnetdata.h,\src\decNumber\decimal128.h,\libnetdata\libnetdata.h,d64413929172219be1c2a13c8751b279,b36073eea8dc836d3f37e426aebdabda,-9180870188349695848,-8023445049755510628,8,N,41,248,6

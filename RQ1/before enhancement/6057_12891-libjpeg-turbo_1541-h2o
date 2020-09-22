@@ -1,0 +1,16 @@
+12891-libjpeg-turbo,1541-h2o
+djpeg.c,port.h,\djpeg.c,\deps\brotli\c\include\brotli\port.h,f279aaae72fd4362da53b7707e37d114,350994917b4cef7e95001ccfdd8a21d9,-7447837519011981217,-9031978687939553124,8,N,566,102,24
+jcdctmgr.c,port.h,\jcdctmgr.c,\deps\brotli\c\include\brotli\port.h,56e04669656b24d4dff2211e451cb3d9,350994917b4cef7e95001ccfdd8a21d9,254452952107899036,-9031978687939553124,8,N,461,102,27
+jmorecfg.h,fmacros.h,\jmorecfg.h,\deps\hiredis\fmacros.h,1469bb97fe30335d1c73bd97389298b2,9d6fd32f84c9d0377076a4587579ec51,-8023517342645037028,-8023515419036559204,4,N,162,20,7
+jmorecfg.h,mrbconf.h,\jmorecfg.h,\deps\mruby\include\mrbconf.h,1469bb97fe30335d1c73bd97389298b2,b30b9460d209b1cc68a61c5604bdd5a1,-8023517342645037028,-8023445049755510628,4,N,162,43,19
+jmorecfg.h,mruby.h,\jmorecfg.h,\deps\mruby\include\mruby.h,1469bb97fe30335d1c73bd97389298b2,919df8d515b52adcdfa92f19037768c8,-8023517342645037028,-9176366554362357572,6,N,162,440,34
+jmorecfg.h,types.h,\jmorecfg.h,\deps\picotls\deps\micro-ecc\types.h,1469bb97fe30335d1c73bd97389298b2,d0ccddb6a5d5d18dbed2dc07299a4b3d,-8023517342645037028,-8023445049757607011,8,N,162,87,17
+jmorecfg.h,uECC.h,\jmorecfg.h,\deps\picotls\deps\micro-ecc\uECC.h,1469bb97fe30335d1c73bd97389298b2,e777f21ea5ae63708919f7e3ba1592f7,-8023517342645037028,1199926987099265180,5,N,162,105,18
+dynsections.js,dynsections.js,\doc\html\dynsections.js,\deps\yaml\doc\html\dynsections.js,45c183a01df36e7b9fd9bef44db8c059,45c183a01df36e7b9fd9bef44db8c059,-7502111337385236548,-7502111337385236548,0,Y,83,83,83
+jsimd.c,packet.cc,\simd\arm\jsimd.c,\deps\quicly\fuzz\packet.cc,ab85cff8df274c474ec2529efd01fcee,7c717ef9ac4ce2361eee410620032e2b,-7527093471831151877,1696278565023902427,5,N,570,110,26
+jsimd.c,packet.cc,\simd\arm64\jsimd.c,\deps\quicly\fuzz\packet.cc,949b0478d0bea180679298e72ac0bd29,7c717ef9ac4ce2361eee410620032e2b,-7527093471831151877,1696278565023902427,5,N,630,110,26
+jsimd.c,packet.cc,\simd\mips\jsimd.c,\deps\quicly\fuzz\packet.cc,84ede2a460e98b221842e1ad2b2ecbab,7c717ef9ac4ce2361eee410620032e2b,-7527093471831135653,1696278565023902427,4,N,890,110,27
+jccolext-altivec.c,fmacros.h,\simd\powerpc\jccolext-altivec.c,\deps\hiredis\fmacros.h,f35971d8d3460ef5abe9dca10e095ed1,9d6fd32f84c9d0377076a4587579ec51,-3267362370959935348,-8023515419036559204,8,N,174,20,7
+jccolext-altivec.c,mrbconf.h,\simd\powerpc\jccolext-altivec.c,\deps\mruby\include\mrbconf.h,f35971d8d3460ef5abe9dca10e095ed1,b30b9460d209b1cc68a61c5604bdd5a1,-3267362370959935348,-8023445049755510628,8,N,174,43,14
+jccolext-altivec.c,port.h,\simd\powerpc\jccolext-altivec.c,\deps\brotli\c\include\brotli\port.h,f35971d8d3460ef5abe9dca10e095ed1,350994917b4cef7e95001ccfdd8a21d9,-3267362370959935348,-9031978687939553124,8,N,174,102,14
+jsimd.c,packet.cc,\simd\powerpc\jsimd.c,\deps\quicly\fuzz\packet.cc,ba0a6531fb787ea48ed0da5d49d2faf9,7c717ef9ac4ce2361eee410620032e2b,-7529345340363773229,1696278565023902427,5,N,696,110,26

@@ -1,0 +1,11 @@
+12873-mediawiki,2202-qBittorrent
+LogFormatter.php,proplistdelegate.cpp,\includes\logging\LogFormatter.php,\src\gui\properties\proplistdelegate.cpp,1a5b87b8ddd192cf448a8d7e785d9d75,4de60f6b36141f92c2bc5ba3d77471db,5729127442933127383,-3494526068898088747,5,N,551,172,40
+FormatMetadata.php,proplistdelegate.cpp,\includes\media\FormatMetadata.php,\src\gui\properties\proplistdelegate.cpp,d4c424b998a37738addfaa8660b2d286,4de60f6b36141f92c2bc5ba3d77471db,5729109850747091159,-3494526068898088747,5,N,1326,172,44
+IPTC.php,session.cpp,\includes\media\IPTC.php,\src\base\bittorrent\session.cpp,5acd3160fef09ca8547c657db582b971,ca3fc73b6732798b8724618e8c3fec27,5729127442933135575,6881978578661030105,8,N,377,3742,110
+IPTC.php,proplistdelegate.cpp,\includes\media\IPTC.php,\src\gui\properties\proplistdelegate.cpp,5acd3160fef09ca8547c657db582b971,4de60f6b36141f92c2bc5ba3d77471db,5729127442933135575,-3494526068898088747,4,N,377,172,40
+ExtensionDependencyError.php,proplistdelegate.cpp,\includes\registration\ExtensionDependencyError.php,\src\gui\properties\proplistdelegate.cpp,f7bb90c1ca9716b4c4e940b5871755aa,4de60f6b36141f92c2bc5ba3d77471db,5729126334831573079,-3494526068898088747,7,N,44,172,12
+LanguageGa.php,proplistdelegate.cpp,\languages\classes\LanguageGa.php,\src\gui\properties\proplistdelegate.cpp,04d0499b9cc1cedee645951038d7a892,4de60f6b36141f92c2bc5ba3d77471db,5152671088609114359,-3494526068898088747,8,N,36,172,12
+LanguageOs.php,proplistdelegate.cpp,\languages\classes\LanguageOs.php,\src\gui\properties\proplistdelegate.cpp,1d4803307d9f6c2785f6821207e47529,4de60f6b36141f92c2bc5ba3d77471db,5729672800631306455,-3494526068898088747,8,N,55,172,15
+bench_if_switch.php,session.cpp,\maintenance\benchmarks\bench_if_switch.php,\src\base\bittorrent\session.cpp,ebc9d6c5664eaffdc591b48a194dced3,ca3fc73b6732798b8724618e8c3fec27,5729127442933135575,6881978578661030105,8,N,73,3742,23
+bench_if_switch.php,proplistdelegate.cpp,\maintenance\benchmarks\bench_if_switch.php,\src\gui\properties\proplistdelegate.cpp,ebc9d6c5664eaffdc591b48a194dced3,4de60f6b36141f92c2bc5ba3d77471db,5729127442933135575,-3494526068898088747,4,N,73,172,23
+ga.js,proplistdelegate.cpp,\resources\lib\jquery.i18n\src\languages\ga.js,\src\gui\properties\proplistdelegate.cpp,7427a3d627903337481ce4a93b84ae3c,4de60f6b36141f92c2bc5ba3d77471db,5753615765906950359,-3494526068898088747,8,N,33,172,10

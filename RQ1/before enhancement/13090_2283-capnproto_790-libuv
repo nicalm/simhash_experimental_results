@@ -1,0 +1,6 @@
+2283-capnproto,790-libuv
+miniposix.h,test-list.h,\c++\src\kj\miniposix.h,\test\test-list.h,43597d9a9103c02dbbe46d2c58ecc748,34c37e38fd3367fbe3d6e9280bf86a06,-7455991496707810916,-7374645228437448676,7,N,84,951,15
+miniposix.h,test-uname.c,\c++\src\kj\miniposix.h,\test\test-uname.c,43597d9a9103c02dbbe46d2c58ecc748,e4168fcb68ae66e9d30927d67519b6fb,-7455991496707810916,-7455991513878439779,8,N,84,37,9
+miniposix.h,getaddrinfo.c,\c++\src\kj\miniposix.h,\src\unix\getaddrinfo.c,43597d9a9103c02dbbe46d2c58ecc748,e8e49cecf77e5d3f516ab013154bbd9c,-7455991496707810916,-8023444777025087336,8,N,84,188,24
+miniposix.h,linux-syscalls.c,\c++\src\kj\miniposix.h,\src\unix\linux-syscalls.c,43597d9a9103c02dbbe46d2c58ecc748,e03aa3ff0bab5e21466ddb93bc58c23e,-7455991496707810916,-8023444499991568996,8,N,84,292,28
+miniposix.h,winapi.h,\c++\src\kj\miniposix.h,\src\win\winapi.h,43597d9a9103c02dbbe46d2c58ecc748,4f2f56dcce5d652768e5e4cfcf6661be,-7455991496707810916,-8023445049755510628,5,N,84,3569,12

@@ -1,0 +1,8 @@
+2116-libgit2,6422-roundcubemail
+settings.c,rcube_tnef_decoder.php,\src\settings.c,\program\lib\Roundcube\rcube_tnef_decoder.php,718930b70d05c094a268632a2f1ec06a,8ca46cd084af91332151df25d1c4bd66,6882048947539982549,5729127442933266647,3,N,238,520,65
+settings.c,rcube_sieve_script.php,\src\settings.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,718930b70d05c094a268632a2f1ec06a,3c3c719b9a27e12464461daf90f00d1d,6882048947539982549,5153229640599894231,7,N,238,1009,64
+http_parser.c,rcube_tnef_decoder.php,\deps\http-parser\http_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,624ed39402aecf1d658c88ffcffaee6d,8ca46cd084af91332151df25d1c4bd66,5728845967956424919,5729127442933266647,2,N,1620,520,131
+http_parser.c,rcube_sieve_script.php,\deps\http-parser\http_parser.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,624ed39402aecf1d658c88ffcffaee6d,3c3c719b9a27e12464461daf90f00d1d,5728845967956424919,5153229640599894231,6,N,1620,1009,282
+pcre_dfa_exec.c,rcube_tnef_decoder.php,\deps\pcre\pcre_dfa_exec.c,\program\lib\Roundcube\rcube_tnef_decoder.php,f03c3b607d6e42dce79c2eef8aca81da,8ca46cd084af91332151df25d1c4bd66,5734765807279847671,5729127442933266647,6,N,2711,520,130
+pcre_fullinfo.c,rcube_tnef_decoder.php,\deps\pcre\pcre_fullinfo.c,\program\lib\Roundcube\rcube_tnef_decoder.php,8923cc431580197b3e121f54e41dba57,8ca46cd084af91332151df25d1c4bd66,5729127442933135575,5729127442933266647,1,N,135,520,30
+pcre_fullinfo.c,rcube_sieve_script.php,\deps\pcre\pcre_fullinfo.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,8923cc431580197b3e121f54e41dba57,3c3c719b9a27e12464461daf90f00d1d,5729127442933135575,5153229640599894231,5,N,135,1009,30

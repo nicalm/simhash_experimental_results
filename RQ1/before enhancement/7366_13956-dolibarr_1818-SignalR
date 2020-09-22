@@ -1,0 +1,5 @@
+13956-dolibarr,1818-SignalR
+jquery-ui.js,jquery-ui-1.9.0.js,\htdocs\includes\jquery\js\jquery-ui.js,\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Scripts\jquery-ui-1.9.0.js,ffee8022a592b0d0071d2633a6d55c2e,d0c433c88a236ec971d6c649b7cc88f9,3989487843930311103,4602013677404326333,8,N,13860,11512,7374
+jquery-ui.js,jquery-ui-1.9.0.js,\htdocs\includes\jquery\js\jquery-ui.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\jquery-ui-1.9.0.js,ffee8022a592b0d0071d2633a6d55c2e,d0c433c88a236ec971d6c649b7cc88f9,3989487843930311103,4602013677404326333,8,N,13860,11512,7374
+jquery.cookie.js,jquery.cookie.js,\htdocs\includes\jquery\plugins\jquerytreeview\lib\jquery.cookie.js,\samples\Microsoft.AspNet.SignalR.Samples\Scripts\jquery.cookie.js,3afd2635a3215b776218c4902c698949,02fbaab811ff0ad4955572875be36e12,1706837798637908111,1706837798637908110,1,N,37,37,35
+JsonFormat.php,jshint.js,\htdocs\includes\restler\framework\Luracast\Restler\Format\JsonFormat.php,\tools\jshint\jshint.js,28b10eebdc3b413c15f1a6026642adb9,5b7e4606f34bc95694a32495e24ebcc5,5674996269276772566,558911507776714999,8,N,192,3734,62

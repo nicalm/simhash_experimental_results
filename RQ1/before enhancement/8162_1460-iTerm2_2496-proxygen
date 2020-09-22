@@ -1,0 +1,4 @@
+1460-iTerm2,2496-proxygen
+iTermMetalGlyphKey.h,HTTPEvent.cpp,\sources\iTermMetalGlyphKey.h,\proxygen\lib\http\session\HTTPEvent.cpp,ec93bd52c1bfb24f6f1a8d5c07191b02,f531f441ddbf402ce38379a73fb55e94,5729057074222575775,5729127442933135573,7,N,92,33,11
+iTermMetalGlyphKey.h,HTTPTransactionEgressSM.cpp,\sources\iTermMetalGlyphKey.h,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,ec93bd52c1bfb24f6f1a8d5c07191b02,efc78e843307fbae0fa015e7df0a883b,5729057074222575775,5729127442933135575,6,N,92,102,14
+iTermMetalGlyphKey.h,HTTPTransactionIngressSM.cpp,\sources\iTermMetalGlyphKey.h,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,ec93bd52c1bfb24f6f1a8d5c07191b02,da1ef343309f9dc24e096acd73b993d0,5729057074222575775,5729127442933135575,6,N,92,110,15

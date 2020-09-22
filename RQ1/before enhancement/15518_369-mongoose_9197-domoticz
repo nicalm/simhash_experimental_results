@@ -1,0 +1,5 @@
+369-mongoose,9197-domoticz
+ReadPreference.js,mainworker.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,\main\mainworker.cpp,72ad104b2d3e1cc34b02578eb97d2c64,f4c4b426730e0f8963be06c217764882,5440897058057271519,5729136239026157783,5,N,30,12106,8
+ReadPreference.js,RFXNames.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,\main\RFXNames.cpp,72ad104b2d3e1cc34b02578eb97d2c64,05aacb23294caf3c3e603f6de8b04624,5440897058057271519,5693098645906077919,8,N,30,3550,9
+ReadPreference.js,xpath_processor.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,\tinyxpath\xpath_processor.cpp,72ad104b2d3e1cc34b02578eb97d2c64,46c992ef05a1f80abafff69ee425bf9c,5440897058057271519,5729127995910174935,7,N,30,1762,8
+ReadPreference.js,OZWException.h,\lib\drivers\node-mongodb-native\ReadPreference.js,\hardware\openzwave\OZWException.h,72ad104b2d3e1cc34b02578eb97d2c64,8b03f08d13666ba349826423247bf4e9,5440897058057271519,5449904944638916819,8,N,30,70,9

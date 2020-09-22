@@ -1,0 +1,15 @@
+10841-gimp,5868-libvips
+language.c,composite.cpp,\app\language.c,\libvips\conversion\composite.cpp,4139ff31319ee41dc528275c17de6aaa,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,699,1177,82
+gimpwin32-io.h,buffer.c,\libgimpbase\gimpwin32-io.h,\libvips\iofuncs\buffer.c,56ef6d63cf2566b506fd29ef2a5dcc22,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,58,447,17
+gimpwin32-io.h,init.c,\libgimpbase\gimpwin32-io.h,\libvips\iofuncs\init.c,56ef6d63cf2566b506fd29ef2a5dcc22,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,58,636,18
+gimpwin32-io.h,vector.c,\libgimpbase\gimpwin32-io.h,\libvips\iofuncs\vector.c,56ef6d63cf2566b506fd29ef2a5dcc22,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,58,400,17
+gimpcoreconfig.c,composite.cpp,\app\config\gimpcoreconfig.c,\libvips\conversion\composite.cpp,60331a7dddac7aef0155c034ea225f13,1073a16ac3f3888e7e8384f333542daa,5729127442933135559,-3566301638204286473,8,N,1172,1177,120
+gimpdialogconfig.c,composite.cpp,\app\config\gimpdialogconfig.c,\libvips\conversion\composite.cpp,3820fc02cf2195589ecaca19c1f1acba,1073a16ac3f3888e7e8384f333542daa,5729127442933135575,-3566301638204286473,7,N,821,1177,105
+gimpdisplayshell-title.c,composite.cpp,\app\display\gimpdisplayshell-title.c,\libvips\conversion\composite.cpp,c3eb1838970cef0deeb23eaf230888b6,1073a16ac3f3888e7e8384f333542daa,5738134642187876567,-3566301638204286473,8,N,408,1177,107
+gimppaintoptions.c,composite.cpp,\app\paint\gimppaintoptions.c,\libvips\conversion\composite.cpp,a07a4b807339eb34d624bdd3bea07b09,1073a16ac3f3888e7e8384f333542daa,5730253342839971031,-3566301638204286473,8,N,1042,1177,166
+gimprectangleoptions.c,composite.cpp,\app\tools\gimprectangleoptions.c,\libvips\conversion\composite.cpp,8cb96c1f6566020af09c181289d1a9d5,1073a16ac3f3888e7e8384f333542daa,5729128027047631831,-3566301638204286473,8,N,1007,1177,130
+imap_cern_parse.c,vector.c,\plug-ins\imagemap\imap_cern_parse.c,\libvips\iofuncs\vector.c,55e4dda5509e9476438d61b0b41c52c2,055954f4e165b83818f7e8bd6db904ec,-9176377550016571236,-8023484632710850404,8,N,1205,400,103
+imap_csim_parse.c,vector.c,\plug-ins\imagemap\imap_csim_parse.c,\libvips\iofuncs\vector.c,6c0fd8dae4d7bb8f472f756f2edb786f,055954f4e165b83818f7e8bd6db904ec,-8888144974840538916,-8023484632710850404,7,N,1468,400,103
+imap_ncsa_parse.c,init.c,\plug-ins\imagemap\imap_ncsa_parse.c,\libvips\iofuncs\init.c,77d25a2cd7957fe736c5a4a3beae98fb,e400d93356240e897bbc32ba27bdcd3b,-9176377550015506276,-9176930621544019780,8,N,1212,636,134
+imap_ncsa_parse.c,vector.c,\plug-ins\imagemap\imap_ncsa_parse.c,\libvips\iofuncs\vector.c,77d25a2cd7957fe736c5a4a3beae98fb,055954f4e165b83818f7e8bd6db904ec,-9176377550015506276,-8023484632710850404,6,N,1212,400,103
+scheme.h,vector.c,\plug-ins\script-fu\tinyscheme\scheme.h,\libvips\iofuncs\vector.c,e1ad4e8baad0fc63b3202d6b0eae8777,055954f4e165b83818f7e8bd6db904ec,-7805161205316396900,-8023484632710850404,8,N,211,400,30

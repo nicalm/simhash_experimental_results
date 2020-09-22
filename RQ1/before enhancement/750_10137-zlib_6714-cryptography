@@ -1,0 +1,5 @@
+10137-zlib,6714-cryptography
+gzguts.h,osrandom_engine.h,\gzguts.h,\src\_cffi_src\openssl\src\osrandom_engine.h,d71e3535b6b87307b4104a15791be071,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,157,80,15
+zconf.h,osrandom_engine.h,\zconf.h,\src\_cffi_src\openssl\src\osrandom_engine.h,ccd97cbc26c511a318aa46f8e6df51a6,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,427,80,15
+zutil.c,osrandom_engine.h,\zutil.c,\src\_cffi_src\openssl\src\osrandom_engine.h,4a4179f332d9d5e26199eb2b75c7b632,5faed825e57102494d64f41f67417150,-8023445049754986340,-9176392388590904164,8,N,245,80,14
+zutil.h,osrandom_engine.h,\zutil.h,\src\_cffi_src\openssl\src\osrandom_engine.h,e7909d2ab25406cac90461dc9c664a01,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,196,80,14

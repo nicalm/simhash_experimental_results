@@ -1,0 +1,11 @@
+18962-tcpdump,6422-roundcubemail
+print-dhcp6.c,rcube_tnef_decoder.php,\print-dhcp6.c,\program\lib\Roundcube\rcube_tnef_decoder.php,58245296d8cb74e23948b1fd8623302e,8ca46cd084af91332151df25d1c4bd66,5693098647784831191,5729127442933266647,5,N,724,520,106
+print-icmp.c,rcube_tnef_decoder.php,\print-icmp.c,\program\lib\Roundcube\rcube_tnef_decoder.php,7413b9e7f768edc67fbf18c3fe23c45f,8ca46cd084af91332151df25d1c4bd66,5743746553831008479,5729127442933266647,8,N,596,520,78
+print-icmp6.c,rcube_tnef_decoder.php,\print-icmp6.c,\program\lib\Roundcube\rcube_tnef_decoder.php,a055fc34f9d90f8f80dbc409a6f93b54,8ca46cd084af91332151df25d1c4bd66,5157170292404304087,5729127442933266647,6,N,1793,520,132
+print-icmp6.c,rcube_sieve_script.php,\print-icmp6.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,a055fc34f9d90f8f80dbc409a6f93b54,3c3c719b9a27e12464461daf90f00d1d,5157170292404304087,5153229640599894231,8,N,1793,1009,191
+print-ip-demux.c,rcube_tnef_decoder.php,\print-ip-demux.c,\program\lib\Roundcube\rcube_tnef_decoder.php,e08df10cc1e52adce4fbf8e72a20d332,8ca46cd084af91332151df25d1c4bd66,5729127442933102807,5729127442933266647,2,N,123,520,36
+print-ip-demux.c,rcube_sieve_script.php,\print-ip-demux.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,e08df10cc1e52adce4fbf8e72a20d332,3c3c719b9a27e12464461daf90f00d1d,5729127442933102807,5153229640599894231,4,N,123,1009,36
+print-ldp.c,rcube_tnef_decoder.php,\print-ldp.c,\program\lib\Roundcube\rcube_tnef_decoder.php,57ed9235dbf30f6a8619b8def59865fb,8ca46cd084af91332151df25d1c4bd66,5731942192691329237,5729127442933266647,6,N,514,520,61
+print-ldp.c,rcube_sieve_script.php,\print-ldp.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,57ed9235dbf30f6a8619b8def59865fb,3c3c719b9a27e12464461daf90f00d1d,5731942192691329237,5153229640599894231,8,N,514,1009,60
+print-lmp.c,rcube_tnef_decoder.php,\print-lmp.c,\program\lib\Roundcube\rcube_tnef_decoder.php,8b348cb4eed8e1fcd6cffd2607f8695c,8ca46cd084af91332151df25d1c4bd66,5729127717743933525,5729127442933266647,5,N,933,520,114
+print-ppp.c,rcube_tnef_decoder.php,\print-ppp.c,\program\lib\Roundcube\rcube_tnef_decoder.php,e404d8779ff87e84e0246c8b79b9a979,8ca46cd084af91332151df25d1c4bd66,6881767541282748665,5729127442933266647,8,N,1540,520,131

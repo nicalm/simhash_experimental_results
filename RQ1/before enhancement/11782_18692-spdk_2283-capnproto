@@ -1,0 +1,2 @@
+18692-spdk,2283-capnproto
+assert.h,miniposix.h,\include\spdk_internal\assert.h,\c++\src\kj\miniposix.h,340c3c292f11b3661cb114f5fb4a2722,43597d9a9103c02dbbe46d2c58ecc748,-7384004271941560100,-7455991496707810916,8,N,16,84,6

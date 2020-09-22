@@ -1,0 +1,4 @@
+7025-Stellar,8874-collectd
+Stellar-Swift.h,collectd.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\daemon\collectd.h,fafe37ab4771e0a9586e17224fcc7041,2b583af2ee5d68797b260dc2234a9a80,-7743940123003924324,-8023445049755510628,5,N,231,198,35
+Stellar-Swift.h,stdendian.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\libcollectdclient\collectd\stdendian.h,fafe37ab4771e0a9586e17224fcc7041,098cf6af06fc9530aaf9936b14d4d802,-7743940123003924324,-8032521930559661924,6,N,231,165,32
+Stellar-Swift.h,mount.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\src\utils\mount\mount.h,fafe37ab4771e0a9586e17224fcc7041,8535c5ea598e2c2e046efd01984ce929,-7743940123003924324,-8023445049755510628,5,N,231,64,14

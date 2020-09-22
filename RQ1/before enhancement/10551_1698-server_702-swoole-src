@@ -1,0 +1,4 @@
+1698-server,702-swoole-src
+MDB2SchemaReader.php,swoole_http_parser.c,\lib\private\DB\MDB2SchemaReader.php,\thirdparty\swoole_http_parser.c,d647cd0d11a5a459553ceaf5b5657b44,d155f3ba8a7cdb53f79f34af305581eb,5731379242742884567,5729127442933135575,4,N,240,1234,76
+MDB2SchemaReader.php,log.c,\lib\private\DB\MDB2SchemaReader.php,\src\core\log.c,d647cd0d11a5a459553ceaf5b5657b44,fcd6d98ec4555c3e125d89e154fba5fa,5731379242742884567,5693098645905783253,8,N,240,114,27
+MDB2SchemaReader.php,get.php,\lib\private\DB\MDB2SchemaReader.php,\tests\include\lib\src\responder\get.php,d647cd0d11a5a459553ceaf5b5657b44,0e93a44800862fa891e9d4a8bd016ee0,5731379242742884567,8034970456441796823,6,N,240,71,21

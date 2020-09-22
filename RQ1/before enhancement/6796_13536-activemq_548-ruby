@@ -1,0 +1,3 @@
+13536-activemq,548-ruby
+listener.rb,comparison_spec.rb,\assembly\src\release\examples\stomp\ruby\listener.rb,\spec\ruby\core\numeric\comparison_spec.rb,aaab0330e5e0f285c18e5a2da2ebff20,d4ba1ab4886d68dbc48e035e0b9be33f,-182305067158785018,-254926162248125402,8,N,31,39,4
+listener.rb,bubblebabble_spec.rb,\assembly\src\release\examples\stomp\ruby\listener.rb,\spec\ruby\library\digest\bubblebabble_spec.rb,aaab0330e5e0f285c18e5a2da2ebff20,57bc73cbe41dd1e8638ebfcd69d2573b,-182305067158785018,-256051503809219574,8,N,31,24,4

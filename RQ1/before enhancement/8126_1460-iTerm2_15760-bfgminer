@@ -1,0 +1,17 @@
+1460-iTerm2,15760-bfgminer
+ini.h,compat.h,\ThirdParty\inih\ini.h,\compat.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,6f280ac9c52face753ea81ae98cfe95d,-8023445049755510564,-8014437852681811908,8,N,57,164,16
+ini.h,driver-cpu.c,\ThirdParty\inih\ini.h,\driver-cpu.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,be0f700b73a52208dd53210582876f9e,-8023445049755510564,-7807272267641726562,5,N,57,682,18
+ini.h,driver-cpu.h,\ThirdParty\inih\ini.h,\driver-cpu.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,092bcdcc676bceef9c2bba9e9b4bfe90,-8023445049755510564,-7446984297678579684,7,N,57,62,13
+ini.h,miner.h,\ThirdParty\inih\ini.h,\miner.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,2a2a55093078b0e951ca70e852eb3abc,-8023445049755510564,-8021228434313848776,7,N,57,1425,18
+ini.h,cl_platform.h,\ThirdParty\inih\ini.h,\CL\cl_platform.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,fc86a2210e718fbcf95aabcf0efa129a,-8023445049755510564,-8023445049755510564,0,N,57,935,20
+ini.h,signal.in.h,\ThirdParty\inih\ini.h,\lib\signal.in.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,ab5029c765029582a72eaf9ee25fe736,-8023445049755510564,-8023445049755510628,1,N,57,258,20
+ini.h,stddef.in.h,\ThirdParty\inih\ini.h,\lib\stddef.in.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,51fb0aab8a1f88b1353623a5d3ebf080,-8023445049755510564,-7446702960451199844,6,N,57,37,12
+ini.h,stdint.in.h,\ThirdParty\inih\ini.h,\lib\stdint.in.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,cae8be4f2dc822552d990c5e166b9add,-8023445049755510564,-8023455787174799140,5,N,57,383,17
+ini.h,string.in.h,\ThirdParty\inih\ini.h,\lib\string.in.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,79edfbf7ab10d649596b9a9e586671ee,-8023445049755510564,-8023445049755510628,1,N,57,697,16
+BetterFontPicker-Swift.h,driver-cpu.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\driver-cpu.c,9cdfc1f6cb7907e29a4e6b2cf0041946,be0f700b73a52208dd53210582876f9e,-8023479959251789668,-7807272267641726562,7,N,335,682,46
+BetterFontPicker-Swift.h,miner.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\miner.h,9cdfc1f6cb7907e29a4e6b2cf0041946,2a2a55093078b0e951ca70e852eb3abc,-8023479959251789668,-8021228434313848776,7,N,335,1425,54
+BetterFontPicker-Swift.h,cl_platform.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\CL\cl_platform.h,9cdfc1f6cb7907e29a4e6b2cf0041946,fc86a2210e718fbcf95aabcf0efa129a,-8023479959251789668,-8023445049755510564,4,N,335,935,59
+BetterFontPicker-Swift.h,signal.in.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\lib\signal.in.h,9cdfc1f6cb7907e29a4e6b2cf0041946,ab5029c765029582a72eaf9ee25fe736,-8023479959251789668,-8023445049755510628,3,N,335,258,54
+BetterFontPicker-Swift.h,stddef.in.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\lib\stddef.in.h,9cdfc1f6cb7907e29a4e6b2cf0041946,51fb0aab8a1f88b1353623a5d3ebf080,-8023479959251789668,-7446702960451199844,8,N,335,37,13
+BetterFontPicker-Swift.h,stdint.in.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\lib\stdint.in.h,9cdfc1f6cb7907e29a4e6b2cf0041946,cae8be4f2dc822552d990c5e166b9add,-8023479959251789668,-8023455787174799140,7,N,335,383,53
+BetterFontPicker-Swift.h,string.in.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\lib\string.in.h,9cdfc1f6cb7907e29a4e6b2cf0041946,79edfbf7ab10d649596b9a9e586671ee,-8023479959251789668,-8023445049755510628,3,N,335,697,59

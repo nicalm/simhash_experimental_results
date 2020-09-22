@@ -1,0 +1,4 @@
+10081-irssi,9529-ltp
+otr-ops.c,json_writer.cpp,\src\otr\otr-ops.c,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,78f1f6c5943450ae1c92e51ced46839e,b6ab383125673428393a9226be5df7ad,1117440324994119895,973042564577409238,6,N,248,1063,71
+formats.c,json_reader.cpp,\src\fe-common\core\formats.c,\thirdparty\jsoncpp\src\lib_json\json_reader.cpp,81ad733fd560a7711254766564a4d1b4,76bf98ba073ac08c1332f620f5bff065,5729127511652612311,6814424653137246423,7,N,1160,1814,263
+formats.c,json_writer.cpp,\src\fe-common\core\formats.c,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,81ad733fd560a7711254766564a4d1b4,b6ab383125673428393a9226be5df7ad,5729127511652612311,973042564577409238,7,N,1160,1063,224

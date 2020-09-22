@@ -1,0 +1,10 @@
+1460-iTerm2,754-folly
+ini.h,CPortability.h,\ThirdParty\inih\ini.h,\folly\CPortability.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,2071cc58e111b1fb40fa47a9161f5356,-8023445049755510564,-8023445049756493156,4,N,57,137,16
+ini.h,Portability.h,\ThirdParty\inih\ini.h,\folly\Portability.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755510564,-7447019619264177960,5,N,57,392,17
+ini.h,Stdlib.h,\ThirdParty\inih\ini.h,\folly\portability\Stdlib.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049755510564,-8028512836321486692,8,N,57,31,8
+ini.h,Windows.h,\ThirdParty\inih\ini.h,\folly\portability\Windows.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,8d255d6eb746df0dd20db480cd3643e5,-8023445049755510564,-8023516518011316068,3,N,57,48,13
+BetterFontPicker-Swift.h,CPortability.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\folly\CPortability.h,9cdfc1f6cb7907e29a4e6b2cf0041946,2071cc58e111b1fb40fa47a9161f5356,-8023479959251789668,-8023445049756493156,6,N,335,137,43
+BetterFontPicker-Swift.h,Portability.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\folly\Portability.h,9cdfc1f6cb7907e29a4e6b2cf0041946,4a7decd5a24ba7fccd761801e3ef4412,-8023479959251789668,-7447019619264177960,7,N,335,392,58
+BetterFontPicker-Swift.h,SysUio.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\folly\portability\SysUio.h,9cdfc1f6cb7907e29a4e6b2cf0041946,fd0233f243af7c24827c966c225b6eda,-8023479959251789668,-7744256783963336548,7,N,335,21,5
+BetterFontPicker-Swift.h,Windows.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\folly\portability\Windows.h,9cdfc1f6cb7907e29a4e6b2cf0041946,8d255d6eb746df0dd20db480cd3643e5,-8023479959251789668,-8023516518011316068,5,N,335,48,13
+BetterFontPicker-Swift.h,EventFDWrapper.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\folly\io\async\EventFDWrapper.h,9cdfc1f6cb7907e29a4e6b2cf0041946,442338be25f54c06750d74e9063379f7,-8023479959251789668,-8455834319570281315,7,N,335,32,8

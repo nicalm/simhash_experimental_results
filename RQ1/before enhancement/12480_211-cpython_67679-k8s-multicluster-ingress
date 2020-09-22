@@ -1,0 +1,6 @@
+211-cpython,67679-k8s-multicluster-ingress
+ast_opt.c,handlebars-1.0.0.js,\Python\ast_opt.c,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,0f0937406669337c16f02a758000b618,74916c394efe99b4c752280dde5428fa,5747141845603367111,5729131840979646718,8,N,686,1719,155
+structmember.c,handlebars-1.0.0.js,\Python\structmember.c,\vendor\k8s.io\kubernetes\third_party\swagger-ui\lib\handlebars-1.0.0.js,c7a45e587f12849d05de4ab18b2e3e51,74916c394efe99b4c752280dde5428fa,1117422732808075383,5729131840979646718,7,N,272,1719,63
+_asynciomodule.c.h,bindata.go,\Modules\clinic\_asynciomodule.c.h,\vendor\k8s.io\kubernetes\pkg\generated\bindata.go,5426ad3df74aed3dc6fbff66ca7ef085,0252d341ddc8a814d677d00bccd02952,2694417407378419982,2766545387340390406,8,N,697,17843,106
+winreg.c.h,bindata.go,\PC\clinic\winreg.c.h,\vendor\k8s.io\kubernetes\pkg\generated\bindata.go,e0a1ca1f168126ed844184f2f778c948,0252d341ddc8a814d677d00bccd02952,2802644261046018054,2766545387340390406,5,N,966,17843,149
+info.py,scannerc.go,\Tools\c-analyzer\c_analyzer\common\info.py,\vendor\gopkg.in\yaml.v2\scannerc.go,bafeed7fe9511e904fa52eca1534e02e,84689d668845a8c5e8bad8e06deff4a0,-4208258730196667806,-3055187690397830570,8,N,86,1528,1

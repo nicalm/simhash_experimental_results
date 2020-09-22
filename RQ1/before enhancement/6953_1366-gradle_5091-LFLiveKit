@@ -1,0 +1,4 @@
+1366-gradle,5091-LFLiveKit
+CUnit.h,bytes.h,\subprojects\docs\src\snippets\native-binaries\cunit\libs\cunit\2.1-2\include\CUnit\CUnit.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,7cdfbbb60efd2da8ef9753cd11d5a1e3,27e627df8a5d4ca5b8f515c9651ea6ad,-8023491229243761892,-8023445049755527012,7,N,143,45,13
+gtest-port.h,bytes.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,23446e26c2aacb9eb58191ae642bfa7a,27e627df8a5d4ca5b8f515c9651ea6ad,-7879329861679654756,-8023445049755527012,2,N,906,45,13
+gtest-port.h,bytes.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\LFLiveKit\Vendor\pili-librtmp\bytes.h,23446e26c2aacb9eb58191ae642bfa7a,27e627df8a5d4ca5b8f515c9651ea6ad,-7879329861679654756,-8023445049755527012,2,N,906,45,13

@@ -1,0 +1,4 @@
+506-ghidra,86-netdata
+types.h,libnetdata.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\libnetdata\libnetdata.h,cc1a30d590b235c7ea93b0e1d1549a93,b36073eea8dc836d3f37e426aebdabda,-8023445206521817060,-8023445049755510628,4,N,280,248,46
+types.h,clocks.h,\Ghidra\Extensions\SleighDevTools\pcodetest\c_src\types.h,\libnetdata\clocks\clocks.h,cc1a30d590b235c7ea93b0e1d1549a93,817f185c065ee719f0a0f5d506401b1f,-8023445206521817060,-7879330084279756644,7,N,280,66,11
+ansidecl.h,libnetdata.h,\GPL\DemanglerGnu\src\demangler_gnu\headers\ansidecl.h,\libnetdata\libnetdata.h,4e4a2dda74fbf81b9297e96b5756c8ac,b36073eea8dc836d3f37e426aebdabda,-8023444774877602148,-8023445049755510628,3,N,213,248,45

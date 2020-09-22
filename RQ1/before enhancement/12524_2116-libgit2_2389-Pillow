@@ -1,0 +1,12 @@
+2116-libgit2,2389-Pillow
+posix.h,ImPlatform.h,\src\posix.h,\src\libImaging\ImPlatform.h,5939a6412855eb77bc24c53a476d1930,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,122,58,15
+thread-utils.c,ImPlatform.h,\src\thread-utils.c,\src\libImaging\ImPlatform.h,8713652419d08023d42160956cf300e0,6670b4584189b95bdcaaa198dabbf5c8,-8020067350305449316,-8024570949662353252,5,N,38,58,9
+http_parser.c,FliDecode.c,\deps\http-parser\http_parser.c,\src\libImaging\FliDecode.c,624ed39402aecf1d658c88ffcffaee6d,93128dc18746c911ae74ad9f56192e4b,5728845967956424919,5153458476439616215,7,N,1620,160,46
+compat.h,ImPlatform.h,\deps\ntlmclient\compat.h,\src\libImaging\ImPlatform.h,5b06983268d133b177cf5b90fa9da075,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510626,-8024570949662353252,2,N,21,58,7
+pcre_fullinfo.c,FliDecode.c,\deps\pcre\pcre_fullinfo.c,\src\libImaging\FliDecode.c,8923cc431580197b3e121f54e41dba57,93128dc18746c911ae74ad9f56192e4b,5729127442933135575,5153458476439616215,8,N,135,160,19
+gzguts.h,ImPlatform.h,\deps\zlib\gzguts.h,\src\libImaging\ImPlatform.h,d71e3535b6b87307b4104a15791be071,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,157,58,16
+zconf.h,ImPlatform.h,\deps\zlib\zconf.h,\src\libImaging\ImPlatform.h,ccd97cbc26c511a318aa46f8e6df51a6,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,427,58,17
+zutil.c,ImPlatform.h,\deps\zlib\zutil.c,\src\libImaging\ImPlatform.h,4a4179f332d9d5e26199eb2b75c7b632,6670b4584189b95bdcaaa198dabbf5c8,-8023445049754986340,-8024570949662353252,2,N,245,58,14
+zutil.h,ImPlatform.h,\deps\zlib\zutil.h,\src\libImaging\ImPlatform.h,e7909d2ab25406cac90461dc9c664a01,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,196,58,15
+stdint.h,ImPlatform.h,\include\git2\stdint.h,\src\libImaging\ImPlatform.h,0a9faad66f590c9572581753d453013e,6670b4584189b95bdcaaa198dabbf5c8,-8018800163019237220,-8024570949662353252,7,N,152,58,16
+sha1.c,ImPlatform.h,\src\hash\sha1\sha1dc\sha1.c,\src\libImaging\ImPlatform.h,6347de19da23b6072273f8c2426ff3b6,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,1597,58,15

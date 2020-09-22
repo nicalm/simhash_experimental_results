@@ -1,0 +1,7 @@
+1930-SwifterSwift,8874-collectd
+CGColorExtensions.swift,collectd.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\daemon\collectd.h,13a384d167268ac57b0c34b9cb13ed0f,2b583af2ee5d68797b260dc2234a9a80,1189793885789145236,-8023445049755510628,7,N,21,198,5
+CGColorExtensions.swift,mount.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\utils\mount\mount.h,13a384d167268ac57b0c34b9cb13ed0f,8535c5ea598e2c2e046efd01984ce929,1189793885789145236,-8023445049755510628,7,N,21,64,5
+NSAttributedStringExtensions.swift,collectd.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\daemon\collectd.h,682db1376e5e9e45d24a9e1b1ad3e9f8,2b583af2ee5d68797b260dc2234a9a80,-9174114755220842340,-8023445049755510628,6,N,87,198,11
+NSAttributedStringExtensions.swift,mount.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\utils\mount\mount.h,682db1376e5e9e45d24a9e1b1ad3e9f8,8535c5ea598e2c2e046efd01984ce929,-9174114755220842340,-8023445049755510628,6,N,87,64,11
+StringExtensions.swift,collectd.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\daemon\collectd.h,d53332d341abeff92e3d2d2ce16a4d0a,2b583af2ee5d68797b260dc2234a9a80,-3051550226512422756,-8023445049755510628,7,N,650,198,51
+StringExtensions.swift,mount.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\utils\mount\mount.h,d53332d341abeff92e3d2d2ce16a4d0a,8535c5ea598e2c2e046efd01984ce929,-3051550226512422756,-8023445049755510628,7,N,650,64,14

@@ -1,0 +1,3 @@
+168-AdminLTE,6664-ModSecurity
+fastclick.js,severity.cc,\plugins\fastclick\fastclick.js,\src\actions\severity.cc,10e704e561b407955f273819d083b958,497d4e061fc56cdefb643c5f6d57a643,6644123427968739771,6717025446861306266,8,N,400,62,19
+inputmask.js,seclang-parser.cc,\plugins\inputmask\inputmask.js,\src\parser\seclang-parser.cc,57d26571eeeb528dfa6b0195cfa1b5d0,c95834041ac82565ed4d4a4bccd1b864,5728986778392393927,5729127442933135575,7,N,2703,6079,379

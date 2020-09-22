@@ -1,0 +1,8 @@
+2283-capnproto,6347-librealsense
+miniposix.h,glext.h,\c++\src\kj\miniposix.h,\third-party\glad\glext.h,43597d9a9103c02dbbe46d2c58ecc748,b47c3053eb61af62c08dd7e6f45631ce,-7455991496707810916,-8023445049755510628,5,N,84,12110,16
+miniposix.h,easylogging++.h,\c++\src\kj\miniposix.h,\third-party\easyloggingpp\src\easylogging++.h,43597d9a9103c02dbbe46d2c58ecc748,a5e6b54e91368f83f029eaf8a7a4ca68,-7455991496707810916,-8023445049756558632,7,N,84,3696,29
+miniposix.h,tinycthread.h,\c++\src\kj\miniposix.h,\third-party\glfw\deps\tinycthread.h,43597d9a9103c02dbbe46d2c58ecc748,d64af4e68966d2e35effa48ebd7b3c79,-7455991496707810916,-8023444774877636452,7,N,84,138,16
+miniposix.h,win32_platform.h,\c++\src\kj\miniposix.h,\third-party\glfw\src\win32_platform.h,43597d9a9103c02dbbe46d2c58ecc748,2445649aade285164b3f3df9cb6b0b9c,-7455991496707810916,-8023445049755510628,5,N,84,324,13
+miniposix.h,_mingw_dxhelper.h,\c++\src\kj\miniposix.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,43597d9a9103c02dbbe46d2c58ecc748,5423da3108dd32be383352d8d6c55edb,-7455991496707810916,-9185092003762480996,7,N,84,102,16
+miniposix.h,vulkan.h,\c++\src\kj\miniposix.h,\third-party\glfw\deps\vulkan\vulkan.h,43597d9a9103c02dbbe46d2c58ecc748,368be8e566768753806bdc8cc0052fc3,-7455991496707810916,1163898190080301212,7,N,84,38,10
+miniposix.h,glfw3native.h,\c++\src\kj\miniposix.h,\third-party\glfw\include\GLFW\glfw3native.h,43597d9a9103c02dbbe46d2c58ecc748,c5d9fae34608972236a415167b8ed590,-7455991496707810916,-8023445051902996324,7,N,84,83,14

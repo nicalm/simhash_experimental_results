@@ -1,0 +1,4 @@
+6422-roundcubemail,790-libuv
+rcube_tnef_decoder.php,s5.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\samples\socks5-proxy\s5.c,8ca46cd084af91332151df25d1c4bd66,cc133e56e5a931d4f7019c3ac0e6fcc9,5729127442933266647,6846020141864235479,8,N,520,221,52
+rcube_tnef_decoder.php,handle-inl.h,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\win\handle-inl.h,8ca46cd084af91332151df25d1c4bd66,34080acd31e6a3b5bf545c24c6e85c3f,5729127442933266647,5729127442933135571,2,N,520,110,18
+rcube_sieve_script.php,handle-inl.h,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\src\win\handle-inl.h,3c3c719b9a27e12464461daf90f00d1d,34080acd31e6a3b5bf545c24c6e85c3f,5153229640599894231,5729127442933135571,6,N,1009,110,18

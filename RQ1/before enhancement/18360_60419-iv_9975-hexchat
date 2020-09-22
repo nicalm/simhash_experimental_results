@@ -1,0 +1,12 @@
+60419-iv,9975-hexchat
+platform.h,typedef.h,\iv\platform.h,\src\common\typedef.h,0799b4c0f800b09f580f0744773a32dc,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,161,20,7
+dyn_load.c,typedef.h,\iv\lv5\third_party\gc\dyn_load.c,\src\common\typedef.h,6a574dae0cdd12f21989dea7c1c4cc27,ad3525a10e4064f94c5205693b6e1c78,-8023445049756559204,-8059473984749774204,8,N,1094,20,7
+gc_cpp.cc,typedef.h,\iv\lv5\third_party\gc\gc_cpp.cc,\src\common\typedef.h,78288decf4c52033dbacff7efc5eb110,ad3525a10e4064f94c5205693b6e1c78,-8023445049755445092,-8059473984749774204,8,N,53,20,7
+os_dep.c,typedef.h,\iv\lv5\third_party\gc\os_dep.c,\src\common\typedef.h,b0a81c69c8ebccc4f13e9c9879a76383,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,3523,20,7
+pthread_stop_world.c,typedef.h,\iv\lv5\third_party\gc\pthread_stop_world.c,\src\common\typedef.h,3f2877423ef5f7d43f02f27fa25f5440,ad3525a10e4064f94c5205693b6e1c78,-8023163712217753444,-8059473984749774204,7,N,718,20,7
+pthread_support.c,typedef.h,\iv\lv5\third_party\gc\pthread_support.c,\src\common\typedef.h,9580d698f4fc8857e09099090d218248,ad3525a10e4064f94c5205693b6e1c78,-8021193249941825380,-8059473984749774204,8,N,1524,20,7
+win32_threads.c,typedef.h,\iv\lv5\third_party\gc\win32_threads.c,\src\common\typedef.h,bc6abc8965b00066b9d88b9f2da4f450,ad3525a10e4064f94c5205693b6e1c78,-8023515418499688292,-8059473984749774204,8,N,2023,20,8
+gc_config_macros.h,typedef.h,\iv\lv5\third_party\gc\include\gc_config_macros.h,\src\common\typedef.h,49c94c9433a611dbef5b648dd73f02b0,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,298,20,7
+gc_cpp.h,typedef.h,\iv\lv5\third_party\gc\include\gc_cpp.h,\src\common\typedef.h,635774ed0d35707430ca62fa8ee006b1,ad3525a10e4064f94c5205693b6e1c78,-8059473846908692324,-8059473984749774204,7,N,211,20,7
+gcconfig.h,typedef.h,\iv\lv5\third_party\gc\include\private\gcconfig.h,\src\common\typedef.h,62bc8de70f619e05eae308ff015374ec,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,2316,20,7
+gc_priv.h,typedef.h,\iv\lv5\third_party\gc\include\private\gc_priv.h,\src\common\typedef.h,958652f40cdb00403fca31295aeedc96,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1455,20,7

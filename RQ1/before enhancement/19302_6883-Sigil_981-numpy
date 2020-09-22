@@ -1,0 +1,16 @@
+6883-Sigil,981-numpy
+ioapi.h,npy_common.h,\3rdparty\minizip\ioapi.h,\numpy\core\include\numpy\npy_common.h,26ef5a4584bbb9b3400f2a44f9e7e8de,a173a9479ba36f92005f6b19e1c98ca6,-8032452386449205092,-8023445066935379812,3,N,126,951,24
+gzguts.h,npy_common.h,\3rdparty\zlib\gzguts.h,\numpy\core\include\numpy\npy_common.h,0c76633a99d58c8a7920b78989126acd,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,154,951,43
+zconf.h,npy_common.h,\3rdparty\zlib\zconf.h,\numpy\core\include\numpy\npy_common.h,c89ff94ee23d020c7c9976f48a098fa0,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,403,951,102
+zutil.c,npy_common.h,\3rdparty\zlib\zutil.c,\numpy\core\include\numpy\npy_common.h,d62c1317e7969756f542daacf0d4ba54,a173a9479ba36f92005f6b19e1c98ca6,-8023445084115248996,-8023445066935379812,2,N,245,951,32
+zutil.h,npy_common.h,\3rdparty\zlib\zutil.h,\numpy\core\include\numpy\npy_common.h,278c42fe50334e51a072b9e9539f1a94,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,183,951,49
+dcigettext.c,npy_common.h,\3rdparty\hunspell\intl\dcigettext.c,\numpy\core\include\numpy\npy_common.h,d3bb499e6a515c1052d491a7d39e4803,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755445092,-8023445066935379812,2,N,1207,951,122
+loadmsgcat.c,npy_common.h,\3rdparty\hunspell\intl\loadmsgcat.c,\numpy\core\include\numpy\npy_common.h,0c4e84a9d7d53b307114d0785d3641ac,a173a9479ba36f92005f6b19e1c98ca6,-7446984297452087074,-8023445066935379812,4,N,1139,951,104
+localcharset.c,npy_common.h,\3rdparty\hunspell\intl\localcharset.c,\numpy\core\include\numpy\npy_common.h,6108a151c316b030531070bfee644497,a173a9479ba36f92005f6b19e1c98ca6,-4564680535666534376,-8023445066935379812,8,N,319,951,27
+localename.c,npy_common.h,\3rdparty\hunspell\intl\localename.c,\numpy\core\include\numpy\npy_common.h,8dae1c46d7f3b38c1490ba3c3553cb05,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,1228,951,94
+relocatable.c,npy_common.h,\3rdparty\hunspell\intl\relocatable.c,\numpy\core\include\numpy\npy_common.h,53c1749225040b971ef2dc568f95ddf0,a173a9479ba36f92005f6b19e1c98ca6,-9176375350455379300,-8023445066935379812,4,N,307,951,29
+vasnprintf.h,npy_common.h,\3rdparty\hunspell\intl\vasnprintf.h,\numpy\core\include\numpy\npy_common.h,b2885895d5e6e94c6b0b2d33464e841e,a173a9479ba36f92005f6b19e1c98ca6,-7951246789096189764,-8023445066935379812,8,N,24,951,6
+sljitConfig.h,npy_common.h,\3rdparty\pcre\sljit\sljitConfig.h,\numpy\core\include\numpy\npy_common.h,dd8afdbccc028de6ceee20447d73179f,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755445096,-8023445066935379812,3,N,27,951,9
+sljitConfigInternal.h,npy_common.h,\3rdparty\pcre\sljit\sljitConfigInternal.h,\numpy\core\include\numpy\npy_common.h,fb64cb97a3a14369e6bfd1dd34984a80,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510756,-8023445066935379812,2,N,400,951,88
+ioapi.h,npy_common.h,\3rdparty\zlib\contrib\minizip\ioapi.h,\numpy\core\include\numpy\npy_common.h,e509e865c1047c3c4740e3fc3c7577eb,a173a9479ba36f92005f6b19e1c98ca6,-7456026681078916964,-8023445066935379812,4,N,132,951,25
+ioapi.h,npy_cblas.h,\3rdparty\zlib\contrib\minizip\ioapi.h,\numpy\core\src\common\npy_cblas.h,e509e865c1047c3c4740e3fc3c7577eb,893f20f4863da22ecd1501bff9fcf0f0,-7456026681078916964,-8610214977833871140,8,N,132,42,13

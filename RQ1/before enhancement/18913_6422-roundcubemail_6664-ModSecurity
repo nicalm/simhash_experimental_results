@@ -1,0 +1,7 @@
+6422-roundcubemail,6664-ModSecurity
+rcube_tnef_decoder.php,rbl.cc,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\operators\rbl.cc,8ca46cd084af91332151df25d1c4bd66,f5e38e024eae4da010e654d26348ad95,5729127442933266647,5747072022722656727,8,N,520,186,49
+rcube_tnef_decoder.php,seclang-parser.cc,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\parser\seclang-parser.cc,8ca46cd084af91332151df25d1c4bd66,c95834041ac82565ed4d4a4bccd1b864,5729127442933266647,5729127442933135575,1,N,520,6079,131
+rcube_tnef_decoder.php,phase.h,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\utils\phase.h,8ca46cd084af91332151df25d1c4bd66,a09f3ae3e8191f752c4eb96a4ac598b6,5729127442933266647,-1170387186198464297,4,N,520,38,11
+rcube_tnef_decoder.php,escape_seq_decode.cc,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\actions\transformations\escape_seq_decode.cc,8ca46cd084af91332151df25d1c4bd66,b8692d2d5e6a4258b9b1b9bda49e6fca,5729127442933266647,5458916000809007318,7,N,520,118,27
+rcube_sieve_script.php,seclang-parser.cc,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\src\parser\seclang-parser.cc,3c3c719b9a27e12464461daf90f00d1d,c95834041ac82565ed4d4a4bccd1b864,5153229640599894231,5729127442933135575,5,N,1009,6079,296
+rcube_sieve_script.php,phase.h,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\src\utils\phase.h,3c3c719b9a27e12464461daf90f00d1d,a09f3ae3e8191f752c4eb96a4ac598b6,5153229640599894231,-1170387186198464297,8,N,1009,38,11

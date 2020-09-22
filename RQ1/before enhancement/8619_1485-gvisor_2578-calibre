@@ -1,0 +1,6 @@
+1485-gvisor,2578-calibre
+stack.go,freetype.cpp,\pkg\sentry\socket\netstack\stack.go,\src\calibre\utils\fonts\freetype.cpp,335931c79e9e89a0400ba85f7f693d08,ce45c5119568c18bcc4b88728e2ae53e,6329773900225300859,6293727511001139579,6,N,241,285,41
+stack.go,outline.cpp,\pkg\sentry\socket\netstack\stack.go,\src\calibre\utils\podofo\outline.cpp,335931c79e9e89a0400ba85f7f693d08,580a07991153b8911ca19368156953d8,6329773900225300859,6293727511001139579,6,N,241,113,28
+stack.go,hunspell_wrapper.cpp,\pkg\sentry\socket\netstack\stack.go,\src\calibre\utils\spell\hunspell_wrapper.cpp,335931c79e9e89a0400ba85f7f693d08,195a888d0e68116525f29c9a10a6a8ae,6329773900225300859,6293727511001139579,6,N,241,173,30
+stack.go,device.cpp,\pkg\sentry\socket\netstack\stack.go,\src\calibre\devices\mtp\windows\device.cpp,335931c79e9e89a0400ba85f7f693d08,52fe950afa93fcd616d4241f58ddc10b,6329773900225300859,6293727510934030715,7,N,241,183,34
+stack.go,html.c,\pkg\sentry\socket\netstack\stack.go,\src\calibre\gui2\tweak_book\editor\syntax\html.c,335931c79e9e89a0400ba85f7f693d08,f259b1a2bf100f044cdb9be8bdc7dd2e,6329773900225300859,6293762695373228411,7,N,241,467,55

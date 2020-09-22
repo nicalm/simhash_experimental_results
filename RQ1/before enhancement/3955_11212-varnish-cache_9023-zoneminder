@@ -1,0 +1,13 @@
+11212-varnish-cache,9023-zoneminder
+gzguts.h,zm_ffmpeg.h,\lib\libvgz\gzguts.h,\src\zm_ffmpeg.h,7127325d12a1c60eed486f9681b3a149,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,157,281,41
+gzguts.h,zm_signal.h,\lib\libvgz\gzguts.h,\src\zm_signal.h,7127325d12a1c60eed486f9681b3a149,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,157,27,5
+gzguts.h,ow-crypt.h,\lib\libvgz\gzguts.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,7127325d12a1c60eed486f9681b3a149,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,157,23,4
+zconf.h,zm_ffmpeg.h,\lib\libvgz\zconf.h,\src\zm_ffmpeg.h,ca00915f6353095e76b1240157dc32b6,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,431,281,49
+zconf.h,zm_signal.h,\lib\libvgz\zconf.h,\src\zm_signal.h,ca00915f6353095e76b1240157dc32b6,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,431,27,5
+zconf.h,ow-crypt.h,\lib\libvgz\zconf.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,ca00915f6353095e76b1240157dc32b6,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,431,23,4
+zutil.c,zm_ffmpeg.h,\lib\libvgz\zutil.c,\src\zm_ffmpeg.h,80cacf0c2fdd6f41f0562b27c2041b64,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049754986340,-8023445049755510628,1,N,247,281,36
+zutil.c,zm_signal.h,\lib\libvgz\zutil.c,\src\zm_signal.h,80cacf0c2fdd6f41f0562b27c2041b64,95bf5749d181b4fa528e43c6e262e7a0,-8023445049754986340,-8057222049236199396,8,N,247,27,5
+zutil.c,ow-crypt.h,\lib\libvgz\zutil.c,\src\libbcrypt\include\bcrypt\ow-crypt.h,80cacf0c2fdd6f41f0562b27c2041b64,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049754986340,-5429384857455895396,7,N,247,23,4
+zutil.h,zm_ffmpeg.h,\lib\libvgz\zutil.h,\src\zm_ffmpeg.h,af5aab860ef07102ffcf6fab7fd2e544,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,196,281,47
+zutil.h,zm_signal.h,\lib\libvgz\zutil.h,\src\zm_signal.h,af5aab860ef07102ffcf6fab7fd2e544,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,196,27,5
+zutil.h,ow-crypt.h,\lib\libvgz\zutil.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,af5aab860ef07102ffcf6fab7fd2e544,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,196,23,4

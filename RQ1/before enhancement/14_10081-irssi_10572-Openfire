@@ -1,0 +1,5 @@
+10081-irssi,10572-Openfire
+otr-ops.c,ProfiledConnection.java,\src\otr\otr-ops.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,78f1f6c5943450ae1c92e51ced46839e,82b3cca56b0b2195d9beda1ef5898c9c,1117440324994119895,5747704796764879063,7,N,248,828,70
+otr-ops.c,GroupEventDispatcher.java,\src\otr\otr-ops.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,78f1f6c5943450ae1c92e51ced46839e,68bd878d44b313df2afdd340fe0c0022,1117440324994119895,8016956053561850069,8,N,248,73,27
+formats.c,ProfiledConnection.java,\src\fe-common\core\formats.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,81ad733fd560a7711254766564a4d1b4,82b3cca56b0b2195d9beda1ef5898c9c,5729127511652612311,5747704796764879063,6,N,1160,828,215
+formats.c,GroupEventDispatcher.java,\src\fe-common\core\formats.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,81ad733fd560a7711254766564a4d1b4,68bd878d44b313df2afdd340fe0c0022,5729127511652612311,8016956053561850069,7,N,1160,73,27

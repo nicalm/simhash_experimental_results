@@ -1,0 +1,5 @@
+2116-libgit2,332-netty
+settings.c,HpackDecoder.java,\src\settings.c,\codec-http2\src\main\java\io\netty\handler\codec\http2\HpackDecoder.java,718930b70d05c094a268632a2f1ec06a,901c7d2a9e26ac5c84b35cabee381d9f,6882048947539982549,6809929782983702773,8,N,238,402,38
+http_parser.c,XmlDecoder.java,\deps\http-parser\http_parser.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,624ed39402aecf1d658c88ffcffaee6d,19ac8fd899723cb5b1efea0f9d7dc639,5728845967956424919,5729694790866091155,8,N,1620,87,19
+pcre_fullinfo.c,SocksCmdRequest.java,\deps\pcre\pcre_fullinfo.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,8923cc431580197b3e121f54e41dba57,cd6c11dc97231f03956166b9ce5143be,5729127442933135575,5693098603517689047,8,N,135,83,9
+pcre_fullinfo.c,XmlDecoder.java,\deps\pcre\pcre_fullinfo.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,8923cc431580197b3e121f54e41dba57,19ac8fd899723cb5b1efea0f9d7dc639,5729127442933135575,5729694790866091155,7,N,135,87,13

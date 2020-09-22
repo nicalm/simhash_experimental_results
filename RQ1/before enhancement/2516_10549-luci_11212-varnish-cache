@@ -1,0 +1,10 @@
+10549-luci,11212-varnish-cache
+axhttp.h,gzguts.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\lib\libvgz\gzguts.h,15eb217d5f5922cce10b8494e4915b7f,7127325d12a1c60eed486f9681b3a149,-7491774003658044260,-8023445049755510628,8,N,101,157,11
+axhttp.h,zconf.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\lib\libvgz\zconf.h,15eb217d5f5922cce10b8494e4915b7f,ca00915f6353095e76b1240157dc32b6,-7491774003658044260,-8023445049755510628,8,N,101,431,11
+axhttp.h,zutil.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\lib\libvgz\zutil.h,15eb217d5f5922cce10b8494e4915b7f,af5aab860ef07102ffcf6fab7fd2e544,-7491774003658044260,-8023445049755510628,8,N,101,196,10
+axssl.c,gzguts.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\lib\libvgz\gzguts.h,f2b0cb059db544f4352723a1918a2843,7127325d12a1c60eed486f9681b3a149,-8030199623489105704,-8023445049755510628,8,N,686,157,33
+axssl.c,zconf.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\lib\libvgz\zconf.h,f2b0cb059db544f4352723a1918a2843,ca00915f6353095e76b1240157dc32b6,-8030199623489105704,-8023445049755510628,8,N,686,431,31
+axssl.c,zutil.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\lib\libvgz\zutil.h,f2b0cb059db544f4352723a1918a2843,af5aab860ef07102ffcf6fab7fd2e544,-8030199623489105704,-8023445049755510628,8,N,686,196,32
+dialog.h,gzguts.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\lib\libvgz\gzguts.h,65291cd84768397473c02d7325db3d87,7127325d12a1c60eed486f9681b3a149,-7933373057317024612,-8023445049755510628,8,N,128,157,19
+dialog.h,zconf.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\lib\libvgz\zconf.h,65291cd84768397473c02d7325db3d87,ca00915f6353095e76b1240157dc32b6,-7933373057317024612,-8023445049755510628,8,N,128,431,18
+dialog.h,zutil.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\lib\libvgz\zutil.h,65291cd84768397473c02d7325db3d87,af5aab860ef07102ffcf6fab7fd2e544,-7933373057317024612,-8023445049755510628,8,N,128,196,18

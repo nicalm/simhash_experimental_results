@@ -1,0 +1,7 @@
+2283-capnproto,6444-yara
+miniposix.h,hex_grammar.c,\c++\src\kj\miniposix.h,\libyara\hex_grammar.c,43597d9a9103c02dbbe46d2c58ecc748,29c757a687084bfae5a2dc6bb31b05e5,-7455991496707810916,-9185373754145580836,8,N,84,1251,26
+miniposix.h,hex_grammar.h,\c++\src\kj\miniposix.h,\libyara\hex_grammar.h,43597d9a9103c02dbbe46d2c58ecc748,04125316d53f72e519fcbfea7d139d22,-7455991496707810916,-7168891418501121892,7,N,84,34,5
+miniposix.h,endian.h,\c++\src\kj\miniposix.h,\libyara\include\yara\endian.h,43597d9a9103c02dbbe46d2c58ecc748,f44500c257dc9e47f34b1473280aea77,-7455991496707810916,-8023445049755510628,5,N,84,55,13
+miniposix.h,integers.h,\c++\src\kj\miniposix.h,\libyara\include\yara\integers.h,43597d9a9103c02dbbe46d2c58ecc748,f8e220916ba72c943da73bf32049b841,-7455991496707810916,-8023445049755510628,5,N,84,57,14
+miniposix.h,limits.h,\c++\src\kj\miniposix.h,\libyara\include\yara\limits.h,43597d9a9103c02dbbe46d2c58ecc748,1b76e5cbfb6a87b1b52e9aef743d23ec,-7455991496707810916,-8023445049755510628,5,N,84,77,12
+miniposix.h,strutils.h,\c++\src\kj\miniposix.h,\libyara\include\yara\strutils.h,43597d9a9103c02dbbe46d2c58ecc748,62646260db13811e153f2c59cbdfb33a,-7455991496707810916,-8023518717034571368,8,N,84,59,12

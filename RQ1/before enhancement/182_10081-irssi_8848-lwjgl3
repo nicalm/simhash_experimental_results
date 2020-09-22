@@ -1,0 +1,5 @@
+10081-irssi,8848-lwjgl3
+otr-ops.c,CGLLog.cpp,\src\otr\otr-ops.c,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,78f1f6c5943450ae1c92e51ced46839e,8ed8843634d29dc9d42c00e6488ff838,1117440324994119895,6882048947539982551,3,N,248,80,23
+otr-ops.c,HelloTinyFD.java,\src\otr\otr-ops.c,\modules\samples\src\test\java\org\lwjgl\demo\util\tinyfd\HelloTinyFD.java,78f1f6c5943450ae1c92e51ced46839e,7e4d2c24f0f9282302d7bc1ac92e46d3,1117440324994119895,5589480944986274003,8,N,248,113,21
+formats.c,CGLLog.cpp,\src\fe-common\core\formats.c,\modules\lwjgl\driftfx\src\main\c\src\gl\cgl\CGLLog.cpp,81ad733fd560a7711254766564a4d1b4,8ed8843634d29dc9d42c00e6488ff838,5729127511652612311,6882048947539982551,2,N,1160,80,22
+formats.c,HelloTinyFD.java,\src\fe-common\core\formats.c,\modules\samples\src\test\java\org\lwjgl\demo\util\tinyfd\HelloTinyFD.java,81ad733fd560a7711254766564a4d1b4,7e4d2c24f0f9282302d7bc1ac92e46d3,5729127511652612311,5589480944986274003,7,N,1160,113,21

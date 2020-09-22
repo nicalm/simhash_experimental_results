@@ -1,0 +1,10 @@
+12758-znc,63770-mcuboot
+version.h,caps.c,\include\znc\version.h,\boot\bootutil\src\caps.c,d05809c29f032c998a444139c4f0d9ce,b8912a794ee2ea692ac2e6b647d02bde,-8023445187195380516,-8032452249010251620,6,N,43,57,10
+version.h,cycfg_system.c,\include\znc\version.h,\boot\cypress\platforms\cycfg_system.c,d05809c29f032c998a444139c4f0d9ce,bff349da7cac11bb28ca6bbaf8ddf706,-8023445187195380516,-8023445049755510628,5,N,43,457,11
+version.h,main.c,\include\znc\version.h,\boot\mynewt\src\main.c,d05809c29f032c998a444139c4f0d9ce,5913dad0ba4e9899e581db97a83f7441,-8023445187195380516,-8023515555938543464,6,N,43,164,10
+version.h,sysflash.h,\include\znc\version.h,\boot\cypress\MCUBootApp\sysflash\sysflash.h,d05809c29f032c998a444139c4f0d9ce,031f4d9374fdf511d149ea2fe5aea078,-8023445187195380516,-8023515419036493668,8,N,43,56,9
+version.h,mcuboot_config.h,\include\znc\version.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,d05809c29f032c998a444139c4f0d9ce,f0392b66843115fde20da54437ca8d50,-8023445187195380516,-8023445049755510628,5,N,43,88,10
+version.h,check_config.h,\include\znc\version.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,d05809c29f032c998a444139c4f0d9ce,c07b8c175b56fe517779021d20b47123,-8023445187195380516,-8023445049755510628,5,N,43,525,8
+version.h,pk.h,\include\znc\version.h,\ext\mbedtls-asn1\include\mbedtls\pk.h,d05809c29f032c998a444139c4f0d9ce,f5806369c5dff9e3ba7f61c76a8cf1c2,-8023445187195380516,-8023172095993915236,8,N,43,192,10
+version.h,platform.h,\include\znc\version.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,d05809c29f032c998a444139c4f0d9ce,34692dfb5da8e14debc74cc2e5c30a29,-8023445187195380516,-8023445049747122020,6,N,43,176,13
+version.h,mcuboot_config.h,\include\znc\version.h,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,d05809c29f032c998a444139c4f0d9ce,ffa22f89edc78dfefd358c72c702e248,-8023445187195380516,-8023445050292381540,6,N,43,81,10

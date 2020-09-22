@@ -1,0 +1,5 @@
+140-neovim,2389-Pillow
+func_attr.h,ImPlatform.h,\src\nvim\func_attr.h,\src\libImaging\ImPlatform.h,09c1a1629d6fa1c24e2cb5acdc7bfde8,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,159,58,12
+vim.h,ImPlatform.h,\src\nvim\vim.h,\src\libImaging\ImPlatform.h,063f51630c5bc51971152a00ff86b82c,6670b4584189b95bdcaaa198dabbf5c8,-8059237438889600868,-8024570949662353252,8,N,196,58,15
+signal.c,ImPlatform.h,\src\nvim\os\signal.c,\src\libImaging\ImPlatform.h,fb1b9787087855284d84fda5e08694ba,6670b4584189b95bdcaaa198dabbf5c8,-8023445041727612780,-8024570949662353252,6,N,160,58,11
+win_defs.h,ImPlatform.h,\src\nvim\os\win_defs.h,\src\libImaging\ImPlatform.h,559a6dc04630310a39a09d004fb6797d,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,84,58,14

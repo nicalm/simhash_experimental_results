@@ -1,0 +1,14 @@
+12310-weechat,4984-jerryscript
+wee-url.c,config.h,\src\core\wee-url.c,\jerry-core\config.h,2182536a79bada4949d9bc0483b5da6d,1610ce5e32380b97834532a2439ffb00,-8023445049755510628,-8023445049755510628,0,N,1111,338,98
+wee-url.c,jerryscript-compiler.h,\src\core\wee-url.c,\jerry-core\include\jerryscript-compiler.h,2182536a79bada4949d9bc0483b5da6d,6dc57bc479adf16d2b42cadd27f2edd3,-8023445049755510628,-8023445049755510628,0,N,1111,73,21
+wee-url.c,jcontext.h,\src\core\wee-url.c,\jerry-core\jcontext\jcontext.h,2182536a79bada4949d9bc0483b5da6d,4de6c82710d6de4c90b38b2414b9953a,-8023445049755510628,-9176367654679291684,5,N,1111,162,32
+wee-url.c,lit-magic-strings.inc.h,\src\core\wee-url.c,\jerry-core\lit\lit-magic-strings.inc.h,2182536a79bada4949d9bc0483b5da6d,d156bf64086a4a370f1f54301148fe60,-8023445049755510628,-8023445049755510628,0,N,1111,920,175
+wee-url.c,ecma-builtin-helpers-macro-defines.inc.h,\src\core\wee-url.c,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,2182536a79bada4949d9bc0483b5da6d,0dde8629af7a79ff0576269e0d239a88,-8023445049755510628,-8023445084115248996,1,N,1111,32,11
+wee-url.c,js-parser-limits.h,\src\core\wee-url.c,\jerry-core\parser\js\js-parser-limits.h,2182536a79bada4949d9bc0483b5da6d,656369309984980286cea2eff0cb4741,-8023445049755510628,-8023445049755510628,0,N,1111,51,17
+wee-url.c,js-parser.c,\src\core\wee-url.c,\jerry-core\parser\js\js-parser.c,2182536a79bada4949d9bc0483b5da6d,a37c1b49591f7b4e0cdbefd7e9e81be6,-8023445049755510628,-7879893920254732130,8,N,1111,2081,217
+gui-curses-term.c,config.h,\src\gui\curses\gui-curses-term.c,\jerry-core\config.h,12c6b2e5780349c1e6b15f2a0f08c5ca,1610ce5e32380b97834532a2439ffb00,-7447028277908808228,-8023445049755510628,7,N,23,338,6
+gui-curses-term.c,jerryscript-compiler.h,\src\gui\curses\gui-curses-term.c,\jerry-core\include\jerryscript-compiler.h,12c6b2e5780349c1e6b15f2a0f08c5ca,6dc57bc479adf16d2b42cadd27f2edd3,-7447028277908808228,-8023445049755510628,7,N,23,73,7
+gui-curses-term.c,lit-magic-strings.inc.h,\src\gui\curses\gui-curses-term.c,\jerry-core\lit\lit-magic-strings.inc.h,12c6b2e5780349c1e6b15f2a0f08c5ca,d156bf64086a4a370f1f54301148fe60,-7447028277908808228,-8023445049755510628,7,N,23,920,8
+gui-curses-term.c,ecma-init-finalize.c,\src\gui\curses\gui-curses-term.c,\jerry-core\ecma\base\ecma-init-finalize.c,12c6b2e5780349c1e6b15f2a0f08c5ca,34a3c435cdecee7609180722810f134b,-7447028277908808228,-6294106773310220195,8,N,23,35,7
+gui-curses-term.c,ecma-builtin-helpers-macro-defines.inc.h,\src\gui\curses\gui-curses-term.c,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,12c6b2e5780349c1e6b15f2a0f08c5ca,0dde8629af7a79ff0576269e0d239a88,-7447028277908808228,-8023445084115248996,8,N,23,32,5
+gui-curses-term.c,js-parser-limits.h,\src\gui\curses\gui-curses-term.c,\jerry-core\parser\js\js-parser-limits.h,12c6b2e5780349c1e6b15f2a0f08c5ca,656369309984980286cea2eff0cb4741,-7447028277908808228,-8023445049755510628,7,N,23,51,6

@@ -1,0 +1,3 @@
+10093-VeraCrypt,2475-fmt
+Tcdefs.h,gmock-gtest-all.cc,\src\Common\Tcdefs.h,\test\gmock-gtest-all.cc,8bd8e6551dfbf60d7d0955895f178a4c,176a284cd66ba91697e35520bb8dadd6,-8023163712888842084,1992841858525747416,8,N,353,6485,67
+BootDebug.h,gmock-gtest-all.cc,\src\Boot\Windows\BootDebug.h,\test\gmock-gtest-all.cc,ee0577d22249bfa6a01b5e2c1e16a758,176a284cd66ba91697e35520bb8dadd6,-7304003668465624904,1992841858525747416,8,N,41,6485,9

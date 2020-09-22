@@ -1,0 +1,7 @@
+67701-r-source,9776-gaia
+Rstrptime.h,orientation.js,\src\main\Rstrptime.h,\dev_apps\uitest\js\API\orientation.js,407931813825b80d1daf2fc23d1841da,7f674abe2d64a83f3c5f7fc6b2372c43,5585012323576749271,5729127442933135575,4,N,1001,55,18
+printf-args.c,orientation.js,\src\extra\intl\printf-args.c,\dev_apps\uitest\js\API\orientation.js,32e9cc807cac7369c6c119a76b828fae,7f674abe2d64a83f3c5f7fc6b2372c43,6882048947539982551,5729127442933135575,1,N,141,55,18
+printf-args.c,lcd.js,\src\extra\intl\printf-args.c,\dev_apps\uitest\js\HW\lcd.js,32e9cc807cac7369c6c119a76b828fae,3ab7d944f9f63d991cca7c6b1fe0faa4,6882048947539982551,973255871980679315,8,N,141,62,9
+printf-args.c,pdf.worker.js,\src\extra\intl\printf-args.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,32e9cc807cac7369c6c119a76b828fae,0b5f788a191b12bb182b6955242c5ffb,6882048947539982551,6899975385106659575,6,N,141,37193,42
+gramRd.c,orientation.js,\src\library\tools\src\gramRd.c,\dev_apps\uitest\js\API\orientation.js,2b9b861b2d2889b8b1da360bdc301c6f,7f674abe2d64a83f3c5f7fc6b2372c43,5728845959400298719,5729127442933135575,6,N,3354,55,18
+size.c,orientation.js,\src\library\utils\src\size.c,\dev_apps\uitest\js\API\orientation.js,d3f58f0d4cffb28c8442526e8e0bfacf,7f674abe2d64a83f3c5f7fc6b2372c43,2280496028263692498,5729127442933135575,8,N,105,55,18

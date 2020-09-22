@@ -1,0 +1,12 @@
+2389-Pillow,8848-lwjgl3
+ImPlatform.h,Remotery.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\remotery\src\main\c\Remotery.h,6670b4584189b95bdcaaa198dabbf5c8,12e50b2dc5c0c2bdbc5358b702b71df0,-8024570949662353252,-8023445049755509604,2,N,58,373,15
+ImPlatform.h,rpmalloc.c,\src\libImaging\ImPlatform.h,\modules\lwjgl\rpmalloc\src\main\c\rpmalloc.c,6670b4584189b95bdcaaa198dabbf5c8,5564d80b51973015241b21cd48ed8983,-8024570949662353252,-8023524214593693540,5,N,58,2345,17
+ImPlatform.h,TootlePCH.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\tootle\src\main\c\TootlePCH.h,6670b4584189b95bdcaaa198dabbf5c8,f3011adb11dc9db611cc0e7b7194bca3,-8024570949662353252,-9212395359954479084,8,N,58,38,7
+ImPlatform.h,WindowsLWJGL.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\core\src\main\c\windows\WindowsLWJGL.h,6670b4584189b95bdcaaa198dabbf5c8,8b26710f82a763c9d16b7999a2bc470c,-8024570949662353252,-8024359910001805284,7,N,58,65,8
+ImPlatform.h,vulkan.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\vulkan\src\main\c\vulkan\vulkan.h,6670b4584189b95bdcaaa198dabbf5c8,a7ae20d678df3f06a86ce72d995f40ae,-8024570949662353252,1163898190080301212,3,N,58,49,11
+ImPlatform.h,glew.c,\src\libImaging\ImPlatform.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\src\glew.c,6670b4584189b95bdcaaa198dabbf5c8,b1947b9acdf4519fc27c6bbcd5781bdc,-8024570949662353252,-8023445049755510628,1,N,58,25609,16
+ImPlatform.h,eglew.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\eglew.h,6670b4584189b95bdcaaa198dabbf5c8,ecc2eb96c703f86dbe9c6bf13607881a,-8024570949662353252,-8023445049755510628,1,N,58,1617,11
+ImPlatform.h,glcorearb.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glcorearb.h,6670b4584189b95bdcaaa198dabbf5c8,c374a6cfc3a7513bdf7894a715b8f505,-8024570949662353252,-8023445049755510628,1,N,58,3418,13
+ImPlatform.h,glew.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glew.h,6670b4584189b95bdcaaa198dabbf5c8,402cf29ca4f1c6a6736874597458a5f1,-8024570949662353252,-8023445049755510628,1,N,58,17894,15
+ImPlatform.h,glxew.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\glxew.h,6670b4584189b95bdcaaa198dabbf5c8,f9dc87406573632578b48da4cf5fa041,-8024570949662353252,-8023445049755510628,1,N,58,1145,12
+ImPlatform.h,wglew.h,\src\libImaging\ImPlatform.h,\modules\lwjgl\driftfx\src\main\c\lib\glew\include\GL\wglew.h,6670b4584189b95bdcaaa198dabbf5c8,f4b78ad73084060b622a4b7e766fe2cb,-8024570949662353252,-8023445049759704932,2,N,58,952,13

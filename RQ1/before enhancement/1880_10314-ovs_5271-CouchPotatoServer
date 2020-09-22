@@ -1,0 +1,9 @@
+10314-ovs,5271-CouchPotatoServer
+data.py,tree_index.py,\python\ovs\db\data.py,\libs\CodernityDB\tree_index.py,63b3e181ef4fe0cb8aa7f28924bbc61c,207fc273dc154a42d1db2621246175c5,8618311304509784430,7717521010291572847,8,N,425,1778,33
+data.py,tz.py,\python\ovs\db\data.py,\libs\dateutil\tz.py,63b3e181ef4fe0cb8aa7f28924bbc61c,a3540cbe9043d33c8e0b07d5002ac368,8618311304509784430,8582212140625953150,6,N,425,684,36
+data.py,adapters.py,\python\ovs\db\data.py,\libs\requests\adapters.py,63b3e181ef4fe0cb8aa7f28924bbc61c,ffacb6ea51fff10f0b150108f8cdaa4c,8618311304509784430,8615426048561907054,7,N,425,221,10
+data.py,dom.py,\python\ovs\db\data.py,\libs\html5lib\treebuilders\dom.py,63b3e181ef4fe0cb8aa7f28924bbc61c,a64f3d4e1e8047b4888452b49385b2c0,8618311304509784430,7430381349674553706,7,N,425,179,12
+data.py,univ.py,\python\ovs\db\data.py,\libs\pyasn1\type\univ.py,63b3e181ef4fe0cb8aa7f28924bbc61c,c0ff0d53ef023b2668a5c1df868c3954,8618311304509784430,-641159893812903554,6,N,425,1031,46
+data.py,sxbuiltin.py,\python\ovs\db\data.py,\libs\suds\xsd\sxbuiltin.py,63b3e181ef4fe0cb8aa7f28924bbc61c,217ccaa656e529ba1f9282642cbab2fb,8618311304509784430,7195112251758084462,7,N,425,166,26
+types.py,tz.py,\python\ovs\db\types.py,\libs\dateutil\tz.py,f175fe24025fb842a3f1400c4bce09a2,a3540cbe9043d33c8e0b07d5002ac368,8582352877313212774,8582212140625953150,8,N,536,684,48
+types.py,univ.py,\python\ovs\db\types.py,\libs\pyasn1\type\univ.py,f175fe24025fb842a3f1400c4bce09a2,c0ff0d53ef023b2668a5c1df868c3954,8582352877313212774,-641159893812903554,8,N,536,1031,51

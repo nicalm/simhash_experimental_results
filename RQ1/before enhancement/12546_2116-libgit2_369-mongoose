@@ -1,0 +1,4 @@
+2116-libgit2,369-mongoose
+settings.c,ReadPreference.js,\src\settings.c,\lib\drivers\node-mongodb-native\ReadPreference.js,718930b70d05c094a268632a2f1ec06a,72ad104b2d3e1cc34b02578eb97d2c64,6882048947539982549,5440897058057271519,6,N,238,30,8
+http_parser.c,ReadPreference.js,\deps\http-parser\http_parser.c,\lib\drivers\node-mongodb-native\ReadPreference.js,624ed39402aecf1d658c88ffcffaee6d,72ad104b2d3e1cc34b02578eb97d2c64,5728845967956424919,5440897058057271519,5,N,1620,30,11
+pcre_fullinfo.c,ReadPreference.js,\deps\pcre\pcre_fullinfo.c,\lib\drivers\node-mongodb-native\ReadPreference.js,8923cc431580197b3e121f54e41dba57,72ad104b2d3e1cc34b02578eb97d2c64,5729127442933135575,5440897058057271519,4,N,135,30,7

@@ -1,0 +1,7 @@
+10137-zlib,981-numpy
+gzguts.h,npy_common.h,\gzguts.h,\numpy\core\include\numpy\npy_common.h,d71e3535b6b87307b4104a15791be071,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,157,951,43
+zconf.h,npy_common.h,\zconf.h,\numpy\core\include\numpy\npy_common.h,ccd97cbc26c511a318aa46f8e6df51a6,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,427,951,105
+zutil.c,npy_common.h,\zutil.c,\numpy\core\include\numpy\npy_common.h,4a4179f332d9d5e26199eb2b75c7b632,a173a9479ba36f92005f6b19e1c98ca6,-8023445049754986340,-8023445066935379812,2,N,245,951,32
+zutil.h,npy_common.h,\zutil.h,\numpy\core\include\numpy\npy_common.h,e7909d2ab25406cac90461dc9c664a01,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,196,951,53
+ioapi.h,npy_common.h,\contrib\minizip\ioapi.h,\numpy\core\include\numpy\npy_common.h,e509e865c1047c3c4740e3fc3c7577eb,a173a9479ba36f92005f6b19e1c98ca6,-7456026681078916964,-8023445066935379812,4,N,132,951,25
+ioapi.h,npy_cblas.h,\contrib\minizip\ioapi.h,\numpy\core\src\common\npy_cblas.h,e509e865c1047c3c4740e3fc3c7577eb,893f20f4863da22ecd1501bff9fcf0f0,-7456026681078916964,-8610214977833871140,8,N,132,42,13

@@ -1,0 +1,3 @@
+1529-harbor,242-php-src
+suite.go,php_encoding.c,\src\testing\apitests\api-testing\tests\suites\suite01\suite.go,\ext\soap\php_encoding.c,faa214c9100a75cf1f698acf3d888535,57e79745598f7b02d6a146845c3ac8ee,2302913629037118062,2305253389781026990,8,N,79,3130,27
+suite.go,php_encoding.c,\src\testing\apitests\api-testing\tests\suites\suite02\suite.go,\ext\soap\php_encoding.c,4fa5d8802f88a8ee76000f524417c75d,57e79745598f7b02d6a146845c3ac8ee,2302984272659202670,2305253389781026990,8,N,68,3130,23

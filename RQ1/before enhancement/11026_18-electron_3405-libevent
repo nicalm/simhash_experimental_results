@@ -1,0 +1,9 @@
+18-electron,3405-libevent
+atom_browser_main_parts.cc,ipv6-internal.h,\shell\browser\atom_browser_main_parts.cc,\ipv6-internal.h,4312360427f5f392ec4f692be2a7319a,dabb7bfd8d8b28692ca1940f37c14cce,-8023445187194455912,-8005606573110671204,8,N,375,37,10
+atom_browser_main_parts.cc,event.h,\shell\browser\atom_browser_main_parts.cc,\include\event.h,4312360427f5f392ec4f692be2a7319a,74155744f6c5bd2476d644b3e62572b7,-8023445187194455912,-8005430651917121316,8,N,375,39,9
+atom_paths.h,keyvalq_struct.h,\shell\browser\atom_paths.h,\include\event2\keyvalq_struct.h,f62403bf230108c707f5e1273fdb321d,6cfad2c2ff1e3aee7e4d7e3ad4535d29,-8023471436960835427,-8024086342059894627,7,N,33,37,8
+linux_syscall_support.h,ipv6-internal.h,\vendor\third_party\lss\linux_syscall_support.h,\ipv6-internal.h,d7c4a715ebced0be3633fcfd349a02ff,dabb7bfd8d8b28692ca1940f37c14cce,-8023445049755510628,-8005606573110671204,5,N,3833,37,15
+linux_syscall_support.h,time-internal.h,\vendor\third_party\lss\linux_syscall_support.h,\time-internal.h,d7c4a715ebced0be3633fcfd349a02ff,9bf6e1db3b1c4f27e264cb8439fab1f7,-8023445049755510628,-7994243137613279076,8,N,3833,56,14
+linux_syscall_support.h,event.h,\vendor\third_party\lss\linux_syscall_support.h,\include\event.h,d7c4a715ebced0be3633fcfd349a02ff,74155744f6c5bd2476d644b3e62572b7,-8023445049755510628,-8005430651917121316,5,N,3833,39,15
+linux_syscall_support.h,dns_struct.h,\vendor\third_party\lss\linux_syscall_support.h,\include\event2\dns_struct.h,d7c4a715ebced0be3633fcfd349a02ff,666004cf63ea0bf834f3327e53994765,-8023445049755510628,-8032733723986968355,7,N,3833,32,14
+linux_syscall_support.h,keyvalq_struct.h,\vendor\third_party\lss\linux_syscall_support.h,\include\event2\keyvalq_struct.h,d7c4a715ebced0be3633fcfd349a02ff,6cfad2c2ff1e3aee7e4d7e3ad4535d29,-8023445049755510628,-8024086342059894627,7,N,3833,37,13

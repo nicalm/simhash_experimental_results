@@ -1,0 +1,7 @@
+753-fish-shell,981-numpy
+fallback.cpp,npy_common.h,\src\fallback.cpp,\numpy\core\include\numpy\npy_common.h,1b6445406eb257908b35a55b17aedfd8,a173a9479ba36f92005f6b19e1c98ca6,-9176406128190498660,-8023445066935379812,6,N,266,951,25
+fallback.h,npy_common.h,\src\fallback.h,\numpy\core\include\numpy\npy_common.h,7d4055698e8c91d9fd4be969475abb0c,a173a9479ba36f92005f6b19e1c98ca6,-8023446699022952292,-8023445066935379812,3,N,118,951,32
+signal.cpp,npy_common.h,\src\signal.cpp,\numpy\core\include\numpy\npy_common.h,2e09e582bf373788324ac911fde75809,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510632,-8023445066935379812,2,N,322,951,40
+sljitConfig.h,npy_common.h,\pcre2-10.32\src\sljit\sljitConfig.h,\numpy\core\include\numpy\npy_common.h,4670eeabf25cc1becfd2eb7244181998,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755445096,-8023445066935379812,3,N,33,951,11
+sljitConfigInternal.h,npy_common.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,\numpy\core\include\numpy\npy_common.h,fd5d86ef9f2b9d9589cb00af7963629f,a173a9479ba36f92005f6b19e1c98ca6,-8023515418499688420,-8023445066935379812,3,N,429,951,90
+sljitUtils.c,npy_common.h,\pcre2-10.32\src\sljit\sljitUtils.c,\numpy\core\include\numpy\npy_common.h,9d2f318c14dbe03c033a6cbd06571a88,a173a9479ba36f92005f6b19e1c98ca6,-8888215343316280692,-8023445066935379812,8,N,218,951,28

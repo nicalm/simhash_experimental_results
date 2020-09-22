@@ -1,0 +1,14 @@
+15439-ettercap,9776-gaia
+ec_filter.c,orientation.js,\src\ec_filter.c,\dev_apps\uitest\js\API\orientation.js,93d0ed8de4c0c08c76b8fb5f7787aef5,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442664700119,5729127442933135575,1,N,799,55,18
+ec_filter.c,lcd.js,\src\ec_filter.c,\dev_apps\uitest\js\HW\lcd.js,93d0ed8de4c0c08c76b8fb5f7787aef5,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442664700119,973255871980679315,8,N,799,62,8
+ec_filter.c,pdf.worker.js,\src\ec_filter.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,93d0ed8de4c0c08c76b8fb5f7787aef5,0b5f788a191b12bb182b6955242c5ffb,5729127442664700119,6899975385106659575,8,N,799,37193,229
+ec_parser.c,server_child.js,\src\ec_parser.c,\shared\test\integration\server_child.js,a95da67ae2615afb320cafe15fbcbfd2,d91920c074e75ccf44b1440179a51287,5729127571782408407,5121000747160049783,8,N,364,79,13
+ec_parser.c,orientation.js,\src\ec_parser.c,\dev_apps\uitest\js\API\orientation.js,a95da67ae2615afb320cafe15fbcbfd2,7f674abe2d64a83f3c5f7fc6b2372c43,5729127571782408407,5729127442933135575,4,N,364,55,18
+ef_parser.c,orientation.js,\utils\etterfilter\ef_parser.c,\dev_apps\uitest\js\API\orientation.js,03bcdfd07ab2de95c037f8b4f9170294,7f674abe2d64a83f3c5f7fc6b2372c43,5441460008174270678,5729127442933135575,6,N,74,55,11
+ef_parser.c,imap-parser.js,\utils\etterfilter\ef_parser.c,\disabled_apps\email\js\ext\ext\imap-handler\src\imap-parser.js,03bcdfd07ab2de95c037f8b4f9170294,3fb8e3b59c2ee2c36647670f86f7f033,5441460008174270678,2847386622807816415,7,N,74,490,14
+ef_test.c,orientation.js,\utils\etterfilter\ef_test.c,\dev_apps\uitest\js\API\orientation.js,fa7fc65cd5f440dd843abbe86d1716e4,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,181,55,18
+ef_test.c,lcd.js,\utils\etterfilter\ef_test.c,\dev_apps\uitest\js\HW\lcd.js,fa7fc65cd5f440dd843abbe86d1716e4,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,181,62,8
+ef_test.c,pdf.worker.js,\utils\etterfilter\ef_test.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,fa7fc65cd5f440dd843abbe86d1716e4,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,181,37193,51
+el_parser.c,orientation.js,\utils\etterlog\el_parser.c,\dev_apps\uitest\js\API\orientation.js,e965aa39918fe671682ccf0efa3de321,7f674abe2d64a83f3c5f7fc6b2372c43,5729127442933135575,5729127442933135575,0,N,230,55,18
+el_parser.c,lcd.js,\utils\etterlog\el_parser.c,\dev_apps\uitest\js\HW\lcd.js,e965aa39918fe671682ccf0efa3de321,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127442933135575,973255871980679315,7,N,230,62,9
+el_parser.c,pdf.worker.js,\utils\etterlog\el_parser.c,\disabled_apps\pdfjs\content\build\pdf.worker.js,e965aa39918fe671682ccf0efa3de321,0b5f788a191b12bb182b6955242c5ffb,5729127442933135575,6899975385106659575,7,N,230,37193,54

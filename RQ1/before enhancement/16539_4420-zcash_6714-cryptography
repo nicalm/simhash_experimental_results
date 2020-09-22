@@ -1,0 +1,3 @@
+4420-zcash,6714-cryptography
+endian.h,osrandom_engine.h,\src\compat\endian.h,\src\_cffi_src\openssl\src\osrandom_engine.h,b0a1e77bc71959182a3b0854e64e46ad,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,160,80,12
+thread_annotations.h,osrandom_engine.h,\src\leveldb\port\thread_annotations.h,\src\_cffi_src\openssl\src\osrandom_engine.h,af9eee1ca47192126580ea56af3a4865,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,39,80,11

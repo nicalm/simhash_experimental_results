@@ -1,0 +1,11 @@
+10081-irssi,14790-sleuthkit
+otr-ops.c,usnjls_lib.c,\src\otr\otr-ops.c,\tsk\fs\usnjls_lib.c,78f1f6c5943450ae1c92e51ced46839e,48e95a276115acd301ddb5b9726a7100,1117440324994119895,5729127445080619223,3,N,248,267,57
+otr-ops.c,dos.c,\src\otr\otr-ops.c,\tsk\vs\dos.c,78f1f6c5943450ae1c92e51ced46839e,87019305b1f4020a75d7e674cebe6f30,1117440324994119895,5729127442933135575,2,N,248,850,58
+otr-ops.c,softmagic.c,\src\otr\otr-ops.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,78f1f6c5943450ae1c92e51ced46839e,c9a5bb85f007b34bfa13df4253839c91,1117440324994119895,5152631506249235159,6,N,248,1731,69
+otr-ops.c,exif-entry.c,\src\otr\otr-ops.c,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,78f1f6c5943450ae1c92e51ced46839e,59a2ae3931934cc319eb1524994842bc,1117440324994119895,5729109833566304343,7,N,248,1444,71
+formats.c,usnjls_lib.c,\src\fe-common\core\formats.c,\tsk\fs\usnjls_lib.c,81ad733fd560a7711254766564a4d1b4,48e95a276115acd301ddb5b9726a7100,5729127511652612311,5729127445080619223,2,N,1160,267,73
+formats.c,dos.c,\src\fe-common\core\formats.c,\tsk\vs\dos.c,81ad733fd560a7711254766564a4d1b4,87019305b1f4020a75d7e674cebe6f30,5729127511652612311,5729127442933135575,1,N,1160,850,144
+formats.c,file.c,\src\fe-common\core\formats.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,81ad733fd560a7711254766564a4d1b4,f66225e727b775a3315510747e002afc,5729127511652612311,6530768314043512983,8,N,1160,401,92
+formats.c,softmagic.c,\src\fe-common\core\formats.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,81ad733fd560a7711254766564a4d1b4,c9a5bb85f007b34bfa13df4253839c91,5729127511652612311,5152631506249235159,5,N,1160,1731,253
+formats.c,exif-entry.c,\src\fe-common\core\formats.c,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,81ad733fd560a7711254766564a4d1b4,59a2ae3931934cc319eb1524994842bc,5729127511652612311,5729109833566304343,6,N,1160,1444,207
+formats.c,mnote-olympus-entry.c,\src\fe-common\core\formats.c,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\olympus\mnote-olympus-entry.c,81ad733fd560a7711254766564a4d1b4,15a6a322cbee74040fff0cfbe002df22,5729127511652612311,5080310029995260119,8,N,1160,771,136

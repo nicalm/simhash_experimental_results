@@ -1,0 +1,7 @@
+12726-json-c,14790-sleuthkit
+debug.h,dfxml.cpp,\debug.h,\tools\fiwalk\src\dfxml.cpp,9485e3ba51f6b887d7f314a17084403b,eb50b8530f9308f16c36524fddd2f5b8,-8023445049889727851,-8023587986267121524,7,N,51,386,14
+debug.h,fiwalk.h,\debug.h,\tools\fiwalk\src\fiwalk.h,9485e3ba51f6b887d7f314a17084403b,039566552f931dc82d647dc4de6b0327,-8023445049889727851,-8023585796102236012,7,N,51,114,11
+debug.h,regex_internal.h,\debug.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,9485e3ba51f6b887d7f314a17084403b,478b58ddf6d6e1e730d1b30c2f09b9d2,-8023445049889727851,-8023445051928094564,8,N,51,587,13
+debug.h,file.h,\debug.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,9485e3ba51f6b887d7f314a17084403b,d22799caeaddf83c099f19cf401487da,-8023445049889727851,-8023445049755510568,6,N,51,402,13
+math_compat.h,file.h,\math_compat.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,4357c12e0501613ef23237ebf196e67e,d22799caeaddf83c099f19cf401487da,-8021193387649222628,-8023445049755510568,8,N,24,402,7
+strerror_override.h,aff.h,\strerror_override.h,\tsk\img\aff.h,3de645e0bfb8710ff8f03828bd38f891,4388e839229d61f93a1112ac98f30b73,-8059803769116503972,-8059799439789469540,5,N,17,27,8

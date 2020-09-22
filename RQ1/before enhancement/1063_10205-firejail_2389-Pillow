@@ -1,0 +1,6 @@
+10205-firejail,2389-Pillow
+caps.c,ImPlatform.h,\src\firejail\caps.c,\src\libImaging\ImPlatform.h,0b9d72adabe6b183bf9a7948ffeb2934,6670b4584189b95bdcaaa198dabbf5c8,-5717602040541816676,-8024570949662353252,2,N,334,58,13
+sbox.c,ImPlatform.h,\src\firejail\sbox.c,\src\libImaging\ImPlatform.h,8a6f9f9ce42bcca368916f82519b79d6,6670b4584189b95bdcaaa198dabbf5c8,-8024007999708931940,-8024570949662353252,2,N,190,58,11
+syscall.c,ImPlatform.h,\src\fseccomp\syscall.c,\src\libImaging\ImPlatform.h,bf0ef0cc7976e59f6ac60c1a011c8188,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,1564,58,11
+syscall.h,ImPlatform.h,\src\include\syscall.h,\src\libImaging\ImPlatform.h,e5d70ee64e8335903c40165f92bcb3a5,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,5186,58,11
+libtrace.c,ImPlatform.h,\src\libtrace\libtrace.c,\src\libImaging\ImPlatform.h,e75ec9f98f403929994ba2e9b45b7b14,6670b4584189b95bdcaaa198dabbf5c8,-7663159407438177892,-8024570949662353252,8,N,558,58,11

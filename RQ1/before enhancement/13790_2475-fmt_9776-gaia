@@ -1,0 +1,8 @@
+2475-fmt,9776-gaia
+chrono_duration.cpp,orientation.js,\test\fuzzing\chrono_duration.cpp,\dev_apps\uitest\js\API\orientation.js,72440fd90a0d01848031589bb2a841a9,7f674abe2d64a83f3c5f7fc6b2372c43,5729127447228102871,5729127442933135575,1,N,129,55,18
+chrono_duration.cpp,lcd.js,\test\fuzzing\chrono_duration.cpp,\dev_apps\uitest\js\HW\lcd.js,72440fd90a0d01848031589bb2a841a9,3ab7d944f9f63d991cca7c6b1fe0faa4,5729127447228102871,973255871980679315,6,N,129,62,8
+chrono_duration.cpp,pdf.worker.js,\test\fuzzing\chrono_duration.cpp,\disabled_apps\pdfjs\content\build\pdf.worker.js,72440fd90a0d01848031589bb2a841a9,0b5f788a191b12bb182b6955242c5ffb,5729127447228102871,6899975385106659575,8,N,129,37193,64
+one_arg.cpp,app_chrome.js,\test\fuzzing\one_arg.cpp,\tv_apps\smart-system\js\app_chrome.js,883cdbba8da3fa541c4927e1ea02ff22,b92f4bf3698dda0506c2009e11991631,2270360721499404501,2270272769146001653,8,N,117,534,26
+one_arg.cpp,orientation.js,\test\fuzzing\one_arg.cpp,\dev_apps\uitest\js\API\orientation.js,883cdbba8da3fa541c4927e1ea02ff22,7f674abe2d64a83f3c5f7fc6b2372c43,2270360721499404501,5729127442933135575,5,N,117,55,18
+sprintf.cpp,orientation.js,\test\fuzzing\sprintf.cpp,\dev_apps\uitest\js\API\orientation.js,c2ddd179a4100129a6f72f09df658863,7f674abe2d64a83f3c5f7fc6b2372c43,1117439216892295391,5729127442933135575,6,N,101,55,17
+two_args.cpp,orientation.js,\test\fuzzing\two_args.cpp,\dev_apps\uitest\js\API\orientation.js,c159700c6123fdba738f71e168dab048,7f674abe2d64a83f3c5f7fc6b2372c43,1117439216892295391,5729127442933135575,6,N,97,55,16

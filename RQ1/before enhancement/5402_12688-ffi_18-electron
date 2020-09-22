@@ -1,0 +1,15 @@
+12688-ffi,18-electron
+compat.h,atom_browser_main_parts.cc,\ext\ffi_c\compat.h,\shell\browser\atom_browser_main_parts.cc,89860486007fe9b6739772aa0b042837,4312360427f5f392ec4f692be2a7319a,-8023447251463120740,-8023445187194455912,6,N,38,375,12
+compat.h,atom_paths.h,\ext\ffi_c\compat.h,\shell\browser\atom_paths.h,89860486007fe9b6739772aa0b042837,f62403bf230108c707f5e1273fdb321d,-8023447251463120740,-8023471436960835427,7,N,38,33,7
+compat.h,atom_constants.h,\ext\ffi_c\compat.h,\shell\common\atom_constants.h,89860486007fe9b6739772aa0b042837,0413d754caa4e4d0755670d11164282c,-8023447251463120740,-9176368753659307892,8,N,38,31,4
+compat.h,renderer_client_base.cc,\ext\ffi_c\compat.h,\shell\renderer\renderer_client_base.cc,89860486007fe9b6739772aa0b042837,d0d5771f27ecde6d75b1cf2555ca2003,-8023447251463120740,-8023449518660068932,8,N,38,308,12
+compat.h,linux_syscall_support.h,\ext\ffi_c\compat.h,\vendor\third_party\lss\linux_syscall_support.h,89860486007fe9b6739772aa0b042837,d7c4a715ebced0be3633fcfd349a02ff,-8023447251463120740,-8023445049755510628,3,N,38,3833,12
+DynamicLibrary.h,atom_main_delegate.cc,\ext\ffi_c\DynamicLibrary.h,\shell\app\atom_main_delegate.cc,85bcc5d631466c02273f9899152b054b,6beb16be6a739f5598d443a18a5cbaa6,-5753630837560780644,-4997025687846725476,6,N,49,249,16
+DynamicLibrary.h,atom_browser_main_parts.cc,\ext\ffi_c\DynamicLibrary.h,\shell\browser\atom_browser_main_parts.cc,85bcc5d631466c02273f9899152b054b,4312360427f5f392ec4f692be2a7319a,-5753630837560780644,-8023445187194455912,5,N,49,375,16
+DynamicLibrary.h,atom_browser_main_parts.h,\ext\ffi_c\DynamicLibrary.h,\shell\browser\atom_browser_main_parts.h,85bcc5d631466c02273f9899152b054b,5cc5d4232705ae3cd44e445899ce62f2,-5753630837560780644,-6870242070301451108,8,N,49,105,11
+DynamicLibrary.h,atom_paths.h,\ext\ffi_c\DynamicLibrary.h,\shell\browser\atom_paths.h,85bcc5d631466c02273f9899152b054b,f62403bf230108c707f5e1273fdb321d,-5753630837560780644,-8023471436960835427,6,N,49,33,7
+DynamicLibrary.h,linux_syscall_support.h,\ext\ffi_c\DynamicLibrary.h,\vendor\third_party\lss\linux_syscall_support.h,85bcc5d631466c02273f9899152b054b,d7c4a715ebced0be3633fcfd349a02ff,-5753630837560780644,-8023445049755510628,2,N,49,3833,18
+rbffi_endian.h,atom_main_delegate.cc,\ext\ffi_c\rbffi_endian.h,\shell\app\atom_main_delegate.cc,f869d8d0ddc657c2a3138058f91acb6c,6beb16be6a739f5598d443a18a5cbaa6,-8023445049822619428,-4997025687846725476,8,N,50,249,14
+rbffi_endian.h,atom_browser_main_parts.cc,\ext\ffi_c\rbffi_endian.h,\shell\browser\atom_browser_main_parts.cc,f869d8d0ddc657c2a3138058f91acb6c,4312360427f5f392ec4f692be2a7319a,-8023445049822619428,-8023445187194455912,5,N,50,375,14
+rbffi_endian.h,atom_paths.h,\ext\ffi_c\rbffi_endian.h,\shell\browser\atom_paths.h,f869d8d0ddc657c2a3138058f91acb6c,f62403bf230108c707f5e1273fdb321d,-8023445049822619428,-8023471436960835427,6,N,50,33,7
+rbffi_endian.h,linux_syscall_support.h,\ext\ffi_c\rbffi_endian.h,\vendor\third_party\lss\linux_syscall_support.h,f869d8d0ddc657c2a3138058f91acb6c,d7c4a715ebced0be3633fcfd349a02ff,-8023445049822619428,-8023445049755510628,2,N,50,3833,16

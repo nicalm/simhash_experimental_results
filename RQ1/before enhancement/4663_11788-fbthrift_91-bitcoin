@@ -1,0 +1,17 @@
+11788-fbthrift,91-bitcoin
+t_type.h,policy.cpp,\thrift\compiler\ast\t_type.h,\src\policy\policy.cpp,b053db260acb5031648818344c9828ac,b881c016071c59e2e2c79de956074e58,1431083237210080174,1719313613361791918,1,N,149,158,49
+t_type.h,crypter.cpp,\thrift\compiler\ast\t_type.h,\src\wallet\crypter.cpp,b053db260acb5031648818344c9828ac,477375626dc80d156be0000fb0078c6a,1431083237210080174,1431645620206985646,8,N,149,99,20
+thrift_config.h,attributes.h,\thrift\lib\cpp\thrift_config.h,\src\attributes.h,27c650bbff0590e9f2fafe163b055489,1d61566702a36bfdc0abbfcd3b918b11,-8023445049755510628,-8023445049755378532,2,N,220,15,5
+thrift_config.h,compat.h,\thrift\lib\cpp\thrift_config.h,\src\compat.h,27c650bbff0590e9f2fafe163b055489,e406a80a1784994699c1b4a1bc6005d3,-8023445049755510628,-8023445187194464104,2,N,220,87,16
+thrift_config.h,randomenv.cpp,\thrift\lib\cpp\thrift_config.h,\src\randomenv.cpp,27c650bbff0590e9f2fafe163b055489,8eefeb3e04f7f52be719a9efdd732606,-8023445049755510628,-8023445049755510628,0,N,220,439,70
+thrift_config.h,byteswap.h,\thrift\lib\cpp\thrift_config.h,\src\compat\byteswap.h,27c650bbff0590e9f2fafe163b055489,88acd785d1d6b57506d4fdd472a4a790,-8023445049755510628,-7744221872858473316,4,N,220,43,7
+thrift_config.h,endian.h,\thrift\lib\cpp\thrift_config.h,\src\compat\endian.h,27c650bbff0590e9f2fafe163b055489,5c16422e6448c8f31356121158773761,-8023445049755510628,-8023445049755510628,0,N,220,198,41
+thrift_config.h,port_posix.h,\thrift\lib\cpp\thrift_config.h,\src\leveldb\port\port_posix.h,27c650bbff0590e9f2fafe163b055489,19a3c705798d84488cb4a2943d225851,-8023445049755510628,-8032804092731434340,7,N,220,123,13
+thrift_config.h,thread_annotations.h,\thrift\lib\cpp\thrift_config.h,\src\leveldb\port\thread_annotations.h,27c650bbff0590e9f2fafe163b055489,af9eee1ca47192126580ea56af3a4865,-8023445049755510628,-8023445049755510628,0,N,220,39,13
+fastproto.cpp,policy.cpp,\thrift\lib\py\protocol\fastproto.cpp,\src\policy\policy.cpp,c1bccad7773c2493eb4cf8a3003e0912,b881c016071c59e2e2c79de956074e58,1431084332443525822,1719313613361791918,8,N,1017,158,59
+macros.h,randomenv.cpp,\thrift\lib\rb\ext\macros.h,\src\randomenv.cpp,30f9d8d804dd66b382db54f2861518aa,8eefeb3e04f7f52be719a9efdd732606,-8032469861362509668,-8023445049755510628,7,N,18,439,4
+macros.h,endian.h,\thrift\lib\rb\ext\macros.h,\src\compat\endian.h,30f9d8d804dd66b382db54f2861518aa,5c16422e6448c8f31356121158773761,-8032469861362509668,-8023445049755510628,7,N,18,198,4
+macros.h,thread_annotations.h,\thrift\lib\rb\ext\macros.h,\src\leveldb\port\thread_annotations.h,30f9d8d804dd66b382db54f2861518aa,af9eee1ca47192126580ea56af3a4865,-8032469861362509668,-8023445049755510628,7,N,18,39,4
+module_constants.php,univalue_escapes.h,\thrift\compiler\test\fixtures\constants\gen-hack\module_constants.php,\src\univalue\lib\univalue_escapes.h,658c2ec4d30d091863ebfb8a5cc5fc53,64fb239740dea1d1eb69383d70c69b2c,-8976280315343074481,-8976280315343074481,0,N,737,261,1
+module_types.cpp,policy.cpp,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\src\policy\policy.cpp,2db322d1052463c02d7e0a6bf32428e5,b881c016071c59e2e2c79de956074e58,1395054440124007342,1719313613361791918,3,N,3515,158,67
+module_types.cpp,policy.cpp,\thrift\compiler\test\fixtures\templated-deserialize\gen-cpp2\module_types.cpp,\src\policy\policy.cpp,8271a999c012ffe48f4162929d03afce,b881c016071c59e2e2c79de956074e58,1431083237243705130,1719313613361791918,7,N,629,158,51

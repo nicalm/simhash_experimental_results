@@ -1,0 +1,8 @@
+10187-viabtc_exchange_server,10249-pycrypto
+fmacros.h,tomcrypt_cfg.h,\depends\hiredis\fmacros.h,\src\libtom\tomcrypt_cfg.h,fa39b5b5c7b057e483d5dce607e953a2,5d86f6872e15c2873979e3c177860d1d,-7226589390687643492,-8023445049755510052,8,N,17,79,5
+fmacros.h,tomcrypt_cipher.h,\depends\hiredis\fmacros.h,\src\libtom\tomcrypt_cipher.h,fa39b5b5c7b057e483d5dce607e953a2,e7e3cfbb6946c3245a4035941fbfd0d9,-7226589390687643492,-8023445049755512676,7,N,17,592,5
+fmacros.h,tomcrypt_custom.h,\depends\hiredis\fmacros.h,\src\libtom\tomcrypt_custom.h,fa39b5b5c7b057e483d5dce607e953a2,9ae4ff77d7091871a62aaa3fd1f90225,-7226589390687643492,-8023445049755510628,6,N,17,245,5
+fmacros.h,tomcrypt_hash.h,\depends\hiredis\fmacros.h,\src\libtom\tomcrypt_hash.h,fa39b5b5c7b057e483d5dce607e953a2,4d32ee3783f23c9c88b2c0bf0a2bdd10,-7226589390687643492,-8023480251307468644,8,N,17,310,4
+win32.h,tomcrypt_cfg.h,\depends\hiredis\win32.h,\src\libtom\tomcrypt_cfg.h,0ec99e391511695a9d7ef00f6d95b969,5d86f6872e15c2873979e3c177860d1d,-7880077529720759656,-8023445049755510052,8,N,32,79,5
+win32.h,tomcrypt_custom.h,\depends\hiredis\win32.h,\src\libtom\tomcrypt_custom.h,0ec99e391511695a9d7ef00f6d95b969,9ae4ff77d7091871a62aaa3fd1f90225,-7880077529720759656,-8023445049755510628,8,N,32,245,5
+win32.h,tomcrypt_hash.h,\depends\hiredis\win32.h,\src\libtom\tomcrypt_hash.h,0ec99e391511695a9d7ef00f6d95b969,4d32ee3783f23c9c88b2c0bf0a2bdd10,-7880077529720759656,-8023480251307468644,8,N,32,310,6

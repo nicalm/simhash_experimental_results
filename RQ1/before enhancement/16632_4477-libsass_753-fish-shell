@@ -1,0 +1,5 @@
+4477-libsass,753-fish-shell
+base.h,fallback.h,\include\sass\base.h,\src\fallback.h,26dfd0d8cb029fd73ca71c0971ecc070,7d4055698e8c91d9fd4be969475abb0c,-8023163575290504548,-8023446699022952292,7,N,63,118,17
+base.h,signal.cpp,\include\sass\base.h,\src\signal.cpp,26dfd0d8cb029fd73ca71c0971ecc070,2e09e582bf373788324ac911fde75809,-8023163575290504548,-8023445049755510632,6,N,63,322,13
+base.h,sljitConfig.h,\include\sass\base.h,\pcre2-10.32\src\sljit\sljitConfig.h,26dfd0d8cb029fd73ca71c0971ecc070,4670eeabf25cc1becfd2eb7244181998,-8023163575290504548,-8023445049755445096,7,N,63,33,11
+base.h,sljitConfigInternal.h,\include\sass\base.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,26dfd0d8cb029fd73ca71c0971ecc070,fd5d86ef9f2b9d9589cb00af7963629f,-8023163575290504548,-8023515418499688420,7,N,63,429,17

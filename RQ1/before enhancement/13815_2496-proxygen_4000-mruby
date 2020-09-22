@@ -1,0 +1,11 @@
+2496-proxygen,4000-mruby
+http_parser_cpp.cpp,proto_to_ruby.cpp,\proxygen\external\http_parser\http_parser_cpp.cpp,\oss-fuzz\proto_to_ruby.cpp,3f30cfe00a1b12b06b5ae798a28cbb38,343a45cf3c8497b45182f0170dd23cc0,5728846517712238791,5729127442933135575,3,N,1837,431,133
+http_parser_cpp.cpp,codedump.c,\proxygen\external\http_parser\http_parser_cpp.cpp,\src\codedump.c,3f30cfe00a1b12b06b5ae798a28cbb38,838fd904bb528b1b9ebdfc72d4fd5069,5728846517712238791,5729127442933135575,3,N,1837,525,138
+HQUnidirectionalCodec.cpp,proto_to_ruby.cpp,\proxygen\lib\http\codec\HQUnidirectionalCodec.cpp,\oss-fuzz\proto_to_ruby.cpp,c63a9db88da250e117ed0176a07b164b,343a45cf3c8497b45182f0170dd23cc0,6901435530118478039,5729127442933135575,8,N,40,431,12
+HQUnidirectionalCodec.cpp,codedump.c,\proxygen\lib\http\codec\HQUnidirectionalCodec.cpp,\src\codedump.c,c63a9db88da250e117ed0176a07b164b,838fd904bb528b1b9ebdfc72d4fd5069,6901435530118478039,5729127442933135575,8,N,40,525,13
+HTTPEvent.cpp,proto_to_ruby.cpp,\proxygen\lib\http\session\HTTPEvent.cpp,\oss-fuzz\proto_to_ruby.cpp,f531f441ddbf402ce38379a73fb55e94,343a45cf3c8497b45182f0170dd23cc0,5729127442933135573,5729127442933135575,1,N,33,431,11
+HTTPEvent.cpp,codedump.c,\proxygen\lib\http\session\HTTPEvent.cpp,\src\codedump.c,f531f441ddbf402ce38379a73fb55e94,838fd904bb528b1b9ebdfc72d4fd5069,5729127442933135573,5729127442933135575,1,N,33,525,11
+HTTPTransactionEgressSM.cpp,proto_to_ruby.cpp,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\oss-fuzz\proto_to_ruby.cpp,efc78e843307fbae0fa015e7df0a883b,343a45cf3c8497b45182f0170dd23cc0,5729127442933135575,5729127442933135575,0,N,102,431,24
+HTTPTransactionEgressSM.cpp,codedump.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\src\codedump.c,efc78e843307fbae0fa015e7df0a883b,838fd904bb528b1b9ebdfc72d4fd5069,5729127442933135575,5729127442933135575,0,N,102,525,24
+HTTPTransactionIngressSM.cpp,proto_to_ruby.cpp,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\oss-fuzz\proto_to_ruby.cpp,da1ef343309f9dc24e096acd73b993d0,343a45cf3c8497b45182f0170dd23cc0,5729127442933135575,5729127442933135575,0,N,110,431,26
+HTTPTransactionIngressSM.cpp,codedump.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\src\codedump.c,da1ef343309f9dc24e096acd73b993d0,838fd904bb528b1b9ebdfc72d4fd5069,5729127442933135575,5729127442933135575,0,N,110,525,26

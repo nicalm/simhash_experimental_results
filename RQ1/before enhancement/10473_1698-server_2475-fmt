@@ -1,0 +1,4 @@
+1698-server,2475-fmt
+MDB2SchemaReader.php,chrono_duration.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\chrono_duration.cpp,d647cd0d11a5a459553ceaf5b5657b44,72440fd90a0d01848031589bb2a841a9,5731379242742884567,5729127447228102871,5,N,240,129,37
+MDB2SchemaReader.php,sprintf.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\sprintf.cpp,d647cd0d11a5a459553ceaf5b5657b44,c2ddd179a4100129a6f72f09df658863,5731379242742884567,1117439216892295391,8,N,240,101,22
+MDB2SchemaReader.php,two_args.cpp,\lib\private\DB\MDB2SchemaReader.php,\test\fuzzing\two_args.cpp,d647cd0d11a5a459553ceaf5b5657b44,c159700c6123fdba738f71e168dab048,5731379242742884567,1117439216892295391,8,N,240,97,21

@@ -1,0 +1,9 @@
+14021-lxml,99-redis
+etree_defs.h,config.h,\src\lxml\includes\etree_defs.h,\src\config.h,77e60df86f933a8497d9a006ac09a2c9,fe9fefbbc117a00a89d3fa3a9678435a,-8023482433217963876,-8023445049755510628,3,N,319,149,42
+etree_defs.h,lzfP.h,\src\lxml\includes\etree_defs.h,\src\lzfP.h,77e60df86f933a8497d9a006ac09a2c9,a8a99ddcfb21b5d90efea295fa1823be,-8023482433217963876,-7879329861679654756,4,N,319,77,25
+etree_defs.h,sz.c,\src\lxml\includes\etree_defs.h,\deps\jemalloc\src\sz.c,77e60df86f933a8497d9a006ac09a2c9,f9960e2b44b2f65f49d69f46a60a1ac3,-8023482433217963876,-8060636030565050340,7,N,319,103,13
+etree_defs.h,llimits.h,\src\lxml\includes\etree_defs.h,\deps\lua\src\llimits.h,77e60df86f933a8497d9a006ac09a2c9,0990f1abc3ce4ed347a3373a88d7961e,-8023482433217963876,-8023163574778799972,4,N,319,53,11
+etree_defs.h,luaconf.h,\src\lxml\includes\etree_defs.h,\deps\lua\src\luaconf.h,77e60df86f933a8497d9a006ac09a2c9,d1c2f2f3de3ece96d5376352c357d46d,-8023482433217963876,-8023488772522582372,7,N,319,252,41
+etree_defs.h,atomic.h,\src\lxml\includes\etree_defs.h,\deps\jemalloc\include\jemalloc\internal\atomic.h,77e60df86f933a8497d9a006ac09a2c9,b698d7e8f1dda4dffdbd52c4fc95120b,-8023482433217963876,-8023447244684998434,7,N,319,33,5
+etree_defs.h,jemalloc_internal_decls.h,\src\lxml\includes\etree_defs.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,77e60df86f933a8497d9a006ac09a2c9,b10ad6415790176a35be7bbab7206d99,-8023482433217963876,-9176366554630793060,5,N,319,85,22
+etree_defs.h,jemalloc_internal_types.h,\src\lxml\includes\etree_defs.h,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,77e60df86f933a8497d9a006ac09a2c9,980de9a5931b9a6fb54cf696652d614a,-8023482433217963876,-8032452249077360612,4,N,319,129,27

@@ -1,0 +1,7 @@
+6347-librealsense,7025-Stellar
+glext.h,Stellar-Swift.h,\third-party\glad\glext.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,b47c3053eb61af62c08dd7e6f45631ce,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,12110,231,34
+tinycthread.h,Stellar-Swift.h,\third-party\glfw\deps\tinycthread.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d64af4e68966d2e35effa48ebd7b3c79,fafe37ab4771e0a9586e17224fcc7041,-8023444774877636452,-7743940123003924324,5,N,138,231,28
+win32_platform.h,Stellar-Swift.h,\third-party\glfw\src\win32_platform.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,2445649aade285164b3f3df9cb6b0b9c,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,324,231,30
+_mingw_dxhelper.h,Stellar-Swift.h,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5423da3108dd32be383352d8d6c55edb,fafe37ab4771e0a9586e17224fcc7041,-9185092003762480996,-7743940123003924324,3,N,102,231,28
+vulkan.h,Stellar-Swift.h,\third-party\glfw\deps\vulkan\vulkan.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,368be8e566768753806bdc8cc0052fc3,fafe37ab4771e0a9586e17224fcc7041,1163898190080301212,-7743940123003924324,7,N,38,231,10
+glfw3native.h,Stellar-Swift.h,\third-party\glfw\include\GLFW\glfw3native.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,c5d9fae34608972236a415167b8ed590,fafe37ab4771e0a9586e17224fcc7041,-8023445051902996324,-7743940123003924324,5,N,83,231,21

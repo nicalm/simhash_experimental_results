@@ -1,0 +1,8 @@
+63770-mcuboot,9975-hexchat
+caps.c,typedef.h,\boot\bootutil\src\caps.c,\src\common\typedef.h,b8912a794ee2ea692ac2e6b647d02bde,ad3525a10e4064f94c5205693b6e1c78,-8032452249010251620,-8059473984749774204,8,N,57,20,7
+cycfg_system.c,typedef.h,\boot\cypress\platforms\cycfg_system.c,\src\common\typedef.h,bff349da7cac11bb28ca6bbaf8ddf706,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,457,20,7
+sysflash.h,typedef.h,\boot\cypress\MCUBootApp\sysflash\sysflash.h,\src\common\typedef.h,031f4d9374fdf511d149ea2fe5aea078,ad3525a10e4064f94c5205693b6e1c78,-8023515419036493668,-8059473984749774204,8,N,56,20,7
+mcuboot_config.h,typedef.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,\src\common\typedef.h,f0392b66843115fde20da54437ca8d50,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,88,20,7
+check_config.h,typedef.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,\src\common\typedef.h,c07b8c175b56fe517779021d20b47123,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,525,20,6
+platform.h,typedef.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,\src\common\typedef.h,34692dfb5da8e14debc74cc2e5c30a29,ad3525a10e4064f94c5205693b6e1c78,-8023445049747122020,-8059473984749774204,8,N,176,20,7
+mcuboot_config.h,typedef.h,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,\src\common\typedef.h,ffa22f89edc78dfefd358c72c702e248,ad3525a10e4064f94c5205693b6e1c78,-8023445050292381540,-8059473984749774204,6,N,81,20,7

@@ -1,0 +1,7 @@
+5372-twisted,790-libuv
+raiser.c,test-list.h,\src\twisted\test\raiser.c,\test\test-list.h,03329048f02326320ae3e07a7faee64c,34c37e38fd3367fbe3d6e9280bf86a06,-8023445050292381540,-7374645228437448676,5,N,3117,951,59
+raiser.c,test-uname.c,\src\twisted\test\raiser.c,\test\test-uname.c,03329048f02326320ae3e07a7faee64c,e4168fcb68ae66e9d30927d67519b6fb,-8023445050292381540,-7455991513878439779,8,N,3117,37,10
+raiser.c,getaddrinfo.c,\src\twisted\test\raiser.c,\src\unix\getaddrinfo.c,03329048f02326320ae3e07a7faee64c,e8e49cecf77e5d3f516ab013154bbd9c,-8023445050292381540,-8023444777025087336,4,N,3117,188,40
+raiser.c,internal.h,\src\twisted\test\raiser.c,\src\unix\internal.h,03329048f02326320ae3e07a7faee64c,371ffd2ac622ba8f4ae44ae51c531f3d,-8023445050292381540,-8023445069074474788,5,N,3117,209,33
+raiser.c,linux-syscalls.c,\src\twisted\test\raiser.c,\src\unix\linux-syscalls.c,03329048f02326320ae3e07a7faee64c,e03aa3ff0bab5e21466ddb93bc58c23e,-8023445050292381540,-8023444499991568996,6,N,3117,292,81
+raiser.c,winapi.h,\src\twisted\test\raiser.c,\src\win\winapi.h,03329048f02326320ae3e07a7faee64c,4f2f56dcce5d652768e5e4cfcf6661be,-8023445050292381540,-8023445049755510628,1,N,3117,3569,246

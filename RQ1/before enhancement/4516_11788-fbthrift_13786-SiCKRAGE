@@ -1,0 +1,3 @@
+11788-fbthrift,13786-SiCKRAGE
+load_handler.py,exceptions.py,\thrift\perf\py3\load_handler.py,\sickrage\indexers\thetvdb\exceptions.py,528cdb851b28e6a7a3f170f5a957043b,ffdad8b9b7a7434d09fccdb03722ab0d,9214514486163703191,9073214039260300677,8,N,67,20,8
+TProtocol.py,exceptions.py,\thrift\lib\py\protocol\TProtocol.py,\sickrage\indexers\thetvdb\exceptions.py,535e11dd2c7d17509b8d6e04dcf37f02,ffdad8b9b7a7434d09fccdb03722ab0d,9217329227336156549,9073214039260300677,1,N,175,20,8

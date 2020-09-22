@@ -1,0 +1,4 @@
+1930-SwifterSwift,2389-Pillow
+CGColorExtensions.swift,ImPlatform.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\libImaging\ImPlatform.h,13a384d167268ac57b0c34b9cb13ed0f,6670b4584189b95bdcaaa198dabbf5c8,1189793885789145236,-8024570949662353252,6,N,21,58,5
+NSAttributedStringExtensions.swift,ImPlatform.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\libImaging\ImPlatform.h,682db1376e5e9e45d24a9e1b1ad3e9f8,6670b4584189b95bdcaaa198dabbf5c8,-9174114755220842340,-8024570949662353252,7,N,87,58,11
+StringExtensions.swift,ImPlatform.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\libImaging\ImPlatform.h,d53332d341abeff92e3d2d2ce16a4d0a,6670b4584189b95bdcaaa198dabbf5c8,-3051550226512422756,-8024570949662353252,8,N,650,58,12

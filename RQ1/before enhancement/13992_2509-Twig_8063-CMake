@@ -1,0 +1,10 @@
+2509-Twig,8063-CMake
+Token.php,getinfo.c,\src\Token.php,\Utilities\cmcurl\lib\getinfo.c,be39a6f847016874e81d99d0ceda815a,e4b1b98ba03c964ba505b6b062b00050,5731379380185772127,5729127442933135575,5,N,142,405,37
+Token.php,setopt.c,\src\Token.php,\Utilities\cmcurl\lib\setopt.c,be39a6f847016874e81d99d0ceda815a,c32f321618c395772c3eb5151b798824,5731379380185772127,5729127442933135575,5,N,142,1762,37
+Token.php,telnet.c,\src\Token.php,\Utilities\cmcurl\lib\telnet.c,be39a6f847016874e81d99d0ceda815a,61f2737780988e684ee1746bbaceed3f,5731379380185772127,5729127442933135575,5,N,142,1332,37
+Token.php,archive_acl.c,\src\Token.php,\Utilities\cmlibarchive\libarchive\archive_acl.c,be39a6f847016874e81d99d0ceda815a,1b46efa83d81ab20e324d06eb3acb5fb,5731379380185772127,5730253342838929623,7,N,142,1656,37
+Token.php,archive_read_set_format.c,\src\Token.php,\Utilities\cmlibarchive\libarchive\archive_read_set_format.c,be39a6f847016874e81d99d0ceda815a,44a41a5dca49f92d5c396c4e99eabec5,5731379380185772127,5729127994567997655,8,N,142,76,21
+Token.php,archive_read_support_format_by_code.c,\src\Token.php,\Utilities\cmlibarchive\libarchive\archive_read_support_format_by_code.c,be39a6f847016874e81d99d0ceda815a,c8d06533cdd2283f80838c043976c9df,5731379380185772127,5693096449038397655,7,N,142,49,15
+Token.php,archive_read_support_format_xar.c,\src\Token.php,\Utilities\cmlibarchive\libarchive\archive_read_support_format_xar.c,be39a6f847016874e81d99d0ceda815a,3eabab0ec2b09d315c80fb090b161f73,5731379380185772127,5729127445080611031,7,N,142,2974,37
+Token.php,sectransp.c,\src\Token.php,\Utilities\cmcurl\lib\vtls\sectransp.c,be39a6f847016874e81d99d0ceda815a,19c48e3eed312fd3d5b47ad6a8263888,5731379380185772127,5729127442933135575,5,N,142,2690,37
+Token.php,handle-inl.h,\src\Token.php,\Utilities\cmlibuv\src\win\handle-inl.h,be39a6f847016874e81d99d0ceda815a,74bf88c3c5dd5fbc15e104fd6fcb492e,5731379380185772127,5747146239489128663,7,N,142,120,21

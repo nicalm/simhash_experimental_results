@@ -1,0 +1,9 @@
+10081-irssi,11788-fbthrift
+otr-ops.c,AsyncClientWorker2.cpp,\src\otr\otr-ops.c,\thrift\perf\cpp\AsyncClientWorker2.cpp,78f1f6c5943450ae1c92e51ced46839e,3ebd76a0981e9c53ea752af30db30be5,1117440324994119895,5738134641844205783,7,N,248,387,46
+otr-ops.c,Operation.h,\src\otr\otr-ops.c,\thrift\perf\cpp2\util\Operation.h,78f1f6c5943450ae1c92e51ced46839e,1cf81f674cd6bb613346f9badee172d4,1117440324994119895,-3493118691867313953,6,N,248,152,36
+otr-ops.c,TProtocolUtil.java,\src\otr\otr-ops.c,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,78f1f6c5943450ae1c92e51ced46839e,ca4aaa19ebede5914601c81d8f142ced,1117440324994119895,5729127434368628951,6,N,248,125,49
+formats.c,AsyncClientWorker2.cpp,\src\fe-common\core\formats.c,\thrift\perf\cpp\AsyncClientWorker2.cpp,81ad733fd560a7711254766564a4d1b4,3ebd76a0981e9c53ea752af30db30be5,5729127511652612311,5738134641844205783,6,N,1160,387,73
+formats.c,ThriftSerializationHelper.php,\src\fe-common\core\formats.c,\thrift\lib\hack\src\ThriftSerializationHelper.php,81ad733fd560a7711254766564a4d1b4,2a3a53fb5528c98aad1178c305be0463,5729127511652612311,-3512346884650260265,7,N,1160,377,83
+formats.c,Operation.h,\src\fe-common\core\formats.c,\thrift\perf\cpp2\util\Operation.h,81ad733fd560a7711254766564a4d1b4,1cf81f674cd6bb613346f9badee172d4,5729127511652612311,-3493118691867313953,5,N,1160,152,42
+formats.c,ModuleLogger.java,\src\fe-common\core\formats.c,\thrift\compiler\test\fixtures\complex-union\gen-android\ModuleLogger.java,81ad733fd560a7711254766564a4d1b4,905e2b5b5313535fee06ff53948b654f,5729127511652612311,5730262211677427927,7,N,1160,257,74
+formats.c,TProtocolUtil.java,\src\fe-common\core\formats.c,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,81ad733fd560a7711254766564a4d1b4,ca4aaa19ebede5914601c81d8f142ced,5729127511652612311,5729127434368628951,5,N,1160,125,57

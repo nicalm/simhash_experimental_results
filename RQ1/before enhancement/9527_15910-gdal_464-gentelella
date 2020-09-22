@@ -1,0 +1,10 @@
+15910-gdal,464-gentelella
+swq_op_general.cpp,globalize.js,\gdal\ogr\swq_op_general.cpp,\vendors\Flot\lib\globalize.js,9a46e71d5126a97b05924e4d46123f6b,5859e34a6af3806758409c1cf6b6a681,5729127511652612311,5728855313755060435,8,N,1338,1177,218
+l1bdataset.cpp,globalize.js,\gdal\frmts\l1b\l1bdataset.cpp,\vendors\Flot\lib\globalize.js,fb4b20a6a37fa4061a5909cb683dfeb1,5859e34a6af3806758409c1cf6b6a681,1121602526261057751,5728855313755060435,8,N,2731,1177,237
+pcrasterutil.cpp,globalize.js,\gdal\frmts\pcraster\pcrasterutil.cpp,\vendors\Flot\lib\globalize.js,e859d72f54bbc5ffafa4fb95c5478cac,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,552,1177,181
+pcrasterutil.cpp,pathSvgToVml.js,\gdal\frmts\pcraster\pcrasterutil.cpp,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,e859d72f54bbc5ffafa4fb95c5478cac,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,552,86,17
+gif_err.c,globalize.js,\gdal\frmts\gif\giflib\gif_err.c,\vendors\Flot\lib\globalize.js,ae184d827961b2dcfd4874276b74052e,5859e34a6af3806758409c1cf6b6a681,5729127442933135575,5728855313755060435,7,N,96,1177,29
+gif_err.c,pathSvgToVml.js,\gdal\frmts\gif\giflib\gif_err.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,ae184d827961b2dcfd4874276b74052e,33048ad2c45faa5606888ee3add887d1,5729127442933135575,5730112596751329503,8,N,96,86,17
+tif_dir.c,globalize.js,\gdal\frmts\gtiff\libtiff\tif_dir.c,\vendors\Flot\lib\globalize.js,4f501baa598e4ce669a2ec5827ef519c,5859e34a6af3806758409c1cf6b6a681,5733631042560506071,5728855313755060435,8,N,1433,1177,200
+ogrdxf_leader.cpp,globalize.js,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\vendors\Flot\lib\globalize.js,4848c0c5b772127cd6203813cdb66178,5859e34a6af3806758409c1cf6b6a681,5729127442933135607,5728855313755060435,8,N,967,1177,147
+geoconcept_syscoord.c,globalize.js,\gdal\ogr\ogrsf_frmts\geoconcept\geoconcept_syscoord.c,\vendors\Flot\lib\globalize.js,9af5d9460fe3d4d2b5e65f025d620176,5859e34a6af3806758409c1cf6b6a681,5729127442866286807,5728855313755060435,8,N,873,1177,120

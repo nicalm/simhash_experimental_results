@@ -1,0 +1,6 @@
+10248-vesta,2475-fmt
+fm_api.php,chrono_duration.cpp,\web\file_manager\fm_api.php,\test\fuzzing\chrono_duration.cpp,f28c3f3d080e49cefd17574830e9bd7e,72440fd90a0d01848031589bb2a841a9,-4358935735400089451,5729127447228102871,8,N,105,129,21
+index.php,chrono_duration.cpp,\web\bulk\user\index.php,\test\fuzzing\chrono_duration.cpp,e63f54fde5aa69c0078f57a124201499,72440fd90a0d01848031589bb2a841a9,5729127442931036375,5729127447228102871,3,N,53,129,17
+index.php,one_arg.cpp,\web\bulk\user\index.php,\test\fuzzing\one_arg.cpp,e63f54fde5aa69c0078f57a124201499,883cdbba8da3fa541c4927e1ea02ff22,5729127442931036375,2270360721499404501,7,N,53,117,17
+index.php,sprintf.cpp,\web\bulk\user\index.php,\test\fuzzing\sprintf.cpp,e63f54fde5aa69c0078f57a124201499,c2ddd179a4100129a6f72f09df658863,5729127442931036375,1117439216892295391,8,N,53,101,17
+index.php,two_args.cpp,\web\bulk\user\index.php,\test\fuzzing\two_args.cpp,e63f54fde5aa69c0078f57a124201499,c159700c6123fdba738f71e168dab048,5729127442931036375,1117439216892295391,8,N,53,97,17

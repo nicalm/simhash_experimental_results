@@ -1,0 +1,14 @@
+11072-cryptopp,981-numpy
+config_asm.h,npy_common.h,\config_asm.h,\numpy\core\include\numpy\npy_common.h,f28d7378bfdd9522e97b6225da10c318,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,291,951,83
+config_cpu.h,npy_common.h,\config_cpu.h,\numpy\core\include\numpy\npy_common.h,d2c1675e8ec0149eb90a6f209937a89b,a173a9479ba36f92005f6b19e1c98ca6,-7879330961182828388,-8023445066935379812,5,N,59,951,15
+config_cxx.h,npy_common.h,\config_cxx.h,\numpy\core\include\numpy\npy_common.h,0461f5be02c9cd2d77d04bd1a775cade,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,124,951,35
+config_misc.h,npy_common.h,\config_misc.h,\numpy\core\include\numpy\npy_common.h,5bb54fa71be18556d8576d0f5d607ecd,a173a9479ba36f92005f6b19e1c98ca6,-9176366006888261476,-8023445066935379812,6,N,76,951,22
+config_os.h,npy_common.h,\config_os.h,\numpy\core\include\numpy\npy_common.h,ae3738b1961da7cdccc2105df138a771,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,87,951,28
+config_ver.h,npy_common.h,\config_ver.h,\numpy\core\include\numpy\npy_common.h,4c759d9c8b5fa5ed671a6708a018088d,a173a9479ba36f92005f6b19e1c98ca6,1203305236575602844,-8023445066935379812,6,N,21,951,6
+misc.h,npy_common.h,\misc.h,\numpy\core\include\numpy\npy_common.h,aa5da603b9fd15aaf57864b3ee823ecd,a173a9479ba36f92005f6b19e1c98ca6,-7879472798191264612,-8023445066935379812,5,N,1443,951,108
+osrng.cpp,npy_common.h,\osrng.cpp,\numpy\core\include\numpy\npy_common.h,59e1c4edc67f1de293b4925bc0972c08,a173a9479ba36f92005f6b19e1c98ca6,-8023445187194468328,-8023445066935379812,5,N,239,951,37
+rijndael.cpp,npy_common.h,\rijndael.cpp,\numpy\core\include\numpy\npy_common.h,5e11c77aba7a6cc9a1c8e4db9be4e269,a173a9479ba36f92005f6b19e1c98ca6,-8023444499999696740,-8023445066935379812,2,N,1036,951,92
+sha.cpp,npy_common.h,\sha.cpp,\numpy\core\include\numpy\npy_common.h,3e56c877ea36ea0fdc50c12580fbfe51,a173a9479ba36f92005f6b19e1c98ca6,-8023515418499688292,-8023445066935379812,2,N,1203,951,96
+speck.cpp,npy_common.h,\speck.cpp,\numpy\core\include\numpy\npy_common.h,bb4636e8c76e4d2d62685b50ea1741c4,a173a9479ba36f92005f6b19e1c98ca6,-7167769916648146788,-8023445066935379812,7,N,455,951,39
+sse_simd.cpp,npy_common.h,\sse_simd.cpp,\numpy\core\include\numpy\npy_common.h,3e49f6e856b1fa2c8e32548f366b151b,a173a9479ba36f92005f6b19e1c98ca6,-8023586339147198052,-8023445066935379812,8,N,81,951,11
+stdcpp.h,npy_common.h,\stdcpp.h,\numpy\core\include\numpy\npy_common.h,0f148d7049fa5aaf0f0fb658d46a4f73,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,71,951,16

@@ -1,0 +1,7 @@
+168-AdminLTE,6285-ImageMagick
+inputmask.js,miff.c,\plugins\inputmask\inputmask.js,\coders\miff.c,57d26571eeeb528dfa6b0195cfa1b5d0,eb048844ba749cb188f12a545d5a3a14,5728986778392393927,5729127442933397727,7,N,2703,2414,313
+inputmask.js,mpc.c,\plugins\inputmask\inputmask.js,\coders\mpc.c,57d26571eeeb528dfa6b0195cfa1b5d0,58b6c30ca969b6579a3e9d6c7bfa42ec,5728986778392393927,-3494376535384344105,8,N,2703,1263,193
+inputmask.js,svg.c,\plugins\inputmask\inputmask.js,\coders\svg.c,57d26571eeeb528dfa6b0195cfa1b5d0,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5728986778392393927,5729127442933135575,7,N,2703,4691,365
+inputmask.js,composite.c,\plugins\inputmask\inputmask.js,\MagickCore\composite.c,57d26571eeeb528dfa6b0195cfa1b5d0,340d5a0c7006a0824a2a7fe9aab13822,5728986778392393927,5729127511652874455,5,N,2703,2158,306
+inputmask.js,widget.c,\plugins\inputmask\inputmask.js,\MagickCore\widget.c,57d26571eeeb528dfa6b0195cfa1b5d0,f0e9f521bef825c5e27b767db6566d31,5728986778392393927,5729127442933135575,7,N,2703,7134,370
+inputmask.js,mogrify.c,\plugins\inputmask\inputmask.js,\MagickWand\mogrify.c,57d26571eeeb528dfa6b0195cfa1b5d0,40ce227d8d84162c170d4ac9ed9ebc51,5728986778392393927,5729127442933135575,7,N,2703,8560,365

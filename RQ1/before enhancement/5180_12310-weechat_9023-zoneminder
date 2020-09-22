@@ -1,0 +1,5 @@
+12310-weechat,9023-zoneminder
+wee-url.c,zm_ffmpeg.h,\src\core\wee-url.c,\src\zm_ffmpeg.h,2182536a79bada4949d9bc0483b5da6d,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,1111,281,42
+wee-url.c,zm_signal.h,\src\core\wee-url.c,\src\zm_signal.h,2182536a79bada4949d9bc0483b5da6d,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,1111,27,5
+wee-url.c,ow-crypt.h,\src\core\wee-url.c,\src\libbcrypt\include\bcrypt\ow-crypt.h,2182536a79bada4949d9bc0483b5da6d,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,1111,23,4
+gui-curses-term.c,zm_ffmpeg.h,\src\gui\curses\gui-curses-term.c,\src\zm_ffmpeg.h,12c6b2e5780349c1e6b15f2a0f08c5ca,7e2fcd3ba00999285d6aaf2ef78cc14d,-7447028277908808228,-8023445049755510628,7,N,23,281,10

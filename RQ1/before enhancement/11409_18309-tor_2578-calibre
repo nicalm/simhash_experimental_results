@@ -1,0 +1,10 @@
+18309-tor,2578-calibre
+compat_compiler.h,lzxc.c,\src\lib\cc\compat_compiler.h,\src\calibre\utils\lzx\lzxc.c,4fda4875c0f6db2fda2057a47aa6fc8f,5148bebfcfad4cb4119b4e362bc0686f,-8023445050293299044,-8059473846773950244,6,N,128,1033,28
+compat_compiler.h,msstdint.h,\src\lib\cc\compat_compiler.h,\src\calibre\utils\lzx\msstdint.h,4fda4875c0f6db2fda2057a47aa6fc8f,2dacb8ee9f393a22b1266f714d3efcd6,-8023445050293299044,-2830794129776780644,8,N,128,138,19
+torint.h,lzxc.c,\src\lib\cc\torint.h,\src\calibre\utils\lzx\lzxc.c,f9bd1774a6cabce5324bfd6779020def,5148bebfcfad4cb4119b4e362bc0686f,-8023198759150888804,-8059473846773950244,5,N,101,1033,31
+fdio.c,lzxc.c,\src\lib\fdio\fdio.c,\src\calibre\utils\lzx\lzxc.c,f7cc52832a8d31f8234387c9640d45fa,5148bebfcfad4cb4119b4e362bc0686f,-7735214673874331620,-8059473846773950244,7,N,80,1033,31
+inaddr_st.h,lzxc.c,\src\lib\net\inaddr_st.h,\src\calibre\utils\lzx\lzxc.c,62efbf41d2e5c9c5c910850b9ac27f2c,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755509604,-8059473846773950244,4,N,69,1033,19
+inaddr_st.h,msstdint.h,\src\lib\net\inaddr_st.h,\src\calibre\utils\lzx\msstdint.h,62efbf41d2e5c9c5c910850b9ac27f2c,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755509604,-2830794129776780644,8,N,69,138,16
+ed25519-donna-portable-identify.h,lzxc.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\src\calibre\utils\lzx\lzxc.c,36a4efc8ce95d16532d64be30ece0f36,5148bebfcfad4cb4119b4e362bc0686f,-8023445066935379812,-8059473846773950244,4,N,87,1033,23
+ed25519-donna-portable-identify.h,msstdint.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\src\calibre\utils\lzx\msstdint.h,36a4efc8ce95d16532d64be30ece0f36,2dacb8ee9f393a22b1266f714d3efcd6,-8023445066935379812,-2830794129776780644,8,N,87,138,19
+ed25519-donna.h,lzxc.c,\src\ext\ed25519\donna\ed25519-donna.h,\src\calibre\utils\lzx\lzxc.c,2aae98d5c016419bee5a3b1b0fb3adb9,5148bebfcfad4cb4119b4e362bc0686f,-7447028278034638372,-8059473846773950244,8,N,84,1033,24

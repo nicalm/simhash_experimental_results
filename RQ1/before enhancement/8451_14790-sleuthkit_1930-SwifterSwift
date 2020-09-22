@@ -1,0 +1,3 @@
+14790-sleuthkit,1930-SwifterSwift
+utils.h,StringExtensions.swift,\tools\fiwalk\src\utils.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,e6ab32b13676a61b654ad5e51f15827a,d53332d341abeff92e3d2d2ce16a4d0a,-7600106410441515876,-3051550226512422756,8,N,33,650,7
+file.h,NSAttributedStringExtensions.swift,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,d22799caeaddf83c099f19cf401487da,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510568,-9174114755220842340,8,N,402,87,12

@@ -1,0 +1,8 @@
+2475-fmt,6664-ModSecurity
+chrono_duration.cpp,rbl.cc,\test\fuzzing\chrono_duration.cpp,\src\operators\rbl.cc,72440fd90a0d01848031589bb2a841a9,f5e38e024eae4da010e654d26348ad95,5729127447228102871,5747072022722656727,8,N,129,186,49
+chrono_duration.cpp,seclang-parser.cc,\test\fuzzing\chrono_duration.cpp,\src\parser\seclang-parser.cc,72440fd90a0d01848031589bb2a841a9,c95834041ac82565ed4d4a4bccd1b864,5729127447228102871,5729127442933135575,1,N,129,6079,51
+chrono_duration.cpp,phase.h,\test\fuzzing\chrono_duration.cpp,\src\utils\phase.h,72440fd90a0d01848031589bb2a841a9,a09f3ae3e8191f752c4eb96a4ac598b6,5729127447228102871,-1170387186198464297,4,N,129,38,13
+one_arg.cpp,seclang-parser.cc,\test\fuzzing\one_arg.cpp,\src\parser\seclang-parser.cc,883cdbba8da3fa541c4927e1ea02ff22,c95834041ac82565ed4d4a4bccd1b864,2270360721499404501,5729127442933135575,5,N,117,6079,44
+one_arg.cpp,phase.h,\test\fuzzing\one_arg.cpp,\src\utils\phase.h,883cdbba8da3fa541c4927e1ea02ff22,a09f3ae3e8191f752c4eb96a4ac598b6,2270360721499404501,-1170387186198464297,8,N,117,38,13
+sprintf.cpp,seclang-parser.cc,\test\fuzzing\sprintf.cpp,\src\parser\seclang-parser.cc,c2ddd179a4100129a6f72f09df658863,c95834041ac82565ed4d4a4bccd1b864,1117439216892295391,5729127442933135575,6,N,101,6079,36
+two_args.cpp,seclang-parser.cc,\test\fuzzing\two_args.cpp,\src\parser\seclang-parser.cc,c159700c6123fdba738f71e168dab048,c95834041ac82565ed4d4a4bccd1b864,1117439216892295391,5729127442933135575,6,N,97,6079,34

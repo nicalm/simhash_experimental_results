@@ -1,0 +1,7 @@
+11604-pdns,1460-iTerm2
+threadname.cc,ini.h,\pdns\threadname.cc,\ThirdParty\inih\ini.h,5b915147d70647a42e05b4e28ce34c57,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049889728356,-8023445049755510564,2,N,39,57,11
+threadname.cc,BetterFontPicker-Swift.h,\pdns\threadname.cc,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,5b915147d70647a42e05b4e28ce34c57,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049889728356,-8023479959251789668,4,N,39,335,11
+version.cc,ini.h,\pdns\version.cc,\ThirdParty\inih\ini.h,2d47bb8e09166cdc8de706154500a37c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049755379556,-8023445049755510564,2,N,141,57,17
+version.cc,BetterFontPicker-Swift.h,\pdns\version.cc,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,2d47bb8e09166cdc8de706154500a37c,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049755379556,-8023479959251789668,4,N,141,335,27
+murmur3.h,ini.h,\ext\probds\murmur3.h,\ThirdParty\inih\ini.h,02ac5aff2e57a41f9dc94781ccd8d595,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-9176375350707038052,-8023445049755510564,5,N,46,57,11
+murmur3.h,BetterFontPicker-Swift.h,\ext\probds\murmur3.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,02ac5aff2e57a41f9dc94781ccd8d595,9cdfc1f6cb7907e29a4e6b2cf0041946,-9176375350707038052,-8023479959251789668,7,N,46,335,11

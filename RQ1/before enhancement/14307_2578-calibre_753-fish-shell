@@ -1,0 +1,8 @@
+2578-calibre,753-fish-shell
+lzxc.c,fallback.cpp,\src\calibre\utils\lzx\lzxc.c,\src\fallback.cpp,5148bebfcfad4cb4119b4e362bc0686f,1b6445406eb257908b35a55b17aedfd8,-8059473846773950244,-9176406128190498660,6,N,1033,266,68
+lzxc.c,fallback.h,\src\calibre\utils\lzx\lzxc.c,\src\fallback.h,5148bebfcfad4cb4119b4e362bc0686f,7d4055698e8c91d9fd4be969475abb0c,-8059473846773950244,-8023446699022952292,5,N,1033,118,34
+lzxc.c,signal.cpp,\src\calibre\utils\lzx\lzxc.c,\src\signal.cpp,5148bebfcfad4cb4119b4e362bc0686f,2e09e582bf373788324ac911fde75809,-8059473846773950244,-8023445049755510632,4,N,1033,322,76
+lzxc.c,sljitConfig.h,\src\calibre\utils\lzx\lzxc.c,\pcre2-10.32\src\sljit\sljitConfig.h,5148bebfcfad4cb4119b4e362bc0686f,4670eeabf25cc1becfd2eb7244181998,-8059473846773950244,-8023445049755445096,5,N,1033,33,11
+lzxc.c,sljitConfigInternal.h,\src\calibre\utils\lzx\lzxc.c,\pcre2-10.32\src\sljit\sljitConfigInternal.h,5148bebfcfad4cb4119b4e362bc0686f,fd5d86ef9f2b9d9589cb00af7963629f,-8059473846773950244,-8023515418499688420,5,N,1033,429,50
+msstdint.h,fallback.h,\src\calibre\utils\lzx\msstdint.h,\src\fallback.h,2dacb8ee9f393a22b1266f714d3efcd6,7d4055698e8c91d9fd4be969475abb0c,-2830794129776780644,-8023446699022952292,7,N,138,118,21
+msstdint.h,signal.cpp,\src\calibre\utils\lzx\msstdint.h,\src\signal.cpp,2dacb8ee9f393a22b1266f714d3efcd6,2e09e582bf373788324ac911fde75809,-2830794129776780644,-8023445049755510632,8,N,138,322,15

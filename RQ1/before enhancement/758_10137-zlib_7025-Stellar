@@ -1,0 +1,6 @@
+10137-zlib,7025-Stellar
+gzguts.h,Stellar-Swift.h,\gzguts.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,d71e3535b6b87307b4104a15791be071,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,157,231,35
+zconf.h,Stellar-Swift.h,\zconf.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,ccd97cbc26c511a318aa46f8e6df51a6,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,427,231,39
+zutil.c,Stellar-Swift.h,\zutil.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,4a4179f332d9d5e26199eb2b75c7b632,fafe37ab4771e0a9586e17224fcc7041,-8023445049754986340,-7743940123003924324,6,N,245,231,31
+zutil.h,Stellar-Swift.h,\zutil.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e7909d2ab25406cac90461dc9c664a01,fafe37ab4771e0a9586e17224fcc7041,-8023445049755510628,-7743940123003924324,5,N,196,231,39
+ioapi.h,Stellar-Swift.h,\contrib\minizip\ioapi.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,e509e865c1047c3c4740e3fc3c7577eb,fafe37ab4771e0a9586e17224fcc7041,-7456026681078916964,-7743940123003924324,6,N,132,231,24

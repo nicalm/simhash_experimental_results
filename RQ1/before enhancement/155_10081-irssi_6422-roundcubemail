@@ -1,0 +1,5 @@
+10081-irssi,6422-roundcubemail
+otr-ops.c,rcube_tnef_decoder.php,\src\otr\otr-ops.c,\program\lib\Roundcube\rcube_tnef_decoder.php,78f1f6c5943450ae1c92e51ced46839e,8ca46cd084af91332151df25d1c4bd66,1117440324994119895,5729127442933266647,3,N,248,520,67
+otr-ops.c,rcube_sieve_script.php,\src\otr\otr-ops.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,78f1f6c5943450ae1c92e51ced46839e,3c3c719b9a27e12464461daf90f00d1d,1117440324994119895,5153229640599894231,7,N,248,1009,69
+formats.c,rcube_tnef_decoder.php,\src\fe-common\core\formats.c,\program\lib\Roundcube\rcube_tnef_decoder.php,81ad733fd560a7711254766564a4d1b4,8ca46cd084af91332151df25d1c4bd66,5729127511652612311,5729127442933266647,2,N,1160,520,136
+formats.c,rcube_sieve_script.php,\src\fe-common\core\formats.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,81ad733fd560a7711254766564a4d1b4,3c3c719b9a27e12464461daf90f00d1d,5729127511652612311,5153229640599894231,6,N,1160,1009,217

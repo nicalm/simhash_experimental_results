@@ -1,0 +1,14 @@
+10549-luci,11072-cryptopp
+axhttp.h,config_asm.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\config_asm.h,15eb217d5f5922cce10b8494e4915b7f,f28d7378bfdd9522e97b6225da10c318,-7491774003658044260,-8023445049755510628,8,N,101,291,9
+axhttp.h,config_cxx.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\config_cxx.h,15eb217d5f5922cce10b8494e4915b7f,0461f5be02c9cd2d77d04bd1a775cade,-7491774003658044260,-8023445049755510628,8,N,101,124,10
+axhttp.h,config_os.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\config_os.h,15eb217d5f5922cce10b8494e4915b7f,ae3738b1961da7cdccc2105df138a771,-7491774003658044260,-8023445049755510628,8,N,101,87,10
+axhttp.h,stdcpp.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\stdcpp.h,15eb217d5f5922cce10b8494e4915b7f,0f148d7049fa5aaf0f0fb658d46a4f73,-7491774003658044260,-8023445049755510628,8,N,101,71,10
+axssl.c,config_asm.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\config_asm.h,f2b0cb059db544f4352723a1918a2843,f28d7378bfdd9522e97b6225da10c318,-8030199623489105704,-8023445049755510628,8,N,686,291,26
+axssl.c,config_cxx.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\config_cxx.h,f2b0cb059db544f4352723a1918a2843,0461f5be02c9cd2d77d04bd1a775cade,-8030199623489105704,-8023445049755510628,8,N,686,124,27
+axssl.c,config_os.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\config_os.h,f2b0cb059db544f4352723a1918a2843,ae3738b1961da7cdccc2105df138a771,-8030199623489105704,-8023445049755510628,8,N,686,87,27
+axssl.c,rijndael.cpp,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\rijndael.cpp,f2b0cb059db544f4352723a1918a2843,5e11c77aba7a6cc9a1c8e4db9be4e269,-8030199623489105704,-8023444499999696740,7,N,686,1036,116
+axssl.c,stdcpp.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\stdcpp.h,f2b0cb059db544f4352723a1918a2843,0f148d7049fa5aaf0f0fb658d46a4f73,-8030199623489105704,-8023445049755510628,8,N,686,71,18
+dialog.h,config_asm.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\config_asm.h,65291cd84768397473c02d7325db3d87,f28d7378bfdd9522e97b6225da10c318,-7933373057317024612,-8023445049755510628,8,N,128,291,15
+dialog.h,config_cxx.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\config_cxx.h,65291cd84768397473c02d7325db3d87,0461f5be02c9cd2d77d04bd1a775cade,-7933373057317024612,-8023445049755510628,8,N,128,124,16
+dialog.h,config_os.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\config_os.h,65291cd84768397473c02d7325db3d87,ae3738b1961da7cdccc2105df138a771,-7933373057317024612,-8023445049755510628,8,N,128,87,16
+dialog.h,stdcpp.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\stdcpp.h,65291cd84768397473c02d7325db3d87,0f148d7049fa5aaf0f0fb658d46a4f73,-7933373057317024612,-8023445049755510628,8,N,128,71,16

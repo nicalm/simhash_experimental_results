@@ -1,0 +1,3 @@
+2578-calibre,86-netdata
+lzxc.c,libnetdata.h,\src\calibre\utils\lzx\lzxc.c,\libnetdata\libnetdata.h,5148bebfcfad4cb4119b4e362bc0686f,b36073eea8dc836d3f37e426aebdabda,-8059473846773950244,-8023445049755510628,3,N,1033,248,49
+msstdint.h,libnetdata.h,\src\calibre\utils\lzx\msstdint.h,\libnetdata\libnetdata.h,2dacb8ee9f393a22b1266f714d3efcd6,b36073eea8dc836d3f37e426aebdabda,-2830794129776780644,-8023445049755510628,7,N,138,248,20

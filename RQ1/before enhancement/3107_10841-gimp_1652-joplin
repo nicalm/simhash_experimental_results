@@ -1,0 +1,5 @@
+10841-gimp,1652-joplin
+language.c,reducer.js,\app\language.c,\ReactNativeClient\lib\reducer.js,4139ff31319ee41dc528275c17de6aaa,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135575,5729128095763970230,7,N,699,610,53
+gimpcoreconfig.c,reducer.js,\app\config\gimpcoreconfig.c,\ReactNativeClient\lib\reducer.js,60331a7dddac7aef0155c034ea225f13,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135559,5729128095763970230,8,N,1172,610,77
+gimpdialogconfig.c,reducer.js,\app\config\gimpdialogconfig.c,\ReactNativeClient\lib\reducer.js,3820fc02cf2195589ecaca19c1f1acba,cfb01146b60f71f219c7ac6dd67d6dc3,5729127442933135575,5729128095763970230,7,N,821,610,71
+gimpdisplayshell-title.c,reducer.js,\app\display\gimpdisplayshell-title.c,\ReactNativeClient\lib\reducer.js,c3eb1838970cef0deeb23eaf230888b6,cfb01146b60f71f219c7ac6dd67d6dc3,5738134642187876567,5729128095763970230,8,N,408,610,91

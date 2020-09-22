@@ -1,0 +1,5 @@
+222-prometheus,464-gentelella
+bootstrap.bundle.js,bootstrap.bundle.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.bundle.js,\vendors\bootstrap\dist\js\bootstrap.bundle.js,9a18bf622fa6b5b3c77dba4e190ebcb4,9a18bf622fa6b5b3c77dba4e190ebcb4,8457127257971100664,8457127257971100664,0,Y,4493,4493,4493
+bootstrap.bundle.js,bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.bundle.js,\vendors\bootstrap\dist\js\bootstrap.js,9a18bf622fa6b5b3c77dba4e190ebcb4,42e1002be431fe01ad28a53441871bac,8457127257971100664,8457128355339439088,4,N,4493,3262,3257
+bootstrap.js,bootstrap.bundle.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,\vendors\bootstrap\dist\js\bootstrap.bundle.js,42e1002be431fe01ad28a53441871bac,9a18bf622fa6b5b3c77dba4e190ebcb4,8457128355339439088,8457127257971100664,4,N,3262,4493,3257
+bootstrap.js,bootstrap.js,\web\ui\static\vendor\bootstrap-4.3.1\js\bootstrap.js,\vendors\bootstrap\dist\js\bootstrap.js,42e1002be431fe01ad28a53441871bac,42e1002be431fe01ad28a53441871bac,8457128355339439088,8457128355339439088,0,Y,3262,3262,3262

@@ -1,0 +1,8 @@
+14239-neomutt,1930-SwifterSwift
+functions.h,StringExtensions.swift,\functions.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,855e569deacec485ad7d2b6707d15f4a,d53332d341abeff92e3d2d2ce16a4d0a,-8023456044871657320,-3051550226512422756,7,N,574,650,47
+init.h,CGColorExtensions.swift,\init.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,5cb5e01f2dad86f5e7553ccb82c78489,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,836,21,5
+init.h,NSAttributedStringExtensions.swift,\init.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,5cb5e01f2dad86f5e7553ccb82c78489,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,836,87,11
+init.h,StringExtensions.swift,\init.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,5cb5e01f2dad86f5e7553ccb82c78489,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,836,650,56
+makedoc_defs.h,CGColorExtensions.swift,\doc\makedoc_defs.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,5764ee9414a6173710ca8b52a8b21909,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,71,21,5
+makedoc_defs.h,NSAttributedStringExtensions.swift,\doc\makedoc_defs.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,5764ee9414a6173710ca8b52a8b21909,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,71,87,11
+makedoc_defs.h,StringExtensions.swift,\doc\makedoc_defs.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,5764ee9414a6173710ca8b52a8b21909,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,71,650,24

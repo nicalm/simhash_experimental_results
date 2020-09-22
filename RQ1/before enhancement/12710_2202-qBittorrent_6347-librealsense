@@ -1,0 +1,17 @@
+2202-qBittorrent,6347-librealsense
+application.cpp,glext.h,\src\app\application.cpp,\third-party\glad\glext.h,1769f1c34b2b51e4c126498e3a0b5a58,b47c3053eb61af62c08dd7e6f45631ce,-7445858400229599076,-8023445049755510628,5,N,573,12110,37
+application.cpp,tinycthread.h,\src\app\application.cpp,\third-party\glfw\deps\tinycthread.h,1769f1c34b2b51e4c126498e3a0b5a58,d64af4e68966d2e35effa48ebd7b3c79,-7445858400229599076,-8023444774877636452,7,N,573,138,27
+application.cpp,win32_platform.h,\src\app\application.cpp,\third-party\glfw\src\win32_platform.h,1769f1c34b2b51e4c126498e3a0b5a58,2445649aade285164b3f3df9cb6b0b9c,-7445858400229599076,-8023445049755510628,5,N,573,324,46
+application.cpp,vulkan.h,\src\app\application.cpp,\third-party\glfw\deps\vulkan\vulkan.h,1769f1c34b2b51e4c126498e3a0b5a58,368be8e566768753806bdc8cc0052fc3,-7445858400229599076,1163898190080301212,7,N,573,38,10
+application.cpp,glfw3native.h,\src\app\application.cpp,\third-party\glfw\include\GLFW\glfw3native.h,1769f1c34b2b51e4c126498e3a0b5a58,c5d9fae34608972236a415167b8ed590,-7445858400229599076,-8023445051902996324,5,N,573,83,22
+application.cpp,common.h,\src\app\application.cpp,\wrappers\python\third_party\pybind11\include\pybind11\detail\common.h,1769f1c34b2b51e4c126498e3a0b5a58,d84cc186f69e21aac7eb4e2d5d1d3cc4,-7445858400229599076,-8024605586426111268,7,N,573,501,42
+main.cpp,glext.h,\src\app\main.cpp,\third-party\glad\glext.h,0ab876c235d091cc9321f5b26945d353,b47c3053eb61af62c08dd7e6f45631ce,-8023445118508476260,-8023445049755510628,3,N,324,12110,38
+main.cpp,easylogging++.h,\src\app\main.cpp,\third-party\easyloggingpp\src\easylogging++.h,0ab876c235d091cc9321f5b26945d353,a5e6b54e91368f83f029eaf8a7a4ca68,-8023445118508476260,-8023445049756558632,7,N,324,3696,84
+main.cpp,tinycthread.h,\src\app\main.cpp,\third-party\glfw\deps\tinycthread.h,0ab876c235d091cc9321f5b26945d353,d64af4e68966d2e35effa48ebd7b3c79,-8023445118508476260,-8023444774877636452,5,N,324,138,29
+main.cpp,win32_platform.h,\src\app\main.cpp,\third-party\glfw\src\win32_platform.h,0ab876c235d091cc9321f5b26945d353,2445649aade285164b3f3df9cb6b0b9c,-8023445118508476260,-8023445049755510628,3,N,324,324,44
+main.cpp,_mingw_dxhelper.h,\src\app\main.cpp,\third-party\glfw\deps\mingw\_mingw_dxhelper.h,0ab876c235d091cc9321f5b26945d353,5423da3108dd32be383352d8d6c55edb,-8023445118508476260,-9185092003762480996,7,N,324,102,28
+main.cpp,vulkan.h,\src\app\main.cpp,\third-party\glfw\deps\vulkan\vulkan.h,0ab876c235d091cc9321f5b26945d353,368be8e566768753806bdc8cc0052fc3,-8023445118508476260,1163898190080301212,5,N,324,38,10
+main.cpp,glfw3native.h,\src\app\main.cpp,\third-party\glfw\include\GLFW\glfw3native.h,0ab876c235d091cc9321f5b26945d353,c5d9fae34608972236a415167b8ed590,-8023445118508476260,-8023445051902996324,5,N,324,83,22
+main.cpp,platform.h,\src\app\main.cpp,\third-party\realsense-file\rosbag\cpp_common\include\ros\platform.h,0ab876c235d091cc9321f5b26945d353,4f1f8bbdad0dc57a2bc7530ddc22297a,-8023445118508476260,-7879409026516887396,7,N,324,37,13
+mainwindow.cpp,glext.h,\src\gui\mainwindow.cpp,\third-party\glad\glext.h,5cd96cef67869a501be59f5996fcb554,b47c3053eb61af62c08dd7e6f45631ce,-9032396158224000868,-8023445049755510628,8,N,1634,12110,54
+mainwindow.cpp,win32_platform.h,\src\gui\mainwindow.cpp,\third-party\glfw\src\win32_platform.h,5cd96cef67869a501be59f5996fcb554,2445649aade285164b3f3df9cb6b0b9c,-9032396158224000868,-8023445049755510628,8,N,1634,324,47

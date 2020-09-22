@@ -1,0 +1,5 @@
+2578-calibre,6664-ModSecurity
+lzxc.c,check_config.h,\src\calibre\utils\lzx\lzxc.c,\others\mbedtls\check_config.h,5148bebfcfad4cb4119b4e362bc0686f,306e92b56ac8d1b085c9f72fb65f46a7,-8059473846773950244,-8023445049755510628,3,N,1033,402,40
+lzxc.c,platform.h,\src\calibre\utils\lzx\lzxc.c,\others\mbedtls\platform.h,5148bebfcfad4cb4119b4e362bc0686f,d00d535ad1c35ca86d366afc8578c1ab,-8059473846773950244,-7879409027045336932,8,N,1033,106,35
+lzxc.c,geo_lookup.h,\src\calibre\utils\lzx\lzxc.c,\src\utils\geo_lookup.h,5148bebfcfad4cb4119b4e362bc0686f,7f149a21d7e38ffd2ba73078cb8e9c82,-8059473846773950244,1830428735907880156,7,N,1033,50,10
+msstdint.h,check_config.h,\src\calibre\utils\lzx\msstdint.h,\others\mbedtls\check_config.h,2dacb8ee9f393a22b1266f714d3efcd6,306e92b56ac8d1b085c9f72fb65f46a7,-2830794129776780644,-8023445049755510628,7,N,138,402,15

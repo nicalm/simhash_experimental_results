@@ -1,0 +1,9 @@
+1930-SwifterSwift,4000-mruby
+CGColorExtensions.swift,mrbconf.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\include\mrbconf.h,13a384d167268ac57b0c34b9cb13ed0f,0fa5612f8872c2c08d3897c6c4be5559,1189793885789145236,-8023445049755510628,7,N,21,81,5
+CGColorExtensions.swift,value.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\include\mruby\value.h,13a384d167268ac57b0c34b9cb13ed0f,f71a5a47635a7a4d552564f252a74db2,1189793885789145236,-7879329861679654756,8,N,21,308,8
+NSAttributedStringExtensions.swift,mrbconf.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\include\mrbconf.h,682db1376e5e9e45d24a9e1b1ad3e9f8,0fa5612f8872c2c08d3897c6c4be5559,-9174114755220842340,-8023445049755510628,6,N,87,81,11
+NSAttributedStringExtensions.swift,mruby.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\include\mruby.h,682db1376e5e9e45d24a9e1b1ad3e9f8,4213b2c560539512862346f6eb8f4225,-9174114755220842340,-9185390796047329124,8,N,87,460,18
+NSAttributedStringExtensions.swift,common.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\include\mruby\common.h,682db1376e5e9e45d24a9e1b1ad3e9f8,a84b59436b58d29e1f0bfb2dbe2e629f,-9174114755220842340,-7446984299733788004,8,N,87,55,11
+NSAttributedStringExtensions.swift,value.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\include\mruby\value.h,682db1376e5e9e45d24a9e1b1ad3e9f8,f71a5a47635a7a4d552564f252a74db2,-9174114755220842340,-7879329861679654756,7,N,87,308,22
+StringExtensions.swift,mrbconf.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\include\mrbconf.h,d53332d341abeff92e3d2d2ce16a4d0a,0fa5612f8872c2c08d3897c6c4be5559,-3051550226512422756,-8023445049755510628,7,N,650,81,26
+StringExtensions.swift,value.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\include\mruby\value.h,d53332d341abeff92e3d2d2ce16a4d0a,f71a5a47635a7a4d552564f252a74db2,-3051550226512422756,-7879329861679654756,8,N,650,308,57

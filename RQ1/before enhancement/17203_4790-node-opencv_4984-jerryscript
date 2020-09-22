@@ -1,0 +1,7 @@
+4790-node-opencv,4984-jerryscript
+init.cc,config.h,\src\init.cc,\jerry-core\config.h,ac230f241e7062df9add8317bcf2a3be,1610ce5e32380b97834532a2439ffb00,-8032663355242784612,-8023445049755510628,3,N,67,338,11
+init.cc,jerryscript-compiler.h,\src\init.cc,\jerry-core\include\jerryscript-compiler.h,ac230f241e7062df9add8317bcf2a3be,6dc57bc479adf16d2b42cadd27f2edd3,-8032663355242784612,-8023445049755510628,3,N,67,73,11
+init.cc,jcontext.h,\src\init.cc,\jerry-core\jcontext\jcontext.h,ac230f241e7062df9add8317bcf2a3be,4de6c82710d6de4c90b38b2414b9953a,-8032663355242784612,-9176367654679291684,8,N,67,162,12
+init.cc,lit-magic-strings.inc.h,\src\init.cc,\jerry-core\lit\lit-magic-strings.inc.h,ac230f241e7062df9add8317bcf2a3be,d156bf64086a4a370f1f54301148fe60,-8032663355242784612,-8023445049755510628,3,N,67,920,11
+init.cc,ecma-builtin-helpers-macro-defines.inc.h,\src\init.cc,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,ac230f241e7062df9add8317bcf2a3be,0dde8629af7a79ff0576269e0d239a88,-8032663355242784612,-8023445084115248996,4,N,67,32,11
+init.cc,js-parser-limits.h,\src\init.cc,\jerry-core\parser\js\js-parser-limits.h,ac230f241e7062df9add8317bcf2a3be,656369309984980286cea2eff0cb4741,-8032663355242784612,-8023445049755510628,3,N,67,51,11

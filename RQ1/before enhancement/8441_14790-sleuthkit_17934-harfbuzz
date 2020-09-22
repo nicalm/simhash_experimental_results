@@ -1,0 +1,15 @@
+14790-sleuthkit,17934-harfbuzz
+tsk_os.h,test-c.c,\tsk\base\tsk_os.h,\test\api\test-c.c,fb10549d476c4733b848a15bf274eecd,40a532b71e6242f205df120cc480a67e,-7717763362486560548,-8023445049757468516,7,N,145,26,6
+usnjls_lib.c,hb-ot-shape-complex-vowel-constraints.cc,\tsk\fs\usnjls_lib.c,\src\hb-ot-shape-complex-vowel-constraints.cc,48e95a276115acd301ddb5b9726a7100,af3b5cee198ad0cdcf32177f2059763e,5729127445080619223,5729127511516264663,5,N,267,420,73
+usnjls_lib.c,hb-subset.cc,\tsk\fs\usnjls_lib.c,\src\hb-subset.cc,48e95a276115acd301ddb5b9726a7100,8cd5ec526a4232f06c744be9b77a51bc,5729127445080619223,5170681089138145431,5,N,267,256,47
+dos.c,hb-ot-shape-complex-vowel-constraints.cc,\tsk\vs\dos.c,\src\hb-ot-shape-complex-vowel-constraints.cc,87019305b1f4020a75d7e674cebe6f30,af3b5cee198ad0cdcf32177f2059763e,5729127442933135575,5729127511516264663,4,N,850,420,118
+dos.c,hb-subset.cc,\tsk\vs\dos.c,\src\hb-subset.cc,87019305b1f4020a75d7e674cebe6f30,8cd5ec526a4232f06c744be9b77a51bc,5729127442933135575,5170681089138145431,4,N,850,256,45
+dfxml.cpp,test-c.c,\tools\fiwalk\src\dfxml.cpp,\test\api\test-c.c,eb50b8530f9308f16c36524fddd2f5b8,40a532b71e6242f205df120cc480a67e,-8023587986267121524,-8023445049757468516,6,N,386,26,8
+fiwalk.h,test-c.c,\tools\fiwalk\src\fiwalk.h,\test\api\test-c.c,039566552f931dc82d647dc4de6b0327,40a532b71e6242f205df120cc480a67e,-8023585796102236012,-8023445049757468516,8,N,114,26,6
+utils.h,test-c.c,\tools\fiwalk\src\utils.h,\test\api\test-c.c,e6ab32b13676a61b654ad5e51f15827a,40a532b71e6242f205df120cc480a67e,-7600106410441515876,-8023445049757468516,8,N,33,26,6
+regex_internal.h,test-c.c,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\test\api\test-c.c,478b58ddf6d6e1e730d1b30c2f09b9d2,40a532b71e6242f205df120cc480a67e,-8023445051928094564,-8023445049757468516,7,N,587,26,8
+file.h,hb-fc-list.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\util\hb-fc-list.c,d22799caeaddf83c099f19cf401487da,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510568,1199786163039426780,8,N,402,178,21
+file.h,test-c.c,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\test\api\test-c.c,d22799caeaddf83c099f19cf401487da,40a532b71e6242f205df120cc480a67e,-8023445049755510568,-8023445049757468516,5,N,402,26,9
+softmagic.c,hb-ot-shape-complex-vowel-constraints.cc,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\src\hb-ot-shape-complex-vowel-constraints.cc,c9a5bb85f007b34bfa13df4253839c91,af3b5cee198ad0cdcf32177f2059763e,5152631506249235159,5729127511516264663,8,N,1731,420,142
+softmagic.c,hb-subset.cc,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\src\hb-subset.cc,c9a5bb85f007b34bfa13df4253839c91,8cd5ec526a4232f06c744be9b77a51bc,5152631506249235159,5170681089138145431,6,N,1731,256,62
+exif-entry.c,hb-subset.cc,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,\src\hb-subset.cc,59a2ae3931934cc319eb1524994842bc,8cd5ec526a4232f06c744be9b77a51bc,5729109833566304343,5170681089138145431,7,N,1444,256,62

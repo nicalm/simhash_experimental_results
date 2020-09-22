@@ -1,0 +1,3 @@
+18692-spdk,702-swoole-src
+assert.h,sha1.h,\include\spdk_internal\assert.h,\include\sha1.h,340c3c292f11b3661cb114f5fb4a2722,f862009c68788eee903f3e45c8da71ba,-7384004271941560100,-7888125972544300900,8,N,16,29,5
+scsi_bdev.c,swoole_http_parser.c,\lib\scsi\scsi_bdev.c,\thirdparty\swoole_http_parser.c,e8ac0a3bfe1bd0b35d2b4d8cecb65bd0,d155f3ba8a7cdb53f79f34af305581eb,6752569358741453045,5729127442933135575,8,N,1475,1234,256

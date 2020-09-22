@@ -1,0 +1,3 @@
+11788-fbthrift,1652-joplin
+t_type.h,Readability-readerable.js,\thrift\compiler\ast\t_type.h,\Clipper\joplin-webclipper\content_scripts\Readability-readerable.js,b053db260acb5031648818344c9828ac,f8488a27abf6b5b5af8b63004c883d88,1431083237210080174,1678764723973931918,7,N,149,46,15
+module_types.cpp,Readability-readerable.js,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\Clipper\joplin-webclipper\content_scripts\Readability-readerable.js,2db322d1052463c02d7e0a6bf32428e5,f8488a27abf6b5b5af8b63004c883d88,1395054440124007342,1678764723973931918,5,N,3515,46,15

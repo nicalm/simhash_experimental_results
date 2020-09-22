@@ -1,0 +1,7 @@
+6364-Tautulli,682-curl
+configobj.py,smbserver.py,\lib\configobj.py,\tests\python_dependencies\impacket\smbserver.py,d16c213f78792cdac094224bc76f29ec,ea8b2264e17253e341c97c08dc4be37f,8474126709494251887,6294383528042692975,7,N,1323,3044,101
+helpers.py,smbserver.py,\plexpy\helpers.py,\tests\python_dependencies\impacket\smbserver.py,3f8f077fb1fc0a3c642d2f3c8a348550,ea8b2264e17253e341c97c08dc4be37f,8438093102115979631,6294383528042692975,8,N,958,3044,96
+notification_handler.py,smbserver.py,\plexpy\notification_handler.py,\tests\python_dependencies\impacket\smbserver.py,bb0873244b5c6cb9371fd902589cd75d,ea8b2264e17253e341c97c08dc4be37f,8600227637573189994,6294383528042692975,7,N,1382,3044,87
+rrule.py,smbserver.py,\lib\dateutil\rrule.py,\tests\python_dependencies\impacket\smbserver.py,ae14d13c1254723cddb30fd1ca6bae71,ea8b2264e17253e341c97c08dc4be37f,8005751385906610542,6294383528042692975,6,N,1022,3044,86
+tz.py,smbserver.py,\lib\dateutil\tz.py,\tests\python_dependencies\impacket\smbserver.py,8102a84918e32d079ef761d8c5e58ef1,ea8b2264e17253e341c97c08dc4be37f,8582493613706838398,6294383528042692975,6,N,695,3044,73
+etree.py,smbserver.py,\lib\html5lib\treewalkers\etree.py,\tests\python_dependencies\impacket\smbserver.py,a780515f48bd56e4fa0fffac53531dec,ea8b2264e17253e341c97c08dc4be37f,7428745276238463335,6294383528042692975,7,N,103,3044,18

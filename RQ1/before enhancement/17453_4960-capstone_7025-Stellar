@@ -1,0 +1,3 @@
+4960-capstone,7025-Stellar
+test_basic.c,Stellar-Swift.h,\tests\test_basic.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,a31ca8d3bb8a75874920d317a6ad1579,fafe37ab4771e0a9586e17224fcc7041,-8018942549639704420,-7743940123003924324,7,N,357,231,26
+test_iter.c,Stellar-Swift.h,\tests\test_iter.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,25690cf4ebb5bd2f561bd05964d131ee,fafe37ab4771e0a9586e17224fcc7041,-8023446149267066732,-7743940123003924324,8,N,274,231,20

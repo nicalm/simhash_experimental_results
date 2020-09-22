@@ -1,0 +1,6 @@
+211-cpython,3637-qutebrowser
+tarfile.py,utils.py,\Lib\tarfile.py,\qutebrowser\utils\utils.py,3526d5cce15bef30e55bf3f733810e69,95e3b7d013d5c1ab823100df70a67f33,7861632349276864870,7285135863650845038,6,N,1661,406,41
+events.py,browsertab.py,\Lib\asyncio\events.py,\qutebrowser\browser\browsertab.py,6d2692def2004a4db65b819ea7dd1f08,009ff2b0135455e23256231966aa2b1d,5770117701360140330,5770117701360140330,0,N,374,631,66
+events.py,webelem.py,\Lib\asyncio\events.py,\qutebrowser\browser\webelem.py,6d2692def2004a4db65b819ea7dd1f08,e9619ae044c83fd57eaaeea644b38b5b,5770117701360140330,8364261454932787562,8,N,374,257,28
+transports.py,browsertab.py,\Lib\asyncio\transports.py,\qutebrowser\browser\browsertab.py,0c786ec77b5dadc0b4b1c2e702d6adf2,009ff2b0135455e23256231966aa2b1d,5769976963863396394,5770117701360140330,2,N,127,631,26
+sysconfig.py,utils.py,\Lib\distutils\sysconfig.py,\qutebrowser\utils\utils.py,b84b1df471a8dc626d9aa74c884fdd82,95e3b7d013d5c1ab823100df70a67f33,7285175445258895724,7285135863650845038,7,N,326,406,26

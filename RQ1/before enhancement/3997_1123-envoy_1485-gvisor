@@ -1,0 +1,2 @@
+1123-envoy,1485-gvisor
+url_canon_internal.cc,stack.go,\source\common\chromium_url\url_canon_internal.cc,\pkg\sentry\socket\netstack\stack.go,6c403d6a0ae4e0a6467e74bf8cec306e,335931c79e9e89a0400ba85f7f693d08,6293727511001139579,6329773900225300859,6,N,282,241,22

@@ -1,0 +1,7 @@
+14021-lxml,3761-lepton
+etree_defs.h,test_harness.cc,\src\lxml\includes\etree_defs.h,\test_suite\test_harness.cc,77e60df86f933a8497d9a006ac09a2c9,e289d2ef5a4a7ed63cb361e61d2bb017,-8023482433217963876,-8023445050292381540,4,N,319,121,30
+etree_defs.h,gzguts.h,\src\lxml\includes\etree_defs.h,\dependencies\zlib\gzguts.h,77e60df86f933a8497d9a006ac09a2c9,481fcd67c1a74813d1e18ea86b0fb735,-8023482433217963876,-8023445049755510628,3,N,319,151,39
+etree_defs.h,zconf.h,\src\lxml\includes\etree_defs.h,\dependencies\zlib\zconf.h,77e60df86f933a8497d9a006ac09a2c9,c89ff94ee23d020c7c9976f48a098fa0,-8023482433217963876,-8023445049755510628,3,N,319,403,50
+etree_defs.h,zutil.c,\src\lxml\includes\etree_defs.h,\dependencies\zlib\zutil.c,77e60df86f933a8497d9a006ac09a2c9,d62c1317e7969756f542daacf0d4ba54,-8023482433217963876,-8023445084115248996,4,N,319,245,43
+etree_defs.h,zutil.h,\src\lxml\includes\etree_defs.h,\dependencies\zlib\zutil.h,77e60df86f933a8497d9a006ac09a2c9,278c42fe50334e51a072b9e9539f1a94,-8023482433217963876,-8023445049755510628,3,N,319,183,44
+etree_defs.h,MemMgrAllocator.cc,\src\lxml\includes\etree_defs.h,\src\io\MemMgrAllocator.cc,77e60df86f933a8497d9a006ac09a2c9,4081710108ae4d92c75a204cde67b037,-8023482433217963876,-7771243495318824804,8,N,319,422,37

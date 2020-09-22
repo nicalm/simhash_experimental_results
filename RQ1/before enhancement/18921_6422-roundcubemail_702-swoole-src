@@ -1,0 +1,8 @@
+6422-roundcubemail,702-swoole-src
+rcube_tnef_decoder.php,multipart_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\thirdparty\multipart_parser.c,8ca46cd084af91332151df25d1c4bd66,7f2f6adb3104232d3e7d7ffdbf0d2f1a,5729127442933266647,5621032255581894871,7,N,520,243,51
+rcube_tnef_decoder.php,swoole_http_parser.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\thirdparty\swoole_http_parser.c,8ca46cd084af91332151df25d1c4bd66,d155f3ba8a7cdb53f79f34af305581eb,5729127442933266647,5729127442933135575,1,N,520,1234,132
+rcube_tnef_decoder.php,shared_server.php,\program\lib\Roundcube\rcube_tnef_decoder.php,\examples\task\shared_server.php,8ca46cd084af91332151df25d1c4bd66,89d74cf619828e10fc034ee03643184a,5729127442933266647,1135455896583321814,8,N,520,111,40
+rcube_tnef_decoder.php,log.c,\program\lib\Roundcube\rcube_tnef_decoder.php,\src\core\log.c,8ca46cd084af91332151df25d1c4bd66,fcd6d98ec4555c3e125d89e154fba5fa,5729127442933266647,5693098645905783253,5,N,520,114,40
+rcube_tnef_decoder.php,get.php,\program\lib\Roundcube\rcube_tnef_decoder.php,\tests\include\lib\src\responder\get.php,8ca46cd084af91332151df25d1c4bd66,0e93a44800862fa891e9d4a8bd016ee0,5729127442933266647,8034970456441796823,3,N,520,71,21
+rcube_sieve_script.php,swoole_http_parser.c,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\thirdparty\swoole_http_parser.c,3c3c719b9a27e12464461daf90f00d1d,d155f3ba8a7cdb53f79f34af305581eb,5153229640599894231,5729127442933135575,5,N,1009,1234,205
+rcube_sieve_script.php,get.php,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,\tests\include\lib\src\responder\get.php,3c3c719b9a27e12464461daf90f00d1d,0e93a44800862fa891e9d4a8bd016ee0,5153229640599894231,8034970456441796823,7,N,1009,71,21

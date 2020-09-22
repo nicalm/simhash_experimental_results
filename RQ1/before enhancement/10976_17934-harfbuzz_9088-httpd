@@ -1,0 +1,10 @@
+17934-harfbuzz,9088-httpd
+hb-fc-list.c,ssl_private.h,\util\hb-fc-list.c,\modules\ssl\ssl_private.h,c27d8fd53993dc1d7a624ea1ec1d10a6,36249a7b93b6c6da74f16ab00ce94b9b,1199786163039426780,-8023445049755510628,8,N,178,736,19
+test-c.c,suexec.h,\test\api\test-c.c,\support\suexec.h,40a532b71e6242f205df120cc480a67e,424eed5ca72dc5978fc0252bd3f51645,-8023445049757468516,-8023480233053857636,5,N,26,25,6
+test-c.c,mod_syslog.c,\test\api\test-c.c,\modules\loggers\mod_syslog.c,40a532b71e6242f205df120cc480a67e,2d0861d0af354091bfd725e954827d0b,-8023445049757468516,-8023444500272326500,6,N,26,161,8
+test-c.c,ssl_private.h,\test\api\test-c.c,\modules\ssl\ssl_private.h,40a532b71e6242f205df120cc480a67e,36249a7b93b6c6da74f16ab00ce94b9b,-8023445049757468516,-8023445049755510628,3,N,26,736,6
+test-c.c,unixd.c,\test\api\test-c.c,\os\unix\unixd.c,40a532b71e6242f205df120cc480a67e,4641aa5ffe292dda86bf90bcfac2c838,-8023445049757468516,-8023462641975109476,5,N,26,524,8
+test-c.c,mpm_default.h,\test\api\test-c.c,\server\mpm\event\mpm_default.h,40a532b71e6242f205df120cc480a67e,7247b1ebbef7874ca0c5121dfc7b2020,-8023445049757468516,-8024010198733260644,6,N,26,15,5
+test-c.c,mpm_default.h,\test\api\test-c.c,\server\mpm\mpmt_os2\mpm_default.h,40a532b71e6242f205df120cc480a67e,0023769f864cdaeabb7f82ad5c66ec3d,-8023445049757468516,-8023480233053857636,5,N,26,15,5
+test-c.c,mpm_default.h,\test\api\test-c.c,\server\mpm\netware\mpm_default.h,40a532b71e6242f205df120cc480a67e,cda6f6973e85bdbe7e47a6014176c375,-8023445049757468516,-8023458243899238244,6,N,26,24,6
+test-c.c,mpm_default.h,\test\api\test-c.c,\server\mpm\worker\mpm_default.h,40a532b71e6242f205df120cc480a67e,7247b1ebbef7874ca0c5121dfc7b2020,-8023445049757468516,-8024010198733260644,6,N,26,15,5

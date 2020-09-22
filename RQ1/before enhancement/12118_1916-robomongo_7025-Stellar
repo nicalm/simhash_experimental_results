@@ -1,0 +1,4 @@
+1916-robomongo,7025-Stellar
+gtest-all.cc,Stellar-Swift.h,\trash\tests\gtest-1.7.0\fused-src\gtest\gtest-all.cc,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,5e4630e9183352f4d6fd378187ea0d31,fafe37ab4771e0a9586e17224fcc7041,1335316313458137820,-7743940123003924324,8,N,5669,231,39
+gtest-port.h,Stellar-Swift.h,\trash\tests\gtest-1.7.0\include\gtest\internal\gtest-port.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,23446e26c2aacb9eb58191ae642bfa7a,fafe37ab4771e0a9586e17224fcc7041,-7879329861679654756,-7743940123003924324,6,N,906,231,39
+gtest-port.h,Stellar-Swift.h,\src\third-party\googletest-1.8.1\googletest\include\gtest\internal\gtest-port.h,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,485500537266b23fd9618e3c1a3e212e,fafe37ab4771e0a9586e17224fcc7041,-7879365046051743592,-7743940123003924324,8,N,1337,231,39

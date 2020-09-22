@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,63613-KunstmaanBundlesCMS
+http_parser.c,StringFilterType.php,\utils\http_parser.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\DBAL\StringFilterType.php,d09d117e8f6d43dee97217c802830c00,da41db0764b2bc6ea750e9ab6c21973a,5728845967956424919,5729413307097985239,5,N,1850,54,17
+http_parser.c,NumberFilterType.php,\utils\http_parser.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\ORM\NumberFilterType.php,d09d117e8f6d43dee97217c802830c00,423d4159f49c0d6b56922a98de9393ee,5728845967956424919,-1184179468722718253,8,N,1850,47,16
+http_parser.c,StringFilterType.php,\utils\http_parser.c,\src\Kunstmaan\AdminListBundle\AdminList\FilterType\ORM\StringFilterType.php,d09d117e8f6d43dee97217c802830c00,cc9f7e3b468f7a06a05fbec8ff53e364,5728845967956424919,5729408874691727575,6,N,1850,54,17

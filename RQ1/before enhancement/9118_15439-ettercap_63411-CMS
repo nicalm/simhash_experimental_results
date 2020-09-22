@@ -1,0 +1,4 @@
+15439-ettercap,63411-CMS
+ec_filter.c,JSMinPlus.php,\src\ec_filter.c,\iu-resources\min\lib\JSMinPlus.php,93d0ed8de4c0c08c76b8fb5f7787aef5,ada381ab05cfa7307d75a5e154803be9,5729127442664700119,5735588175405398231,8,N,799,1637,193
+ef_test.c,JSMinPlus.php,\utils\etterfilter\ef_test.c,\iu-resources\min\lib\JSMinPlus.php,fa7fc65cd5f440dd843abbe86d1716e4,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,181,1637,55
+el_parser.c,JSMinPlus.php,\utils\etterlog\el_parser.c,\iu-resources\min\lib\JSMinPlus.php,e965aa39918fe671682ccf0efa3de321,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,230,1637,45

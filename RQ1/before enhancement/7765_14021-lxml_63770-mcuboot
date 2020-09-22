@@ -1,0 +1,12 @@
+14021-lxml,63770-mcuboot
+etree_defs.h,caps.c,\src\lxml\includes\etree_defs.h,\boot\bootutil\src\caps.c,77e60df86f933a8497d9a006ac09a2c9,b8912a794ee2ea692ac2e6b647d02bde,-8023482433217963876,-8032452249010251620,4,N,319,57,18
+etree_defs.h,cycfg_system.c,\src\lxml\includes\etree_defs.h,\boot\cypress\platforms\cycfg_system.c,77e60df86f933a8497d9a006ac09a2c9,bff349da7cac11bb28ca6bbaf8ddf706,-8023482433217963876,-8023445049755510628,3,N,319,457,49
+etree_defs.h,main.c,\src\lxml\includes\etree_defs.h,\boot\mynewt\src\main.c,77e60df86f933a8497d9a006ac09a2c9,5913dad0ba4e9899e581db97a83f7441,-8023482433217963876,-8023515555938543464,8,N,319,164,26
+etree_defs.h,platform_util.c,\src\lxml\includes\etree_defs.h,\ext\mbedtls-asn1\src\platform_util.c,77e60df86f933a8497d9a006ac09a2c9,1a96fe113f6869ebb4da6ffc51af89b9,-8023482433217963876,-7446984314768271204,7,N,319,59,15
+etree_defs.h,sysflash.h,\src\lxml\includes\etree_defs.h,\boot\cypress\MCUBootApp\sysflash\sysflash.h,77e60df86f933a8497d9a006ac09a2c9,031f4d9374fdf511d149ea2fe5aea078,-8023482433217963876,-8023515419036493668,6,N,319,56,11
+etree_defs.h,mcuboot_config.h,\src\lxml\includes\etree_defs.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,77e60df86f933a8497d9a006ac09a2c9,f0392b66843115fde20da54437ca8d50,-8023482433217963876,-8023445049755510628,3,N,319,88,25
+etree_defs.h,check_config.h,\src\lxml\includes\etree_defs.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,77e60df86f933a8497d9a006ac09a2c9,c07b8c175b56fe517779021d20b47123,-8023482433217963876,-8023445049755510628,3,N,319,525,35
+etree_defs.h,pk.h,\src\lxml\includes\etree_defs.h,\ext\mbedtls-asn1\include\mbedtls\pk.h,77e60df86f933a8497d9a006ac09a2c9,f5806369c5dff9e3ba7f61c76a8cf1c2,-8023482433217963876,-8023172095993915236,6,N,319,192,27
+etree_defs.h,platform.h,\src\lxml\includes\etree_defs.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,77e60df86f933a8497d9a006ac09a2c9,34692dfb5da8e14debc74cc2e5c30a29,-8023482433217963876,-8023445049747122020,4,N,319,176,51
+etree_defs.h,platform_util.h,\src\lxml\includes\etree_defs.h,\ext\mbedtls-asn1\include\mbedtls\platform_util.h,77e60df86f933a8497d9a006ac09a2c9,3ff772befd0b50ec21a0cfd8dc203af0,-8023482433217963876,-8023488345173337956,7,N,319,24,8
+etree_defs.h,mcuboot_config.h,\src\lxml\includes\etree_defs.h,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,77e60df86f933a8497d9a006ac09a2c9,ffa22f89edc78dfefd358c72c702e248,-8023482433217963876,-8023445050292381540,4,N,319,81,25

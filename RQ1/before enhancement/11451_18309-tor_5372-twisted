@@ -1,0 +1,12 @@
+18309-tor,5372-twisted
+timeout.c,raiser.c,\src\ext\timeouts\timeout.c,\src\twisted\test\raiser.c,b607f1c129ce5e3aacea62c7cd85ad65,03329048f02326320ae3e07a7faee64c,-8018941171223955304,-8023445050292381540,8,N,428,3117,106
+compat_compiler.h,raiser.c,\src\lib\cc\compat_compiler.h,\src\twisted\test\raiser.c,4fda4875c0f6db2fda2057a47aa6fc8f,03329048f02326320ae3e07a7faee64c,-8023445050293299044,-8023445050292381540,2,N,128,3117,31
+compat_compiler.h,iocpsupport.c,\src\lib\cc\compat_compiler.h,\src\twisted\internet\iocpreactor\iocpsupport\iocpsupport.c,4fda4875c0f6db2fda2057a47aa6fc8f,6f126cf6c7552cdc709488795a6bc165,-8023445050293299044,-7590887830076270404,8,N,128,8738,31
+torint.h,raiser.c,\src\lib\cc\torint.h,\src\twisted\test\raiser.c,f9bd1774a6cabce5324bfd6779020def,03329048f02326320ae3e07a7faee64c,-8023198759150888804,-8023445050292381540,3,N,101,3117,35
+fdio.c,raiser.c,\src\lib\fdio\fdio.c,\src\twisted\test\raiser.c,f7cc52832a8d31f8234387c9640d45fa,03329048f02326320ae3e07a7faee64c,-7735214673874331620,-8023445050292381540,5,N,80,3117,29
+map_anon.c,raiser.c,\src\lib\malloc\map_anon.c,\src\twisted\test\raiser.c,df601771e014691f5bde7e7f0f7e2678,03329048f02326320ae3e07a7faee64c,-7663334238913766372,-8023445050292381540,8,N,177,3117,55
+inaddr_st.h,raiser.c,\src\lib\net\inaddr_st.h,\src\twisted\test\raiser.c,62efbf41d2e5c9c5c910850b9ac27f2c,03329048f02326320ae3e07a7faee64c,-8023445049755509604,-8023445050292381540,2,N,69,3117,21
+nettypes.h,raiser.c,\src\lib\net\nettypes.h,\src\twisted\test\raiser.c,5dc6cbfbef80e86b6ed991e81ad60883,03329048f02326320ae3e07a7faee64c,-8033015199603320676,-8023445050292381540,6,N,24,3117,6
+compat_string.h,raiser.c,\src\lib\string\compat_string.h,\src\twisted\test\raiser.c,ee5d4f16d6a1a17e897c0a516337b508,03329048f02326320ae3e07a7faee64c,-8023198751131381604,-8023445050292381540,5,N,36,3117,12
+ed25519-donna-portable-identify.h,raiser.c,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\src\twisted\test\raiser.c,36a4efc8ce95d16532d64be30ece0f36,03329048f02326320ae3e07a7faee64c,-8023445066935379812,-8023445050292381540,2,N,87,3117,28
+ed25519-donna.h,raiser.c,\src\ext\ed25519\donna\ed25519-donna.h,\src\twisted\test\raiser.c,2aae98d5c016419bee5a3b1b0fb3adb9,03329048f02326320ae3e07a7faee64c,-7447028278034638372,-8023445050292381540,8,N,84,3117,24

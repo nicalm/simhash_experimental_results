@@ -1,0 +1,7 @@
+2578-calibre,790-libuv
+lzxc.c,test-list.h,\src\calibre\utils\lzx\lzxc.c,\test\test-list.h,5148bebfcfad4cb4119b4e362bc0686f,34c37e38fd3367fbe3d6e9280bf86a06,-8059473846773950244,-7374645228437448676,7,N,1033,951,45
+lzxc.c,getaddrinfo.c,\src\calibre\utils\lzx\lzxc.c,\src\unix\getaddrinfo.c,5148bebfcfad4cb4119b4e362bc0686f,e8e49cecf77e5d3f516ab013154bbd9c,-8059473846773950244,-8023444777025087336,6,N,1033,188,40
+lzxc.c,internal.h,\src\calibre\utils\lzx\lzxc.c,\src\unix\internal.h,5148bebfcfad4cb4119b4e362bc0686f,371ffd2ac622ba8f4ae44ae51c531f3d,-8059473846773950244,-8023445069074474788,5,N,1033,209,33
+lzxc.c,linux-syscalls.c,\src\calibre\utils\lzx\lzxc.c,\src\unix\linux-syscalls.c,5148bebfcfad4cb4119b4e362bc0686f,e03aa3ff0bab5e21466ddb93bc58c23e,-8059473846773950244,-8023444499991568996,8,N,1033,292,62
+lzxc.c,winapi.h,\src\calibre\utils\lzx\lzxc.c,\src\win\winapi.h,5148bebfcfad4cb4119b4e362bc0686f,4f2f56dcce5d652768e5e4cfcf6661be,-8059473846773950244,-8023445049755510628,3,N,1033,3569,43
+msstdint.h,winapi.h,\src\calibre\utils\lzx\msstdint.h,\src\win\winapi.h,2dacb8ee9f393a22b1266f714d3efcd6,4f2f56dcce5d652768e5e4cfcf6661be,-2830794129776780644,-8023445049755510628,7,N,138,3569,14

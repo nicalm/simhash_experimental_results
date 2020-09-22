@@ -1,0 +1,14 @@
+11072-cryptopp,2389-Pillow
+config_asm.h,ImPlatform.h,\config_asm.h,\src\libImaging\ImPlatform.h,f28d7378bfdd9522e97b6225da10c318,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,291,58,11
+config_cpu.h,ImPlatform.h,\config_cpu.h,\src\libImaging\ImPlatform.h,d2c1675e8ec0149eb90a6f209937a89b,6670b4584189b95bdcaaa198dabbf5c8,-7879330961182828388,-8024570949662353252,5,N,59,58,14
+config_cxx.h,ImPlatform.h,\config_cxx.h,\src\libImaging\ImPlatform.h,0461f5be02c9cd2d77d04bd1a775cade,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,124,58,12
+config_misc.h,ImPlatform.h,\config_misc.h,\src\libImaging\ImPlatform.h,5bb54fa71be18556d8576d0f5d607ecd,6670b4584189b95bdcaaa198dabbf5c8,-9176366006888261476,-8024570949662353252,6,N,76,58,16
+config_os.h,ImPlatform.h,\config_os.h,\src\libImaging\ImPlatform.h,ae3738b1961da7cdccc2105df138a771,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,87,58,14
+config_ver.h,ImPlatform.h,\config_ver.h,\src\libImaging\ImPlatform.h,4c759d9c8b5fa5ed671a6708a018088d,6670b4584189b95bdcaaa198dabbf5c8,1203305236575602844,-8024570949662353252,4,N,21,58,7
+misc.h,ImPlatform.h,\misc.h,\src\libImaging\ImPlatform.h,aa5da603b9fd15aaf57864b3ee823ecd,6670b4584189b95bdcaaa198dabbf5c8,-7879472798191264612,-8024570949662353252,5,N,1443,58,17
+osrng.cpp,ImPlatform.h,\osrng.cpp,\src\libImaging\ImPlatform.h,59e1c4edc67f1de293b4925bc0972c08,6670b4584189b95bdcaaa198dabbf5c8,-8023445187194468328,-8024570949662353252,5,N,239,58,16
+rijndael.cpp,ImPlatform.h,\rijndael.cpp,\src\libImaging\ImPlatform.h,5e11c77aba7a6cc9a1c8e4db9be4e269,6670b4584189b95bdcaaa198dabbf5c8,-8023444499999696740,-8024570949662353252,2,N,1036,58,16
+sha.cpp,ImPlatform.h,\sha.cpp,\src\libImaging\ImPlatform.h,3e56c877ea36ea0fdc50c12580fbfe51,6670b4584189b95bdcaaa198dabbf5c8,-8023515418499688292,-8024570949662353252,2,N,1203,58,16
+speck.cpp,ImPlatform.h,\speck.cpp,\src\libImaging\ImPlatform.h,bb4636e8c76e4d2d62685b50ea1741c4,6670b4584189b95bdcaaa198dabbf5c8,-7167769916648146788,-8024570949662353252,7,N,455,58,11
+sse_simd.cpp,ImPlatform.h,\sse_simd.cpp,\src\libImaging\ImPlatform.h,3e49f6e856b1fa2c8e32548f366b151b,6670b4584189b95bdcaaa198dabbf5c8,-8023586339147198052,-8024570949662353252,8,N,81,58,11
+stdcpp.h,ImPlatform.h,\stdcpp.h,\src\libImaging\ImPlatform.h,0f148d7049fa5aaf0f0fb658d46a4f73,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,71,58,12

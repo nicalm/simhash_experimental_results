@@ -1,0 +1,8 @@
+2257-core,2496-proxygen
+appconfig.php,HTTPEvent.cpp,\core\ajax\appconfig.php,\proxygen\lib\http\session\HTTPEvent.cpp,031cdb064a8d37cd4b40af5d608c8543,f531f441ddbf402ce38379a73fb55e94,5152665582536538583,5729127442933135573,7,N,37,33,10
+appconfig.php,HTTPTransactionEgressSM.cpp,\core\ajax\appconfig.php,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,031cdb064a8d37cd4b40af5d608c8543,efc78e843307fbae0fa015e7df0a883b,5152665582536538583,5729127442933135575,6,N,37,102,10
+appconfig.php,HTTPTransactionIngressSM.cpp,\core\ajax\appconfig.php,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,031cdb064a8d37cd4b40af5d608c8543,da1ef343309f9dc24e096acd73b993d0,5152665582536538583,5729127442933135575,6,N,37,110,10
+MDB2SchemaReader.php,http_parser_cpp.cpp,\lib\private\DB\MDB2SchemaReader.php,\proxygen\external\http_parser\http_parser_cpp.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,3f30cfe00a1b12b06b5ae798a28cbb38,5731379242747078871,5728846517712238791,6,N,238,1837,76
+MDB2SchemaReader.php,HTTPEvent.cpp,\lib\private\DB\MDB2SchemaReader.php,\proxygen\lib\http\session\HTTPEvent.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,f531f441ddbf402ce38379a73fb55e94,5731379242747078871,5729127442933135573,4,N,238,33,11
+MDB2SchemaReader.php,HTTPTransactionEgressSM.cpp,\lib\private\DB\MDB2SchemaReader.php,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,efc78e843307fbae0fa015e7df0a883b,5731379242747078871,5729127442933135575,3,N,238,102,24
+MDB2SchemaReader.php,HTTPTransactionIngressSM.cpp,\lib\private\DB\MDB2SchemaReader.php,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,d8397eafd4a2b3b1ab041811b2ffbaec,da1ef343309f9dc24e096acd73b993d0,5731379242747078871,5729127442933135575,3,N,238,110,26

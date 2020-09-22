@@ -1,0 +1,4 @@
+2116-libgit2,62850-ADOdb
+settings.c,adodb-pdo_firebird.inc.php,\src\settings.c,\drivers\adodb-pdo_firebird.inc.php,718930b70d05c094a268632a2f1ec06a,9495b386496271e4936472af040fd5ea,6882048947539982549,5738134642182631639,6,N,238,333,55
+http_parser.c,adodb-pdo_firebird.inc.php,\deps\http-parser\http_parser.c,\drivers\adodb-pdo_firebird.inc.php,624ed39402aecf1d658c88ffcffaee6d,9495b386496271e4936472af040fd5ea,5728845967956424919,5738134642182631639,5,N,1620,333,107
+pcre_fullinfo.c,adodb-pdo_firebird.inc.php,\deps\pcre\pcre_fullinfo.c,\drivers\adodb-pdo_firebird.inc.php,8923cc431580197b3e121f54e41dba57,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,135,333,28

@@ -1,0 +1,4 @@
+1172-stb,1930-SwifterSwift
+glext.h,CGColorExtensions.swift,\tests\caveview\glext.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,0aa24209e6e9c1ceb2e18188dfcd425b,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510628,1189793885789145236,7,N,10581,21,6
+glext.h,NSAttributedStringExtensions.swift,\tests\caveview\glext.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,0aa24209e6e9c1ceb2e18188dfcd425b,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510628,-9174114755220842340,6,N,10581,87,12
+glext.h,StringExtensions.swift,\tests\caveview\glext.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,0aa24209e6e9c1ceb2e18188dfcd425b,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510628,-3051550226512422756,7,N,10581,650,57

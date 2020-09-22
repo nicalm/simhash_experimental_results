@@ -1,0 +1,15 @@
+2202-qBittorrent,4420-zcash
+application.cpp,compat.h,\src\app\application.cpp,\src\compat.h,1769f1c34b2b51e4c126498e3a0b5a58,edca1c84c422d3accf71cf028f56730c,-7445858400229599076,-8023445189341947748,5,N,573,86,21
+application.cpp,byteswap.h,\src\app\application.cpp,\src\compat\byteswap.h,1769f1c34b2b51e4c126498e3a0b5a58,c8049a65823175e0cb720f771bece0d5,-7445858400229599076,-8032452249010186084,7,N,573,36,12
+application.cpp,endian.h,\src\app\application.cpp,\src\compat\endian.h,1769f1c34b2b51e4c126498e3a0b5a58,b0a1e77bc71959182a3b0854e64e46ad,-7445858400229599076,-8023445049755510628,5,N,573,160,77
+application.cpp,zcashconsensus.h,\src\app\application.cpp,\src\script\zcashconsensus.h,1769f1c34b2b51e4c126498e3a0b5a58,9ba7ca783c191e34d1020f0ee0c759f5,-7445858400229599076,-9171898141824989028,8,N,573,48,13
+application.cpp,thread_annotations.h,\src\app\application.cpp,\src\leveldb\port\thread_annotations.h,1769f1c34b2b51e4c126498e3a0b5a58,af9eee1ca47192126580ea56af3a4865,-7445858400229599076,-8023445049755510628,5,N,573,39,13
+main.cpp,compat.h,\src\app\main.cpp,\src\compat.h,0ab876c235d091cc9321f5b26945d353,edca1c84c422d3accf71cf028f56730c,-8023445118508476260,-8023445189341947748,5,N,324,86,22
+main.cpp,byteswap.h,\src\app\main.cpp,\src\compat\byteswap.h,0ab876c235d091cc9321f5b26945d353,c8049a65823175e0cb720f771bece0d5,-8023445118508476260,-8032452249010186084,3,N,324,36,12
+main.cpp,endian.h,\src\app\main.cpp,\src\compat\endian.h,0ab876c235d091cc9321f5b26945d353,b0a1e77bc71959182a3b0854e64e46ad,-8023445118508476260,-8023445049755510628,3,N,324,160,62
+main.cpp,zcashconsensus.h,\src\app\main.cpp,\src\script\zcashconsensus.h,0ab876c235d091cc9321f5b26945d353,9ba7ca783c191e34d1020f0ee0c759f5,-8023445118508476260,-9171898141824989028,8,N,324,48,13
+main.cpp,thread_annotations.h,\src\app\main.cpp,\src\leveldb\port\thread_annotations.h,0ab876c235d091cc9321f5b26945d353,af9eee1ca47192126580ea56af3a4865,-8023445118508476260,-8023445049755510628,3,N,324,39,13
+mainwindow.cpp,compat.h,\src\gui\mainwindow.cpp,\src\compat.h,5cd96cef67869a501be59f5996fcb554,edca1c84c422d3accf71cf028f56730c,-9032396158224000868,-8023445189341947748,8,N,1634,86,21
+mainwindow.cpp,endian.h,\src\gui\mainwindow.cpp,\src\compat\endian.h,5cd96cef67869a501be59f5996fcb554,b0a1e77bc71959182a3b0854e64e46ad,-9032396158224000868,-8023445049755510628,8,N,1634,160,77
+mainwindow.cpp,thread_annotations.h,\src\gui\mainwindow.cpp,\src\leveldb\port\thread_annotations.h,5cd96cef67869a501be59f5996fcb554,af9eee1ca47192126580ea56af3a4865,-9032396158224000868,-8023445049755510628,8,N,1634,39,13
+httperror.h,zmqpublishnotifier.h,\src\base\http\httperror.h,\src\zmq\zmqpublishnotifier.h,72793b1e6d387c153e281cc7b219dd54,ed1428eb590a160a56411f4729ad3d1f,-6687333415053564183,-6668754417390328211,7,N,52,39,19

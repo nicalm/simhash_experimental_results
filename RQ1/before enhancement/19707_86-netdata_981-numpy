@@ -1,0 +1,4 @@
+86-netdata,981-numpy
+libnetdata.h,npy_common.h,\libnetdata\libnetdata.h,\numpy\core\include\numpy\npy_common.h,b36073eea8dc836d3f37e426aebdabda,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,248,951,48
+clocks.h,npy_common.h,\libnetdata\clocks\clocks.h,\numpy\core\include\numpy\npy_common.h,817f185c065ee719f0a0f5d506401b1f,a173a9479ba36f92005f6b19e1c98ca6,-7879330084279756644,-8023445066935379812,6,N,66,951,12
+exceptions.py,test_matrix_linalg.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,\numpy\matrixlib\tests\test_matrix_linalg.py,25ddb32d1336bad7af00549477feb5f7,54a57c0139bb930af3d55b231bfeaa89,9217330326845687173,9217329227336156549,2,N,128,55,12

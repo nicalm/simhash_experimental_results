@@ -1,0 +1,10 @@
+10841-gimp,62850-ADOdb
+language.c,adodb-pdo_firebird.inc.php,\app\language.c,\drivers\adodb-pdo_firebird.inc.php,4139ff31319ee41dc528275c17de6aaa,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,699,333,31
+gimpcoreconfig.c,adodb-pdo_firebird.inc.php,\app\config\gimpcoreconfig.c,\drivers\adodb-pdo_firebird.inc.php,60331a7dddac7aef0155c034ea225f13,9495b386496271e4936472af040fd5ea,5729127442933135559,5738134642182631639,5,N,1172,333,55
+gimpdialogconfig.c,adodb-pdo_firebird.inc.php,\app\config\gimpdialogconfig.c,\drivers\adodb-pdo_firebird.inc.php,3820fc02cf2195589ecaca19c1f1acba,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,821,333,48
+gimpdisplayconfig.c,adodb-pdo_firebird.inc.php,\app\config\gimpdisplayconfig.c,\drivers\adodb-pdo_firebird.inc.php,65c592b669d0f1c67fe78ea51c147421,9495b386496271e4936472af040fd5ea,5729127442933136597,5738134642182631639,6,N,517,333,45
+gimpguiconfig.c,adodb-pdo_firebird.inc.php,\app\config\gimpguiconfig.c,\drivers\adodb-pdo_firebird.inc.php,6a23ead81b5910e070d38e5744096c1e,9495b386496271e4936472af040fd5ea,5729131840845429975,5738134642182631639,7,N,769,333,41
+gimprc-deserialize.c,adodb-pdo_firebird.inc.php,\app\config\gimprc-deserialize.c,\drivers\adodb-pdo_firebird.inc.php,e0c3beb64a77badc26455bea94a54e93,9495b386496271e4936472af040fd5ea,6233528402165936599,5738134642182631639,8,N,110,333,25
+gimpdisplayshell-title.c,adodb-pdo_firebird.inc.php,\app\display\gimpdisplayshell-title.c,\drivers\adodb-pdo_firebird.inc.php,c3eb1838970cef0deeb23eaf230888b6,9495b386496271e4936472af040fd5ea,5738134642187876567,5738134642182631639,3,N,408,333,75
+gimppaintoptions.c,adodb-pdo_firebird.inc.php,\app\paint\gimppaintoptions.c,\drivers\adodb-pdo_firebird.inc.php,a07a4b807339eb34d624bdd3bea07b09,9495b386496271e4936472af040fd5ea,5730253342839971031,5738134642182631639,7,N,1042,333,94
+script-fu-script.c,adodb-pdo_firebird.inc.php,\plug-ins\script-fu\script-fu-script.c,\drivers\adodb-pdo_firebird.inc.php,c772b356e509f21e3b3221a39bd93d79,9495b386496271e4936472af040fd5ea,5731660717722482775,5738134642182631639,7,N,783,333,86

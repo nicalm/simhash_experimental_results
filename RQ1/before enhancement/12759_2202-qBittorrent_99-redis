@@ -1,0 +1,14 @@
+2202-qBittorrent,99-redis
+application.cpp,config.h,\src\app\application.cpp,\src\config.h,1769f1c34b2b51e4c126498e3a0b5a58,fe9fefbbc117a00a89d3fa3a9678435a,-7445858400229599076,-8023445049755510628,5,N,573,149,38
+application.cpp,lzfP.h,\src\app\application.cpp,\src\lzfP.h,1769f1c34b2b51e4c126498e3a0b5a58,a8a99ddcfb21b5d90efea295fa1823be,-7445858400229599076,-7879329861679654756,6,N,573,77,24
+application.cpp,llimits.h,\src\app\application.cpp,\deps\lua\src\llimits.h,1769f1c34b2b51e4c126498e3a0b5a58,0990f1abc3ce4ed347a3373a88d7961e,-7445858400229599076,-8023163574778799972,6,N,573,53,11
+application.cpp,jemalloc_internal_decls.h,\src\app\application.cpp,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,1769f1c34b2b51e4c126498e3a0b5a58,b10ad6415790176a35be7bbab7206d99,-7445858400229599076,-9176366554630793060,7,N,573,85,21
+application.cpp,jemalloc_internal_types.h,\src\app\application.cpp,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,1769f1c34b2b51e4c126498e3a0b5a58,980de9a5931b9a6fb54cf696652d614a,-7445858400229599076,-8032452249077360612,8,N,573,129,27
+main.cpp,config.h,\src\app\main.cpp,\src\config.h,0ab876c235d091cc9321f5b26945d353,fe9fefbbc117a00a89d3fa3a9678435a,-8023445118508476260,-8023445049755510628,3,N,324,149,41
+main.cpp,lzfP.h,\src\app\main.cpp,\src\lzfP.h,0ab876c235d091cc9321f5b26945d353,a8a99ddcfb21b5d90efea295fa1823be,-8023445118508476260,-7879329861679654756,4,N,324,77,25
+main.cpp,llimits.h,\src\app\main.cpp,\deps\lua\src\llimits.h,0ab876c235d091cc9321f5b26945d353,0990f1abc3ce4ed347a3373a88d7961e,-8023445118508476260,-8023163574778799972,4,N,324,53,11
+main.cpp,jemalloc_internal_decls.h,\src\app\main.cpp,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,0ab876c235d091cc9321f5b26945d353,b10ad6415790176a35be7bbab7206d99,-8023445118508476260,-9176366554630793060,5,N,324,85,23
+main.cpp,jemalloc_internal_types.h,\src\app\main.cpp,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,0ab876c235d091cc9321f5b26945d353,980de9a5931b9a6fb54cf696652d614a,-8023445118508476260,-8032452249077360612,6,N,324,129,27
+mainwindow.cpp,config.h,\src\gui\mainwindow.cpp,\src\config.h,5cd96cef67869a501be59f5996fcb554,fe9fefbbc117a00a89d3fa3a9678435a,-9032396158224000868,-8023445049755510628,8,N,1634,149,47
+mainwindow.cpp,lzfP.h,\src\gui\mainwindow.cpp,\src\lzfP.h,5cd96cef67869a501be59f5996fcb554,a8a99ddcfb21b5d90efea295fa1823be,-9032396158224000868,-7879329861679654756,7,N,1634,77,25
+mainwindow.cpp,jemalloc_internal_decls.h,\src\gui\mainwindow.cpp,\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,5cd96cef67869a501be59f5996fcb554,b10ad6415790176a35be7bbab7206d99,-9032396158224000868,-9176366554630793060,8,N,1634,85,21

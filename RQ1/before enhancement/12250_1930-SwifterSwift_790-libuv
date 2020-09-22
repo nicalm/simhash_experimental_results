@@ -1,0 +1,5 @@
+1930-SwifterSwift,790-libuv
+CGColorExtensions.swift,getaddrinfo.c,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\unix\getaddrinfo.c,13a384d167268ac57b0c34b9cb13ed0f,e8e49cecf77e5d3f516ab013154bbd9c,1189793885789145236,-8023444777025087336,8,N,21,188,8
+CGColorExtensions.swift,winapi.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,\src\win\winapi.h,13a384d167268ac57b0c34b9cb13ed0f,4f2f56dcce5d652768e5e4cfcf6661be,1189793885789145236,-8023445049755510628,7,N,21,3569,5
+NSAttributedStringExtensions.swift,winapi.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,\src\win\winapi.h,682db1376e5e9e45d24a9e1b1ad3e9f8,4f2f56dcce5d652768e5e4cfcf6661be,-9174114755220842340,-8023445049755510628,6,N,87,3569,11
+StringExtensions.swift,winapi.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,\src\win\winapi.h,d53332d341abeff92e3d2d2ce16a4d0a,4f2f56dcce5d652768e5e4cfcf6661be,-3051550226512422756,-8023445049755510628,7,N,650,3569,55

@@ -1,0 +1,6 @@
+242-php-src,4014-kanboard
+com_variant.c,changes.php,\ext\com_dotnet\com_variant.c,\app\Template\task\changes.php,8cc1d969830285306cb98cfbe0332de9,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,840,75,22
+domexception.c,changes.php,\ext\dom\domexception.c,\app\Template\task\changes.php,99fc4111c0afb3d46504c745c26ac181,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,77,75,17
+php_http_parser.c,changes.php,\sapi\cli\php_http_parser.c,\app\Template\task\changes.php,1cb8682c3e456c12782ef52aaf04c34e,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,1221,75,22
+compact_literals.c,SwiftMailerSmokeTestCase.php,\ext\opcache\Optimizer\compact_literals.c,\vendor\swiftmailer\swiftmailer\tests\SwiftMailerSmokeTestCase.php,16611d0d8286d0d662263e4f333bb6b6,86a6e946cdbdec59b2aadba860de7a3d,6902320233239329462,6902315695623125730,8,N,756,38,12
+pcre2_auto_possess.c,changes.php,\ext\pcre\pcre2lib\pcre2_auto_possess.c,\app\Template\task\changes.php,14eaa46e5fa5413a14462276ea25c3b4,9d43fb3e19ac004f3873770dd9bbbfde,1117441424505747670,5729127648822069494,8,N,846,75,19

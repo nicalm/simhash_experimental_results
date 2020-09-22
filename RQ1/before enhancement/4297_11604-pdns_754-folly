@@ -1,0 +1,15 @@
+11604-pdns,754-folly
+mtasker_fcontext.cc,Portability.h,\pdns\mtasker_fcontext.cc,\folly\Portability.h,938c4b11c2b5d2cc884b9f3d84adb304,4a7decd5a24ba7fccd761801e3ef4412,-7442588467144042408,-7447019619264177960,8,N,159,392,34
+threadname.cc,CPortability.h,\pdns\threadname.cc,\folly\CPortability.h,5b915147d70647a42e05b4e28ce34c57,2071cc58e111b1fb40fa47a9161f5356,-8023445049889728356,-8023445049756493156,4,N,39,137,11
+threadname.cc,Portability.h,\pdns\threadname.cc,\folly\Portability.h,5b915147d70647a42e05b4e28ce34c57,4a7decd5a24ba7fccd761801e3ef4412,-8023445049889728356,-7447019619264177960,7,N,39,392,13
+threadname.cc,Stdlib.h,\pdns\threadname.cc,\folly\portability\Stdlib.h,5b915147d70647a42e05b4e28ce34c57,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049889728356,-8028512836321486692,8,N,39,31,7
+threadname.cc,Windows.h,\pdns\threadname.cc,\folly\portability\Windows.h,5b915147d70647a42e05b4e28ce34c57,8d255d6eb746df0dd20db480cd3643e5,-8023445049889728356,-8023516518011316068,3,N,39,48,10
+version.cc,CPortability.h,\pdns\version.cc,\folly\CPortability.h,2d47bb8e09166cdc8de706154500a37c,2071cc58e111b1fb40fa47a9161f5356,-8023445049755379556,-8023445049756493156,4,N,141,137,28
+version.cc,Portability.h,\pdns\version.cc,\folly\Portability.h,2d47bb8e09166cdc8de706154500a37c,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755379556,-7447019619264177960,7,N,141,392,36
+version.cc,Stdlib.h,\pdns\version.cc,\folly\portability\Stdlib.h,2d47bb8e09166cdc8de706154500a37c,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049755379556,-8028512836321486692,8,N,141,31,7
+version.cc,Windows.h,\pdns\version.cc,\folly\portability\Windows.h,2d47bb8e09166cdc8de706154500a37c,8d255d6eb746df0dd20db480cd3643e5,-8023445049755379556,-8023516518011316068,3,N,141,48,13
+murmur3.h,CPortability.h,\ext\probds\murmur3.h,\folly\CPortability.h,02ac5aff2e57a41f9dc94781ccd8d595,2071cc58e111b1fb40fa47a9161f5356,-9176375350707038052,-8023445049756493156,7,N,46,137,11
+murmur3.h,Config.h,\ext\probds\murmur3.h,\folly\portability\Config.h,02ac5aff2e57a41f9dc94781ccd8d595,a5be13d038f6f1ed74f7f738d2c00e52,-9176375350707038052,-9171865188386433004,8,N,46,16,6
+murmur3.h,Malloc.h,\ext\probds\murmur3.h,\folly\portability\Malloc.h,02ac5aff2e57a41f9dc94781ccd8d595,dfd65b404c2db2abc7db699d7a9cee77,-9176375350707038052,-9176727193374107500,8,N,46,22,7
+murmur3.h,Windows.h,\ext\probds\murmur3.h,\folly\portability\Windows.h,02ac5aff2e57a41f9dc94781ccd8d595,8d255d6eb746df0dd20db480cd3643e5,-9176375350707038052,-8023516518011316068,6,N,46,48,10
+murmur3.h,EventFDWrapper.h,\ext\probds\murmur3.h,\folly\io\async\EventFDWrapper.h,02ac5aff2e57a41f9dc94781ccd8d595,442338be25f54c06750d74e9063379f7,-9176375350707038052,-8455834319570281315,8,N,46,32,8

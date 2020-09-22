@@ -1,0 +1,10 @@
+18-electron,86-netdata
+atom_main_delegate.cc,libnetdata.h,\shell\app\atom_main_delegate.cc,\libnetdata\libnetdata.h,6beb16be6a739f5598d443a18a5cbaa6,b36073eea8dc836d3f37e426aebdabda,-4997025687846725476,-8023445049755510628,6,N,249,248,23
+atom_browser_main_parts.cc,libnetdata.h,\shell\browser\atom_browser_main_parts.cc,\libnetdata\libnetdata.h,4312360427f5f392ec4f692be2a7319a,b36073eea8dc836d3f37e426aebdabda,-8023445187194455912,-8023445049755510628,3,N,375,248,33
+atom_browser_main_parts.cc,clocks.h,\shell\browser\atom_browser_main_parts.cc,\libnetdata\clocks\clocks.h,4312360427f5f392ec4f692be2a7319a,817f185c065ee719f0a0f5d506401b1f,-8023445187194455912,-7879330084279756644,8,N,375,66,11
+atom_browser_main_parts.h,libnetdata.h,\shell\browser\atom_browser_main_parts.h,\libnetdata\libnetdata.h,5cc5d4232705ae3cd44e445899ce62f2,b36073eea8dc836d3f37e426aebdabda,-6870242070301451108,-8023445049755510628,8,N,105,248,11
+atom_paths.h,libnetdata.h,\shell\browser\atom_paths.h,\libnetdata\libnetdata.h,f62403bf230108c707f5e1273fdb321d,b36073eea8dc836d3f37e426aebdabda,-8023471436960835427,-8023445049755510628,4,N,33,248,7
+atom_constants.h,libnetdata.h,\shell\common\atom_constants.h,\libnetdata\libnetdata.h,0413d754caa4e4d0755670d11164282c,b36073eea8dc836d3f37e426aebdabda,-9176368753659307892,-8023445049755510628,7,N,31,248,4
+renderer_client_base.cc,libnetdata.h,\shell\renderer\renderer_client_base.cc,\libnetdata\libnetdata.h,d0d5771f27ecde6d75b1cf2555ca2003,b36073eea8dc836d3f37e426aebdabda,-8023449518660068932,-8023445049755510628,7,N,308,248,26
+linux_syscall_support.h,libnetdata.h,\vendor\third_party\lss\linux_syscall_support.h,\libnetdata\libnetdata.h,d7c4a715ebced0be3633fcfd349a02ff,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,3833,248,58
+linux_syscall_support.h,clocks.h,\vendor\third_party\lss\linux_syscall_support.h,\libnetdata\clocks\clocks.h,d7c4a715ebced0be3633fcfd349a02ff,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,3833,66,13

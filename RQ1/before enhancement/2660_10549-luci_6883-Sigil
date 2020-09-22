@@ -1,0 +1,17 @@
+10549-luci,6883-Sigil
+axhttp.h,ioapi.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\3rdparty\minizip\ioapi.h,15eb217d5f5922cce10b8494e4915b7f,26ef5a4584bbb9b3400f2a44f9e7e8de,-7491774003658044260,-8032452386449205092,8,N,101,126,13
+axhttp.h,gzguts.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\3rdparty\zlib\gzguts.h,15eb217d5f5922cce10b8494e4915b7f,0c76633a99d58c8a7920b78989126acd,-7491774003658044260,-8023445049755510628,8,N,101,154,11
+axhttp.h,zconf.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\3rdparty\zlib\zconf.h,15eb217d5f5922cce10b8494e4915b7f,c89ff94ee23d020c7c9976f48a098fa0,-7491774003658044260,-8023445049755510628,8,N,101,403,11
+axhttp.h,zutil.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\3rdparty\zlib\zutil.h,15eb217d5f5922cce10b8494e4915b7f,278c42fe50334e51a072b9e9539f1a94,-7491774003658044260,-8023445049755510628,8,N,101,183,11
+axhttp.h,localename.c,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\3rdparty\hunspell\intl\localename.c,15eb217d5f5922cce10b8494e4915b7f,8dae1c46d7f3b38c1490ba3c3553cb05,-7491774003658044260,-8023445049755510628,8,N,101,1228,17
+axhttp.h,ioapi.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\3rdparty\zlib\contrib\minizip\ioapi.h,15eb217d5f5922cce10b8494e4915b7f,e509e865c1047c3c4740e3fc3c7577eb,-7491774003658044260,-7456026681078916964,5,N,101,132,13
+axssl.c,ioapi.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\3rdparty\minizip\ioapi.h,f2b0cb059db544f4352723a1918a2843,26ef5a4584bbb9b3400f2a44f9e7e8de,-8030199623489105704,-8032452386449205092,8,N,686,126,26
+axssl.c,gzguts.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\3rdparty\zlib\gzguts.h,f2b0cb059db544f4352723a1918a2843,0c76633a99d58c8a7920b78989126acd,-8030199623489105704,-8023445049755510628,8,N,686,154,33
+axssl.c,zconf.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\3rdparty\zlib\zconf.h,f2b0cb059db544f4352723a1918a2843,c89ff94ee23d020c7c9976f48a098fa0,-8030199623489105704,-8023445049755510628,8,N,686,403,31
+axssl.c,zutil.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\3rdparty\zlib\zutil.h,f2b0cb059db544f4352723a1918a2843,278c42fe50334e51a072b9e9539f1a94,-8030199623489105704,-8023445049755510628,8,N,686,183,33
+axssl.c,localename.c,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\3rdparty\hunspell\intl\localename.c,f2b0cb059db544f4352723a1918a2843,8dae1c46d7f3b38c1490ba3c3553cb05,-8030199623489105704,-8023445049755510628,8,N,686,1228,131
+axssl.c,sljitConfig.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\3rdparty\pcre\sljit\sljitConfig.h,f2b0cb059db544f4352723a1918a2843,dd8afdbccc028de6ceee20447d73179f,-8030199623489105704,-8023445049755445096,8,N,686,27,9
+dialog.h,gzguts.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\3rdparty\zlib\gzguts.h,65291cd84768397473c02d7325db3d87,0c76633a99d58c8a7920b78989126acd,-7933373057317024612,-8023445049755510628,8,N,128,154,20
+dialog.h,zconf.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\3rdparty\zlib\zconf.h,65291cd84768397473c02d7325db3d87,c89ff94ee23d020c7c9976f48a098fa0,-7933373057317024612,-8023445049755510628,8,N,128,403,18
+dialog.h,zutil.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\3rdparty\zlib\zutil.h,65291cd84768397473c02d7325db3d87,278c42fe50334e51a072b9e9539f1a94,-7933373057317024612,-8023445049755510628,8,N,128,183,18
+dialog.h,localename.c,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\3rdparty\hunspell\intl\localename.c,65291cd84768397473c02d7325db3d87,8dae1c46d7f3b38c1490ba3c3553cb05,-7933373057317024612,-8023445049755510628,8,N,128,1228,19

@@ -1,0 +1,5 @@
+754-folly,981-numpy
+CPortability.h,npy_common.h,\folly\CPortability.h,\numpy\core\include\numpy\npy_common.h,2071cc58e111b1fb40fa47a9161f5356,a173a9479ba36f92005f6b19e1c98ca6,-8023445049756493156,-8023445066935379812,4,N,137,951,47
+Portability.h,npy_common.h,\folly\Portability.h,\numpy\core\include\numpy\npy_common.h,4a7decd5a24ba7fccd761801e3ef4412,a173a9479ba36f92005f6b19e1c98ca6,-7447019619264177960,-8023445066935379812,7,N,392,951,97
+Stdlib.h,npy_common.h,\folly\portability\Stdlib.h,\numpy\core\include\numpy\npy_common.h,9adbc370aa00b92c0cbb5c0cf514b964,a173a9479ba36f92005f6b19e1c98ca6,-8028512836321486692,-8023445066935379812,8,N,31,951,6
+Windows.h,npy_common.h,\folly\portability\Windows.h,\numpy\core\include\numpy\npy_common.h,8d255d6eb746df0dd20db480cd3643e5,a173a9479ba36f92005f6b19e1c98ca6,-8023516518011316068,-8023445066935379812,3,N,48,951,14

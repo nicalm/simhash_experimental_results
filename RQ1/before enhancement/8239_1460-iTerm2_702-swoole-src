@@ -1,0 +1,8 @@
+1460-iTerm2,702-swoole-src
+iTermMetalGlyphKey.h,swoole_http_parser.c,\sources\iTermMetalGlyphKey.h,\thirdparty\swoole_http_parser.c,ec93bd52c1bfb24f6f1a8d5c07191b02,d155f3ba8a7cdb53f79f34af305581eb,5729057074222575775,5729127442933135575,6,N,92,1234,20
+iTermMetalGlyphKey.h,get.php,\sources\iTermMetalGlyphKey.h,\tests\include\lib\src\responder\get.php,ec93bd52c1bfb24f6f1a8d5c07191b02,0e93a44800862fa891e9d4a8bd016ee0,5729057074222575775,8034970456441796823,8,N,92,71,10
+ini.h,swoole.cc,\ThirdParty\inih\ini.h,\swoole.cc,3cf89cb2c107d2c3cb0a3bf2fcf603a1,51095f5d0c729dc304ea7d3b74a45710,-8023445049755510564,-8023444500268134244,4,N,57,735,17
+ini.h,swoole_socket_coro.cc,\ThirdParty\inih\ini.h,\swoole_socket_coro.cc,3cf89cb2c107d2c3cb0a3bf2fcf603a1,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023445049755510564,-5699587642032351076,4,N,57,1368,16
+ini.h,context.h,\ThirdParty\inih\ini.h,\include\context.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,1006969c83b25350b55292d6545acfc0,-8023445049755510564,-8019503850310051684,7,N,57,115,13
+BetterFontPicker-Swift.h,swoole.cc,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\swoole.cc,9cdfc1f6cb7907e29a4e6b2cf0041946,51095f5d0c729dc304ea7d3b74a45710,-8023479959251789668,-8023444500268134244,6,N,335,735,49
+BetterFontPicker-Swift.h,swoole_socket_coro.cc,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\swoole_socket_coro.cc,9cdfc1f6cb7907e29a4e6b2cf0041946,8f05b0e20fc4d2f3859f5f9463ada7b1,-8023479959251789668,-5699587642032351076,6,N,335,1368,46

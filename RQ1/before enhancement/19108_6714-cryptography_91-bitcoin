@@ -1,0 +1,5 @@
+6714-cryptography,91-bitcoin
+osrandom_engine.h,attributes.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\attributes.h,5faed825e57102494d64f41f67417150,1d61566702a36bfdc0abbfcd3b918b11,-9176392388590904164,-8023445049755378532,7,N,80,15,6
+osrandom_engine.h,randomenv.cpp,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\randomenv.cpp,5faed825e57102494d64f41f67417150,8eefeb3e04f7f52be719a9efdd732606,-9176392388590904164,-8023445049755510628,7,N,80,439,16
+osrandom_engine.h,endian.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\compat\endian.h,5faed825e57102494d64f41f67417150,5c16422e6448c8f31356121158773761,-9176392388590904164,-8023445049755510628,7,N,80,198,12
+osrandom_engine.h,thread_annotations.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\leveldb\port\thread_annotations.h,5faed825e57102494d64f41f67417150,af9eee1ca47192126580ea56af3a4865,-9176392388590904164,-8023445049755510628,7,N,80,39,11

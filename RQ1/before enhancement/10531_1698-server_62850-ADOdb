@@ -1,0 +1,3 @@
+1698-server,62850-ADOdb
+MDB2SchemaReader.php,adodb-pdo_firebird.inc.php,\lib\private\DB\MDB2SchemaReader.php,\drivers\adodb-pdo_firebird.inc.php,d647cd0d11a5a459553ceaf5b5657b44,9495b386496271e4936472af040fd5ea,5731379242742884567,5738134642182631639,6,N,240,333,70
+SMB.php,adodb-ads.inc.php,\apps\files_external\lib\Lib\Storage\SMB.php,\drivers\adodb-ads.inc.php,b66e512599a7e6ce94036d52a7150ef2,e633906aaa2d6e9e2a66e097e699c244,1719314850312373182,1719297188635141054,7,N,454,561,121

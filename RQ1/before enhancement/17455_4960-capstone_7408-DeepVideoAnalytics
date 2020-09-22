@@ -1,0 +1,4 @@
+4960-capstone,7408-DeepVideoAnalytics
+cs.c,bbox.c,\cs.c,\repos\tf_ctpn_cpu\lib\utils\bbox.c,28b740cedafbc72ff6d105bcf67b66ec,b42f28bb593ba51126ab3c36f2280e44,-8024007991656916772,-7735003018152322916,8,N,1274,5912,355
+cs.c,cython_nms.c,\cs.c,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,28b740cedafbc72ff6d105bcf67b66ec,340c61e73ba74d7820ff458fae32d716,-8024007991656916772,-7735003018152322916,8,N,1274,6623,355
+cs.c,gpu_nms.c,\cs.c,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,28b740cedafbc72ff6d105bcf67b66ec,c5f744cc55310f8443ffae08bc289c17,-8024007991656916772,-7735003018152322916,8,N,1274,5655,355

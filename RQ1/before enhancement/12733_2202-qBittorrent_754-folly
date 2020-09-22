@@ -1,0 +1,6 @@
+2202-qBittorrent,754-folly
+application.cpp,CPortability.h,\src\app\application.cpp,\folly\CPortability.h,1769f1c34b2b51e4c126498e3a0b5a58,2071cc58e111b1fb40fa47a9161f5356,-7445858400229599076,-8023445049756493156,8,N,573,137,35
+application.cpp,Windows.h,\src\app\application.cpp,\folly\portability\Windows.h,1769f1c34b2b51e4c126498e3a0b5a58,8d255d6eb746df0dd20db480cd3643e5,-7445858400229599076,-8023516518011316068,7,N,573,48,14
+main.cpp,CPortability.h,\src\app\main.cpp,\folly\CPortability.h,0ab876c235d091cc9321f5b26945d353,2071cc58e111b1fb40fa47a9161f5356,-8023445118508476260,-8023445049756493156,4,N,324,137,39
+main.cpp,Stdlib.h,\src\app\main.cpp,\folly\portability\Stdlib.h,0ab876c235d091cc9321f5b26945d353,9adbc370aa00b92c0cbb5c0cf514b964,-8023445118508476260,-8028512836321486692,8,N,324,31,8
+main.cpp,Windows.h,\src\app\main.cpp,\folly\portability\Windows.h,0ab876c235d091cc9321f5b26945d353,8d255d6eb746df0dd20db480cd3643e5,-8023445118508476260,-8023516518011316068,5,N,324,48,14

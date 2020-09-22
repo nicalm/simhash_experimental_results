@@ -1,0 +1,4 @@
+10572-Openfire,140-neovim
+ProfiledConnection.java,regexp.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\nvim\regexp.c,82b3cca56b0b2195d9beda1ef5898c9c,91efd6b452b6520ac03ac6fc760beb82,5747704796764879063,5747071472698439895,5,N,828,5532,276
+ProfiledConnection.java,regexp_nfa.c,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\nvim\regexp_nfa.c,82b3cca56b0b2195d9beda1ef5898c9c,60f0050c891f0a1452121882a2c3026d,5747704796764879063,5729127442949388502,8,N,828,5234,268
+GroupEventDispatcher.java,regexp.c,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\nvim\regexp.c,68bd878d44b313df2afdd340fe0c0022,91efd6b452b6520ac03ac6fc760beb82,8016956053561850069,5747071472698439895,6,N,73,5532,27

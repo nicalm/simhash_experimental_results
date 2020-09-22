@@ -1,0 +1,10 @@
+15760-bfgminer,5991-cJSON
+compat.h,unity_internals.h,\compat.h,\tests\unity\src\unity_internals.h,6f280ac9c52face753ea81ae98cfe95d,c48f2ef9d57759a1fe49b445259832f1,-8014437852681811908,-8023445049755510628,7,N,164,652,22
+driver-cpu.c,unity_internals.h,\driver-cpu.c,\tests\unity\src\unity_internals.h,be0f700b73a52208dd53210582876f9e,c48f2ef9d57759a1fe49b445259832f1,-7807272267641726562,-8023445049755510628,4,N,682,652,51
+driver-cpu.h,unity_internals.h,\driver-cpu.h,\tests\unity\src\unity_internals.h,092bcdcc676bceef9c2bba9e9b4bfe90,c48f2ef9d57759a1fe49b445259832f1,-7446984297678579684,-8023445049755510628,6,N,62,652,14
+miner.h,unity_internals.h,\miner.h,\tests\unity\src\unity_internals.h,2a2a55093078b0e951ca70e852eb3abc,c48f2ef9d57759a1fe49b445259832f1,-8021228434313848776,-8023445049755510628,6,N,1425,652,65
+cl_platform.h,unity_internals.h,\CL\cl_platform.h,\tests\unity\src\unity_internals.h,fc86a2210e718fbcf95aabcf0efa129a,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510564,-8023445049755510628,1,N,935,652,94
+signal.in.h,unity_internals.h,\lib\signal.in.h,\tests\unity\src\unity_internals.h,ab5029c765029582a72eaf9ee25fe736,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,258,652,66
+stddef.in.h,unity_internals.h,\lib\stddef.in.h,\tests\unity\src\unity_internals.h,51fb0aab8a1f88b1353623a5d3ebf080,c48f2ef9d57759a1fe49b445259832f1,-7446702960451199844,-8023445049755510628,5,N,37,652,13
+stdint.in.h,unity_internals.h,\lib\stdint.in.h,\tests\unity\src\unity_internals.h,cae8be4f2dc822552d990c5e166b9add,c48f2ef9d57759a1fe49b445259832f1,-8023455787174799140,-8023445049755510628,6,N,383,652,54
+string.in.h,unity_internals.h,\lib\string.in.h,\tests\unity\src\unity_internals.h,79edfbf7ab10d649596b9a9e586671ee,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510628,-8023445049755510628,0,N,697,652,96

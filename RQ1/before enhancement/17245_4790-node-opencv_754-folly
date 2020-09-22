@@ -1,0 +1,4 @@
+4790-node-opencv,754-folly
+init.cc,CPortability.h,\src\init.cc,\folly\CPortability.h,ac230f241e7062df9add8317bcf2a3be,2071cc58e111b1fb40fa47a9161f5356,-8032663355242784612,-8023445049756493156,6,N,67,137,11
+init.cc,Stdlib.h,\src\init.cc,\folly\portability\Stdlib.h,ac230f241e7062df9add8317bcf2a3be,9adbc370aa00b92c0cbb5c0cf514b964,-8032663355242784612,-8028512836321486692,8,N,67,31,6
+init.cc,Windows.h,\src\init.cc,\folly\portability\Windows.h,ac230f241e7062df9add8317bcf2a3be,8d255d6eb746df0dd20db480cd3643e5,-8032663355242784612,-8023516518011316068,3,N,67,48,11

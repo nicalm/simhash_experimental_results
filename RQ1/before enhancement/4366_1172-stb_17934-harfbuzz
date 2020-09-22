@@ -1,0 +1,3 @@
+1172-stb,17934-harfbuzz
+glext.h,hb-fc-list.c,\tests\caveview\glext.h,\util\hb-fc-list.c,0aa24209e6e9c1ceb2e18188dfcd425b,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510628,1199786163039426780,8,N,10581,178,14
+glext.h,test-c.c,\tests\caveview\glext.h,\test\api\test-c.c,0aa24209e6e9c1ceb2e18188dfcd425b,40a532b71e6242f205df120cc480a67e,-8023445049755510628,-8023445049757468516,3,N,10581,26,7

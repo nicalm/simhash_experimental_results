@@ -1,0 +1,12 @@
+11788-fbthrift,9023-zoneminder
+t_type.h,Cache.php,\thrift\compiler\ast\t_type.h,\web\api\lib\Cake\Cache\Cache.php,b053db260acb5031648818344c9828ac,e963e04efa4f735ebd988bf792400987,1431083237210080174,2007673731885581102,5,N,149,262,57
+t_type.h,Validation.php,\thrift\compiler\ast\t_type.h,\web\api\lib\Cake\Utility\Validation.php,b053db260acb5031648818344c9828ac,18689632d650f8e7be660bc914efa978,1431083237210080174,1413491596626510734,7,N,149,574,59
+thrift_config.h,zm_ffmpeg.h,\thrift\lib\cpp\thrift_config.h,\src\zm_ffmpeg.h,27c650bbff0590e9f2fafe163b055489,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049755510628,-8023445049755510628,0,N,220,281,37
+thrift_config.h,zm_signal.h,\thrift\lib\cpp\thrift_config.h,\src\zm_signal.h,27c650bbff0590e9f2fafe163b055489,95bf5749d181b4fa528e43c6e262e7a0,-8023445049755510628,-8057222049236199396,7,N,220,27,4
+thrift_config.h,ow-crypt.h,\thrift\lib\cpp\thrift_config.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,27c650bbff0590e9f2fafe163b055489,0cee51bfed48b1ba46a8ed164a5e5017,-8023445049755510628,-5429384857455895396,6,N,220,23,4
+AsyncClientWorker2.cpp,control_functions.php,\thrift\perf\cpp\AsyncClientWorker2.cpp,\web\includes\control_functions.php,3ebd76a0981e9c53ea752af30db30be5,c1201120aa45568b6a8a04c25886293a,5738134641844205783,-3494240195874867113,7,N,387,715,70
+macros.h,zm_ffmpeg.h,\thrift\lib\rb\ext\macros.h,\src\zm_ffmpeg.h,30f9d8d804dd66b382db54f2861518aa,7e2fcd3ba00999285d6aaf2ef78cc14d,-8032469861362509668,-8023445049755510628,7,N,18,281,4
+Operation.h,control_functions.php,\thrift\perf\cpp2\util\Operation.h,\web\includes\control_functions.php,1cf81f674cd6bb613346f9badee172d4,c1201120aa45568b6a8a04c25886293a,-3493118691867313953,-3494240195874867113,6,N,152,715,33
+module_types.cpp,Cache.php,\thrift\compiler\test\fixtures\mcpp2-compare\gen-cpp2\module_types.cpp,\web\api\lib\Cake\Cache\Cache.php,2db322d1052463c02d7e0a6bf32428e5,e963e04efa4f735ebd988bf792400987,1395054440124007342,2007673731885581102,7,N,3515,262,92
+MyBigStruct.java,mootools-more-1.6.0.js,\thrift\compiler\test\fixtures\big-struct\gen-swift\test\fixtures\basic\MyBigStruct.java,\web\tools\mootools\mootools-more-1.6.0.js,3fc897ef32d3e23482c81dffc4db8b01,0a0a8c779614304ab8a767b05dc62a3c,2519032036403385579,3952302617813931259,8,N,3900,9064,423
+TProtocolUtil.java,control_functions.php,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\web\includes\control_functions.php,ca4aaa19ebede5914601c81d8f142ced,c1201120aa45568b6a8a04c25886293a,5729127434368628951,-3494240195874867113,6,N,125,715,46

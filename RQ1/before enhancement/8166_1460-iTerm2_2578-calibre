@@ -1,0 +1,6 @@
+1460-iTerm2,2578-calibre
+ini.h,lzxc.c,\ThirdParty\inih\ini.h,\src\calibre\utils\lzx\lzxc.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510564,-8059473846773950244,2,N,57,1033,18
+ini.h,msstdint.h,\ThirdParty\inih\ini.h,\src\calibre\utils\lzx\msstdint.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510564,-2830794129776780644,8,N,57,138,16
+profile.py,kobotouch_config.py,\api\library\python\iterm2\iterm2\profile.py,\src\calibre\devices\kobo\kobotouch_config.py,19f7b09e190f664e54987409d2c3f9d4,029e39ade4833f085f00c80ece7517c6,-1309372895687627305,7914139878491921879,7,N,1173,518,33
+util.py,kobotouch_config.py,\api\library\python\iterm2\iterm2\util.py,\src\calibre\devices\kobo\kobotouch_config.py,7fe5edbf61aeadb6d6937648f0784673,029e39ade4833f085f00c80ece7517c6,-1309372895821845033,7914139878491921879,6,N,241,518,32
+BetterFontPicker-Swift.h,lzxc.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\src\calibre\utils\lzx\lzxc.c,9cdfc1f6cb7907e29a4e6b2cf0041946,5148bebfcfad4cb4119b4e362bc0686f,-8023479959251789668,-8059473846773950244,6,N,335,1033,50

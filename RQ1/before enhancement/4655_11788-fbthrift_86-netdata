@@ -1,0 +1,5 @@
+11788-fbthrift,86-netdata
+thrift_config.h,libnetdata.h,\thrift\lib\cpp\thrift_config.h,\libnetdata\libnetdata.h,27c650bbff0590e9f2fafe163b055489,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,220,248,34
+thrift_config.h,clocks.h,\thrift\lib\cpp\thrift_config.h,\libnetdata\clocks\clocks.h,27c650bbff0590e9f2fafe163b055489,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,220,66,9
+TProtocol.py,exceptions.py,\thrift\lib\py\protocol\TProtocol.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,535e11dd2c7d17509b8d6e04dcf37f02,25ddb32d1336bad7af00549477feb5f7,9217329227336156549,9217330326845687173,2,N,175,128,27
+macros.h,libnetdata.h,\thrift\lib\rb\ext\macros.h,\libnetdata\libnetdata.h,30f9d8d804dd66b382db54f2861518aa,b36073eea8dc836d3f37e426aebdabda,-8032469861362509668,-8023445049755510628,7,N,18,248,4

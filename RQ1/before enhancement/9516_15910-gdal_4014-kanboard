@@ -1,0 +1,9 @@
+15910-gdal,4014-kanboard
+swq_op_general.cpp,changes.php,\gdal\ogr\swq_op_general.cpp,\app\Template\task\changes.php,9a46e71d5126a97b05924e4d46123f6b,9d43fb3e19ac004f3873770dd9bbbfde,5729127511652612311,5729127648822069494,7,N,1338,75,19
+cpl_virtualmem.cpp,changes.php,\gdal\port\cpl_virtualmem.cpp,\app\Template\task\changes.php,c1486bac5c48334f402b7cad9321078e,9d43fb3e19ac004f3873770dd9bbbfde,5729127649091827926,5729127648822069494,6,N,1826,75,19
+pcrasterutil.cpp,changes.php,\gdal\frmts\pcraster\pcrasterutil.cpp,\app\Template\task\changes.php,e859d72f54bbc5ffafa4fb95c5478cac,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,552,75,18
+gif_err.c,changes.php,\gdal\frmts\gif\giflib\gif_err.c,\app\Template\task\changes.php,ae184d827961b2dcfd4874276b74052e,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135575,5729127648822069494,8,N,96,75,15
+tif_dir.c,JsonEncodingValidator.php,\gdal\frmts\gtiff\libtiff\tif_dir.c,\libs\jsonrpc\src\JsonRPC\Validator\JsonEncodingValidator.php,4f501baa598e4ce669a2ec5827ef519c,eed9775d43155ee449543409642197bd,5733631042560506071,6887115488296022103,8,N,1433,33,13
+ogrdxf_leader.cpp,changes.php,\gdal\ogr\ogrsf_frmts\dxf\ogrdxf_leader.cpp,\app\Template\task\changes.php,4848c0c5b772127cd6203813cdb66178,9d43fb3e19ac004f3873770dd9bbbfde,5729127442933135607,5729127648822069494,7,N,967,75,19
+geoconcept_syscoord.c,NumberComparator.php,\gdal\ogr\ogrsf_frmts\geoconcept\geoconcept_syscoord.c,\vendor\symfony\finder\Comparator\NumberComparator.php,9af5d9460fe3d4d2b5e65f025d620176,d227698b7f899a149f72d00907f80dbd,5729127442866286807,5656999445754853599,8,N,873,39,14
+metaprint.cpp,changes.php,\gdal\frmts\grib\degrib\degrib\metaprint.cpp,\app\Template\task\changes.php,5fb246f7eac8fdc34037791da451cc15,9d43fb3e19ac004f3873770dd9bbbfde,1135455822743652471,5729127648822069494,8,N,987,75,22

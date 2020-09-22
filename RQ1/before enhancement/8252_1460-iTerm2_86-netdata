@@ -1,0 +1,5 @@
+1460-iTerm2,86-netdata
+ini.h,libnetdata.h,\ThirdParty\inih\ini.h,\libnetdata\libnetdata.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,b36073eea8dc836d3f37e426aebdabda,-8023445049755510564,-8023445049755510628,1,N,57,248,17
+ini.h,clocks.h,\ThirdParty\inih\ini.h,\libnetdata\clocks\clocks.h,3cf89cb2c107d2c3cb0a3bf2fcf603a1,817f185c065ee719f0a0f5d506401b1f,-8023445049755510564,-7879330084279756644,8,N,57,66,10
+BetterFontPicker-Swift.h,libnetdata.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\libnetdata\libnetdata.h,9cdfc1f6cb7907e29a4e6b2cf0041946,b36073eea8dc836d3f37e426aebdabda,-8023479959251789668,-8023445049755510628,3,N,335,248,47
+cparse.py,exceptions.py,\tools\ply\ply-3.4\example\ansic\cparse.py,\collectors\python.d.plugin\python_modules\urllib3\exceptions.py,3156018cb43687fb173027636b1a41eb,25ddb32d1336bad7af00549477feb5f7,9217329227336156549,9217330326845687173,2,N,504,128,25

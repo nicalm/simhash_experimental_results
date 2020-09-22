@@ -1,0 +1,5 @@
+2257-core,6422-roundcubemail
+appconfig.php,rcube_tnef_decoder.php,\core\ajax\appconfig.php,\program\lib\Roundcube\rcube_tnef_decoder.php,031cdb064a8d37cd4b40af5d608c8543,8ca46cd084af91332151df25d1c4bd66,5152665582536538583,5729127442933266647,7,N,37,520,11
+appconfig.php,rcube_sieve_script.php,\core\ajax\appconfig.php,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,031cdb064a8d37cd4b40af5d608c8543,3c3c719b9a27e12464461daf90f00d1d,5152665582536538583,5153229640599894231,7,N,37,1009,12
+MDB2SchemaReader.php,rcube_tnef_decoder.php,\lib\private\DB\MDB2SchemaReader.php,\program\lib\Roundcube\rcube_tnef_decoder.php,d8397eafd4a2b3b1ab041811b2ffbaec,8ca46cd084af91332151df25d1c4bd66,5731379242747078871,5729127442933266647,4,N,238,520,71
+MDB2SchemaReader.php,rcube_sieve_script.php,\lib\private\DB\MDB2SchemaReader.php,\plugins\managesieve\lib\Roundcube\rcube_sieve_script.php,d8397eafd4a2b3b1ab041811b2ffbaec,3c3c719b9a27e12464461daf90f00d1d,5731379242747078871,5153229640599894231,8,N,238,1009,70

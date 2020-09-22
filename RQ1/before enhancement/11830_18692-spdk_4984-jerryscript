@@ -1,0 +1,11 @@
+18692-spdk,4984-jerryscript
+queue.h,config.h,\include\spdk\queue.h,\jerry-core\config.h,ec100905d717ef23a63f758030236499,1610ce5e32380b97834532a2439ffb00,-9212465172521363396,-8023445049755510628,8,N,30,338,5
+queue.h,jerryscript-compiler.h,\include\spdk\queue.h,\jerry-core\include\jerryscript-compiler.h,ec100905d717ef23a63f758030236499,6dc57bc479adf16d2b42cadd27f2edd3,-9212465172521363396,-8023445049755510628,8,N,30,73,8
+queue.h,lit-magic-strings.inc.h,\include\spdk\queue.h,\jerry-core\lit\lit-magic-strings.inc.h,ec100905d717ef23a63f758030236499,d156bf64086a4a370f1f54301148fe60,-9212465172521363396,-8023445049755510628,8,N,30,920,5
+queue.h,js-parser-limits.h,\include\spdk\queue.h,\jerry-core\parser\js\js-parser-limits.h,ec100905d717ef23a63f758030236499,656369309984980286cea2eff0cb4741,-9212465172521363396,-8023445049755510628,8,N,30,51,5
+assert.h,config.h,\include\spdk_internal\assert.h,\jerry-core\config.h,340c3c292f11b3661cb114f5fb4a2722,1610ce5e32380b97834532a2439ffb00,-7384004271941560100,-8023445049755510628,7,N,16,338,5
+assert.h,jerryscript-compiler.h,\include\spdk_internal\assert.h,\jerry-core\include\jerryscript-compiler.h,340c3c292f11b3661cb114f5fb4a2722,6dc57bc479adf16d2b42cadd27f2edd3,-7384004271941560100,-8023445049755510628,7,N,16,73,7
+assert.h,jcontext.h,\include\spdk_internal\assert.h,\jerry-core\jcontext\jcontext.h,340c3c292f11b3661cb114f5fb4a2722,4de6c82710d6de4c90b38b2414b9953a,-7384004271941560100,-9176367654679291684,8,N,16,162,5
+assert.h,lit-magic-strings.inc.h,\include\spdk_internal\assert.h,\jerry-core\lit\lit-magic-strings.inc.h,340c3c292f11b3661cb114f5fb4a2722,d156bf64086a4a370f1f54301148fe60,-7384004271941560100,-8023445049755510628,7,N,16,920,5
+assert.h,ecma-builtin-helpers-macro-defines.inc.h,\include\spdk_internal\assert.h,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,340c3c292f11b3661cb114f5fb4a2722,0dde8629af7a79ff0576269e0d239a88,-7384004271941560100,-8023445084115248996,8,N,16,32,4
+assert.h,js-parser-limits.h,\include\spdk_internal\assert.h,\jerry-core\parser\js\js-parser-limits.h,340c3c292f11b3661cb114f5fb4a2722,656369309984980286cea2eff0cb4741,-7384004271941560100,-8023445049755510628,7,N,16,51,5

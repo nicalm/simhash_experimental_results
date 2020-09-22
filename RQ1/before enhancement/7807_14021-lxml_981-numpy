@@ -1,0 +1,4 @@
+14021-lxml,981-numpy
+__init__.py,core.py,\src\lxml\html\__init__.py,\numpy\ma\core.py,27888ae994e15486fa18d6bd9277bb8b,872ed04fce6fdd8c69ca461a4441e585,8005760184416633318,7429291183895904718,8,N,1099,2782,109
+__init__.py,mrecords.py,\src\lxml\html\__init__.py,\numpy\ma\mrecords.py,27888ae994e15486fa18d6bd9277bb8b,e886c3b7dc9e3f0ff8ab4c6b962de9bb,8005760184416633318,9015692398711177646,7,N,1099,431,51
+etree_defs.h,npy_common.h,\src\lxml\includes\etree_defs.h,\numpy\core\include\numpy\npy_common.h,77e60df86f933a8497d9a006ac09a2c9,a173a9479ba36f92005f6b19e1c98ca6,-8023482433217963876,-8023445066935379812,4,N,319,951,49

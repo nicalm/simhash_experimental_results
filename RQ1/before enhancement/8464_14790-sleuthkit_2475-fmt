@@ -1,0 +1,16 @@
+14790-sleuthkit,2475-fmt
+sqlite3.c,gmock-gtest-all.cc,\tsk\auto\sqlite3.c,\test\gmock-gtest-all.cc,255edfceedcae2e4895b7dfb79028dca,176a284cd66ba91697e35520bb8dadd6,2280790905721247932,1992841858525747416,8,N,97479,6485,1350
+usnjls_lib.c,chrono_duration.cpp,\tsk\fs\usnjls_lib.c,\test\fuzzing\chrono_duration.cpp,48e95a276115acd301ddb5b9726a7100,72440fd90a0d01848031589bb2a841a9,5729127445080619223,5729127447228102871,2,N,267,129,36
+usnjls_lib.c,one_arg.cpp,\tsk\fs\usnjls_lib.c,\test\fuzzing\one_arg.cpp,48e95a276115acd301ddb5b9726a7100,883cdbba8da3fa541c4927e1ea02ff22,5729127445080619223,2270360721499404501,6,N,267,117,25
+usnjls_lib.c,sprintf.cpp,\tsk\fs\usnjls_lib.c,\test\fuzzing\sprintf.cpp,48e95a276115acd301ddb5b9726a7100,c2ddd179a4100129a6f72f09df658863,5729127445080619223,1117439216892295391,7,N,267,101,21
+usnjls_lib.c,two_args.cpp,\tsk\fs\usnjls_lib.c,\test\fuzzing\two_args.cpp,48e95a276115acd301ddb5b9726a7100,c159700c6123fdba738f71e168dab048,5729127445080619223,1117439216892295391,7,N,267,97,20
+dos.c,chrono_duration.cpp,\tsk\vs\dos.c,\test\fuzzing\chrono_duration.cpp,87019305b1f4020a75d7e674cebe6f30,72440fd90a0d01848031589bb2a841a9,5729127442933135575,5729127447228102871,1,N,850,129,39
+dos.c,one_arg.cpp,\tsk\vs\dos.c,\test\fuzzing\one_arg.cpp,87019305b1f4020a75d7e674cebe6f30,883cdbba8da3fa541c4927e1ea02ff22,5729127442933135575,2270360721499404501,5,N,850,117,28
+dos.c,sprintf.cpp,\tsk\vs\dos.c,\test\fuzzing\sprintf.cpp,87019305b1f4020a75d7e674cebe6f30,c2ddd179a4100129a6f72f09df658863,5729127442933135575,1117439216892295391,6,N,850,101,24
+dos.c,two_args.cpp,\tsk\vs\dos.c,\test\fuzzing\two_args.cpp,87019305b1f4020a75d7e674cebe6f30,c159700c6123fdba738f71e168dab048,5729127442933135575,1117439216892295391,6,N,850,97,23
+file.c,chrono_duration.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.c,\test\fuzzing\chrono_duration.cpp,f66225e727b775a3315510747e002afc,72440fd90a0d01848031589bb2a841a9,6530768314043512983,5729127447228102871,8,N,401,129,43
+file.h,gmock-gtest-all.cc,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\test\gmock-gtest-all.cc,d22799caeaddf83c099f19cf401487da,176a284cd66ba91697e35520bb8dadd6,-8023445049755510568,1992841858525747416,8,N,402,6485,56
+softmagic.c,chrono_duration.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\test\fuzzing\chrono_duration.cpp,c9a5bb85f007b34bfa13df4253839c91,72440fd90a0d01848031589bb2a841a9,5152631506249235159,5729127447228102871,5,N,1731,129,42
+exif-entry.c,chrono_duration.cpp,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,\test\fuzzing\chrono_duration.cpp,59a2ae3931934cc319eb1524994842bc,72440fd90a0d01848031589bb2a841a9,5729109833566304343,5729127447228102871,6,N,1444,129,42
+exif-loader.c,chrono_duration.cpp,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-loader.c,\test\fuzzing\chrono_duration.cpp,bfee2cd19217936892b46a65495807bf,72440fd90a0d01848031589bb2a841a9,7891928375608522965,5729127447228102871,8,N,338,129,31
+mnote-olympus-entry.c,chrono_duration.cpp,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\olympus\mnote-olympus-entry.c,\test\fuzzing\chrono_duration.cpp,15a6a322cbee74040fff0cfbe002df22,72440fd90a0d01848031589bb2a841a9,5080310029995260119,5729127447228102871,8,N,771,129,49

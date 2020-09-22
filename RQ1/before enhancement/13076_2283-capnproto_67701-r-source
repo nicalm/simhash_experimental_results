@@ -1,0 +1,16 @@
+2283-capnproto,67701-r-source
+miniposix.h,R.h,\c++\src\kj\miniposix.h,\src\include\R.h,43597d9a9103c02dbbe46d2c58ecc748,789ad228f6ea9394c2469400109ec92f,-7455991496707810916,-8599905870778414948,7,N,84,57,13
+miniposix.h,qgamma.c,\c++\src\kj\miniposix.h,\src\nmath\qgamma.c,43597d9a9103c02dbbe46d2c58ecc748,b2ee2777415d9600685667f718494a44,-7455991496707810916,37998291794057372,8,N,84,197,23
+miniposix.h,dynload.c,\c++\src\kj\miniposix.h,\src\unix\dynload.c,43597d9a9103c02dbbe46d2c58ecc748,2f342cd2198f05f85aabb5875fa3e637,-7455991496707810916,-7877157226703103844,8,N,84,134,27
+miniposix.h,dcigettext.c,\c++\src\kj\miniposix.h,\src\extra\intl\dcigettext.c,43597d9a9103c02dbbe46d2c58ecc748,d401330d6c928edc173951bf8b63a8d6,-7455991496707810916,-8023445049755445092,4,N,84,1307,29
+miniposix.h,loadmsgcat.c,\c++\src\kj\miniposix.h,\src\extra\intl\loadmsgcat.c,43597d9a9103c02dbbe46d2c58ecc748,91aab8b1e46a17d5524a35c0a5acccb7,-7455991496707810916,-7446984297452087074,6,N,84,1139,30
+miniposix.h,localename.c,\c++\src\kj\miniposix.h,\src\extra\intl\localename.c,43597d9a9103c02dbbe46d2c58ecc748,589f33fbd2b951fee502d0f9201eea0f,-7455991496707810916,-8023445049755510628,5,N,84,1229,24
+miniposix.h,trio.h,\c++\src\kj\miniposix.h,\src\extra\trio\trio.h,43597d9a9103c02dbbe46d2c58ecc748,958b94f2095fa9ed02786178156f3e09,-7455991496707810916,-8023445049755510628,5,N,84,139,13
+miniposix.h,triodef.h,\c++\src\kj\miniposix.h,\src\extra\trio\triodef.h,43597d9a9103c02dbbe46d2c58ecc748,43e7c3a4cc71cae8cdacd1c970d2ba53,-7455991496707810916,-8023445049755510628,5,N,84,227,17
+miniposix.h,trionan.c,\c++\src\kj\miniposix.h,\src\extra\trio\trionan.c,43597d9a9103c02dbbe46d2c58ecc748,08daec50ecdd4975664a287df69e5d66,-7455991496707810916,-8023445050292381540,6,N,84,831,26
+miniposix.h,trionan.h,\c++\src\kj\miniposix.h,\src\extra\trio\trionan.h,43597d9a9103c02dbbe46d2c58ecc748,e7a44aba116a6e35c3ec97fe8ebb27d3,-7455991496707810916,-8021193250075912036,8,N,84,102,14
+miniposix.h,triop.h,\c++\src\kj\miniposix.h,\src\extra\trio\triop.h,43597d9a9103c02dbbe46d2c58ecc748,c58f5e7230c4b9ffee2e1dc2c3823220,-7455991496707810916,-8023445049755510628,5,N,84,220,14
+miniposix.h,triostr.h,\c++\src\kj\miniposix.h,\src\extra\trio\triostr.h,43597d9a9103c02dbbe46d2c58ecc748,4beb2b3b1e23be849ba1895e0e65740b,-7455991496707810916,-8023445049755510628,5,N,84,519,14
+miniposix.h,types.h,\c++\src\kj\miniposix.h,\src\extra\xdr\rpc\types.h,43597d9a9103c02dbbe46d2c58ecc748,81168f2ae1a9c30bdb1ee3917cde3a0b,-7455991496707810916,-7879329861679658852,7,N,84,48,14
+miniposix.h,config.h,\c++\src\kj\miniposix.h,\src\gnuwin32\fixed\h\config.h,43597d9a9103c02dbbe46d2c58ecc748,edcfc4cd0e6eab7039ab1c52952ce1d0,-7455991496707810916,-8023488480465266536,8,N,84,267,15
+miniposix.h,signals.c,\c++\src\kj\miniposix.h,\src\library\tools\src\signals.c,43597d9a9103c02dbbe46d2c58ecc748,60550e4751c11d4a808f45d5164f274d,-7455991496707810916,5811612969019496604,8,N,84,157,24

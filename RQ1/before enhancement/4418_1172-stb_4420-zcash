@@ -1,0 +1,10 @@
+1172-stb,4420-zcash
+stb_voxel_render.h,endian.h,\stb_voxel_render.h,\src\compat\endian.h,e185ad843cb8b3f858b2f0f59163bf0c,b0a1e77bc71959182a3b0854e64e46ad,-8168131434121996068,-8023445049755510628,8,N,2286,160,78
+stb_voxel_render.h,thread_annotations.h,\stb_voxel_render.h,\src\leveldb\port\thread_annotations.h,e185ad843cb8b3f858b2f0f59163bf0c,af9eee1ca47192126580ea56af3a4865,-8168131434121996068,-8023445049755510628,8,N,2286,39,13
+stb_voxel_render.h,util.h,\stb_voxel_render.h,\src\secp256k1\src\util.h,e185ad843cb8b3f858b2f0f59163bf0c,57cef0aa6966b7b99af34e23c90b9985,-8168131434121996068,-8744029236539106792,7,N,2286,92,26
+glext.h,compat.h,\tests\caveview\glext.h,\src\compat.h,0aa24209e6e9c1ceb2e18188dfcd425b,edca1c84c422d3accf71cf028f56730c,-8023445049755510628,-8023445189341947748,2,N,10581,86,22
+glext.h,byteswap.h,\tests\caveview\glext.h,\src\compat\byteswap.h,0aa24209e6e9c1ceb2e18188dfcd425b,c8049a65823175e0cb720f771bece0d5,-8023445049755510628,-8032452249010186084,2,N,10581,36,8
+glext.h,endian.h,\tests\caveview\glext.h,\src\compat\endian.h,0aa24209e6e9c1ceb2e18188dfcd425b,b0a1e77bc71959182a3b0854e64e46ad,-8023445049755510628,-8023445049755510628,0,N,10581,160,31
+glext.h,zcashconsensus.h,\tests\caveview\glext.h,\src\script\zcashconsensus.h,0aa24209e6e9c1ceb2e18188dfcd425b,9ba7ca783c191e34d1020f0ee0c759f5,-8023445049755510628,-9171898141824989028,7,N,10581,48,14
+glext.h,port_posix.h,\tests\caveview\glext.h,\src\leveldb\port\port_posix.h,0aa24209e6e9c1ceb2e18188dfcd425b,d5a83a65b2dd5184b4c812843c400a16,-8023445049755510628,-8032804092731401572,6,N,10581,121,18
+glext.h,thread_annotations.h,\tests\caveview\glext.h,\src\leveldb\port\thread_annotations.h,0aa24209e6e9c1ceb2e18188dfcd425b,af9eee1ca47192126580ea56af3a4865,-8023445049755510628,-8023445049755510628,0,N,10581,39,13

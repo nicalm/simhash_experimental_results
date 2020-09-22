@@ -1,0 +1,10 @@
+10249-pycrypto,12310-weechat
+winrand.c,wee-url.c,\src\winrand.c,\src\core\wee-url.c,3a3497b5838dcab36e2527d2673e0de6,2182536a79bada4949d9bc0483b5da6d,-3429825656639923748,-8023445049755510628,8,N,292,1111,62
+tomcrypt_cfg.h,wee-url.c,\src\libtom\tomcrypt_cfg.h,\src\core\wee-url.c,5d86f6872e15c2873979e3c177860d1d,2182536a79bada4949d9bc0483b5da6d,-8023445049755510052,-8023445049755510628,2,N,79,1111,18
+tomcrypt_cfg.h,gui-curses-term.c,\src\libtom\tomcrypt_cfg.h,\src\gui\curses\gui-curses-term.c,5d86f6872e15c2873979e3c177860d1d,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510052,-7447028277908808228,7,N,79,23,7
+tomcrypt_cipher.h,wee-url.c,\src\libtom\tomcrypt_cipher.h,\src\core\wee-url.c,e7e3cfbb6946c3245a4035941fbfd0d9,2182536a79bada4949d9bc0483b5da6d,-8023445049755512676,-8023445049755510628,1,N,592,1111,90
+tomcrypt_cipher.h,gui-curses-term.c,\src\libtom\tomcrypt_cipher.h,\src\gui\curses\gui-curses-term.c,e7e3cfbb6946c3245a4035941fbfd0d9,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755512676,-7447028277908808228,8,N,592,23,6
+tomcrypt_custom.h,wee-url.c,\src\libtom\tomcrypt_custom.h,\src\core\wee-url.c,9ae4ff77d7091871a62aaa3fd1f90225,2182536a79bada4949d9bc0483b5da6d,-8023445049755510628,-8023445049755510628,0,N,245,1111,47
+tomcrypt_custom.h,gui-curses-term.c,\src\libtom\tomcrypt_custom.h,\src\gui\curses\gui-curses-term.c,9ae4ff77d7091871a62aaa3fd1f90225,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023445049755510628,-7447028277908808228,7,N,245,23,7
+tomcrypt_hash.h,wee-url.c,\src\libtom\tomcrypt_hash.h,\src\core\wee-url.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,2182536a79bada4949d9bc0483b5da6d,-8023480251307468644,-8023445049755510628,2,N,310,1111,57
+tomcrypt_hash.h,gui-curses-term.c,\src\libtom\tomcrypt_hash.h,\src\gui\curses\gui-curses-term.c,4d32ee3783f23c9c88b2c0bf0a2bdd10,12c6b2e5780349c1e6b15f2a0f08c5ca,-8023480251307468644,-7447028277908808228,7,N,310,23,6

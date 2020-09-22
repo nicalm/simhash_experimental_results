@@ -1,0 +1,9 @@
+15439-ettercap,86-netdata
+ec.h,libnetdata.h,\include\ec.h,\libnetdata\libnetdata.h,dae7f0b56b398c721ccdc8ddfd52a66f,b36073eea8dc836d3f37e426aebdabda,-9176375350522685416,-8023445049755510628,7,N,132,248,33
+ec_os_mingw.h,libnetdata.h,\include\ec_os_mingw.h,\libnetdata\libnetdata.h,a35507e5684e934f2f3961ea9d733813,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,184,248,29
+ec_os_mingw.h,clocks.h,\include\ec_os_mingw.h,\libnetdata\clocks\clocks.h,a35507e5684e934f2f3961ea9d733813,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,184,66,11
+ec_stdint.h,libnetdata.h,\include\ec_stdint.h,\libnetdata\libnetdata.h,6aec3e3181000888a59234edbdd91364,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,70,248,24
+ec_stdint.h,clocks.h,\include\ec_stdint.h,\libnetdata\clocks\clocks.h,6aec3e3181000888a59234edbdd91364,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,70,66,11
+ec_strings.h,libnetdata.h,\include\ec_strings.h,\libnetdata\libnetdata.h,de354113240928e149f745107db6f7bb,b36073eea8dc836d3f37e426aebdabda,-7879329861738243684,-8023445049755510628,5,N,54,248,18
+ec_strings.h,clocks.h,\include\ec_strings.h,\libnetdata\clocks\clocks.h,de354113240928e149f745107db6f7bb,817f185c065ee719f0a0f5d506401b1f,-7879329861738243684,-7879330084279756644,8,N,54,66,11
+ec_signals.c,libnetdata.h,\src\ec_signals.c,\libnetdata\libnetdata.h,0eaf3035a675ff4e3e837f495b81415f,b36073eea8dc836d3f37e426aebdabda,1776388288554523804,-8023445049755510628,6,N,166,248,30

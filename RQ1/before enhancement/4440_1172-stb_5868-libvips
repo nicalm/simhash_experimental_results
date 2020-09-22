@@ -1,0 +1,4 @@
+1172-stb,5868-libvips
+glext.h,buffer.c,\tests\caveview\glext.h,\libvips\iofuncs\buffer.c,0aa24209e6e9c1ceb2e18188dfcd425b,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,10581,447,23
+glext.h,init.c,\tests\caveview\glext.h,\libvips\iofuncs\init.c,0aa24209e6e9c1ceb2e18188dfcd425b,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,10581,636,35
+glext.h,vector.c,\tests\caveview\glext.h,\libvips\iofuncs\vector.c,0aa24209e6e9c1ceb2e18188dfcd425b,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,10581,400,41

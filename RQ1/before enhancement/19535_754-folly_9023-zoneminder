@@ -1,0 +1,9 @@
+754-folly,9023-zoneminder
+CPortability.h,zm_ffmpeg.h,\folly\CPortability.h,\src\zm_ffmpeg.h,2071cc58e111b1fb40fa47a9161f5356,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445049756493156,-8023445049755510628,3,N,137,281,42
+Portability.h,zm_ffmpeg.h,\folly\Portability.h,\src\zm_ffmpeg.h,4a7decd5a24ba7fccd761801e3ef4412,7e2fcd3ba00999285d6aaf2ef78cc14d,-7447019619264177960,-8023445049755510628,6,N,392,281,52
+Config.h,zm_ffmpeg.h,\folly\portability\Config.h,\src\zm_ffmpeg.h,a5be13d038f6f1ed74f7f738d2c00e52,7e2fcd3ba00999285d6aaf2ef78cc14d,-9171865188386433004,-8023445049755510628,8,N,16,281,5
+Stdlib.h,zm_ffmpeg.h,\folly\portability\Stdlib.h,\src\zm_ffmpeg.h,9adbc370aa00b92c0cbb5c0cf514b964,7e2fcd3ba00999285d6aaf2ef78cc14d,-8028512836321486692,-8023445049755510628,7,N,31,281,8
+SysUio.h,zm_ffmpeg.h,\folly\portability\SysUio.h,\src\zm_ffmpeg.h,fd0233f243af7c24827c966c225b6eda,7e2fcd3ba00999285d6aaf2ef78cc14d,-7744256783963336548,-8023445049755510628,8,N,21,281,6
+Windows.h,zm_ffmpeg.h,\folly\portability\Windows.h,\src\zm_ffmpeg.h,8d255d6eb746df0dd20db480cd3643e5,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023516518011316068,-8023445049755510628,2,N,48,281,13
+Windows.h,ow-crypt.h,\folly\portability\Windows.h,\src\libbcrypt\include\bcrypt\ow-crypt.h,8d255d6eb746df0dd20db480cd3643e5,0cee51bfed48b1ba46a8ed164a5e5017,-8023516518011316068,-5429384857455895396,8,N,48,23,4
+EventFDWrapper.h,zm_ffmpeg.h,\folly\io\async\EventFDWrapper.h,\src\zm_ffmpeg.h,442338be25f54c06750d74e9063379f7,7e2fcd3ba00999285d6aaf2ef78cc14d,-8455834319570281315,-8023445049755510628,8,N,32,281,7

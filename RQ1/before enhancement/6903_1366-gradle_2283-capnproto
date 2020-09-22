@@ -1,0 +1,3 @@
+1366-gradle,2283-capnproto
+gtest-port.h,miniposix.h,\subprojects\docs\src\snippets\native-binaries\google-test\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\c++\src\kj\miniposix.h,23446e26c2aacb9eb58191ae642bfa7a,43597d9a9103c02dbbe46d2c58ecc748,-7879329861679654756,-7455991496707810916,6,N,906,84,30
+gtest-port.h,miniposix.h,\subprojects\performance\src\templates\native-dependents-resources\googleTest\libs\googleTest\1.7.0\include\gtest\internal\gtest-port.h,\c++\src\kj\miniposix.h,23446e26c2aacb9eb58191ae642bfa7a,43597d9a9103c02dbbe46d2c58ecc748,-7879329861679654756,-7455991496707810916,6,N,906,84,30

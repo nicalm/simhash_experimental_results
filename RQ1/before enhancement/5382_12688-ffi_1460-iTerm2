@@ -1,0 +1,8 @@
+12688-ffi,1460-iTerm2
+Call.h,ini.h,\ext\ffi_c\Call.h,\ThirdParty\inih\ini.h,a579f19846bd6edf1b8b9d5cb0fdceb4,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-9104317757088507428,-8023445049755510564,8,N,59,57,11
+compat.h,ini.h,\ext\ffi_c\compat.h,\ThirdParty\inih\ini.h,89860486007fe9b6739772aa0b042837,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023447251463120740,-8023445049755510564,4,N,38,57,12
+compat.h,BetterFontPicker-Swift.h,\ext\ffi_c\compat.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,89860486007fe9b6739772aa0b042837,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023447251463120740,-8023479959251789668,6,N,38,335,12
+DynamicLibrary.h,ini.h,\ext\ffi_c\DynamicLibrary.h,\ThirdParty\inih\ini.h,85bcc5d631466c02273f9899152b054b,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-5753630837560780644,-8023445049755510564,3,N,49,57,19
+DynamicLibrary.h,BetterFontPicker-Swift.h,\ext\ffi_c\DynamicLibrary.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,85bcc5d631466c02273f9899152b054b,9cdfc1f6cb7907e29a4e6b2cf0041946,-5753630837560780644,-8023479959251789668,5,N,49,335,15
+rbffi_endian.h,ini.h,\ext\ffi_c\rbffi_endian.h,\ThirdParty\inih\ini.h,f869d8d0ddc657c2a3138058f91acb6c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049822619428,-8023445049755510564,1,N,50,57,13
+rbffi_endian.h,BetterFontPicker-Swift.h,\ext\ffi_c\rbffi_endian.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,f869d8d0ddc657c2a3138058f91acb6c,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049822619428,-8023479959251789668,5,N,50,335,14

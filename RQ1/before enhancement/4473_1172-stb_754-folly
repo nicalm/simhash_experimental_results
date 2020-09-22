@@ -1,0 +1,9 @@
+1172-stb,754-folly
+stb_voxel_render.h,EventFDWrapper.h,\stb_voxel_render.h,\folly\io\async\EventFDWrapper.h,e185ad843cb8b3f858b2f0f59163bf0c,442338be25f54c06750d74e9063379f7,-8168131434121996068,-8455834319570281315,8,N,2286,32,8
+glext.h,CPortability.h,\tests\caveview\glext.h,\folly\CPortability.h,0aa24209e6e9c1ceb2e18188dfcd425b,2071cc58e111b1fb40fa47a9161f5356,-8023445049755510628,-8023445049756493156,3,N,10581,137,33
+glext.h,Portability.h,\tests\caveview\glext.h,\folly\Portability.h,0aa24209e6e9c1ceb2e18188dfcd425b,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755510628,-7447019619264177960,6,N,10581,392,70
+glext.h,Config.h,\tests\caveview\glext.h,\folly\portability\Config.h,0aa24209e6e9c1ceb2e18188dfcd425b,a5be13d038f6f1ed74f7f738d2c00e52,-8023445049755510628,-9171865188386433004,8,N,10581,16,6
+glext.h,Stdlib.h,\tests\caveview\glext.h,\folly\portability\Stdlib.h,0aa24209e6e9c1ceb2e18188dfcd425b,9adbc370aa00b92c0cbb5c0cf514b964,-8023445049755510628,-8028512836321486692,7,N,10581,31,8
+glext.h,SysUio.h,\tests\caveview\glext.h,\folly\portability\SysUio.h,0aa24209e6e9c1ceb2e18188dfcd425b,fd0233f243af7c24827c966c225b6eda,-8023445049755510628,-7744256783963336548,8,N,10581,21,6
+glext.h,Windows.h,\tests\caveview\glext.h,\folly\portability\Windows.h,0aa24209e6e9c1ceb2e18188dfcd425b,8d255d6eb746df0dd20db480cd3643e5,-8023445049755510628,-8023516518011316068,2,N,10581,48,13
+glext.h,EventFDWrapper.h,\tests\caveview\glext.h,\folly\io\async\EventFDWrapper.h,0aa24209e6e9c1ceb2e18188dfcd425b,442338be25f54c06750d74e9063379f7,-8023445049755510628,-8455834319570281315,8,N,10581,32,7

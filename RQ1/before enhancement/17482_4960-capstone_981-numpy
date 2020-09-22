@@ -1,0 +1,7 @@
+4960-capstone,981-numpy
+cs.c,npy_common.h,\cs.c,\numpy\core\include\numpy\npy_common.h,28b740cedafbc72ff6d105bcf67b66ec,a173a9479ba36f92005f6b19e1c98ca6,-8024007991656916772,-8023445066935379812,6,N,1274,951,105
+test_basic.c,npy_common.h,\tests\test_basic.c,\numpy\core\include\numpy\npy_common.h,a31ca8d3bb8a75874920d317a6ad1579,a173a9479ba36f92005f6b19e1c98ca6,-8018942549639704420,-8023445066935379812,5,N,357,951,27
+test_detail.c,npy_common.h,\tests\test_detail.c,\numpy\core\include\numpy\npy_common.h,3d78601cdc003b4b4483b95018434b0a,a173a9479ba36f92005f6b19e1c98ca6,-7442486195382783844,-8023445066935379812,8,N,333,951,23
+test_iter.c,npy_common.h,\tests\test_iter.c,\numpy\core\include\numpy\npy_common.h,25690cf4ebb5bd2f561bd05964d131ee,a173a9479ba36f92005f6b19e1c98ca6,-8023446149267066732,-8023445066935379812,6,N,274,951,21
+MipsInstPrinter.c,methods.c,\arch\Mips\MipsInstPrinter.c,\numpy\core\src\multiarray\methods.c,41e37727d8504a62ac50f9fc05190116,6f66d59d755cea7cd1422406f6482716,-4294311167218116882,-4294591263518696722,8,N,332,2450,68
+platform.h,npy_common.h,\include\capstone\platform.h,\numpy\core\include\numpy\npy_common.h,87c94f9792ec4d53e7f2f9ad601a5e7b,a173a9479ba36f92005f6b19e1c98ca6,-5717320686361065444,-8023445066935379812,7,N,88,951,16

@@ -1,0 +1,9 @@
+10549-luci,15760-bfgminer
+axhttp.h,signal.in.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\lib\signal.in.h,15eb217d5f5922cce10b8494e4915b7f,ab5029c765029582a72eaf9ee25fe736,-7491774003658044260,-8023445049755510628,8,N,101,258,17
+axhttp.h,stddef.in.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\lib\stddef.in.h,15eb217d5f5922cce10b8494e4915b7f,51fb0aab8a1f88b1353623a5d3ebf080,-7491774003658044260,-7446702960451199844,5,N,101,37,10
+axhttp.h,string.in.h,\libs\luci-lib-nixio\axTLS\httpd\axhttp.h,\lib\string.in.h,15eb217d5f5922cce10b8494e4915b7f,79edfbf7ab10d649596b9a9e586671ee,-7491774003658044260,-8023445049755510628,8,N,101,697,10
+axssl.c,cl_platform.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\CL\cl_platform.h,f2b0cb059db544f4352723a1918a2843,fc86a2210e718fbcf95aabcf0efa129a,-8030199623489105704,-8023445049755510564,7,N,686,935,70
+axssl.c,signal.in.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\lib\signal.in.h,f2b0cb059db544f4352723a1918a2843,ab5029c765029582a72eaf9ee25fe736,-8030199623489105704,-8023445049755510628,8,N,686,258,35
+axssl.c,string.in.h,\libs\luci-lib-nixio\axTLS\samples\c\axssl.c,\lib\string.in.h,f2b0cb059db544f4352723a1918a2843,79edfbf7ab10d649596b9a9e586671ee,-8030199623489105704,-8023445049755510628,8,N,686,697,29
+dialog.h,signal.in.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\lib\signal.in.h,65291cd84768397473c02d7325db3d87,ab5029c765029582a72eaf9ee25fe736,-7933373057317024612,-8023445049755510628,8,N,128,258,18
+dialog.h,string.in.h,\libs\luci-lib-nixio\axTLS\config\scripts\config\lxdialog\dialog.h,\lib\string.in.h,65291cd84768397473c02d7325db3d87,79edfbf7ab10d649596b9a9e586671ee,-7933373057317024612,-8023445049755510628,8,N,128,697,17

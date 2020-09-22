@@ -1,0 +1,10 @@
+12688-ffi,754-folly
+compat.h,CPortability.h,\ext\ffi_c\compat.h,\folly\CPortability.h,89860486007fe9b6739772aa0b042837,2071cc58e111b1fb40fa47a9161f5356,-8023447251463120740,-8023445049756493156,6,N,38,137,12
+compat.h,SysUio.h,\ext\ffi_c\compat.h,\folly\portability\SysUio.h,89860486007fe9b6739772aa0b042837,fd0233f243af7c24827c966c225b6eda,-8023447251463120740,-7744256783963336548,7,N,38,21,5
+compat.h,Windows.h,\ext\ffi_c\compat.h,\folly\portability\Windows.h,89860486007fe9b6739772aa0b042837,8d255d6eb746df0dd20db480cd3643e5,-8023447251463120740,-8023516518011316068,5,N,38,48,12
+DynamicLibrary.h,CPortability.h,\ext\ffi_c\DynamicLibrary.h,\folly\CPortability.h,85bcc5d631466c02273f9899152b054b,2071cc58e111b1fb40fa47a9161f5356,-5753630837560780644,-8023445049756493156,5,N,49,137,15
+DynamicLibrary.h,Portability.h,\ext\ffi_c\DynamicLibrary.h,\folly\Portability.h,85bcc5d631466c02273f9899152b054b,4a7decd5a24ba7fccd761801e3ef4412,-5753630837560780644,-7447019619264177960,8,N,49,392,16
+DynamicLibrary.h,Windows.h,\ext\ffi_c\DynamicLibrary.h,\folly\portability\Windows.h,85bcc5d631466c02273f9899152b054b,8d255d6eb746df0dd20db480cd3643e5,-5753630837560780644,-8023516518011316068,4,N,49,48,12
+rbffi_endian.h,CPortability.h,\ext\ffi_c\rbffi_endian.h,\folly\CPortability.h,f869d8d0ddc657c2a3138058f91acb6c,2071cc58e111b1fb40fa47a9161f5356,-8023445049822619428,-8023445049756493156,5,N,50,137,14
+rbffi_endian.h,Portability.h,\ext\ffi_c\rbffi_endian.h,\folly\Portability.h,f869d8d0ddc657c2a3138058f91acb6c,4a7decd5a24ba7fccd761801e3ef4412,-8023445049822619428,-7447019619264177960,6,N,50,392,15
+rbffi_endian.h,Windows.h,\ext\ffi_c\rbffi_endian.h,\folly\portability\Windows.h,f869d8d0ddc657c2a3138058f91acb6c,8d255d6eb746df0dd20db480cd3643e5,-8023445049822619428,-8023516518011316068,4,N,50,48,13

@@ -1,0 +1,7 @@
+18309-tor,2283-capnproto
+compat_compiler.h,miniposix.h,\src\lib\cc\compat_compiler.h,\c++\src\kj\miniposix.h,4fda4875c0f6db2fda2057a47aa6fc8f,43597d9a9103c02dbbe46d2c58ecc748,-8023445050293299044,-7455991496707810916,6,N,128,84,16
+torint.h,miniposix.h,\src\lib\cc\torint.h,\c++\src\kj\miniposix.h,f9bd1774a6cabce5324bfd6779020def,43597d9a9103c02dbbe46d2c58ecc748,-8023198759150888804,-7455991496707810916,7,N,101,84,18
+crypto_openssl_mgt.c,miniposix.h,\src\lib\crypt_ops\crypto_openssl_mgt.c,\c++\src\kj\miniposix.h,f827b011d6df17a31ddeca166b495423,43597d9a9103c02dbbe46d2c58ecc748,-7456089353779556196,-7455991496707810916,7,N,335,84,25
+inaddr_st.h,miniposix.h,\src\lib\net\inaddr_st.h,\c++\src\kj\miniposix.h,62efbf41d2e5c9c5c910850b9ac27f2c,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755509604,-7455991496707810916,6,N,69,84,14
+ed25519-donna-portable-identify.h,miniposix.h,\src\ext\ed25519\donna\ed25519-donna-portable-identify.h,\c++\src\kj\miniposix.h,36a4efc8ce95d16532d64be30ece0f36,43597d9a9103c02dbbe46d2c58ecc748,-8023445066935379812,-7455991496707810916,6,N,87,84,16
+ed25519-donna.h,miniposix.h,\src\ext\ed25519\donna\ed25519-donna.h,\c++\src\kj\miniposix.h,2aae98d5c016419bee5a3b1b0fb3adb9,43597d9a9103c02dbbe46d2c58ecc748,-7447028278034638372,-7455991496707810916,8,N,84,84,17

@@ -1,0 +1,5 @@
+12873-mediawiki,1460-iTerm2
+LogFormatter.php,iTermMetalGlyphKey.h,\includes\logging\LogFormatter.php,\sources\iTermMetalGlyphKey.h,1a5b87b8ddd192cf448a8d7e785d9d75,ec93bd52c1bfb24f6f1a8d5c07191b02,5729127442933127383,5729057074222575775,7,N,551,92,19
+FormatMetadata.php,iTermMetalGlyphKey.h,\includes\media\FormatMetadata.php,\sources\iTermMetalGlyphKey.h,d4c424b998a37738addfaa8660b2d286,ec93bd52c1bfb24f6f1a8d5c07191b02,5729109850747091159,5729057074222575775,7,N,1326,92,19
+IPTC.php,iTermMetalGlyphKey.h,\includes\media\IPTC.php,\sources\iTermMetalGlyphKey.h,5acd3160fef09ca8547c657db582b971,ec93bd52c1bfb24f6f1a8d5c07191b02,5729127442933135575,5729057074222575775,6,N,377,92,19
+bench_if_switch.php,iTermMetalGlyphKey.h,\maintenance\benchmarks\bench_if_switch.php,\sources\iTermMetalGlyphKey.h,ebc9d6c5664eaffdc591b48a194dced3,ec93bd52c1bfb24f6f1a8d5c07191b02,5729127442933135575,5729057074222575775,6,N,73,92,16

@@ -1,0 +1,14 @@
+6714-cryptography,9197-domoticz
+osrandom_engine.h,config.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\json\config.h,5faed825e57102494d64f41f67417150,075285dc69dae7ba0bc6827fafa07c57,-9176392388590904164,-8023453845848532836,6,N,80,123,13
+osrandom_engine.h,gzguts.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\zlib\gzguts.h,5faed825e57102494d64f41f67417150,481fcd67c1a74813d1e18ea86b0fb735,-9176392388590904164,-8023445049755510628,7,N,80,151,15
+osrandom_engine.h,zconf.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\zlib\zconf.h,5faed825e57102494d64f41f67417150,c89ff94ee23d020c7c9976f48a098fa0,-9176392388590904164,-8023445049755510628,7,N,80,403,15
+osrandom_engine.h,zutil.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\zlib\zutil.c,5faed825e57102494d64f41f67417150,d62c1317e7969756f542daacf0d4ba54,-9176392388590904164,-8023445084115248996,8,N,80,245,13
+osrandom_engine.h,zutil.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\zlib\zutil.h,5faed825e57102494d64f41f67417150,278c42fe50334e51a072b9e9539f1a94,-9176392388590904164,-8023445049755510628,7,N,80,183,13
+osrandom_engine.h,llimits.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lua\src\llimits.h,5faed825e57102494d64f41f67417150,e5fe1765ac62e1e955d58f6107009af0,-9176392388590904164,-8023480234127599460,8,N,80,155,13
+osrandom_engine.h,luaconf.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lua\src\luaconf.h,5faed825e57102494d64f41f67417150,92ef5cd3a8682bf69d3cf1e24be2a298,-9176392388590904164,-8059473846774473572,7,N,80,184,14
+osrandom_engine.h,rapidjson.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\cereal\external\rapidjson\rapidjson.h,5faed825e57102494d64f41f67417150,641f155e35f278ea3a102f8abf16f5c5,-9176392388590904164,-8023445049755510628,7,N,80,269,14
+osrandom_engine.h,aestab.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\hardware\openzwave\aes\aestab.h,5faed825e57102494d64f41f67417150,06251a728bd00715365913723c75db2b,-9176392388590904164,-8023445187194464100,8,N,80,95,13
+osrandom_engine.h,osdefs.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\hardware\plugins\Include\osdefs.h,5faed825e57102494d64f41f67417150,aef8380fd81ad08543e976e5395167f0,-9176392388590904164,-9176366554362357604,6,N,80,35,12
+osrandom_engine.h,pyconfig.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\hardware\plugins\Include\pyconfig.h,5faed825e57102494d64f41f67417150,61232df609463cdfcb351aa51a4fc7eb,-9176392388590904164,-8023445049755510628,7,N,80,320,13
+osrandom_engine.h,pymath.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\hardware\plugins\Include\pymath.h,5faed825e57102494d64f41f67417150,f7e440cd693e18348d74fc4d910105a1,-9176392388590904164,-8023445187194464100,8,N,80,109,13
+osrandom_engine.h,pyport.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\hardware\plugins\Include\pyport.h,5faed825e57102494d64f41f67417150,183c7850ece22331a518f35326ef0a12,-9176392388590904164,-8023445049755510628,7,N,80,468,13

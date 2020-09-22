@@ -1,0 +1,14 @@
+1615-rufus,2578-calibre
+platform.h,lzxc.c,\src\bled\platform.h,\src\calibre\utils\lzx\lzxc.c,4803e652bfbf4addc3c84e9e9999b1da,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,498,1033,59
+platform.h,msstdint.h,\src\bled\platform.h,\src\calibre\utils\lzx\msstdint.h,4803e652bfbf4addc3c84e9e9999b1da,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,498,138,22
+xz_config.h,lzxc.c,\src\bled\xz_config.h,\src\calibre\utils\lzx\lzxc.c,921cb7a03ced44fcd791cbdd6f4ead41,5148bebfcfad4cb4119b4e362bc0686f,-7446983747698374499,-8059473846773950244,8,N,72,1033,22
+xz_config.h,msstdint.h,\src\bled\xz_config.h,\src\calibre\utils\lzx\msstdint.h,921cb7a03ced44fcd791cbdd6f4ead41,2dacb8ee9f393a22b1266f714d3efcd6,-7446983747698374499,-2830794129776780644,8,N,72,138,13
+xz_private.h,lzxc.c,\src\bled\xz_private.h,\src\calibre\utils\lzx\lzxc.c,db6ba9d9b9fa82c4cf6044eeacf20401,5148bebfcfad4cb4119b4e362bc0686f,-8023515418482911076,-8059473846773950244,5,N,89,1033,23
+config.h,headless_integration.cpp,\src\ext2fs\config.h,\src\calibre\headless\headless_integration.cpp,42683af2e017d34f9edeb79a908d7557,4b97605cf83182abf6be75bb9ec6aa98,-7158862792413030184,-7735331104396813608,8,N,182,115,18
+ext2_types.h,lzxc.c,\src\ext2fs\ext2_types.h,\src\calibre\utils\lzx\lzxc.c,aa5bcf70705ef8ee9519acce6afc4f5c,5148bebfcfad4cb4119b4e362bc0686f,-8023462641941489508,-8059473846773950244,5,N,67,1033,15
+types.h,lzxc.c,\src\libcdio\cdio\types.h,\src\calibre\utils\lzx\lzxc.c,9508159954df1b5e8d02f4c304e1ed75,5148bebfcfad4cb4119b4e362bc0686f,-9176366004598155112,-8059473846773950244,7,N,181,1033,36
+filemode.h,lzxc.c,\src\libcdio\driver\filemode.h,\src\calibre\utils\lzx\lzxc.c,06b5d0649b21446c0f1f114dfa58b605,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,105,1033,35
+filemode.h,msstdint.h,\src\libcdio\driver\filemode.h,\src\calibre\utils\lzx\msstdint.h,06b5d0649b21446c0f1f114dfa58b605,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,105,138,19
+portable.h,lzxc.c,\src\libcdio\driver\portable.h,\src\calibre\utils\lzx\lzxc.c,709f07965666c155709172c5f0830375,5148bebfcfad4cb4119b4e362bc0686f,-8023449447802021732,-8059473846773950244,4,N,26,1033,9
+portable.h,msstdint.h,\src\libcdio\driver\portable.h,\src\calibre\utils\lzx\msstdint.h,709f07965666c155709172c5f0830375,2dacb8ee9f393a22b1266f714d3efcd6,-8023449447802021732,-2830794129776780644,8,N,26,138,9
+filemode.c,lzxc.c,\src\libcdio\udf\filemode.c,\src\calibre\utils\lzx\lzxc.c,34657a272258e6707271728553672ac9,5148bebfcfad4cb4119b4e362bc0686f,1199874219131066524,-8059473846773950244,7,N,108,1033,31

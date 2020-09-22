@@ -1,0 +1,6 @@
+1916-robomongo,63225-sedutil
+BsonUtils.cpp,sedutil.cpp,\src\robomongo\core\utils\BsonUtils.cpp,\Common\sedutil.cpp,debf75f981000bc99bd9efe7cb6eb327,d52e516d82c7919c579e6283c901df60,5091868095651821783,5693098645914171606,7,N,682,243,57
+LexKVIrc.cpp,sedutil.cpp,\src\third-party\qscintilla\sources\lexers\LexKVIrc.cpp,\Common\sedutil.cpp,6343dba2bf0e94906c7e4f0cda130ffe,d52e516d82c7919c579e6283c901df60,5729131843127130311,5693098645914171606,5,N,248,243,47
+LexPB.cpp,sedutil.cpp,\src\third-party\qscintilla\sources\lexers\LexPB.cpp,\Common\sedutil.cpp,efda66a3866f1596c6af9ad95b6dd757,d52e516d82c7919c579e6283c901df60,5693111841932753367,5693098645914171606,6,N,303,243,38
+ScintillaQt.cpp,sedutil.cpp,\src\third-party\qscintilla\sources\Qt4Qt5\ScintillaQt.cpp,\Common\sedutil.cpp,3923e72d8e490bfa249b1c3facf7b01e,d52e516d82c7919c579e6283c901df60,5152596321881340367,5693098645914171606,8,N,405,243,46
+ScintillaBase.cpp,sedutil.cpp,\src\third-party\qscintilla\sources\src\ScintillaBase.cpp,\Common\sedutil.cpp,8670cdbb881ae80d3cbf590a8cd308a9,d52e516d82c7919c579e6283c901df60,2270362928835770623,5693098645914171606,8,N,842,243,51

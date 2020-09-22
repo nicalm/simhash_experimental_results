@@ -1,0 +1,6 @@
+2475-fmt,6444-yara
+chrono_duration.cpp,grammar.c,\test\fuzzing\chrono_duration.cpp,\libyara\grammar.c,72440fd90a0d01848031589bb2a841a9,306ae4ed5d0a265782bc5a130c6f342f,5729127447228102871,5730252312047818967,5,N,129,3301,50
+chrono_duration.cpp,pe_utils.c,\test\fuzzing\chrono_duration.cpp,\libyara\modules\pe\pe_utils.c,72440fd90a0d01848031589bb2a841a9,85b3b0e9639ebe8f194fd360aa44aa10,5729127447228102871,5729127442933135575,1,N,129,1795,64
+one_arg.cpp,pe_utils.c,\test\fuzzing\one_arg.cpp,\libyara\modules\pe\pe_utils.c,883cdbba8da3fa541c4927e1ea02ff22,85b3b0e9639ebe8f194fd360aa44aa10,2270360721499404501,5729127442933135575,5,N,117,1795,43
+sprintf.cpp,pe_utils.c,\test\fuzzing\sprintf.cpp,\libyara\modules\pe\pe_utils.c,c2ddd179a4100129a6f72f09df658863,85b3b0e9639ebe8f194fd360aa44aa10,1117439216892295391,5729127442933135575,6,N,101,1795,36
+two_args.cpp,pe_utils.c,\test\fuzzing\two_args.cpp,\libyara\modules\pe\pe_utils.c,c159700c6123fdba738f71e168dab048,85b3b0e9639ebe8f194fd360aa44aa10,1117439216892295391,5729127442933135575,6,N,97,1795,34

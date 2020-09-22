@@ -1,0 +1,10 @@
+14790-sleuthkit,5991-cJSON
+sqlite3.c,unity_internals.h,\tsk\auto\sqlite3.c,\tests\unity\src\unity_internals.h,255edfceedcae2e4895b7dfb79028dca,c48f2ef9d57759a1fe49b445259832f1,2280790905721247932,-8023445049755510628,8,N,97479,652,106
+tsk_os.h,unity_internals.h,\tsk\base\tsk_os.h,\tests\unity\src\unity_internals.h,fb10549d476c4733b848a15bf274eecd,c48f2ef9d57759a1fe49b445259832f1,-7717763362486560548,-8023445049755510628,6,N,145,652,21
+aff.h,unity_internals.h,\tsk\img\aff.h,\tests\unity\src\unity_internals.h,4388e839229d61f93a1112ac98f30b73,c48f2ef9d57759a1fe49b445259832f1,-8059799439789469540,-8023445049755510628,8,N,27,652,6
+dfxml.cpp,unity_internals.h,\tools\fiwalk\src\dfxml.cpp,\tests\unity\src\unity_internals.h,eb50b8530f9308f16c36524fddd2f5b8,c48f2ef9d57759a1fe49b445259832f1,-8023587986267121524,-8023445049755510628,3,N,386,652,42
+dfxml.h,unity_internals.h,\tools\fiwalk\src\dfxml.h,\tests\unity\src\unity_internals.h,f3c421d932ecf1b8fb08953027383675,c48f2ef9d57759a1fe49b445259832f1,-7591239665207420708,-8023445049755510628,7,N,146,652,24
+fiwalk.h,unity_internals.h,\tools\fiwalk\src\fiwalk.h,\tests\unity\src\unity_internals.h,039566552f931dc82d647dc4de6b0327,c48f2ef9d57759a1fe49b445259832f1,-8023585796102236012,-8023445049755510628,5,N,114,652,17
+utils.h,unity_internals.h,\tools\fiwalk\src\utils.h,\tests\unity\src\unity_internals.h,e6ab32b13676a61b654ad5e51f15827a,c48f2ef9d57759a1fe49b445259832f1,-7600106410441515876,-8023445049755510628,7,N,33,652,10
+regex_internal.h,unity_internals.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\tests\unity\src\unity_internals.h,478b58ddf6d6e1e730d1b30c2f09b9d2,c48f2ef9d57759a1fe49b445259832f1,-8023445051928094564,-8023445049755510628,4,N,587,652,61
+file.h,unity_internals.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\tests\unity\src\unity_internals.h,d22799caeaddf83c099f19cf401487da,c48f2ef9d57759a1fe49b445259832f1,-8023445049755510568,-8023445049755510628,2,N,402,652,46

@@ -1,0 +1,4 @@
+10395-jitsi,4477-libsass
+lzma.h,base.h,\src\native\windows\setup\include\lzma.h,\include\sass\base.h,4ce48c8f939c04739c2c0b8409ca662f,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,121,63,19
+MethodProcessorAdapter.java,ast_sel_super.cpp,\src\net\java\sip\communicator\impl\protocol\sip\MethodProcessorAdapter.java,\src\ast_sel_super.cpp,3a45c819ef82f4fb263c806a66c718bc,ffef62efd83b8d29b2b0c7a2ff9681d7,1431083374581924778,1431225074243617162,7,N,32,350,20
+OperationSetVideoTelephonySipImpl.java,ast_sel_super.cpp,\src\net\java\sip\communicator\impl\protocol\sip\OperationSetVideoTelephonySipImpl.java,\src\ast_sel_super.cpp,e53effa2a9ca952315498fdcfc91ad04,ffef62efd83b8d29b2b0c7a2ff9681d7,1431083237210063758,1431225074243617162,6,N,199,350,59

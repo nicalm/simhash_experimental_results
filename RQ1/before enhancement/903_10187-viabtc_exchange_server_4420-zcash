@@ -1,0 +1,8 @@
+10187-viabtc_exchange_server,4420-zcash
+fmacros.h,compat.h,\depends\hiredis\fmacros.h,\src\compat.h,fa39b5b5c7b057e483d5dce607e953a2,edca1c84c422d3accf71cf028f56730c,-7226589390687643492,-8023445189341947748,8,N,17,86,5
+fmacros.h,byteswap.h,\depends\hiredis\fmacros.h,\src\compat\byteswap.h,fa39b5b5c7b057e483d5dce607e953a2,c8049a65823175e0cb720f771bece0d5,-7226589390687643492,-8032452249010186084,8,N,17,36,4
+fmacros.h,endian.h,\depends\hiredis\fmacros.h,\src\compat\endian.h,fa39b5b5c7b057e483d5dce607e953a2,b0a1e77bc71959182a3b0854e64e46ad,-7226589390687643492,-8023445049755510628,6,N,17,160,5
+fmacros.h,port_posix.h,\depends\hiredis\fmacros.h,\src\leveldb\port\port_posix.h,fa39b5b5c7b057e483d5dce607e953a2,d5a83a65b2dd5184b4c812843c400a16,-7226589390687643492,-8032804092731401572,8,N,17,121,5
+fmacros.h,thread_annotations.h,\depends\hiredis\fmacros.h,\src\leveldb\port\thread_annotations.h,fa39b5b5c7b057e483d5dce607e953a2,af9eee1ca47192126580ea56af3a4865,-7226589390687643492,-8023445049755510628,6,N,17,39,4
+win32.h,endian.h,\depends\hiredis\win32.h,\src\compat\endian.h,0ec99e391511695a9d7ef00f6d95b969,b0a1e77bc71959182a3b0854e64e46ad,-7880077529720759656,-8023445049755510628,8,N,32,160,9
+win32.h,thread_annotations.h,\depends\hiredis\win32.h,\src\leveldb\port\thread_annotations.h,0ec99e391511695a9d7ef00f6d95b969,af9eee1ca47192126580ea56af3a4865,-7880077529720759656,-8023445049755510628,8,N,32,39,5

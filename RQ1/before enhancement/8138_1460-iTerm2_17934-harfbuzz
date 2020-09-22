@@ -1,0 +1,6 @@
+1460-iTerm2,17934-harfbuzz
+iTermMetalGlyphKey.h,hb-subset.cc,\sources\iTermMetalGlyphKey.h,\src\hb-subset.cc,ec93bd52c1bfb24f6f1a8d5c07191b02,8cd5ec526a4232f06c744be9b77a51bc,5729057074222575775,5170681089138145431,8,N,92,256,17
+ini.h,hb-fc-list.c,\ThirdParty\inih\ini.h,\util\hb-fc-list.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510564,1199786163039426780,7,N,57,178,13
+ini.h,test-c.c,\ThirdParty\inih\ini.h,\test\api\test-c.c,3cf89cb2c107d2c3cb0a3bf2fcf603a1,40a532b71e6242f205df120cc480a67e,-8023445049755510564,-8023445049757468516,4,N,57,26,7
+GPBBootstrap.h,hb-fc-list.c,\ThirdParty\ProtobufRuntime\GPBBootstrap.h,\util\hb-fc-list.c,f2408300ab411f6d1fbb1462c6f951cd,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023726748205786532,1199786163039426780,8,N,28,178,9
+BetterFontPicker-Swift.h,test-c.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,\test\api\test-c.c,9cdfc1f6cb7907e29a4e6b2cf0041946,40a532b71e6242f205df120cc480a67e,-8023479959251789668,-8023445049757468516,4,N,335,26,6

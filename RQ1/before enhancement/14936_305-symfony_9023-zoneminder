@@ -1,0 +1,4 @@
+305-symfony,9023-zoneminder
+IpValidator.php,control_functions.php,\src\Symfony\Component\Validator\Constraints\IpValidator.php,\web\includes\control_functions.php,7ca48c5d09328c72e03da3c6a432f9bf,c1201120aa45568b6a8a04c25886293a,5746860357875939543,-3494240195874867113,8,N,69,715,23
+NullSessionHandler.php,TestAppLibSession.php,\src\Symfony\Component\HttpFoundation\Session\Storage\Handler\NullSessionHandler.php,\web\api\lib\Cake\Test\test_app\Model\Datasource\Session\TestAppLibSession.php,786ac9eab0af66dd6bfb8d6cb6efe2be,32c509f69603825d44507f7d307bbdb0,6662982251064424857,6644967852822854041,3,N,33,22,14
+NullSessionHandler.php,TestPluginSession.php,\src\Symfony\Component\HttpFoundation\Session\Storage\Handler\NullSessionHandler.php,\web\api\lib\Cake\Test\test_app\Plugin\TestPlugin\Model\Datasource\Session\TestPluginSession.php,786ac9eab0af66dd6bfb8d6cb6efe2be,8694a3e19a7d5adeeb2bdcbd710b83af,6662982251064424857,6644967990261807513,4,N,33,22,14

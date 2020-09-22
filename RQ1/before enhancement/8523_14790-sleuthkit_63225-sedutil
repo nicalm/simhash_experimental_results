@@ -1,0 +1,6 @@
+14790-sleuthkit,63225-sedutil
+tsk_lock.c,DtaCommand.cpp,\tsk\base\tsk_lock.c,\Common\DtaCommand.cpp,c3b3e7ae85235df0c5b01de90a3f1897,8e81e307d7f26f075ace3709181c2023,-1612638904464794248,-6260353866481099432,8,N,80,241,39
+usnjls_lib.c,sedutil.cpp,\tsk\fs\usnjls_lib.c,\Common\sedutil.cpp,48e95a276115acd301ddb5b9726a7100,d52e516d82c7919c579e6283c901df60,5729127445080619223,5693098645914171606,3,N,267,243,52
+dos.c,sedutil.cpp,\tsk\vs\dos.c,\Common\sedutil.cpp,87019305b1f4020a75d7e674cebe6f30,d52e516d82c7919c579e6283c901df60,5729127442933135575,5693098645914171606,2,N,850,243,54
+softmagic.c,sedutil.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\softmagic.c,\Common\sedutil.cpp,c9a5bb85f007b34bfa13df4253839c91,d52e516d82c7919c579e6283c901df60,5152631506249235159,5693098645914171606,6,N,1731,243,58
+exif-entry.c,sedutil.cpp,\framework\modules\c_LibExifModule\libexif-0.6.20\libexif\exif-entry.c,\Common\sedutil.cpp,59a2ae3931934cc319eb1524994842bc,d52e516d82c7919c579e6283c901df60,5729109833566304343,5693098645914171606,7,N,1444,243,56

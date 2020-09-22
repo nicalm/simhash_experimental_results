@@ -1,0 +1,7 @@
+2475-fmt,9529-ltp
+gmock-gtest-all.cc,arm.h,\test\gmock-gtest-all.cc,\thirdparty\boost\include\boost\predef\architecture\arm.h,176a284cd66ba91697e35520bb8dadd6,682fb36df66fe379deecd79a3c8bfe4a,1992841858525747416,1199926987107719320,8,N,6485,32,8
+chrono_duration.cpp,json_writer.cpp,\test\fuzzing\chrono_duration.cpp,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,72440fd90a0d01848031589bb2a841a9,b6ab383125673428393a9226be5df7ad,5729127447228102871,973042564577409238,7,N,129,1063,40
+one_arg.cpp,json_writer.cpp,\test\fuzzing\one_arg.cpp,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,883cdbba8da3fa541c4927e1ea02ff22,b6ab383125673428393a9226be5df7ad,2270360721499404501,973042564577409238,7,N,117,1063,36
+sprintf.cpp,json_writer.cpp,\test\fuzzing\sprintf.cpp,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,c2ddd179a4100129a6f72f09df658863,b6ab383125673428393a9226be5df7ad,1117439216892295391,973042564577409238,8,N,101,1063,27
+two_args.cpp,json_writer.cpp,\test\fuzzing\two_args.cpp,\thirdparty\jsoncpp\src\lib_json\json_writer.cpp,c159700c6123fdba738f71e168dab048,b6ab383125673428393a9226be5df7ad,1117439216892295391,973042564577409238,8,N,97,1063,26
+gtest-spi.h,gtest-spi.h,\test\gtest\gtest-spi.h,\thirdparty\gtest\include\gtest\gtest-spi.h,c1b2df0336821610c380ccaf057a8867,c1b2df0336821610c380ccaf057a8867,2316074171267063501,2316074171267063501,0,Y,97,97,97

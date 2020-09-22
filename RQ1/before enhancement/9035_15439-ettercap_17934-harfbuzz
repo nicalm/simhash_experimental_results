@@ -1,0 +1,14 @@
+15439-ettercap,17934-harfbuzz
+ec_os_mingw.h,hb-fc-list.c,\include\ec_os_mingw.h,\util\hb-fc-list.c,a35507e5684e934f2f3961ea9d733813,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510628,1199786163039426780,8,N,184,178,12
+ec_os_mingw.h,test-c.c,\include\ec_os_mingw.h,\test\api\test-c.c,a35507e5684e934f2f3961ea9d733813,40a532b71e6242f205df120cc480a67e,-8023445049755510628,-8023445049757468516,3,N,184,26,6
+ec_stdint.h,hb-fc-list.c,\include\ec_stdint.h,\util\hb-fc-list.c,6aec3e3181000888a59234edbdd91364,c27d8fd53993dc1d7a624ea1ec1d10a6,-8023445049755510628,1199786163039426780,8,N,70,178,12
+ec_stdint.h,test-c.c,\include\ec_stdint.h,\test\api\test-c.c,6aec3e3181000888a59234edbdd91364,40a532b71e6242f205df120cc480a67e,-8023445049755510628,-8023445049757468516,3,N,70,26,6
+ec_strings.h,test-c.c,\include\ec_strings.h,\test\api\test-c.c,de354113240928e149f745107db6f7bb,40a532b71e6242f205df120cc480a67e,-7879329861738243684,-8023445049757468516,6,N,54,26,6
+ec_filter.c,hb-ot-shape-complex-vowel-constraints.cc,\src\ec_filter.c,\src\hb-ot-shape-complex-vowel-constraints.cc,93d0ed8de4c0c08c76b8fb5f7787aef5,af3b5cee198ad0cdcf32177f2059763e,5729127442664700119,5729127511516264663,5,N,799,420,146
+ec_filter.c,hb-subset.cc,\src\ec_filter.c,\src\hb-subset.cc,93d0ed8de4c0c08c76b8fb5f7787aef5,8cd5ec526a4232f06c744be9b77a51bc,5729127442664700119,5170681089138145431,5,N,799,256,63
+ec_parser.c,hb-ot-shape-complex-vowel-constraints.cc,\src\ec_parser.c,\src\hb-ot-shape-complex-vowel-constraints.cc,a95da67ae2615afb320cafe15fbcbfd2,af3b5cee198ad0cdcf32177f2059763e,5729127571782408407,5729127511516264663,8,N,364,420,62
+ec_parser.c,hb-subset.cc,\src\ec_parser.c,\src\hb-subset.cc,a95da67ae2615afb320cafe15fbcbfd2,8cd5ec526a4232f06c744be9b77a51bc,5729127571782408407,5170681089138145431,8,N,364,256,37
+ef_test.c,hb-ot-shape-complex-vowel-constraints.cc,\utils\etterfilter\ef_test.c,\src\hb-ot-shape-complex-vowel-constraints.cc,fa7fc65cd5f440dd843abbe86d1716e4,af3b5cee198ad0cdcf32177f2059763e,5729127442933135575,5729127511516264663,4,N,181,420,50
+ef_test.c,hb-subset.cc,\utils\etterfilter\ef_test.c,\src\hb-subset.cc,fa7fc65cd5f440dd843abbe86d1716e4,8cd5ec526a4232f06c744be9b77a51bc,5729127442933135575,5170681089138145431,4,N,181,256,46
+el_parser.c,hb-ot-shape-complex-vowel-constraints.cc,\utils\etterlog\el_parser.c,\src\hb-ot-shape-complex-vowel-constraints.cc,e965aa39918fe671682ccf0efa3de321,af3b5cee198ad0cdcf32177f2059763e,5729127442933135575,5729127511516264663,4,N,230,420,46
+el_parser.c,hb-subset.cc,\utils\etterlog\el_parser.c,\src\hb-subset.cc,e965aa39918fe671682ccf0efa3de321,8cd5ec526a4232f06c744be9b77a51bc,5729127442933135575,5170681089138145431,4,N,230,256,31

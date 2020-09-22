@@ -1,0 +1,14 @@
+10249-pycrypto,11604-pdns
+tomcrypt_cfg.h,threadname.cc,\src\libtom\tomcrypt_cfg.h,\pdns\threadname.cc,5d86f6872e15c2873979e3c177860d1d,5b915147d70647a42e05b4e28ce34c57,-8023445049755510052,-8023445049889728356,3,N,79,39,11
+tomcrypt_cfg.h,version.cc,\src\libtom\tomcrypt_cfg.h,\pdns\version.cc,5d86f6872e15c2873979e3c177860d1d,2d47bb8e09166cdc8de706154500a37c,-8023445049755510052,-8023445049755379556,3,N,79,141,18
+tomcrypt_cfg.h,murmur3.h,\src\libtom\tomcrypt_cfg.h,\ext\probds\murmur3.h,5d86f6872e15c2873979e3c177860d1d,02ac5aff2e57a41f9dc94781ccd8d595,-8023445049755510052,-9176375350707038052,6,N,79,46,10
+tomcrypt_cipher.h,threadname.cc,\src\libtom\tomcrypt_cipher.h,\pdns\threadname.cc,e7e3cfbb6946c3245a4035941fbfd0d9,5b915147d70647a42e05b4e28ce34c57,-8023445049755512676,-8023445049889728356,2,N,592,39,10
+tomcrypt_cipher.h,version.cc,\src\libtom\tomcrypt_cipher.h,\pdns\version.cc,e7e3cfbb6946c3245a4035941fbfd0d9,2d47bb8e09166cdc8de706154500a37c,-8023445049755512676,-8023445049755379556,2,N,592,141,28
+tomcrypt_cipher.h,murmur3.h,\src\libtom\tomcrypt_cipher.h,\ext\probds\murmur3.h,e7e3cfbb6946c3245a4035941fbfd0d9,02ac5aff2e57a41f9dc94781ccd8d595,-8023445049755512676,-9176375350707038052,5,N,592,46,9
+tomcrypt_custom.h,threadname.cc,\src\libtom\tomcrypt_custom.h,\pdns\threadname.cc,9ae4ff77d7091871a62aaa3fd1f90225,5b915147d70647a42e05b4e28ce34c57,-8023445049755510628,-8023445049889728356,1,N,245,39,12
+tomcrypt_custom.h,version.cc,\src\libtom\tomcrypt_custom.h,\pdns\version.cc,9ae4ff77d7091871a62aaa3fd1f90225,2d47bb8e09166cdc8de706154500a37c,-8023445049755510628,-8023445049755379556,1,N,245,141,26
+tomcrypt_custom.h,murmur3.h,\src\libtom\tomcrypt_custom.h,\ext\probds\murmur3.h,9ae4ff77d7091871a62aaa3fd1f90225,02ac5aff2e57a41f9dc94781ccd8d595,-8023445049755510628,-9176375350707038052,4,N,245,46,10
+tomcrypt_hash.h,mtasker_fcontext.cc,\src\libtom\tomcrypt_hash.h,\pdns\mtasker_fcontext.cc,4d32ee3783f23c9c88b2c0bf0a2bdd10,938c4b11c2b5d2cc884b9f3d84adb304,-8023480251307468644,-7442588467144042408,8,N,310,159,17
+tomcrypt_hash.h,threadname.cc,\src\libtom\tomcrypt_hash.h,\pdns\threadname.cc,4d32ee3783f23c9c88b2c0bf0a2bdd10,5b915147d70647a42e05b4e28ce34c57,-8023480251307468644,-8023445049889728356,3,N,310,39,10
+tomcrypt_hash.h,version.cc,\src\libtom\tomcrypt_hash.h,\pdns\version.cc,4d32ee3783f23c9c88b2c0bf0a2bdd10,2d47bb8e09166cdc8de706154500a37c,-8023480251307468644,-8023445049755379556,3,N,310,141,28
+tomcrypt_hash.h,murmur3.h,\src\libtom\tomcrypt_hash.h,\ext\probds\murmur3.h,4d32ee3783f23c9c88b2c0bf0a2bdd10,02ac5aff2e57a41f9dc94781ccd8d595,-8023480251307468644,-9176375350707038052,6,N,310,46,9

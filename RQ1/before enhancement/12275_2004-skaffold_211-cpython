@@ -1,0 +1,4 @@
+2004-skaffold,211-cpython
+scannerc.go,info.py,\vendor\gopkg.in\yaml.v2\scannerc.go,\Tools\c-analyzer\c_analyzer\common\info.py,852f07f1f0aee25528d853d31ff3d472,bafeed7fe9511e904fa52eca1534e02e,-3055187690397830570,-4208258730196667806,8,N,1533,86,1
+equal.go,info.py,\vendor\github.com\gogo\protobuf\proto\equal.go,\Tools\c-analyzer\c_analyzer\common\info.py,f8113dcdab6863625600a44d528ddbf3,bafeed7fe9511e904fa52eca1534e02e,-2913324303813381550,-4208258730196667806,8,N,194,86,1
+equal.go,info.py,\hack\tools\vendor\github.com\golang\protobuf\proto\equal.go,\Tools\c-analyzer\c_analyzer\common\info.py,f8113dcdab6863625600a44d528ddbf3,bafeed7fe9511e904fa52eca1534e02e,-2913324303813381550,-4208258730196667806,8,N,194,86,1

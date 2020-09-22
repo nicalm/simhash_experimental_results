@@ -1,0 +1,9 @@
+18-electron,2202-qBittorrent
+atom_main_delegate.cc,mainwindow.cpp,\shell\app\atom_main_delegate.cc,\src\gui\mainwindow.cpp,6beb16be6a739f5598d443a18a5cbaa6,5cd96cef67869a501be59f5996fcb554,-4997025687846725476,-9032396158224000868,8,N,249,1634,52
+atom_browser_main_parts.cc,application.cpp,\shell\browser\atom_browser_main_parts.cc,\src\app\application.cpp,4312360427f5f392ec4f692be2a7319a,1769f1c34b2b51e4c126498e3a0b5a58,-8023445187194455912,-7445858400229599076,8,N,375,573,72
+atom_browser_main_parts.cc,main.cpp,\shell\browser\atom_browser_main_parts.cc,\src\app\main.cpp,4312360427f5f392ec4f692be2a7319a,0ab876c235d091cc9321f5b26945d353,-8023445187194455912,-8023445118508476260,6,N,375,324,62
+atom_paths.h,main.cpp,\shell\browser\atom_paths.h,\src\app\main.cpp,f62403bf230108c707f5e1273fdb321d,0ab876c235d091cc9321f5b26945d353,-8023471436960835427,-8023445118508476260,7,N,33,324,9
+renderer_client_base.cc,main.cpp,\shell\renderer\renderer_client_base.cc,\src\app\main.cpp,d0d5771f27ecde6d75b1cf2555ca2003,0ab876c235d091cc9321f5b26945d353,-8023449518660068932,-8023445118508476260,8,N,308,324,55
+linux_syscall_support.h,application.cpp,\vendor\third_party\lss\linux_syscall_support.h,\src\app\application.cpp,d7c4a715ebced0be3633fcfd349a02ff,1769f1c34b2b51e4c126498e3a0b5a58,-8023445049755510628,-7445858400229599076,5,N,3833,573,107
+linux_syscall_support.h,main.cpp,\vendor\third_party\lss\linux_syscall_support.h,\src\app\main.cpp,d7c4a715ebced0be3633fcfd349a02ff,0ab876c235d091cc9321f5b26945d353,-8023445049755510628,-8023445118508476260,3,N,3833,324,79
+linux_syscall_support.h,mainwindow.cpp,\vendor\third_party\lss\linux_syscall_support.h,\src\gui\mainwindow.cpp,d7c4a715ebced0be3633fcfd349a02ff,5cd96cef67869a501be59f5996fcb554,-8023445049755510628,-9032396158224000868,8,N,3833,1634,261

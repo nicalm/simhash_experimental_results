@@ -1,0 +1,5 @@
+10081-irssi,17934-harfbuzz
+otr-ops.c,hb-ot-shape-complex-vowel-constraints.cc,\src\otr\otr-ops.c,\src\hb-ot-shape-complex-vowel-constraints.cc,78f1f6c5943450ae1c92e51ced46839e,af3b5cee198ad0cdcf32177f2059763e,1117440324994119895,5729127511516264663,6,N,248,420,69
+otr-ops.c,hb-subset.cc,\src\otr\otr-ops.c,\src\hb-subset.cc,78f1f6c5943450ae1c92e51ced46839e,8cd5ec526a4232f06c744be9b77a51bc,1117440324994119895,5170681089138145431,6,N,248,256,54
+formats.c,hb-ot-shape-complex-vowel-constraints.cc,\src\fe-common\core\formats.c,\src\hb-ot-shape-complex-vowel-constraints.cc,81ad733fd560a7711254766564a4d1b4,af3b5cee198ad0cdcf32177f2059763e,5729127511652612311,5729127511516264663,3,N,1160,420,157
+formats.c,hb-subset.cc,\src\fe-common\core\formats.c,\src\hb-subset.cc,81ad733fd560a7711254766564a4d1b4,8cd5ec526a4232f06c744be9b77a51bc,5729127511652612311,5170681089138145431,5,N,1160,256,62

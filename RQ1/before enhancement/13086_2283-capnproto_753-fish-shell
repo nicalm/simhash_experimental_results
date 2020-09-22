@@ -1,0 +1,5 @@
+2283-capnproto,753-fish-shell
+miniposix.h,fallback.h,\c++\src\kj\miniposix.h,\src\fallback.h,43597d9a9103c02dbbe46d2c58ecc748,7d4055698e8c91d9fd4be969475abb0c,-7455991496707810916,-8023446699022952292,7,N,84,118,18
+miniposix.h,signal.cpp,\c++\src\kj\miniposix.h,\src\signal.cpp,43597d9a9103c02dbbe46d2c58ecc748,2e09e582bf373788324ac911fde75809,-7455991496707810916,-8023445049755510632,6,N,84,322,22
+miniposix.h,sljitConfig.h,\c++\src\kj\miniposix.h,\pcre2-10.32\src\sljit\sljitConfig.h,43597d9a9103c02dbbe46d2c58ecc748,4670eeabf25cc1becfd2eb7244181998,-7455991496707810916,-8023445049755445096,5,N,84,33,11
+miniposix.h,sljitConfigInternal.h,\c++\src\kj\miniposix.h,\pcre2-10.32\src\sljit\sljitConfigInternal.h,43597d9a9103c02dbbe46d2c58ecc748,fd5d86ef9f2b9d9589cb00af7963629f,-7455991496707810916,-8023515418499688420,7,N,84,429,16

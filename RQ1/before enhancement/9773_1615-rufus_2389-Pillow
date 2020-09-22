@@ -1,0 +1,12 @@
+1615-rufus,2389-Pillow
+platform.h,ImPlatform.h,\src\bled\platform.h,\src\libImaging\ImPlatform.h,4803e652bfbf4addc3c84e9e9999b1da,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,498,58,17
+xz_config.h,ImPlatform.h,\src\bled\xz_config.h,\src\libImaging\ImPlatform.h,921cb7a03ced44fcd791cbdd6f4ead41,6670b4584189b95bdcaaa198dabbf5c8,-7446983747698374499,-8024570949662353252,6,N,72,58,13
+xz_private.h,ImPlatform.h,\src\bled\xz_private.h,\src\libImaging\ImPlatform.h,db6ba9d9b9fa82c4cf6044eeacf20401,6670b4584189b95bdcaaa198dabbf5c8,-8023515418482911076,-8024570949662353252,3,N,89,58,15
+ext2_types.h,ImPlatform.h,\src\ext2fs\ext2_types.h,\src\libImaging\ImPlatform.h,aa5bcf70705ef8ee9519acce6afc4f5c,6670b4584189b95bdcaaa198dabbf5c8,-8023462641941489508,-8024570949662353252,3,N,67,58,12
+unistd.h,ImPlatform.h,\src\msvc-missing\unistd.h,\src\libImaging\ImPlatform.h,57a90f66687399a086785137e09f1ac9,6670b4584189b95bdcaaa198dabbf5c8,-4565808634933227492,-8024570949662353252,7,N,26,58,8
+sltypes.h,ImPlatform.h,\src\syslinux\sltypes.h,\src\libImaging\ImPlatform.h,baf9345f7010a2e71548f8d453b05911,6670b4584189b95bdcaaa198dabbf5c8,-8023445050360541164,-8024570949662353252,7,N,18,58,7
+types.h,ImPlatform.h,\src\libcdio\cdio\types.h,\src\libImaging\ImPlatform.h,9508159954df1b5e8d02f4c304e1ed75,6670b4584189b95bdcaaa198dabbf5c8,-9176366004598155112,-8024570949662353252,5,N,181,58,15
+filemode.h,ImPlatform.h,\src\libcdio\driver\filemode.h,\src\libImaging\ImPlatform.h,06b5d0649b21446c0f1f114dfa58b605,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,105,58,15
+portable.h,ImPlatform.h,\src\libcdio\driver\portable.h,\src\libImaging\ImPlatform.h,709f07965666c155709172c5f0830375,6670b4584189b95bdcaaa198dabbf5c8,-8023449447802021732,-8024570949662353252,2,N,26,58,9
+filemode.c,ImPlatform.h,\src\libcdio\udf\filemode.c,\src\libImaging\ImPlatform.h,34657a272258e6707271728553672ac9,6670b4584189b95bdcaaa198dabbf5c8,1199874219131066524,-8024570949662353252,5,N,108,58,11
+udf.c,ImPlatform.h,\src\libcdio\udf\udf.c,\src\libImaging\ImPlatform.h,d041a8b73550e6c6fb5f022d527ca456,6670b4584189b95bdcaaa198dabbf5c8,5811467870000158876,-8024570949662353252,7,N,79,58,8

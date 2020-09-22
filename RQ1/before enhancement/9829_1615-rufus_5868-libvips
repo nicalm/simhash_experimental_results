@@ -1,0 +1,15 @@
+1615-rufus,5868-libvips
+platform.h,buffer.c,\src\bled\platform.h,\libvips\iofuncs\buffer.c,4803e652bfbf4addc3c84e9e9999b1da,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,498,447,31
+platform.h,init.c,\src\bled\platform.h,\libvips\iofuncs\init.c,4803e652bfbf4addc3c84e9e9999b1da,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,498,636,45
+platform.h,vector.c,\src\bled\platform.h,\libvips\iofuncs\vector.c,4803e652bfbf4addc3c84e9e9999b1da,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,498,400,49
+xz_private.h,vector.c,\src\bled\xz_private.h,\libvips\iofuncs\vector.c,db6ba9d9b9fa82c4cf6044eeacf20401,055954f4e165b83818f7e8bd6db904ec,-8023515418482911076,-8023484632710850404,6,N,89,400,22
+ext2_types.h,buffer.c,\src\ext2fs\ext2_types.h,\libvips\iofuncs\buffer.c,aa5bcf70705ef8ee9519acce6afc4f5c,7574cb2d8655be6f6b1d83b926fa5645,-8023462641941489508,-7744230673238075236,8,N,67,447,14
+ext2_types.h,vector.c,\src\ext2fs\ext2_types.h,\libvips\iofuncs\vector.c,aa5bcf70705ef8ee9519acce6afc4f5c,055954f4e165b83818f7e8bd6db904ec,-8023462641941489508,-8023484632710850404,6,N,67,400,14
+sltypes.h,vector.c,\src\syslinux\sltypes.h,\libvips\iofuncs\vector.c,baf9345f7010a2e71548f8d453b05911,055954f4e165b83818f7e8bd6db904ec,-8023445050360541164,-8023484632710850404,8,N,18,400,6
+types.h,vector.c,\src\libcdio\cdio\types.h,\libvips\iofuncs\vector.c,9508159954df1b5e8d02f4c304e1ed75,055954f4e165b83818f7e8bd6db904ec,-9176366004598155112,-8023484632710850404,8,N,181,400,30
+filemode.h,buffer.c,\src\libcdio\driver\filemode.h,\libvips\iofuncs\buffer.c,06b5d0649b21446c0f1f114dfa58b605,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,105,447,22
+filemode.h,init.c,\src\libcdio\driver\filemode.h,\libvips\iofuncs\init.c,06b5d0649b21446c0f1f114dfa58b605,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,105,636,32
+filemode.h,vector.c,\src\libcdio\driver\filemode.h,\libvips\iofuncs\vector.c,06b5d0649b21446c0f1f114dfa58b605,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,105,400,34
+portable.h,vector.c,\src\libcdio\driver\portable.h,\libvips\iofuncs\vector.c,709f07965666c155709172c5f0830375,055954f4e165b83818f7e8bd6db904ec,-8023449447802021732,-8023484632710850404,3,N,26,400,9
+filemode.c,vector.c,\src\libcdio\udf\filemode.c,\libvips\iofuncs\vector.c,34657a272258e6707271728553672ac9,055954f4e165b83818f7e8bd6db904ec,1199874219131066524,-8023484632710850404,6,N,108,400,30
+udf.c,vector.c,\src\libcdio\udf\udf.c,\libvips\iofuncs\vector.c,d041a8b73550e6c6fb5f022d527ca456,055954f4e165b83818f7e8bd6db904ec,5811467870000158876,-8023484632710850404,8,N,79,400,14

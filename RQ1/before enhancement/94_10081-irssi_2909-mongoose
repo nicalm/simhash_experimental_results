@@ -1,0 +1,5 @@
+10081-irssi,2909-mongoose
+otr-ops.c,main.c,\src\otr\otr-ops.c,\examples\STM32F4_CC3100\main.c,78f1f6c5943450ae1c92e51ced46839e,15dc0f0244c4743afaf0aa2621563edc,1117440324994119895,784173954716186839,5,N,248,124,30
+formats.c,main.c,\src\fe-common\core\formats.c,\examples\STM32F4_CC3100\main.c,81ad733fd560a7711254766564a4d1b4,15dc0f0244c4743afaf0aa2621563edc,5729127511652612311,784173954716186839,8,N,1160,124,33
+formats.c,app.c,\src\fe-common\core\formats.c,\examples\PIC32\mqtt_client\firmware\src\app.c,81ad733fd560a7711254766564a4d1b4,dc194e59405b227b41c71648ad3b810e,5729127511652612311,5675084247136270494,8,N,1160,145,46
+formats.c,drv_usart_mapping.c,\src\fe-common\core\formats.c,\examples\PIC32\mqtt_client\firmware\src\system_config\mx795_CC3100_e16\framework\driver\usart\src\drv_usart_mapping.c,81ad733fd560a7711254766564a4d1b4,6db6768bb9f8442b262aaa5571de2592,5729127511652612311,5677283270660241875,8,N,1160,331,145

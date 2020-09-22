@@ -1,0 +1,14 @@
+1541-h2o,86-netdata
+fmacros.h,libnetdata.h,\deps\hiredis\fmacros.h,\libnetdata\libnetdata.h,9d6fd32f84c9d0377076a4587579ec51,b36073eea8dc836d3f37e426aebdabda,-8023515419036559204,-8023445049755510628,2,N,20,248,7
+win32.h,libnetdata.h,\deps\hiredis\win32.h,\libnetdata\libnetdata.h,0ec99e391511695a9d7ef00f6d95b969,b36073eea8dc836d3f37e426aebdabda,-7880077529720759656,-8023445049755510628,8,N,32,248,5
+mrbconf.h,libnetdata.h,\deps\mruby\include\mrbconf.h,\libnetdata\libnetdata.h,b30b9460d209b1cc68a61c5604bdd5a1,b36073eea8dc836d3f37e426aebdabda,-8023445049755510628,-8023445049755510628,0,N,43,248,18
+mrbconf.h,clocks.h,\deps\mruby\include\mrbconf.h,\libnetdata\clocks\clocks.h,b30b9460d209b1cc68a61c5604bdd5a1,817f185c065ee719f0a0f5d506401b1f,-8023445049755510628,-7879330084279756644,7,N,43,66,11
+mruby.h,libnetdata.h,\deps\mruby\include\mruby.h,\libnetdata\libnetdata.h,919df8d515b52adcdfa92f19037768c8,b36073eea8dc836d3f37e426aebdabda,-9176366554362357572,-8023445049755510628,2,N,440,248,40
+port.h,libnetdata.h,\deps\brotli\c\dec\port.h,\libnetdata\libnetdata.h,40b2fd74ac0fb05b9b3137ca6adfdec5,b36073eea8dc836d3f37e426aebdabda,-8023163576927266084,-8023445049755510628,6,N,121,248,30
+memory.h,libnetdata.h,\deps\brotli\c\enc\memory.h,\libnetdata\libnetdata.h,7b7c326cb6f93d50dd06a9d313779e53,b36073eea8dc836d3f37e426aebdabda,-8023473654774578788,-8023445049755510628,8,N,44,248,7
+numeric.h,libnetdata.h,\deps\mruby\include\mruby\numeric.h,\libnetdata\libnetdata.h,3fcc5440f35b4f8dd767de5d1f6669d5,b36073eea8dc836d3f37e426aebdabda,-8032170909660030820,-8023445049755510628,8,N,120,248,14
+types.h,libnetdata.h,\deps\picotls\deps\micro-ecc\types.h,\libnetdata\libnetdata.h,d0ccddb6a5d5d18dbed2dc07299a4b3d,b36073eea8dc836d3f37e426aebdabda,-8023445049757607011,-8023445049755510628,4,N,87,248,17
+uECC.h,libnetdata.h,\deps\picotls\deps\micro-ecc\uECC.h,\libnetdata\libnetdata.h,e777f21ea5ae63708919f7e3ba1592f7,b36073eea8dc836d3f37e426aebdabda,1199926987099265180,-8023445049755510628,1,N,105,248,19
+uECC.h,clocks.h,\deps\picotls\deps\micro-ecc\uECC.h,\libnetdata\clocks\clocks.h,e777f21ea5ae63708919f7e3ba1592f7,817f185c065ee719f0a0f5d506401b1f,1199926987099265180,-7879330084279756644,8,N,105,66,9
+wincompat.h,libnetdata.h,\deps\picotls\picotlsvs\picotls\wincompat.h,\libnetdata\libnetdata.h,7c4e1724c3a0beeaea1e4c416d606c60,b36073eea8dc836d3f37e426aebdabda,-8041318848215590756,-8023445049755510628,5,N,28,248,8
+port.h,libnetdata.h,\deps\brotli\c\include\brotli\port.h,\libnetdata\libnetdata.h,350994917b4cef7e95001ccfdd8a21d9,b36073eea8dc836d3f37e426aebdabda,-9031978687939553124,-8023445049755510628,6,N,102,248,31

@@ -1,0 +1,3 @@
+12758-znc,5271-CouchPotatoServer
+znc.py,plugin.py,\modules\modpython\znc.py,\libs\suds\plugin.py,4a5b1d05db940e699bac8d83cbaf501d,a94baf44383cd4aee9c3127eed4bd6f3,9217320431243133317,9217329227369710981,3,N,722,72,16
+znc.py,exceptions.py,\modules\modpython\znc.py,\libs\requests\packages\urllib3\exceptions.py,4a5b1d05db940e699bac8d83cbaf501d,398c4b8bafe797e796cc6aea31e535b3,9217320431243133317,4610147908045669765,6,N,722,89,18

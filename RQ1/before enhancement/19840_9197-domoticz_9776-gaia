@@ -1,0 +1,12 @@
+9197-domoticz,9776-gaia
+MySensorsBase.cpp,orientation.js,\hardware\MySensorsBase.cpp,\dev_apps\uitest\js\API\orientation.js,6cae5e3a1ab9ee7d8342dca148477146,7f674abe2d64a83f3c5f7fc6b2372c43,7481027697980250327,5729127442933135575,5,N,2449,55,18
+json_reader.cpp,orientation.js,\json\json_reader.cpp,\dev_apps\uitest\js\API\orientation.js,d6f8951ecd27c4129576f8f55fb919a9,7f674abe2d64a83f3c5f7fc6b2372c43,6809921053509875927,5729127442933135575,7,N,1815,55,18
+json_writer.cpp,orientation.js,\json\json_writer.cpp,\dev_apps\uitest\js\API\orientation.js,d1974449d1798ba8f48c676801c0d6d9,7f674abe2d64a83f3c5f7fc6b2372c43,973042564577409238,5729127442933135575,6,N,1064,55,18
+mainworker.cpp,orientation.js,\main\mainworker.cpp,\dev_apps\uitest\js\API\orientation.js,f4c4b426730e0f8963be06c217764882,7f674abe2d64a83f3c5f7fc6b2372c43,5729136239026157783,5729127442933135575,1,N,12106,55,18
+mainworker.cpp,lcd.js,\main\mainworker.cpp,\dev_apps\uitest\js\HW\lcd.js,f4c4b426730e0f8963be06c217764882,3ab7d944f9f63d991cca7c6b1fe0faa4,5729136239026157783,973255871980679315,8,N,12106,62,8
+mainworker.cpp,pdf.worker.js,\main\mainworker.cpp,\disabled_apps\pdfjs\content\build\pdf.worker.js,f4c4b426730e0f8963be06c217764882,0b5f788a191b12bb182b6955242c5ffb,5729136239026157783,6899975385106659575,8,N,12106,37193,1754
+RFXNames.cpp,orientation.js,\main\RFXNames.cpp,\dev_apps\uitest\js\API\orientation.js,05aacb23294caf3c3e603f6de8b04624,7f674abe2d64a83f3c5f7fc6b2372c43,5693098645906077919,5729127442933135575,6,N,3550,55,18
+xpath_processor.cpp,orientation.js,\tinyxpath\xpath_processor.cpp,\dev_apps\uitest\js\API\orientation.js,46c992ef05a1f80abafff69ee425bf9c,7f674abe2d64a83f3c5f7fc6b2372c43,5729127995910174935,5729127442933135575,3,N,1762,55,18
+OZWException.h,orientation.js,\hardware\openzwave\OZWException.h,\dev_apps\uitest\js\API\orientation.js,8b03f08d13666ba349826423247bf4e9,7f674abe2d64a83f3c5f7fc6b2372c43,5449904944638916819,5729127442933135575,8,N,70,55,9
+lcode.c,orientation.js,\lua\src\lcode.c,\dev_apps\uitest\js\API\orientation.js,dbdd1d8df3be51314eee06b760f82ca8,7f674abe2d64a83f3c5f7fc6b2372c43,5157179361228011607,5729127442933135575,5,N,726,55,18
+luac.c,orientation.js,\lua\src\luac.c,\dev_apps\uitest\js\API\orientation.js,99d8d7525e1c748615ef56686101dd51,7f674abe2d64a83f3c5f7fc6b2372c43,5695192167593326807,5729127442933135575,7,N,390,55,18

@@ -1,0 +1,4 @@
+11788-fbthrift,4014-kanboard
+ThriftSerializationHelper.php,TaskAssigneeFilter.php,\thrift\lib\hack\src\ThriftSerializationHelper.php,\app\Filter\TaskAssigneeFilter.php,2a3a53fb5528c98aad1178c305be0463,477505b62781c2f1a8686d447ba7830d,-3512346884650260265,6866761406595312343,7,N,377,41,11
+ModuleLogger.java,changes.php,\thrift\compiler\test\fixtures\complex-union\gen-android\ModuleLogger.java,\app\Template\task\changes.php,905e2b5b5313535fee06ff53948b654f,9d43fb3e19ac004f3873770dd9bbbfde,5730262211677427927,5729127648822069494,8,N,257,75,18
+MyBigStruct.java,dom.js,\thrift\compiler\test\fixtures\big-struct\gen-swift\test\fixtures\basic\MyBigStruct.java,\assets\js\core\dom.js,3fc897ef32d3e23482c81dffc4db8b01,54c3f42675b481e378fde97b2aa5710c,2519032036403385579,2519032038550734059,3,N,3900,161,35

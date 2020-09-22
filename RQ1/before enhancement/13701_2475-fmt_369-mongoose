@@ -1,0 +1,5 @@
+2475-fmt,369-mongoose
+chrono_duration.cpp,ReadPreference.js,\test\fuzzing\chrono_duration.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,72440fd90a0d01848031589bb2a841a9,72ad104b2d3e1cc34b02578eb97d2c64,5729127447228102871,5440897058057271519,5,N,129,30,8
+one_arg.cpp,ReadPreference.js,\test\fuzzing\one_arg.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,883cdbba8da3fa541c4927e1ea02ff22,72ad104b2d3e1cc34b02578eb97d2c64,2270360721499404501,5440897058057271519,7,N,117,30,8
+sprintf.cpp,ReadPreference.js,\test\fuzzing\sprintf.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,c2ddd179a4100129a6f72f09df658863,72ad104b2d3e1cc34b02578eb97d2c64,1117439216892295391,5440897058057271519,6,N,101,30,9
+two_args.cpp,ReadPreference.js,\test\fuzzing\two_args.cpp,\lib\drivers\node-mongodb-native\ReadPreference.js,c159700c6123fdba738f71e168dab048,72ad104b2d3e1cc34b02578eb97d2c64,1117439216892295391,5440897058057271519,6,N,97,30,9

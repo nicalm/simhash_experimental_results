@@ -1,0 +1,9 @@
+1541-h2o,4477-libsass
+fmacros.h,base.h,\deps\hiredis\fmacros.h,\include\sass\base.h,9d6fd32f84c9d0377076a4587579ec51,26dfd0d8cb029fd73ca71c0971ecc070,-8023515419036559204,-8023163575290504548,5,N,20,63,7
+mrbconf.h,base.h,\deps\mruby\include\mrbconf.h,\include\sass\base.h,b30b9460d209b1cc68a61c5604bdd5a1,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049755510628,-8023163575290504548,5,N,43,63,13
+mruby.h,base.h,\deps\mruby\include\mruby.h,\include\sass\base.h,919df8d515b52adcdfa92f19037768c8,26dfd0d8cb029fd73ca71c0971ecc070,-9176366554362357572,-8023163575290504548,7,N,440,63,20
+port.h,base.h,\deps\brotli\c\dec\port.h,\include\sass\base.h,40b2fd74ac0fb05b9b3137ca6adfdec5,26dfd0d8cb029fd73ca71c0971ecc070,-8023163576927266084,-8023163575290504548,7,N,121,63,15
+types.h,base.h,\deps\picotls\deps\micro-ecc\types.h,\include\sass\base.h,d0ccddb6a5d5d18dbed2dc07299a4b3d,26dfd0d8cb029fd73ca71c0971ecc070,-8023445049757607011,-8023163575290504548,7,N,87,63,14
+uECC.h,base.h,\deps\picotls\deps\micro-ecc\uECC.h,\include\sass\base.h,e777f21ea5ae63708919f7e3ba1592f7,26dfd0d8cb029fd73ca71c0971ecc070,1199926987099265180,-8023163575290504548,6,N,105,63,14
+wincompat.h,base.h,\deps\picotls\picotlsvs\picotls\wincompat.h,\include\sass\base.h,7c4e1724c3a0beeaea1e4c416d606c60,26dfd0d8cb029fd73ca71c0971ecc070,-8041318848215590756,-8023163575290504548,8,N,28,63,11
+port.h,base.h,\deps\brotli\c\include\brotli\port.h,\include\sass\base.h,350994917b4cef7e95001ccfdd8a21d9,26dfd0d8cb029fd73ca71c0971ecc070,-9031978687939553124,-8023163575290504548,7,N,102,63,14

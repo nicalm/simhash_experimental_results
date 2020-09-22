@@ -1,0 +1,6 @@
+2202-qBittorrent,9023-zoneminder
+application.cpp,zm_ffmpeg.h,\src\app\application.cpp,\src\zm_ffmpeg.h,1769f1c34b2b51e4c126498e3a0b5a58,7e2fcd3ba00999285d6aaf2ef78cc14d,-7445858400229599076,-8023445049755510628,5,N,573,281,42
+application.cpp,zm_signal.h,\src\app\application.cpp,\src\zm_signal.h,1769f1c34b2b51e4c126498e3a0b5a58,95bf5749d181b4fa528e43c6e262e7a0,-7445858400229599076,-8057222049236199396,8,N,573,27,5
+main.cpp,zm_ffmpeg.h,\src\app\main.cpp,\src\zm_ffmpeg.h,0ab876c235d091cc9321f5b26945d353,7e2fcd3ba00999285d6aaf2ef78cc14d,-8023445118508476260,-8023445049755510628,3,N,324,281,47
+mainwindow.cpp,zm_ffmpeg.h,\src\gui\mainwindow.cpp,\src\zm_ffmpeg.h,5cd96cef67869a501be59f5996fcb554,7e2fcd3ba00999285d6aaf2ef78cc14d,-9032396158224000868,-8023445049755510628,8,N,1634,281,53
+proplistdelegate.cpp,control_functions.php,\src\gui\properties\proplistdelegate.cpp,\web\includes\control_functions.php,4de60f6b36141f92c2bc5ba3d77471db,c1201120aa45568b6a8a04c25886293a,-3494526068898088747,-3494240195874867113,4,N,172,715,41

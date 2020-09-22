@@ -1,0 +1,3 @@
+62850-ADOdb,6664-ModSecurity
+adodb-pdo_firebird.inc.php,seclang-parser.cc,\drivers\adodb-pdo_firebird.inc.php,\src\parser\seclang-parser.cc,9495b386496271e4936472af040fd5ea,c95834041ac82565ed4d4a4bccd1b864,5738134642182631639,5729127442933135575,4,N,333,6079,113
+adodb-pdo_firebird.inc.php,phase.h,\drivers\adodb-pdo_firebird.inc.php,\src\utils\phase.h,9495b386496271e4936472af040fd5ea,a09f3ae3e8191f752c4eb96a4ac598b6,5738134642182631639,-1170387186198464297,7,N,333,38,11

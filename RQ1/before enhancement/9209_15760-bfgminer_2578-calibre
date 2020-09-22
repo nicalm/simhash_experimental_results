@@ -1,0 +1,10 @@
+15760-bfgminer,2578-calibre
+driver-cpu.c,lzxc.c,\driver-cpu.c,\src\calibre\utils\lzx\lzxc.c,be0f700b73a52208dd53210582876f9e,5148bebfcfad4cb4119b4e362bc0686f,-7807272267641726562,-8059473846773950244,7,N,682,1033,137
+cl_platform.h,lzxc.c,\CL\cl_platform.h,\src\calibre\utils\lzx\lzxc.c,fc86a2210e718fbcf95aabcf0efa129a,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510564,-8059473846773950244,2,N,935,1033,71
+cl_platform.h,msstdint.h,\CL\cl_platform.h,\src\calibre\utils\lzx\msstdint.h,fc86a2210e718fbcf95aabcf0efa129a,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510564,-2830794129776780644,8,N,935,138,20
+signal.in.h,lzxc.c,\lib\signal.in.h,\src\calibre\utils\lzx\lzxc.c,ab5029c765029582a72eaf9ee25fe736,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,258,1033,55
+signal.in.h,msstdint.h,\lib\signal.in.h,\src\calibre\utils\lzx\msstdint.h,ab5029c765029582a72eaf9ee25fe736,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,258,138,20
+stddef.in.h,lzxc.c,\lib\stddef.in.h,\src\calibre\utils\lzx\lzxc.c,51fb0aab8a1f88b1353623a5d3ebf080,5148bebfcfad4cb4119b4e362bc0686f,-7446702960451199844,-8059473846773950244,8,N,37,1033,13
+stdint.in.h,lzxc.c,\lib\stdint.in.h,\src\calibre\utils\lzx\lzxc.c,cae8be4f2dc822552d990c5e166b9add,5148bebfcfad4cb4119b4e362bc0686f,-8023455787174799140,-8059473846773950244,7,N,383,1033,48
+string.in.h,lzxc.c,\lib\string.in.h,\src\calibre\utils\lzx\lzxc.c,79edfbf7ab10d649596b9a9e586671ee,5148bebfcfad4cb4119b4e362bc0686f,-8023445049755510628,-8059473846773950244,3,N,697,1033,48
+string.in.h,msstdint.h,\lib\string.in.h,\src\calibre\utils\lzx\msstdint.h,79edfbf7ab10d649596b9a9e586671ee,2dacb8ee9f393a22b1266f714d3efcd6,-8023445049755510628,-2830794129776780644,7,N,697,138,20

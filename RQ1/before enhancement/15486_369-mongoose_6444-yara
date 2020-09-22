@@ -1,0 +1,3 @@
+369-mongoose,6444-yara
+ReadPreference.js,grammar.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libyara\grammar.c,72ad104b2d3e1cc34b02578eb97d2c64,306ae4ed5d0a265782bc5a130c6f342f,5440897058057271519,5730252312047818967,8,N,30,3301,9
+ReadPreference.js,pe_utils.c,\lib\drivers\node-mongodb-native\ReadPreference.js,\libyara\modules\pe\pe_utils.c,72ad104b2d3e1cc34b02578eb97d2c64,85b3b0e9639ebe8f194fd360aa44aa10,5440897058057271519,5729127442933135575,4,N,30,1795,8

@@ -1,0 +1,9 @@
+10314-ovs,12758-znc
+if_ether.h,version.h,\datapath\linux\compat\include\linux\if_ether.h,\include\znc\version.h,fc1f4670f372f80157c4aefc68f4933c,d05809c29f032c998a444139c4f0d9ce,-8023445050828728164,-8023445187195380516,8,N,30,43,8
+kernel.h,version.h,\datapath\linux\compat\include\linux\kernel.h,\include\znc\version.h,c949af02e87223fc8467925375533c17,d05809c29f032c998a444139c4f0d9ce,-8041459448264992740,-8023445187195380516,8,N,27,43,6
+netdevice.h,version.h,\datapath\linux\compat\include\linux\netdevice.h,\include\znc\version.h,c1b6717e2d6273038c4ca2cd2be0bfd0,d05809c29f032c998a444139c4f0d9ce,-8023445049756559204,-8023445187195380516,4,N,268,43,13
+netdev_features.h,version.h,\datapath\linux\compat\include\linux\netdev_features.h,\include\znc\version.h,ff940b49c844716a115163766ea51d98,d05809c29f032c998a444139c4f0d9ce,-8023445049755510756,-8023445187195380516,6,N,59,43,11
+percpu.h,version.h,\datapath\linux\compat\include\linux\percpu.h,\include\znc\version.h,8927c395ac181ef80682dd77b160b48d,d05809c29f032c998a444139c4f0d9ce,-7735214673738018660,-8023445187195380516,8,N,28,43,7
+rcupdate.h,version.h,\datapath\linux\compat\include\linux\rcupdate.h,\include\znc\version.h,ccaa13ada1ecaccffb8c9b929519ed6b,d05809c29f032c998a444139c4f0d9ce,-8023445049755502380,-8023445187195380516,6,N,31,43,8
+skbuff.h,version.h,\datapath\linux\compat\include\linux\skbuff.h,\include\znc\version.h,838f80b3119cdcc7e7f0d595f749c313,d05809c29f032c998a444139c4f0d9ce,-8023445049755510628,-8023445187195380516,5,N,352,43,11
+u64_stats_sync.h,version.h,\datapath\linux\compat\include\linux\u64_stats_sync.h,\include\znc\version.h,669907f3e0269a0496176158c9d825df,d05809c29f032c998a444139c4f0d9ce,-8023447248803800100,-8023445187195380516,8,N,78,43,13

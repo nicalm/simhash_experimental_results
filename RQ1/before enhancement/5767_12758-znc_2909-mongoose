@@ -1,0 +1,15 @@
+12758-znc,2909-mongoose
+znc.cpp,wifi.c,\src\znc.cpp,\examples\MSP432\ccs\MSP432_MG_hello\wifi.c,d5cdf0084974a39502b7410578dff912,a565f223dd5979f5fe7136237016c763,1395476652689473967,1431364162414207406,8,N,1700,108,34
+version.h,mongoose.c,\include\znc\version.h,\mongoose.c,d05809c29f032c998a444139c4f0d9ce,bb26ef6c18547f7fea15fb29572c30d7,-8023445187195380516,-7951396243220670308,8,N,43,12838,13
+version.h,mongoose.h,\include\znc\version.h,\mongoose.h,d05809c29f032c998a444139c4f0d9ce,2d0665a2e8d3cf0feb3b958a851f071d,-8023445187195380516,-8023445049755510628,5,N,43,3259,13
+version.h,mg_features.h,\include\znc\version.h,\src\mg_features.h,d05809c29f032c998a444139c4f0d9ce,f465b98573fad4b5e022cec4075e3e67,-8023445187195380516,-8023445049755510628,5,N,43,130,10
+version.h,mg_internal.h,\include\znc\version.h,\src\mg_internal.h,d05809c29f032c998a444139c4f0d9ce,9b0fe784bc56b73d4ed71b3e33b71c70,-8023445187195380516,-8023446280263640932,7,N,43,119,8
+version.h,mg_mem.h,\include\znc\version.h,\src\common\mg_mem.h,d05809c29f032c998a444139c4f0d9ce,eb1e1ae46ae1bc1797e63b3f784aef13,-8023445187195380516,1163898190080301212,7,N,43,21,7
+version.h,platform_cc3200.h,\include\znc\version.h,\src\common\platforms\platform_cc3200.h,d05809c29f032c998a444139c4f0d9ce,8e7f295bca6cc8acc9a65865b35d8fcf,-8023445187195380516,-7874826262053332740,6,N,43,85,8
+version.h,platform_cc3220.h,\include\znc\version.h,\src\common\platforms\platform_cc3220.h,d05809c29f032c998a444139c4f0d9ce,b202cca476d27303f77eeda33f1bebd7,-8023445187195380516,-7946919040467543812,8,N,43,76,8
+version.h,platform_tm4c129.h,\include\znc\version.h,\src\common\platforms\platform_tm4c129.h,d05809c29f032c998a444139c4f0d9ce,ec7a6d4ed7c352190be37dc2c31db2a1,-8023445187195380516,-8059473848926676772,7,N,43,43,9
+version.h,platform_unix.h,\include\znc\version.h,\src\common\platforms\platform_unix.h,d05809c29f032c998a444139c4f0d9ce,baebcbb3950c55896dce83ea69594fdd,-8023445187195380516,-8023445049755510628,5,N,43,111,9
+version.h,platform_wince.h,\include\znc\version.h,\src\common\platforms\platform_wince.h,d05809c29f032c998a444139c4f0d9ce,551934bdf0092886b7a2f9895977d52b,-8023445187195380516,-8023445049757607780,6,N,43,138,11
+version.h,platform_windows.h,\include\znc\version.h,\src\common\platforms\platform_windows.h,d05809c29f032c998a444139c4f0d9ce,1642514a47bfd6eb32ee42269aa3c12d,-8023445187195380516,-8023445049755510628,5,N,43,147,12
+version.h,nrf_drv_config.h,\include\znc\version.h,\examples\nRF52\http\config\nrf_drv_config.h,d05809c29f032c998a444139c4f0d9ce,73cecf83b90880bd616841c3810ace37,-8023445187195380516,-8023445049889730404,7,N,43,220,8
+version.h,mg_lwip.h,\include\znc\version.h,\src\common\platforms\lwip\mg_lwip.h,d05809c29f032c998a444139c4f0d9ce,11b79956ecf8353c59ad314eaeda883f,-8023445187195380516,-8018941450128140260,7,N,43,41,9

@@ -1,0 +1,5 @@
+2202-qBittorrent,3024-SASM
+qtlocalpeer.cpp,qtlocalpeer.cpp,\src\app\qtlocalpeer\qtlocalpeer.cpp,\singleapplication\qtlocalpeer.cpp,00a1552c6adda8f3036cfaa486dcac0f,fd403d1cba8cfe82ec305b2e7c70a2bb,-8976103354423477603,1382174963827833485,7,N,152,142,123
+qtlockedfile.cpp,qtlockedfile.cpp,\src\app\qtlocalpeer\qtlockedfile.cpp,\singleapplication\qtlockedfile.cpp,a6a5045446c4d1a686fc562fc5217923,88ab97c1ce9e50191da27c4ee56221a0,-7948579890180701796,-7948580439935958628,3,N,35,35,34
+qtlockedfile_unix.cpp,qtlockedfile_unix.cpp,\src\app\qtlocalpeer\qtlockedfile_unix.cpp,\singleapplication\qtlockedfile_unix.cpp,e68d2598a7f3015ed90511fff52e336a,abdc49f8632a2eb402044a835d9e1f8d,5688239348369044913,5688239348369044913,0,N,58,58,58
+qtlockedfile_win.cpp,qtlockedfile_win.cpp,\src\app\qtlocalpeer\qtlockedfile_win.cpp,\singleapplication\qtlockedfile_win.cpp,a217dd74a9b4be9a32e5931e37fc91fe,61effaf567d95d4a9a0859a0aeee3e5c,-3489892107869685282,-3489892176657319714,4,N,147,150,147

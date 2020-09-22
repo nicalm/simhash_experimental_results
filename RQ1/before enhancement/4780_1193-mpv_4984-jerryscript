@@ -1,0 +1,9 @@
+1193-mpv,4984-jerryscript
+io.h,config.h,\osdep\io.h,\jerry-core\config.h,1e5b614f4ca8f110251d3d969bd9fa84,1610ce5e32380b97834532a2439ffb00,-5573522037410505572,-8023445049755510628,8,N,147,338,14
+io.h,jerryscript-compiler.h,\osdep\io.h,\jerry-core\include\jerryscript-compiler.h,1e5b614f4ca8f110251d3d969bd9fa84,6dc57bc479adf16d2b42cadd27f2edd3,-5573522037410505572,-8023445049755510628,8,N,147,73,14
+io.h,lit-magic-strings.inc.h,\osdep\io.h,\jerry-core\lit\lit-magic-strings.inc.h,1e5b614f4ca8f110251d3d969bd9fa84,d156bf64086a4a370f1f54301148fe60,-5573522037410505572,-8023445049755510628,8,N,147,920,15
+io.h,js-parser-limits.h,\osdep\io.h,\jerry-core\parser\js\js-parser-limits.h,1e5b614f4ca8f110251d3d969bd9fa84,656369309984980286cea2eff0cb4741,-5573522037410505572,-8023445049755510628,8,N,147,51,14
+context.c,config.h,\video\out\gpu\context.c,\jerry-core\config.h,54249a4a32b8a7f1f708836246c0e394,1610ce5e32380b97834532a2439ffb00,-9176401463991052147,-8023445049755510628,8,N,162,338,16
+context.c,jerryscript-compiler.h,\video\out\gpu\context.c,\jerry-core\include\jerryscript-compiler.h,54249a4a32b8a7f1f708836246c0e394,6dc57bc479adf16d2b42cadd27f2edd3,-9176401463991052147,-8023445049755510628,8,N,162,73,18
+context.c,lit-magic-strings.inc.h,\video\out\gpu\context.c,\jerry-core\lit\lit-magic-strings.inc.h,54249a4a32b8a7f1f708836246c0e394,d156bf64086a4a370f1f54301148fe60,-9176401463991052147,-8023445049755510628,8,N,162,920,16
+context.c,js-parser-limits.h,\video\out\gpu\context.c,\jerry-core\parser\js\js-parser-limits.h,54249a4a32b8a7f1f708836246c0e394,656369309984980286cea2eff0cb4741,-9176401463991052147,-8023445049755510628,8,N,162,51,16

@@ -1,0 +1,12 @@
+10205-firejail,11788-fbthrift
+caps.c,thrift_config.h,\src\firejail\caps.c,\thrift\lib\cpp\thrift_config.h,0b9d72adabe6b183bf9a7948ffeb2934,27c650bbff0590e9f2fafe163b055489,-5717602040541816676,-8023445049755510628,1,N,334,220,39
+caps.c,macros.h,\src\firejail\caps.c,\thrift\lib\rb\ext\macros.h,0b9d72adabe6b183bf9a7948ffeb2934,30f9d8d804dd66b382db54f2861518aa,-5717602040541816676,-8032469861362509668,8,N,334,18,4
+sbox.c,thrift_config.h,\src\firejail\sbox.c,\thrift\lib\cpp\thrift_config.h,8a6f9f9ce42bcca368916f82519b79d6,27c650bbff0590e9f2fafe163b055489,-8024007999708931940,-8023445049755510628,1,N,190,220,22
+sbox.c,macros.h,\src\firejail\sbox.c,\thrift\lib\rb\ext\macros.h,8a6f9f9ce42bcca368916f82519b79d6,30f9d8d804dd66b382db54f2861518aa,-8024007999708931940,-8032469861362509668,8,N,190,18,4
+print.c,AsyncClientWorker2.cpp,\src\fsec-print\print.c,\thrift\perf\cpp\AsyncClientWorker2.cpp,a532e1235b05a01261ed4f8b4b722622,3ebd76a0981e9c53ea752af30db30be5,-8096923412020553513,5738134641844205783,8,N,257,387,39
+print.c,Operation.h,\src\fsec-print\print.c,\thrift\perf\cpp2\util\Operation.h,a532e1235b05a01261ed4f8b4b722622,1cf81f674cd6bb613346f9badee172d4,-8096923412020553513,-3493118691867313953,7,N,257,152,32
+syscall.c,thrift_config.h,\src\fseccomp\syscall.c,\thrift\lib\cpp\thrift_config.h,bf0ef0cc7976e59f6ac60c1a011c8188,27c650bbff0590e9f2fafe163b055489,-8023445049755510628,-8023445049755510628,0,N,1564,220,75
+syscall.c,macros.h,\src\fseccomp\syscall.c,\thrift\lib\rb\ext\macros.h,bf0ef0cc7976e59f6ac60c1a011c8188,30f9d8d804dd66b382db54f2861518aa,-8023445049755510628,-8032469861362509668,7,N,1564,18,4
+syscall.h,thrift_config.h,\src\include\syscall.h,\thrift\lib\cpp\thrift_config.h,e5d70ee64e8335903c40165f92bcb3a5,27c650bbff0590e9f2fafe163b055489,-8023445049755510628,-8023445049755510628,0,N,5186,220,75
+syscall.h,macros.h,\src\include\syscall.h,\thrift\lib\rb\ext\macros.h,e5d70ee64e8335903c40165f92bcb3a5,30f9d8d804dd66b382db54f2861518aa,-8023445049755510628,-8032469861362509668,7,N,5186,18,4
+libtrace.c,thrift_config.h,\src\libtrace\libtrace.c,\thrift\lib\cpp\thrift_config.h,e75ec9f98f403929994ba2e9b45b7b14,27c650bbff0590e9f2fafe163b055489,-7663159407438177892,-8023445049755510628,7,N,558,220,44

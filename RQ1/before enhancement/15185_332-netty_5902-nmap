@@ -1,0 +1,5 @@
+332-netty,5902-nmap
+SocksCmdRequest.java,grammar.c,\codec-socks\src\main\java\io\netty\handler\codec\socks\SocksCmdRequest.java,\libpcap\grammar.c,cd6c11dc97231f03956166b9ce5143be,9087c271bc8db72b146a0afa7f1ec070,5693098603517689047,5729127442933135575,8,N,83,2887,23
+XmlDecoder.java,ICMPv4Header.cc,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\libnetutil\ICMPv4Header.cc,19ac8fd899723cb5b1efea0f9d7dc639,1ba3b8090e552586d236e08ad00f9bed,5729694790866091155,5729127992688949463,8,N,87,767,20
+XmlDecoder.java,grammar.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\libpcap\grammar.c,19ac8fd899723cb5b1efea0f9d7dc639,9087c271bc8db72b146a0afa7f1ec070,5729694790866091155,5729127442933135575,7,N,87,2887,19
+XmlDecoder.java,pcre_fullinfo.c,\codec-xml\src\main\java\io\netty\handler\codec\xml\XmlDecoder.java,\libpcre\pcre_fullinfo.c,19ac8fd899723cb5b1efea0f9d7dc639,5c01a0db093e27c1696ba904af83d017,5729694790866091155,1117441424505747671,8,N,87,79,14

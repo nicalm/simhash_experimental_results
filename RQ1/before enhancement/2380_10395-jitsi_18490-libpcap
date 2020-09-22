@@ -1,0 +1,12 @@
+10395-jitsi,18490-libpcap
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,bpf_image.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc,\bpf_image.c,b777786e5dc2dbfda20f2e6ab1b6e3d1,99ceffd8ab29eb82c05e7820ae003afe,5729127442933135575,5450185741013137623,5,N,851,328,57
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,bpf_image.c,\src\native\globalshortcut\net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp,\bpf_image.c,463ade7b00f34e712a6606ace511d963,99ceffd8ab29eb82c05e7820ae003afe,5729127442933135575,5450185741013137623,5,N,949,328,57
+MsOutlookMAPIHResultException.cxx,bpf_image.c,\src\native\addrbook\msoutlook\MsOutlookMAPIHResultException.cxx,\bpf_image.c,f64c2586d29efbc2659a751a8b4617a9,99ceffd8ab29eb82c05e7820ae003afe,4864999265505163479,5450185741013137623,5,N,95,328,19
+lzma.h,dlpisubs.c,\src\native\windows\setup\include\lzma.h,\dlpisubs.c,4ce48c8f939c04739c2c0b8409ca662f,fb9b3610083f171abcbee18f03502c92,-8023445049755510628,-8744020990940095971,8,N,121,251,24
+lzma.h,dlpisubs.h,\src\native\windows\setup\include\lzma.h,\dlpisubs.h,4ce48c8f939c04739c2c0b8409ca662f,3fafc2e6ba3e47c661a224b92b4635b2,-8023445049755510628,-8032628242408746852,8,N,121,26,10
+lzma.h,ethertype.h,\src\native\windows\setup\include\lzma.h,\ethertype.h,4ce48c8f939c04739c2c0b8409ca662f,5246502b0d1f4ddb65891829be60f5ec,-8023445049755510628,-8023445049755510628,0,N,121,90,30
+lzma.h,fad-getad.c,\src\native\windows\setup\include\lzma.h,\fad-getad.c,4ce48c8f939c04739c2c0b8409ca662f,9c64c9481787651e104cab2074b25048,-8023445049755510628,-8023445049889728356,1,N,121,123,16
+lzma.h,llc.h,\src\native\windows\setup\include\lzma.h,\llc.h,4ce48c8f939c04739c2c0b8409ca662f,10c1e28c5565502bc994541ef75544ce,-8023445049755510628,-8023453845848565604,2,N,121,64,14
+lzma.h,nlpid.h,\src\native\windows\setup\include\lzma.h,\nlpid.h,4ce48c8f939c04739c2c0b8409ca662f,b63e6f75fb9eead35eba6d0af2aa019a,-8023445049755510628,-8000927047593178980,6,N,121,27,6
+lzma.h,pcap-dos.h,\src\native\windows\setup\include\lzma.h,\pcap-dos.h,4ce48c8f939c04739c2c0b8409ca662f,c61d652370686a7d724284128012b7b8,-8023445049755510628,-8005430668425897828,2,N,121,171,22
+lzma.h,portability.h,\src\native\windows\setup\include\lzma.h,\portability.h,4ce48c8f939c04739c2c0b8409ca662f,8986c6d4c1ff178921bc3ac8607e4b52,-8023445049755510628,-9176120264294606692,4,N,121,61,27

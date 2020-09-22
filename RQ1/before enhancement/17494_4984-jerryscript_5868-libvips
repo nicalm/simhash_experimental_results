@@ -1,0 +1,17 @@
+4984-jerryscript,5868-libvips
+config.h,buffer.c,\jerry-core\config.h,\libvips\iofuncs\buffer.c,1610ce5e32380b97834532a2439ffb00,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,338,447,22
+config.h,init.c,\jerry-core\config.h,\libvips\iofuncs\init.c,1610ce5e32380b97834532a2439ffb00,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,338,636,33
+config.h,vector.c,\jerry-core\config.h,\libvips\iofuncs\vector.c,1610ce5e32380b97834532a2439ffb00,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,338,400,38
+jerryscript-compiler.h,buffer.c,\jerry-core\include\jerryscript-compiler.h,\libvips\iofuncs\buffer.c,6dc57bc479adf16d2b42cadd27f2edd3,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,73,447,21
+jerryscript-compiler.h,init.c,\jerry-core\include\jerryscript-compiler.h,\libvips\iofuncs\init.c,6dc57bc479adf16d2b42cadd27f2edd3,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,73,636,21
+jerryscript-compiler.h,vector.c,\jerry-core\include\jerryscript-compiler.h,\libvips\iofuncs\vector.c,6dc57bc479adf16d2b42cadd27f2edd3,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,73,400,21
+jcontext.h,init.c,\jerry-core\jcontext\jcontext.h,\libvips\iofuncs\init.c,4de6c82710d6de4c90b38b2414b9953a,e400d93356240e897bbc32ba27bdcd3b,-9176367654679291684,-9176930621544019780,7,N,162,636,33
+jcontext.h,vector.c,\jerry-core\jcontext\jcontext.h,\libvips\iofuncs\vector.c,4de6c82710d6de4c90b38b2414b9953a,055954f4e165b83818f7e8bd6db904ec,-9176367654679291684,-8023484632710850404,7,N,162,400,32
+lit-magic-strings.inc.h,buffer.c,\jerry-core\lit\lit-magic-strings.inc.h,\libvips\iofuncs\buffer.c,d156bf64086a4a370f1f54301148fe60,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,920,447,22
+lit-magic-strings.inc.h,init.c,\jerry-core\lit\lit-magic-strings.inc.h,\libvips\iofuncs\init.c,d156bf64086a4a370f1f54301148fe60,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,920,636,34
+lit-magic-strings.inc.h,vector.c,\jerry-core\lit\lit-magic-strings.inc.h,\libvips\iofuncs\vector.c,d156bf64086a4a370f1f54301148fe60,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,920,400,41
+ecma-builtin-helpers-macro-defines.inc.h,vector.c,\jerry-core\ecma\builtin-objects\ecma-builtin-helpers-macro-defines.inc.h,\libvips\iofuncs\vector.c,0dde8629af7a79ff0576269e0d239a88,055954f4e165b83818f7e8bd6db904ec,-8023445084115248996,-8023484632710850404,5,N,32,400,11
+js-parser-limits.h,buffer.c,\jerry-core\parser\js\js-parser-limits.h,\libvips\iofuncs\buffer.c,656369309984980286cea2eff0cb4741,7574cb2d8655be6f6b1d83b926fa5645,-8023445049755510628,-7744230673238075236,8,N,51,447,17
+js-parser-limits.h,init.c,\jerry-core\parser\js\js-parser-limits.h,\libvips\iofuncs\init.c,656369309984980286cea2eff0cb4741,e400d93356240e897bbc32ba27bdcd3b,-8023445049755510628,-9176930621544019780,8,N,51,636,17
+js-parser-limits.h,vector.c,\jerry-core\parser\js\js-parser-limits.h,\libvips\iofuncs\vector.c,656369309984980286cea2eff0cb4741,055954f4e165b83818f7e8bd6db904ec,-8023445049755510628,-8023484632710850404,4,N,51,400,17
+js-parser.c,init.c,\jerry-core\parser\js\js-parser.c,\libvips\iofuncs\init.c,a37c1b49591f7b4e0cdbefd7e9e81be6,e400d93356240e897bbc32ba27bdcd3b,-7879893920254732130,-9176930621544019780,8,N,2081,636,128

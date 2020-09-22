@@ -1,0 +1,8 @@
+32146-js-bson,516-mongo
+promote_values_test.js,rbbirpt.h,\test\node\promote_values_test.js,\src\third_party\icu4c-57.1\source\common\rbbirpt.h,231f8f33b7f05ad974f6dedd429e3f57,b881fc123067653da8379f6964911088,6293727511001139579,6293727511001139579,0,N,329,265,78
+promote_values_test.js,uscript_props.cpp,\test\node\promote_values_test.js,\src\third_party\icu4c-57.1\source\common\uscript_props.cpp,231f8f33b7f05ad974f6dedd429e3f57,2c58287e1525563f36b0aca33c013edb,6293727511001139579,-2929644525853636229,1,N,329,237,32
+promote_values_test.js,regexcst.h,\test\node\promote_values_test.js,\src\third_party\icu4c-57.1\source\i18n\regexcst.h,231f8f33b7f05ad974f6dedd429e3f57,393c0239167895cdc98cd6e9bcc13294,6293727511001139579,6293727511001139579,0,N,329,540,96
+promote_values_test.js,stubdata.c,\test\node\promote_values_test.js,\src\third_party\icu4c-57.1\source\stubdata\stubdata.c,231f8f33b7f05ad974f6dedd429e3f57,67d4c24f2d4b3e0837f64a1a016476a7,6293727511001139579,5142987428605660539,8,N,329,38,8
+test_full_bson.js,rbbirpt.h,\test\node\test_full_bson.js,\src\third_party\icu4c-57.1\source\common\rbbirpt.h,26467473781a18f7802a6693da7b2102,b881fc123067653da8379f6964911088,6293726411422403451,6293727511001139579,3,N,614,265,78
+test_full_bson.js,uscript_props.cpp,\test\node\test_full_bson.js,\src\third_party\icu4c-57.1\source\common\uscript_props.cpp,26467473781a18f7802a6693da7b2102,2c58287e1525563f36b0aca33c013edb,6293726411422403451,-2929644525853636229,4,N,614,237,37
+test_full_bson.js,regexcst.h,\test\node\test_full_bson.js,\src\third_party\icu4c-57.1\source\i18n\regexcst.h,26467473781a18f7802a6693da7b2102,393c0239167895cdc98cd6e9bcc13294,6293726411422403451,6293727511001139579,3,N,614,540,120

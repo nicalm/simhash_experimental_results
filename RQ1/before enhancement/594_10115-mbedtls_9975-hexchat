@@ -1,0 +1,12 @@
+10115-mbedtls,9975-hexchat
+aria.c,typedef.h,\library\aria.c,\src\common\typedef.h,28a2f8446e6a22843c9e5b3cdc0187f1,ad3525a10e4064f94c5205693b6e1c78,-8032452386450253676,-8059473984749774204,7,N,807,20,7
+error.c,typedef.h,\library\error.c,\src\common\typedef.h,849c7de91da16fdfc4713dfdba4d8ae7,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,771,20,7
+version_features.c,typedef.h,\library\version_features.c,\src\common\typedef.h,eed81585b35dd4f23080e585c5dff8fe,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,749,20,7
+check_config.h,typedef.h,\include\mbedtls\check_config.h,\src\common\typedef.h,243215dc851cdbee61a27ed21a61db4e,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,529,20,6
+compat-1.3.h,typedef.h,\include\mbedtls\compat-1.3.h,\src\common\typedef.h,e466e629f4ff729bdeae1b81f1f4b361,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,2492,20,7
+ecp_internal.h,typedef.h,\include\mbedtls\ecp_internal.h,\src\common\typedef.h,b21090c304f1cccaccf3246ed495f1e4,ad3525a10e4064f94c5205693b6e1c78,-3411759031328122724,-8059473984749774204,8,N,53,20,7
+platform.h,typedef.h,\include\mbedtls\platform.h,\src\common\typedef.h,34692dfb5da8e14debc74cc2e5c30a29,ad3525a10e4064f94c5205693b6e1c78,-8023445049747122020,-8059473984749774204,8,N,176,20,7
+ssl.h,typedef.h,\include\mbedtls\ssl.h,\src\common\typedef.h,ae3be62190d970e041eb123c87b95a0f,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,873,20,7
+ssl_internal.h,typedef.h,\include\mbedtls\ssl_internal.h,\src\common\typedef.h,4ec2c593cde4ae43a0096edd8286988d,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,459,20,7
+ssl_server2.c,typedef.h,\programs\ssl\ssl_server2.c,\src\common\typedef.h,ef274a1991ecdad7ee379b251672b900,ad3525a10e4064f94c5205693b6e1c78,-7735214674140669540,-8059473984749774204,8,N,2701,20,7
+selftest.c,typedef.h,\programs\test\selftest.c,\src\common\typedef.h,25f57a8cd60f4fef074e5c32e0be6e2c,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,360,20,7

@@ -1,0 +1,6 @@
+6364-Tautulli,7408-DeepVideoAnalytics
+configobj.py,task_shared.py,\lib\configobj.py,\server\dvaapp\task_shared.py,d16c213f78792cdac094224bc76f29ec,61a9613ea8cc5bfba0befa6caaf95b1c,8474126709494251887,8581720656646111591,8,N,1323,311,31
+exceptions.py,admin.py,\lib\jwt\exceptions.py,\server\dvaapp\admin.py,d0847e435d570a4733ae168ba489349f,f0db44fda07145839decb1bbed4578ed,9217320431243134341,9217329227336156549,1,N,26,76,9
+exceptions.py,admin.py,\lib\urllib3\exceptions.py,\server\dvaapp\admin.py,25ddb32d1336bad7af00549477feb5f7,f0db44fda07145839decb1bbed4578ed,9217330326845687173,9217329227336156549,2,N,128,76,24
+etree.py,task_shared.py,\lib\html5lib\treewalkers\etree.py,\server\dvaapp\task_shared.py,a780515f48bd56e4fa0fffac53531dec,61a9613ea8cc5bfba0befa6caaf95b1c,7428745276238463335,8581720656646111591,6,N,103,311,19
+dataTables.colVis.js,dataTables.colVis.js,\data\interfaces\default\js\dataTables.colVis.js,\server\dvaapp\static\plugins\datatables\extensions\ColVis\js\dataTables.colVis.js,bc04aa391aa3bd02fc9fe3da261684dc,5c9e39b9bebb362fa7848330c61b09b8,-5803448008953290807,-5803448008953290871,1,N,558,557,556

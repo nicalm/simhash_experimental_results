@@ -1,0 +1,6 @@
+12310-weechat,8874-collectd
+wee-url.c,collectd.h,\src\core\wee-url.c,\src\daemon\collectd.h,2182536a79bada4949d9bc0483b5da6d,2b583af2ee5d68797b260dc2234a9a80,-8023445049755510628,-8023445049755510628,0,N,1111,198,55
+wee-url.c,stdendian.h,\src\core\wee-url.c,\src\libcollectdclient\collectd\stdendian.h,2182536a79bada4949d9bc0483b5da6d,098cf6af06fc9530aaf9936b14d4d802,-8023445049755510628,-8032521930559661924,5,N,1111,165,27
+wee-url.c,mount.h,\src\core\wee-url.c,\src\utils\mount\mount.h,2182536a79bada4949d9bc0483b5da6d,8535c5ea598e2c2e046efd01984ce929,-8023445049755510628,-8023445049755510628,0,N,1111,64,16
+gui-curses-term.c,collectd.h,\src\gui\curses\gui-curses-term.c,\src\daemon\collectd.h,12c6b2e5780349c1e6b15f2a0f08c5ca,2b583af2ee5d68797b260dc2234a9a80,-7447028277908808228,-8023445049755510628,7,N,23,198,9
+gui-curses-term.c,mount.h,\src\gui\curses\gui-curses-term.c,\src\utils\mount\mount.h,12c6b2e5780349c1e6b15f2a0f08c5ca,8535c5ea598e2c2e046efd01984ce929,-7447028277908808228,-8023445049755510628,7,N,23,64,5

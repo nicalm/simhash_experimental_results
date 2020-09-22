@@ -1,0 +1,4 @@
+1460-iTerm2,1930-SwifterSwift
+ini.h,CGColorExtensions.swift,\ThirdParty\inih\ini.h,\Sources\SwifterSwift\CoreGraphics\CGColorExtensions.swift,3cf89cb2c107d2c3cb0a3bf2fcf603a1,13a384d167268ac57b0c34b9cb13ed0f,-8023445049755510564,1189793885789145236,8,N,57,21,6
+ini.h,NSAttributedStringExtensions.swift,\ThirdParty\inih\ini.h,\Sources\SwifterSwift\Foundation\NSAttributedStringExtensions.swift,3cf89cb2c107d2c3cb0a3bf2fcf603a1,682db1376e5e9e45d24a9e1b1ad3e9f8,-8023445049755510564,-9174114755220842340,7,N,57,87,12
+ini.h,StringExtensions.swift,\ThirdParty\inih\ini.h,\Sources\SwifterSwift\SwiftStdlib\StringExtensions.swift,3cf89cb2c107d2c3cb0a3bf2fcf603a1,d53332d341abeff92e3d2d2ce16a4d0a,-8023445049755510564,-3051550226512422756,8,N,57,650,17

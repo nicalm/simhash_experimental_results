@@ -1,0 +1,5 @@
+12310-weechat,1460-iTerm2
+wee-url.c,ini.h,\src\core\wee-url.c,\ThirdParty\inih\ini.h,2182536a79bada4949d9bc0483b5da6d,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049755510628,-8023445049755510564,1,N,1111,57,18
+wee-url.c,BetterFontPicker-Swift.h,\src\core\wee-url.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,2182536a79bada4949d9bc0483b5da6d,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049755510628,-8023479959251789668,3,N,1111,335,47
+gui-curses-term.c,ini.h,\src\gui\curses\gui-curses-term.c,\ThirdParty\inih\ini.h,12c6b2e5780349c1e6b15f2a0f08c5ca,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-7447028277908808228,-8023445049755510564,6,N,23,57,7
+gui-curses-term.c,BetterFontPicker-Swift.h,\src\gui\curses\gui-curses-term.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,12c6b2e5780349c1e6b15f2a0f08c5ca,9cdfc1f6cb7907e29a4e6b2cf0041946,-7447028277908808228,-8023479959251789668,8,N,23,335,8

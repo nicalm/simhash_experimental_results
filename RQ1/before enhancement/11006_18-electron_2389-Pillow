@@ -1,0 +1,7 @@
+18-electron,2389-Pillow
+atom_main_delegate.cc,ImPlatform.h,\shell\app\atom_main_delegate.cc,\src\libImaging\ImPlatform.h,6beb16be6a739f5598d443a18a5cbaa6,6670b4584189b95bdcaaa198dabbf5c8,-4997025687846725476,-8024570949662353252,7,N,249,58,14
+atom_browser_main_parts.cc,ImPlatform.h,\shell\browser\atom_browser_main_parts.cc,\src\libImaging\ImPlatform.h,4312360427f5f392ec4f692be2a7319a,6670b4584189b95bdcaaa198dabbf5c8,-8023445187194455912,-8024570949662353252,4,N,375,58,13
+atom_paths.h,ImPlatform.h,\shell\browser\atom_paths.h,\src\libImaging\ImPlatform.h,f62403bf230108c707f5e1273fdb321d,6670b4584189b95bdcaaa198dabbf5c8,-8023471436960835427,-8024570949662353252,5,N,33,58,7
+atom_constants.h,ImPlatform.h,\shell\common\atom_constants.h,\src\libImaging\ImPlatform.h,0413d754caa4e4d0755670d11164282c,6670b4584189b95bdcaaa198dabbf5c8,-9176368753659307892,-8024570949662353252,8,N,31,58,4
+renderer_client_base.cc,ImPlatform.h,\shell\renderer\renderer_client_base.cc,\src\libImaging\ImPlatform.h,d0d5771f27ecde6d75b1cf2555ca2003,6670b4584189b95bdcaaa198dabbf5c8,-8023449518660068932,-8024570949662353252,8,N,308,58,13
+linux_syscall_support.h,ImPlatform.h,\vendor\third_party\lss\linux_syscall_support.h,\src\libImaging\ImPlatform.h,d7c4a715ebced0be3633fcfd349a02ff,6670b4584189b95bdcaaa198dabbf5c8,-8023445049755510628,-8024570949662353252,1,N,3833,58,15

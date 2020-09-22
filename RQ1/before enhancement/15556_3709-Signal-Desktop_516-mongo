@@ -1,0 +1,4 @@
+3709-Signal-Desktop,516-mongo
+libsignal-protocol-worker.js,Decoder-vixl.cpp,\js\libsignal-protocol-worker.js,\src\third_party\mozjs-60\extract\js\src\jit\arm64\vixl\Decoder-vixl.cpp,1b60b9c1aef83bf1b667be88e9368938,575ab6cb592c36f7c4a5a4c59fb66db5,2287181679194661566,2305183020990710462,8,N,23757,744,281
+Mp3LameEncoder.min.js,ucnv_u16.c,\js\Mp3LameEncoder.min.js,\src\third_party\icu4c-57.1\source\common\ucnv_u16.c,0997e68d893d6fb7c0130871cc3a8307,ff5e1e0590624e5a85354690ad1e4e66,2300675023497110206,1688185336719049150,8,N,44839,1166,276
+Mp3LameEncoder.js,ucnv_u16.c,\components\mp3lameencoder\lib\Mp3LameEncoder.js,\src\third_party\icu4c-57.1\source\common\ucnv_u16.c,0997e68d893d6fb7c0130871cc3a8307,ff5e1e0590624e5a85354690ad1e4e66,2300675023497110206,1688185336719049150,8,N,44839,1166,276

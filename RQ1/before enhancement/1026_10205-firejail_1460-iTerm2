@@ -1,0 +1,10 @@
+10205-firejail,1460-iTerm2
+caps.c,ini.h,\src\firejail\caps.c,\ThirdParty\inih\ini.h,0b9d72adabe6b183bf9a7948ffeb2934,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-5717602040541816676,-8023445049755510564,2,N,334,57,17
+caps.c,BetterFontPicker-Swift.h,\src\firejail\caps.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,0b9d72adabe6b183bf9a7948ffeb2934,9cdfc1f6cb7907e29a4e6b2cf0041946,-5717602040541816676,-8023479959251789668,4,N,334,335,43
+sbox.c,ini.h,\src\firejail\sbox.c,\ThirdParty\inih\ini.h,8a6f9f9ce42bcca368916f82519b79d6,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8024007999708931940,-8023445049755510564,2,N,190,57,16
+sbox.c,BetterFontPicker-Swift.h,\src\firejail\sbox.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,8a6f9f9ce42bcca368916f82519b79d6,9cdfc1f6cb7907e29a4e6b2cf0041946,-8024007999708931940,-8023479959251789668,4,N,190,335,23
+syscall.c,ini.h,\src\fseccomp\syscall.c,\ThirdParty\inih\ini.h,bf0ef0cc7976e59f6ac60c1a011c8188,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049755510628,-8023445049755510564,1,N,1564,57,17
+syscall.c,BetterFontPicker-Swift.h,\src\fseccomp\syscall.c,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,bf0ef0cc7976e59f6ac60c1a011c8188,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049755510628,-8023479959251789668,3,N,1564,335,46
+syscall.h,ini.h,\src\include\syscall.h,\ThirdParty\inih\ini.h,e5d70ee64e8335903c40165f92bcb3a5,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-8023445049755510628,-8023445049755510564,1,N,5186,57,15
+syscall.h,BetterFontPicker-Swift.h,\src\include\syscall.h,\BetterFontPicker\BetterFontPicker.framework\Versions\A\Headers\BetterFontPicker-Swift.h,e5d70ee64e8335903c40165f92bcb3a5,9cdfc1f6cb7907e29a4e6b2cf0041946,-8023445049755510628,-8023479959251789668,3,N,5186,335,45
+libtrace.c,ini.h,\src\libtrace\libtrace.c,\ThirdParty\inih\ini.h,e75ec9f98f403929994ba2e9b45b7b14,3cf89cb2c107d2c3cb0a3bf2fcf603a1,-7663159407438177892,-8023445049755510564,8,N,558,57,17

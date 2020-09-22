@@ -1,0 +1,12 @@
+12310-weechat,91-bitcoin
+wee-url.c,attributes.h,\src\core\wee-url.c,\src\attributes.h,2182536a79bada4949d9bc0483b5da6d,1d61566702a36bfdc0abbfcd3b918b11,-8023445049755510628,-8023445049755378532,2,N,1111,15,6
+wee-url.c,compat.h,\src\core\wee-url.c,\src\compat.h,2182536a79bada4949d9bc0483b5da6d,e406a80a1784994699c1b4a1bc6005d3,-8023445049755510628,-8023445187194464104,2,N,1111,87,18
+wee-url.c,randomenv.cpp,\src\core\wee-url.c,\src\randomenv.cpp,2182536a79bada4949d9bc0483b5da6d,8eefeb3e04f7f52be719a9efdd732606,-8023445049755510628,-8023445049755510628,0,N,1111,439,112
+wee-url.c,byteswap.h,\src\core\wee-url.c,\src\compat\byteswap.h,2182536a79bada4949d9bc0483b5da6d,88acd785d1d6b57506d4fdd472a4a790,-8023445049755510628,-7744221872858473316,4,N,1111,43,14
+wee-url.c,endian.h,\src\core\wee-url.c,\src\compat\endian.h,2182536a79bada4949d9bc0483b5da6d,5c16422e6448c8f31356121158773761,-8023445049755510628,-8023445049755510628,0,N,1111,198,90
+wee-url.c,port_posix.h,\src\core\wee-url.c,\src\leveldb\port\port_posix.h,2182536a79bada4949d9bc0483b5da6d,19a3c705798d84488cb4a2943d225851,-8023445049755510628,-8032804092731434340,7,N,1111,123,22
+wee-url.c,thread_annotations.h,\src\core\wee-url.c,\src\leveldb\port\thread_annotations.h,2182536a79bada4949d9bc0483b5da6d,af9eee1ca47192126580ea56af3a4865,-8023445049755510628,-8023445049755510628,0,N,1111,39,13
+gui-curses-term.c,attributes.h,\src\gui\curses\gui-curses-term.c,\src\attributes.h,12c6b2e5780349c1e6b15f2a0f08c5ca,1d61566702a36bfdc0abbfcd3b918b11,-7447028277908808228,-8023445049755378532,7,N,23,15,6
+gui-curses-term.c,randomenv.cpp,\src\gui\curses\gui-curses-term.c,\src\randomenv.cpp,12c6b2e5780349c1e6b15f2a0f08c5ca,8eefeb3e04f7f52be719a9efdd732606,-7447028277908808228,-8023445049755510628,7,N,23,439,10
+gui-curses-term.c,endian.h,\src\gui\curses\gui-curses-term.c,\src\compat\endian.h,12c6b2e5780349c1e6b15f2a0f08c5ca,5c16422e6448c8f31356121158773761,-7447028277908808228,-8023445049755510628,7,N,23,198,8
+gui-curses-term.c,thread_annotations.h,\src\gui\curses\gui-curses-term.c,\src\leveldb\port\thread_annotations.h,12c6b2e5780349c1e6b15f2a0f08c5ca,af9eee1ca47192126580ea56af3a4865,-7447028277908808228,-8023445049755510628,7,N,23,39,5

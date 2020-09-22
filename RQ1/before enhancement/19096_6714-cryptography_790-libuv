@@ -1,0 +1,3 @@
+6714-cryptography,790-libuv
+osrandom_engine.h,linux-syscalls.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\unix\linux-syscalls.c,5faed825e57102494d64f41f67417150,e03aa3ff0bab5e21466ddb93bc58c23e,-9176392388590904164,-8023444499991568996,6,N,80,292,16
+osrandom_engine.h,winapi.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\win\winapi.h,5faed825e57102494d64f41f67417150,4f2f56dcce5d652768e5e4cfcf6661be,-9176392388590904164,-8023445049755510628,7,N,80,3569,13

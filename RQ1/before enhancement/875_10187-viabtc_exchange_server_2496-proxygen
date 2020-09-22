@@ -1,0 +1,6 @@
+10187-viabtc_exchange_server,2496-proxygen
+http_parser.c,http_parser_cpp.cpp,\utils\http_parser.c,\proxygen\external\http_parser\http_parser_cpp.cpp,d09d117e8f6d43dee97217c802830c00,3f30cfe00a1b12b06b5ae798a28cbb38,5728845967956424919,5728846517712238791,2,N,1850,1837,1276
+http_parser.c,HQUnidirectionalCodec.cpp,\utils\http_parser.c,\proxygen\lib\http\codec\HQUnidirectionalCodec.cpp,d09d117e8f6d43dee97217c802830c00,c63a9db88da250e117ed0176a07b164b,5728845967956424919,6901435530118478039,7,N,1850,40,14
+http_parser.c,HTTPEvent.cpp,\utils\http_parser.c,\proxygen\lib\http\session\HTTPEvent.cpp,d09d117e8f6d43dee97217c802830c00,f531f441ddbf402ce38379a73fb55e94,5728845967956424919,5729127442933135573,2,N,1850,33,11
+http_parser.c,HTTPTransactionEgressSM.cpp,\utils\http_parser.c,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,d09d117e8f6d43dee97217c802830c00,efc78e843307fbae0fa015e7df0a883b,5728845967956424919,5729127442933135575,1,N,1850,102,25
+http_parser.c,HTTPTransactionIngressSM.cpp,\utils\http_parser.c,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,d09d117e8f6d43dee97217c802830c00,da1ef343309f9dc24e096acd73b993d0,5728845967956424919,5729127442933135575,1,N,1850,110,28

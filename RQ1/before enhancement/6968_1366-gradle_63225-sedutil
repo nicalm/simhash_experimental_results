@@ -1,0 +1,2 @@
+1366-gradle,63225-sedutil
+GradleModuleMetadataParser.java,sedutil.cpp,\subprojects\dependency-management\src\main\java\org\gradle\api\internal\artifacts\ivyservice\ivyresolve\parser\GradleModuleMetadataParser.java,\Common\sedutil.cpp,73716c770f089fa732a0b2ac81bfe437,d52e516d82c7919c579e6283c901df60,-3476265378978940713,5693098645914171606,7,N,607,243,49

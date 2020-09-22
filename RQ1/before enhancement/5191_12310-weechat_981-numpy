@@ -1,0 +1,4 @@
+12310-weechat,981-numpy
+wee-url.c,npy_common.h,\src\core\wee-url.c,\numpy\core\include\numpy\npy_common.h,2182536a79bada4949d9bc0483b5da6d,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,1111,951,92
+gui-curses-term.c,npy_common.h,\src\gui\curses\gui-curses-term.c,\numpy\core\include\numpy\npy_common.h,12c6b2e5780349c1e6b15f2a0f08c5ca,a173a9479ba36f92005f6b19e1c98ca6,-7447028277908808228,-8023445066935379812,8,N,23,951,8
+irc-info.c,methods.c,\src\plugins\irc\irc-info.c,\numpy\core\src\multiarray\methods.c,136ffd7712d2b0cd68a4bcf1bdc3c855,6f66d59d755cea7cd1422406f6482716,-4303528094029250580,-4294591263518696722,6,N,955,2450,258

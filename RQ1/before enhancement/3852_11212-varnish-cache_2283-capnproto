@@ -1,0 +1,5 @@
+11212-varnish-cache,2283-capnproto
+gzguts.h,miniposix.h,\lib\libvgz\gzguts.h,\c++\src\kj\miniposix.h,7127325d12a1c60eed486f9681b3a149,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,157,84,20
+zconf.h,miniposix.h,\lib\libvgz\zconf.h,\c++\src\kj\miniposix.h,ca00915f6353095e76b1240157dc32b6,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,431,84,19
+zutil.c,miniposix.h,\lib\libvgz\zutil.c,\c++\src\kj\miniposix.h,80cacf0c2fdd6f41f0562b27c2041b64,43597d9a9103c02dbbe46d2c58ecc748,-8023445049754986340,-7455991496707810916,6,N,247,84,25
+zutil.h,miniposix.h,\lib\libvgz\zutil.h,\c++\src\kj\miniposix.h,af5aab860ef07102ffcf6fab7fd2e544,43597d9a9103c02dbbe46d2c58ecc748,-8023445049755510628,-7455991496707810916,5,N,196,84,16

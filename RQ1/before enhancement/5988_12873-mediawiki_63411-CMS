@@ -1,0 +1,7 @@
+12873-mediawiki,63411-CMS
+jsminplus.php,JSMinPlus.php,\includes\libs\jsminplus.php,\iu-resources\min\lib\JSMinPlus.php,0b1af14de85a9e3616290bef586fd92f,ada381ab05cfa7307d75a5e154803be9,5736714075312240855,5735588175405398231,1,N,1707,1637,1624
+LogFormatter.php,JSMinPlus.php,\includes\logging\LogFormatter.php,\iu-resources\min\lib\JSMinPlus.php,1a5b87b8ddd192cf448a8d7e785d9d75,ada381ab05cfa7307d75a5e154803be9,5729127442933127383,5735588175405398231,8,N,551,1637,145
+FormatMetadata.php,JSMinPlus.php,\includes\media\FormatMetadata.php,\iu-resources\min\lib\JSMinPlus.php,d4c424b998a37738addfaa8660b2d286,ada381ab05cfa7307d75a5e154803be9,5729109850747091159,5735588175405398231,6,N,1326,1637,250
+IPTC.php,JSMinPlus.php,\includes\media\IPTC.php,\iu-resources\min\lib\JSMinPlus.php,5acd3160fef09ca8547c657db582b971,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,377,1637,112
+bench_if_switch.php,JSMinPlus.php,\maintenance\benchmarks\bench_if_switch.php,\iu-resources\min\lib\JSMinPlus.php,ebc9d6c5664eaffdc591b48a194dced3,ada381ab05cfa7307d75a5e154803be9,5729127442933135575,5735588175405398231,7,N,73,1637,24
+ga.js,JSMinPlus.php,\resources\lib\jquery.i18n\src\languages\ga.js,\iu-resources\min\lib\JSMinPlus.php,7427a3d627903337481ce4a93b84ae3c,ada381ab05cfa7307d75a5e154803be9,5753615765906950359,5735588175405398231,7,N,33,1637,10

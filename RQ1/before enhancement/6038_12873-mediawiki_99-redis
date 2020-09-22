@@ -1,0 +1,10 @@
+12873-mediawiki,99-redis
+LogFormatter.php,lcode.c,\includes\logging\LogFormatter.php,\deps\lua\src\lcode.c,1a5b87b8ddd192cf448a8d7e785d9d75,88d0dd892548a70000726db2173a48ce,5729127442933127383,5152675763748124759,6,N,551,691,123
+FormatMetadata.php,lcode.c,\includes\media\FormatMetadata.php,\deps\lua\src\lcode.c,d4c424b998a37738addfaa8660b2d286,88d0dd892548a70000726db2173a48ce,5729109850747091159,5152675763748124759,6,N,1326,691,178
+IPTC.php,lcode.c,\includes\media\IPTC.php,\deps\lua\src\lcode.c,5acd3160fef09ca8547c657db582b971,88d0dd892548a70000726db2173a48ce,5729127442933135575,5152675763748124759,5,N,377,691,74
+IPTC.php,print.c,\includes\media\IPTC.php,\deps\lua\src\print.c,5acd3160fef09ca8547c657db582b971,95f3ba0215f1ba441482019ee36c16e0,5729127442933135575,5693098628332108503,8,N,377,208,38
+ExtensionDependencyError.php,lcode.c,\includes\registration\ExtensionDependencyError.php,\deps\lua\src\lcode.c,f7bb90c1ca9716b4c4e940b5871755aa,88d0dd892548a70000726db2173a48ce,5729126334831573079,5152675763748124759,6,N,44,691,12
+LanguageGa.php,lcode.c,\languages\classes\LanguageGa.php,\deps\lua\src\lcode.c,04d0499b9cc1cedee645951038d7a892,88d0dd892548a70000726db2173a48ce,5152671088609114359,5152675763748124759,7,N,36,691,12
+bench_if_switch.php,lcode.c,\maintenance\benchmarks\bench_if_switch.php,\deps\lua\src\lcode.c,ebc9d6c5664eaffdc591b48a194dced3,88d0dd892548a70000726db2173a48ce,5729127442933135575,5152675763748124759,5,N,73,691,22
+bench_if_switch.php,print.c,\maintenance\benchmarks\bench_if_switch.php,\deps\lua\src\print.c,ebc9d6c5664eaffdc591b48a194dced3,95f3ba0215f1ba441482019ee36c16e0,5729127442933135575,5693098628332108503,8,N,73,208,23
+custom_tags.rb,generate-command-help.rb,\maintenance\jsduck\custom_tags.rb,\utils\generate-command-help.rb,533a7d8b509a9868f75de1caede200df,4c431b264d1f88634f819373e4520d1e,-6038669577062238678,-7173576683160661342,8,N,82,93,10

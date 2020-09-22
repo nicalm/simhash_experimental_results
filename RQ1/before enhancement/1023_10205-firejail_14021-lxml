@@ -1,0 +1,6 @@
+10205-firejail,14021-lxml
+caps.c,etree_defs.h,\src\firejail\caps.c,\src\lxml\includes\etree_defs.h,0b9d72adabe6b183bf9a7948ffeb2934,77e60df86f933a8497d9a006ac09a2c9,-5717602040541816676,-8023482433217963876,4,N,334,319,48
+sbox.c,etree_defs.h,\src\firejail\sbox.c,\src\lxml\includes\etree_defs.h,8a6f9f9ce42bcca368916f82519b79d6,77e60df86f933a8497d9a006ac09a2c9,-8024007999708931940,-8023482433217963876,4,N,190,319,34
+syscall.c,etree_defs.h,\src\fseccomp\syscall.c,\src\lxml\includes\etree_defs.h,bf0ef0cc7976e59f6ac60c1a011c8188,77e60df86f933a8497d9a006ac09a2c9,-8023445049755510628,-8023482433217963876,3,N,1564,319,47
+syscall.h,etree_defs.h,\src\include\syscall.h,\src\lxml\includes\etree_defs.h,e5d70ee64e8335903c40165f92bcb3a5,77e60df86f933a8497d9a006ac09a2c9,-8023445049755510628,-8023482433217963876,3,N,5186,319,35
+libtrace.c,etree_defs.h,\src\libtrace\libtrace.c,\src\lxml\includes\etree_defs.h,e75ec9f98f403929994ba2e9b45b7b14,77e60df86f933a8497d9a006ac09a2c9,-7663159407438177892,-8023482433217963876,8,N,558,319,47

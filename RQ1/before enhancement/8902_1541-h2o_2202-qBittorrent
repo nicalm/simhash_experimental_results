@@ -1,0 +1,17 @@
+1541-h2o,2202-qBittorrent
+fmacros.h,application.cpp,\deps\hiredis\fmacros.h,\src\app\application.cpp,9d6fd32f84c9d0377076a4587579ec51,1769f1c34b2b51e4c126498e3a0b5a58,-8023515419036559204,-7445858400229599076,5,N,20,573,7
+fmacros.h,main.cpp,\deps\hiredis\fmacros.h,\src\app\main.cpp,9d6fd32f84c9d0377076a4587579ec51,0ab876c235d091cc9321f5b26945d353,-8023515419036559204,-8023445118508476260,5,N,20,324,7
+logconf.c,proplistdelegate.cpp,\lib\core\logconf.c,\src\gui\properties\proplistdelegate.cpp,938552448ad917655fb38241a71d87b8,4de60f6b36141f92c2bc5ba3d77471db,5693098645914163415,-3494526068898088747,6,N,766,172,50
+mrbconf.h,application.cpp,\deps\mruby\include\mrbconf.h,\src\app\application.cpp,b30b9460d209b1cc68a61c5604bdd5a1,1769f1c34b2b51e4c126498e3a0b5a58,-8023445049755510628,-7445858400229599076,5,N,43,573,15
+mrbconf.h,main.cpp,\deps\mruby\include\mrbconf.h,\src\app\main.cpp,b30b9460d209b1cc68a61c5604bdd5a1,0ab876c235d091cc9321f5b26945d353,-8023445049755510628,-8023445118508476260,3,N,43,324,15
+mrbconf.h,mainwindow.cpp,\deps\mruby\include\mrbconf.h,\src\gui\mainwindow.cpp,b30b9460d209b1cc68a61c5604bdd5a1,5cd96cef67869a501be59f5996fcb554,-8023445049755510628,-9032396158224000868,8,N,43,1634,15
+mruby.h,application.cpp,\deps\mruby\include\mruby.h,\src\app\application.cpp,919df8d515b52adcdfa92f19037768c8,1769f1c34b2b51e4c126498e3a0b5a58,-9176366554362357572,-7445858400229599076,7,N,440,573,46
+mruby.h,main.cpp,\deps\mruby\include\mruby.h,\src\app\main.cpp,919df8d515b52adcdfa92f19037768c8,0ab876c235d091cc9321f5b26945d353,-9176366554362357572,-8023445118508476260,5,N,440,324,49
+mruby.h,mainwindow.cpp,\deps\mruby\include\mruby.h,\src\gui\mainwindow.cpp,919df8d515b52adcdfa92f19037768c8,5cd96cef67869a501be59f5996fcb554,-9176366554362357572,-9032396158224000868,8,N,440,1634,48
+codedump.c,session.cpp,\deps\mruby\src\codedump.c,\src\base\bittorrent\session.cpp,7fda31add2a50b1a066d625a7cb020c0,ca3fc73b6732798b8724618e8c3fec27,5729127442933135575,6881978578661030105,8,N,525,3742,117
+codedump.c,proplistdelegate.cpp,\deps\mruby\src\codedump.c,\src\gui\properties\proplistdelegate.cpp,7fda31add2a50b1a066d625a7cb020c0,4de60f6b36141f92c2bc5ba3d77471db,5729127442933135575,-3494526068898088747,4,N,525,172,51
+port.h,main.cpp,\deps\brotli\c\dec\port.h,\src\app\main.cpp,40b2fd74ac0fb05b9b3137ca6adfdec5,0ab876c235d091cc9321f5b26945d353,-8023163576927266084,-8023445118508476260,7,N,121,324,32
+types.h,main.cpp,\deps\picotls\deps\micro-ecc\types.h,\src\app\main.cpp,d0ccddb6a5d5d18dbed2dc07299a4b3d,0ab876c235d091cc9321f5b26945d353,-8023445049757607011,-8023445118508476260,7,N,87,324,17
+uECC.h,application.cpp,\deps\picotls\deps\micro-ecc\uECC.h,\src\app\application.cpp,e777f21ea5ae63708919f7e3ba1592f7,1769f1c34b2b51e4c126498e3a0b5a58,1199926987099265180,-7445858400229599076,6,N,105,573,20
+uECC.h,main.cpp,\deps\picotls\deps\micro-ecc\uECC.h,\src\app\main.cpp,e777f21ea5ae63708919f7e3ba1592f7,0ab876c235d091cc9321f5b26945d353,1199926987099265180,-8023445118508476260,4,N,105,324,20
+wincompat.h,main.cpp,\deps\picotls\picotlsvs\picotls\wincompat.h,\src\app\main.cpp,7c4e1724c3a0beeaea1e4c416d606c60,0ab876c235d091cc9321f5b26945d353,-8041318848215590756,-8023445118508476260,8,N,28,324,8

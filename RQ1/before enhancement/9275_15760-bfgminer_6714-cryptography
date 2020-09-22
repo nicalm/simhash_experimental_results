@@ -1,0 +1,4 @@
+15760-bfgminer,6714-cryptography
+cl_platform.h,osrandom_engine.h,\CL\cl_platform.h,\src\_cffi_src\openssl\src\osrandom_engine.h,fc86a2210e718fbcf95aabcf0efa129a,5faed825e57102494d64f41f67417150,-8023445049755510564,-9176392388590904164,8,N,935,80,15
+signal.in.h,osrandom_engine.h,\lib\signal.in.h,\src\_cffi_src\openssl\src\osrandom_engine.h,ab5029c765029582a72eaf9ee25fe736,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,258,80,15
+string.in.h,osrandom_engine.h,\lib\string.in.h,\src\_cffi_src\openssl\src\osrandom_engine.h,79edfbf7ab10d649596b9a9e586671ee,5faed825e57102494d64f41f67417150,-8023445049755510628,-9176392388590904164,7,N,697,80,14

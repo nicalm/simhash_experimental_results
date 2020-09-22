@@ -1,0 +1,3 @@
+32146-js-bson,6773-server
+promote_values_test.js,groongaql.c,\test\node\promote_values_test.js,\storage\mroonga\vendor\groonga\bindings\python\ql\groongaql.c,231f8f33b7f05ad974f6dedd429e3f57,948a478c90608e7150ad1d2b49bf9a2c,6293727511001139579,6293727528717879679,3,N,329,297,32
+test_full_bson.js,groongaql.c,\test\node\test_full_bson.js,\storage\mroonga\vendor\groonga\bindings\python\ql\groongaql.c,26467473781a18f7802a6693da7b2102,948a478c90608e7150ad1d2b49bf9a2c,6293726411422403451,6293727528717879679,6,N,614,297,38

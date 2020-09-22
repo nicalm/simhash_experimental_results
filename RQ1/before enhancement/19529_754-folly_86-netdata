@@ -1,0 +1,8 @@
+754-folly,86-netdata
+CPortability.h,libnetdata.h,\folly\CPortability.h,\libnetdata\libnetdata.h,2071cc58e111b1fb40fa47a9161f5356,b36073eea8dc836d3f37e426aebdabda,-8023445049756493156,-8023445049755510628,3,N,137,248,41
+Portability.h,libnetdata.h,\folly\Portability.h,\libnetdata\libnetdata.h,4a7decd5a24ba7fccd761801e3ef4412,b36073eea8dc836d3f37e426aebdabda,-7447019619264177960,-8023445049755510628,6,N,392,248,45
+Config.h,libnetdata.h,\folly\portability\Config.h,\libnetdata\libnetdata.h,a5be13d038f6f1ed74f7f738d2c00e52,b36073eea8dc836d3f37e426aebdabda,-9171865188386433004,-8023445049755510628,8,N,16,248,5
+Stdlib.h,libnetdata.h,\folly\portability\Stdlib.h,\libnetdata\libnetdata.h,9adbc370aa00b92c0cbb5c0cf514b964,b36073eea8dc836d3f37e426aebdabda,-8028512836321486692,-8023445049755510628,7,N,31,248,8
+SysUio.h,libnetdata.h,\folly\portability\SysUio.h,\libnetdata\libnetdata.h,fd0233f243af7c24827c966c225b6eda,b36073eea8dc836d3f37e426aebdabda,-7744256783963336548,-8023445049755510628,8,N,21,248,5
+Windows.h,libnetdata.h,\folly\portability\Windows.h,\libnetdata\libnetdata.h,8d255d6eb746df0dd20db480cd3643e5,b36073eea8dc836d3f37e426aebdabda,-8023516518011316068,-8023445049755510628,2,N,48,248,13
+EventFDWrapper.h,libnetdata.h,\folly\io\async\EventFDWrapper.h,\libnetdata\libnetdata.h,442338be25f54c06750d74e9063379f7,b36073eea8dc836d3f37e426aebdabda,-8455834319570281315,-8023445049755510628,8,N,32,248,10

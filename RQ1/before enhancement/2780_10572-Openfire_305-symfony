@@ -1,0 +1,4 @@
+10572-Openfire,305-symfony
+ProfiledConnection.java,IpValidator.php,\xmppserver\src\main\java\org\jivesoftware\database\ProfiledConnection.java,\src\Symfony\Component\Validator\Constraints\IpValidator.php,82b3cca56b0b2195d9beda1ef5898c9c,7ca48c5d09328c72e03da3c6a432f9bf,5747704796764879063,5746860357875939543,7,N,828,69,24
+GroupEventDispatcher.java,IpValidator.php,\xmppserver\src\main\java\org\jivesoftware\openfire\event\GroupEventDispatcher.java,\src\Symfony\Component\Validator\Constraints\IpValidator.php,68bd878d44b313df2afdd340fe0c0022,7ca48c5d09328c72e03da3c6a432f9bf,8016956053561850069,5746860357875939543,8,N,73,69,17
+PubSubEngine.java,CheckTypeDeclarationsPass.php,\xmppserver\src\main\java\org\jivesoftware\openfire\pubsub\PubSubEngine.java,\src\Symfony\Component\DependencyInjection\Compiler\CheckTypeDeclarationsPass.php,56deeab6307179a3ce3786db9ed37f70,7e16454f202d40466277e58f455ab962,3841896259408759153,3841579589309827441,7,N,1495,160,64

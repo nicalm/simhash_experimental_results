@@ -1,0 +1,5 @@
+7025-Stellar,7408-DeepVideoAnalytics
+Stellar-Swift.h,bbox.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\repos\tf_ctpn_cpu\lib\utils\bbox.c,fafe37ab4771e0a9586e17224fcc7041,b42f28bb593ba51126ab3c36f2280e44,-7743940123003924324,-7735003018152322916,6,N,231,5912,39
+Stellar-Swift.h,cython_nms.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\repos\tf_ctpn_cpu\lib\utils\cython_nms.c,fafe37ab4771e0a9586e17224fcc7041,340c61e73ba74d7820ff458fae32d716,-7743940123003924324,-7735003018152322916,6,N,231,6623,39
+Stellar-Swift.h,gpu_nms.c,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.c,fafe37ab4771e0a9586e17224fcc7041,c5f744cc55310f8443ffae08bc289c17,-7743940123003924324,-7735003018152322916,6,N,231,5655,39
+Stellar-Swift.h,gpu_nms.cpp,\Carthage\Build\iOS\Stellar.framework\Headers\Stellar-Swift.h,\repos\tf_ctpn_cpu\lib\utils\gpu_nms.cpp,fafe37ab4771e0a9586e17224fcc7041,2472408016d358310deb015143185fa8,-7743940123003924324,-7590887830068078436,8,N,231,4948,39

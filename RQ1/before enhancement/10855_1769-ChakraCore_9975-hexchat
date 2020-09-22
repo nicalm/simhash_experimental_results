@@ -1,0 +1,16 @@
+1769-ChakraCore,9975-hexchat
+CommonDefines.h,typedef.h,\lib\Common\CommonDefines.h,\src\common\typedef.h,94dda97967756f3e4af314dd717cd2f1,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,553,20,7
+ConfigFlagsList.h,typedef.h,\lib\Common\ConfigFlagsList.h,\src\common\typedef.h,e85737ac2ccfcd8e168037e23dffb9ee,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1495,20,7
+JsrtHelper.cpp,typedef.h,\lib\Jsrt\JsrtHelper.cpp,\src\common\typedef.h,bda890d16869390e2bdd2ad51d5de463,ad3525a10e4064f94c5205693b6e1c78,-8023445050294478692,-8059473984749774204,7,N,147,20,6
+idiom.h,typedef.h,\lib\Parser\idiom.h,\src\common\typedef.h,7b3229e0a8e52a82c1f0d043b863c8b0,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,78,20,6
+LargeHeapBlock.cpp,typedef.h,\lib\Common\Memory\LargeHeapBlock.cpp,\src\common\typedef.h,c0c76b262719096947c4961d9444f18d,ad3525a10e4064f94c5205693b6e1c78,-8023458381871916900,-8059473984749774204,8,N,1948,20,7
+PageAllocator.h,typedef.h,\lib\Common\Memory\PageAllocator.h,\src\common\typedef.h,602bdef36013e85635659a95148974d0,ad3525a10e4064f94c5205693b6e1c78,-8023445049755445092,-8059473984749774204,8,N,838,20,7
+Recycler.cpp,typedef.h,\lib\Common\Memory\Recycler.cpp,\src\common\typedef.h,8847055bf4112c2a95a02fa0860f7a9b,ad3525a10e4064f94c5205693b6e1c78,-8021193249941825380,-8059473984749774204,8,N,7684,20,7
+Recycler.h,typedef.h,\lib\Common\Memory\Recycler.h,\src\common\typedef.h,2c5bfe684d729916768ffc0481e0f50d,ad3525a10e4064f94c5205693b6e1c78,-8023445049755509604,-8059473984749774204,8,N,2276,20,7
+SmallNormalHeapBucket.h,typedef.h,\lib\Common\Memory\SmallNormalHeapBucket.h,\src\common\typedef.h,99d660063a9f006b27f2dba47153aafa,ad3525a10e4064f94c5205693b6e1c78,-8032454448033506676,-8059473984749774204,7,N,88,20,6
+ScriptContext.cpp,typedef.h,\lib\Runtime\Base\ScriptContext.cpp,\src\common\typedef.h,d5a4a8d5e889b7ffebe75e27c7e16208,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510372,-8059473984749774204,8,N,5681,20,7
+ScriptContext.h,typedef.h,\lib\Runtime\Base\ScriptContext.h,\src\common\typedef.h,11efdf6446e27be5e54fea9d585f7884,ad3525a10e4064f94c5205693b6e1c78,-8023445049755510628,-8059473984749774204,7,N,1660,20,7
+ThreadContext.h,typedef.h,\lib\Runtime\Base\ThreadContext.h,\src\common\typedef.h,cf47624e8472bd60abbef519e08ef6a1,ad3525a10e4064f94c5205693b6e1c78,-8023445049789063524,-8059473984749774204,8,N,1590,20,7
+JavascriptLibrary.h,typedef.h,\lib\Runtime\Library\JavascriptLibrary.h,\src\common\typedef.h,2e9c8d46fc36681cf948e546bf6fbe98,ad3525a10e4064f94c5205693b6e1c78,-8059473846774740852,-8059473984749774204,7,N,1201,20,7
+internal.h,typedef.h,\pal\src\safecrt\internal.h,\src\common\typedef.h,0a8dcefb023bee155be3c66c2393dfc1,ad3525a10e4064f94c5205693b6e1c78,-8023585787763959652,-8059473984749774204,8,N,712,20,7
+palinternal.h,typedef.h,\pal\src\include\pal\palinternal.h,\src\common\typedef.h,fedf9fe695f20b3c640f089abbb1de38,ad3525a10e4064f94c5205693b6e1c78,-8023445049755514724,-8059473984749774204,8,N,477,20,7

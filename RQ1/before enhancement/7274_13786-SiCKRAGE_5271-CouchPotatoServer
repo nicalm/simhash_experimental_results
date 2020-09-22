@@ -1,0 +1,7 @@
+13786-SiCKRAGE,5271-CouchPotatoServer
+ps3.py,plugin.py,\sickrage\metadata\ps3.py,\libs\suds\plugin.py,f2de5a7b73a7e305109ad5ee2b9ff642,a94baf44383cd4aee9c3127eed4bd6f3,8920689786287689093,9217329227369710981,8,N,64,72,10
+exceptions.py,plugin.py,\sickrage\indexers\thetvdb\exceptions.py,\libs\suds\plugin.py,ffdad8b9b7a7434d09fccdb03722ab0d,a94baf44383cd4aee9c3127eed4bd6f3,9073214039260300677,9217329227369710981,2,N,20,72,8
+exceptions.py,exceptions.py,\sickrage\indexers\thetvdb\exceptions.py,\libs\requests\packages\urllib3\exceptions.py,ffdad8b9b7a7434d09fccdb03722ab0d,398c4b8bafe797e796cc6aea31e535b3,9073214039260300677,4610147908045669765,5,N,20,89,8
+peer.py,peer.py,\sickrage\libs\rtorrentlib\peer.py,\libs\rtorrent\peer.py,1975d50ca72cc2f46774bc79f1155b0d,448cc91356c1ddf16b803463bb0903f8,2611121458942840649,35097651090295624,8,N,57,58,52
+tracker.py,tracker.py,\sickrage\libs\rtorrentlib\tracker.py,\libs\rtorrent\tracker.py,1a77c9d2b4bcd65bdef099d54486cc8e,a36b469d5168209ec80cc0962b97b27d,2073609813560720691,2073610363383707955,5,N,92,92,88
+torrentparser.py,torrentparser.py,\sickrage\libs\rtorrentlib\lib\torrentparser.py,\libs\rtorrent\lib\torrentparser.py,684b2928aefc76e758361b89fe7667da,ac89991782b41d67d98d9fe1724ff91c,3147772255336809794,3147770056850425170,3,N,90,94,89

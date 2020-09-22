@@ -1,0 +1,6 @@
+1698-server,5902-nmap
+MDB2SchemaReader.php,luac.c,\lib\private\DB\MDB2SchemaReader.php,\liblua\luac.c,d647cd0d11a5a459553ceaf5b5657b44,cddab64584f80e07aae7bc52a14208c4,5731379242742884567,5695332922261616855,6,N,240,407,63
+MDB2SchemaReader.php,ICMPv4Header.cc,\lib\private\DB\MDB2SchemaReader.php,\libnetutil\ICMPv4Header.cc,d647cd0d11a5a459553ceaf5b5657b44,1ba3b8090e552586d236e08ad00f9bed,5731379242742884567,5729127992688949463,5,N,240,767,74
+MDB2SchemaReader.php,ICMPv6Header.cc,\lib\private\DB\MDB2SchemaReader.php,\libnetutil\ICMPv6Header.cc,d647cd0d11a5a459553ceaf5b5657b44,7e98d3042b91fbfa8950dbdec263c66e,5731379242742884567,5729127992688945367,4,N,240,836,75
+MDB2SchemaReader.php,grammar.c,\lib\private\DB\MDB2SchemaReader.php,\libpcap\grammar.c,d647cd0d11a5a459553ceaf5b5657b44,9087c271bc8db72b146a0afa7f1ec070,5731379242742884567,5729127442933135575,4,N,240,2887,70
+MDB2SchemaReader.php,pcre_fullinfo.c,\lib\private\DB\MDB2SchemaReader.php,\libpcre\pcre_fullinfo.c,d647cd0d11a5a459553ceaf5b5657b44,5c01a0db093e27c1696ba904af83d017,5731379242742884567,1117441424505747671,5,N,240,79,18

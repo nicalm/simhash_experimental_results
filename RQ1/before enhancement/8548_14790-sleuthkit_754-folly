@@ -1,0 +1,15 @@
+14790-sleuthkit,754-folly
+tsk_os.h,Portability.h,\tsk\base\tsk_os.h,\folly\Portability.h,fb10549d476c4733b848a15bf274eecd,4a7decd5a24ba7fccd761801e3ef4412,-7717763362486560548,-7447019619264177960,8,N,145,392,22
+tsk_os.h,Windows.h,\tsk\base\tsk_os.h,\folly\portability\Windows.h,fb10549d476c4733b848a15bf274eecd,8d255d6eb746df0dd20db480cd3643e5,-7717763362486560548,-8023516518011316068,8,N,145,48,14
+usnjls_lib.c,Varint.h,\tsk\fs\usnjls_lib.c,\folly\Varint.h,48e95a276115acd301ddb5b9726a7100,1aade617cb1d1aff80a613ab2633b963,5729127445080619223,4864436316619419862,8,N,267,140,26
+dfxml.cpp,CPortability.h,\tools\fiwalk\src\dfxml.cpp,\folly\CPortability.h,eb50b8530f9308f16c36524fddd2f5b8,2071cc58e111b1fb40fa47a9161f5356,-8023587986267121524,-8023445049756493156,6,N,386,137,37
+dfxml.cpp,Windows.h,\tools\fiwalk\src\dfxml.cpp,\folly\portability\Windows.h,eb50b8530f9308f16c36524fddd2f5b8,8d255d6eb746df0dd20db480cd3643e5,-8023587986267121524,-8023516518011316068,5,N,386,48,14
+fiwalk.h,CPortability.h,\tools\fiwalk\src\fiwalk.h,\folly\CPortability.h,039566552f931dc82d647dc4de6b0327,2071cc58e111b1fb40fa47a9161f5356,-8023585796102236012,-8023445049756493156,8,N,114,137,18
+fiwalk.h,Windows.h,\tools\fiwalk\src\fiwalk.h,\folly\portability\Windows.h,039566552f931dc82d647dc4de6b0327,8d255d6eb746df0dd20db480cd3643e5,-8023585796102236012,-8023516518011316068,7,N,114,48,13
+utils.h,SysUio.h,\tools\fiwalk\src\utils.h,\folly\portability\SysUio.h,e6ab32b13676a61b654ad5e51f15827a,fd0233f243af7c24827c966c225b6eda,-7600106410441515876,-7744256783963336548,7,N,33,21,5
+regex_internal.h,CPortability.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\folly\CPortability.h,478b58ddf6d6e1e730d1b30c2f09b9d2,2071cc58e111b1fb40fa47a9161f5356,-8023445051928094564,-8023445049756493156,5,N,587,137,41
+regex_internal.h,Windows.h,\framework\modules\c_FileTypeSigModule\mingw-libgnurx-2.5.1\regex_internal.h,\folly\portability\Windows.h,478b58ddf6d6e1e730d1b30c2f09b9d2,8d255d6eb746df0dd20db480cd3643e5,-8023445051928094564,-8023516518011316068,6,N,587,48,13
+file.h,CPortability.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\folly\CPortability.h,d22799caeaddf83c099f19cf401487da,2071cc58e111b1fb40fa47a9161f5356,-8023445049755510568,-8023445049756493156,5,N,402,137,38
+file.h,Portability.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\folly\Portability.h,d22799caeaddf83c099f19cf401487da,4a7decd5a24ba7fccd761801e3ef4412,-8023445049755510568,-7447019619264177960,4,N,402,392,44
+file.h,Windows.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\folly\portability\Windows.h,d22799caeaddf83c099f19cf401487da,8d255d6eb746df0dd20db480cd3643e5,-8023445049755510568,-8023516518011316068,4,N,402,48,13
+file.h,SSLContextInitializationTest.cpp,\framework\modules\c_FileTypeSigModule\file-5.08\src\file.h,\folly\io\async\test\SSLContextInitializationTest.cpp,d22799caeaddf83c099f19cf401487da,b2aa500b4a259e9fab5e0f349251c1de,-8023445049755510568,-7771811917194815272,8,N,402,99,9

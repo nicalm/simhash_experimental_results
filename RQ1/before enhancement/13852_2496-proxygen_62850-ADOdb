@@ -1,0 +1,5 @@
+2496-proxygen,62850-ADOdb
+http_parser_cpp.cpp,adodb-pdo_firebird.inc.php,\proxygen\external\http_parser\http_parser_cpp.cpp,\drivers\adodb-pdo_firebird.inc.php,3f30cfe00a1b12b06b5ae798a28cbb38,9495b386496271e4936472af040fd5ea,5728846517712238791,5738134642182631639,7,N,1837,333,107
+HTTPEvent.cpp,adodb-pdo_firebird.inc.php,\proxygen\lib\http\session\HTTPEvent.cpp,\drivers\adodb-pdo_firebird.inc.php,f531f441ddbf402ce38379a73fb55e94,9495b386496271e4936472af040fd5ea,5729127442933135573,5738134642182631639,5,N,33,333,11
+HTTPTransactionEgressSM.cpp,adodb-pdo_firebird.inc.php,\proxygen\lib\http\session\HTTPTransactionEgressSM.cpp,\drivers\adodb-pdo_firebird.inc.php,efc78e843307fbae0fa015e7df0a883b,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,102,333,24
+HTTPTransactionIngressSM.cpp,adodb-pdo_firebird.inc.php,\proxygen\lib\http\session\HTTPTransactionIngressSM.cpp,\drivers\adodb-pdo_firebird.inc.php,da1ef343309f9dc24e096acd73b993d0,9495b386496271e4936472af040fd5ea,5729127442933135575,5738134642182631639,4,N,110,333,26

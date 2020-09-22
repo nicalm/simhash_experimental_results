@@ -1,0 +1,11 @@
+2283-capnproto,63770-mcuboot
+miniposix.h,bootutil_priv.h,\c++\src\kj\miniposix.h,\boot\bootutil\src\bootutil_priv.h,43597d9a9103c02dbbe46d2c58ecc748,b51dd9881fc27b06d161e910552e8afe,-7455991496707810916,-3411776752498386532,7,N,84,254,26
+miniposix.h,caps.c,\c++\src\kj\miniposix.h,\boot\bootutil\src\caps.c,43597d9a9103c02dbbe46d2c58ecc748,b8912a794ee2ea692ac2e6b647d02bde,-7455991496707810916,-8032452249010251620,4,N,84,57,16
+miniposix.h,cycfg_system.c,\c++\src\kj\miniposix.h,\boot\cypress\platforms\cycfg_system.c,43597d9a9103c02dbbe46d2c58ecc748,bff349da7cac11bb28ca6bbaf8ddf706,-7455991496707810916,-8023445049755510628,5,N,84,457,24
+miniposix.h,platform_util.c,\c++\src\kj\miniposix.h,\ext\mbedtls-asn1\src\platform_util.c,43597d9a9103c02dbbe46d2c58ecc748,1a96fe113f6869ebb4da6ffc51af89b9,-7455991496707810916,-7446984314768271204,7,N,84,59,16
+miniposix.h,sysflash.h,\c++\src\kj\miniposix.h,\boot\cypress\MCUBootApp\sysflash\sysflash.h,43597d9a9103c02dbbe46d2c58ecc748,031f4d9374fdf511d149ea2fe5aea078,-7455991496707810916,-8023515419036493668,6,N,84,56,11
+miniposix.h,mcuboot_config.h,\c++\src\kj\miniposix.h,\boot\zephyr\include\mcuboot_config\mcuboot_config.h,43597d9a9103c02dbbe46d2c58ecc748,f0392b66843115fde20da54437ca8d50,-7455991496707810916,-8023445049755510628,5,N,84,88,14
+miniposix.h,check_config.h,\c++\src\kj\miniposix.h,\ext\mbedtls-asn1\include\mbedtls\check_config.h,43597d9a9103c02dbbe46d2c58ecc748,c07b8c175b56fe517779021d20b47123,-7455991496707810916,-8023445049755510628,5,N,84,525,13
+miniposix.h,pk.h,\c++\src\kj\miniposix.h,\ext\mbedtls-asn1\include\mbedtls\pk.h,43597d9a9103c02dbbe46d2c58ecc748,f5806369c5dff9e3ba7f61c76a8cf1c2,-7455991496707810916,-8023172095993915236,8,N,84,192,18
+miniposix.h,platform.h,\c++\src\kj\miniposix.h,\ext\mbedtls-asn1\include\mbedtls\platform.h,43597d9a9103c02dbbe46d2c58ecc748,34692dfb5da8e14debc74cc2e5c30a29,-7455991496707810916,-8023445049747122020,6,N,84,176,18
+miniposix.h,mcuboot_config.h,\c++\src\kj\miniposix.h,\boot\mynewt\mcuboot_config\include\mcuboot_config\mcuboot_config.h,43597d9a9103c02dbbe46d2c58ecc748,ffa22f89edc78dfefd358c72c702e248,-7455991496707810916,-8023445050292381540,6,N,84,81,14

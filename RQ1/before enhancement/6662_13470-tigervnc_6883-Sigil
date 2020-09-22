@@ -1,0 +1,15 @@
+13470-tigervnc,6883-Sigil
+RandomStream.h,dcigettext.c,\common\rdr\RandomStream.h,\3rdparty\hunspell\intl\dcigettext.c,be77b62dfa170b65c76802c399ff8c7e,d3bb499e6a515c1052d491a7d39e4803,-6762472338480571236,-8023445049755445092,8,N,32,1207,7
+pam.h,loadmsgcat.c,\common\rfb\pam.h,\3rdparty\hunspell\intl\loadmsgcat.c,2716e1b86f479bfe7a97074c5b5e4cdd,0c4e84a9d7d53b307114d0785d3641ac,-7352549511467837220,-7446984297452087074,8,N,16,1139,8
+PixelFormat.cxx,ContentTab.h,\common\rfb\PixelFormat.cxx,\src\Tabs\ContentTab.h,9784edfca11408d4e735cbccb24f9f59,2675c1f564ab450037b4790688d2f44e,1323001295739311018,1431083237210080174,8,N,596,167,70
+SSLEngineManager.java,pcre_fullinfo.c,\java\com\tigervnc\network\SSLEngineManager.java,\3rdparty\pcre\pcre_fullinfo.c,39e909ecd9ccf04cb9bad885f45ab7de,8923cc431580197b3e121f54e41dba57,3423284433716820183,5729127442933135575,4,N,127,135,16
+SSLEngineManager.java,printf-args.c,\java\com\tigervnc\network\SSLEngineManager.java,\3rdparty\hunspell\intl\printf-args.c,39e909ecd9ccf04cb9bad885f45ab7de,32e9cc807cac7369c6c119a76b828fae,3423284433716820183,6882048947539982551,5,N,127,141,20
+PixelFormat.java,ContentTab.h,\java\com\tigervnc\rfb\PixelFormat.java,\src\Tabs\ContentTab.h,dd900564b212909764b7b426a7a2714e,2675c1f564ab450037b4790688d2f44e,1431083237210081710,1431083237210080174,2,N,528,167,68
+ServerParams.java,pcre_fullinfo.c,\java\com\tigervnc\rfb\ServerParams.java,\3rdparty\pcre\pcre_fullinfo.c,81f51e625e63390d7951b591bd25df78,8923cc431580197b3e121f54e41dba57,6881714696003043031,5729127442933135575,7,N,184,135,21
+ServerParams.java,printf-args.c,\java\com\tigervnc\rfb\ServerParams.java,\3rdparty\hunspell\intl\printf-args.c,81f51e625e63390d7951b591bd25df78,32e9cc807cac7369c6c119a76b828fae,6881714696003043031,6882048947539982551,6,N,184,141,29
+XorgGlue.h,relocatable.h,\unix\xserver\hw\vnc\XorgGlue.h,\3rdparty\hunspell\intl\relocatable.h,965c776c21cd4d3dae228d0e8fe3c2df,848c7a6774b88d59e80c12ac564211f6,-7443289389161719152,-5141949981850806120,8,N,31,27,9
+xvnc.c,ioapi.h,\unix\xserver\hw\vnc\xvnc.c,\3rdparty\minizip\ioapi.h,64de174f413a46b56c689e3d2f0ca711,26ef5a4584bbb9b3400f2a44f9e7e8de,-7955908787655354212,-8032452386449205092,6,N,1442,126,28
+xvnc.c,gzguts.h,\unix\xserver\hw\vnc\xvnc.c,\3rdparty\zlib\gzguts.h,64de174f413a46b56c689e3d2f0ca711,0c76633a99d58c8a7920b78989126acd,-7955908787655354212,-8023445049755510628,8,N,1442,154,43
+xvnc.c,zconf.h,\unix\xserver\hw\vnc\xvnc.c,\3rdparty\zlib\zconf.h,64de174f413a46b56c689e3d2f0ca711,c89ff94ee23d020c7c9976f48a098fa0,-7955908787655354212,-8023445049755510628,8,N,1442,403,71
+xvnc.c,zutil.h,\unix\xserver\hw\vnc\xvnc.c,\3rdparty\zlib\zutil.h,64de174f413a46b56c689e3d2f0ca711,278c42fe50334e51a072b9e9539f1a94,-7955908787655354212,-8023445049755510628,8,N,1442,183,51
+xvnc.c,localename.c,\unix\xserver\hw\vnc\xvnc.c,\3rdparty\hunspell\intl\localename.c,64de174f413a46b56c689e3d2f0ca711,8dae1c46d7f3b38c1490ba3c3553cb05,-7955908787655354212,-8023445049755510628,8,N,1442,1228,165

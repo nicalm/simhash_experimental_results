@@ -1,0 +1,7 @@
+5868-libvips,754-folly
+format.c,CPortability.h,\libvips\deprecated\format.c,\folly\CPortability.h,1654f4e78c6c01d79de87f1631d414b3,2071cc58e111b1fb40fa47a9161f5356,-8032452403095299428,-8023445049756493156,7,N,266,137,9
+init.c,Windows.h,\libvips\iofuncs\init.c,\folly\portability\Windows.h,e400d93356240e897bbc32ba27bdcd3b,8d255d6eb746df0dd20db480cd3643e5,-9176930621544019780,-8023516518011316068,8,N,636,48,14
+vector.c,CPortability.h,\libvips\iofuncs\vector.c,\folly\CPortability.h,055954f4e165b83818f7e8bd6db904ec,2071cc58e111b1fb40fa47a9161f5356,-8023484632710850404,-8023445049756493156,7,N,400,137,34
+vector.c,Portability.h,\libvips\iofuncs\vector.c,\folly\Portability.h,055954f4e165b83818f7e8bd6db904ec,4a7decd5a24ba7fccd761801e3ef4412,-8023484632710850404,-7447019619264177960,8,N,400,392,50
+vector.c,SysUio.h,\libvips\iofuncs\vector.c,\folly\portability\SysUio.h,055954f4e165b83818f7e8bd6db904ec,fd0233f243af7c24827c966c225b6eda,-8023484632710850404,-7744256783963336548,8,N,400,21,6
+vector.c,Windows.h,\libvips\iofuncs\vector.c,\folly\portability\Windows.h,055954f4e165b83818f7e8bd6db904ec,8d255d6eb746df0dd20db480cd3643e5,-8023484632710850404,-8023516518011316068,6,N,400,48,13

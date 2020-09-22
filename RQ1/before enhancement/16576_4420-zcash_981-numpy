@@ -1,0 +1,7 @@
+4420-zcash,981-numpy
+compat.h,npy_common.h,\src\compat.h,\numpy\core\include\numpy\npy_common.h,edca1c84c422d3accf71cf028f56730c,a173a9479ba36f92005f6b19e1c98ca6,-8023445189341947748,-8023445066935379812,3,N,86,951,21
+byteswap.h,npy_common.h,\src\compat\byteswap.h,\numpy\core\include\numpy\npy_common.h,c8049a65823175e0cb720f771bece0d5,a173a9479ba36f92005f6b19e1c98ca6,-8032452249010186084,-8023445066935379812,3,N,36,951,6
+endian.h,npy_common.h,\src\compat\endian.h,\numpy\core\include\numpy\npy_common.h,b0a1e77bc71959182a3b0854e64e46ad,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,160,951,29
+zcashconsensus.h,npy_common.h,\src\script\zcashconsensus.h,\numpy\core\include\numpy\npy_common.h,9ba7ca783c191e34d1020f0ee0c759f5,a173a9479ba36f92005f6b19e1c98ca6,-9171898141824989028,-8023445066935379812,8,N,48,951,10
+port_posix.h,npy_common.h,\src\leveldb\port\port_posix.h,\numpy\core\include\numpy\npy_common.h,d5a83a65b2dd5184b4c812843c400a16,a173a9479ba36f92005f6b19e1c98ca6,-8032804092731401572,-8023445066935379812,7,N,121,951,19
+thread_annotations.h,npy_common.h,\src\leveldb\port\thread_annotations.h,\numpy\core\include\numpy\npy_common.h,af9eee1ca47192126580ea56af3a4865,a173a9479ba36f92005f6b19e1c98ca6,-8023445049755510628,-8023445066935379812,1,N,39,951,13

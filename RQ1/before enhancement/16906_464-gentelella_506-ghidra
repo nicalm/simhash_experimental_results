@@ -1,0 +1,4 @@
+464-gentelella,506-ghidra
+globalize.js,LookupSwitchHex.java,\vendors\Flot\lib\globalize.js,\Ghidra\Processors\JVM\resources\LookupSwitchHex.java,5859e34a6af3806758409c1cf6b6a681,377274e12df35eadec91bc71d4492bb1,5728855313755060435,6882048947539982551,8,N,1177,75,28
+globalize.js,err.cpp,\vendors\Flot\lib\globalize.js,\Ghidra\Features\PDB\src\pdb\cpp\err.cpp,5859e34a6af3806758409c1cf6b6a681,46841a859e8c35503858ce04519ad0e3,5728855313755060435,5729127442933135574,8,N,1177,48,15
+globalize.js,MDDataTypeParser.java,\vendors\Flot\lib\globalize.js,\Ghidra\Features\MicrosoftDmang\src\main\java\mdemangler\datatype\MDDataTypeParser.java,5859e34a6af3806758409c1cf6b6a681,cb54f1dba1356f93c69309c5519443d4,5728855313755060435,5729127442933135511,8,N,1177,276,77

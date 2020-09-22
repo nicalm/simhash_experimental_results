@@ -1,0 +1,9 @@
+11788-fbthrift,2202-qBittorrent
+thrift_config.h,application.cpp,\thrift\lib\cpp\thrift_config.h,\src\app\application.cpp,27c650bbff0590e9f2fafe163b055489,1769f1c34b2b51e4c126498e3a0b5a58,-8023445049755510628,-7445858400229599076,5,N,220,573,33
+thrift_config.h,main.cpp,\thrift\lib\cpp\thrift_config.h,\src\app\main.cpp,27c650bbff0590e9f2fafe163b055489,0ab876c235d091cc9321f5b26945d353,-8023445049755510628,-8023445118508476260,3,N,220,324,34
+thrift_config.h,mainwindow.cpp,\thrift\lib\cpp\thrift_config.h,\src\gui\mainwindow.cpp,27c650bbff0590e9f2fafe163b055489,5cd96cef67869a501be59f5996fcb554,-8023445049755510628,-9032396158224000868,8,N,220,1634,50
+AsyncClientWorker2.cpp,proplistdelegate.cpp,\thrift\perf\cpp\AsyncClientWorker2.cpp,\src\gui\properties\proplistdelegate.cpp,3ebd76a0981e9c53ea752af30db30be5,4de60f6b36141f92c2bc5ba3d77471db,5738134641844205783,-3494526068898088747,7,N,387,172,38
+macros.h,application.cpp,\thrift\lib\rb\ext\macros.h,\src\app\application.cpp,30f9d8d804dd66b382db54f2861518aa,1769f1c34b2b51e4c126498e3a0b5a58,-8032469861362509668,-7445858400229599076,8,N,18,573,4
+macros.h,main.cpp,\thrift\lib\rb\ext\macros.h,\src\app\main.cpp,30f9d8d804dd66b382db54f2861518aa,0ab876c235d091cc9321f5b26945d353,-8032469861362509668,-8023445118508476260,8,N,18,324,4
+Operation.h,proplistdelegate.cpp,\thrift\perf\cpp2\util\Operation.h,\src\gui\properties\proplistdelegate.cpp,1cf81f674cd6bb613346f9badee172d4,4de60f6b36141f92c2bc5ba3d77471db,-3493118691867313953,-3494526068898088747,6,N,152,172,34
+TProtocolUtil.java,proplistdelegate.cpp,\thrift\lib\java\src\main\java\com\facebook\thrift\protocol\TProtocolUtil.java,\src\gui\properties\proplistdelegate.cpp,ca4aaa19ebede5914601c81d8f142ced,4de60f6b36141f92c2bc5ba3d77471db,5729127434368628951,-3494526068898088747,6,N,125,172,43

@@ -1,0 +1,13 @@
+2475-fmt,702-swoole-src
+chrono_duration.cpp,multipart_parser.c,\test\fuzzing\chrono_duration.cpp,\thirdparty\multipart_parser.c,72440fd90a0d01848031589bb2a841a9,7f2f6adb3104232d3e7d7ffdbf0d2f1a,5729127447228102871,5621032255581894871,7,N,129,243,33
+chrono_duration.cpp,swoole_http_parser.c,\test\fuzzing\chrono_duration.cpp,\thirdparty\swoole_http_parser.c,72440fd90a0d01848031589bb2a841a9,d155f3ba8a7cdb53f79f34af305581eb,5729127447228102871,5729127442933135575,1,N,129,1234,41
+chrono_duration.cpp,shared_server.php,\test\fuzzing\chrono_duration.cpp,\examples\task\shared_server.php,72440fd90a0d01848031589bb2a841a9,89d74cf619828e10fc034ee03643184a,5729127447228102871,1135455896583321814,6,N,129,111,18
+chrono_duration.cpp,log.c,\test\fuzzing\chrono_duration.cpp,\src\core\log.c,72440fd90a0d01848031589bb2a841a9,fcd6d98ec4555c3e125d89e154fba5fa,5729127447228102871,5693098645905783253,5,N,129,114,22
+chrono_duration.cpp,get.php,\test\fuzzing\chrono_duration.cpp,\tests\include\lib\src\responder\get.php,72440fd90a0d01848031589bb2a841a9,0e93a44800862fa891e9d4a8bd016ee0,5729127447228102871,8034970456441796823,1,N,129,71,20
+one_arg.cpp,swoole_http_parser.c,\test\fuzzing\one_arg.cpp,\thirdparty\swoole_http_parser.c,883cdbba8da3fa541c4927e1ea02ff22,d155f3ba8a7cdb53f79f34af305581eb,2270360721499404501,5729127442933135575,5,N,117,1234,33
+one_arg.cpp,log.c,\test\fuzzing\one_arg.cpp,\src\core\log.c,883cdbba8da3fa541c4927e1ea02ff22,fcd6d98ec4555c3e125d89e154fba5fa,2270360721499404501,5693098645905783253,7,N,117,114,23
+one_arg.cpp,get.php,\test\fuzzing\one_arg.cpp,\tests\include\lib\src\responder\get.php,883cdbba8da3fa541c4927e1ea02ff22,0e93a44800862fa891e9d4a8bd016ee0,2270360721499404501,8034970456441796823,7,N,117,71,18
+sprintf.cpp,swoole_http_parser.c,\test\fuzzing\sprintf.cpp,\thirdparty\swoole_http_parser.c,c2ddd179a4100129a6f72f09df658863,d155f3ba8a7cdb53f79f34af305581eb,1117439216892295391,5729127442933135575,6,N,101,1234,29
+sprintf.cpp,get.php,\test\fuzzing\sprintf.cpp,\tests\include\lib\src\responder\get.php,c2ddd179a4100129a6f72f09df658863,0e93a44800862fa891e9d4a8bd016ee0,1117439216892295391,8034970456441796823,8,N,101,71,16
+two_args.cpp,swoole_http_parser.c,\test\fuzzing\two_args.cpp,\thirdparty\swoole_http_parser.c,c159700c6123fdba738f71e168dab048,d155f3ba8a7cdb53f79f34af305581eb,1117439216892295391,5729127442933135575,6,N,97,1234,28
+two_args.cpp,get.php,\test\fuzzing\two_args.cpp,\tests\include\lib\src\responder\get.php,c159700c6123fdba738f71e168dab048,0e93a44800862fa891e9d4a8bd016ee0,1117439216892295391,8034970456441796823,8,N,97,71,15

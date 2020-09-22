@@ -1,0 +1,10 @@
+6714-cryptography,682-curl
+osrandom_engine.h,config-win32.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\config-win32.h,5faed825e57102494d64f41f67417150,ecdac572ee82d5c1fa17a98b2b5e4239,-9176392388590904164,-8023445049755510628,7,N,80,348,13
+osrandom_engine.h,curl_setup.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\curl_setup.h,5faed825e57102494d64f41f67417150,87daa113fc4c10ce506f365e2b5f7bc5,-9176392388590904164,-8023445049755510628,7,N,80,510,15
+osrandom_engine.h,curl_setup_once.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\curl_setup_once.h,5faed825e57102494d64f41f67417150,09158ee5da3bbaaefc059286a83295b9,-9176392388590904164,-8023445049755510628,7,N,80,298,16
+osrandom_engine.h,curl_sspi.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\curl_sspi.h,5faed825e57102494d64f41f67417150,943b5227dcf4abb63fd63210169e8dfb,-9176392388590904164,-8023445049755510628,7,N,80,292,12
+osrandom_engine.h,setup-vms.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\setup-vms.h,5faed825e57102494d64f41f67417150,4233015ade275232a345dac95a27be3c,-9176392388590904164,-8023445041165576036,8,N,80,339,13
+osrandom_engine.h,urldata.h,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\urldata.h,5faed825e57102494d64f41f67417150,39136037f353a0654b0ec4eb2640e61d,-9176392388590904164,-8023445049755527012,8,N,80,1245,17
+osrandom_engine.h,version.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\lib\version.c,5faed825e57102494d64f41f67417150,6a92ee751489cdb48dce99ccc3f57ec0,-9176392388590904164,-8023445049755510628,7,N,80,398,15
+osrandom_engine.h,tool_binmode.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\src\tool_binmode.c,5faed825e57102494d64f41f67417150,ceb752c8a04821dc6a41795dedc31559,-9176392388590904164,-8018950246221161060,7,N,80,23,8
+osrandom_engine.h,disabled.c,\src\_cffi_src\openssl\src\osrandom_engine.h,\tests\server\disabled.c,5faed825e57102494d64f41f67417150,87b7ea830cba52ab1384ebef97f955ee,-9176392388590904164,-8023445049754986340,8,N,80,45,12

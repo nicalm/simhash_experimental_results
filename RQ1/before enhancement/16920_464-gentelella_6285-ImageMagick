@@ -1,0 +1,13 @@
+464-gentelella,6285-ImageMagick
+globalize.js,svg.c,\vendors\Flot\lib\globalize.js,\coders\svg.c,5859e34a6af3806758409c1cf6b6a681,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5728855313755060435,5729127442933135575,7,N,1177,4691,217
+globalize.js,display.c,\vendors\Flot\lib\globalize.js,\MagickCore\display.c,5859e34a6af3806758409c1cf6b6a681,58fbcf695a02c8617f1d6816e49799cf,5728855313755060435,5692817170937460951,7,N,1177,12792,269
+globalize.js,pixel.c,\vendors\Flot\lib\globalize.js,\MagickCore\pixel.c,5859e34a6af3806758409c1cf6b6a681,ee5fd3780f6a5c8bb141b1497d353075,5728855313755060435,5746859266887170289,8,N,1177,5380,221
+globalize.js,widget.c,\vendors\Flot\lib\globalize.js,\MagickCore\widget.c,5859e34a6af3806758409c1cf6b6a681,f0e9f521bef825c5e27b767db6566d31,5728855313755060435,5729127442933135575,7,N,1177,7134,222
+globalize.js,identify.c,\vendors\Flot\lib\globalize.js,\MagickWand\identify.c,5859e34a6af3806758409c1cf6b6a681,75148e667f677bcb2010bd43f674e879,5728855313755060435,5729101054654068983,8,N,1177,793,127
+globalize.js,mogrify.c,\vendors\Flot\lib\globalize.js,\MagickWand\mogrify.c,5859e34a6af3806758409c1cf6b6a681,40ce227d8d84162c170d4ac9ed9ebc51,5728855313755060435,5729127442933135575,7,N,1177,8560,220
+pathSvgToVml.js,miff.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\coders\miff.c,33048ad2c45faa5606888ee3add887d1,eb048844ba749cb188f12a545d5a3a14,5730112596751329503,5729127442933397727,8,N,86,2414,25
+pathSvgToVml.js,msl.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\coders\msl.c,33048ad2c45faa5606888ee3add887d1,564294d28d18518091363153d2c379e8,5730112596751329503,5729127445078517975,7,N,86,7592,27
+pathSvgToVml.js,svg.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\coders\svg.c,33048ad2c45faa5606888ee3add887d1,8e66b84fbb1ad58c3e7c4f6cb7f6aced,5730112596751329503,5729127442933135575,8,N,86,4691,29
+pathSvgToVml.js,widget.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\MagickCore\widget.c,33048ad2c45faa5606888ee3add887d1,f0e9f521bef825c5e27b767db6566d31,5730112596751329503,5729127442933135575,8,N,86,7134,18
+pathSvgToVml.js,mogrify.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\MagickWand\mogrify.c,33048ad2c45faa5606888ee3add887d1,40ce227d8d84162c170d4ac9ed9ebc51,5730112596751329503,5729127442933135575,8,N,86,8560,23
+pathSvgToVml.js,operation.c,\vendors\jqvmap\src\VectorCanvas\pathSvgToVml.js,\MagickWand\operation.c,33048ad2c45faa5606888ee3add887d1,5188f5c0cfb10bb3579b5a2c7dc8bc5d,5730112596751329503,5730262138933065951,8,N,86,4396,23

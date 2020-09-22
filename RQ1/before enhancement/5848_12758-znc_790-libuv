@@ -1,0 +1,5 @@
+12758-znc,790-libuv
+version.h,getaddrinfo.c,\include\znc\version.h,\src\unix\getaddrinfo.c,d05809c29f032c998a444139c4f0d9ce,e8e49cecf77e5d3f516ab013154bbd9c,-8023445187195380516,-8023444777025087336,8,N,43,188,9
+version.h,internal.h,\include\znc\version.h,\src\unix\internal.h,d05809c29f032c998a444139c4f0d9ce,371ffd2ac622ba8f4ae44ae51c531f3d,-8023445187195380516,-8023445069074474788,7,N,43,209,13
+version.h,linux-syscalls.c,\include\znc\version.h,\src\unix\linux-syscalls.c,d05809c29f032c998a444139c4f0d9ce,e03aa3ff0bab5e21466ddb93bc58c23e,-8023445187195380516,-8023444499991568996,8,N,43,292,13
+version.h,winapi.h,\include\znc\version.h,\src\win\winapi.h,d05809c29f032c998a444139c4f0d9ce,4f2f56dcce5d652768e5e4cfcf6661be,-8023445187195380516,-8023445049755510628,5,N,43,3569,8

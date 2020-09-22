@@ -1,0 +1,4 @@
+10187-viabtc_exchange_server,1172-stb
+fmacros.h,stb_voxel_render.h,\depends\hiredis\fmacros.h,\stb_voxel_render.h,fa39b5b5c7b057e483d5dce607e953a2,e185ad843cb8b3f858b2f0f59163bf0c,-7226589390687643492,-8168131434121996068,8,N,17,2286,5
+fmacros.h,glext.h,\depends\hiredis\fmacros.h,\tests\caveview\glext.h,fa39b5b5c7b057e483d5dce607e953a2,0aa24209e6e9c1ceb2e18188dfcd425b,-7226589390687643492,-8023445049755510628,6,N,17,10581,5
+win32.h,glext.h,\depends\hiredis\win32.h,\tests\caveview\glext.h,0ec99e391511695a9d7ef00f6d95b969,0aa24209e6e9c1ceb2e18188dfcd425b,-7880077529720759656,-8023445049755510628,8,N,32,10581,6
