@@ -1,0 +1,17 @@
+3761-lepton,516-mongo
+crc32.c,crc32.c,\dependencies\zlib\crc32.c,\src\third_party\zlib-1.2.11\crc32.c,78d647fbb71aac483f674cebc14271fb,4af0154324ce837e6055d998d90ae62e,-558081434479276440,-555831833537851672,5,N,285,289,277
+crc32.h,crc32.h,\dependencies\zlib\crc32.h,\src\third_party\zlib-1.2.11\crc32.h,795bf2103067f0c95337156d92ad63fa,795bf2103067f0c95337156d92ad63fa,-8006341363112244124,-8006341363112244124,0,Y,437,437,437
+deflate.h,deflate.h,\dependencies\zlib\deflate.h,\src\third_party\zlib-1.2.11\deflate.h,9d2bbda27c7f6ce5cdd131a247151fc0,f1fe8a9efd5164647bd9b2c86f4c6b12,3353902927718426256,3353902377400575696,5,N,155,158,147
+gzguts.h,gzguts.h,\dependencies\zlib\gzguts.h,\src\third_party\zlib-1.2.11\gzguts.h,481fcd67c1a74813d1e18ea86b0fb735,d71e3535b6b87307b4104a15791be071,-8885899386336998245,-8885899386068562789,1,N,151,157,150
+gzguts.h,gzguts.h,\dependencies\zlib\gzguts.h,\src\third_party\zstandard-1.4.3\zstd\zlibWrapper\gzguts.h,481fcd67c1a74813d1e18ea86b0fb735,12f73cc7df005cf57bf621587e683a3a,-8885899386336998245,-8885899246482125673,5,N,151,163,148
+gzread.c,gzread.c,\dependencies\zlib\gzread.c,\src\third_party\zlib-1.2.11\gzread.c,ae11de3e00ab16ac9589b439b7529663,a3ac124a25c8d0e8a3212b7e847fad72,4168466050169580588,-5054914782780052180,5,N,410,447,389
+infback.c,infback.c,\dependencies\zlib\infback.c,\src\third_party\zlib-1.2.11\infback.c,1a9675b2dd803c36b341a00dfc438529,c5683f737d5fcaff092e9a57c2c34671,6795281693929772928,6777267295151953792,4,N,492,492,491
+inffixed.h,inffixed.h,\dependencies\zlib\inffixed.h,\src\third_party\zlib-1.2.11\inffixed.h,30e8b7772a1fd4abb33f2f7073cf6f86,30e8b7772a1fd4abb33f2f7073cf6f86,-2796548591990404036,-2796548591990404036,0,Y,84,84,84
+inflate.c,inflate.c,\dependencies\zlib\inflate.c,\src\third_party\zlib-1.2.11\inflate.c,81d66f64eac1d96acb285a5e232e6e4f,1397be1dcf6800847ce0d0ffb9f71ff4,6254834308920185653,6227809962389213989,8,N,1160,1205,1125
+inflate.h,inflate.h,\dependencies\zlib\inflate.h,\src\third_party\zlib-1.2.11\inflate.h,9977dffdfbd02e9f00439a2d553378e8,6c4be9f7511fcd15a0a90f413282b32e,2475009427779040575,2763231011865175359,7,N,73,74,72
+inftrees.h,inftrees.h,\dependencies\zlib\inftrees.h,\src\third_party\zlib-1.2.11\inftrees.h,11a3ddbe60813e9e376dced1ff8c5654,11a3ddbe60813e9e376dced1ff8c5654,9020779752397423340,9020779752397423340,0,Y,16,16,16
+trees.c,trees.c,\dependencies\zlib\trees.c,\src\third_party\zlib-1.2.11\trees.c,ead3464e5544c8f5bea2ab747db7e61f,571e9fdc8231958bb5269ae19e7200a8,4136873183666285423,4129573457249741678,8,N,762,745,714
+trees.h,trees.h,\dependencies\zlib\trees.h,\src\third_party\zlib-1.2.11\trees.h,c94d71c233fe031476a1b85ee6bf5bef,c94d71c233fe031476a1b85ee6bf5bef,-7218055746064657624,-7218055746064657624,0,Y,120,120,120
+zconf.h,zconf.h,\dependencies\zlib\zconf.h,\src\third_party\zlib-1.2.11\zconf.h,c89ff94ee23d020c7c9976f48a098fa0,ccd97cbc26c511a318aa46f8e6df51a6,-872077755263393274,-385688995574488570,4,N,403,427,401
+zlib.h,zlib.h,\dependencies\zlib\zlib.h,\src\third_party\zlib-1.2.11\zlib.h,f87560d506d60b6fc8ab8c5ac8249fb2,6e48090b8e04959937949cba6a77ff46,-6488062288871458744,-6488344313620759992,4,N,279,307,271
+zutil.h,zutil.h,\dependencies\zlib\zutil.h,\src\third_party\zlib-1.2.11\zutil.h,278c42fe50334e51a072b9e9539f1a94,e7909d2ab25406cac90461dc9c664a01,-1082225413802692860,-828897917046427900,6,N,183,196,169

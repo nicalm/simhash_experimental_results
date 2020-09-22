@@ -1,0 +1,3 @@
+5271-CouchPotatoServer,6883-Sigil
+dammit.py,dammit.py,\libs\bs4\dammit.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\dammit.py,845e34f3874d7f852d64385d0b69681f,b05ccb1fbe4a7676b943af2cd4bf18e9,505744343123005018,504899918192873051,3,N,589,617,575
+_htmlparser.py,_htmlparser.py,\libs\bs4\builder\_htmlparser.py,\src\Resource_Files\plugin_launchers\python\sigil_bs4\builder\_htmlparser.py,328d4df41067854336954433d0a2e25c,688ef5f32da629573e6beb82eabbfabd,6041707856647649448,6039456069719783586,7,N,179,204,157

@@ -1,0 +1,5 @@
+24-node,86-netdata
+ordered_dict.py,ordered_dict.py,\tools\gyp\pylib\gyp\ordered_dict.py,\collectors\python.d.plugin\python_modules\urllib3\packages\ordered_dict.py,082d1149796a2be804761925284cc639,165265148eb0438730807933491e4029,2859796259424847028,2859796259424879796,1,N,178,178,176
+types.js,types.js,\deps\npm\node_modules\asn1\lib\ber\types.js,\collectors\node.d.plugin\node_modules\lib\ber\types.js,d039ca4dce38960c23bb5cdf3abc019f,2bbbe79bd4452ed228bedb597ca7161c,-6988947654597278302,-6988947654597278302,0,N,33,33,32
+writer.js,writer.js,\deps\npm\node_modules\asn1\lib\ber\writer.js,\collectors\node.d.plugin\node_modules\lib\ber\writer.js,3d18e8a6169b756e67d834d16a16e26b,d24e8e99a629decf15f4aefa99e2bd9f,-8762839311202019106,-8762839319791828738,5,N,238,237,229
+ordered_dict.py,ordered_dict.py,\deps\npm\node_modules\node-gyp\gyp\pylib\gyp\ordered_dict.py,\collectors\python.d.plugin\python_modules\urllib3\packages\ordered_dict.py,082d1149796a2be804761925284cc639,165265148eb0438730807933491e4029,2859796259424847028,2859796259424879796,1,N,178,178,176

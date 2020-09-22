@@ -1,0 +1,8 @@
+168-AdminLTE,8399-appscale
+jquery.flot.js,jquery.flot.js,\plugins\flot-old\jquery.flot.js,\AppDashboard\static\js\jquery.flot.js,8760a0d28cdbc81e22a14ac82e605542,25fe0ff9c41bfa44634b35b373c657f3,1661519519385196700,1661517316067039388,4,N,2213,2148,2095
+jquery.flot.pie.js,jquery.flot.pie.js,\plugins\flot-old\jquery.flot.pie.js,\AppDashboard\static\js\jquery.flot.pie.js,808682bd6f347758dacd78fe47af5d65,c37c191543a09d95a46d733e96c61601,-777034029020195879,-777035128531823655,1,N,524,523,522
+jquery.flot.time.js,jquery.flot.time.js,\plugins\flot-old\jquery.flot.time.js,\AppDashboard\static\js\jquery.flot.time.js,89c2e84aafa971be3af5cffee358c43e,90e6e1b8ffc80f37b2e7589083a3e629,-7425823717669830900,-7425823717669830900,0,N,307,307,305
+jquery-ui.js,jquery-ui.js,\plugins\jquery-ui\jquery-ui.js,\AppDashboard\static\js\jquery-ui.js,ca6d917d8229472b85ee6aa83ea5643b,ca6d917d8229472b85ee6aa83ea5643b,-919688430479890003,-919688430479890003,0,Y,13645,13645,13645
+messages_el.js,messages_el.js,\plugins\jquery-validation\localization\messages_el.js,\AppDashboard\static\plugins\forms\validate\localization\messages_el.js,7a571e2f38c8002dbabddc553655a759,16c1a221a359acf090aa2d476543e882,2758868925657015946,309051465853447306,8,N,30,19,17
+messages_si.js,messages_si.js,\plugins\jquery-validation\localization\messages_si.js,\AppDashboard\static\plugins\forms\validate\localization\messages_si.js,f83b8890c644bfe27d7e7b45168f349b,ce2c74c9abf5acb19247cde7e36b82de,-3146060666387459901,-4303582527108050750,7,N,30,19,17
+jquery.js,jquery-1.12.4.js,\plugins\jquery-ui\external\jquery\jquery.js,\AppDashboard\static\js\jquery-1.12.4.js,ae1e5b8c6eef12741e6ec92c4832348b,ae1e5b8c6eef12741e6ec92c4832348b,472487610191193609,472487610191193609,0,Y,7095,7095,7095

@@ -1,0 +1,12 @@
+10395-jitsi,8063-CMake
+bzlib.h,bzlib.h,\src\native\windows\setup\include\bzlib.h,\Utilities\cmbzip2\bzlib.h,a708df822cb306617e0d6d5de0b3af64,b5f4525e45a71e1a7ef8323e57b30d0a,-6064527238178499657,-6062275438364814409,1,N,195,195,194
+lzma.h,lzma.h,\src\native\windows\setup\include\lzma.h,\Utilities\cmliblzma\liblzma\api\lzma.h,4ce48c8f939c04739c2c0b8409ca662f,2daa29092435900b36de051854e7aa40,8385119343088069359,8383360124521376366,7,N,121,125,119
+base.h,base.h,\src\native\windows\setup\include\lzma\base.h,\Utilities\cmliblzma\liblzma\api\lzma\base.h,08bf5ab5c75abe4bb3e21800bc7f3849,bc3c59b5de8a500117e5a4c46701a056,4272021723998273781,4272021723529562359,5,N,66,69,65
+block.h,block.h,\src\native\windows\setup\include\lzma\block.h,\Utilities\cmliblzma\liblzma\api\lzma\block.h,1ce8914ecd5d093e0eb06b0374489fdf,fba353bbd82a009c6499f579be5b17cb,442193979396233601,442193983691200897,1,N,71,75,67
+check.h,check.h,\src\native\windows\setup\include\lzma\check.h,\Utilities\cmliblzma\liblzma\api\lzma\check.h,eaff84d3d2386659ad660fa84a0c7e52,eaff84d3d2386659ad660fa84a0c7e52,4566803670350040293,4566803670350040293,0,Y,23,23,23
+delta.h,delta.h,\src\native\windows\setup\include\lzma\delta.h,\Utilities\cmliblzma\liblzma\api\lzma\delta.h,8d248bfd6eb06b9fc20fdba10be55d29,8d248bfd6eb06b9fc20fdba10be55d29,2578386837690031292,2578386837690031292,0,Y,19,19,19
+index.h,index.h,\src\native\windows\setup\include\lzma\index.h,\Utilities\cmliblzma\liblzma\api\lzma\index.h,288fefd9d86740c0ca55baa5b78cf623,a33e470364227e8d7c263d6e4929c932,729802076421508038,729846297404770758,6,N,114,114,106
+lzma.h,lzma12.h,\src\native\windows\setup\include\lzma\lzma.h,\Utilities\cmliblzma\liblzma\api\lzma\lzma12.h,aafa39a9e6a01e8b4551c1985c7ff473,aafa39a9e6a01e8b4551c1985c7ff473,4506094329099246333,4506094329099246333,0,Y,57,57,57
+stream_flags.h,stream_flags.h,\src\native\windows\setup\include\lzma\stream_flags.h,\Utilities\cmliblzma\liblzma\api\lzma\stream_flags.h,c5bd8962b7685aee98c2041dd9dc7b22,c5bd8962b7685aee98c2041dd9dc7b22,3100303201135630405,3100303201135630405,0,Y,40,40,40
+version.h,version.h,\src\native\windows\setup\include\lzma\version.h,\Utilities\cmliblzma\liblzma\api\lzma\version.h,d9ae193ae7fa6f48c500b25c7c9d1c45,7f38675a0f717e14465133ceac0d68e8,-2582592344499594067,-2578088882311177043,2,N,40,40,38
+vli.h,vli.h,\src\native\windows\setup\include\lzma\vli.h,\Utilities\cmliblzma\liblzma\api\lzma\vli.h,d73c51c2022abdf5a63d1f3ea4f9e2dd,d73c51c2022abdf5a63d1f3ea4f9e2dd,1432926609061577788,1432926609061577788,0,Y,17,17,17

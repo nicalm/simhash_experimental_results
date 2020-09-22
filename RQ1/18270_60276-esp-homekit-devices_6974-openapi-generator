@@ -1,0 +1,3 @@
+60276-esp-homekit-devices,6974-openapi-generator
+cJSON.c,cJSON.c,\external_libs\cJSON\cJSON\cJSON.c,\samples\client\petstore\c\external\cJSON.c,8b744166e313cd240024707b77f876ee,8b744166e313cd240024707b77f876ee,-4422886337106220154,-4422886337106220154,0,Y,2314,2314,2314
+cJSON.h,cJSON.h,\external_libs\cJSON\cJSON\cJSON.h,\samples\client\petstore\c\external\cJSON.h,c77479794ba91f12b9bd75af34268f63,c77479794ba91f12b9bd75af34268f63,-1888063418015725401,-1888063418015725401,0,Y,143,143,143

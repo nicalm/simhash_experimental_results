@@ -1,0 +1,4 @@
+4266-webkit,86-netdata
+six.py,six.py,\LayoutTests\imported\w3c\web-platform-tests\tools\third_party\six\six.py,\collectors\python.d.plugin\python_modules\urllib3\packages\six.py,77e8be235283d25c56df403a4a461fac,9a672d6af627964283b12950a1b3b3ab,538592580041533084,-8684779456813250916,2,N,625,612,610
+odict.py,ordered_dict.py,\LayoutTests\imported\w3c\web-platform-tests\tools\third_party\funcsigs\funcsigs\odict.py,\collectors\python.d.plugin\python_modules\urllib3\packages\ordered_dict.py,2b584070db7282423143e673b1b9b85d,165265148eb0438730807933491e4029,2859796259424847028,2859796259424879796,1,N,179,178,178
+six.py,six.py,\Source\ThirdParty\libwebrtc\Source\third_party\protobuf\third_party\six\six.py,\collectors\python.d.plugin\python_modules\urllib3\packages\six.py,9a672d6af627964283b12950a1b3b3ab,9a672d6af627964283b12950a1b3b3ab,-8684779456813250916,-8684779456813250916,0,Y,612,612,612

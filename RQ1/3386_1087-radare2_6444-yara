@@ -1,0 +1,3 @@
+1087-radare2,6444-yara
+dotnet.c,dotnet.c,\libr\bin\format\pe\dotnet.c,\libyara\modules\dotnet\dotnet.c,70b3cf963450bf0946efa033998f8a2f,f4a280b5d2d7821978dfd46312752db9,-5189717602029678509,-5243479288280911789,8,N,1105,1245,900
+dotnet.h,dotnet.h,\libr\bin\format\pe\dotnet.h,\libyara\include\yara\dotnet.h,bf330cf0d010250ceb6ae7aa230f699d,fb713d61c00f62a01573ef41c2b1a22f,-154965045829489664,-155245421296669695,4,N,242,241,234

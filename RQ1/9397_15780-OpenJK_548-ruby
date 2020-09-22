@@ -1,0 +1,3 @@
+15780-OpenJK,548-ruby
+g_navnew.cpp,object_spec.c,\codeJK2\game\g_navnew.cpp,\spec\ruby\optional\capi\ext\object_spec.c,d17c38c7f5787691b8e6eb75e51c8e96,0ab225249ce0dab256a8ed084608767e,-5842047560771457670,-8149031860907430534,7,N,552,346,86
+g_navnew.c,object_spec.c,\codemp\game\g_navnew.c,\spec\ruby\optional\capi\ext\object_spec.c,bd49b10cf5a3de44ee83bae4ca455df7,0ab225249ce0dab256a8ed084608767e,-6131438744180904646,-8149031860907430534,8,N,558,346,86

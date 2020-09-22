@@ -1,0 +1,15 @@
+5271-CouchPotatoServer,7921-mobile-chrome-apps
+auth.py,auth.py,\libs\xmpp\auth.py,\chrome-cordova\gcmServer\xmpp\auth.py,59a0cff663efc4f0130f1d1e3ccdbe64,59a0cff663efc4f0130f1d1e3ccdbe64,8580143863546279757,8580143863546279757,0,Y,257,257,257
+browser.py,browser.py,\libs\xmpp\browser.py,\chrome-cordova\gcmServer\xmpp\browser.py,22a9e43f9f70eb2c3099cd148346534f,22a9e43f9f70eb2c3099cd148346534f,4362583429238959485,4362583429238959485,0,Y,75,75,75
+client.py,client.py,\libs\xmpp\client.py,\chrome-cordova\gcmServer\xmpp\client.py,4f2af2db105f1d2b2b75fa2ad64ce054,4f2af2db105f1d2b2b75fa2ad64ce054,-5525454637362997809,-5525454637362997809,0,Y,223,223,223
+commands.py,commands.py,\libs\xmpp\commands.py,\chrome-cordova\gcmServer\xmpp\commands.py,3f55d4da964e0c045a31c811923a4d84,3f55d4da964e0c045a31c811923a4d84,4042129561753302498,4042129561753302498,0,Y,191,191,191
+debug.py,debug.py,\libs\xmpp\debug.py,\chrome-cordova\gcmServer\xmpp\debug.py,d3cb6cf1f5b8f2651c110be3c03ba0ac,d3cb6cf1f5b8f2651c110be3c03ba0ac,-4638147126588664280,-4638147126588664280,0,Y,241,241,241
+dispatcher.py,dispatcher.py,\libs\xmpp\dispatcher.py,\chrome-cordova\gcmServer\xmpp\dispatcher.py,0176681bb62f0e25251a53e26059a551,0176681bb62f0e25251a53e26059a551,3429784771790249986,3429784771790249986,0,Y,247,247,247
+features.py,features.py,\libs\xmpp\features.py,\chrome-cordova\gcmServer\xmpp\features.py,3b9e1d8d3a8e6d1b1090ad8e36535941,3b9e1d8d3a8e6d1b1090ad8e36535941,-7427105113268057014,-7427105113268057014,0,Y,91,91,91
+filetransfer.py,filetransfer.py,\libs\xmpp\filetransfer.py,\chrome-cordova\gcmServer\xmpp\filetransfer.py,329fdfb226a113542d654c20bc11f803,329fdfb226a113542d654c20bc11f803,8383592418649743023,8383592418649743023,0,Y,113,113,113
+jep0106.py,jep0106.py,\libs\xmpp\jep0106.py,\chrome-cordova\gcmServer\xmpp\jep0106.py,d37029f07cdf4d8dfd8a5bfef1f4211f,d37029f07cdf4d8dfd8a5bfef1f4211f,7896700133729290963,7896700133729290963,0,Y,40,40,40
+protocol.py,protocol.py,\libs\xmpp\protocol.py,\chrome-cordova\gcmServer\xmpp\protocol.py,47c090ec0f13949b26501a77719734fd,47c090ec0f13949b26501a77719734fd,8782166573714876289,8782166573714876289,0,Y,584,584,584
+roster.py,roster.py,\libs\xmpp\roster.py,\chrome-cordova\gcmServer\xmpp\roster.py,a83ac50aaaee210337e9f7ec92cd62c9,a83ac50aaaee210337e9f7ec92cd62c9,2105715705390717143,2105715705390717143,0,Y,112,112,112
+session.py,session.py,\libs\xmpp\session.py,\chrome-cordova\gcmServer\xmpp\session.py,66f409a10766d59122f1fcc2274b9a1b,66f409a10766d59122f1fcc2274b9a1b,5271493868785339307,5271493868785339307,0,Y,212,212,212
+simplexml.py,simplexml.py,\libs\xmpp\simplexml.py,\chrome-cordova\gcmServer\xmpp\simplexml.py,81850e57fa6f604403ecf4ff7bd978a9,81850e57fa6f604403ecf4ff7bd978a9,-6186843489104910267,-6186843489104910267,0,Y,341,341,341
+transports.py,transports.py,\libs\xmpp\transports.py,\chrome-cordova\gcmServer\xmpp\transports.py,a1f672c69228d4e96f6ba0f9ab30559c,5948f8494ccaef064e69d1fe17cd02e6,8722452115127894480,4110766096702604240,3,N,223,223,219

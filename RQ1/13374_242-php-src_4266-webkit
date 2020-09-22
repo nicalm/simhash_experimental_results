@@ -1,0 +1,9 @@
+242-php-src,4266-webkit
+decode.c,udis86_decode.c,\ext\opcache\jit\libudis86\decode.c,\Source\JavaScriptCore\disassembler\udis86\udis86_decode.c,33d315cb180b8d8d627a394354724f16,904cc4a306dfe281ed8afb24f497fdeb,-728119906472560315,-746134304982175419,3,N,958,965,954
+decode.h,udis86_decode.h,\ext\opcache\jit\libudis86\decode.h,\Source\JavaScriptCore\disassembler\udis86\udis86_decode.h,483e4b6e4e89c47f0433c489170bfee1,0e0b393dead110bd53a0dbb97bfb924d,7594638629885452900,7594638610557596260,6,N,111,111,106
+extern.h,udis86_extern.h,\ext\opcache\jit\libudis86\extern.h,\Source\JavaScriptCore\disassembler\udis86\udis86_extern.h,d6f3668d5d2b7f9eb86f3bd7b2a3d8f0,5278cad40255d632a3841546b00c0218,8400306566246398710,8400306566177192646,4,N,52,52,51
+syn-att.c,udis86_syn-att.c,\ext\opcache\jit\libudis86\syn-att.c,\Source\JavaScriptCore\disassembler\udis86\udis86_syn-att.c,1d464d6ad533d806fc00a586b08b045b,da687821860c9edbf12ec1c827cb572d,-2662176522584680220,-3815098029608758588,8,N,168,171,162
+syn-intel.c,udis86_syn-intel.c,\ext\opcache\jit\libudis86\syn-intel.c,\Source\JavaScriptCore\disassembler\udis86\udis86_syn-intel.c,9e35cb960a2de31894d94c98a59a4419,730d0a323901d1e1d0ba67a6a00fc490,-8273629822267928250,-8273629826563157164,5,N,162,165,156
+syn.h,udis86_syn.h,\ext\opcache\jit\libudis86\syn.h,\Source\JavaScriptCore\disassembler\udis86\udis86_syn.h,406a449ffcd73ea36e9c9998bd1ef9e8,5dc265b3328987b77ad22791119b0cb3,-2149326564339517716,-4456299871507615192,8,N,18,18,16
+types.h,udis86_types.h,\ext\opcache\jit\libudis86\types.h,\Source\JavaScriptCore\disassembler\udis86\udis86_types.h,6e522ea6257595313bc4db9afcf3f316,5344c672aa0c122091153b67cb21ac55,1234899868656634055,1270928115919800463,5,N,155,155,152
+udint.h,udis86_udint.h,\ext\opcache\jit\libudis86\udint.h,\Source\JavaScriptCore\disassembler\udis86\udis86_udint.h,0c467cf47b3d31e3e907ad40dd2440a7,a145758797395367c70cc8605c8cc888,-3073680326986649044,-2928615160730176980,6,N,61,60,58

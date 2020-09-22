@@ -1,0 +1,3 @@
+7242-Sia,9611-container-diff
+errors.go,errors.go,\vendor\github.com\pkg\errors\errors.go,\vendor\github.com\pkg\errors\errors.go,c434e5303e8efec7214b9d68d7a9374d,60b8b9f3621533663547b354c2e7688c,-2367828168597817564,-2347561832697219324,7,N,133,142,133
+stack.go,stack.go,\vendor\github.com\pkg\errors\stack.go,\vendor\github.com\pkg\errors\stack.go,482f11fb5e3306afae1971e5a29909f8,a229590d4679f38ae7c93e78aed5bff4,4769809343192792603,4626257233918844443,6,N,118,104,104

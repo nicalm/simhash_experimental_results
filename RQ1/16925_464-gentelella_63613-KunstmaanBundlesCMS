@@ -1,0 +1,4 @@
+464-gentelella,63613-KunstmaanBundlesCMS
+morris.js,morris-0.5.0.js,\vendors\morris.js\morris.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\libs\morris-0.5.0.js,4de99ced6396ce9b41d27935bb758358,5b61bafea629d939269e7e7d8a39ebd9,-7599095966738475729,-7882822743262818001,3,N,1747,1754,1738
+raphael.js,raphael-2.1.2.js,\vendors\raphael\raphael.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\libs\raphael-2.1.2.js,80e322c309788a3a7c7ed11640594409,b58f680e4c485c24be9c6d7b631a251b,-6507595206005290695,-6507023597397784263,4,N,6129,6002,5798
+raphael.no-deps.js,raphael-2.1.2.js,\vendors\raphael\raphael.no-deps.js,\src\Kunstmaan\DashboardBundle\Resources\ui\js\libs\raphael-2.1.2.js,41e717ccb900ab0b47f03479c0da1b7a,b58f680e4c485c24be9c6d7b631a251b,-6505896460539328199,-6507023597397784263,5,N,5769,6002,5557

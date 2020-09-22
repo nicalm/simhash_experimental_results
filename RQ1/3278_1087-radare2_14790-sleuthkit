@@ -1,0 +1,3 @@
+1087-radare2,14790-sleuthkit
+file_opts.h,file_opts.h,\libr\magic\file_opts.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\file_opts.h,3d9b6a2901ce17f5c3ff16c010fe1b58,ea0f965d39503668e2bfc6b64956dafe,1413571096409631974,1431654764152302822,6,N,34,36,34
+tar.h,tar.h,\libr\magic\tar.h,\framework\modules\c_FileTypeSigModule\file-5.08\src\tar.h,ebb34d99e115a01fd23ee8ad312cb751,d2ea7051f5cac3c2fd4daa7ef61e94ce,-4736794626792347235,-4844885415878841955,5,N,25,25,24

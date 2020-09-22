@@ -1,0 +1,6 @@
+13704-crypto,491-hub
+terminal.go,terminal.go,\ssh\terminal\terminal.go,\vendor\golang.org\x\crypto\ssh\terminal\terminal.go,49f9ec5e4d2d0d023c45ae3beddd45b8,cc9d4f94952ed1fa0818f5cc03d97f29,5236933119222574991,5381048320250441357,6,N,715,711,688
+util.go,util.go,\ssh\terminal\util.go,\vendor\golang.org\x\crypto\ssh\terminal\util.go,518f70468d89951a341a7e5f0f5dbbde,518f70468d89951a341a7e5f0f5dbbde,-6615345185875579791,-6615345185875579791,0,Y,65,65,65
+util_plan9.go,util_plan9.go,\ssh\terminal\util_plan9.go,\vendor\golang.org\x\crypto\ssh\terminal\util_plan9.go,ac8fbfc42eb63727cf861298ca2a3b5e,ac8fbfc42eb63727cf861298ca2a3b5e,1297249608793026691,1297249608793026691,0,Y,24,24,24
+util_solaris.go,util_solaris.go,\ssh\terminal\util_solaris.go,\vendor\golang.org\x\crypto\ssh\terminal\util_solaris.go,ddb87f23d8c76592251ddbc1864b9486,ddb87f23d8c76592251ddbc1864b9486,-4733116033719942031,-4733116033719942031,0,Y,86,86,86
+util_windows.go,util_windows.go,\ssh\terminal\util_windows.go,\vendor\golang.org\x\crypto\ssh\terminal\util_windows.go,4f6345ba7ed866eee5abf19317de231c,4f6345ba7ed866eee5abf19317de231c,-4178626869989722101,-4178626869989722101,0,Y,62,62,62
